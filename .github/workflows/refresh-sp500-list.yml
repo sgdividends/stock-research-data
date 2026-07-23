@@ -1,0 +1,31 @@
+name: Refresh S&P 500 constituent list
+
+on:
+  schedule:
+    - cron: "0 6 1 1,4,7,10 *"  # quarterly: Jan/Apr/Jul/Oct 1st, 06:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch current S&P 500 constituents
+        run: python scripts/fetch_sp500_constituents.py
+
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh S&P 500 constituent list [automated]"
+          file_pattern: "tickers.json"
