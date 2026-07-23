@@ -1,0 +1,112 @@
+name: Refresh fundamentals
+
+# Two paths, mutually exclusive:
+#   A) tickers input given         -> single job, no sharding needed
+#   B) tickers input blank         -> shard tickers.json across a matrix
+#
+# Path B writes each shard's output to a build artifact (NOT a direct
+# git push) because multiple matrix jobs pushing to the same branch at
+# the same time race each other -- second push fails as non-fast-forward.
+# A separate merge job downloads every shard's artifact and does exactly
+# ONE commit at the end. This is the standard safe pattern for "N parallel
+# jobs write files, one job commits them."
+
+on:
+  schedule:
+    - cron: "0 6 1 * *"  # 1st of each month, 06:00 UTC
+  workflow_dispatch:
+    inputs:
+      tickers:
+        description: "Space-separated tickers to refresh directly, bypassing sharding (blank = shard across all of tickers.json)"
+        required: false
+        default: ""
+      shard_count:
+        description: "Parallel shards when tickers is blank (kept <=20 to stay inside the free plan's concurrent-job cap)"
+        required: false
+        default: "10"
+
+permissions:
+  contents: write
+
+jobs:
+  # ---- Path A: explicit ticker list -- single job, commits directly ----
+  refresh-manual:
+    if: ${{ github.event.inputs.tickers != '' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - run: python scripts/refresh_fundamentals.py ${{ github.event.inputs.tickers }}
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh fundamentals (manual list) [automated]"
+          file_pattern: "data/**/dcf_inputs.json data/**/historical_multiples.json"
+
+  # ---- Path B: shard tickers.json across a matrix ----
+  compute-shards:
+    if: ${{ github.event.inputs.tickers == '' }}
+    runs-on: ubuntu-latest
+    outputs:
+      shards: ${{ steps.gen.outputs.shards }}
+    steps:
+      - id: gen
+        env:
+          COUNT: ${{ github.event.inputs.shard_count || '10' }}
+        run: |
+          python3 -c "import json, os; print('shards=' + json.dumps(list(range(int(os.environ['COUNT'])))))" >> "$GITHUB_OUTPUT"
+
+  refresh-shard:
+    needs: compute-shards
+    if: ${{ github.event.inputs.tickers == '' }}
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 20
+      matrix:
+        shard: ${{ fromJson(needs.compute-shards.outputs.shards) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+
+      - name: Refresh this shard's tickers
+        env:
+          SHARD_INDEX: ${{ matrix.shard }}
+          SHARD_COUNT: ${{ github.event.inputs.shard_count || '10' }}
+        run: python scripts/refresh_fundamentals.py
+
+      - name: Upload this shard's output as an artifact (not a direct push)
+        uses: actions/upload-artifact@v4
+        with:
+          name: fundamentals-shard-${{ matrix.shard }}
+          path: data/
+          retention-days: 1
+
+  merge-shards:
+    needs: refresh-shard
+    if: ${{ github.event.inputs.tickers == '' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download every shard's output into one directory
+        uses: actions/download-artifact@v4
+        with:
+          pattern: fundamentals-shard-*
+          path: shard-output
+          merge-multiple: true
+
+      - name: Merge shard output into data/
+        run: |
+          mkdir -p data
+          cp -r shard-output/* data/
+
+      - name: Commit and push (single commit for all shards)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh fundamentals (all shards merged) [automated]"
+          file_pattern: "data/**/dcf_inputs.json data/**/historical_multiples.json"
