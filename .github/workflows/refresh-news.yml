@@ -1,0 +1,36 @@
+name: Refresh news
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"  # every 4 hours
+  workflow_dispatch:
+    inputs:
+      tickers:
+        description: "Space-separated tickers (blank = use tickers.json)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run news refresh
+        run: python scripts/refresh_news.py ${{ github.event.inputs.tickers }}
+
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh news [automated]"
+          file_pattern: "data/**/news.json"
