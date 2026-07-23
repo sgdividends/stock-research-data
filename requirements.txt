@@ -1,0 +1,5 @@
+yfinance>=0.2.40
+pandas>=2.0
+pandas-ta>=0.3.14b0
+numpy<2.0
+lxml>=5.0
