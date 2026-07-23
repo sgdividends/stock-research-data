@@ -1,0 +1,16 @@
+{
+  "ticker": "MSFT",
+  "price": 381.58,
+  "beta": 1.13,
+  "market_cap": 2834542100480,
+  "ocf_ttm": 170141000000.0,
+  "capex_ttm": 97225000000.0,
+  "da_ttm": 43629000000.0,
+  "sbc_est": null,
+  "cash": 78227996672,
+  "debt": 125431996416,
+  "shares": 7428434704,
+  "rev_cagr": 0.1242,
+  "latest_rev_yoy": 0.183,
+  "last_updated": "2026-07-23 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

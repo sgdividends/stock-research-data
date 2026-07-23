@@ -1,0 +1,16 @@
+{
+  "ticker": "CPRT",
+  "price": 27.2,
+  "beta": 1.023,
+  "market_cap": 26201989120,
+  "ocf_ttm": 1685427000.0,
+  "capex_ttm": 346194000.0,
+  "da_ttm": 222941000.0,
+  "sbc_est": null,
+  "cash": 4199712000,
+  "debt": 93116000,
+  "shares": 963308388,
+  "rev_cagr": 0.099,
+  "latest_rev_yoy": 0.021,
+  "last_updated": "2026-07-23 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

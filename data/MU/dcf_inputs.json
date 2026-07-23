@@ -1,0 +1,16 @@
+{
+  "ticker": "MU",
+  "price": 990.21,
+  "beta": 2.142,
+  "market_cap": 1118336450560,
+  "ocf_ttm": 51432000000.0,
+  "capex_ttm": 25260000000.0,
+  "da_ttm": 9011000000.0,
+  "sbc_est": null,
+  "cash": 26022000640,
+  "debt": 6376000000,
+  "shares": 1129393151,
+  "rev_cagr": 0.0671,
+  "latest_rev_yoy": 3.457,
+  "last_updated": "2026-07-23 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

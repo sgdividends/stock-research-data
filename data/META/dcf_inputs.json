@@ -1,0 +1,16 @@
+{
+  "ticker": "META",
+  "price": 606.1,
+  "beta": 1.246,
+  "market_cap": 1538538340352,
+  "ocf_ttm": 124000000000.0,
+  "capex_ttm": 75747000000.0,
+  "da_ttm": 20715000000.0,
+  "sbc_est": null,
+  "cash": 81180000256,
+  "debt": 86769000448,
+  "shares": 2538423304,
+  "rev_cagr": 0.1989,
+  "latest_rev_yoy": 0.331,
+  "last_updated": "2026-07-23 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "NVDA",
+  "price": 208.76,
+  "beta": 2.211,
+  "market_cap": 5056375554048,
+  "ocf_ttm": 125648000000.0,
+  "capex_ttm": 6572000000.0,
+  "da_ttm": 3229000000.0,
+  "sbc_est": null,
+  "cash": 53171998720,
+  "debt": 12814000128,
+  "shares": 24221000000,
+  "rev_cagr": 1.0005,
+  "latest_rev_yoy": 0.852,
+  "last_updated": "2026-07-23 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

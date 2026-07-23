@@ -1,0 +1,16 @@
+{
+  "ticker": "AAPL",
+  "price": 321.66,
+  "beta": 1.097,
+  "market_cap": 4724335050752,
+  "ocf_ttm": 140222000000.0,
+  "capex_ttm": 11048000000.0,
+  "da_ttm": 12610000000.0,
+  "sbc_est": null,
+  "cash": 68507000832,
+  "debt": 84710998016,
+  "shares": 14687356000,
+  "rev_cagr": 0.0181,
+  "latest_rev_yoy": 0.166,
+  "last_updated": "2026-07-23 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "AMZN",
+  "price": 233.66,
+  "beta": 1.461,
+  "market_cap": 2513506402304,
+  "ocf_ttm": 148531000000.0,
+  "capex_ttm": 151003000000.0,
+  "da_ttm": 70439000000.0,
+  "sbc_est": null,
+  "cash": 143088992256,
+  "debt": 235540004864,
+  "shares": 10757109436,
+  "rev_cagr": 0.1173,
+  "latest_rev_yoy": 0.166,
+  "last_updated": "2026-07-23 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}
