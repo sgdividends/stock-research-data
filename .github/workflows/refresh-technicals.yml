@@ -1,0 +1,39 @@
+name: Refresh technicals
+
+on:
+  schedule:
+    - cron: "0 6 * * 2-6"  # 06:00 UTC Tue-Sat = after each US trading day settles
+  workflow_dispatch:
+    inputs:
+      tickers:
+        description: "Space-separated tickers (blank = use tickers.json)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run technicals refresh
+        run: python scripts/refresh_technicals.py ${{ github.event.inputs.tickers }}
+
+      - name: Build cross-sectional screener rollup
+        run: python scripts/build_screener.py
+
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh technicals + screener [automated]"
+          file_pattern: "data/**/technicals.json data/_screener.json"
