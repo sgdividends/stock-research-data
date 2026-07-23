@@ -1,0 +1,259 @@
+{
+  "generated_at": "2026-07-23T23:54:22.385235+00:00",
+  "universe_size": 8,
+  "most_oversold_rsi": [
+    {
+      "ticker": "GOOGL",
+      "rsi_14_pctile_1y": 1.7,
+      "close": 317.69
+    },
+    {
+      "ticker": "AMZN",
+      "rsi_14_pctile_1y": 12.2,
+      "close": 233.66
+    },
+    {
+      "ticker": "MU",
+      "rsi_14_pctile_1y": 20.2,
+      "close": 990.21
+    },
+    {
+      "ticker": "CPRT",
+      "rsi_14_pctile_1y": 31.5,
+      "close": 27.2
+    },
+    {
+      "ticker": "META",
+      "rsi_14_pctile_1y": 42.0,
+      "close": 606.1
+    },
+    {
+      "ticker": "MSFT",
+      "rsi_14_pctile_1y": 42.4,
+      "close": 381.58
+    },
+    {
+      "ticker": "AAPL",
+      "rsi_14_pctile_1y": 47.1,
+      "close": 321.66
+    },
+    {
+      "ticker": "NVDA",
+      "rsi_14_pctile_1y": 57.6,
+      "close": 208.76
+    }
+  ],
+  "most_overbought_rsi": [
+    {
+      "ticker": "NVDA",
+      "rsi_14_pctile_1y": 57.6,
+      "close": 208.76
+    },
+    {
+      "ticker": "AAPL",
+      "rsi_14_pctile_1y": 47.1,
+      "close": 321.66
+    },
+    {
+      "ticker": "MSFT",
+      "rsi_14_pctile_1y": 42.4,
+      "close": 381.58
+    },
+    {
+      "ticker": "META",
+      "rsi_14_pctile_1y": 42.0,
+      "close": 606.1
+    },
+    {
+      "ticker": "CPRT",
+      "rsi_14_pctile_1y": 31.5,
+      "close": 27.2
+    },
+    {
+      "ticker": "MU",
+      "rsi_14_pctile_1y": 20.2,
+      "close": 990.21
+    },
+    {
+      "ticker": "AMZN",
+      "rsi_14_pctile_1y": 12.2,
+      "close": 233.66
+    },
+    {
+      "ticker": "GOOGL",
+      "rsi_14_pctile_1y": 1.7,
+      "close": 317.69
+    }
+  ],
+  "most_below_bollinger": [
+    {
+      "ticker": "GOOGL",
+      "bb_pctb_pctile_1y": 0.0,
+      "close": 317.69
+    },
+    {
+      "ticker": "AMZN",
+      "bb_pctb_pctile_1y": 12.1,
+      "close": 233.66
+    },
+    {
+      "ticker": "MU",
+      "bb_pctb_pctile_1y": 22.4,
+      "close": 990.21
+    },
+    {
+      "ticker": "CPRT",
+      "bb_pctb_pctile_1y": 40.5,
+      "close": 27.2
+    },
+    {
+      "ticker": "AAPL",
+      "bb_pctb_pctile_1y": 45.3,
+      "close": 321.66
+    },
+    {
+      "ticker": "META",
+      "bb_pctb_pctile_1y": 52.2,
+      "close": 606.1
+    },
+    {
+      "ticker": "MSFT",
+      "bb_pctb_pctile_1y": 54.7,
+      "close": 381.58
+    },
+    {
+      "ticker": "NVDA",
+      "bb_pctb_pctile_1y": 72.8,
+      "close": 208.76
+    }
+  ],
+  "most_above_bollinger": [
+    {
+      "ticker": "NVDA",
+      "bb_pctb_pctile_1y": 72.8,
+      "close": 208.76
+    },
+    {
+      "ticker": "MSFT",
+      "bb_pctb_pctile_1y": 54.7,
+      "close": 381.58
+    },
+    {
+      "ticker": "META",
+      "bb_pctb_pctile_1y": 52.2,
+      "close": 606.1
+    },
+    {
+      "ticker": "AAPL",
+      "bb_pctb_pctile_1y": 45.3,
+      "close": 321.66
+    },
+    {
+      "ticker": "CPRT",
+      "bb_pctb_pctile_1y": 40.5,
+      "close": 27.2
+    },
+    {
+      "ticker": "MU",
+      "bb_pctb_pctile_1y": 22.4,
+      "close": 990.21
+    },
+    {
+      "ticker": "AMZN",
+      "bb_pctb_pctile_1y": 12.1,
+      "close": 233.66
+    },
+    {
+      "ticker": "GOOGL",
+      "bb_pctb_pctile_1y": 0.0,
+      "close": 317.69
+    }
+  ],
+  "furthest_below_sma200": [
+    {
+      "ticker": "CPRT",
+      "sma_200_pct_from_price": -25.09,
+      "close": 27.2
+    },
+    {
+      "ticker": "MSFT",
+      "sma_200_pct_from_price": -12.65,
+      "close": 381.58
+    },
+    {
+      "ticker": "META",
+      "sma_200_pct_from_price": -5.1,
+      "close": 606.1
+    },
+    {
+      "ticker": "GOOGL",
+      "sma_200_pct_from_price": -1.81,
+      "close": 317.69
+    },
+    {
+      "ticker": "AMZN",
+      "sma_200_pct_from_price": -0.37,
+      "close": 233.66
+    },
+    {
+      "ticker": "NVDA",
+      "sma_200_pct_from_price": 8.28,
+      "close": 208.76
+    },
+    {
+      "ticker": "AAPL",
+      "sma_200_pct_from_price": 16.71,
+      "close": 321.66
+    },
+    {
+      "ticker": "MU",
+      "sma_200_pct_from_price": 98.67,
+      "close": 990.21
+    }
+  ],
+  "furthest_above_sma200": [
+    {
+      "ticker": "MU",
+      "sma_200_pct_from_price": 98.67,
+      "close": 990.21
+    },
+    {
+      "ticker": "AAPL",
+      "sma_200_pct_from_price": 16.71,
+      "close": 321.66
+    },
+    {
+      "ticker": "NVDA",
+      "sma_200_pct_from_price": 8.28,
+      "close": 208.76
+    },
+    {
+      "ticker": "AMZN",
+      "sma_200_pct_from_price": -0.37,
+      "close": 233.66
+    },
+    {
+      "ticker": "GOOGL",
+      "sma_200_pct_from_price": -1.81,
+      "close": 317.69
+    },
+    {
+      "ticker": "META",
+      "sma_200_pct_from_price": -5.1,
+      "close": 606.1
+    },
+    {
+      "ticker": "MSFT",
+      "sma_200_pct_from_price": -12.65,
+      "close": 381.58
+    },
+    {
+      "ticker": "CPRT",
+      "sma_200_pct_from_price": -25.09,
+      "close": 27.2
+    }
+  ],
+  "bullish_macd_count": 4,
+  "bearish_macd_count": 4,
+  "note": "Rankings are each ticker's own trailing-1yr RSI/%%B percentile (how extreme vs its OWN history), not a cross-sectional rank vs the rest of the universe on the same day -- sma_200_pct_from_price columns ARE directly cross-sectional (plain %% distance) though. Use this file for 'which names look extreme' screens; fetch the individual data/{TICKER}/*.json files for a full single-name brief."
+}
