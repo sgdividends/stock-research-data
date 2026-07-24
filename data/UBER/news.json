@@ -1,7 +1,14 @@
 {
   "ticker": "UBER",
-  "generated_at": "2026-07-24T17:25:33.516971+00:00",
+  "generated_at": "2026-07-24T20:58:26.353756+00:00",
   "items": [
+    {
+      "title": "Uber under pressure: Waymo partnership on the brink",
+      "summary": "Investing.com -- Uber Technologies (NYSE: UBER) shares skidded 4% on Friday, with losses accelerating in the final hour of trading following a revealing Financial Times report that Alphabet\u2019s Waymo is eyeing the exit ramp on their alliance. According to the report, the self-driving car company is holding internal discussions about terminating its current agreements with the ride-hailing giant, which presently include joint operations in Austin and Atlanta. The Breakdown Uber has confirmed the fr",
+      "pub_date": "2026-07-24T19:58:11Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/articles/uber-under-pressure-waymo-partnership-195811870.html"
+    },
     {
       "title": "Do Uber AI Layoffs More American Jobs At Risk?",
       "summary": "Uber just cut a chunk of its customer service workforce in the name of AI efficiency, and it is far from alone. The real question is whether these scattered layoffs signal the early edge of a wave that could reshape employment across entire industries.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-23T17:02:27Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/uber-cuts-10-customer-jobs-170227990.html"
-    },
-    {
-      "title": "CloudKitchens owner raises $1.7B to automate restaurants and more",
-      "summary": "The funding for Travis Kalanick's Atoms was led by Andreessen Horowitz and included support from Uber, Kalanick's previous venture.",
-      "pub_date": "2026-07-23T15:23:54Z",
-      "source": "Nation's Restaurant News",
-      "url": "https://finance.yahoo.com/technology/articles/cloudkitchens-owner-raises-1-7b-152354562.html"
     }
   ]
 }

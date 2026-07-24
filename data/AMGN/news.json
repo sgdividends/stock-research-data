@@ -1,7 +1,14 @@
 {
   "ticker": "AMGN",
-  "generated_at": "2026-07-24T17:24:29.924283+00:00",
+  "generated_at": "2026-07-24T20:57:25.370092+00:00",
   "items": [
+    {
+      "title": "3 Dow Jones Stocks with Solid Fundamentals",
+      "summary": "The Dow Jones (^DJI) is packed with iconic businesses that have built strong brands and durable market positions. A select few continue to thrive, delivering solid returns and proving their resilience in an evolving market.",
+      "pub_date": "2026-07-24T17:45:08Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-dow-jones-stocks-solid-174508840.html"
+    },
     {
       "title": "Sanofi halts development of troubled immune drug in eczema",
       "summary": "The decision to no longer seek approval of amlitelimab is the latest setback for a treatment once hailed as a future blockbuster. One analyst expects Sanofi to now pursue \u201cstrategic action\u201d to boost its pipeline.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-22T13:17:27Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/healthcare/articles/lly-momentum-price-131727142.html"
-    },
-    {
-      "title": "How retirees are earning $0.18 monthly per share without options risk",
-      "summary": "DIVO quietly hands retirees a monthly check from a portfolio of blue-chip giants, but a 150% payout ratio and a debt-laden pharma holding raise fair questions about what is actually backing that income.",
-      "pub_date": "2026-07-22T13:06:30Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/options/articles/retirees-earning-0-18-monthly-130630676.html"
     }
   ]
 }

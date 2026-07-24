@@ -1,7 +1,14 @@
 {
   "ticker": "NDAQ",
-  "generated_at": "2026-07-24T17:25:14.540513+00:00",
+  "generated_at": "2026-07-24T20:58:08.199952+00:00",
   "items": [
+    {
+      "title": "Institutional Crypto Firm LMAX Considers Holding IPO",
+      "summary": "Institutional cryptocurrency trading platform LMAX Group is considering going public.",
+      "pub_date": "2026-07-24T18:13:00Z",
+      "source": "CryptoProwl",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/institutional-crypto-firm-lmax-considers-181300634.html"
+    },
     {
       "title": "Nasdaq's Growth Outlook Supported by AI, Capital Markets Recovery, Morgan Stanley Says",
       "summary": "Nasdaq (NDAQ) is well-positioned for sustained earnings growth, driven by a recovering capital marke",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-23T17:06:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ndaq-q2-earnings-beat-estimates-170600600.html"
-    },
-    {
-      "title": "Nasdaq Tightens Rules, Nearly 180 Microcap Stocks Face Delisting Risk",
-      "summary": "SEC-approved rule accelerates delistings for Nasdaq companies valued below $5 million for 30 consecutive days.",
-      "pub_date": "2026-07-23T17:01:20Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-tightens-rules-nearly-180-170120688.html"
     }
   ]
 }

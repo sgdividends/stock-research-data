@@ -1,7 +1,14 @@
 {
   "ticker": "MCD",
-  "generated_at": "2026-07-24T17:25:10.399783+00:00",
+  "generated_at": "2026-07-24T20:58:03.943108+00:00",
   "items": [
+    {
+      "title": "Food news latest: Coors Light & Cheez-It team up, 19M eggs recalled for potential salmonella",
+      "summary": "Yahoo Finance Senior Reporter Brooke DiPalma explains what you need to know about the recent egg recall, Lamb Weston's (LW) quarterly earnings, and Coors Light's (TAP) partnership with Cheez-It on \"beer cheese crackers.\"",
+      "pub_date": "2026-07-24T20:19:23Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/food-news-latest-coors-light--cheez-it-team-up-19m-eggs-recalled-for-potential-salmonella-201923281.html"
+    },
     {
       "title": "Do Uber AI Layoffs More American Jobs At Risk?",
       "summary": "Uber just cut a chunk of its customer service workforce in the name of AI efficiency, and it is far from alone. The real question is whether these scattered layoffs signal the early edge of a wave that could reshape employment across entire industries.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-22T15:05:08Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/starbucks-stock-down-17-five-150508901.html"
-    },
-    {
-      "title": "Can Project Fresh Stabilize Wendy's EBITDA Amid Weak Traffic?",
-      "summary": "WEN targets EBITDA stabilization as Project Fresh, value offers and stronger execution aim to offset weak traffic and cost pressure.",
-      "pub_date": "2026-07-22T14:55:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/project-fresh-stabilize-wendys-ebitda-145500311.html"
     }
   ]
 }
