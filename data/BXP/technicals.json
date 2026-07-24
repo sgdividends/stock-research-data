@@ -1,7 +1,7 @@
 {
   "ticker": "BXP",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:24:50.526437+00:00",
+  "generated_at": "2026-07-24T08:08:01.457900+00:00",
   "close": 67.84,
   "rsi_14": 54.04,
   "rsi_14_pctile_1y": 61.8,
@@ -20,8 +20,8 @@
   "bb_lower": 65.38,
   "bb_pctb": 0.485,
   "bb_pctb_pctile_1y": 48.7,
-  "atr_14": 1.72,
-  "atr_pct": 2.53,
+  "atr_14": 1.73,
+  "atr_pct": 2.55,
   "week52_high": 79.33,
   "week52_low": 49.72,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

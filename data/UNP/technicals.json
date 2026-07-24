@@ -1,7 +1,7 @@
 {
   "ticker": "UNP",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:31.171989+00:00",
+  "generated_at": "2026-07-24T08:08:40.159523+00:00",
   "close": 304.33,
   "rsi_14": 71.16,
   "rsi_14_pctile_1y": 90.3,
@@ -20,9 +20,9 @@
   "bb_lower": 265.0,
   "bb_pctb": 0.953,
   "bb_pctb_pctile_1y": 86.2,
-  "atr_14": 6.92,
-  "atr_pct": 2.27,
-  "week52_high": 315.9,
+  "atr_14": 6.93,
+  "atr_pct": 2.28,
+  "week52_high": 315.99,
   "week52_low": 210.84,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

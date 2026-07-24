@@ -1,7 +1,7 @@
 {
   "ticker": "AMP",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:24:50.132553+00:00",
+  "generated_at": "2026-07-24T08:08:01.038136+00:00",
   "close": 520.11,
   "rsi_14": 63.12,
   "rsi_14_pctile_1y": 86.6,
@@ -20,8 +20,8 @@
   "bb_lower": 445.11,
   "bb_pctb": 0.671,
   "bb_pctb_pctile_1y": 64.2,
-  "atr_14": 12.98,
-  "atr_pct": 2.5,
+  "atr_14": 13.1,
+  "atr_pct": 2.52,
   "week52_high": 550.18,
   "week52_low": 422.37,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

@@ -1,7 +1,7 @@
 {
   "ticker": "TFC",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:30.924313+00:00",
+  "generated_at": "2026-07-24T08:08:39.908746+00:00",
   "close": 51.2,
   "rsi_14": 51.55,
   "rsi_14_pctile_1y": 46.2,
@@ -21,7 +21,7 @@
   "bb_pctb": 0.462,
   "bb_pctb_pctile_1y": 36.2,
   "atr_14": 1.19,
-  "atr_pct": 2.32,
+  "atr_pct": 2.31,
   "week52_high": 56.2,
   "week52_low": 40.78,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

@@ -1,7 +1,7 @@
 {
   "ticker": "ANET",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:24:50.159760+00:00",
+  "generated_at": "2026-07-24T08:08:01.067515+00:00",
   "close": 176.61,
   "rsi_14": 55.23,
   "rsi_14_pctile_1y": 59.7,
@@ -20,8 +20,8 @@
   "bb_lower": 156.4,
   "bb_pctb": 0.639,
   "bb_pctb_pctile_1y": 59.5,
-  "atr_14": 9.52,
-  "atr_pct": 5.39,
+  "atr_14": 9.54,
+  "atr_pct": 5.4,
   "week52_high": 189.82,
   "week52_low": 112.8,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

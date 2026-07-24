@@ -1,7 +1,7 @@
 {
   "ticker": "ODFL",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:20.908243+00:00",
+  "generated_at": "2026-07-24T08:08:28.235417+00:00",
   "close": 230.71,
   "rsi_14": 54.05,
   "rsi_14_pctile_1y": 52.9,
@@ -20,8 +20,8 @@
   "bb_lower": 210.85,
   "bb_pctb": 0.696,
   "bb_pctb_pctile_1y": 58.2,
-  "atr_14": 7.11,
-  "atr_pct": 3.08,
+  "atr_14": 7.2,
+  "atr_pct": 3.12,
   "week52_high": 252.03,
   "week52_low": 126.01,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

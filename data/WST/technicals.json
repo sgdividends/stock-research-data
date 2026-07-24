@@ -1,7 +1,7 @@
 {
   "ticker": "WST",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:31.456686+00:00",
+  "generated_at": "2026-07-24T08:08:40.496997+00:00",
   "close": 355.48,
   "rsi_14": 56.18,
   "rsi_14_pctile_1y": 58.4,
@@ -20,9 +20,9 @@
   "bb_lower": 348.28,
   "bb_pctb": 0.406,
   "bb_pctb_pctile_1y": 16.8,
-  "atr_14": 9.97,
-  "atr_pct": 2.8,
-  "week52_high": 382.4,
+  "atr_14": 10.22,
+  "atr_pct": 2.88,
+  "week52_high": 386.0,
   "week52_low": 223.83,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

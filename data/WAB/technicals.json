@@ -1,7 +1,7 @@
 {
   "ticker": "WAB",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:31.337106+00:00",
+  "generated_at": "2026-07-24T08:08:40.349902+00:00",
   "close": 297.99,
   "rsi_14": 73.35,
   "rsi_14_pctile_1y": 93.7,
@@ -22,7 +22,7 @@
   "bb_pctb_pctile_1y": 99.1,
   "atr_14": 8.59,
   "atr_pct": 2.88,
-  "week52_high": 298.14,
+  "week52_high": 298.15,
   "week52_low": 184.26,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

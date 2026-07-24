@@ -1,7 +1,7 @@
 {
   "ticker": "FTV",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:01.067761+00:00",
+  "generated_at": "2026-07-24T08:08:07.370567+00:00",
   "close": 60.62,
   "rsi_14": 47.23,
   "rsi_14_pctile_1y": 24.4,
@@ -20,8 +20,8 @@
   "bb_lower": 59.79,
   "bb_pctb": 0.24,
   "bb_pctb_pctile_1y": 11.2,
-  "atr_14": 1.39,
-  "atr_pct": 2.29,
+  "atr_14": 1.46,
+  "atr_pct": 2.41,
   "week52_high": 64.33,
   "week52_low": 46.34,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

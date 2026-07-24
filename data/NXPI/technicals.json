@@ -1,7 +1,7 @@
 {
   "ticker": "NXPI",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:20.889987+00:00",
+  "generated_at": "2026-07-24T08:08:28.216295+00:00",
   "close": 277.29,
   "rsi_14": 46.6,
   "rsi_14_pctile_1y": 37.0,
@@ -20,8 +20,8 @@
   "bb_lower": 263.51,
   "bb_pctb": 0.441,
   "bb_pctb_pctile_1y": 45.7,
-  "atr_14": 13.06,
-  "atr_pct": 4.71,
+  "atr_14": 13.12,
+  "atr_pct": 4.73,
   "week52_high": 339.95,
   "week52_low": 183.0,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

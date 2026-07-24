@@ -1,7 +1,7 @@
 {
   "ticker": "PSA",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:21.192587+00:00",
+  "generated_at": "2026-07-24T08:08:28.523503+00:00",
   "close": 315.01,
   "rsi_14": 47.8,
   "rsi_14_pctile_1y": 34.0,
@@ -20,8 +20,8 @@
   "bb_lower": 310.07,
   "bb_pctb": 0.244,
   "bb_pctb_pctile_1y": 23.3,
-  "atr_14": 6.91,
-  "atr_pct": 2.19,
+  "atr_14": 7.01,
+  "atr_pct": 2.22,
   "week52_high": 331.79,
   "week52_low": 256.54,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

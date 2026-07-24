@@ -1,7 +1,7 @@
 {
   "ticker": "CMG",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:24:50.769829+00:00",
+  "generated_at": "2026-07-24T08:08:01.714091+00:00",
   "close": 32.01,
   "rsi_14": 42.72,
   "rsi_14_pctile_1y": 39.1,
@@ -20,8 +20,8 @@
   "bb_lower": 31.57,
   "bb_pctb": 0.088,
   "bb_pctb_pctile_1y": 13.8,
-  "atr_14": 1.28,
-  "atr_pct": 4.01,
+  "atr_14": 1.29,
+  "atr_pct": 4.02,
   "week52_high": 47.18,
   "week52_low": 28.04,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

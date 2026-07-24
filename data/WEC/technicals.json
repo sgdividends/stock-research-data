@@ -1,7 +1,7 @@
 {
   "ticker": "WEC",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:31.383117+00:00",
+  "generated_at": "2026-07-24T08:08:40.423439+00:00",
   "close": 114.72,
   "rsi_14": 50.94,
   "rsi_14_pctile_1y": 51.3,
@@ -20,8 +20,8 @@
   "bb_lower": 111.49,
   "bb_pctb": 0.398,
   "bb_pctb_pctile_1y": 36.6,
-  "atr_14": 2.15,
-  "atr_pct": 1.88,
+  "atr_14": 2.18,
+  "atr_pct": 1.9,
   "week52_high": 119.91,
   "week52_low": 102.95,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

@@ -1,7 +1,7 @@
 {
   "ticker": "VTR",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:31.309647+00:00",
+  "generated_at": "2026-07-24T08:08:40.308465+00:00",
   "close": 97.92,
   "rsi_14": 72.56,
   "rsi_14_pctile_1y": 89.5,
@@ -22,7 +22,7 @@
   "bb_pctb_pctile_1y": 82.8,
   "atr_14": 1.97,
   "atr_pct": 2.01,
-  "week52_high": 98.83,
+  "week52_high": 98.84,
   "week52_low": 65.15,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

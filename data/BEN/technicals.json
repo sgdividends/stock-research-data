@@ -1,7 +1,7 @@
 {
   "ticker": "BEN",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:24:50.387832+00:00",
+  "generated_at": "2026-07-24T08:08:01.310640+00:00",
   "close": 32.29,
   "rsi_14": 45.03,
   "rsi_14_pctile_1y": 27.3,
@@ -21,7 +21,7 @@
   "bb_pctb": 0.132,
   "bb_pctb_pctile_1y": 16.4,
   "atr_14": 0.89,
-  "atr_pct": 2.75,
+  "atr_pct": 2.76,
   "week52_high": 34.92,
   "week52_low": 21.11,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

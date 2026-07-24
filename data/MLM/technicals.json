@@ -1,7 +1,7 @@
 {
   "ticker": "MLM",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:20.547004+00:00",
+  "generated_at": "2026-07-24T08:08:27.867589+00:00",
   "close": 546.87,
   "rsi_14": 38.46,
   "rsi_14_pctile_1y": 12.2,
@@ -20,8 +20,8 @@
   "bb_lower": 534.48,
   "bb_pctb": 0.144,
   "bb_pctb_pctile_1y": 15.1,
-  "atr_14": 16.7,
-  "atr_pct": 3.05,
+  "atr_14": 16.71,
+  "atr_pct": 3.06,
   "week52_high": 710.97,
   "week52_low": 525.38,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

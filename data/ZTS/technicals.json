@@ -1,7 +1,7 @@
 {
   "ticker": "ZTS",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:31.970707+00:00",
+  "generated_at": "2026-07-24T08:08:40.725794+00:00",
   "close": 74.57,
   "rsi_14": 42.09,
   "rsi_14_pctile_1y": 47.5,
@@ -20,8 +20,8 @@
   "bb_lower": 72.23,
   "bb_pctb": 0.411,
   "bb_pctb_pctile_1y": 53.4,
-  "atr_14": 2.37,
-  "atr_pct": 3.18,
+  "atr_14": 2.38,
+  "atr_pct": 3.19,
   "week52_high": 160.48,
   "week52_low": 71.47,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

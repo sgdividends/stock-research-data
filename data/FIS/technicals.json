@@ -1,7 +1,7 @@
 {
   "ticker": "FIS",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:00.975924+00:00",
+  "generated_at": "2026-07-24T08:08:07.278204+00:00",
   "close": 40.04,
   "rsi_14": 45.17,
   "rsi_14_pctile_1y": 63.0,
@@ -21,7 +21,7 @@
   "bb_pctb": 0.348,
   "bb_pctb_pctile_1y": 48.3,
   "atr_14": 1.4,
-  "atr_pct": 3.49,
+  "atr_pct": 3.5,
   "week52_high": 82.62,
   "week52_low": 37.42,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

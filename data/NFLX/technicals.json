@@ -1,7 +1,7 @@
 {
   "ticker": "NFLX",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:20.761048+00:00",
+  "generated_at": "2026-07-24T08:08:28.079943+00:00",
   "close": 68.89,
   "rsi_14": 33.69,
   "rsi_14_pctile_1y": 30.7,
@@ -20,7 +20,7 @@
   "bb_lower": 67.04,
   "bb_pctb": 0.16,
   "bb_pctb_pctile_1y": 31.5,
-  "atr_14": 2.62,
+  "atr_14": 2.63,
   "atr_pct": 3.81,
   "week52_high": 126.71,
   "week52_low": 65.08,

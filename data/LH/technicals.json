@@ -1,7 +1,7 @@
 {
   "ticker": "LH",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:10.912351+00:00",
+  "generated_at": "2026-07-24T08:08:17.464572+00:00",
   "close": 291.02,
   "rsi_14": 67.33,
   "rsi_14_pctile_1y": 95.4,
@@ -22,7 +22,7 @@
   "bb_pctb_pctile_1y": 92.2,
   "atr_14": 7.76,
   "atr_pct": 2.67,
-  "week52_high": 298.45,
+  "week52_high": 298.46,
   "week52_low": 244.52,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "DGX",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:00.481304+00:00",
+  "generated_at": "2026-07-24T08:08:06.781182+00:00",
   "close": 227.9,
   "rsi_14": 72.16,
   "rsi_14_pctile_1y": 96.6,
@@ -22,7 +22,7 @@
   "bb_pctb_pctile_1y": 99.6,
   "atr_14": 6.7,
   "atr_pct": 2.94,
-  "week52_high": 237.7,
+  "week52_high": 237.78,
   "week52_low": 165.78,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

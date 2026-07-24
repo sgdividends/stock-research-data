@@ -1,7 +1,7 @@
 {
   "ticker": "FFIV",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:00.957506+00:00",
+  "generated_at": "2026-07-24T08:08:07.259834+00:00",
   "close": 388.08,
   "rsi_14": 41.13,
   "rsi_14_pctile_1y": 14.3,
@@ -20,8 +20,8 @@
   "bb_lower": 386.89,
   "bb_pctb": 0.023,
   "bb_pctb_pctile_1y": 3.0,
-  "atr_14": 13.76,
-  "atr_pct": 3.55,
+  "atr_14": 13.85,
+  "atr_pct": 3.57,
   "week52_high": 435.0,
   "week52_low": 223.76,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

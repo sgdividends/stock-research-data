@@ -1,7 +1,7 @@
 {
   "ticker": "BLK",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:24:50.453180+00:00",
+  "generated_at": "2026-07-24T08:08:01.378660+00:00",
   "close": 1037.16,
   "rsi_14": 50.95,
   "rsi_14_pctile_1y": 49.6,
@@ -20,8 +20,8 @@
   "bb_lower": 938.06,
   "bb_pctb": 0.61,
   "bb_pctb_pctile_1y": 58.2,
-  "atr_14": 29.4,
-  "atr_pct": 2.83,
+  "atr_14": 29.41,
+  "atr_pct": 2.84,
   "week52_high": 1219.94,
   "week52_low": 917.39,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

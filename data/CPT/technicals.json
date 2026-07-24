@@ -1,7 +1,7 @@
 {
   "ticker": "CPT",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:00.268777+00:00",
+  "generated_at": "2026-07-24T08:08:06.569857+00:00",
   "close": 112.84,
   "rsi_14": 50.14,
   "rsi_14_pctile_1y": 47.9,
@@ -21,7 +21,7 @@
   "bb_pctb": 0.304,
   "bb_pctb_pctile_1y": 27.2,
   "atr_14": 2.09,
-  "atr_pct": 1.85,
+  "atr_pct": 1.86,
   "week52_high": 119.81,
   "week52_low": 96.53,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

@@ -1,7 +1,7 @@
 {
   "ticker": "FDX",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:00.930307+00:00",
+  "generated_at": "2026-07-24T08:08:07.232363+00:00",
   "close": 315.62,
   "rsi_14": 49.16,
   "rsi_14_pctile_1y": 26.5,
@@ -20,8 +20,8 @@
   "bb_lower": 304.62,
   "bb_pctb": 0.526,
   "bb_pctb_pctile_1y": 33.2,
-  "atr_14": 8.81,
-  "atr_pct": 2.79,
+  "atr_14": 8.83,
+  "atr_pct": 2.8,
   "week52_high": 345.37,
   "week52_low": 174.13,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

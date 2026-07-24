@@ -1,7 +1,7 @@
 {
   "ticker": "KIM",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:10.811051+00:00",
+  "generated_at": "2026-07-24T08:08:17.364239+00:00",
   "close": 25.74,
   "rsi_14": 56.37,
   "rsi_14_pctile_1y": 61.8,
@@ -21,7 +21,7 @@
   "bb_pctb": 0.644,
   "bb_pctb_pctile_1y": 52.6,
   "atr_14": 0.43,
-  "atr_pct": 1.66,
+  "atr_pct": 1.65,
   "week52_high": 26.45,
   "week52_low": 19.76,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

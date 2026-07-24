@@ -1,7 +1,7 @@
 {
   "ticker": "ZBH",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:31.952351+00:00",
+  "generated_at": "2026-07-24T08:08:40.707019+00:00",
   "close": 89.65,
   "rsi_14": 50.76,
   "rsi_14_pctile_1y": 60.1,
@@ -21,7 +21,7 @@
   "bb_pctb": 0.477,
   "bb_pctb_pctile_1y": 50.0,
   "atr_14": 2.85,
-  "atr_pct": 3.17,
+  "atr_pct": 3.18,
   "week52_high": 108.29,
   "week52_low": 79.12,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

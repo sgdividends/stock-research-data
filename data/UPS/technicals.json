@@ -1,7 +1,7 @@
 {
   "ticker": "UPS",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:31.181158+00:00",
+  "generated_at": "2026-07-24T08:08:40.168769+00:00",
   "close": 114.1,
   "rsi_14": 55.9,
   "rsi_14_pctile_1y": 50.4,
@@ -20,8 +20,8 @@
   "bb_lower": 106.12,
   "bb_pctb": 0.667,
   "bb_pctb_pctile_1y": 49.6,
-  "atr_14": 2.92,
-  "atr_pct": 2.56,
+  "atr_14": 2.93,
+  "atr_pct": 2.57,
   "week52_high": 122.41,
   "week52_low": 82.0,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

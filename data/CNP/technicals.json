@@ -1,7 +1,7 @@
 {
   "ticker": "CNP",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:00.176893+00:00",
+  "generated_at": "2026-07-24T08:08:06.477834+00:00",
   "close": 44.23,
   "rsi_14": 56.02,
   "rsi_14_pctile_1y": 62.6,
@@ -21,7 +21,7 @@
   "bb_pctb": 0.658,
   "bb_pctb_pctile_1y": 55.6,
   "atr_14": 0.87,
-  "atr_pct": 1.96,
+  "atr_pct": 1.97,
   "week52_high": 45.22,
   "week52_low": 36.59,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

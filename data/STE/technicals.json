@@ -1,7 +1,7 @@
 {
   "ticker": "STE",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:30.758807+00:00",
+  "generated_at": "2026-07-24T08:08:39.741367+00:00",
   "close": 210.64,
   "rsi_14": 47.7,
   "rsi_14_pctile_1y": 45.0,
@@ -20,8 +20,8 @@
   "bb_lower": 207.18,
   "bb_pctb": 0.265,
   "bb_pctb_pctile_1y": 28.4,
-  "atr_14": 5.53,
-  "atr_pct": 2.62,
+  "atr_14": 5.54,
+  "atr_pct": 2.63,
   "week52_high": 269.44,
   "week52_low": 195.14,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

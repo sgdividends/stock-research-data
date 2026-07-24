@@ -1,7 +1,7 @@
 {
   "ticker": "MPWR",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:20.602150+00:00",
+  "generated_at": "2026-07-24T08:08:27.922700+00:00",
   "close": 1397.15,
   "rsi_14": 50.62,
   "rsi_14_pctile_1y": 34.5,
@@ -20,8 +20,8 @@
   "bb_lower": 1258.4,
   "bb_pctb": 0.813,
   "bb_pctb_pctile_1y": 67.2,
-  "atr_14": 85.29,
-  "atr_pct": 6.1,
+  "atr_14": 85.31,
+  "atr_pct": 6.11,
   "week52_high": 1714.09,
   "week52_low": 702.56,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

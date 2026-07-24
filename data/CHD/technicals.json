@@ -1,7 +1,7 @@
 {
   "ticker": "CHD",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:24:50.674307+00:00",
+  "generated_at": "2026-07-24T08:08:01.615291+00:00",
   "close": 96.19,
   "rsi_14": 47.67,
   "rsi_14_pctile_1y": 47.1,
@@ -20,8 +20,8 @@
   "bb_lower": 95.01,
   "bb_pctb": 0.254,
   "bb_pctb_pctile_1y": 23.3,
-  "atr_14": 2.27,
-  "atr_pct": 2.36,
+  "atr_14": 2.28,
+  "atr_pct": 2.37,
   "week52_high": 106.04,
   "week52_low": 81.33,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

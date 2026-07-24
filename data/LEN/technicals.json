@@ -1,7 +1,7 @@
 {
   "ticker": "LEN",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:10.903140+00:00",
+  "generated_at": "2026-07-24T08:08:17.455382+00:00",
   "close": 82.13,
   "rsi_14": 39.0,
   "rsi_14_pctile_1y": 25.2,
@@ -23,6 +23,6 @@
   "atr_14": 2.84,
   "atr_pct": 3.46,
   "week52_high": 144.24,
-  "week52_low": 79.82,
+  "week52_low": 79.83,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

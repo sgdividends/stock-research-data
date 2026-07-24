@@ -1,7 +1,7 @@
 {
   "ticker": "LVS",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:11.022998+00:00",
+  "generated_at": "2026-07-24T08:08:17.574690+00:00",
   "close": 46.03,
   "rsi_14": 44.24,
   "rsi_14_pctile_1y": 43.3,
@@ -20,9 +20,9 @@
   "bb_lower": 44.75,
   "bb_pctb": 0.507,
   "bb_pctb_pctile_1y": 67.2,
-  "atr_14": 1.26,
-  "atr_pct": 2.74,
+  "atr_14": 1.27,
+  "atr_pct": 2.75,
   "week52_high": 70.45,
-  "week52_low": 44.22,
+  "week52_low": 44.21,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

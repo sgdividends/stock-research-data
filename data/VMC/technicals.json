@@ -1,7 +1,7 @@
 {
   "ticker": "VMC",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:31.254436+00:00",
+  "generated_at": "2026-07-24T08:08:40.244401+00:00",
   "close": 274.93,
   "rsi_14": 38.17,
   "rsi_14_pctile_1y": 10.5,
@@ -20,8 +20,8 @@
   "bb_lower": 272.01,
   "bb_pctb": 0.069,
   "bb_pctb_pctile_1y": 9.9,
-  "atr_14": 8.73,
-  "atr_pct": 3.17,
+  "atr_14": 8.74,
+  "atr_pct": 3.18,
   "week52_high": 331.09,
   "week52_low": 252.35,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

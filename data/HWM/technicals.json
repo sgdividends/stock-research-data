@@ -1,7 +1,7 @@
 {
   "ticker": "HWM",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:10.534973+00:00",
+  "generated_at": "2026-07-24T08:08:17.082826+00:00",
   "close": 287.09,
   "rsi_14": 64.59,
   "rsi_14_pctile_1y": 83.6,
@@ -20,8 +20,8 @@
   "bb_lower": 264.13,
   "bb_pctb": 1.184,
   "bb_pctb_pctile_1y": 98.7,
-  "atr_14": 8.67,
-  "atr_pct": 3.02,
+  "atr_14": 8.69,
+  "atr_pct": 3.03,
   "week52_high": 290.63,
   "week52_low": 169.45,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

@@ -1,7 +1,7 @@
 {
   "ticker": "ATO",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:24:50.259439+00:00",
+  "generated_at": "2026-07-24T08:08:01.174607+00:00",
   "close": 178.04,
   "rsi_14": 55.09,
   "rsi_14_pctile_1y": 54.2,
@@ -20,8 +20,8 @@
   "bb_lower": 172.14,
   "bb_pctb": 0.738,
   "bb_pctb_pctile_1y": 66.8,
-  "atr_14": 3.1,
-  "atr_pct": 1.74,
+  "atr_14": 3.11,
+  "atr_pct": 1.75,
   "week52_high": 192.51,
   "week52_low": 154.23,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

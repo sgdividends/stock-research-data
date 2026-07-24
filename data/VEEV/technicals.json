@@ -1,7 +1,7 @@
 {
   "ticker": "VEEV",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:31.217849+00:00",
+  "generated_at": "2026-07-24T08:08:40.207390+00:00",
   "close": 179.58,
   "rsi_14": 46.57,
   "rsi_14_pctile_1y": 58.8,
@@ -20,8 +20,8 @@
   "bb_lower": 167.33,
   "bb_pctb": 0.312,
   "bb_pctb_pctile_1y": 39.2,
-  "atr_14": 7.5,
-  "atr_pct": 4.18,
+  "atr_14": 7.52,
+  "atr_pct": 4.19,
   "week52_high": 310.5,
   "week52_low": 148.05,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

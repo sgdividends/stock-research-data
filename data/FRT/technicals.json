@@ -1,7 +1,7 @@
 {
   "ticker": "FRT",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:01.040096+00:00",
+  "generated_at": "2026-07-24T08:08:07.342752+00:00",
   "close": 124.83,
   "rsi_14": 58.27,
   "rsi_14_pctile_1y": 55.9,
@@ -20,8 +20,8 @@
   "bb_lower": 119.16,
   "bb_pctb": 0.702,
   "bb_pctb_pctile_1y": 50.4,
-  "atr_14": 1.86,
-  "atr_pct": 1.49,
+  "atr_14": 1.9,
+  "atr_pct": 1.52,
   "week52_high": 126.86,
   "week52_low": 89.99,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

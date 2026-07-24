@@ -1,7 +1,7 @@
 {
   "ticker": "SHW",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:30.648010+00:00",
+  "generated_at": "2026-07-24T08:08:39.630158+00:00",
   "close": 310.54,
   "rsi_14": 37.43,
   "rsi_14_pctile_1y": 14.3,
@@ -20,8 +20,8 @@
   "bb_lower": 312.98,
   "bb_pctb": -0.057,
   "bb_pctb_pctile_1y": 2.2,
-  "atr_14": 9.0,
-  "atr_pct": 2.9,
+  "atr_14": 9.32,
+  "atr_pct": 3.0,
   "week52_high": 379.65,
   "week52_low": 289.86,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

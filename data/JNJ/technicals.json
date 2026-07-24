@@ -1,7 +1,7 @@
 {
   "ticker": "JNJ",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:10.755694+00:00",
+  "generated_at": "2026-07-24T08:08:17.308990+00:00",
   "close": 259.27,
   "rsi_14": 59.47,
   "rsi_14_pctile_1y": 51.7,
@@ -21,7 +21,7 @@
   "bb_pctb": 0.668,
   "bb_pctb_pctile_1y": 47.4,
   "atr_14": 6.08,
-  "atr_pct": 2.34,
+  "atr_pct": 2.35,
   "week52_high": 269.43,
   "week52_low": 164.23,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

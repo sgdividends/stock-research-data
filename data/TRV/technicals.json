@@ -1,7 +1,7 @@
 {
   "ticker": "TRV",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:31.025189+00:00",
+  "generated_at": "2026-07-24T08:08:40.011476+00:00",
   "close": 376.37,
   "rsi_14": 77.68,
   "rsi_14_pctile_1y": 99.2,
@@ -22,7 +22,7 @@
   "bb_pctb_pctile_1y": 89.7,
   "atr_14": 9.06,
   "atr_pct": 2.41,
-  "week52_high": 378.6,
+  "week52_high": 378.66,
   "week52_low": 252.26,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

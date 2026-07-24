@@ -1,7 +1,7 @@
 {
   "ticker": "RL",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:21.312155+00:00",
+  "generated_at": "2026-07-24T08:08:28.644265+00:00",
   "close": 371.69,
   "rsi_14": 43.29,
   "rsi_14_pctile_1y": 11.3,
@@ -20,8 +20,8 @@
   "bb_lower": 364.52,
   "bb_pctb": 0.148,
   "bb_pctb_pctile_1y": 12.9,
-  "atr_14": 12.86,
-  "atr_pct": 3.46,
+  "atr_14": 12.88,
+  "atr_pct": 3.47,
   "week52_high": 421.6,
   "week52_low": 273.04,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

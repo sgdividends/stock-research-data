@@ -1,7 +1,7 @@
 {
   "ticker": "BX",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:24:50.517288+00:00",
+  "generated_at": "2026-07-24T08:08:01.448095+00:00",
   "close": 124.5,
   "rsi_14": 54.0,
   "rsi_14_pctile_1y": 74.4,
@@ -21,7 +21,7 @@
   "bb_pctb": 0.666,
   "bb_pctb_pctile_1y": 69.4,
   "atr_14": 4.2,
-  "atr_pct": 3.37,
+  "atr_pct": 3.38,
   "week52_high": 190.09,
   "week52_low": 101.73,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

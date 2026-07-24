@@ -1,7 +1,7 @@
 {
   "ticker": "IT",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:25:10.682068+00:00",
+  "generated_at": "2026-07-24T08:08:17.235307+00:00",
   "close": 133.69,
   "rsi_14": 45.38,
   "rsi_14_pctile_1y": 60.1,
@@ -20,8 +20,8 @@
   "bb_lower": 127.04,
   "bb_pctb": 0.409,
   "bb_pctb_pctile_1y": 48.7,
-  "atr_14": 6.67,
-  "atr_pct": 4.99,
+  "atr_14": 6.69,
+  "atr_pct": 5.01,
   "week52_high": 359.36,
   "week52_low": 124.25,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."

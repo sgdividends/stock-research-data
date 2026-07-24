@@ -1,7 +1,7 @@
 {
   "ticker": "AES",
   "as_of": "2026-07-23",
-  "generated_at": "2026-07-24T00:24:49.996106+00:00",
+  "generated_at": "2026-07-24T08:08:00.861311+00:00",
   "close": 14.83,
   "rsi_14": 62.83,
   "rsi_14_pctile_1y": 85.3,
@@ -21,7 +21,7 @@
   "bb_pctb": 0.804,
   "bb_pctb_pctile_1y": 74.1,
   "atr_14": 0.06,
-  "atr_pct": 0.43,
+  "atr_pct": 0.44,
   "week52_high": 17.65,
   "week52_low": 12.33,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
