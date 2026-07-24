@@ -1,7 +1,14 @@
 {
   "ticker": "NWSA",
-  "generated_at": "2026-07-24T13:25:11.705713+00:00",
+  "generated_at": "2026-07-24T17:25:17.148313+00:00",
   "items": [
+    {
+      "title": "News Corporation Earnings Preview: What to Expect",
+      "summary": "News Corporation is scheduled to report its fourth-quarter earnings next month, and analysts are expecting a double-digit decline in EPS.",
+      "pub_date": "2026-07-24T10:52:56Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/media-advertising/articles/news-corporation-earnings-preview-expect-105256553.html"
+    },
     {
       "title": "Update: Market Chatter: News Corp Accuses Brave of Copyright Infringement in Countersuit",
       "summary": "(Updates to include a statement from News Corp in the fourth paragraph.) News Corp (NWSA) counte",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-15T09:03:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-warner-090300229.html"
-    },
-    {
-      "title": "Annual Rents Extend Run of Declines to Nearly Three Years, Realtor.com Says",
-      "summary": "Asking rents in the US fell annually for the 35th consecutive month in June, with a \"modest rent rel",
-      "pub_date": "2026-07-14T20:27:53Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/real-estate/articles/annual-rents-extend-run-declines-202753455.html"
     }
   ]
 }

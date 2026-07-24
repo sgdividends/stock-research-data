@@ -1,7 +1,14 @@
 {
   "ticker": "UBER",
-  "generated_at": "2026-07-24T13:25:28.000067+00:00",
+  "generated_at": "2026-07-24T17:25:33.516971+00:00",
   "items": [
+    {
+      "title": "Do Uber AI Layoffs More American Jobs At Risk?",
+      "summary": "Uber just cut a chunk of its customer service workforce in the name of AI efficiency, and it is far from alone. The real question is whether these scattered layoffs signal the early edge of a wave that could reshape employment across entire industries.",
+      "pub_date": "2026-07-24T15:23:42Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/uber-ai-layoffs-more-american-152342891.html"
+    },
     {
       "title": "The challenges companies face to launch robotaxis in Europe",
       "summary": "European carmakers like BMW, Volkswagen and Mercedes-Benz have continued to struggle significantly to roll out commercial robotaxi fleets, unlike Chinese companies, but why?View on euronews",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-23T15:23:54Z",
       "source": "Nation's Restaurant News",
       "url": "https://finance.yahoo.com/technology/articles/cloudkitchens-owner-raises-1-7b-152354562.html"
-    },
-    {
-      "title": "Uber Job Cuts Put AI Efficiency in Focus",
-      "summary": "Company targets customer service costs after slowing hiring",
-      "pub_date": "2026-07-23T12:41:48Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/uber-job-cuts-put-ai-124148726.html"
     }
   ]
 }

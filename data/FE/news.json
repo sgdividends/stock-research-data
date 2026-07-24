@@ -1,7 +1,14 @@
 {
   "ticker": "FE",
-  "generated_at": "2026-07-24T13:24:50.567574+00:00",
+  "generated_at": "2026-07-24T17:24:53.415238+00:00",
   "items": [
+    {
+      "title": "Goldman lifts data center capacity outlook, flags utility stocks set to benefit",
+      "summary": "Investing.com -- Global data center capacity is set to expand far faster than previously expected over the rest of the decade, driven by surging AI infrastructure demand, but supply is still likely to remain tight as hyperscalers and emerging cloud providers race to secure computing power.",
+      "pub_date": "2026-07-24T13:52:13Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/articles/goldman-lifts-data-center-capacity-135213041.html"
+    },
     {
       "title": "Entergy (ETR) Q2 Earnings Preview: What's in the Cards?",
       "summary": "Entergy (ETR) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-07T10:12:34Z",
       "source": "Utility Dive",
       "url": "https://finance.yahoo.com/energy/articles/exelon-firstenergy-utilities-rto-adder-101234394.html"
-    },
-    {
-      "title": "Is FirstEnergy Set to Benefit From Surging Data Center Demand?",
-      "summary": "FE's rising data center pipeline and Energize365 grid investments fuel long-term demand growth, earnings visibility and shareholder returns.",
-      "pub_date": "2026-07-03T16:14:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/energy/articles/firstenergy-set-benefit-surging-data-161400128.html"
     }
   ]
 }

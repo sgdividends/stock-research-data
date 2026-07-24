@@ -1,7 +1,14 @@
 {
   "ticker": "RVTY",
-  "generated_at": "2026-07-24T13:25:20.092009+00:00",
+  "generated_at": "2026-07-24T17:25:25.258812+00:00",
   "items": [
+    {
+      "title": "Revvity Develops High-Throughput T-SPOT.TB Platform for Clinical Labs",
+      "summary": "RVTY's T-SPOT A201 targets a 2027 launch, promising high-throughput latent TB testing with greater lab efficiency and scalability.",
+      "pub_date": "2026-07-24T15:05:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/healthcare/articles/revvity-develops-high-throughput-t-150500063.html"
+    },
     {
       "title": "Revvity to Launch Signals for Startups for Emerging Biotech Companies",
       "summary": "RVTY's Signals for Startups gives early-stage biotechs scalable software and guided onboarding to streamline research and support future growth.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-02T16:52:24Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-rvty-1-165224931.html"
-    },
-    {
-      "title": "Revvity Expands Signals AI With Anthropic Claude Integration",
-      "summary": "RVTY expands Signals AI through Anthropic's MCP ecosystem, giving scientists secure Claude access to connected R&D data and scientific context.",
-      "pub_date": "2026-07-02T13:57:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/revvity-expands-signals-ai-anthropic-135700455.html"
     }
   ]
 }

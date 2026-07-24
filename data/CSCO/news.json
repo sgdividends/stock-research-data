@@ -1,7 +1,14 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-07-24T13:24:41.426815+00:00",
+  "generated_at": "2026-07-24T17:24:43.238828+00:00",
   "items": [
+    {
+      "title": "2 Growth Stocks with All-Star Potential and 1 We Find Risky",
+      "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
+      "pub_date": "2026-07-24T15:53:08Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-growth-stocks-star-potential-155308060.html"
+    },
     {
       "title": "Dell's Big Day Was All About Another Company",
       "summary": "You might think a stock jumps on its own news, but Wednesday's surge was a lesson in how the AI hardware frenzy is lifting all boats.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-22T19:26:17Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/technology/ai/articles/hpe-stock-ai-order-book-192617851.html"
-    },
-    {
-      "title": "NetApp's Enterprise AI Bet: Can DataPelago Buyout Accelerate Growth?",
-      "summary": "NTAP expands its AI infrastructure portfolio with DataPelago, bringing GPU-accelerated processing to storage and aiming to boost enterprise AI efficiency.",
-      "pub_date": "2026-07-22T13:20:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/netapps-enterprise-ai-bet-datapelago-132000699.html"
     }
   ]
 }

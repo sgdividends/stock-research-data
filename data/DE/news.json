@@ -1,7 +1,14 @@
 {
   "ticker": "DE",
-  "generated_at": "2026-07-24T13:24:43.387273+00:00",
+  "generated_at": "2026-07-24T17:24:45.365235+00:00",
   "items": [
+    {
+      "title": "U.S. Legislation Aims To Increase A.I. Use Among Farmers",
+      "summary": "Bipartisan legislation has been introduced in the U.S. House of Representatives that aims to accelerate the adoptio...",
+      "pub_date": "2026-07-24T13:54:00Z",
+      "source": "CryptoProwl",
+      "url": "https://www.yahoo.com/news/politics/articles/u-legislation-aims-increase-among-135400719.html"
+    },
     {
       "title": "The Two Divergent Futures Priced Into Caterpillar Stock",
       "summary": "The market is pricing a substantial degree of uncertainty into the industrial giant's future, exposing shareholders to significant valuation risk.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-18T09:01:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/deere-stock-has-done-ok-stick-with-it-6bf1d0f6?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Is Deere (DE) Cheap After Its Right To Repair Settlement?",
-      "summary": "Deere stock has delivered a solid 79.8% return over the past five years. However, current valuation checks suggest an interesting gap, with the Discounted Cash Flow (DCF) intrinsic value estimate and earnings multiples both indicating that the shares are trading below what those frameworks imply. Over the last five years, Deere has returned 79.8%, which puts recent gains into context for anyone asking whether the current price already reflects that performance. The recent settlement with the...",
-      "pub_date": "2026-07-17T22:11:37Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/deere-cheap-repair-settlement-221137080.html"
     }
   ]
 }
