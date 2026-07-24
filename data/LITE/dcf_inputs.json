@@ -1,0 +1,16 @@
+{
+  "ticker": "LITE",
+  "price": 833.64,
+  "beta": 1.482,
+  "market_cap": 64857194496,
+  "ocf_ttm": 452400000.0,
+  "capex_ttm": 338400000.0,
+  "da_ttm": 254500000.0,
+  "sbc_est": null,
+  "cash": 3172300032,
+  "debt": 3313700096,
+  "shares": 77800000,
+  "rev_cagr": -0.0133,
+  "latest_rev_yoy": 0.901,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "NEM",
+  "price": 94.72,
+  "beta": 0.482,
+  "market_cap": 101118599168,
+  "ocf_ttm": 12088000000.0,
+  "capex_ttm": 2850000000.0,
+  "da_ttm": 2560000000.0,
+  "sbc_est": null,
+  "cash": 8778999808,
+  "debt": 5532000256,
+  "shares": 1067552764,
+  "rev_cagr": 0.2391,
+  "latest_rev_yoy": 0.458,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

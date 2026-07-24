@@ -1,0 +1,16 @@
+{
+  "ticker": "STLD",
+  "price": 240.57,
+  "beta": 1.542,
+  "market_cap": 34693271552,
+  "ocf_ttm": 1445247000.0,
+  "capex_ttm": 780498000.0,
+  "da_ttm": 576914000.0,
+  "sbc_est": null,
+  "cash": 567708032,
+  "debt": 4393537024,
+  "shares": 144212781,
+  "rev_cagr": -0.0653,
+  "latest_rev_yoy": 0.334,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

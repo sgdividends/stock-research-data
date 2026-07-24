@@ -1,0 +1,16 @@
+{
+  "ticker": "BKNG",
+  "price": 172.83,
+  "beta": 1.075,
+  "market_cap": 133922242560,
+  "ocf_ttm": 9341000000.0,
+  "capex_ttm": 308000000.0,
+  "da_ttm": 747000000.0,
+  "sbc_est": null,
+  "cash": 16024000512,
+  "debt": 19175999488,
+  "shares": 774878436,
+  "rev_cagr": 0.1635,
+  "latest_rev_yoy": 0.162,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

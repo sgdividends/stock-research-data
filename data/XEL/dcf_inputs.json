@@ -1,0 +1,16 @@
+{
+  "ticker": "XEL",
+  "price": 80.77,
+  "beta": 0.405,
+  "market_cap": 50422251520,
+  "ocf_ttm": 4752000000.0,
+  "capex_ttm": 11942000000.0,
+  "da_ttm": 3113000000.0,
+  "sbc_est": null,
+  "cash": 1768000000,
+  "debt": 39243001856,
+  "shares": 624269560,
+  "rev_cagr": -0.0142,
+  "latest_rev_yoy": 0.029,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "BBY",
+  "price": 84.43,
+  "beta": 1.33,
+  "market_cap": 17795067904,
+  "ocf_ttm": 2303000000.0,
+  "capex_ttm": 698000000.0,
+  "da_ttm": 814000000.0,
+  "sbc_est": null,
+  "cash": 1903000064,
+  "debt": 4134000128,
+  "shares": 210767126,
+  "rev_cagr": -0.0343,
+  "latest_rev_yoy": 0.019,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

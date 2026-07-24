@@ -1,0 +1,16 @@
+{
+  "ticker": "TRGP",
+  "price": 285.58,
+  "beta": 0.704,
+  "market_cap": 61298003968,
+  "ocf_ttm": 3702500000.0,
+  "capex_ttm": 3440600000.0,
+  "da_ttm": 1573700000.0,
+  "sbc_est": null,
+  "cash": 100100000,
+  "debt": 19131799552,
+  "shares": 214643903,
+  "rev_cagr": -0.0665,
+  "latest_rev_yoy": -0.102,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "KDP",
+  "price": 29.67,
+  "beta": 0.407,
+  "market_cap": 40367800320,
+  "ocf_ttm": 2063000000.0,
+  "capex_ttm": 487000000.0,
+  "da_ttm": 775000000.0,
+  "sbc_est": null,
+  "cash": 898000000,
+  "debt": 28891000832,
+  "shares": 1360559471,
+  "rev_cagr": 0.0571,
+  "latest_rev_yoy": 0.094,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

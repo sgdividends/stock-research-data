@@ -1,0 +1,16 @@
+{
+  "ticker": "MAR",
+  "price": 364.47,
+  "beta": 1.106,
+  "market_cap": 96106594304,
+  "ocf_ttm": 3423000000.0,
+  "capex_ttm": 599000000.0,
+  "da_ttm": 625000000.0,
+  "sbc_est": null,
+  "cash": 454000000,
+  "debt": 17405999104,
+  "shares": 263688623,
+  "rev_cagr": 0.0802,
+  "latest_rev_yoy": 0.126,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

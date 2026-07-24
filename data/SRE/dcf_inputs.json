@@ -1,0 +1,16 @@
+{
+  "ticker": "SRE",
+  "price": 93.44,
+  "beta": 0.568,
+  "market_cap": 61082419200,
+  "ocf_ttm": 4892000000.0,
+  "capex_ttm": 10737000000.0,
+  "da_ttm": 2544000000.0,
+  "sbc_est": null,
+  "cash": 794000000,
+  "debt": 36432998400,
+  "shares": 653707401,
+  "rev_cagr": -0.0173,
+  "latest_rev_yoy": -0.039,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

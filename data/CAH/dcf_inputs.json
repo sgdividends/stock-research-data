@@ -1,0 +1,16 @@
+{
+  "ticker": "CAH",
+  "price": 225.98,
+  "beta": 0.493,
+  "market_cap": 52925837312,
+  "ocf_ttm": 5009000000.0,
+  "capex_ttm": 617000000.0,
+  "da_ttm": 924000000.0,
+  "sbc_est": null,
+  "cash": 3936999936,
+  "debt": 8915999744,
+  "shares": 234205855,
+  "rev_cagr": 0.0707,
+  "latest_rev_yoy": 0.11,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "EXPD",
+  "price": 176.18,
+  "beta": 1.038,
+  "market_cap": 23042781184,
+  "ocf_ttm": 973113000.0,
+  "capex_ttm": 52561000.0,
+  "da_ttm": 56040000.0,
+  "sbc_est": null,
+  "cash": 1316497024,
+  "debt": 564980992,
+  "shares": 130791133,
+  "rev_cagr": -0.1345,
+  "latest_rev_yoy": 0.044,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

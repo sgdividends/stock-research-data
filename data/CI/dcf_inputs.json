@@ -1,0 +1,16 @@
+{
+  "ticker": "CI",
+  "price": 286.29,
+  "beta": 0.303,
+  "market_cap": 75732983808,
+  "ocf_ttm": 8812000000.0,
+  "capex_ttm": 1152000000.0,
+  "da_ttm": 2751000000.0,
+  "sbc_est": null,
+  "cash": 7852000256,
+  "debt": 30900000768,
+  "shares": 264532404,
+  "rev_cagr": 0.1515,
+  "latest_rev_yoy": 0.046,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

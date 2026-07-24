@@ -1,0 +1,16 @@
+{
+  "ticker": "EXPE",
+  "price": 257.61,
+  "beta": 1.232,
+  "market_cap": 30918885376,
+  "ocf_ttm": 4859000000.0,
+  "capex_ttm": 758000000.0,
+  "da_ttm": 896000000.0,
+  "sbc_est": null,
+  "cash": 5793999872,
+  "debt": 4710000128,
+  "shares": 120022077,
+  "rev_cagr": 0.0809,
+  "latest_rev_yoy": 0.147,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

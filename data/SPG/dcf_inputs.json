@@ -1,0 +1,16 @@
+{
+  "ticker": "SPG",
+  "price": 225.2,
+  "beta": 1.327,
+  "market_cap": 85571411968,
+  "ocf_ttm": 4142711000.0,
+  "capex_ttm": 912541000.0,
+  "da_ttm": 1731290000.0,
+  "sbc_est": null,
+  "cash": 542955008,
+  "debt": 28989048832,
+  "shares": 379979626,
+  "rev_cagr": 0.0635,
+  "latest_rev_yoy": 0.193,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

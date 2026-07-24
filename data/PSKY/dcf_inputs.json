@@ -1,0 +1,16 @@
+{
+  "ticker": "PSKY",
+  "price": 8.49,
+  "beta": 1.447,
+  "market_cap": 9501779968,
+  "ocf_ttm": 692000000.0,
+  "capex_ttm": 303000000.0,
+  "da_ttm": 632000000.0,
+  "sbc_est": null,
+  "cash": 1940999936,
+  "debt": 16595000320,
+  "shares": 1119173058,
+  "rev_cagr": 0.0073,
+  "latest_rev_yoy": 0.022,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

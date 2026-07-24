@@ -1,0 +1,16 @@
+{
+  "ticker": "WELL",
+  "price": 247.05,
+  "beta": 0.763,
+  "market_cap": 174396162048,
+  "ocf_ttm": 2952730000.0,
+  "capex_ttm": 30728000.0,
+  "da_ttm": 2271099000.0,
+  "sbc_est": null,
+  "cash": 4703775232,
+  "debt": 19987095552,
+  "shares": 705914450,
+  "rev_cagr": 0.2269,
+  "latest_rev_yoy": 0.383,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

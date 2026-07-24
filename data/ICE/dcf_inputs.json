@@ -1,0 +1,16 @@
+{
+  "ticker": "ICE",
+  "price": 143.21,
+  "beta": 0.948,
+  "market_cap": null,
+  "ocf_ttm": 5022000000.0,
+  "capex_ttm": 778000000.0,
+  "da_ttm": 1555000000.0,
+  "sbc_est": null,
+  "cash": 863000000,
+  "debt": 20984999936,
+  "shares": null,
+  "rev_cagr": 0.0947,
+  "latest_rev_yoy": 0.204,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

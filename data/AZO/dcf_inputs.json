@@ -1,0 +1,16 @@
+{
+  "ticker": "AZO",
+  "price": 2923.5,
+  "beta": 0.335,
+  "market_cap": 47727173632,
+  "ocf_ttm": 3072342000.0,
+  "capex_ttm": 1439120000.0,
+  "da_ttm": 661538000.0,
+  "sbc_est": null,
+  "cash": 270520000,
+  "debt": 13086533632,
+  "shares": 16325355,
+  "rev_cagr": 0.0523,
+  "latest_rev_yoy": 0.084,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

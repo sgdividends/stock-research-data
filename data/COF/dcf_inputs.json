@@ -1,0 +1,16 @@
+{
+  "ticker": "COF",
+  "price": 199.96,
+  "beta": 1.022,
+  "market_cap": 122675470336,
+  "ocf_ttm": 29074000000.0,
+  "capex_ttm": 1783000000.0,
+  "da_ttm": 5958000000.0,
+  "sbc_est": null,
+  "cash": 54713999360,
+  "debt": 45370998784,
+  "shares": 613500000,
+  "rev_cagr": 0.1598,
+  "latest_rev_yoy": null,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

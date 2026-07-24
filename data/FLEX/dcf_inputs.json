@@ -1,0 +1,16 @@
+{
+  "ticker": "FLEX",
+  "price": 127.94,
+  "beta": 1.626,
+  "market_cap": 46875881472,
+  "ocf_ttm": 1685000000.0,
+  "capex_ttm": 633000000.0,
+  "da_ttm": 563000000.0,
+  "sbc_est": null,
+  "cash": 2388999936,
+  "debt": 4464999936,
+  "shares": 366389554,
+  "rev_cagr": -0.0069,
+  "latest_rev_yoy": 0.169,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

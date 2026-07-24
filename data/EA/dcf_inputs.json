@@ -1,0 +1,16 @@
+{
+  "ticker": "EA",
+  "price": 209.0,
+  "beta": 0.641,
+  "market_cap": 52407062528,
+  "ocf_ttm": 2553000000.0,
+  "capex_ttm": 230000000.0,
+  "da_ttm": 323000000.0,
+  "sbc_est": null,
+  "cash": 2980000000,
+  "debt": 1854000000,
+  "shares": 250751484,
+  "rev_cagr": 0.0047,
+  "latest_rev_yoy": 0.119,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

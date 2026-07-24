@@ -1,0 +1,16 @@
+{
+  "ticker": "MRVL",
+  "price": 209.32,
+  "beta": 2.197,
+  "market_cap": 187874017280,
+  "ocf_ttm": 2056400000.0,
+  "capex_ttm": 394900000.0,
+  "da_ttm": 1281300000.0,
+  "sbc_est": null,
+  "cash": 3843599872,
+  "debt": 5277199872,
+  "shares": 897544423,
+  "rev_cagr": 0.1145,
+  "latest_rev_yoy": 0.276,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

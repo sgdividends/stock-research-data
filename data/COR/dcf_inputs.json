@@ -1,0 +1,16 @@
+{
+  "ticker": "COR",
+  "price": 305.06,
+  "beta": 0.581,
+  "market_cap": 59352797184,
+  "ocf_ttm": 2276134000.0,
+  "capex_ttm": 718022000.0,
+  "da_ttm": 1050219000.0,
+  "sbc_est": null,
+  "cash": 2176496128,
+  "debt": 15092111360,
+  "shares": 194561060,
+  "rev_cagr": 0.1043,
+  "latest_rev_yoy": 0.038,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

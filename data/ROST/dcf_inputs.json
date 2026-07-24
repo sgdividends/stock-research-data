@@ -1,0 +1,16 @@
+{
+  "ticker": "ROST",
+  "price": 232.39,
+  "beta": 0.879,
+  "market_cap": 74546315264,
+  "ocf_ttm": 3453177000.0,
+  "capex_ttm": 820851000.0,
+  "da_ttm": 526052000.0,
+  "sbc_est": null,
+  "cash": 4130980096,
+  "debt": 4723149824,
+  "shares": 320781076,
+  "rev_cagr": 0.0676,
+  "latest_rev_yoy": 0.206,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

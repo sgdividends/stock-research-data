@@ -1,0 +1,16 @@
+{
+  "ticker": "RJF",
+  "price": 166.14,
+  "beta": null,
+  "market_cap": 31915493376,
+  "ocf_ttm": 2576000000.0,
+  "capex_ttm": 192000000.0,
+  "da_ttm": 200000000.0,
+  "sbc_est": null,
+  "cash": null,
+  "debt": null,
+  "shares": 192100000,
+  "rev_cagr": 0.0845,
+  "latest_rev_yoy": 0.152,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

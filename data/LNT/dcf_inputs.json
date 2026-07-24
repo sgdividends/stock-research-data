@@ -1,0 +1,16 @@
+{
+  "ticker": "LNT",
+  "price": 74.42,
+  "beta": 0.54,
+  "market_cap": 19220977664,
+  "ocf_ttm": 1288000000.0,
+  "capex_ttm": null,
+  "da_ttm": 858000000.0,
+  "sbc_est": null,
+  "cash": 115000000,
+  "debt": 11840000000,
+  "shares": 258277037,
+  "rev_cagr": 0.0123,
+  "latest_rev_yoy": 0.05,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

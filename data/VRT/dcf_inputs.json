@@ -1,0 +1,16 @@
+{
+  "ticker": "VRT",
+  "price": 304.04,
+  "beta": 2.029,
+  "market_cap": 116784439296,
+  "ocf_ttm": 2577300000.0,
+  "capex_ttm": 301600000.0,
+  "da_ttm": 344700000.0,
+  "sbc_est": null,
+  "cash": 2500499968,
+  "debt": 3264900096,
+  "shares": 384108816,
+  "rev_cagr": 0.2159,
+  "latest_rev_yoy": 0.301,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

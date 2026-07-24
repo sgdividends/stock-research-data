@@ -1,0 +1,16 @@
+{
+  "ticker": "UBER",
+  "price": 68.91,
+  "beta": 1.113,
+  "market_cap": 140273139712,
+  "ocf_ttm": 10126000000.0,
+  "capex_ttm": 327000000.0,
+  "da_ttm": 760000000.0,
+  "sbc_est": null,
+  "cash": 6090999808,
+  "debt": 12419000320,
+  "shares": 2035599013,
+  "rev_cagr": 0.1773,
+  "latest_rev_yoy": 0.145,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

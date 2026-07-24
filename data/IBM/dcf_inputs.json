@@ -1,0 +1,16 @@
+{
+  "ticker": "IBM",
+  "price": 206.65,
+  "beta": null,
+  "market_cap": 194692071424,
+  "ocf_ttm": 14888000000.0,
+  "capex_ttm": 1744000000.0,
+  "da_ttm": 5202000000.0,
+  "sbc_est": null,
+  "cash": 8131999744,
+  "debt": 65272000512,
+  "shares": 942134390,
+  "rev_cagr": 0.0372,
+  "latest_rev_yoy": 0.011,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

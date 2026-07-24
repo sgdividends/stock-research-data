@@ -1,0 +1,16 @@
+{
+  "ticker": "FICO",
+  "price": 1206.19,
+  "beta": 1.29,
+  "market_cap": 27972636672,
+  "ocf_ttm": 907332000.0,
+  "capex_ttm": 40557000.0,
+  "da_ttm": 15907000.0,
+  "sbc_est": null,
+  "cash": 219419008,
+  "debt": 3656617984,
+  "shares": 23190906,
+  "rev_cagr": 0.1307,
+  "latest_rev_yoy": 0.387,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

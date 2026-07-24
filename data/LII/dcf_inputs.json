@@ -1,0 +1,16 @@
+{
+  "ticker": "LII",
+  "price": 537.89,
+  "beta": 1.163,
+  "market_cap": 18718556160,
+  "ocf_ttm": 809500000.0,
+  "capex_ttm": 148800000.0,
+  "da_ttm": 116100000.0,
+  "sbc_est": null,
+  "cash": 50200000,
+  "debt": 1954899968,
+  "shares": 34799968,
+  "rev_cagr": 0.0326,
+  "latest_rev_yoy": 0.058,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

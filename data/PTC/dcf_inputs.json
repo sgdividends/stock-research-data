@@ -1,0 +1,16 @@
+{
+  "ticker": "PTC",
+  "price": 113.05,
+  "beta": 0.994,
+  "market_cap": 13057930240,
+  "ocf_ttm": 938620000.0,
+  "capex_ttm": 10444000.0,
+  "da_ttm": 135706000.0,
+  "sbc_est": null,
+  "cash": 439112000,
+  "debt": 1381052032,
+  "shares": 115505791,
+  "rev_cagr": 0.1232,
+  "latest_rev_yoy": 0.217,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

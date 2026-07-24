@@ -1,0 +1,16 @@
+{
+  "ticker": "CINF",
+  "price": 179.38,
+  "beta": 0.553,
+  "market_cap": 27747706880,
+  "ocf_ttm": 3458000000.0,
+  "capex_ttm": 19000000.0,
+  "da_ttm": 161000000.0,
+  "sbc_est": null,
+  "cash": 1259000064,
+  "debt": 884000000,
+  "shares": 154686742,
+  "rev_cagr": 0.2439,
+  "latest_rev_yoy": 0.116,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "NOW",
+  "price": 91.94,
+  "beta": null,
+  "market_cap": 95053275136,
+  "ocf_ttm": 5437000000.0,
+  "capex_ttm": 813000000.0,
+  "da_ttm": 836000000.0,
+  "sbc_est": null,
+  "cash": 4664000000,
+  "debt": 8453000192,
+  "shares": 1033862000,
+  "rev_cagr": 0.2238,
+  "latest_rev_yoy": 0.24,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

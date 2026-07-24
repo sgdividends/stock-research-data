@@ -1,0 +1,16 @@
+{
+  "ticker": "EIX",
+  "price": 79.64,
+  "beta": 0.649,
+  "market_cap": 30644989952,
+  "ocf_ttm": 6003000000.0,
+  "capex_ttm": 6646000000.0,
+  "da_ttm": 3329000000.0,
+  "sbc_est": null,
+  "cash": 168000000,
+  "debt": 42696998912,
+  "shares": 384793941,
+  "rev_cagr": 0.039,
+  "latest_rev_yoy": 0.077,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

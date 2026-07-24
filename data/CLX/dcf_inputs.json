@@ -1,0 +1,16 @@
+{
+  "ticker": "CLX",
+  "price": 93.8,
+  "beta": 0.531,
+  "market_cap": 11342423040,
+  "ocf_ttm": 576000000.0,
+  "capex_ttm": 196000000.0,
+  "da_ttm": 226000000.0,
+  "sbc_est": null,
+  "cash": 1192000000,
+  "debt": 4486000128,
+  "shares": 120921351,
+  "rev_cagr": -0.0001,
+  "latest_rev_yoy": 0.001,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

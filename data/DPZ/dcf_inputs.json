@@ -1,0 +1,16 @@
+{
+  "ticker": "DPZ",
+  "price": 323.25,
+  "beta": null,
+  "market_cap": 10693670912,
+  "ocf_ttm": 777805000.0,
+  "capex_ttm": 124335000.0,
+  "da_ttm": 88895000.0,
+  "sbc_est": null,
+  "cash": 164836000,
+  "debt": 5122852864,
+  "shares": 33081735,
+  "rev_cagr": 0.0288,
+  "latest_rev_yoy": 0.043,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

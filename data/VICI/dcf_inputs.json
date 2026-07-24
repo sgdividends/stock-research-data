@@ -1,0 +1,16 @@
+{
+  "ticker": "VICI",
+  "price": 26.32,
+  "beta": 0.683,
+  "market_cap": 28980430848,
+  "ocf_ttm": 2549996000.0,
+  "capex_ttm": 1807000.0,
+  "da_ttm": 3608000.0,
+  "sbc_est": null,
+  "cash": 486896000,
+  "debt": 17701677056,
+  "shares": 1101080187,
+  "rev_cagr": 0.1549,
+  "latest_rev_yoy": 0.035,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "GDDY",
+  "price": 87.62,
+  "beta": 0.888,
+  "market_cap": 11601751040,
+  "ocf_ttm": 1666200000.0,
+  "capex_ttm": 24900000.0,
+  "da_ttm": 110000000.0,
+  "sbc_est": null,
+  "cash": 1311800064,
+  "debt": 3848100096,
+  "shares": 132409847,
+  "rev_cagr": 0.0656,
+  "latest_rev_yoy": 0.061,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

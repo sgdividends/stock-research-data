@@ -1,0 +1,16 @@
+{
+  "ticker": "NDAQ",
+  "price": 90.42,
+  "beta": 0.997,
+  "market_cap": 51136196608,
+  "ocf_ttm": 2281000000.0,
+  "capex_ttm": 277000000.0,
+  "da_ttm": 641000000.0,
+  "sbc_est": null,
+  "cash": 531000000,
+  "debt": 9516999680,
+  "shares": 565540798,
+  "rev_cagr": 0.0989,
+  "latest_rev_yoy": 0.137,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

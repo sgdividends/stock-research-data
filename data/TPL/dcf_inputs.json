@@ -1,0 +1,16 @@
+{
+  "ticker": "TPL",
+  "price": 425.55,
+  "beta": 0.594,
+  "market_cap": 29352069120,
+  "ocf_ttm": 551192000.0,
+  "capex_ttm": 508611000.0,
+  "da_ttm": 64635000.0,
+  "sbc_est": null,
+  "cash": 247571008,
+  "debt": 17987000,
+  "shares": 68974429,
+  "rev_cagr": 0.0615,
+  "latest_rev_yoy": 0.208,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

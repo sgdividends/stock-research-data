@@ -1,0 +1,16 @@
+{
+  "ticker": "DELL",
+  "price": 439.34,
+  "beta": 1.376,
+  "market_cap": 283876196352,
+  "ocf_ttm": 12470000000.0,
+  "capex_ttm": 3028000000.0,
+  "da_ttm": 3049000000.0,
+  "sbc_est": null,
+  "cash": 11580999680,
+  "debt": 31924000768,
+  "shares": 646142428,
+  "rev_cagr": 0.0353,
+  "latest_rev_yoy": 0.875,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

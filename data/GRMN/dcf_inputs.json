@@ -1,0 +1,16 @@
+{
+  "ticker": "GRMN",
+  "price": 240.1,
+  "beta": 0.914,
+  "market_cap": 46304776192,
+  "ocf_ttm": 1748559000.0,
+  "capex_ttm": 297001000.0,
+  "da_ttm": 191586000.0,
+  "sbc_est": null,
+  "cash": 2700950016,
+  "debt": 216112000,
+  "shares": 192856206,
+  "rev_cagr": 0.1424,
+  "latest_rev_yoy": 0.142,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "FDXF",
+  "price": 154.79,
+  "beta": null,
+  "market_cap": 23049183232,
+  "ocf_ttm": null,
+  "capex_ttm": null,
+  "da_ttm": null,
+  "sbc_est": null,
+  "cash": 102000000,
+  "debt": 5350000128,
+  "shares": 148906159,
+  "rev_cagr": -0.0612,
+  "latest_rev_yoy": -0.047,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

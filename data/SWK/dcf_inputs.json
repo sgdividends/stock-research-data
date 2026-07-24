@@ -1,0 +1,16 @@
+{
+  "ticker": "SWK",
+  "price": 87.41,
+  "beta": 1.164,
+  "market_cap": 13588371456,
+  "ocf_ttm": 1002400000.0,
+  "capex_ttm": 276800000.0,
+  "da_ttm": 497000000.0,
+  "sbc_est": null,
+  "cash": 333700000,
+  "debt": 6966499840,
+  "shares": 155455564,
+  "rev_cagr": -0.0371,
+  "latest_rev_yoy": 0.027,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

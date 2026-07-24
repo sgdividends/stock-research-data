@@ -1,0 +1,16 @@
+{
+  "ticker": "ED",
+  "price": 112.79,
+  "beta": 0.264,
+  "market_cap": 41566466048,
+  "ocf_ttm": 4137000000.0,
+  "capex_ttm": 4782000000.0,
+  "da_ttm": 2329000000.0,
+  "sbc_est": null,
+  "cash": 147000000,
+  "debt": 27177000960,
+  "shares": 368529705,
+  "rev_cagr": 0.0259,
+  "latest_rev_yoy": 0.062,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

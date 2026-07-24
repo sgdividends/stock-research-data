@@ -1,0 +1,16 @@
+{
+  "ticker": "HWM",
+  "price": 287.09,
+  "beta": 1.189,
+  "market_cap": 114866855936,
+  "ocf_ttm": 2084000000.0,
+  "capex_ttm": 428000000.0,
+  "da_ttm": 288000000.0,
+  "sbc_est": null,
+  "cash": 2435000064,
+  "debt": 4848000000,
+  "shares": 400107483,
+  "rev_cagr": 0.1337,
+  "latest_rev_yoy": 0.191,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "OMC",
+  "price": 77.9,
+  "beta": 0.656,
+  "market_cap": 22201985024,
+  "ocf_ttm": 3171800000.0,
+  "capex_ttm": 181500000.0,
+  "da_ttm": 384600000.0,
+  "sbc_est": null,
+  "cash": 4288100096,
+  "debt": 11516600320,
+  "shares": 285006196,
+  "rev_cagr": 0.0652,
+  "latest_rev_yoy": 0.692,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

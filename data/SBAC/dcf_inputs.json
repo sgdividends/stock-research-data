@@ -1,0 +1,16 @@
+{
+  "ticker": "SBAC",
+  "price": 174.85,
+  "beta": 0.997,
+  "market_cap": 18545119232,
+  "ocf_ttm": 1245238000.0,
+  "capex_ttm": 227043000.0,
+  "da_ttm": 308553000.0,
+  "sbc_est": null,
+  "cash": 269064000,
+  "debt": 15421450240,
+  "shares": 106063017,
+  "rev_cagr": 0.0225,
+  "latest_rev_yoy": 0.059,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

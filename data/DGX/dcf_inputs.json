@@ -1,0 +1,16 @@
+{
+  "ticker": "DGX",
+  "price": 227.9,
+  "beta": 0.571,
+  "market_cap": 25068998656,
+  "ocf_ttm": 1850000000.0,
+  "capex_ttm": 524000000.0,
+  "da_ttm": 577000000.0,
+  "sbc_est": null,
+  "cash": 393000000,
+  "debt": 6408000000,
+  "shares": 110000000,
+  "rev_cagr": 0.0374,
+  "latest_rev_yoy": 0.092,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

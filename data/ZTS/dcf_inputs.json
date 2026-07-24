@@ -1,0 +1,16 @@
+{
+  "ticker": "ZTS",
+  "price": 74.57,
+  "beta": 0.749,
+  "market_cap": 31261841408,
+  "ocf_ttm": 2790000000.0,
+  "capex_ttm": 553000000.0,
+  "da_ttm": 487000000.0,
+  "sbc_est": null,
+  "cash": 1940999936,
+  "debt": 9253999616,
+  "shares": 419228118,
+  "rev_cagr": 0.0542,
+  "latest_rev_yoy": 0.029,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

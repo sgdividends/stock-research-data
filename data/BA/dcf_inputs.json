@@ -1,0 +1,16 @@
+{
+  "ticker": "BA",
+  "price": 209.23,
+  "beta": 1.205,
+  "market_cap": 164936499200,
+  "ocf_ttm": 2502000000.0,
+  "capex_ttm": 3552000000.0,
+  "da_ttm": 2060000000.0,
+  "sbc_est": null,
+  "cash": 20177999872,
+  "debt": 49614000128,
+  "shares": 788302331,
+  "rev_cagr": 0.1033,
+  "latest_rev_yoy": 0.14,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

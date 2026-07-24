@@ -1,0 +1,16 @@
+{
+  "ticker": "WMT",
+  "price": 108.4,
+  "beta": 0.603,
+  "market_cap": 862655741952,
+  "ocf_ttm": 40892000000.0,
+  "capex_ttm": 28340000000.0,
+  "da_ttm": 14655000000.0,
+  "sbc_est": null,
+  "cash": 10728999936,
+  "debt": 75545001984,
+  "shares": 7958079155,
+  "rev_cagr": 0.0527,
+  "latest_rev_yoy": 0.073,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

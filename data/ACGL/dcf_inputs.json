@@ -1,0 +1,16 @@
+{
+  "ticker": "ACGL",
+  "price": 100.1,
+  "beta": 0.292,
+  "market_cap": 34973896704,
+  "ocf_ttm": 5902000000.0,
+  "capex_ttm": 43000000.0,
+  "da_ttm": 174000000.0,
+  "sbc_est": null,
+  "cash": 3620999936,
+  "debt": 2728999936,
+  "shares": 349389588,
+  "rev_cagr": 0.2614,
+  "latest_rev_yoy": -0.033,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

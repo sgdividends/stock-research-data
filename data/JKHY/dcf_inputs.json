@@ -1,0 +1,16 @@
+{
+  "ticker": "JKHY",
+  "price": 148.23,
+  "beta": 0.571,
+  "market_cap": 10531857408,
+  "ocf_ttm": 786398000.0,
+  "capex_ttm": 245466000.0,
+  "da_ttm": 210190000.0,
+  "sbc_est": null,
+  "cash": 20573000,
+  "debt": 136587008,
+  "shares": 71050780,
+  "rev_cagr": 0.0693,
+  "latest_rev_yoy": 0.087,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

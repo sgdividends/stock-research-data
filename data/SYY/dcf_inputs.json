@@ -1,0 +1,16 @@
+{
+  "ticker": "SYY",
+  "price": 81.73,
+  "beta": 0.641,
+  "market_cap": 39081865216,
+  "ocf_ttm": 2656000000.0,
+  "capex_ttm": 835000000.0,
+  "da_ttm": 1112000000.0,
+  "sbc_est": null,
+  "cash": 1902000000,
+  "debt": 15399999488,
+  "shares": 478182608,
+  "rev_cagr": 0.0584,
+  "latest_rev_yoy": 0.047,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

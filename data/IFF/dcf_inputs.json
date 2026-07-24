@@ -1,0 +1,16 @@
+{
+  "ticker": "IFF",
+  "price": 73.77,
+  "beta": 0.944,
+  "market_cap": 18833735680,
+  "ocf_ttm": 980000000.0,
+  "capex_ttm": 582000000.0,
+  "da_ttm": 972000000.0,
+  "sbc_est": null,
+  "cash": 562000000,
+  "debt": 6467999744,
+  "shares": 255303473,
+  "rev_cagr": -0.0434,
+  "latest_rev_yoy": -0.036,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

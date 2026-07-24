@@ -1,0 +1,16 @@
+{
+  "ticker": "BKR",
+  "price": 56.09,
+  "beta": 0.96,
+  "market_cap": 55645130752,
+  "ocf_ttm": 3601000000.0,
+  "capex_ttm": 1309000000.0,
+  "da_ttm": 1257000000.0,
+  "sbc_est": null,
+  "cash": 15934000128,
+  "debt": 16163999744,
+  "shares": 992068697,
+  "rev_cagr": 0.0944,
+  "latest_rev_yoy": 0.025,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

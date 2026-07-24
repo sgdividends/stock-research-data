@@ -1,0 +1,16 @@
+{
+  "ticker": "NSC",
+  "price": 348.55,
+  "beta": 1.263,
+  "market_cap": 78287241216,
+  "ocf_ttm": 3755000000.0,
+  "capex_ttm": 2137000000.0,
+  "da_ttm": 1399000000.0,
+  "sbc_est": null,
+  "cash": 1340999936,
+  "debt": 17635000320,
+  "shares": 224608373,
+  "rev_cagr": -0.015,
+  "latest_rev_yoy": 0.002,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

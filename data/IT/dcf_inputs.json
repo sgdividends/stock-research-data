@@ -1,0 +1,16 @@
+{
+  "ticker": "IT",
+  "price": 133.69,
+  "beta": 0.963,
+  "market_cap": 8950798336,
+  "ocf_ttm": 1367892000.0,
+  "capex_ttm": 109996000.0,
+  "da_ttm": 194980000.0,
+  "sbc_est": null,
+  "cash": 1666946048,
+  "debt": 3355174912,
+  "shares": 66951889,
+  "rev_cagr": 0.0587,
+  "latest_rev_yoy": -0.015,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

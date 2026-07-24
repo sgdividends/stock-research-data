@@ -1,0 +1,16 @@
+{
+  "ticker": "ARE",
+  "price": 50.12,
+  "beta": 1.183,
+  "market_cap": 8734386176,
+  "ocf_ttm": 1402721000.0,
+  "capex_ttm": null,
+  "da_ttm": 1285701000.0,
+  "sbc_est": null,
+  "cash": 418720000,
+  "debt": 12878605312,
+  "shares": 174269480,
+  "rev_cagr": 0.0456,
+  "latest_rev_yoy": -0.115,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "ABNB",
+  "price": 137.57,
+  "beta": 1.143,
+  "market_cap": 81648476160,
+  "ocf_ttm": 4565000000.0,
+  "capex_ttm": null,
+  "da_ttm": null,
+  "sbc_est": null,
+  "cash": 12005000192,
+  "debt": 2534000128,
+  "shares": 593504923,
+  "rev_cagr": 0.1338,
+  "latest_rev_yoy": 0.179,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

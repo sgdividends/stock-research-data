@@ -1,0 +1,16 @@
+{
+  "ticker": "CME",
+  "price": 254.32,
+  "beta": 0.276,
+  "market_cap": 91891605504,
+  "ocf_ttm": 4420400000.0,
+  "capex_ttm": 91100000.0,
+  "da_ttm": 331700000.0,
+  "sbc_est": null,
+  "cash": 2475599872,
+  "debt": 3424199936,
+  "shares": 361322751,
+  "rev_cagr": 0.0911,
+  "latest_rev_yoy": 0.01,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

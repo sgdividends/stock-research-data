@@ -1,0 +1,16 @@
+{
+  "ticker": "ECHO",
+  "price": 91.51,
+  "beta": 1.004,
+  "market_cap": 26520834048,
+  "ocf_ttm": -67845000.0,
+  "capex_ttm": 1396992000.0,
+  "da_ttm": 1263817000.0,
+  "sbc_est": null,
+  "cash": 1516103040,
+  "debt": 29242023936,
+  "shares": 289813488,
+  "rev_cagr": -0.0697,
+  "latest_rev_yoy": -0.052,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

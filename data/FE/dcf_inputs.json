@@ -1,0 +1,16 @@
+{
+  "ticker": "FE",
+  "price": 49.49,
+  "beta": 0.454,
+  "market_cap": 28626558976,
+  "ocf_ttm": 3211000000.0,
+  "capex_ttm": 4955000000.0,
+  "da_ttm": 1316000000.0,
+  "sbc_est": null,
+  "cash": 52000000,
+  "debt": 28060000256,
+  "shares": 578431175,
+  "rev_cagr": 0.0659,
+  "latest_rev_yoy": 0.116,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

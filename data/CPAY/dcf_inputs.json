@@ -1,0 +1,16 @@
+{
+  "ticker": "CPAY",
+  "price": 364.8,
+  "beta": 0.881,
+  "market_cap": 23844028416,
+  "ocf_ttm": 1517432000.0,
+  "capex_ttm": 207077000.0,
+  "da_ttm": 415941000.0,
+  "sbc_est": null,
+  "cash": 2553312000,
+  "debt": 10483340288,
+  "shares": 65361919,
+  "rev_cagr": 0.0973,
+  "latest_rev_yoy": 0.254,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

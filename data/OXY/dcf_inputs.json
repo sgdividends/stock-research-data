@@ -1,0 +1,16 @@
+{
+  "ticker": "OXY",
+  "price": 57.6,
+  "beta": 0.15,
+  "market_cap": 57290956800,
+  "ocf_ttm": 9665000000.0,
+  "capex_ttm": 6299000000.0,
+  "da_ttm": 7523000000.0,
+  "sbc_est": null,
+  "cash": 3811000064,
+  "debt": 16611000320,
+  "shares": 994634701,
+  "rev_cagr": -0.1616,
+  "latest_rev_yoy": -0.083,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "NEE",
+  "price": 89.79,
+  "beta": 0.667,
+  "market_cap": null,
+  "ocf_ttm": 12330000000.0,
+  "capex_ttm": 9967000000.0,
+  "da_ttm": 7227000000.0,
+  "sbc_est": null,
+  "cash": 1998000000,
+  "debt": 104403001344,
+  "shares": null,
+  "rev_cagr": 0.0936,
+  "latest_rev_yoy": 0.073,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

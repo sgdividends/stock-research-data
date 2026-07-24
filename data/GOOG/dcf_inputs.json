@@ -1,0 +1,16 @@
+{
+  "ticker": "GOOG",
+  "price": 318.34,
+  "beta": null,
+  "market_cap": 3893277491200,
+  "ocf_ttm": 185675000000.0,
+  "capex_ttm": 132402000000.0,
+  "da_ttm": 25237000000.0,
+  "sbc_est": null,
+  "cash": 242473992192,
+  "debt": 112755998720,
+  "shares": 12229934831,
+  "rev_cagr": 0.1251,
+  "latest_rev_yoy": 0.242,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

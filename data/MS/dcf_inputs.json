@@ -1,0 +1,16 @@
+{
+  "ticker": "MS",
+  "price": 215.18,
+  "beta": 1.218,
+  "market_cap": 338262949888,
+  "ocf_ttm": -1011000000.0,
+  "capex_ttm": 2939000000.0,
+  "da_ttm": 4507000000.0,
+  "sbc_est": null,
+  "cash": 663304994816,
+  "debt": 579511975936,
+  "shares": 1572000000,
+  "rev_cagr": 0.0952,
+  "latest_rev_yoy": 0.28,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

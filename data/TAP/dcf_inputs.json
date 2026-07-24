@@ -1,0 +1,16 @@
+{
+  "ticker": "TAP",
+  "price": 40.04,
+  "beta": 0.419,
+  "market_cap": 7509556736,
+  "ocf_ttm": 1877600000.0,
+  "capex_ttm": 711000000.0,
+  "da_ttm": 731700000.0,
+  "sbc_est": null,
+  "cash": 469500000,
+  "debt": 6485300224,
+  "shares": 187551360,
+  "rev_cagr": 0.0135,
+  "latest_rev_yoy": 0.02,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

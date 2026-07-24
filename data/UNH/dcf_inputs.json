@@ -1,0 +1,16 @@
+{
+  "ticker": "UNH",
+  "price": 423.56,
+  "beta": 0.633,
+  "market_cap": 384653623296,
+  "ocf_ttm": 23153000000.0,
+  "capex_ttm": 3487000000.0,
+  "da_ttm": 4329000000.0,
+  "sbc_est": null,
+  "cash": 31467999232,
+  "debt": 73328001024,
+  "shares": 908144404,
+  "rev_cagr": 0.1135,
+  "latest_rev_yoy": 0.004,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

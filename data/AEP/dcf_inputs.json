@@ -1,0 +1,16 @@
+{
+  "ticker": "AEP",
+  "price": 134.92,
+  "beta": 0.504,
+  "market_cap": 73410650112,
+  "ocf_ttm": 7013000000.0,
+  "capex_ttm": 10255000000.0,
+  "da_ttm": 3563000000.0,
+  "sbc_est": null,
+  "cash": 516000000,
+  "debt": 51808002048,
+  "shares": 544105032,
+  "rev_cagr": 0.0366,
+  "latest_rev_yoy": 0.102,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

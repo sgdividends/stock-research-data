@@ -1,0 +1,16 @@
+{
+  "ticker": "HST",
+  "price": 23.96,
+  "beta": 1.119,
+  "market_cap": 16622639104,
+  "ocf_ttm": 1547000000.0,
+  "capex_ttm": 620000000.0,
+  "da_ttm": 789000000.0,
+  "sbc_est": null,
+  "cash": 1703000064,
+  "debt": 5645000192,
+  "shares": 693766279,
+  "rev_cagr": 0.0761,
+  "latest_rev_yoy": 0.028,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "PCAR",
+  "price": 130.75,
+  "beta": 0.976,
+  "market_cap": 68811923456,
+  "ocf_ttm": 4477300000.0,
+  "capex_ttm": 1378700000.0,
+  "da_ttm": 822400000.0,
+  "sbc_est": null,
+  "cash": 8595399680,
+  "debt": 15047300096,
+  "shares": 526286229,
+  "rev_cagr": -0.0044,
+  "latest_rev_yoy": -0.089,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

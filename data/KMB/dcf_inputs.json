@@ -1,0 +1,16 @@
+{
+  "ticker": "KMB",
+  "price": 107.31,
+  "beta": 0.279,
+  "market_cap": 35620519936,
+  "ocf_ttm": 3195000000.0,
+  "capex_ttm": 1358000000.0,
+  "da_ttm": 780000000.0,
+  "sbc_est": null,
+  "cash": 542000000,
+  "debt": 7105999872,
+  "shares": 331940357,
+  "rev_cagr": -0.0658,
+  "latest_rev_yoy": 0.027,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

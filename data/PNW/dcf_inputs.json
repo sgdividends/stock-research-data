@@ -1,0 +1,16 @@
+{
+  "ticker": "PNW",
+  "price": 105.43,
+  "beta": 0.425,
+  "market_cap": 12776763392,
+  "ocf_ttm": 1638496000.0,
+  "capex_ttm": 2630427000.0,
+  "da_ttm": 978805000.0,
+  "sbc_est": null,
+  "cash": 6409000,
+  "debt": 15143285760,
+  "shares": 121187166,
+  "rev_cagr": 0.0728,
+  "latest_rev_yoy": 0.114,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "AMT",
+  "price": 164.65,
+  "beta": 0.909,
+  "market_cap": 76709289984,
+  "ocf_ttm": 5569600000.0,
+  "capex_ttm": 1798800000.0,
+  "da_ttm": 2067300000.0,
+  "sbc_est": null,
+  "cash": 1608800000,
+  "debt": 45131198464,
+  "shares": 465893069,
+  "rev_cagr": 0.0334,
+  "latest_rev_yoy": 0.068,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

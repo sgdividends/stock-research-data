@@ -1,0 +1,16 @@
+{
+  "ticker": "GEN",
+  "price": 25.07,
+  "beta": 1.207,
+  "market_cap": 15103016960,
+  "ocf_ttm": 1545000000.0,
+  "capex_ttm": 22000000.0,
+  "da_ttm": 493000000.0,
+  "sbc_est": null,
+  "cash": 402000000,
+  "debt": 8259999744,
+  "shares": 602433854,
+  "rev_cagr": 0.1466,
+  "latest_rev_yoy": 0.27,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

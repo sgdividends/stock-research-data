@@ -1,0 +1,16 @@
+{
+  "ticker": "TXT",
+  "price": 93.19,
+  "beta": 0.905,
+  "market_cap": 16204713984,
+  "ocf_ttm": 1319000000.0,
+  "capex_ttm": 460000000.0,
+  "da_ttm": 405000000.0,
+  "sbc_est": null,
+  "cash": 1508999936,
+  "debt": 4215000064,
+  "shares": 173888981,
+  "rev_cagr": 0.0477,
+  "latest_rev_yoy": 0.118,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

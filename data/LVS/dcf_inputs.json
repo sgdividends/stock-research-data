@@ -1,0 +1,16 @@
+{
+  "ticker": "LVS",
+  "price": 46.03,
+  "beta": null,
+  "market_cap": 30501193728,
+  "ocf_ttm": 3228000000.0,
+  "capex_ttm": 983000000.0,
+  "da_ttm": 1541000000.0,
+  "sbc_est": null,
+  "cash": null,
+  "debt": null,
+  "shares": 662637325,
+  "rev_cagr": 0.4686,
+  "latest_rev_yoy": -0.007,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

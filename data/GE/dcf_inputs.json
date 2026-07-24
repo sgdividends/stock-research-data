@@ -1,0 +1,16 @@
+{
+  "ticker": "GE",
+  "price": 349.0,
+  "beta": 1.348,
+  "market_cap": 362109304832,
+  "ocf_ttm": 9800000000.0,
+  "capex_ttm": 1404000000.0,
+  "da_ttm": 1235000000.0,
+  "sbc_est": null,
+  "cash": 9944999936,
+  "debt": 20230000640,
+  "shares": 1037562513,
+  "rev_cagr": 0.1632,
+  "latest_rev_yoy": 0.211,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

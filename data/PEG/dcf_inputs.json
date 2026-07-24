@@ -1,0 +1,16 @@
+{
+  "ticker": "PEG",
+  "price": 79.77,
+  "beta": 0.527,
+  "market_cap": 39751098368,
+  "ocf_ttm": 3520000000.0,
+  "capex_ttm": 3337000000.0,
+  "da_ttm": 1469000000.0,
+  "sbc_est": null,
+  "cash": 404000000,
+  "debt": 24398999552,
+  "shares": 498321402,
+  "rev_cagr": 0.0748,
+  "latest_rev_yoy": 0.194,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "RF",
+  "price": 30.66,
+  "beta": 1.012,
+  "market_cap": 26164615168,
+  "ocf_ttm": 1982000000.0,
+  "capex_ttm": 29000000.0,
+  "da_ttm": 85000000.0,
+  "sbc_est": null,
+  "cash": 9925999616,
+  "debt": 7628000256,
+  "shares": 853379538,
+  "rev_cagr": 0.0165,
+  "latest_rev_yoy": 0.034,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

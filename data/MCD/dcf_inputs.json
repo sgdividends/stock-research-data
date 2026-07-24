@@ -1,0 +1,16 @@
+{
+  "ticker": "MCD",
+  "price": 262.8,
+  "beta": 0.418,
+  "market_cap": 186720927744,
+  "ocf_ttm": 10535000000.0,
+  "capex_ttm": 3496000000.0,
+  "da_ttm": 2245000000.0,
+  "sbc_est": null,
+  "cash": 1170000000,
+  "debt": 54895001600,
+  "shares": 710505859,
+  "rev_cagr": 0.0506,
+  "latest_rev_yoy": 0.094,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

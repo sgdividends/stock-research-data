@@ -1,0 +1,16 @@
+{
+  "ticker": "NTAP",
+  "price": 164.64,
+  "beta": 1.451,
+  "market_cap": 32256256000,
+  "ocf_ttm": 2067000000.0,
+  "capex_ttm": 198000000.0,
+  "da_ttm": 200000000.0,
+  "sbc_est": null,
+  "cash": 3584000000,
+  "debt": 2732999936,
+  "shares": 195919927,
+  "rev_cagr": 0.0287,
+  "latest_rev_yoy": 0.125,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "DOC",
+  "price": 22.08,
+  "beta": 1.004,
+  "market_cap": 15222386688,
+  "ocf_ttm": 1233411000.0,
+  "capex_ttm": null,
+  "da_ttm": 1046921000.0,
+  "sbc_est": null,
+  "cash": 1177075968,
+  "debt": 10712860672,
+  "shares": 689419702,
+  "rev_cagr": 0.1105,
+  "latest_rev_yoy": 0.071,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

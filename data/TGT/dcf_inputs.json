@@ -1,0 +1,16 @@
+{
+  "ticker": "TGT",
+  "price": 134.48,
+  "beta": 0.981,
+  "market_cap": 61079617536,
+  "ocf_ttm": 7003000000.0,
+  "capex_ttm": 3972000000.0,
+  "da_ttm": 3160000000.0,
+  "sbc_est": null,
+  "cash": 3534000128,
+  "debt": 19271999488,
+  "shares": 454191112,
+  "rev_cagr": -0.0134,
+  "latest_rev_yoy": 0.067,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

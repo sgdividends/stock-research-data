@@ -1,0 +1,16 @@
+{
+  "ticker": "ACN",
+  "price": 138.74,
+  "beta": 1.122,
+  "market_cap": 84900847616,
+  "ocf_ttm": 13182094000.0,
+  "capex_ttm": 600406000.0,
+  "da_ttm": 1415510000.0,
+  "sbc_est": null,
+  "cash": 10171567104,
+  "debt": 8388769792,
+  "shares": 611942109,
+  "rev_cagr": 0.0419,
+  "latest_rev_yoy": 0.056,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

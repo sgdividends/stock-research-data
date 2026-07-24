@@ -1,0 +1,16 @@
+{
+  "ticker": "HAS",
+  "price": 87.35,
+  "beta": 0.482,
+  "market_cap": 12359211008,
+  "ocf_ttm": 1092800000.0,
+  "capex_ttm": 205000000.0,
+  "da_ttm": 159600000.0,
+  "sbc_est": null,
+  "cash": 1378200064,
+  "debt": 3538200064,
+  "shares": 141490692,
+  "rev_cagr": -0.0706,
+  "latest_rev_yoy": 0.162,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

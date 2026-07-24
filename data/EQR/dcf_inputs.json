@@ -1,0 +1,16 @@
+{
+  "ticker": "EQR",
+  "price": 68.28,
+  "beta": null,
+  "market_cap": 26381752320,
+  "ocf_ttm": 1623753000.0,
+  "capex_ttm": 358143000.0,
+  "da_ttm": 1013987000.0,
+  "sbc_est": null,
+  "cash": 36405000,
+  "debt": 8565499904,
+  "shares": 386375986,
+  "rev_cagr": 0.0419,
+  "latest_rev_yoy": 0.021,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

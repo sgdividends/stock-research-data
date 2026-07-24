@@ -1,0 +1,16 @@
+{
+  "ticker": "PANW",
+  "price": 325.63,
+  "beta": 0.908,
+  "market_cap": 265388457984,
+  "ocf_ttm": 4216800000.0,
+  "capex_ttm": 423300000.0,
+  "da_ttm": 597800000.0,
+  "sbc_est": null,
+  "cash": 3111000064,
+  "debt": 2130000000,
+  "shares": 815000000,
+  "rev_cagr": 0.1879,
+  "latest_rev_yoy": 0.311,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

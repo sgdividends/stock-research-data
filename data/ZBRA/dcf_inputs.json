@@ -1,0 +1,16 @@
+{
+  "ticker": "ZBRA",
+  "price": 256.95,
+  "beta": 1.605,
+  "market_cap": 12239400960,
+  "ocf_ttm": 915000000.0,
+  "capex_ttm": 79000000.0,
+  "da_ttm": 200000000.0,
+  "sbc_est": null,
+  "cash": 114000000,
+  "debt": 2848999936,
+  "shares": 47633392,
+  "rev_cagr": -0.0227,
+  "latest_rev_yoy": 0.143,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

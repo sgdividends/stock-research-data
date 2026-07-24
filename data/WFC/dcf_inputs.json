@@ -1,0 +1,16 @@
+{
+  "ticker": "WFC",
+  "price": 86.19,
+  "beta": 0.917,
+  "market_cap": 261027741696,
+  "ocf_ttm": 1179000000.0,
+  "capex_ttm": null,
+  "da_ttm": 7691000000.0,
+  "sbc_est": null,
+  "cash": 651887968256,
+  "debt": 459111006208,
+  "shares": 3028515336,
+  "rev_cagr": 0.0402,
+  "latest_rev_yoy": 0.095,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

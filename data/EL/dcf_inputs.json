@@ -1,0 +1,16 @@
+{
+  "ticker": "EL",
+  "price": 79.92,
+  "beta": 1.261,
+  "market_cap": 28914649088,
+  "ocf_ttm": 1798000000.0,
+  "capex_ttm": 513000000.0,
+  "da_ttm": 808000000.0,
+  "sbc_est": null,
+  "cash": 3126000128,
+  "debt": 9299999744,
+  "shares": 361794915,
+  "rev_cagr": -0.0687,
+  "latest_rev_yoy": 0.046,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

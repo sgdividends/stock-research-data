@@ -1,0 +1,16 @@
+{
+  "ticker": "COO",
+  "price": 70.23,
+  "beta": 0.84,
+  "market_cap": 13697001472,
+  "ocf_ttm": 953000000.0,
+  "capex_ttm": 383500000.0,
+  "da_ttm": 384700000.0,
+  "sbc_est": null,
+  "cash": 138800000,
+  "debt": 2726599936,
+  "shares": 195030630,
+  "rev_cagr": 0.0735,
+  "latest_rev_yoy": 0.079,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

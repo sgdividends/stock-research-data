@@ -1,0 +1,16 @@
+{
+  "ticker": "TDY",
+  "price": 651.22,
+  "beta": 0.924,
+  "market_cap": null,
+  "ocf_ttm": 1182700000.0,
+  "capex_ttm": 129000000.0,
+  "da_ttm": 342800000.0,
+  "sbc_est": null,
+  "cash": 340100000,
+  "debt": 2027000064,
+  "shares": null,
+  "rev_cagr": 0.0386,
+  "latest_rev_yoy": 0.098,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

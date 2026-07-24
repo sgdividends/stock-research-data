@@ -1,0 +1,16 @@
+{
+  "ticker": "FTV",
+  "price": 60.62,
+  "beta": 0.977,
+  "market_cap": 18480674816,
+  "ocf_ttm": 1076300000.0,
+  "capex_ttm": 48000000.0,
+  "da_ttm": 443200000.0,
+  "sbc_est": null,
+  "cash": 356100000,
+  "debt": 3582099968,
+  "shares": 304861021,
+  "rev_cagr": -0.1062,
+  "latest_rev_yoy": 0.077,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

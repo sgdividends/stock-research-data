@@ -1,0 +1,16 @@
+{
+  "ticker": "DTE",
+  "price": 148.13,
+  "beta": 0.381,
+  "market_cap": 30815236096,
+  "ocf_ttm": 3295000000.0,
+  "capex_ttm": 4785000000.0,
+  "da_ttm": 1314000000.0,
+  "sbc_est": null,
+  "cash": 238000000,
+  "debt": 26972000256,
+  "shares": 208028313,
+  "rev_cagr": -0.0631,
+  "latest_rev_yoy": 0.158,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

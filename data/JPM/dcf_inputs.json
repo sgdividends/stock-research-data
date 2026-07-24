@@ -1,0 +1,16 @@
+{
+  "ticker": "JPM",
+  "price": 349.9,
+  "beta": 0.982,
+  "market_cap": 930104213504,
+  "ocf_ttm": -107704000000.0,
+  "capex_ttm": null,
+  "da_ttm": 9155000000.0,
+  "sbc_est": null,
+  "cash": 1818026049536,
+  "debt": 1333832974336,
+  "shares": 2658200000,
+  "rev_cagr": 0.125,
+  "latest_rev_yoy": 0.304,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

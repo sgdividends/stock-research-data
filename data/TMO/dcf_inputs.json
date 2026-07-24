@@ -1,0 +1,16 @@
+{
+  "ticker": "TMO",
+  "price": 572.32,
+  "beta": 0.868,
+  "market_cap": 212686405632,
+  "ocf_ttm": 8287000000.0,
+  "capex_ttm": 1539000000.0,
+  "da_ttm": 2811000000.0,
+  "sbc_est": null,
+  "cash": 3256000000,
+  "debt": 43161001984,
+  "shares": 371621465,
+  "rev_cagr": -0.0027,
+  "latest_rev_yoy": 0.062,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "NRG",
+  "price": 142.99,
+  "beta": 1.201,
+  "market_cap": 30168954880,
+  "ocf_ttm": 889000000.0,
+  "capex_ttm": 1245000000.0,
+  "da_ttm": 955000000.0,
+  "sbc_est": null,
+  "cash": 178000000,
+  "debt": 23357999104,
+  "shares": 210986470,
+  "rev_cagr": -0.0088,
+  "latest_rev_yoy": 0.195,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

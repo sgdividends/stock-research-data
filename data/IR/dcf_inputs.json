@@ -1,0 +1,16 @@
+{
+  "ticker": "IR",
+  "price": 84.31,
+  "beta": 1.168,
+  "market_cap": 32993607680,
+  "ocf_ttm": 1299000000.0,
+  "capex_ttm": 138200000.0,
+  "da_ttm": 522700000.0,
+  "sbc_est": null,
+  "cash": 1291600000,
+  "debt": 4951199744,
+  "shares": 391336834,
+  "rev_cagr": 0.0895,
+  "latest_rev_yoy": 0.076,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

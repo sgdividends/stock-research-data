@@ -1,0 +1,16 @@
+{
+  "ticker": "USB",
+  "price": 63.33,
+  "beta": 0.979,
+  "market_cap": 98651152384,
+  "ocf_ttm": 9618000000.0,
+  "capex_ttm": null,
+  "da_ttm": 864000000.0,
+  "sbc_est": null,
+  "cash": 66490998784,
+  "debt": 96008003584,
+  "shares": 1557731728,
+  "rev_cagr": 0.0568,
+  "latest_rev_yoy": 0.104,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "AVB",
+  "price": 190.8,
+  "beta": null,
+  "market_cap": 27281287168,
+  "ocf_ttm": 1674135000.0,
+  "capex_ttm": 276283000.0,
+  "da_ttm": 928592000.0,
+  "sbc_est": null,
+  "cash": 80682000,
+  "debt": 9024780288,
+  "shares": 142983687,
+  "rev_cagr": 0.0545,
+  "latest_rev_yoy": 0.021,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

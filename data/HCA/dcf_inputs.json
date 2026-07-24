@@ -1,0 +1,16 @@
+{
+  "ticker": "HCA",
+  "price": 376.5,
+  "beta": 1.128,
+  "market_cap": 83522691072,
+  "ocf_ttm": 12999000000.0,
+  "capex_ttm": 5072000000.0,
+  "da_ttm": 3593000000.0,
+  "sbc_est": null,
+  "cash": 1064000000,
+  "debt": 49844998144,
+  "shares": 221839800,
+  "rev_cagr": 0.0787,
+  "latest_rev_yoy": 0.043,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

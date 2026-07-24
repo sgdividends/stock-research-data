@@ -1,0 +1,16 @@
+{
+  "ticker": "TROW",
+  "price": 114.95,
+  "beta": 1.497,
+  "market_cap": 24629946368,
+  "ocf_ttm": 1944800000.0,
+  "capex_ttm": 254200000.0,
+  "da_ttm": 610700000.0,
+  "sbc_est": null,
+  "cash": 3729799936,
+  "debt": 459600000,
+  "shares": 214266606,
+  "rev_cagr": 0.0408,
+  "latest_rev_yoy": 0.053,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

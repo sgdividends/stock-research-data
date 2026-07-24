@@ -1,0 +1,16 @@
+{
+  "ticker": "RSG",
+  "price": 217.42,
+  "beta": 0.405,
+  "market_cap": 66892328960,
+  "ocf_ttm": 4498000000.0,
+  "capex_ttm": 1904000000.0,
+  "da_ttm": 1957000000.0,
+  "sbc_est": null,
+  "cash": 118000000,
+  "debt": 14087000064,
+  "shares": 307664087,
+  "rev_cagr": 0.0708,
+  "latest_rev_yoy": 0.026,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

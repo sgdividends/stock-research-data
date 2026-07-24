@@ -1,0 +1,16 @@
+{
+  "ticker": "PODD",
+  "price": 158.38,
+  "beta": 1.111,
+  "market_cap": 10970138624,
+  "ocf_ttm": 619300000.0,
+  "capex_ttm": 231500000.0,
+  "da_ttm": 94900000.0,
+  "sbc_est": null,
+  "cash": 480400000,
+  "debt": 1014000000,
+  "shares": 69264674,
+  "rev_cagr": 0.2754,
+  "latest_rev_yoy": 0.339,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

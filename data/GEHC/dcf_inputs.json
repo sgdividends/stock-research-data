@@ -1,0 +1,16 @@
+{
+  "ticker": "GEHC",
+  "price": 61.99,
+  "beta": 0.839,
+  "market_cap": 28198742016,
+  "ocf_ttm": 2027000000.0,
+  "capex_ttm": 508000000.0,
+  "da_ttm": 595000000.0,
+  "sbc_est": null,
+  "cash": 2260999936,
+  "debt": 10577000448,
+  "shares": 454891786,
+  "rev_cagr": 0.0399,
+  "latest_rev_yoy": 0.074,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

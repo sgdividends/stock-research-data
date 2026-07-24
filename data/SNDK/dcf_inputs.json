@@ -1,0 +1,16 @@
+{
+  "ticker": "SNDK",
+  "price": 1610.33,
+  "beta": null,
+  "market_cap": 238473379840,
+  "ocf_ttm": 4639000000.0,
+  "capex_ttm": 179000000.0,
+  "da_ttm": 148000000.0,
+  "sbc_est": null,
+  "cash": 3735000064,
+  "debt": 207000000,
+  "shares": 148089758,
+  "rev_cagr": 0.0993,
+  "latest_rev_yoy": 2.51,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

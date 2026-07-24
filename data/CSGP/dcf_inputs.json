@@ -1,0 +1,16 @@
+{
+  "ticker": "CSGP",
+  "price": 27.14,
+  "beta": 0.735,
+  "market_cap": 11082773504,
+  "ocf_ttm": 529000000.0,
+  "capex_ttm": 363000000.0,
+  "da_ttm": 298000000.0,
+  "sbc_est": null,
+  "cash": 1215000064,
+  "debt": 1140999936,
+  "shares": 408355715,
+  "rev_cagr": 0.1416,
+  "latest_rev_yoy": 0.225,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

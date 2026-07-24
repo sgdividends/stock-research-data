@@ -1,0 +1,16 @@
+{
+  "ticker": "CCI",
+  "price": 74.57,
+  "beta": null,
+  "market_cap": 32587089920,
+  "ocf_ttm": 2925000000.0,
+  "capex_ttm": 199000000.0,
+  "da_ttm": 685000000.0,
+  "sbc_est": null,
+  "cash": 1042000000,
+  "debt": 23403999232,
+  "shares": 437000000,
+  "rev_cagr": -0.1517,
+  "latest_rev_yoy": -0.049,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

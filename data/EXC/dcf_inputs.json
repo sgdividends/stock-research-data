@@ -1,0 +1,16 @@
+{
+  "ticker": "EXC",
+  "price": 47.28,
+  "beta": 0.405,
+  "market_cap": 48377278464,
+  "ocf_ttm": 6778000000.0,
+  "capex_ttm": 8941000000.0,
+  "da_ttm": 3088000000.0,
+  "sbc_est": null,
+  "cash": 713000000,
+  "debt": 51241000960,
+  "shares": 1023208142,
+  "rev_cagr": 0.0834,
+  "latest_rev_yoy": 0.079,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

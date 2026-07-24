@@ -1,0 +1,16 @@
+{
+  "ticker": "AEE",
+  "price": 113.27,
+  "beta": 0.481,
+  "market_cap": 31347654656,
+  "ocf_ttm": 3343000000.0,
+  "capex_ttm": 4688000000.0,
+  "da_ttm": 1691000000.0,
+  "sbc_est": null,
+  "cash": 13000000,
+  "debt": 21304000512,
+  "shares": 276751616,
+  "rev_cagr": 0.0341,
+  "latest_rev_yoy": 0.037,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

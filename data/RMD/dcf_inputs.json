@@ -1,0 +1,16 @@
+{
+  "ticker": "RMD",
+  "price": 191.89,
+  "beta": 0.775,
+  "market_cap": 27834869760,
+  "ocf_ttm": 1889964000.0,
+  "capex_ttm": 153701000.0,
+  "da_ttm": 263319000.0,
+  "sbc_est": null,
+  "cash": 1660513024,
+  "debt": 843169024,
+  "shares": 145056384,
+  "rev_cagr": 0.1288,
+  "latest_rev_yoy": 0.108,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

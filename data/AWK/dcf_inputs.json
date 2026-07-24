@@ -1,0 +1,16 @@
+{
+  "ticker": "AWK",
+  "price": 134.41,
+  "beta": 0.599,
+  "market_cap": 26247657472,
+  "ocf_ttm": 2033000000.0,
+  "capex_ttm": 3423000000.0,
+  "da_ttm": 915000000.0,
+  "sbc_est": null,
+  "cash": 183000000,
+  "debt": 15708999680,
+  "shares": 195280521,
+  "rev_cagr": 0.1067,
+  "latest_rev_yoy": 0.057,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

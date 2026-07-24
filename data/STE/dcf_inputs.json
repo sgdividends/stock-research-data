@@ -1,0 +1,16 @@
+{
+  "ticker": "STE",
+  "price": 210.64,
+  "beta": 0.922,
+  "market_cap": 20528486400,
+  "ocf_ttm": 1341400000.0,
+  "capex_ttm": 369000000.0,
+  "da_ttm": 486500000.0,
+  "sbc_est": null,
+  "cash": 439600000,
+  "debt": 2087100032,
+  "shares": 97457680,
+  "rev_cagr": 0.0938,
+  "latest_rev_yoy": 0.073,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

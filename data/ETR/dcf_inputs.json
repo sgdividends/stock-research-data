@@ -1,0 +1,16 @@
+{
+  "ticker": "ETR",
+  "price": 115.8,
+  "beta": 0.489,
+  "market_cap": 54031716352,
+  "ocf_ttm": 5443427000.0,
+  "capex_ttm": 8594374000.0,
+  "da_ttm": 2569241000.0,
+  "sbc_est": null,
+  "cash": 3572052992,
+  "debt": 34058442752,
+  "shares": 466595090,
+  "rev_cagr": -0.0202,
+  "latest_rev_yoy": 0.12,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

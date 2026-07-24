@@ -1,0 +1,16 @@
+{
+  "ticker": "PHM",
+  "price": 124.67,
+  "beta": 1.186,
+  "market_cap": 23747932160,
+  "ocf_ttm": 1626318000.0,
+  "capex_ttm": 113875000.0,
+  "da_ttm": 112728000.0,
+  "sbc_est": null,
+  "cash": 1335709056,
+  "debt": 2298181120,
+  "shares": 190486353,
+  "rev_cagr": 0.0266,
+  "latest_rev_yoy": -0.096,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

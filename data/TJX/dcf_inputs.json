@@ -1,0 +1,16 @@
+{
+  "ticker": "TJX",
+  "price": 153.48,
+  "beta": 0.623,
+  "market_cap": 169550020608,
+  "ocf_ttm": 7599000000.0,
+  "capex_ttm": 2122000000.0,
+  "da_ttm": 1287000000.0,
+  "sbc_est": null,
+  "cash": 5580000256,
+  "debt": 14179999744,
+  "shares": 1104704446,
+  "rev_cagr": 0.0653,
+  "latest_rev_yoy": 0.092,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

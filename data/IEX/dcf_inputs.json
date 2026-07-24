@@ -1,0 +1,16 @@
+{
+  "ticker": "IEX",
+  "price": 222.22,
+  "beta": 0.974,
+  "market_cap": 16447626240,
+  "ocf_ttm": 678400000.0,
+  "capex_ttm": 67000000.0,
+  "da_ttm": 210300000.0,
+  "sbc_est": null,
+  "cash": 586200000,
+  "debt": 1899299968,
+  "shares": 74015052,
+  "rev_cagr": 0.0281,
+  "latest_rev_yoy": 0.089,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

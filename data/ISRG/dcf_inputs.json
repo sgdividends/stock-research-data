@@ -1,0 +1,16 @@
+{
+  "ticker": "ISRG",
+  "price": 332.02,
+  "beta": 1.46,
+  "market_cap": 118955474944,
+  "ocf_ttm": 3706400000.0,
+  "capex_ttm": 483800000.0,
+  "da_ttm": 794200000.0,
+  "sbc_est": null,
+  "cash": 5216200192,
+  "debt": 0,
+  "shares": 358278038,
+  "rev_cagr": 0.1739,
+  "latest_rev_yoy": 0.185,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

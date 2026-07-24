@@ -1,0 +1,16 @@
+{
+  "ticker": "WRB",
+  "price": 73.43,
+  "beta": 0.293,
+  "market_cap": 27246788608,
+  "ocf_ttm": 3506656000.0,
+  "capex_ttm": 153793000.0,
+  "da_ttm": -53806000.0,
+  "sbc_est": null,
+  "cash": 3445806080,
+  "debt": 3096750080,
+  "shares": 371058000,
+  "rev_cagr": 0.0928,
+  "latest_rev_yoy": 0.012,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

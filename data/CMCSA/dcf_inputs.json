@@ -1,0 +1,16 @@
+{
+  "ticker": "CMCSA",
+  "price": 21.92,
+  "beta": 0.655,
+  "market_cap": 78303248384,
+  "ocf_ttm": 32240000000.0,
+  "capex_ttm": 14524000000.0,
+  "da_ttm": 16226000000.0,
+  "sbc_est": null,
+  "cash": 9468000256,
+  "debt": 94611996672,
+  "shares": 3572228557,
+  "rev_cagr": 0.0062,
+  "latest_rev_yoy": 0.053,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

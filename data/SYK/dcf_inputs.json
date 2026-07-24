@@ -1,0 +1,16 @@
+{
+  "ticker": "SYK",
+  "price": 318.97,
+  "beta": 0.778,
+  "market_cap": 122280583168,
+  "ocf_ttm": 5375000000.0,
+  "capex_ttm": 804000000.0,
+  "da_ttm": 1221000000.0,
+  "sbc_est": null,
+  "cash": 2964999936,
+  "debt": 15233999872,
+  "shares": 383360762,
+  "rev_cagr": 0.1083,
+  "latest_rev_yoy": 0.026,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

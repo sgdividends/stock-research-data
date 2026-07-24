@@ -1,0 +1,16 @@
+{
+  "ticker": "CDNS",
+  "price": 330.46,
+  "beta": 1.148,
+  "market_cap": 91146149888,
+  "ocf_ttm": 1597542000.0,
+  "capex_ttm": 167630000.0,
+  "da_ttm": 266746000.0,
+  "sbc_est": null,
+  "cash": 1546153984,
+  "debt": 3083354112,
+  "shares": 275816000,
+  "rev_cagr": 0.1414,
+  "latest_rev_yoy": 0.187,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

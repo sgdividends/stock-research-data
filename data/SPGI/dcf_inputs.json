@@ -1,0 +1,16 @@
+{
+  "ticker": "SPGI",
+  "price": 420.0,
+  "beta": 1.079,
+  "market_cap": 124319997952,
+  "ocf_ttm": 5735000000.0,
+  "capex_ttm": 179000000.0,
+  "da_ttm": 1193000000.0,
+  "sbc_est": null,
+  "cash": 1810000000,
+  "debt": 13900000256,
+  "shares": 296000000,
+  "rev_cagr": 0.1111,
+  "latest_rev_yoy": 0.104,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

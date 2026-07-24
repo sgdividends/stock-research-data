@@ -1,0 +1,16 @@
+{
+  "ticker": "LDOS",
+  "price": 110.33,
+  "beta": 0.547,
+  "market_cap": 13877910528,
+  "ocf_ttm": 1993000000.0,
+  "capex_ttm": 134000000.0,
+  "da_ttm": 293000000.0,
+  "sbc_est": null,
+  "cash": 457000000,
+  "debt": 6944000000,
+  "shares": 125785466,
+  "rev_cagr": 0.0606,
+  "latest_rev_yoy": 0.037,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

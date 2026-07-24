@@ -1,0 +1,16 @@
+{
+  "ticker": "ES",
+  "price": 74.62,
+  "beta": 0.714,
+  "market_cap": 28063092736,
+  "ocf_ttm": 4397303000.0,
+  "capex_ttm": 4160596000.0,
+  "da_ttm": 2392704000.0,
+  "sbc_est": null,
+  "cash": 270184000,
+  "debt": 30339694592,
+  "shares": 376080025,
+  "rev_cagr": 0.033,
+  "latest_rev_yoy": 0.094,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

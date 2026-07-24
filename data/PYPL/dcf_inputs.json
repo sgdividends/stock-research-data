@@ -1,0 +1,16 @@
+{
+  "ticker": "PYPL",
+  "price": 56.0,
+  "beta": 1.332,
+  "market_cap": 49397907456,
+  "ocf_ttm": 6390000000.0,
+  "capex_ttm": 887000000.0,
+  "da_ttm": 956000000.0,
+  "sbc_est": null,
+  "cash": 9342000128,
+  "debt": 11669999616,
+  "shares": 882105493,
+  "rev_cagr": 0.0643,
+  "latest_rev_yoy": 0.072,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "ERIE",
+  "price": 214.52,
+  "beta": 0.286,
+  "market_cap": 11217222656,
+  "ocf_ttm": null,
+  "capex_ttm": 123432000.0,
+  "da_ttm": null,
+  "sbc_est": null,
+  "cash": 283062016,
+  "debt": 49621000,
+  "shares": 52289868,
+  "rev_cagr": 0.1332,
+  "latest_rev_yoy": 0.023,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

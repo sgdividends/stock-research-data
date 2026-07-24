@@ -1,0 +1,16 @@
+{
+  "ticker": "DLR",
+  "price": 179.34,
+  "beta": 1.053,
+  "market_cap": 67480080384,
+  "ocf_ttm": 2545472000.0,
+  "capex_ttm": null,
+  "da_ttm": 1951138000.0,
+  "sbc_est": null,
+  "cash": 2464262912,
+  "debt": 19452149760,
+  "shares": 376269002,
+  "rev_cagr": 0.0922,
+  "latest_rev_yoy": 0.167,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

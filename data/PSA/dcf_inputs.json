@@ -1,0 +1,16 @@
+{
+  "ticker": "PSA",
+  "price": 315.01,
+  "beta": 0.952,
+  "market_cap": 58826780672,
+  "ocf_ttm": 3176187000.0,
+  "capex_ttm": 300877000.0,
+  "da_ttm": 1159848000.0,
+  "sbc_est": null,
+  "cash": 134608992,
+  "debt": 10032266240,
+  "shares": 186745748,
+  "rev_cagr": 0.0488,
+  "latest_rev_yoy": 0.032,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

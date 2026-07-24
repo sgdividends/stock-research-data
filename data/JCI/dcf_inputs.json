@@ -1,0 +1,16 @@
+{
+  "ticker": "JCI",
+  "price": 143.29,
+  "beta": 1.319,
+  "market_cap": 87423459328,
+  "ocf_ttm": 1738000000.0,
+  "capex_ttm": 372000000.0,
+  "da_ttm": 803000000.0,
+  "sbc_est": null,
+  "cash": 698000000,
+  "debt": 9523000320,
+  "shares": 610115603,
+  "rev_cagr": 0.0457,
+  "latest_rev_yoy": 0.082,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

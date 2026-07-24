@@ -1,0 +1,16 @@
+{
+  "ticker": "OTIS",
+  "price": 70.77,
+  "beta": 0.891,
+  "market_cap": 27155585024,
+  "ocf_ttm": 1819000000.0,
+  "capex_ttm": 151000000.0,
+  "da_ttm": 174000000.0,
+  "sbc_est": null,
+  "cash": 813000000,
+  "debt": 8846000128,
+  "shares": 383716076,
+  "rev_cagr": 0.0179,
+  "latest_rev_yoy": 0.073,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

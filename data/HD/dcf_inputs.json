@@ -1,0 +1,16 @@
+{
+  "ticker": "HD",
+  "price": 324.71,
+  "beta": 0.951,
+  "market_cap": 323773759488,
+  "ocf_ttm": 18032000000.0,
+  "capex_ttm": 3717000000.0,
+  "da_ttm": 4208000000.0,
+  "sbc_est": null,
+  "cash": 1600999936,
+  "debt": 63730999296,
+  "shares": 997116682,
+  "rev_cagr": 0.0152,
+  "latest_rev_yoy": 0.048,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

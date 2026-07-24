@@ -1,0 +1,16 @@
+{
+  "ticker": "AVGO",
+  "price": 392.47,
+  "beta": 1.462,
+  "market_cap": 1867207540736,
+  "ocf_ttm": 33622000000.0,
+  "capex_ttm": 860000000.0,
+  "da_ttm": 8753000000.0,
+  "sbc_est": null,
+  "cash": 19627999232,
+  "debt": 64907001856,
+  "shares": 4757580198,
+  "rev_cagr": 0.2438,
+  "latest_rev_yoy": 0.479,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

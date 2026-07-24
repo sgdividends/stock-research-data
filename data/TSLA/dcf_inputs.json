@@ -1,0 +1,16 @@
+{
+  "ticker": "TSLA",
+  "price": 319.69,
+  "beta": null,
+  "market_cap": 1262630862848,
+  "ocf_ttm": 16528000000.0,
+  "capex_ttm": 9528000000.0,
+  "da_ttm": 6291000000.0,
+  "sbc_est": null,
+  "cash": 43524001792,
+  "debt": 9342000128,
+  "shares": 3949547394,
+  "rev_cagr": 0.0519,
+  "latest_rev_yoy": 0.255,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

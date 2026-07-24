@@ -1,0 +1,16 @@
+{
+  "ticker": "LYV",
+  "price": 176.06,
+  "beta": 1.107,
+  "market_cap": 40971415552,
+  "ocf_ttm": 2412900000.0,
+  "capex_ttm": 1207724000.0,
+  "da_ttm": 658713000.0,
+  "sbc_est": null,
+  "cash": 9077847040,
+  "debt": 10583402496,
+  "shares": 232712799,
+  "rev_cagr": 0.1474,
+  "latest_rev_yoy": 0.122,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

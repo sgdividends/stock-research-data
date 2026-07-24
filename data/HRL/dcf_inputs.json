@@ -1,0 +1,16 @@
+{
+  "ticker": "HRL",
+  "price": 25.02,
+  "beta": 0.328,
+  "market_cap": 13768880128,
+  "ocf_ttm": 1007758000.0,
+  "capex_ttm": 314819000.0,
+  "da_ttm": 269987000.0,
+  "sbc_est": null,
+  "cash": 574262976,
+  "debt": 250000000,
+  "shares": 550314959,
+  "rev_cagr": -0.0095,
+  "latest_rev_yoy": -0.029,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "EFX",
+  "price": 166.72,
+  "beta": 1.316,
+  "market_cap": 19587082240,
+  "ocf_ttm": 1612400000.0,
+  "capex_ttm": 507400000.0,
+  "da_ttm": 747400000.0,
+  "sbc_est": null,
+  "cash": 170100000,
+  "debt": 5467100160,
+  "shares": 117484896,
+  "rev_cagr": 0.0585,
+  "latest_rev_yoy": 0.106,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

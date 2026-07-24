@@ -1,0 +1,16 @@
+{
+  "ticker": "BLDR",
+  "price": 70.55,
+  "beta": 1.418,
+  "market_cap": 7588349440,
+  "ocf_ttm": 1171012000.0,
+  "capex_ttm": 309373000.0,
+  "da_ttm": 594761000.0,
+  "sbc_est": null,
+  "cash": 98342000,
+  "debt": 5291918848,
+  "shares": 107559876,
+  "rev_cagr": -0.1257,
+  "latest_rev_yoy": -0.101,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

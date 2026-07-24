@@ -1,0 +1,16 @@
+{
+  "ticker": "ULTA",
+  "price": 477.955,
+  "beta": 0.879,
+  "market_cap": 20546955264,
+  "ocf_ttm": 1544653000.0,
+  "capex_ttm": 414074000.0,
+  "da_ttm": 310138000.0,
+  "sbc_est": null,
+  "cash": 221300000,
+  "debt": 2302443008,
+  "shares": 42989311,
+  "rev_cagr": 0.0668,
+  "latest_rev_yoy": 0.111,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

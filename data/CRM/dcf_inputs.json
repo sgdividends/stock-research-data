@@ -1,0 +1,16 @@
+{
+  "ticker": "CRM",
+  "price": 156.93,
+  "beta": 1.178,
+  "market_cap": 128525664256,
+  "ocf_ttm": 15221000000.0,
+  "capex_ttm": 560000000.0,
+  "da_ttm": 3773000000.0,
+  "sbc_est": null,
+  "cash": 11836999680,
+  "debt": 42547998720,
+  "shares": 819000000,
+  "rev_cagr": 0.0982,
+  "latest_rev_yoy": 0.133,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

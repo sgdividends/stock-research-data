@@ -1,0 +1,16 @@
+{
+  "ticker": "CSCO",
+  "price": 112.76,
+  "beta": 1.007,
+  "market_cap": 444436185088,
+  "ocf_ttm": 13025000000.0,
+  "capex_ttm": 1237000000.0,
+  "da_ttm": 2537000000.0,
+  "sbc_est": null,
+  "cash": 16640000000,
+  "debt": 33001000960,
+  "shares": 3941434665,
+  "rev_cagr": 0.0319,
+  "latest_rev_yoy": 0.12,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

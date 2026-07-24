@@ -1,0 +1,16 @@
+{
+  "ticker": "MOS",
+  "price": 22.28,
+  "beta": 0.825,
+  "market_cap": 7081623552,
+  "ocf_ttm": 886100000.0,
+  "capex_ttm": 1375400000.0,
+  "da_ttm": 1123500000.0,
+  "sbc_est": null,
+  "cash": 281800000,
+  "debt": 5762500096,
+  "shares": 317846644,
+  "rev_cagr": -0.1427,
+  "latest_rev_yoy": 0.144,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

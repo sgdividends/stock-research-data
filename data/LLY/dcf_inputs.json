@@ -1,0 +1,16 @@
+{
+  "ticker": "LLY",
+  "price": 1185.87,
+  "beta": 0.506,
+  "market_cap": 1057489354752,
+  "ocf_ttm": 20480000000.0,
+  "capex_ttm": 10112000000.0,
+  "da_ttm": 2043000000.0,
+  "sbc_est": null,
+  "cash": 5281999872,
+  "debt": 43370000384,
+  "shares": 891741406,
+  "rev_cagr": 0.3169,
+  "latest_rev_yoy": 0.555,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

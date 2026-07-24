@@ -1,0 +1,16 @@
+{
+  "ticker": "CNC",
+  "price": 63.74,
+  "beta": 1.077,
+  "market_cap": 31474620416,
+  "ocf_ttm": 7944000000.0,
+  "capex_ttm": 832000000.0,
+  "da_ttm": 1261000000.0,
+  "sbc_est": null,
+  "cash": 23740999680,
+  "debt": 16371000320,
+  "shares": 493797000,
+  "rev_cagr": 0.1045,
+  "latest_rev_yoy": 0.051,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

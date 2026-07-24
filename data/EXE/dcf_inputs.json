@@ -1,0 +1,16 @@
+{
+  "ticker": "EXE",
+  "price": 91.73,
+  "beta": 0.326,
+  "market_cap": 21944463360,
+  "ocf_ttm": 5881000000.0,
+  "capex_ttm": 3079000000.0,
+  "da_ttm": 2980000000.0,
+  "sbc_est": null,
+  "cash": 2220000000,
+  "debt": 5058999808,
+  "shares": 239228849,
+  "rev_cagr": 0.0213,
+  "latest_rev_yoy": 0.41,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

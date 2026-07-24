@@ -1,0 +1,16 @@
+{
+  "ticker": "EW",
+  "price": 83.82,
+  "beta": 0.855,
+  "market_cap": 48263557120,
+  "ocf_ttm": 1358600000.0,
+  "capex_ttm": 269100000.0,
+  "da_ttm": 160900000.0,
+  "sbc_est": null,
+  "cash": 3671500032,
+  "debt": 702899968,
+  "shares": 575800000,
+  "rev_cagr": 0.1077,
+  "latest_rev_yoy": 0.167,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

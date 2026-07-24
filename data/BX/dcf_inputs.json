@@ -1,0 +1,16 @@
+{
+  "ticker": "BX",
+  "price": 124.5,
+  "beta": 1.58,
+  "market_cap": 154953613312,
+  "ocf_ttm": 4544989000.0,
+  "capex_ttm": 119834000.0,
+  "da_ttm": 36083000.0,
+  "sbc_est": null,
+  "cash": 2605123072,
+  "debt": 15424749568,
+  "shares": 1244607299,
+  "rev_cagr": 0.2027,
+  "latest_rev_yoy": 0.057,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

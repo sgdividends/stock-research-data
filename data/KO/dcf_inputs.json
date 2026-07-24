@@ -1,0 +1,16 @@
+{
+  "ticker": "KO",
+  "price": 81.17,
+  "beta": 0.349,
+  "market_cap": 349232496640,
+  "ocf_ttm": 14631000000.0,
+  "capex_ttm": 2069000000.0,
+  "da_ttm": 1047000000.0,
+  "sbc_est": null,
+  "cash": 13820000256,
+  "debt": 44646998016,
+  "shares": 4302482418,
+  "rev_cagr": 0.0369,
+  "latest_rev_yoy": 0.121,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

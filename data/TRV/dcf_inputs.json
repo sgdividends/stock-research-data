@@ -1,0 +1,16 @@
+{
+  "ticker": "TRV",
+  "price": 376.37,
+  "beta": 0.473,
+  "market_cap": 78501380096,
+  "ocf_ttm": 11026000000.0,
+  "capex_ttm": null,
+  "da_ttm": 691000000.0,
+  "sbc_est": null,
+  "cash": 5061000192,
+  "debt": 9068000256,
+  "shares": 208575022,
+  "rev_cagr": 0.0979,
+  "latest_rev_yoy": 0.003,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

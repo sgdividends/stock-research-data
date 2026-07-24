@@ -1,0 +1,16 @@
+{
+  "ticker": "CVNA",
+  "price": 60.19,
+  "beta": 3.462,
+  "market_cap": 66018541568,
+  "ocf_ttm": 911000000.0,
+  "capex_ttm": 171000000.0,
+  "da_ttm": 271000000.0,
+  "sbc_est": null,
+  "cash": 2902000128,
+  "debt": 5621000192,
+  "shares": 1096835740,
+  "rev_cagr": 0.1431,
+  "latest_rev_yoy": 0.52,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

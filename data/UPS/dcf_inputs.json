@@ -1,0 +1,16 @@
+{
+  "ticker": "UPS",
+  "price": 114.1,
+  "beta": 1.03,
+  "market_cap": 96985710592,
+  "ocf_ttm": 8356000000.0,
+  "capex_ttm": 3840000000.0,
+  "da_ttm": 3819000000.0,
+  "sbc_est": null,
+  "cash": 5801999872,
+  "debt": 28661999616,
+  "shares": 850006279,
+  "rev_cagr": -0.0404,
+  "latest_rev_yoy": -0.016,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

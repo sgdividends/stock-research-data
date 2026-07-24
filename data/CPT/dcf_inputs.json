@@ -1,0 +1,16 @@
+{
+  "ticker": "CPT",
+  "price": 112.84,
+  "beta": 0.798,
+  "market_cap": 11181381632,
+  "ocf_ttm": 826510000.0,
+  "capex_ttm": 456028000.0,
+  "da_ttm": 611773000.0,
+  "sbc_est": null,
+  "cash": 40684000,
+  "debt": 4275068928,
+  "shares": 99090596,
+  "rev_cagr": 0.0341,
+  "latest_rev_yoy": -0.005,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

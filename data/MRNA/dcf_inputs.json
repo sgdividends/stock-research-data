@@ -1,0 +1,16 @@
+{
+  "ticker": "MRNA",
+  "price": 57.02,
+  "beta": 0.942,
+  "market_cap": 22624753664,
+  "ocf_ttm": -1466000000.0,
+  "capex_ttm": 137000000.0,
+  "da_ttm": 235000000.0,
+  "sbc_est": null,
+  "cash": 5205000192,
+  "debt": 1298000000,
+  "shares": 396786259,
+  "rev_cagr": -0.533,
+  "latest_rev_yoy": 2.602,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "PAYX",
+  "price": 110.66,
+  "beta": null,
+  "market_cap": 39359864832,
+  "ocf_ttm": 2556700000.0,
+  "capex_ttm": 234900000.0,
+  "da_ttm": 442600000.0,
+  "sbc_est": null,
+  "cash": 1143699968,
+  "debt": 4630300160,
+  "shares": 355682860,
+  "rev_cagr": 0.0915,
+  "latest_rev_yoy": 0.125,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

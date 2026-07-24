@@ -1,0 +1,16 @@
+{
+  "ticker": "HONA",
+  "price": 195.87,
+  "beta": null,
+  "market_cap": 62078984192,
+  "ocf_ttm": 52000000.0,
+  "capex_ttm": 238000000.0,
+  "da_ttm": 213000000.0,
+  "sbc_est": null,
+  "cash": 989000000,
+  "debt": 16149000192,
+  "shares": 316939750,
+  "rev_cagr": 0.1234,
+  "latest_rev_yoy": 0.068,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

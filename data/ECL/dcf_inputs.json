@@ -1,0 +1,16 @@
+{
+  "ticker": "ECL",
+  "price": 263.14,
+  "beta": 0.895,
+  "market_cap": 74057465856,
+  "ocf_ttm": 3029100000.0,
+  "capex_ttm": 1158900000.0,
+  "da_ttm": 1003400000.0,
+  "sbc_est": null,
+  "cash": 519800000,
+  "debt": 9266499584,
+  "shares": 281437502,
+  "rev_cagr": 0.0426,
+  "latest_rev_yoy": 0.1,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

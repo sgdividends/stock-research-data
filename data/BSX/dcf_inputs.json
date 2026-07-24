@@ -1,0 +1,16 @@
+{
+  "ticker": "BSX",
+  "price": 43.58,
+  "beta": 0.577,
+  "market_cap": 64775360512,
+  "ocf_ttm": 4341000000.0,
+  "capex_ttm": 1043000000.0,
+  "da_ttm": 1394000000.0,
+  "sbc_est": null,
+  "cash": 1452999936,
+  "debt": 11029000192,
+  "shares": 1486355179,
+  "rev_cagr": 0.1654,
+  "latest_rev_yoy": 0.116,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

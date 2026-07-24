@@ -1,0 +1,16 @@
+{
+  "ticker": "WAB",
+  "price": 297.99,
+  "beta": null,
+  "market_cap": 50333741056,
+  "ocf_ttm": 1999000000.0,
+  "capex_ttm": 285000000.0,
+  "da_ttm": 504000000.0,
+  "sbc_est": null,
+  "cash": null,
+  "debt": null,
+  "shares": 168910851,
+  "rev_cagr": 0.1012,
+  "latest_rev_yoy": null,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

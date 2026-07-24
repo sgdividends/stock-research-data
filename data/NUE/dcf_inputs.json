@@ -1,0 +1,16 @@
+{
+  "ticker": "NUE",
+  "price": 241.15,
+  "beta": 1.922,
+  "market_cap": 54919729152,
+  "ocf_ttm": 3756000000.0,
+  "capex_ttm": 3224000000.0,
+  "da_ttm": 1496000000.0,
+  "sbc_est": null,
+  "cash": 2480999936,
+  "debt": 7123999744,
+  "shares": 227740950,
+  "rev_cagr": -0.0784,
+  "latest_rev_yoy": 0.213,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

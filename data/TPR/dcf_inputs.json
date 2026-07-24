@@ -1,0 +1,16 @@
+{
+  "ticker": "TPR",
+  "price": 139.13,
+  "beta": 1.444,
+  "market_cap": 28110483456,
+  "ocf_ttm": 1903100000.0,
+  "capex_ttm": 148100000.0,
+  "da_ttm": 220100000.0,
+  "sbc_est": null,
+  "cash": 1068600000,
+  "debt": 3923200000,
+  "shares": 202044714,
+  "rev_cagr": 0.016,
+  "latest_rev_yoy": 0.212,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

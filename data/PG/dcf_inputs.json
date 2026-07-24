@@ -1,0 +1,16 @@
+{
+  "ticker": "PG",
+  "price": 146.97,
+  "beta": 0.38,
+  "market_cap": 342234202112,
+  "ocf_ttm": 19410000000.0,
+  "capex_ttm": 4382000000.0,
+  "da_ttm": 3071000000.0,
+  "sbc_est": null,
+  "cash": 12305999872,
+  "debt": 37026000896,
+  "shares": 2328598978,
+  "rev_cagr": 0.0167,
+  "latest_rev_yoy": 0.074,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

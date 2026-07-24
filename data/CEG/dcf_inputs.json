@@ -1,0 +1,16 @@
+{
+  "ticker": "CEG",
+  "price": 275.6,
+  "beta": 1.121,
+  "market_cap": 98417319936,
+  "ocf_ttm": 4555000000.0,
+  "capex_ttm": 3418000000.0,
+  "da_ttm": 2129000000.0,
+  "sbc_est": null,
+  "cash": 864000000,
+  "debt": 22466000896,
+  "shares": 357102017,
+  "rev_cagr": 0.0147,
+  "latest_rev_yoy": 0.638,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

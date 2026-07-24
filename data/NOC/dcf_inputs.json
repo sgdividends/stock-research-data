@@ -1,0 +1,16 @@
+{
+  "ticker": "NOC",
+  "price": 533.48,
+  "beta": -0.102,
+  "market_cap": 75787780096,
+  "ocf_ttm": 5078000000.0,
+  "capex_ttm": 1432000000.0,
+  "da_ttm": 1524000000.0,
+  "sbc_est": null,
+  "cash": 2307000064,
+  "debt": 17052000256,
+  "shares": 142063026,
+  "rev_cagr": 0.0465,
+  "latest_rev_yoy": 0.051,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "CHD",
+  "price": 96.19,
+  "beta": 0.467,
+  "market_cap": 22791606272,
+  "ocf_ttm": 1204500000.0,
+  "capex_ttm": 137800000.0,
+  "da_ttm": 249400000.0,
+  "sbc_est": null,
+  "cash": 503400000,
+  "debt": 2377400064,
+  "shares": 236943602,
+  "rev_cagr": 0.0489,
+  "latest_rev_yoy": 0.002,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

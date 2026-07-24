@@ -1,0 +1,16 @@
+{
+  "ticker": "AMP",
+  "price": 520.11,
+  "beta": 1.159,
+  "market_cap": 45977722880,
+  "ocf_ttm": 7096000000.0,
+  "capex_ttm": 155000000.0,
+  "da_ttm": -75000000.0,
+  "sbc_est": null,
+  "cash": 8496000000,
+  "debt": 3494000128,
+  "shares": 88400000,
+  "rev_cagr": 0.0903,
+  "latest_rev_yoy": 0.09,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

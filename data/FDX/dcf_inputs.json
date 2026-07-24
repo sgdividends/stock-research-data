@@ -1,0 +1,16 @@
+{
+  "ticker": "FDX",
+  "price": 315.62,
+  "beta": 1.337,
+  "market_cap": 74669752320,
+  "ocf_ttm": 8925000000.0,
+  "capex_ttm": 3809000000.0,
+  "da_ttm": 4369000000.0,
+  "sbc_est": null,
+  "cash": 13550999552,
+  "debt": 42944000000,
+  "shares": 236581188,
+  "rev_cagr": 0.0166,
+  "latest_rev_yoy": 0.125,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

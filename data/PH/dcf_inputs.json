@@ -1,0 +1,16 @@
+{
+  "ticker": "PH",
+  "price": 985.48,
+  "beta": 1.11,
+  "market_cap": 124255617024,
+  "ocf_ttm": 4095239000.0,
+  "capex_ttm": 416847000.0,
+  "da_ttm": 929335000.0,
+  "sbc_est": null,
+  "cash": 476000000,
+  "debt": 9582000128,
+  "shares": 126086389,
+  "rev_cagr": 0.0776,
+  "latest_rev_yoy": 0.106,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

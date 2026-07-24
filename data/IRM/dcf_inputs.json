@@ -1,0 +1,16 @@
+{
+  "ticker": "IRM",
+  "price": 124.55,
+  "beta": 1.219,
+  "market_cap": 37056700416,
+  "ocf_ttm": 1481250000.0,
+  "capex_ttm": 2184643000.0,
+  "da_ttm": 1093081000.0,
+  "sbc_est": null,
+  "cash": 250710000,
+  "debt": 19716626432,
+  "shares": 297524681,
+  "rev_cagr": 0.1058,
+  "latest_rev_yoy": 0.216,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

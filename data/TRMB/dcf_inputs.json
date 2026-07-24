@@ -1,0 +1,16 @@
+{
+  "ticker": "TRMB",
+  "price": 50.35,
+  "beta": 1.383,
+  "market_cap": 11737164800,
+  "ocf_ttm": 505300000.0,
+  "capex_ttm": 24800000.0,
+  "da_ttm": 200900000.0,
+  "sbc_est": null,
+  "cash": 234100000,
+  "debt": 1412800000,
+  "shares": 233111519,
+  "rev_cagr": -0.0081,
+  "latest_rev_yoy": 0.118,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

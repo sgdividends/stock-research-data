@@ -1,0 +1,16 @@
+{
+  "ticker": "FDS",
+  "price": 243.96,
+  "beta": 0.715,
+  "market_cap": 8676570112,
+  "ocf_ttm": 829592000.0,
+  "capex_ttm": 121285000.0,
+  "da_ttm": 208526000.0,
+  "sbc_est": null,
+  "cash": 304236000,
+  "debt": 1570642048,
+  "shares": 35565543,
+  "rev_cagr": 0.0798,
+  "latest_rev_yoy": 0.064,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

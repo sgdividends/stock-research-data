@@ -1,0 +1,16 @@
+{
+  "ticker": "PGR",
+  "price": 207.07,
+  "beta": 0.246,
+  "market_cap": 120390500352,
+  "ocf_ttm": 16772000000.0,
+  "capex_ttm": 352000000.0,
+  "da_ttm": 318000000.0,
+  "sbc_est": null,
+  "cash": 1978000000,
+  "debt": 8386999808,
+  "shares": 581400000,
+  "rev_cagr": 0.209,
+  "latest_rev_yoy": 0.073,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

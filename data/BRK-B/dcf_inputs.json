@@ -1,0 +1,16 @@
+{
+  "ticker": "BRK-B",
+  "price": 490.85,
+  "beta": 0.607,
+  "market_cap": 1058691678208,
+  "ocf_ttm": 42618000000.0,
+  "capex_ttm": 20327000000.0,
+  "da_ttm": 13653000000.0,
+  "sbc_est": null,
+  "cash": 397383008256,
+  "debt": 128885997568,
+  "shares": 2156853797,
+  "rev_cagr": 0.2059,
+  "latest_rev_yoy": 0.044,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

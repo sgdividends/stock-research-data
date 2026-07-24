@@ -1,0 +1,16 @@
+{
+  "ticker": "AMD",
+  "price": 539.69,
+  "beta": 2.469,
+  "market_cap": 880018849792,
+  "ocf_ttm": 9725000000.0,
+  "capex_ttm": 1151000000.0,
+  "da_ttm": 3019000000.0,
+  "sbc_est": null,
+  "cash": 12346999808,
+  "debt": 3871000064,
+  "shares": 1630600639,
+  "rev_cagr": 0.1364,
+  "latest_rev_yoy": 0.378,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

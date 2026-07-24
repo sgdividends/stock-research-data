@@ -1,0 +1,16 @@
+{
+  "ticker": "CCL",
+  "price": 25.27,
+  "beta": 2.322,
+  "market_cap": 34611036160,
+  "ocf_ttm": 6794000000.0,
+  "capex_ttm": 3594000000.0,
+  "da_ttm": 2863000000.0,
+  "sbc_est": null,
+  "cash": 2243000064,
+  "debt": 26169999360,
+  "shares": 1369649119,
+  "rev_cagr": 0.2981,
+  "latest_rev_yoy": 0.053,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

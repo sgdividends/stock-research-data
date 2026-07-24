@@ -1,0 +1,16 @@
+{
+  "ticker": "JBL",
+  "price": 322.04,
+  "beta": 1.279,
+  "market_cap": 33745635328,
+  "ocf_ttm": 1857000000.0,
+  "capex_ttm": 551000000.0,
+  "da_ttm": 697000000.0,
+  "sbc_est": null,
+  "cash": 1360000000,
+  "debt": 3943000064,
+  "shares": 104787089,
+  "rev_cagr": -0.038,
+  "latest_rev_yoy": 0.118,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

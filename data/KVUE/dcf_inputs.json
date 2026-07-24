@@ -1,0 +1,16 @@
+{
+  "ticker": "KVUE",
+  "price": 18.9,
+  "beta": 0.437,
+  "market_cap": 36288163840,
+  "ocf_ttm": 2258000000.0,
+  "capex_ttm": 435000000.0,
+  "da_ttm": 564000000.0,
+  "sbc_est": null,
+  "cash": 1075000064,
+  "debt": 8801999872,
+  "shares": 1920008668,
+  "rev_cagr": 0.0039,
+  "latest_rev_yoy": 0.045,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

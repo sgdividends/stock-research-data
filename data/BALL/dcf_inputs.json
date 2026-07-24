@@ -1,0 +1,16 @@
+{
+  "ticker": "BALL",
+  "price": 62.23,
+  "beta": 0.986,
+  "market_cap": 16568520704,
+  "ocf_ttm": 1150000000.0,
+  "capex_ttm": 554000000.0,
+  "da_ttm": 631000000.0,
+  "sbc_est": null,
+  "cash": 733000000,
+  "debt": 8177999872,
+  "shares": 266246511,
+  "rev_cagr": -0.0053,
+  "latest_rev_yoy": 0.163,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

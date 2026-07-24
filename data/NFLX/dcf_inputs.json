@@ -1,0 +1,16 @@
+{
+  "ticker": "NFLX",
+  "price": 68.89,
+  "beta": 1.517,
+  "market_cap": 286853791744,
+  "ocf_ttm": 11970833000.0,
+  "capex_ttm": 818828000.0,
+  "da_ttm": 17668603000.0,
+  "sbc_est": null,
+  "cash": 9127910400,
+  "debt": 16654660608,
+  "shares": 4163939676,
+  "rev_cagr": 0.1264,
+  "latest_rev_yoy": 0.134,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

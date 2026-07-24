@@ -1,0 +1,16 @@
+{
+  "ticker": "AIG",
+  "price": 78.16,
+  "beta": 0.541,
+  "market_cap": 41440919552,
+  "ocf_ttm": 3525000000.0,
+  "capex_ttm": null,
+  "da_ttm": 3438000000.0,
+  "sbc_est": null,
+  "cash": 9592999936,
+  "debt": 9155999744,
+  "shares": 530206221,
+  "rev_cagr": -0.0369,
+  "latest_rev_yoy": 0.014,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

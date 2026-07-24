@@ -1,0 +1,16 @@
+{
+  "ticker": "APP",
+  "price": 398.86,
+  "beta": 2.483,
+  "market_cap": 133992833024,
+  "ocf_ttm": 4430775000.0,
+  "capex_ttm": null,
+  "da_ttm": 148556000.0,
+  "sbc_est": null,
+  "cash": 2758671104,
+  "debt": 3849840128,
+  "shares": 335939521,
+  "rev_cagr": 0.2484,
+  "latest_rev_yoy": 0.59,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

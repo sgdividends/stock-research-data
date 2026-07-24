@@ -1,0 +1,16 @@
+{
+  "ticker": "DIS",
+  "price": 92.83,
+  "beta": 1.398,
+  "market_cap": 161200357376,
+  "ocf_ttm": 15792000000.0,
+  "capex_ttm": 8682000000.0,
+  "da_ttm": 5447000000.0,
+  "sbc_est": null,
+  "cash": 5681999872,
+  "debt": 47358001152,
+  "shares": 1736511424,
+  "rev_cagr": 0.0451,
+  "latest_rev_yoy": 0.065,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

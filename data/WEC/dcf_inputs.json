@@ -1,0 +1,16 @@
+{
+  "ticker": "WEC",
+  "price": 114.72,
+  "beta": 0.46,
+  "market_cap": 37367246848,
+  "ocf_ttm": 3435200000.0,
+  "capex_ttm": 4514900000.0,
+  "da_ttm": 1498400000.0,
+  "sbc_est": null,
+  "cash": 45600000,
+  "debt": 22317799424,
+  "shares": 325725678,
+  "rev_cagr": 0.007,
+  "latest_rev_yoy": 0.09,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

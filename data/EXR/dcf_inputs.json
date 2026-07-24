@@ -1,0 +1,16 @@
+{
+  "ticker": "EXR",
+  "price": 145.42,
+  "beta": 1.2,
+  "market_cap": 32093308928,
+  "ocf_ttm": 1858644000.0,
+  "capex_ttm": 19725000.0,
+  "da_ttm": 720616000.0,
+  "sbc_est": null,
+  "cash": 141698000,
+  "debt": 13941396480,
+  "shares": 220693926,
+  "rev_cagr": 0.2063,
+  "latest_rev_yoy": 0.038,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

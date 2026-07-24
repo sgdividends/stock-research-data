@@ -1,0 +1,16 @@
+{
+  "ticker": "AFL",
+  "price": 124.34,
+  "beta": 0.603,
+  "market_cap": 63287181312,
+  "ocf_ttm": 2934000000.0,
+  "capex_ttm": null,
+  "da_ttm": null,
+  "sbc_est": null,
+  "cash": 8270000128,
+  "debt": 14464000000,
+  "shares": 508984904,
+  "rev_cagr": -0.0323,
+  "latest_rev_yoy": 0.279,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

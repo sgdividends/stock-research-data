@@ -1,0 +1,16 @@
+{
+  "ticker": "TFC",
+  "price": 51.2,
+  "beta": 0.875,
+  "market_cap": 62547251200,
+  "ocf_ttm": 5672000000.0,
+  "capex_ttm": null,
+  "da_ttm": 810000000.0,
+  "sbc_est": null,
+  "cash": 49007001600,
+  "debt": 69860999168,
+  "shares": 1221626000,
+  "rev_cagr": 0.0057,
+  "latest_rev_yoy": 0.082,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

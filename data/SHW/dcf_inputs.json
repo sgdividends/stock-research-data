@@ -1,0 +1,16 @@
+{
+  "ticker": "SHW",
+  "price": 310.54,
+  "beta": 1.1,
+  "market_cap": 76590227456,
+  "ocf_ttm": 3651800000.0,
+  "capex_ttm": 746600000.0,
+  "da_ttm": 702800000.0,
+  "sbc_est": null,
+  "cash": 216900000,
+  "debt": 14601400320,
+  "shares": 246635621,
+  "rev_cagr": 0.021,
+  "latest_rev_yoy": 0.068,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

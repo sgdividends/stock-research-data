@@ -1,0 +1,16 @@
+{
+  "ticker": "PPG",
+  "price": 113.75,
+  "beta": 1.045,
+  "market_cap": 25354874880,
+  "ocf_ttm": 1992000000.0,
+  "capex_ttm": 765000000.0,
+  "da_ttm": 539000000.0,
+  "sbc_est": null,
+  "cash": 1624000000,
+  "debt": 7736999936,
+  "shares": 222900000,
+  "rev_cagr": 0.0055,
+  "latest_rev_yoy": 0.067,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

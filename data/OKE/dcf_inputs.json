@@ -1,0 +1,16 @@
+{
+  "ticker": "OKE",
+  "price": 93.23,
+  "beta": 0.707,
+  "market_cap": 58737963008,
+  "ocf_ttm": 5629000000.0,
+  "capex_ttm": 3387000000.0,
+  "da_ttm": 1512000000.0,
+  "sbc_est": null,
+  "cash": 172000000,
+  "debt": 33652000768,
+  "shares": 630032852,
+  "rev_cagr": 0.1453,
+  "latest_rev_yoy": 0.196,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

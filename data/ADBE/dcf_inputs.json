@@ -1,0 +1,16 @@
+{
+  "ticker": "ADBE",
+  "price": 212.17,
+  "beta": 1.433,
+  "market_cap": 84337573888,
+  "ocf_ttm": 10481000000.0,
+  "capex_ttm": 201000000.0,
+  "da_ttm": 759000000.0,
+  "sbc_est": null,
+  "cash": 5625999872,
+  "debt": 7077000192,
+  "shares": 397500000,
+  "rev_cagr": 0.1052,
+  "latest_rev_yoy": 0.127,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

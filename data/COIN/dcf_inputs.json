@@ -1,0 +1,16 @@
+{
+  "ticker": "COIN",
+  "price": 161.16,
+  "beta": 3.351,
+  "market_cap": 42459336704,
+  "ocf_ttm": 1756433000.0,
+  "capex_ttm": null,
+  "da_ttm": 223101000.0,
+  "sbc_est": null,
+  "cash": 10438001664,
+  "debt": 7964423168,
+  "shares": 263460766,
+  "rev_cagr": 0.31,
+  "latest_rev_yoy": -0.308,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "WST",
+  "price": 355.48,
+  "beta": 1.159,
+  "market_cap": 25025792000,
+  "ocf_ttm": 715300000.0,
+  "capex_ttm": 257300000.0,
+  "da_ttm": 176600000.0,
+  "sbc_est": null,
+  "cash": 521400000,
+  "debt": 321000000,
+  "shares": 70400000,
+  "rev_cagr": 0.0212,
+  "latest_rev_yoy": 0.21,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

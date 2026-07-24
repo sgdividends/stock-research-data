@@ -1,0 +1,16 @@
+{
+  "ticker": "AOS",
+  "price": 59.49,
+  "beta": 1.153,
+  "market_cap": 8199425024,
+  "ocf_ttm": 707500000.0,
+  "capex_ttm": 60000000.0,
+  "da_ttm": 88300000.0,
+  "sbc_est": null,
+  "cash": 203900000,
+  "debt": 656899968,
+  "shares": 137828624,
+  "rev_cagr": 0.0067,
+  "latest_rev_yoy": -0.019,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

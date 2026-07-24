@@ -1,0 +1,16 @@
+{
+  "ticker": "PCG",
+  "price": 17.54,
+  "beta": 0.268,
+  "market_cap": 47009140736,
+  "ocf_ttm": 8147000000.0,
+  "capex_ttm": 12410000000.0,
+  "da_ttm": 4692000000.0,
+  "sbc_est": null,
+  "cash": 1131000064,
+  "debt": 62940999680,
+  "shares": 2680110496,
+  "rev_cagr": 0.0477,
+  "latest_rev_yoy": 0.15,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

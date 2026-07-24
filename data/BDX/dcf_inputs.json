@@ -1,0 +1,16 @@
+{
+  "ticker": "BDX",
+  "price": 152.97,
+  "beta": 0.271,
+  "market_cap": 42149416960,
+  "ocf_ttm": 3831000000.0,
+  "capex_ttm": 774000000.0,
+  "da_ttm": 2465000000.0,
+  "sbc_est": null,
+  "cash": 816000000,
+  "debt": 17279000576,
+  "shares": 275540427,
+  "rev_cagr": 0.0499,
+  "latest_rev_yoy": 0.052,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

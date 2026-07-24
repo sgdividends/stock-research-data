@@ -1,0 +1,16 @@
+{
+  "ticker": "MDT",
+  "price": 82.01,
+  "beta": 0.583,
+  "market_cap": 104976506880,
+  "ocf_ttm": 7330000000.0,
+  "capex_ttm": 1904000000.0,
+  "da_ttm": 2958000000.0,
+  "sbc_est": null,
+  "cash": 9219999744,
+  "debt": 29148999680,
+  "shares": 1280045190,
+  "rev_cagr": 0.0521,
+  "latest_rev_yoy": 0.099,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

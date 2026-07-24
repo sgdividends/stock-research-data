@@ -1,0 +1,16 @@
+{
+  "ticker": "GLW",
+  "price": 156.06,
+  "beta": 1.086,
+  "market_cap": 134311133184,
+  "ocf_ttm": 2906000000.0,
+  "capex_ttm": 1406000000.0,
+  "da_ttm": 1385000000.0,
+  "sbc_est": null,
+  "cash": 1755000064,
+  "debt": 9923999744,
+  "shares": 860637825,
+  "rev_cagr": 0.0327,
+  "latest_rev_yoy": 0.2,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

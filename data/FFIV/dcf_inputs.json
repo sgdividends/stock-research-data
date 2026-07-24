@@ -1,0 +1,16 @@
+{
+  "ticker": "FFIV",
+  "price": 388.08,
+  "beta": 1.03,
+  "market_cap": 21895180288,
+  "ocf_ttm": 1015415000.0,
+  "capex_ttm": 52750000.0,
+  "da_ttm": 96447000.0,
+  "sbc_est": null,
+  "cash": 1442811008,
+  "debt": 259860992,
+  "shares": 56419247,
+  "rev_cagr": 0.0463,
+  "latest_rev_yoy": 0.11,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "CL",
+  "price": 90.08,
+  "beta": 0.319,
+  "market_cap": 72081055744,
+  "ocf_ttm": 4345000000.0,
+  "capex_ttm": 578000000.0,
+  "da_ttm": 638000000.0,
+  "sbc_est": null,
+  "cash": 1419000064,
+  "debt": 7973000192,
+  "shares": 800189310,
+  "rev_cagr": 0.0429,
+  "latest_rev_yoy": 0.084,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

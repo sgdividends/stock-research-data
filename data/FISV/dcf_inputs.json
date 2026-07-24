@@ -1,0 +1,16 @@
+{
+  "ticker": "FISV",
+  "price": 49.97,
+  "beta": null,
+  "market_cap": 26646702080,
+  "ocf_ttm": 6013000000.0,
+  "capex_ttm": 1886000000.0,
+  "da_ttm": 3212000000.0,
+  "sbc_est": null,
+  "cash": null,
+  "debt": null,
+  "shares": 533253986,
+  "rev_cagr": 0.0611,
+  "latest_rev_yoy": null,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "RCL",
+  "price": 283.41,
+  "beta": 1.764,
+  "market_cap": 76009136128,
+  "ocf_ttm": 6672000000.0,
+  "capex_ttm": 5301000000.0,
+  "da_ttm": 1767000000.0,
+  "sbc_est": null,
+  "cash": 512000000,
+  "debt": 21792000000,
+  "shares": 268194978,
+  "rev_cagr": 0.2659,
+  "latest_rev_yoy": 0.113,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

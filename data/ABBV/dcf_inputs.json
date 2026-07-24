@@ -1,0 +1,16 @@
+{
+  "ticker": "ABBV",
+  "price": 256.92,
+  "beta": 0.283,
+  "market_cap": 453924454400,
+  "ocf_ttm": 21224000000.0,
+  "capex_ttm": 1244000000.0,
+  "da_ttm": 8036000000.0,
+  "sbc_est": null,
+  "cash": 9390999552,
+  "debt": 72912003072,
+  "shares": 1766792821,
+  "rev_cagr": 0.0175,
+  "latest_rev_yoy": 0.124,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

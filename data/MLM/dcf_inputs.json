@@ -1,0 +1,16 @@
+{
+  "ticker": "MLM",
+  "price": 546.87,
+  "beta": 1.101,
+  "market_cap": 32837300224,
+  "ocf_ttm": 1794000000.0,
+  "capex_ttm": 760000000.0,
+  "da_ttm": 650000000.0,
+  "sbc_est": null,
+  "cash": 273000000,
+  "debt": 5688000000,
+  "shares": 60045900,
+  "rev_cagr": -0.0006,
+  "latest_rev_yoy": 0.172,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

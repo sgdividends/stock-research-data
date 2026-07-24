@@ -1,0 +1,16 @@
+{
+  "ticker": "INVH",
+  "price": 29.44,
+  "beta": 0.843,
+  "market_cap": 17488596992,
+  "ocf_ttm": 1198761000.0,
+  "capex_ttm": 248885000.0,
+  "da_ttm": 756929000.0,
+  "sbc_est": null,
+  "cash": 137576992,
+  "debt": 8858251264,
+  "shares": 594041956,
+  "rev_cagr": 0.0684,
+  "latest_rev_yoy": 0.092,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

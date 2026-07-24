@@ -1,0 +1,16 @@
+{
+  "ticker": "STZ",
+  "price": 129.27,
+  "beta": 0.382,
+  "market_cap": 22079879168,
+  "ocf_ttm": 2693600000.0,
+  "capex_ttm": 859400000.0,
+  "da_ttm": 411100000.0,
+  "sbc_est": null,
+  "cash": 96600000,
+  "debt": 10533799936,
+  "shares": 170804357,
+  "rev_cagr": -0.0112,
+  "latest_rev_yoy": -0.033,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

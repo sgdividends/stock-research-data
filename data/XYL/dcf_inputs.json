@@ -1,0 +1,16 @@
+{
+  "ticker": "XYL",
+  "price": 116.87,
+  "beta": 1.023,
+  "market_cap": 27779237888,
+  "ocf_ttm": 1316000000.0,
+  "capex_ttm": 350000000.0,
+  "da_ttm": 570000000.0,
+  "sbc_est": null,
+  "cash": 808000000,
+  "debt": 2060999936,
+  "shares": 237693493,
+  "rev_cagr": 0.1784,
+  "latest_rev_yoy": 0.027,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

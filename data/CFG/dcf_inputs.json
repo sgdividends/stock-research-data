@@ -1,0 +1,16 @@
+{
+  "ticker": "CFG",
+  "price": 71.8,
+  "beta": 0.998,
+  "market_cap": 30348257280,
+  "ocf_ttm": 2661000000.0,
+  "capex_ttm": 160000000.0,
+  "da_ttm": 468000000.0,
+  "sbc_est": null,
+  "cash": 13866999808,
+  "debt": 16348999680,
+  "shares": 422677660,
+  "rev_cagr": 0.0093,
+  "latest_rev_yoy": 0.147,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

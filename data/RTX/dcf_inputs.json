@@ -1,0 +1,16 @@
+{
+  "ticker": "RTX",
+  "price": 209.16,
+  "beta": 0.298,
+  "market_cap": 281672318976,
+  "ocf_ttm": 11117000000.0,
+  "capex_ttm": 3146000000.0,
+  "da_ttm": 4397000000.0,
+  "sbc_est": null,
+  "cash": 6817999872,
+  "debt": 38934999040,
+  "shares": 1346683428,
+  "rev_cagr": 0.0972,
+  "latest_rev_yoy": 0.087,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "APD",
+  "price": 294.29,
+  "beta": 0.736,
+  "market_cap": 65532702720,
+  "ocf_ttm": 4121400000.0,
+  "capex_ttm": 5372300000.0,
+  "da_ttm": 1559500000.0,
+  "sbc_est": null,
+  "cash": 954200000,
+  "debt": 18442199040,
+  "shares": 222680686,
+  "rev_cagr": -0.0177,
+  "latest_rev_yoy": 0.088,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

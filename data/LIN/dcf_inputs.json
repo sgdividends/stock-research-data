@@ -1,0 +1,16 @@
+{
+  "ticker": "LIN",
+  "price": 506.32,
+  "beta": 0.723,
+  "market_cap": 234095689728,
+  "ocf_ttm": 10429000000.0,
+  "capex_ttm": 5333000000.0,
+  "da_ttm": 3804000000.0,
+  "sbc_est": null,
+  "cash": 3959000064,
+  "debt": 26317000704,
+  "shares": 462347310,
+  "rev_cagr": 0.0062,
+  "latest_rev_yoy": 0.082,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

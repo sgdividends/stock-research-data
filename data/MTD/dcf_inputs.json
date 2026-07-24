@@ -1,0 +1,16 @@
+{
+  "ticker": "MTD",
+  "price": 1331.87,
+  "beta": 1.245,
+  "market_cap": 26913896448,
+  "ocf_ttm": 901117000.0,
+  "capex_ttm": 107283000.0,
+  "da_ttm": 128725000.0,
+  "sbc_est": null,
+  "cash": 60574000,
+  "debt": 2228637952,
+  "shares": 20207601,
+  "rev_cagr": 0.009,
+  "latest_rev_yoy": 0.072,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

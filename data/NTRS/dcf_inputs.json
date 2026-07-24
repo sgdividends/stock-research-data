@@ -1,0 +1,16 @@
+{
+  "ticker": "NTRS",
+  "price": 177.95,
+  "beta": 1.26,
+  "market_cap": 21857906688,
+  "ocf_ttm": 2463700000.0,
+  "capex_ttm": 810200000.0,
+  "da_ttm": 785500000.0,
+  "sbc_est": null,
+  "cash": 1628199936,
+  "debt": 15776199680,
+  "shares": 122831734,
+  "rev_cagr": 0.0615,
+  "latest_rev_yoy": 0.364,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

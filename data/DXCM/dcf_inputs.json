@@ -1,0 +1,16 @@
+{
+  "ticker": "DXCM",
+  "price": 70.48,
+  "beta": 1.453,
+  "market_cap": 27196329984,
+  "ocf_ttm": 1782500000.0,
+  "capex_ttm": 353100000.0,
+  "da_ttm": 258900000.0,
+  "sbc_est": null,
+  "cash": 2415200000,
+  "debt": 1384800000,
+  "shares": 385872977,
+  "rev_cagr": 0.1701,
+  "latest_rev_yoy": 0.15,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

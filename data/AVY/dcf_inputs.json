@@ -1,0 +1,16 @@
+{
+  "ticker": "AVY",
+  "price": 155.2,
+  "beta": 0.826,
+  "market_cap": 11871307776,
+  "ocf_ttm": 1034200000.0,
+  "capex_ttm": 192800000.0,
+  "da_ttm": 337100000.0,
+  "sbc_est": null,
+  "cash": 301700000,
+  "debt": 3790099968,
+  "shares": 76490385,
+  "rev_cagr": -0.0068,
+  "latest_rev_yoy": 0.07,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

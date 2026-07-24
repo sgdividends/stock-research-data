@@ -1,0 +1,16 @@
+{
+  "ticker": "WTW",
+  "price": 288.37,
+  "beta": 0.441,
+  "market_cap": 27235962880,
+  "ocf_ttm": 1800000000.0,
+  "capex_ttm": 233000000.0,
+  "da_ttm": 420000000.0,
+  "sbc_est": null,
+  "cash": 1855000064,
+  "debt": 6905999872,
+  "shares": 94447976,
+  "rev_cagr": 0.0307,
+  "latest_rev_yoy": 0.085,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

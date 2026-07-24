@@ -1,0 +1,16 @@
+{
+  "ticker": "BLK",
+  "price": 1037.16,
+  "beta": 1.443,
+  "market_cap": 168644624384,
+  "ocf_ttm": 4075000000.0,
+  "capex_ttm": 403000000.0,
+  "da_ttm": 1312000000.0,
+  "sbc_est": null,
+  "cash": 13144999936,
+  "debt": 14965000192,
+  "shares": 162602316,
+  "rev_cagr": 0.1065,
+  "latest_rev_yoy": 0.306,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

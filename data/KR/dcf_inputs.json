@@ -1,0 +1,16 @@
+{
+  "ticker": "KR",
+  "price": 55.76,
+  "beta": 0.435,
+  "market_cap": 34161211392,
+  "ocf_ttm": 6936000000.0,
+  "capex_ttm": 4104000000.0,
+  "da_ttm": 3853000000.0,
+  "sbc_est": null,
+  "cash": 2872999936,
+  "debt": 24192000000,
+  "shares": 612647282,
+  "rev_cagr": -0.0014,
+  "latest_rev_yoy": 0.022,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

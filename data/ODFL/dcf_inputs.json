@@ -1,0 +1,16 @@
+{
+  "ticker": "ODFL",
+  "price": 230.71,
+  "beta": 1.184,
+  "market_cap": 47980363776,
+  "ocf_ttm": 1407248000.0,
+  "capex_ttm": 389459000.0,
+  "da_ttm": 367864000.0,
+  "sbc_est": null,
+  "cash": 288081984,
+  "debt": 39996000,
+  "shares": 207968283,
+  "rev_cagr": -0.0424,
+  "latest_rev_yoy": -0.029,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

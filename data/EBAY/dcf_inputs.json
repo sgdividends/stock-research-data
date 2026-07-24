@@ -1,0 +1,16 @@
+{
+  "ticker": "EBAY",
+  "price": 109.32,
+  "beta": 1.365,
+  "market_cap": 48538079232,
+  "ocf_ttm": 2173000000.0,
+  "capex_ttm": 486000000.0,
+  "da_ttm": 448000000.0,
+  "sbc_est": null,
+  "cash": 3860000000,
+  "debt": 7206000128,
+  "shares": 444000000,
+  "rev_cagr": 0.0426,
+  "latest_rev_yoy": 0.195,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

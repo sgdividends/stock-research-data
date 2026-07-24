@@ -1,0 +1,16 @@
+{
+  "ticker": "AMAT",
+  "price": 562.8,
+  "beta": 1.567,
+  "market_cap": 446840340480,
+  "ocf_ttm": 7993000000.0,
+  "capex_ttm": 2650000000.0,
+  "da_ttm": 489000000.0,
+  "sbc_est": null,
+  "cash": 8240999936,
+  "debt": 7267999744,
+  "shares": 793959430,
+  "rev_cagr": 0.0323,
+  "latest_rev_yoy": 0.114,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

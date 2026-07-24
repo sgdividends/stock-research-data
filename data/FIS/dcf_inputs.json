@@ -1,0 +1,16 @@
+{
+  "ticker": "FIS",
+  "price": 40.04,
+  "beta": 0.813,
+  "market_cap": 20695840768,
+  "ocf_ttm": 3072000000.0,
+  "capex_ttm": 1017000000.0,
+  "da_ttm": 2055000000.0,
+  "sbc_est": null,
+  "cash": 755000000,
+  "debt": 21145999360,
+  "shares": 516879151,
+  "rev_cagr": 0.0318,
+  "latest_rev_yoy": 0.301,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

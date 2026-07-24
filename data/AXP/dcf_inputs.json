@@ -1,0 +1,16 @@
+{
+  "ticker": "AXP",
+  "price": 340.84,
+  "beta": 1.045,
+  "market_cap": 232564146176,
+  "ocf_ttm": 17468000000.0,
+  "capex_ttm": 3144000000.0,
+  "da_ttm": 1812000000.0,
+  "sbc_est": null,
+  "cash": 53866999808,
+  "debt": 60458999808,
+  "shares": 682326443,
+  "rev_cagr": 0.1097,
+  "latest_rev_yoy": 0.116,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

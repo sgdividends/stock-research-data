@@ -1,0 +1,16 @@
+{
+  "ticker": "VEEV",
+  "price": 179.58,
+  "beta": 0.941,
+  "market_cap": 29171566592,
+  "ocf_ttm": 1665183000.0,
+  "capex_ttm": null,
+  "da_ttm": 39737000.0,
+  "sbc_est": null,
+  "cash": 7312718848,
+  "debt": 103067000,
+  "shares": 162443291,
+  "rev_cagr": 0.1403,
+  "latest_rev_yoy": 0.163,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

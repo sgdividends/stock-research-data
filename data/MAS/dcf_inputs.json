@@ -1,0 +1,16 @@
+{
+  "ticker": "MAS",
+  "price": 77.34,
+  "beta": 1.282,
+  "market_cap": 15602140160,
+  "ocf_ttm": 1101000000.0,
+  "capex_ttm": 158000000.0,
+  "da_ttm": null,
+  "sbc_est": null,
+  "cash": 388000000,
+  "debt": 3302000128,
+  "shares": 201734437,
+  "rev_cagr": -0.0449,
+  "latest_rev_yoy": 0.065,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

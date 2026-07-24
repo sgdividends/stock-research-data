@@ -1,0 +1,16 @@
+{
+  "ticker": "MGM",
+  "price": 44.99,
+  "beta": 1.291,
+  "market_cap": 11510747136,
+  "ocf_ttm": 2550088000.0,
+  "capex_ttm": 995550000.0,
+  "da_ttm": 1045075000.0,
+  "sbc_est": null,
+  "cash": 2504945920,
+  "debt": 31693570048,
+  "shares": 255851235,
+  "rev_cagr": 0.1014,
+  "latest_rev_yoy": 0.042,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

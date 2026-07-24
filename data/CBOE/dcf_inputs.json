@@ -1,0 +1,16 @@
+{
+  "ticker": "CBOE",
+  "price": 284.86,
+  "beta": 0.443,
+  "market_cap": 29811675136,
+  "ocf_ttm": 2799700000.0,
+  "capex_ttm": 75500000.0,
+  "da_ttm": 121600000.0,
+  "sbc_est": null,
+  "cash": 2136199936,
+  "debt": 1584600064,
+  "shares": 104653784,
+  "rev_cagr": 0.06,
+  "latest_rev_yoy": 0.065,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

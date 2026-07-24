@@ -1,0 +1,16 @@
+{
+  "ticker": "APA",
+  "price": 36.42,
+  "beta": 0.347,
+  "market_cap": 12873385984,
+  "ocf_ttm": 4003000000.0,
+  "capex_ttm": 2522000000.0,
+  "da_ttm": 2214000000.0,
+  "sbc_est": null,
+  "cash": 293000000,
+  "debt": 4536000000,
+  "shares": 353470227,
+  "rev_cagr": -0.0696,
+  "latest_rev_yoy": -0.119,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

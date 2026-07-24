@@ -1,0 +1,16 @@
+{
+  "ticker": "UAL",
+  "price": 115.345,
+  "beta": 1.258,
+  "market_cap": 37437497344,
+  "ocf_ttm": 8913000000.0,
+  "capex_ttm": 6369000000.0,
+  "da_ttm": null,
+  "sbc_est": null,
+  "cash": 16636999680,
+  "debt": 33667999744,
+  "shares": 324569728,
+  "rev_cagr": 0.0953,
+  "latest_rev_yoy": 0.16,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "EME",
+  "price": 769.07,
+  "beta": 1.126,
+  "market_cap": 34248663040,
+  "ocf_ttm": 1194150000.0,
+  "capex_ttm": 115331000.0,
+  "da_ttm": 197049000.0,
+  "sbc_est": null,
+  "cash": 916419968,
+  "debt": 516518016,
+  "shares": 44532567,
+  "rev_cagr": 0.1532,
+  "latest_rev_yoy": 0.197,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

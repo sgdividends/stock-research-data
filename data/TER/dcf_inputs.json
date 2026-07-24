@@ -1,0 +1,16 @@
+{
+  "ticker": "TER",
+  "price": 373.75,
+  "beta": 1.742,
+  "market_cap": 58507632640,
+  "ocf_ttm": 777902000.0,
+  "capex_ttm": 224721000.0,
+  "da_ttm": 130334000.0,
+  "sbc_est": null,
+  "cash": 245596992,
+  "debt": 82398000,
+  "shares": 156542162,
+  "rev_cagr": 0.0037,
+  "latest_rev_yoy": 0.87,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

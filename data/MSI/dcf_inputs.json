@@ -1,0 +1,16 @@
+{
+  "ticker": "MSI",
+  "price": 407.02,
+  "beta": 0.885,
+  "market_cap": 67563520000,
+  "ocf_ttm": 2778000000.0,
+  "capex_ttm": 290000000.0,
+  "da_ttm": 487000000.0,
+  "sbc_est": null,
+  "cash": 886000000,
+  "debt": 9589000192,
+  "shares": 165995582,
+  "rev_cagr": 0.0863,
+  "latest_rev_yoy": 0.074,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

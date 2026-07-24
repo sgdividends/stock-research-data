@@ -1,0 +1,16 @@
+{
+  "ticker": "ALLE",
+  "price": 154.57,
+  "beta": 0.858,
+  "market_cap": 13144136704,
+  "ocf_ttm": 780600000.0,
+  "capex_ttm": 98000000.0,
+  "da_ttm": 138800000.0,
+  "sbc_est": null,
+  "cash": 308900000,
+  "debt": 2224399872,
+  "shares": 85036786,
+  "rev_cagr": 0.0752,
+  "latest_rev_yoy": 0.097,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

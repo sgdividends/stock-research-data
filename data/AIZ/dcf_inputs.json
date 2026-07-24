@@ -1,0 +1,16 @@
+{
+  "ticker": "AIZ",
+  "price": 273.8,
+  "beta": 0.555,
+  "market_cap": 13566142464,
+  "ocf_ttm": 1681800000.0,
+  "capex_ttm": 229800000.0,
+  "da_ttm": 259800000.0,
+  "sbc_est": null,
+  "cash": 1921500032,
+  "debt": 2207500032,
+  "shares": 49547637,
+  "rev_cagr": 0.0793,
+  "latest_rev_yoy": 0.113,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

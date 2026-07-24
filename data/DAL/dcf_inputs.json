@@ -1,0 +1,16 @@
+{
+  "ticker": "DAL",
+  "price": 81.97,
+  "beta": 1.288,
+  "market_cap": 53905362944,
+  "ocf_ttm": 8134000000.0,
+  "capex_ttm": 4724000000.0,
+  "da_ttm": null,
+  "sbc_est": null,
+  "cash": 4664999936,
+  "debt": 21084000256,
+  "shares": 657623030,
+  "rev_cagr": 0.078,
+  "latest_rev_yoy": 0.187,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

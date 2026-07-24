@@ -1,0 +1,16 @@
+{
+  "ticker": "COHR",
+  "price": 313.22,
+  "beta": 2.037,
+  "market_cap": 61278150656,
+  "ocf_ttm": 140342000.0,
+  "capex_ttm": 678578000.0,
+  "da_ttm": 516149000.0,
+  "sbc_est": null,
+  "cash": 2423729920,
+  "debt": 3425114880,
+  "shares": 195639321,
+  "rev_cagr": 0.2055,
+  "latest_rev_yoy": 0.205,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

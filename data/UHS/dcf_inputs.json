@@ -1,0 +1,16 @@
+{
+  "ticker": "UHS",
+  "price": 151.27,
+  "beta": 1.075,
+  "market_cap": 9157334016,
+  "ocf_ttm": 1905977000.0,
+  "capex_ttm": 1022591000.0,
+  "da_ttm": 625824000.0,
+  "sbc_est": null,
+  "cash": 119028000,
+  "debt": 5125816832,
+  "shares": 60536351,
+  "rev_cagr": 0.0903,
+  "latest_rev_yoy": 0.096,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

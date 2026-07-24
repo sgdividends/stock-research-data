@@ -1,0 +1,16 @@
+{
+  "ticker": "TYL",
+  "price": 288.16,
+  "beta": 0.821,
+  "market_cap": 11855063040,
+  "ocf_ttm": 704647000.0,
+  "capex_ttm": 29405000.0,
+  "da_ttm": 152227000.0,
+  "sbc_est": null,
+  "cash": 346353984,
+  "debt": 47960000,
+  "shares": 41140555,
+  "rev_cagr": 0.0802,
+  "latest_rev_yoy": 0.086,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

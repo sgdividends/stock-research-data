@@ -1,0 +1,16 @@
+{
+  "ticker": "APTV",
+  "price": 56.1,
+  "beta": 1.344,
+  "market_cap": 11871910912,
+  "ocf_ttm": 1769000000.0,
+  "capex_ttm": 678000000.0,
+  "da_ttm": 999000000.0,
+  "sbc_est": null,
+  "cash": 3172999936,
+  "debt": 9886000128,
+  "shares": 211620527,
+  "rev_cagr": 0.0526,
+  "latest_rev_yoy": 0.054,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

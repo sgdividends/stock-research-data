@@ -1,0 +1,16 @@
+{
+  "ticker": "Q",
+  "price": 138.66,
+  "beta": null,
+  "market_cap": 29026973696,
+  "ocf_ttm": 1201000000.0,
+  "capex_ttm": 303000000.0,
+  "da_ttm": 380000000.0,
+  "sbc_est": null,
+  "cash": 857000000,
+  "debt": 4533000192,
+  "shares": 209339207,
+  "rev_cagr": -0.0001,
+  "latest_rev_yoy": 0.176,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

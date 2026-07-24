@@ -1,0 +1,16 @@
+{
+  "ticker": "MAA",
+  "price": 132.75,
+  "beta": 0.728,
+  "market_cap": 15840611328,
+  "ocf_ttm": 1031201000.0,
+  "capex_ttm": 345971000.0,
+  "da_ttm": 632489000.0,
+  "sbc_est": null,
+  "cash": 71529000,
+  "debt": 5680351232,
+  "shares": 119326641,
+  "rev_cagr": 0.0303,
+  "latest_rev_yoy": 0.008,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

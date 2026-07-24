@@ -1,0 +1,16 @@
+{
+  "ticker": "BRO",
+  "price": 65.74,
+  "beta": 0.599,
+  "market_cap": 22282430464,
+  "ocf_ttm": 1499000000.0,
+  "capex_ttm": 72000000.0,
+  "da_ttm": 436000000.0,
+  "sbc_est": null,
+  "cash": 1003000000,
+  "debt": 8119000064,
+  "shares": 338947841,
+  "rev_cagr": 0.1738,
+  "latest_rev_yoy": 0.357,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

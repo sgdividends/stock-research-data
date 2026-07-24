@@ -1,0 +1,16 @@
+{
+  "ticker": "RVTY",
+  "price": 113.17,
+  "beta": 1.091,
+  "market_cap": 12625219584,
+  "ocf_ttm": 570008000.0,
+  "capex_ttm": 77315000.0,
+  "da_ttm": 412974000.0,
+  "sbc_est": null,
+  "cash": 860320000,
+  "debt": 3350179072,
+  "shares": 111559773,
+  "rev_cagr": -0.0482,
+  "latest_rev_yoy": 0.07,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

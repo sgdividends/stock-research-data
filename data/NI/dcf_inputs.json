@@ -1,0 +1,16 @@
+{
+  "ticker": "NI",
+  "price": 46.75,
+  "beta": 0.542,
+  "market_cap": 22413785088,
+  "ocf_ttm": 2118200000.0,
+  "capex_ttm": 3324000000.0,
+  "da_ttm": 1197300000.0,
+  "sbc_est": null,
+  "cash": 71900000,
+  "debt": 16806800384,
+  "shares": 479439245,
+  "rev_cagr": 0.0432,
+  "latest_rev_yoy": 0.082,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

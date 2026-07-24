@@ -1,0 +1,16 @@
+{
+  "ticker": "BIIB",
+  "price": 200.62,
+  "beta": 0.158,
+  "market_cap": 29618958336,
+  "ocf_ttm": 2590800000.0,
+  "capex_ttm": 274500000.0,
+  "da_ttm": 801100000.0,
+  "sbc_est": null,
+  "cash": 4282700032,
+  "debt": 6561900032,
+  "shares": 147637117,
+  "rev_cagr": -0.0094,
+  "latest_rev_yoy": 0.019,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

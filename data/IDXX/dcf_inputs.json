@@ -1,0 +1,16 @@
+{
+  "ticker": "IDXX",
+  "price": 539.365,
+  "beta": 1.549,
+  "market_cap": 42546728960,
+  "ocf_ttm": 1210091000.0,
+  "capex_ttm": 141984000.0,
+  "da_ttm": 148803000.0,
+  "sbc_est": null,
+  "cash": 200528000,
+  "debt": 1105451008,
+  "shares": 78882997,
+  "rev_cagr": 0.0852,
+  "latest_rev_yoy": 0.143,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

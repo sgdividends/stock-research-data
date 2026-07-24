@@ -1,0 +1,16 @@
+{
+  "ticker": "CRH",
+  "price": 98.02,
+  "beta": 1.189,
+  "market_cap": 65496981504,
+  "ocf_ttm": 5668000000.0,
+  "capex_ttm": 2669000000.0,
+  "da_ttm": 2255000000.0,
+  "sbc_est": null,
+  "cash": 3240000000,
+  "debt": 20427999232,
+  "shares": 668200216,
+  "rev_cagr": 0.046,
+  "latest_rev_yoy": 0.091,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

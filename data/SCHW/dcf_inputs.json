@@ -1,0 +1,16 @@
+{
+  "ticker": "SCHW",
+  "price": 101.61,
+  "beta": 0.762,
+  "market_cap": 176713564160,
+  "ocf_ttm": 10294000000.0,
+  "capex_ttm": 571000000.0,
+  "da_ttm": 1348000000.0,
+  "sbc_est": null,
+  "cash": 73600000000,
+  "debt": 37099999232,
+  "shares": 1739135507,
+  "rev_cagr": 0.0483,
+  "latest_rev_yoy": 0.209,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

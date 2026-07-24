@@ -1,0 +1,16 @@
+{
+  "ticker": "CAT",
+  "price": 894.54,
+  "beta": 1.565,
+  "market_cap": 412017917952,
+  "ocf_ttm": 12320000000.0,
+  "capex_ttm": 4419000000.0,
+  "da_ttm": 2317000000.0,
+  "sbc_est": null,
+  "cash": 3316000000,
+  "debt": 43065999360,
+  "shares": 460591983,
+  "rev_cagr": 0.0438,
+  "latest_rev_yoy": 0.222,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

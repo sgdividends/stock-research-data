@@ -1,0 +1,16 @@
+{
+  "ticker": "GPC",
+  "price": 120.05,
+  "beta": 0.642,
+  "market_cap": 16550064128,
+  "ocf_ttm": 1185761000.0,
+  "capex_ttm": 426407000.0,
+  "da_ttm": 565314000.0,
+  "sbc_est": null,
+  "cash": 559118016,
+  "debt": 6652785152,
+  "shares": 137859758,
+  "rev_cagr": 0.0322,
+  "latest_rev_yoy": 0.06,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "MRK",
+  "price": 130.48,
+  "beta": 0.205,
+  "market_cap": 322262695936,
+  "ocf_ttm": 17890000000.0,
+  "capex_ttm": 3775000000.0,
+  "da_ttm": 6251000000.0,
+  "sbc_est": null,
+  "cash": 5702000128,
+  "debt": 49116999680,
+  "shares": 2469824415,
+  "rev_cagr": 0.0312,
+  "latest_rev_yoy": 0.049,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

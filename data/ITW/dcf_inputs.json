@@ -1,0 +1,16 @@
+{
+  "ticker": "ITW",
+  "price": 276.91,
+  "beta": 1.011,
+  "market_cap": 79667011584,
+  "ocf_ttm": 3157000000.0,
+  "capex_ttm": 418000000.0,
+  "da_ttm": 401000000.0,
+  "sbc_est": null,
+  "cash": 827000000,
+  "debt": 9148000256,
+  "shares": 287700000,
+  "rev_cagr": 0.0023,
+  "latest_rev_yoy": 0.046,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

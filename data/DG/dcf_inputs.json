@@ -1,0 +1,16 @@
+{
+  "ticker": "DG",
+  "price": 115.16,
+  "beta": 0.247,
+  "market_cap": 25402759168,
+  "ocf_ttm": 3503533000.0,
+  "capex_ttm": 1301839000.0,
+  "da_ttm": 1064357000.0,
+  "sbc_est": null,
+  "cash": 1353112960,
+  "debt": 15798401024,
+  "shares": 220586647,
+  "rev_cagr": 0.0413,
+  "latest_rev_yoy": 0.034,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

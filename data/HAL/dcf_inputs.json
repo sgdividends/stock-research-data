@@ -1,0 +1,16 @@
+{
+  "ticker": "HAL",
+  "price": 32.71,
+  "beta": 0.725,
+  "market_cap": 27325859840,
+  "ocf_ttm": 2822000000.0,
+  "capex_ttm": 1144000000.0,
+  "da_ttm": 1154000000.0,
+  "sbc_est": null,
+  "cash": 2048000000,
+  "debt": 8199000064,
+  "shares": 835397735,
+  "rev_cagr": 0.0301,
+  "latest_rev_yoy": 0.037,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

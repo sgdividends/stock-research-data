@@ -1,0 +1,16 @@
+{
+  "ticker": "CTVA",
+  "price": 88.78,
+  "beta": 0.558,
+  "market_cap": 59377836032,
+  "ocf_ttm": 2624000000.0,
+  "capex_ttm": 578000000.0,
+  "da_ttm": 1204000000.0,
+  "sbc_est": null,
+  "cash": 1966000000,
+  "debt": 3356000000,
+  "shares": 668820000,
+  "rev_cagr": -0.001,
+  "latest_rev_yoy": 0.11,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

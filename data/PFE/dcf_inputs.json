@@ -1,0 +1,16 @@
+{
+  "ticker": "PFE",
+  "price": 25.01,
+  "beta": 0.307,
+  "market_cap": 142543093760,
+  "ocf_ttm": 11984000000.0,
+  "capex_ttm": 2501000000.0,
+  "da_ttm": 6587000000.0,
+  "sbc_est": null,
+  "cash": 13080999936,
+  "debt": 64731000832,
+  "shares": 5699444169,
+  "rev_cagr": -0.148,
+  "latest_rev_yoy": 0.054,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

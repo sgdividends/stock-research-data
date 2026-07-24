@@ -1,0 +1,16 @@
+{
+  "ticker": "NVR",
+  "price": 6155.02,
+  "beta": 0.902,
+  "market_cap": 16484085760,
+  "ocf_ttm": 1253225000.0,
+  "capex_ttm": 22320000.0,
+  "da_ttm": 25470000.0,
+  "sbc_est": null,
+  "cash": 1645785984,
+  "debt": 1090850944,
+  "shares": 2678153,
+  "rev_cagr": -0.0063,
+  "latest_rev_yoy": -0.214,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

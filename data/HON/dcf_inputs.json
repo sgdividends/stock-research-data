@@ -1,0 +1,16 @@
+{
+  "ticker": "HON",
+  "price": 246.27,
+  "beta": 0.93,
+  "market_cap": 78024876032,
+  "ocf_ttm": 5161000000.0,
+  "capex_ttm": 1019000000.0,
+  "da_ttm": 1420000000.0,
+  "sbc_est": null,
+  "cash": 12389999616,
+  "debt": 37751001088,
+  "shares": 316826559,
+  "rev_cagr": 0.0182,
+  "latest_rev_yoy": 0.024,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

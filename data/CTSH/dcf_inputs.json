@@ -1,0 +1,16 @@
+{
+  "ticker": "CTSH",
+  "price": 43.01,
+  "beta": 0.859,
+  "market_cap": 20343730176,
+  "ocf_ttm": 2757000000.0,
+  "capex_ttm": 287000000.0,
+  "da_ttm": 555000000.0,
+  "sbc_est": null,
+  "cash": 1516999936,
+  "debt": 1092000000,
+  "shares": 473000000,
+  "rev_cagr": 0.028,
+  "latest_rev_yoy": 0.058,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

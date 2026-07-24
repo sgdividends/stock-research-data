@@ -1,0 +1,16 @@
+{
+  "ticker": "PRU",
+  "price": 117.84,
+  "beta": 0.84,
+  "market_cap": 40928792576,
+  "ocf_ttm": 9785000000.0,
+  "capex_ttm": null,
+  "da_ttm": 432000000.0,
+  "sbc_est": null,
+  "cash": 38684000256,
+  "debt": 55523999744,
+  "shares": 347325107,
+  "rev_cagr": 0.0228,
+  "latest_rev_yoy": 0.153,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

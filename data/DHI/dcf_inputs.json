@@ -1,0 +1,16 @@
+{
+  "ticker": "DHI",
+  "price": 142.12,
+  "beta": 1.361,
+  "market_cap": 39897374720,
+  "ocf_ttm": 3651900000.0,
+  "capex_ttm": 154400000.0,
+  "da_ttm": 108400000.0,
+  "sbc_est": null,
+  "cash": 2078700032,
+  "debt": 7112600064,
+  "shares": 280730194,
+  "rev_cagr": 0.0076,
+  "latest_rev_yoy": 0.0,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

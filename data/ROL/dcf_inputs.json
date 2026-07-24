@@ -1,0 +1,16 @@
+{
+  "ticker": "ROL",
+  "price": 39.44,
+  "beta": null,
+  "market_cap": 18988924928,
+  "ocf_ttm": 649582000.0,
+  "capex_ttm": 28444000.0,
+  "da_ttm": 128033000.0,
+  "sbc_est": null,
+  "cash": 109085000,
+  "debt": 1115303040,
+  "shares": 481463663,
+  "rev_cagr": 0.1174,
+  "latest_rev_yoy": 0.079,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

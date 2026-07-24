@@ -1,0 +1,16 @@
+{
+  "ticker": "KEYS",
+  "price": 325.13,
+  "beta": 1.214,
+  "market_cap": 55563210752,
+  "ocf_ttm": 1489000000.0,
+  "capex_ttm": 132000000.0,
+  "da_ttm": 354000000.0,
+  "sbc_est": null,
+  "cash": 2412000000,
+  "debt": 2763000064,
+  "shares": 170895368,
+  "rev_cagr": -0.0028,
+  "latest_rev_yoy": 0.315,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

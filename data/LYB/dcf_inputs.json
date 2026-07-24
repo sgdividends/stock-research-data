@@ -1,0 +1,16 @@
+{
+  "ticker": "LYB",
+  "price": 61.72,
+  "beta": 0.362,
+  "market_cap": 19922276352,
+  "ocf_ttm": 2572000000.0,
+  "capex_ttm": 1664000000.0,
+  "da_ttm": 1409000000.0,
+  "sbc_est": null,
+  "cash": 2660000000,
+  "debt": 14357000192,
+  "shares": 322784773,
+  "rev_cagr": -0.1577,
+  "latest_rev_yoy": -0.063,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

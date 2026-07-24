@@ -1,0 +1,16 @@
+{
+  "ticker": "MTB",
+  "price": 245.97,
+  "beta": 0.569,
+  "market_cap": 35649167360,
+  "ocf_ttm": 3380000000.0,
+  "capex_ttm": 214000000.0,
+  "da_ttm": 465000000.0,
+  "sbc_est": null,
+  "cash": 17437999104,
+  "debt": 18182000640,
+  "shares": 144933000,
+  "rev_cagr": 0.0633,
+  "latest_rev_yoy": 0.062,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

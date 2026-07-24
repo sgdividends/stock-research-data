@@ -1,0 +1,16 @@
+{
+  "ticker": "EVRG",
+  "price": 86.65,
+  "beta": 0.524,
+  "market_cap": 19973953536,
+  "ocf_ttm": 1958100000.0,
+  "capex_ttm": 3056000000.0,
+  "da_ttm": 1235800000.0,
+  "sbc_est": null,
+  "cash": 18400000,
+  "debt": 15876299776,
+  "shares": 230513025,
+  "rev_cagr": 0.0058,
+  "latest_rev_yoy": 0.05,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

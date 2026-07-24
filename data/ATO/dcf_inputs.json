@@ -1,0 +1,16 @@
+{
+  "ticker": "ATO",
+  "price": 178.04,
+  "beta": 0.598,
+  "market_cap": 29718405120,
+  "ocf_ttm": 1876044000.0,
+  "capex_ttm": 3867477000.0,
+  "da_ttm": 761794000.0,
+  "sbc_est": null,
+  "cash": 125694000,
+  "debt": 9629233152,
+  "shares": 166919822,
+  "rev_cagr": 0.0383,
+  "latest_rev_yoy": 0.006,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

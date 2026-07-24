@@ -1,0 +1,16 @@
+{
+  "ticker": "CRWD",
+  "price": 183.42,
+  "beta": 1.237,
+  "market_cap": 186769113088,
+  "ocf_ttm": 1819179000.0,
+  "capex_ttm": 387866000.0,
+  "da_ttm": 305321000.0,
+  "sbc_est": null,
+  "cash": 4552800768,
+  "debt": 821342976,
+  "shares": 1018259280,
+  "rev_cagr": 0.2901,
+  "latest_rev_yoy": 0.256,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

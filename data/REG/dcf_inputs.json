@@ -1,0 +1,16 @@
+{
+  "ticker": "REG",
+  "price": 81.18,
+  "beta": 0.825,
+  "market_cap": 15175380992,
+  "ocf_ttm": 819390000.0,
+  "capex_ttm": null,
+  "da_ttm": 393566000.0,
+  "sbc_est": null,
+  "cash": 148087008,
+  "debt": 5245984768,
+  "shares": 186934978,
+  "rev_cagr": 0.0827,
+  "latest_rev_yoy": 0.1,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

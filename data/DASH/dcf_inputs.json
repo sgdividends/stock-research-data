@@ -1,0 +1,16 @@
+{
+  "ticker": "DASH",
+  "price": 169.77,
+  "beta": 1.779,
+  "market_cap": 73971965952,
+  "ocf_ttm": 2390000000.0,
+  "capex_ttm": 638000000.0,
+  "da_ttm": 864000000.0,
+  "sbc_est": null,
+  "cash": 5533000192,
+  "debt": 3287000064,
+  "shares": 435718722,
+  "rev_cagr": 0.2773,
+  "latest_rev_yoy": 0.331,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

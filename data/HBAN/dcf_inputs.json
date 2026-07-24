@@ -1,0 +1,16 @@
+{
+  "ticker": "HBAN",
+  "price": 17.4,
+  "beta": 0.952,
+  "market_cap": 35155218432,
+  "ocf_ttm": 2493000000.0,
+  "capex_ttm": 337000000.0,
+  "da_ttm": 744000000.0,
+  "sbc_est": null,
+  "cash": 20139999232,
+  "debt": 23893000192,
+  "shares": 2020414826,
+  "rev_cagr": 0.0388,
+  "latest_rev_yoy": 0.336,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

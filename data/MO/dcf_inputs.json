@@ -1,0 +1,16 @@
+{
+  "ticker": "MO",
+  "price": 72.08,
+  "beta": 0.494,
+  "market_cap": 120365760512,
+  "ocf_ttm": 8894000000.0,
+  "capex_ttm": 271000000.0,
+  "da_ttm": 251000000.0,
+  "sbc_est": null,
+  "cash": 3531000064,
+  "debt": 24601999360,
+  "shares": 1669891235,
+  "rev_cagr": -0.0089,
+  "latest_rev_yoy": 0.053,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "KIM",
+  "price": 25.74,
+  "beta": 0.969,
+  "market_cap": 17358792704,
+  "ocf_ttm": 1139188000.0,
+  "capex_ttm": null,
+  "da_ttm": 594389000.0,
+  "sbc_est": null,
+  "cash": 168648000,
+  "debt": 8308660224,
+  "shares": 674389792,
+  "rev_cagr": 0.074,
+  "latest_rev_yoy": 0.04,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

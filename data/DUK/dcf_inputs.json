@@ -1,0 +1,16 @@
+{
+  "ticker": "DUK",
+  "price": 129.26,
+  "beta": 0.373,
+  "market_cap": 100770603008,
+  "ocf_ttm": 11665000000.0,
+  "capex_ttm": 14964000000.0,
+  "da_ttm": 7897000000.0,
+  "sbc_est": null,
+  "cash": 2140000000,
+  "debt": 91208998912,
+  "shares": 779596217,
+  "rev_cagr": 0.0387,
+  "latest_rev_yoy": 0.113,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

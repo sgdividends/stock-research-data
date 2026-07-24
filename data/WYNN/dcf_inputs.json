@@ -1,0 +1,16 @@
+{
+  "ticker": "WYNN",
+  "price": 96.77,
+  "beta": 0.988,
+  "market_cap": 10043441152,
+  "ocf_ttm": 1372334000.0,
+  "capex_ttm": 679723000.0,
+  "da_ttm": 625739000.0,
+  "sbc_est": null,
+  "cash": 1795227008,
+  "debt": 12159864832,
+  "shares": 103786729,
+  "rev_cagr": 0.2386,
+  "latest_rev_yoy": 0.092,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

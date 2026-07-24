@@ -1,0 +1,16 @@
+{
+  "ticker": "MRSH",
+  "price": 176.4,
+  "beta": 0.603,
+  "market_cap": 84180066304,
+  "ocf_ttm": 5078000000.0,
+  "capex_ttm": 311000000.0,
+  "da_ttm": 906000000.0,
+  "sbc_est": null,
+  "cash": 1700000000,
+  "debt": 22382000128,
+  "shares": 477211268,
+  "rev_cagr": 0.092,
+  "latest_rev_yoy": 0.062,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "J",
+  "price": 132.0,
+  "beta": 0.672,
+  "market_cap": 15586675712,
+  "ocf_ttm": 572318000.0,
+  "capex_ttm": 88226000.0,
+  "da_ttm": 235793000.0,
+  "sbc_est": null,
+  "cash": 1371911936,
+  "debt": 4558086144,
+  "shares": 118080879,
+  "rev_cagr": 0.0713,
+  "latest_rev_yoy": 0.27,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

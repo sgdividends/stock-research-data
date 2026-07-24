@@ -1,0 +1,16 @@
+{
+  "ticker": "TMUS",
+  "price": 170.42,
+  "beta": 0.319,
+  "market_cap": 182804692992,
+  "ocf_ttm": 28325000000.0,
+  "capex_ttm": null,
+  "da_ttm": 14127000000.0,
+  "sbc_est": null,
+  "cash": 3520000000,
+  "debt": 122134003712,
+  "shares": 1072671613,
+  "rev_cagr": 0.0353,
+  "latest_rev_yoy": 0.106,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

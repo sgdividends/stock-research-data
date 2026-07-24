@@ -1,0 +1,16 @@
+{
+  "ticker": "AME",
+  "price": 241.14,
+  "beta": 0.99,
+  "market_cap": 55270014976,
+  "ocf_ttm": 1835734000.0,
+  "capex_ttm": 132647000.0,
+  "da_ttm": 421927000.0,
+  "sbc_est": null,
+  "cash": 481249984,
+  "debt": 2455633920,
+  "shares": 229203002,
+  "rev_cagr": 0.0636,
+  "latest_rev_yoy": 0.113,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

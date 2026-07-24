@@ -1,0 +1,16 @@
+{
+  "ticker": "CMG",
+  "price": 32.01,
+  "beta": 0.964,
+  "market_cap": 41060311040,
+  "ocf_ttm": 2208201000.0,
+  "capex_ttm": 701858000.0,
+  "da_ttm": 370889000.0,
+  "sbc_est": null,
+  "cash": 871422016,
+  "debt": 5245879808,
+  "shares": 1282734000,
+  "rev_cagr": 0.1136,
+  "latest_rev_yoy": 0.074,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

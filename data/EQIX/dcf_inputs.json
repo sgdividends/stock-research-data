@@ -1,0 +1,16 @@
+{
+  "ticker": "EQIX",
+  "price": 1033.55,
+  "beta": 0.971,
+  "market_cap": 101933096960,
+  "ocf_ttm": 3819000000.0,
+  "capex_ttm": 4817000000.0,
+  "da_ttm": 2130000000.0,
+  "sbc_est": null,
+  "cash": 1362000000,
+  "debt": 23335999488,
+  "shares": 98624248,
+  "rev_cagr": 0.0827,
+  "latest_rev_yoy": 0.121,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

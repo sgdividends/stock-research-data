@@ -1,0 +1,16 @@
+{
+  "ticker": "APH",
+  "price": 157.43,
+  "beta": 1.243,
+  "market_cap": 193675804672,
+  "ocf_ttm": 5731300000.0,
+  "capex_ttm": 1099600000.0,
+  "da_ttm": 1171900000.0,
+  "sbc_est": null,
+  "cash": 4583099904,
+  "debt": 18748899328,
+  "shares": 1230234445,
+  "rev_cagr": 0.2231,
+  "latest_rev_yoy": 0.584,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

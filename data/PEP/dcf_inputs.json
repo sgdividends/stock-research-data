@@ -1,0 +1,16 @@
+{
+  "ticker": "PEP",
+  "price": 134.95,
+  "beta": 0.368,
+  "market_cap": 184341692416,
+  "ocf_ttm": 13456000000.0,
+  "capex_ttm": 4174000000.0,
+  "da_ttm": 4358000000.0,
+  "sbc_est": null,
+  "cash": 10716000256,
+  "debt": 53213999104,
+  "shares": 1366000000,
+  "rev_cagr": 0.0283,
+  "latest_rev_yoy": 0.064,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "SYF",
+  "price": 71.77,
+  "beta": 1.308,
+  "market_cap": 23346780160,
+  "ocf_ttm": 9834000000.0,
+  "capex_ttm": null,
+  "da_ttm": 532000000.0,
+  "sbc_est": null,
+  "cash": 16193000448,
+  "debt": 16432000000,
+  "shares": 325300000,
+  "rev_cagr": 0.0867,
+  "latest_rev_yoy": 0.006,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

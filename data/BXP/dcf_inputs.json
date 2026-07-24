@@ -1,0 +1,16 @@
+{
+  "ticker": "BXP",
+  "price": 67.84,
+  "beta": 1.039,
+  "market_cap": 12096646144,
+  "ocf_ttm": 1191587000.0,
+  "capex_ttm": null,
+  "da_ttm": 919886000.0,
+  "sbc_est": null,
+  "cash": 512783008,
+  "debt": 16362374144,
+  "shares": 178311418,
+  "rev_cagr": 0.0386,
+  "latest_rev_yoy": 0.006,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

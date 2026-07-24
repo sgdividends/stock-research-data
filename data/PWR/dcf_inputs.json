@@ -1,0 +1,16 @@
+{
+  "ticker": "PWR",
+  "price": 653.8,
+  "beta": 1.215,
+  "market_cap": 98109317120,
+  "ocf_ttm": 2378516000.0,
+  "capex_ttm": 696485000.0,
+  "da_ttm": 968332000.0,
+  "sbc_est": null,
+  "cash": 364760992,
+  "debt": 6319672832,
+  "shares": 150060149,
+  "rev_cagr": 0.186,
+  "latest_rev_yoy": 0.263,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "GILD",
+  "price": 130.86,
+  "beta": 0.343,
+  "market_cap": 162471837696,
+  "ocf_ttm": 10806000000.0,
+  "capex_ttm": 576000000.0,
+  "da_ttm": 2753000000.0,
+  "sbc_est": null,
+  "cash": 9816999936,
+  "debt": 22173999104,
+  "shares": 1241569874,
+  "rev_cagr": 0.0257,
+  "latest_rev_yoy": 0.044,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

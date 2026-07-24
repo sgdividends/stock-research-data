@@ -1,0 +1,16 @@
+{
+  "ticker": "CVS",
+  "price": 106.89,
+  "beta": 0.598,
+  "market_cap": 136383864832,
+  "ocf_ttm": 10332000000.0,
+  "capex_ttm": 2938000000.0,
+  "da_ttm": 4567000000.0,
+  "sbc_est": null,
+  "cash": 11802000384,
+  "debt": 78345003008,
+  "shares": 1275927307,
+  "rev_cagr": 0.0763,
+  "latest_rev_yoy": 0.061,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

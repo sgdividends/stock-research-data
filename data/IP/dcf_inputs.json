@@ -1,0 +1,16 @@
+{
+  "ticker": "IP",
+  "price": 37.91,
+  "beta": 0.898,
+  "market_cap": 20073988096,
+  "ocf_ttm": 2597000000.0,
+  "capex_ttm": 2044000000.0,
+  "da_ttm": 2800000000.0,
+  "sbc_est": null,
+  "cash": 1236000000,
+  "debt": 9758999552,
+  "shares": 529516974,
+  "rev_cagr": 0.0375,
+  "latest_rev_yoy": 0.134,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

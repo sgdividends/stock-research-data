@@ -1,0 +1,16 @@
+{
+  "ticker": "MPC",
+  "price": 312.27,
+  "beta": 0.52,
+  "market_cap": 91163049984,
+  "ocf_ttm": 9438000000.0,
+  "capex_ttm": 3736000000.0,
+  "da_ttm": 3267000000.0,
+  "sbc_est": null,
+  "cash": 2151000064,
+  "debt": 34325999616,
+  "shares": 291936635,
+  "rev_cagr": -0.0923,
+  "latest_rev_yoy": 0.088,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

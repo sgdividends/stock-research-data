@@ -1,0 +1,16 @@
+{
+  "ticker": "INCY",
+  "price": 116.69,
+  "beta": 0.758,
+  "market_cap": 23312580608,
+  "ocf_ttm": 1516782000.0,
+  "capex_ttm": 95898000.0,
+  "da_ttm": 94726000.0,
+  "sbc_est": null,
+  "cash": 4015824896,
+  "debt": 39430000,
+  "shares": 199782155,
+  "rev_cagr": 0.1484,
+  "latest_rev_yoy": 0.209,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

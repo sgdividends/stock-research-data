@@ -1,0 +1,16 @@
+{
+  "ticker": "STX",
+  "price": 913.36,
+  "beta": 2.067,
+  "market_cap": 206649622528,
+  "ocf_ttm": 2877000000.0,
+  "capex_ttm": 465000000.0,
+  "da_ttm": 267000000.0,
+  "sbc_est": null,
+  "cash": 1146000000,
+  "debt": 4177999872,
+  "shares": 226252116,
+  "rev_cagr": -0.0794,
+  "latest_rev_yoy": 0.441,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "HSIC",
+  "price": 84.53,
+  "beta": 0.806,
+  "market_cap": 9629383680,
+  "ocf_ttm": 578000000.0,
+  "capex_ttm": 187000000.0,
+  "da_ttm": 289000000.0,
+  "sbc_est": null,
+  "cash": 138000000,
+  "debt": 3748999936,
+  "shares": 113916757,
+  "rev_cagr": 0.014,
+  "latest_rev_yoy": 0.063,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

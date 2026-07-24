@@ -1,0 +1,16 @@
+{
+  "ticker": "SWKS",
+  "price": 60.47,
+  "beta": 1.497,
+  "market_cap": 9095049216,
+  "ocf_ttm": 960000000.0,
+  "capex_ttm": 288500000.0,
+  "da_ttm": 462600000.0,
+  "sbc_est": null,
+  "cash": 1421799936,
+  "debt": 1189600000,
+  "shares": 150405963,
+  "rev_cagr": -0.0934,
+  "latest_rev_yoy": -0.01,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

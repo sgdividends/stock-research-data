@@ -1,0 +1,16 @@
+{
+  "ticker": "VTRS",
+  "price": 17.28,
+  "beta": 0.902,
+  "market_cap": 20123471872,
+  "ocf_ttm": 2168700000.0,
+  "capex_ttm": 512900000.0,
+  "da_ttm": 2809700000.0,
+  "sbc_est": null,
+  "cash": 2400199936,
+  "debt": 14609999872,
+  "shares": 1164552654,
+  "rev_cagr": -0.042,
+  "latest_rev_yoy": 0.081,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "BMY",
+  "price": 61.51,
+  "beta": 0.235,
+  "market_cap": 125607804928,
+  "ocf_ttm": 13306000000.0,
+  "capex_ttm": 1398000000.0,
+  "da_ttm": 3593000000.0,
+  "sbc_est": null,
+  "cash": 10485999616,
+  "debt": 46428999680,
+  "shares": 2042071247,
+  "rev_cagr": 0.0145,
+  "latest_rev_yoy": 0.026,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

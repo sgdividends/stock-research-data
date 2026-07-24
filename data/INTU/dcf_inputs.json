@@ -1,0 +1,16 @@
+{
+  "ticker": "INTU",
+  "price": 281.53,
+  "beta": 0.996,
+  "market_cap": 77008871424,
+  "ocf_ttm": 7888000000.0,
+  "capex_ttm": 173000000.0,
+  "da_ttm": 836000000.0,
+  "sbc_est": null,
+  "cash": 6780000256,
+  "debt": 6899999744,
+  "shares": 273537000,
+  "rev_cagr": 0.1395,
+  "latest_rev_yoy": 0.104,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

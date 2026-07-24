@@ -1,0 +1,16 @@
+{
+  "ticker": "HSY",
+  "price": 172.14,
+  "beta": 0.098,
+  "market_cap": 34917457920,
+  "ocf_ttm": 2349491000.0,
+  "capex_ttm": 497290000.0,
+  "da_ttm": 517139000.0,
+  "sbc_est": null,
+  "cash": 876976000,
+  "debt": 5681147904,
+  "shares": 202843372,
+  "rev_cagr": 0.0392,
+  "latest_rev_yoy": 0.106,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

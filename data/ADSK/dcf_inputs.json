@@ -1,0 +1,16 @@
+{
+  "ticker": "ADSK",
+  "price": 205.26,
+  "beta": 1.318,
+  "market_cap": 43339673600,
+  "ocf_ttm": 2781000000.0,
+  "capex_ttm": 87000000.0,
+  "da_ttm": 198000000.0,
+  "sbc_est": null,
+  "cash": 2924000000,
+  "debt": 2724000000,
+  "shares": 211145251,
+  "rev_cagr": 0.1292,
+  "latest_rev_yoy": 0.184,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

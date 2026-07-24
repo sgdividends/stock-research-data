@@ -1,0 +1,16 @@
+{
+  "ticker": "PKG",
+  "price": 233.9,
+  "beta": null,
+  "market_cap": 20840173568,
+  "ocf_ttm": 1547700000.0,
+  "capex_ttm": 845500000.0,
+  "da_ttm": 740000000.0,
+  "sbc_est": null,
+  "cash": null,
+  "debt": null,
+  "shares": 89098647,
+  "rev_cagr": 0.0197,
+  "latest_rev_yoy": 0.147,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

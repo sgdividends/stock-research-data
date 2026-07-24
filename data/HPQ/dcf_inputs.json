@@ -1,0 +1,16 @@
+{
+  "ticker": "HPQ",
+  "price": 24.51,
+  "beta": 1.212,
+  "market_cap": null,
+  "ocf_ttm": 4594000000.0,
+  "capex_ttm": 815000000.0,
+  "da_ttm": 992000000.0,
+  "sbc_est": null,
+  "cash": 3703000064,
+  "debt": 10864000000,
+  "shares": null,
+  "rev_cagr": -0.0421,
+  "latest_rev_yoy": 0.09,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

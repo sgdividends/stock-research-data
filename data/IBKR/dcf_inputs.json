@@ -1,0 +1,16 @@
+{
+  "ticker": "IBKR",
+  "price": 91.76,
+  "beta": 1.329,
+  "market_cap": 155645345792,
+  "ocf_ttm": 16838000000.0,
+  "capex_ttm": 77000000.0,
+  "da_ttm": 96000000.0,
+  "sbc_est": null,
+  "cash": 130858999808,
+  "debt": 45423001600,
+  "shares": 1696222180,
+  "rev_cagr": 0.346,
+  "latest_rev_yoy": 0.223,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

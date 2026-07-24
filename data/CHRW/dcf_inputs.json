@@ -1,0 +1,16 @@
+{
+  "ticker": "CHRW",
+  "price": 205.51,
+  "beta": 0.915,
+  "market_cap": 24224088064,
+  "ocf_ttm": 876587000.0,
+  "capex_ttm": 69477000.0,
+  "da_ttm": 102028000.0,
+  "sbc_est": null,
+  "cash": 159664992,
+  "debt": 1644486016,
+  "shares": 117873042,
+  "rev_cagr": -0.1305,
+  "latest_rev_yoy": -0.008,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

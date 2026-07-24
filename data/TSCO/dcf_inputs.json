@@ -1,0 +1,16 @@
+{
+  "ticker": "TSCO",
+  "price": 30.32,
+  "beta": 0.456,
+  "market_cap": 15901312000,
+  "ocf_ttm": 1509604000.0,
+  "capex_ttm": 956100000.0,
+  "da_ttm": 500533000.0,
+  "sbc_est": null,
+  "cash": 224268992,
+  "debt": 6408778240,
+  "shares": 524449616,
+  "rev_cagr": 0.03,
+  "latest_rev_yoy": 0.036,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "STT",
+  "price": 184.21,
+  "beta": 1.433,
+  "market_cap": 50602958848,
+  "ocf_ttm": -2641000000.0,
+  "capex_ttm": 1099000000.0,
+  "da_ttm": 683000000.0,
+  "sbc_est": null,
+  "cash": null,
+  "debt": null,
+  "shares": 274702550,
+  "rev_cagr": 0.0482,
+  "latest_rev_yoy": -0.028,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

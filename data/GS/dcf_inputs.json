@@ -1,0 +1,16 @@
+{
+  "ticker": "GS",
+  "price": 1074.72,
+  "beta": 1.292,
+  "market_cap": 317050355712,
+  "ocf_ttm": -39792000000.0,
+  "capex_ttm": 2130000000.0,
+  "da_ttm": 2171000000.0,
+  "sbc_est": null,
+  "cash": 975999991808,
+  "debt": 795999993856,
+  "shares": 295007421,
+  "rev_cagr": 0.0716,
+  "latest_rev_yoy": 0.425,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

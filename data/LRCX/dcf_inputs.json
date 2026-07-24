@@ -1,0 +1,16 @@
+{
+  "ticker": "LRCX",
+  "price": 319.78,
+  "beta": 1.805,
+  "market_cap": 399907586048,
+  "ocf_ttm": 6954617000.0,
+  "capex_ttm": 949795000.0,
+  "da_ttm": 420330000.0,
+  "sbc_est": null,
+  "cash": 4750936064,
+  "debt": 3734479104,
+  "shares": 1250571000,
+  "rev_cagr": 0.0229,
+  "latest_rev_yoy": 0.238,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

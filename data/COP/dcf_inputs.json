@@ -1,0 +1,16 @@
+{
+  "ticker": "COP",
+  "price": 120.2,
+  "beta": 0.122,
+  "market_cap": 146438930432,
+  "ocf_ttm": 17976000000.0,
+  "capex_ttm": 12123000000.0,
+  "da_ttm": 11660000000.0,
+  "sbc_est": null,
+  "cash": 6362999808,
+  "debt": 23327000576,
+  "shares": 1218294007,
+  "rev_cagr": -0.0911,
+  "latest_rev_yoy": -0.053,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

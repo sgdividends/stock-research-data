@@ -1,0 +1,16 @@
+{
+  "ticker": "DOW",
+  "price": 30.9,
+  "beta": 0.435,
+  "market_cap": 22320328704,
+  "ocf_ttm": 2065000000.0,
+  "capex_ttm": 2297000000.0,
+  "da_ttm": 2839000000.0,
+  "sbc_est": null,
+  "cash": 4329999872,
+  "debt": 19634999296,
+  "shares": 722340711,
+  "rev_cagr": -0.1111,
+  "latest_rev_yoy": -0.061,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

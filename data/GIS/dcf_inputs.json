@@ -1,0 +1,16 @@
+{
+  "ticker": "GIS",
+  "price": 35.55,
+  "beta": -0.047,
+  "market_cap": 18973333504,
+  "ocf_ttm": 2166200000.0,
+  "capex_ttm": 539900000.0,
+  "da_ttm": 555200000.0,
+  "sbc_est": null,
+  "cash": 399000000,
+  "debt": 0,
+  "shares": 533708396,
+  "rev_cagr": -0.0285,
+  "latest_rev_yoy": 0.022,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "FRT",
+  "price": 124.83,
+  "beta": 0.932,
+  "market_cap": 10850024448,
+  "ocf_ttm": 627928000.0,
+  "capex_ttm": 297259000.0,
+  "da_ttm": 380113000.0,
+  "sbc_est": null,
+  "cash": 120918000,
+  "debt": 4934187008,
+  "shares": 86918404,
+  "rev_cagr": 0.0598,
+  "latest_rev_yoy": 0.103,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

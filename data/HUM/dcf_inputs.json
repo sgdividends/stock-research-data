@@ -1,0 +1,16 @@
+{
+  "ticker": "HUM",
+  "price": 394.5,
+  "beta": 0.717,
+  "market_cap": 47364263936,
+  "ocf_ttm": 1844000000.0,
+  "capex_ttm": 572000000.0,
+  "da_ttm": 803000000.0,
+  "sbc_est": null,
+  "cash": 21965000704,
+  "debt": 14371000320,
+  "shares": 120061500,
+  "rev_cagr": 0.1177,
+  "latest_rev_yoy": 0.235,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

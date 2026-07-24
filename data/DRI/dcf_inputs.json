@@ -1,0 +1,16 @@
+{
+  "ticker": "DRI",
+  "price": 194.12,
+  "beta": 0.585,
+  "market_cap": 22233534464,
+  "ocf_ttm": 1735000000.0,
+  "capex_ttm": 740800000.0,
+  "da_ttm": 549800000.0,
+  "sbc_est": null,
+  "cash": 219500000,
+  "debt": 7999499776,
+  "shares": 114535003,
+  "rev_cagr": 0.0784,
+  "latest_rev_yoy": 0.137,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

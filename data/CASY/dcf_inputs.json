@@ -1,0 +1,16 @@
+{
+  "ticker": "CASY",
+  "price": 875.25,
+  "beta": 0.619,
+  "market_cap": 32388548608,
+  "ocf_ttm": 1377540000.0,
+  "capex_ttm": 655920000.0,
+  "da_ttm": 449958000.0,
+  "sbc_est": null,
+  "cash": 522991008,
+  "debt": 2905074944,
+  "shares": 37004914,
+  "rev_cagr": 0.0517,
+  "latest_rev_yoy": 0.145,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

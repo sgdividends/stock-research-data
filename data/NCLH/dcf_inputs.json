@@ -1,0 +1,16 @@
+{
+  "ticker": "NCLH",
+  "price": 18.71,
+  "beta": 1.876,
+  "market_cap": 8589949952,
+  "ocf_ttm": 2221976000.0,
+  "capex_ttm": 3171053000.0,
+  "da_ttm": 1192961000.0,
+  "sbc_est": null,
+  "cash": 185047008,
+  "debt": 16082653184,
+  "shares": 459110140,
+  "rev_cagr": 0.266,
+  "latest_rev_yoy": 0.096,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

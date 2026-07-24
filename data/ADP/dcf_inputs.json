@@ -1,0 +1,16 @@
+{
+  "ticker": "ADP",
+  "price": 242.88,
+  "beta": 0.841,
+  "market_cap": 97087463424,
+  "ocf_ttm": 5452400000.0,
+  "capex_ttm": 611800000.0,
+  "da_ttm": 584400000.0,
+  "sbc_est": null,
+  "cash": 3228400128,
+  "debt": 4398000128,
+  "shares": 399734282,
+  "rev_cagr": 0.0761,
+  "latest_rev_yoy": 0.07,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

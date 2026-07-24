@@ -1,0 +1,16 @@
+{
+  "ticker": "ADM",
+  "price": 86.35,
+  "beta": 0.609,
+  "market_cap": 41616945152,
+  "ocf_ttm": 5944000000.0,
+  "capex_ttm": 1151000000.0,
+  "da_ttm": 1187000000.0,
+  "sbc_est": null,
+  "cash": 624000000,
+  "debt": 10657000448,
+  "shares": 481956527,
+  "rev_cagr": -0.0754,
+  "latest_rev_yoy": 0.016,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "AES",
+  "price": 14.83,
+  "beta": 0.942,
+  "market_cap": 10576129024,
+  "ocf_ttm": 4962000000.0,
+  "capex_ttm": 6441000000.0,
+  "da_ttm": 1553000000.0,
+  "sbc_est": null,
+  "cash": 1651000064,
+  "debt": 31804000256,
+  "shares": 713157713,
+  "rev_cagr": -0.0102,
+  "latest_rev_yoy": 0.087,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

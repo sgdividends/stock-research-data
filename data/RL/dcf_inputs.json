@@ -1,0 +1,16 @@
+{
+  "ticker": "RL",
+  "price": 371.69,
+  "beta": 1.352,
+  "market_cap": 22121629696,
+  "ocf_ttm": 1154200000.0,
+  "capex_ttm": 449300000.0,
+  "da_ttm": 233000000.0,
+  "sbc_est": null,
+  "cash": 2064999936,
+  "debt": 3009400064,
+  "shares": 59516346,
+  "rev_cagr": 0.0799,
+  "latest_rev_yoy": 0.166,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

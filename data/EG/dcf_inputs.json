@@ -1,0 +1,16 @@
+{
+  "ticker": "EG",
+  "price": 375.56,
+  "beta": 0.287,
+  "market_cap": 14861509632,
+  "ocf_ttm": 2789000000.0,
+  "capex_ttm": null,
+  "da_ttm": null,
+  "sbc_est": null,
+  "cash": 3638000128,
+  "debt": 3588999936,
+  "shares": 39571602,
+  "rev_cagr": 0.1284,
+  "latest_rev_yoy": -0.047,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

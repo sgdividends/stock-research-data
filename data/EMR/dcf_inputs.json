@@ -1,0 +1,16 @@
+{
+  "ticker": "EMR",
+  "price": 144.9,
+  "beta": 1.244,
+  "market_cap": 81158479872,
+  "ocf_ttm": 3558000000.0,
+  "capex_ttm": 443000000.0,
+  "da_ttm": 1479000000.0,
+  "sbc_est": null,
+  "cash": 1791000064,
+  "debt": 14056999936,
+  "shares": 560100000,
+  "rev_cagr": 0.0928,
+  "latest_rev_yoy": 0.029,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

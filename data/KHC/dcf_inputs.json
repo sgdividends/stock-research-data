@@ -1,0 +1,16 @@
+{
+  "ticker": "KHC",
+  "price": 25.36,
+  "beta": 0.077,
+  "market_cap": 30071322624,
+  "ocf_ttm": 4748000000.0,
+  "capex_ttm": 803000000.0,
+  "da_ttm": 982000000.0,
+  "sbc_est": null,
+  "cash": 4091000064,
+  "debt": 21133000704,
+  "shares": 1185777638,
+  "rev_cagr": -0.0198,
+  "latest_rev_yoy": 0.008,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

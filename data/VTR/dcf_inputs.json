@@ -1,0 +1,16 @@
+{
+  "ticker": "VTR",
+  "price": 97.92,
+  "beta": 0.724,
+  "market_cap": 47605739520,
+  "ocf_ttm": 1720189000.0,
+  "capex_ttm": 672746000.0,
+  "da_ttm": 1474415000.0,
+  "sbc_est": null,
+  "cash": 183612992,
+  "debt": 12726149120,
+  "shares": 486169723,
+  "rev_cagr": 0.1221,
+  "latest_rev_yoy": 0.219,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

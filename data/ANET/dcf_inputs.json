@@ -1,0 +1,16 @@
+{
+  "ticker": "ANET",
+  "price": 176.61,
+  "beta": 1.601,
+  "market_cap": 222381916160,
+  "ocf_ttm": 5423700000.0,
+  "capex_ttm": 145600000.0,
+  "da_ttm": 82100000.0,
+  "sbc_est": null,
+  "cash": 12353200128,
+  "debt": 0,
+  "shares": 1259169438,
+  "rev_cagr": 0.2715,
+  "latest_rev_yoy": 0.351,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "ORCL",
+  "price": 120.04,
+  "beta": 1.712,
+  "market_cap": 345771737088,
+  "ocf_ttm": 31977000000.0,
+  "capex_ttm": 55663000000.0,
+  "da_ttm": 9294000000.0,
+  "sbc_est": null,
+  "cash": 31893999616,
+  "debt": 167431995392,
+  "shares": 2880471000,
+  "rev_cagr": 0.1048,
+  "latest_rev_yoy": 0.206,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

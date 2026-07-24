@@ -1,0 +1,16 @@
+{
+  "ticker": "VST",
+  "price": 168.98,
+  "beta": 1.409,
+  "market_cap": 56977092608,
+  "ocf_ttm": 4670000000.0,
+  "capex_ttm": 2867000000.0,
+  "da_ttm": 2896000000.0,
+  "sbc_est": null,
+  "cash": 658000000,
+  "debt": 20566999040,
+  "shares": 337182468,
+  "rev_cagr": 0.0892,
+  "latest_rev_yoy": 0.434,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

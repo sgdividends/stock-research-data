@@ -1,0 +1,16 @@
+{
+  "ticker": "TDG",
+  "price": 1213.83,
+  "beta": 0.884,
+  "market_cap": 67893858304,
+  "ocf_ttm": 2105000000.0,
+  "capex_ttm": 255000000.0,
+  "da_ttm": 393000000.0,
+  "sbc_est": null,
+  "cash": 3891000064,
+  "debt": 32003000320,
+  "shares": 55933583,
+  "rev_cagr": 0.1761,
+  "latest_rev_yoy": 0.183,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

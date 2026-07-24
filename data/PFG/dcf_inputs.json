@@ -1,0 +1,16 @@
+{
+  "ticker": "PFG",
+  "price": 107.32,
+  "beta": 0.888,
+  "market_cap": 23182448640,
+  "ocf_ttm": 3746500000.0,
+  "capex_ttm": 115400000.0,
+  "da_ttm": null,
+  "sbc_est": null,
+  "cash": 5338999808,
+  "debt": 4166899968,
+  "shares": 216012384,
+  "rev_cagr": -0.0377,
+  "latest_rev_yoy": -0.045,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

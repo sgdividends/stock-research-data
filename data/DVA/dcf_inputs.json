@@ -1,0 +1,16 @@
+{
+  "ticker": "DVA",
+  "price": 234.27,
+  "beta": 0.882,
+  "market_cap": 15036619776,
+  "ocf_ttm": 2027322000.0,
+  "capex_ttm": 534624000.0,
+  "da_ttm": 716726000.0,
+  "sbc_est": null,
+  "cash": 666545984,
+  "debt": 13220841472,
+  "shares": 64185000,
+  "rev_cagr": 0.0553,
+  "latest_rev_yoy": 0.06,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

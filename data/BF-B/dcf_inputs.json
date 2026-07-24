@@ -1,0 +1,16 @@
+{
+  "ticker": "BF-B",
+  "price": 25.7,
+  "beta": 0.344,
+  "market_cap": 11792812032,
+  "ocf_ttm": 1000000000.0,
+  "capex_ttm": 107000000.0,
+  "da_ttm": 92000000.0,
+  "sbc_est": null,
+  "cash": 308000000,
+  "debt": 2611000064,
+  "shares": 458864265,
+  "rev_cagr": -0.0242,
+  "latest_rev_yoy": 0.02,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

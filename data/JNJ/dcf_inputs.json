@@ -1,0 +1,16 @@
+{
+  "ticker": "JNJ",
+  "price": 259.27,
+  "beta": 0.235,
+  "market_cap": 624119119872,
+  "ocf_ttm": 22870000000.0,
+  "capex_ttm": 5457000000.0,
+  "da_ttm": 7735000000.0,
+  "sbc_est": null,
+  "cash": 22051000320,
+  "debt": 54987001856,
+  "shares": 2407216971,
+  "rev_cagr": 0.056,
+  "latest_rev_yoy": 0.066,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

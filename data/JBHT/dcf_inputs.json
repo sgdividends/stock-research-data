@@ -1,0 +1,16 @@
+{
+  "ticker": "JBHT",
+  "price": 289.37,
+  "beta": 1.294,
+  "market_cap": 27171842048,
+  "ocf_ttm": 1627118000.0,
+  "capex_ttm": 595146000.0,
+  "da_ttm": 714719000.0,
+  "sbc_est": null,
+  "cash": 4162000,
+  "debt": 1444034048,
+  "shares": 93900000,
+  "rev_cagr": -0.0678,
+  "latest_rev_yoy": 0.194,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

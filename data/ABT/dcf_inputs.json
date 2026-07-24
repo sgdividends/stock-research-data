@@ -1,0 +1,16 @@
+{
+  "ticker": "ABT",
+  "price": 100.75,
+  "beta": 0.607,
+  "market_cap": 175487664128,
+  "ocf_ttm": 9464000000.0,
+  "capex_ttm": 2086000000.0,
+  "da_ttm": 3163000000.0,
+  "sbc_est": null,
+  "cash": 7295000064,
+  "debt": 34136000512,
+  "shares": 1741813154,
+  "rev_cagr": 0.0051,
+  "latest_rev_yoy": 0.13,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

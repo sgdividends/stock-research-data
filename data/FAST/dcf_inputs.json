@@ -1,0 +1,16 @@
+{
+  "ticker": "FAST",
+  "price": 46.15,
+  "beta": 0.713,
+  "market_cap": 52957016064,
+  "ocf_ttm": 1399100000.0,
+  "capex_ttm": 243300000.0,
+  "da_ttm": 179600000.0,
+  "sbc_est": null,
+  "cash": 204700000,
+  "debt": 441500000,
+  "shares": 1147497573,
+  "rev_cagr": 0.0552,
+  "latest_rev_yoy": 0.147,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

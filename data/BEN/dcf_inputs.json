@@ -1,0 +1,16 @@
+{
+  "ticker": "BEN",
+  "price": 32.29,
+  "beta": 1.576,
+  "market_cap": 16779083776,
+  "ocf_ttm": 978700000.0,
+  "capex_ttm": 45200000.0,
+  "da_ttm": 409900000.0,
+  "sbc_est": null,
+  "cash": 2571500032,
+  "debt": 3430400000,
+  "shares": 519637162,
+  "rev_cagr": 0.0196,
+  "latest_rev_yoy": 0.087,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

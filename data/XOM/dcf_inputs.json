@@ -1,0 +1,16 @@
+{
+  "ticker": "XOM",
+  "price": 156.89,
+  "beta": 0.162,
+  "market_cap": 650300751872,
+  "ocf_ttm": 47722000000.0,
+  "capex_ttm": 28930000000.0,
+  "da_ttm": 27062000000.0,
+  "sbc_est": null,
+  "cash": 8434999808,
+  "debt": 47660998656,
+  "shares": 4144947162,
+  "rev_cagr": -0.0669,
+  "latest_rev_yoy": 0.026,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "NXPI",
+  "price": 277.29,
+  "beta": 1.805,
+  "market_cap": 70007709696,
+  "ocf_ttm": 3048000000.0,
+  "capex_ttm": 494000000.0,
+  "da_ttm": 802000000.0,
+  "sbc_est": null,
+  "cash": 3708000000,
+  "debt": 11724000256,
+  "shares": 252471079,
+  "rev_cagr": -0.0242,
+  "latest_rev_yoy": 0.122,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

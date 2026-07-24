@@ -1,0 +1,16 @@
+{
+  "ticker": "NWS",
+  "price": 29.75,
+  "beta": 0.899,
+  "market_cap": 16121743360,
+  "ocf_ttm": 841000000.0,
+  "capex_ttm": 437000000.0,
+  "da_ttm": 477000000.0,
+  "sbc_est": null,
+  "cash": 2176999936,
+  "debt": 2928999936,
+  "shares": 541907305,
+  "rev_cagr": -0.0663,
+  "latest_rev_yoy": 0.088,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

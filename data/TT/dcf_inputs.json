@@ -1,0 +1,16 @@
+{
+  "ticker": "TT",
+  "price": 479.71,
+  "beta": 1.195,
+  "market_cap": 106042515456,
+  "ocf_ttm": 3481200000.0,
+  "capex_ttm": 343800000.0,
+  "da_ttm": 378300000.0,
+  "sbc_est": null,
+  "cash": 1074200064,
+  "debt": 4616000000,
+  "shares": 221055477,
+  "rev_cagr": 0.1006,
+  "latest_rev_yoy": 0.06,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

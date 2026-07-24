@@ -1,0 +1,16 @@
+{
+  "ticker": "TEL",
+  "price": 198.79,
+  "beta": null,
+  "market_cap": 57637302272,
+  "ocf_ttm": 4420000000.0,
+  "capex_ttm": 1029000000.0,
+  "da_ttm": 962000000.0,
+  "sbc_est": null,
+  "cash": 1239000064,
+  "debt": 5632000000,
+  "shares": 289940672,
+  "rev_cagr": 0.0197,
+  "latest_rev_yoy": 0.138,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

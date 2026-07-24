@@ -1,0 +1,16 @@
+{
+  "ticker": "BR",
+  "price": 144.4,
+  "beta": 0.903,
+  "market_cap": 16701057024,
+  "ocf_ttm": 1367900000.0,
+  "capex_ttm": 113600000.0,
+  "da_ttm": 339900000.0,
+  "sbc_est": null,
+  "cash": 305600000,
+  "debt": 3407300096,
+  "shares": 115658297,
+  "rev_cagr": 0.0646,
+  "latest_rev_yoy": 0.078,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "UDR",
+  "price": 39.48,
+  "beta": 0.695,
+  "market_cap": 14627957760,
+  "ocf_ttm": 875414000.0,
+  "capex_ttm": 271931000.0,
+  "da_ttm": 676177000.0,
+  "sbc_est": null,
+  "cash": 2371000,
+  "debt": 5845310976,
+  "shares": 370515653,
+  "rev_cagr": 0.0411,
+  "latest_rev_yoy": 0.042,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "BG",
+  "price": 122.3,
+  "beta": 0.639,
+  "market_cap": 23728414720,
+  "ocf_ttm": 588000000.0,
+  "capex_ttm": 1749000000.0,
+  "da_ttm": 821000000.0,
+  "sbc_est": null,
+  "cash": 1700999936,
+  "debt": 16433999872,
+  "shares": 194018115,
+  "rev_cagr": 0.0151,
+  "latest_rev_yoy": 0.878,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,0 +1,16 @@
+{
+  "ticker": "GNRC",
+  "price": 210.5,
+  "beta": 1.895,
+  "market_cap": 12391857152,
+  "ocf_ttm": 499111000.0,
+  "capex_ttm": 168310000.0,
+  "da_ttm": 204668000.0,
+  "sbc_est": null,
+  "cash": 265530000,
+  "debt": 1393465984,
+  "shares": 58868681,
+  "rev_cagr": -0.0267,
+  "latest_rev_yoy": 0.124,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

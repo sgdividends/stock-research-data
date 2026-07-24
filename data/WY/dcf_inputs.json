@@ -1,0 +1,16 @@
+{
+  "ticker": "WY",
+  "price": 23.64,
+  "beta": 0.911,
+  "market_cap": 17045447680,
+  "ocf_ttm": 544000000.0,
+  "capex_ttm": 962000000.0,
+  "da_ttm": 508000000.0,
+  "sbc_est": null,
+  "cash": 299000000,
+  "debt": 5448999936,
+  "shares": 721042609,
+  "rev_cagr": -0.1215,
+  "latest_rev_yoy": -0.02,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

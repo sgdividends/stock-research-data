@@ -1,0 +1,16 @@
+{
+  "ticker": "VRSN",
+  "price": 261.58,
+  "beta": 0.707,
+  "market_cap": 23803779072,
+  "ocf_ttm": 1072200000.0,
+  "capex_ttm": 24200000.0,
+  "da_ttm": 28700000.0,
+  "sbc_est": null,
+  "cash": 556400000,
+  "debt": 1794599936,
+  "shares": 91000000,
+  "rev_cagr": 0.0515,
+  "latest_rev_yoy": 0.066,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

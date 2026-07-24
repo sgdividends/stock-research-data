@@ -1,0 +1,16 @@
+{
+  "ticker": "WDC",
+  "price": 558.3,
+  "beta": 2.166,
+  "market_cap": 192436043776,
+  "ocf_ttm": 3286000000.0,
+  "capex_ttm": 381000000.0,
+  "da_ttm": 362000000.0,
+  "sbc_est": null,
+  "cash": 3236999936,
+  "debt": 1724000000,
+  "shares": 344682131,
+  "rev_cagr": -0.2028,
+  "latest_rev_yoy": 0.455,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

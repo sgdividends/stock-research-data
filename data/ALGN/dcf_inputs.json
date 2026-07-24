@@ -1,0 +1,16 @@
+{
+  "ticker": "ALGN",
+  "price": 168.24,
+  "beta": 1.669,
+  "market_cap": 12049034240,
+  "ocf_ttm": 691589000.0,
+  "capex_ttm": 107941000.0,
+  "da_ttm": 254836000.0,
+  "sbc_est": null,
+  "cash": 1059833984,
+  "debt": 116044000,
+  "shares": 71618127,
+  "rev_cagr": 0.0261,
+  "latest_rev_yoy": 0.062,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

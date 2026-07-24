@@ -1,0 +1,16 @@
+{
+  "ticker": "AKAM",
+  "price": 117.37,
+  "beta": 0.633,
+  "market_cap": 17063890944,
+  "ocf_ttm": 1580073000.0,
+  "capex_ttm": 815339000.0,
+  "da_ttm": 718340000.0,
+  "sbc_est": null,
+  "cash": 930444992,
+  "debt": 5867704832,
+  "shares": 145385451,
+  "rev_cagr": 0.0518,
+  "latest_rev_yoy": 0.058,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

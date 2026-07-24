@@ -1,0 +1,16 @@
+{
+  "ticker": "CRL",
+  "price": 229.29,
+  "beta": 1.399,
+  "market_cap": 11044377600,
+  "ocf_ttm": 607026000.0,
+  "capex_ttm": 215736000.0,
+  "da_ttm": 350099000.0,
+  "sbc_est": null,
+  "cash": 191830000,
+  "debt": 3064531968,
+  "shares": 48167730,
+  "rev_cagr": 0.0033,
+  "latest_rev_yoy": 0.012,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

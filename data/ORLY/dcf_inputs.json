@@ -1,0 +1,16 @@
+{
+  "ticker": "ORLY",
+  "price": 86.11,
+  "beta": 0.513,
+  "market_cap": 71360651264,
+  "ocf_ttm": 3039786000.0,
+  "capex_ttm": 1126311000.0,
+  "da_ttm": 524367000.0,
+  "sbc_est": null,
+  "cash": 252632000,
+  "debt": 8731225088,
+  "shares": 828715079,
+  "rev_cagr": 0.0726,
+  "latest_rev_yoy": 0.102,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

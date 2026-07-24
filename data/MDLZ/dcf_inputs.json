@@ -1,0 +1,16 @@
+{
+  "ticker": "MDLZ",
+  "price": 60.05,
+  "beta": 0.408,
+  "market_cap": 77083172864,
+  "ocf_ttm": 3889000000.0,
+  "capex_ttm": 1314000000.0,
+  "da_ttm": 1377000000.0,
+  "sbc_est": null,
+  "cash": 1524000000,
+  "debt": 21621999616,
+  "shares": 1283649766,
+  "rev_cagr": 0.0696,
+  "latest_rev_yoy": 0.082,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

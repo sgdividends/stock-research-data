@@ -1,0 +1,16 @@
+{
+  "ticker": "CVX",
+  "price": 194.42,
+  "beta": 0.488,
+  "market_cap": 387206414336,
+  "ocf_ttm": 31264000000.0,
+  "capex_ttm": 17483000000.0,
+  "da_ttm": 21817000000.0,
+  "sbc_est": null,
+  "cash": 5327000064,
+  "debt": 45427998720,
+  "shares": 1991597732,
+  "rev_cagr": -0.0785,
+  "latest_rev_yoy": 0.023,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

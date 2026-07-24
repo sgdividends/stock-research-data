@@ -1,0 +1,16 @@
+{
+  "ticker": "LHX",
+  "price": 299.67,
+  "beta": 0.746,
+  "market_cap": 55827009536,
+  "ocf_ttm": 3053000000.0,
+  "capex_ttm": 464000000.0,
+  "da_ttm": 1205000000.0,
+  "sbc_est": null,
+  "cash": 1001000000,
+  "debt": 7926000128,
+  "shares": 186294951,
+  "rev_cagr": 0.0862,
+  "latest_rev_yoy": 1.9,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

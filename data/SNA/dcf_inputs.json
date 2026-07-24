@@ -1,0 +1,16 @@
+{
+  "ticker": "SNA",
+  "price": 395.41,
+  "beta": 0.721,
+  "market_cap": 20453423104,
+  "ocf_ttm": 1151900000.0,
+  "capex_ttm": 74300000.0,
+  "da_ttm": 99500000.0,
+  "sbc_est": null,
+  "cash": 1752800000,
+  "debt": 1300199936,
+  "shares": 51727124,
+  "rev_cagr": 0.0211,
+  "latest_rev_yoy": 0.052,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

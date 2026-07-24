@@ -1,0 +1,16 @@
+{
+  "ticker": "CNP",
+  "price": 44.23,
+  "beta": 0.454,
+  "market_cap": 28933914624,
+  "ocf_ttm": 2358000000.0,
+  "capex_ttm": 5030000000.0,
+  "da_ttm": 1590000000.0,
+  "sbc_est": null,
+  "cash": 1194000000,
+  "debt": 24682999808,
+  "shares": 654169480,
+  "rev_cagr": 0.0013,
+  "latest_rev_yoy": 0.019,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

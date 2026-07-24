@@ -1,0 +1,16 @@
+{
+  "ticker": "GPN",
+  "price": 77.86,
+  "beta": 0.769,
+  "market_cap": 21298098176,
+  "ocf_ttm": 1812647000.0,
+  "capex_ttm": 751528000.0,
+  "da_ttm": 1828026000.0,
+  "sbc_est": null,
+  "cash": 5861312000,
+  "debt": 23587248128,
+  "shares": 273543507,
+  "rev_cagr": -0.0496,
+  "latest_rev_yoy": 0.631,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

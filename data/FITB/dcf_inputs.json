@@ -1,0 +1,16 @@
+{
+  "ticker": "FITB",
+  "price": 57.15,
+  "beta": 0.922,
+  "market_cap": 51810648064,
+  "ocf_ttm": 2175000000.0,
+  "capex_ttm": 738000000.0,
+  "da_ttm": 618000000.0,
+  "sbc_est": null,
+  "cash": 6226999808,
+  "debt": 22268999680,
+  "shares": 906573000,
+  "rev_cagr": 0.0287,
+  "latest_rev_yoy": 0.518,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

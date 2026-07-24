@@ -1,0 +1,16 @@
+{
+  "ticker": "MCK",
+  "price": 824.49,
+  "beta": 0.315,
+  "market_cap": 96529424384,
+  "ocf_ttm": 6155000000.0,
+  "capex_ttm": 745000000.0,
+  "da_ttm": 729000000.0,
+  "sbc_est": null,
+  "cash": 3975000064,
+  "debt": 8785999872,
+  "shares": 117077745,
+  "rev_cagr": 0.1339,
+  "latest_rev_yoy": 0.06,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

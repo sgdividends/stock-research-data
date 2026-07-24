@@ -1,0 +1,16 @@
+{
+  "ticker": "KMI",
+  "price": 32.77,
+  "beta": null,
+  "market_cap": 72907546624,
+  "ocf_ttm": 6246000000.0,
+  "capex_ttm": 3064000000.0,
+  "da_ttm": 2476000000.0,
+  "sbc_est": null,
+  "cash": 89000000,
+  "debt": 32248000512,
+  "shares": 2224825757,
+  "rev_cagr": -0.0409,
+  "latest_rev_yoy": 0.108,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

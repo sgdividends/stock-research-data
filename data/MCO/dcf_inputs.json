@@ -1,0 +1,16 @@
+{
+  "ticker": "MCO",
+  "price": 472.24,
+  "beta": null,
+  "market_cap": 82489196544,
+  "ocf_ttm": 3083000000.0,
+  "capex_ttm": 336000000.0,
+  "da_ttm": 489000000.0,
+  "sbc_est": null,
+  "cash": 1496000000,
+  "debt": 7521999872,
+  "shares": 174676438,
+  "rev_cagr": 0.1217,
+  "latest_rev_yoy": 0.151,
+  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}
