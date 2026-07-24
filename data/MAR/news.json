@@ -1,7 +1,14 @@
 {
   "ticker": "MAR",
-  "generated_at": "2026-07-24T10:12:23.216940+00:00",
+  "generated_at": "2026-07-24T13:25:05.299245+00:00",
   "items": [
+    {
+      "title": "1 S&P 500 Stock Worth Investigating and 2 Facing Challenges",
+      "summary": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials, or structural headwinds.",
+      "pub_date": "2026-07-24T12:57:08Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-worth-125708896.html"
+    },
     {
       "title": "Marriott (MAR) Stock Looks Overvalued On Cash Flow And Earnings",
       "summary": "Marriott International\u2019s share price has delivered a strong 166.9% return over the past 5 years, yet both the Discounted Cash Flow (DCF) intrinsic value estimate and market multiples currently point to the stock trading at a premium rather than at a clear discount. Over 5 years, Marriott International has returned 166.9%, which puts fresh attention on whether today\u2019s price still leaves much room for additional upside before valuation becomes stretched. New projects such as the planned...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-15T14:01:13Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/marriott-international-earnings-preview-expect-140113579.html"
-    },
-    {
-      "title": "Marriott vs. Viking: Why the Better Quarter Doesn't Mean the Better Decade",
-      "summary": "Amid resilient travel spending, Marriott and Viking Holdings show strong earnings and booking trends, though both stocks trade near their consensus price targets ahead of Q2 reports.",
-      "pub_date": "2026-07-15T11:25:00Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/marriott-vs-viking-why-better-112500265.html"
     }
   ]
 }

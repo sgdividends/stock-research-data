@@ -1,7 +1,14 @@
 {
   "ticker": "GM",
-  "generated_at": "2026-07-24T10:12:13.205070+00:00",
+  "generated_at": "2026-07-24T13:24:54.070532+00:00",
   "items": [
+    {
+      "title": "Wall Street Slashes Tesla Price Targets After Its Q2 Miss, but Few Are Backing Away",
+      "summary": "Tesla posted record deliveries and a massive revenue beat, yet watched $71 billion in market cap vanish overnight. What analysts are telling clients now about the road ahead reveals a striking split between the headline numbers and the real story inside the quarter.",
+      "pub_date": "2026-07-24T13:00:33Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-slashes-tesla-price-130033776.html"
+    },
     {
       "title": "IBM to buy HRL Laboratories to enhance quantum computing",
       "summary": "IBM aims to strengthen its quantum technology capabilities with the planned purchase of R&D firm.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-23T14:55:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-earnings-trends-highlights-general-145500714.html"
-    },
-    {
-      "title": "QuantumScape Q2 Earnings Beat Estimates on Eagle Line Gains",
-      "summary": "QS narrows its Q2 loss as Eagle Line gains and $10.8M in customer billings mark progress toward commercialization.",
-      "pub_date": "2026-07-23T14:06:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/quantumscape-q2-earnings-beat-estimates-140600117.html"
     }
   ]
 }

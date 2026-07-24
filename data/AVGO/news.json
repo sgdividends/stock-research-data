@@ -1,7 +1,28 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-07-24T10:11:53.782573+00:00",
+  "generated_at": "2026-07-24T13:24:31.831694+00:00",
   "items": [
+    {
+      "title": "Latest News In AI Chips - AMD and Cerebras Team Up for AI Infrastructure Enhancement",
+      "summary": "AMD and Cerebras Systems have unveiled a collaboration aimed at enhancing AI inference infrastructure through a new disaggregated solution. This partnership integrates AMD\u2019s Helios\u2122 rackscale solutions with Cerebras\u2019 Wafer-Scale Engine, promising ultra-low latency and high throughput for AI applications. The joint solution, which will be available via Cerebras Cloud in late 2026, optimizes the workflow by independently enhancing throughput with AMD\u2019s technology and accelerating token...",
+      "pub_date": "2026-07-24T11:37:53Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/latest-news-ai-chips-amd-113753874.html"
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights Credo Technology, Broadcom, Marvell Technology and Astera Labs",
+      "summary": "CRDO, AVGO, MRVL and ALAB are riding booming AI data center networking demand as faster Ethernet, optics and interconnect technologies fuel growth.",
+      "pub_date": "2026-07-24T11:09:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-credo-110900427.html"
+    },
+    {
+      "title": "Samsung, SK Hynix to Ink Large Chip Supply Deals with US Firms",
+      "summary": "(Bloomberg) -- Samsung Electronics Co. and SK Hynix Inc. are set to unveil major agreements involving \u201cvery large\u201d sums with leading US technology companies during President Lee Jae Myung\u2019s visit to Silicon Valley, a senior presidential official said.Most Read from BloombergRetina Chip Designed to Restore Sight to Go on Sale in EuropeHegseth Turns to UNC, Virginia Tech After Dropping Ivy LeagueApple Plans Overhaul of MacBooks, iMac in Push to Meet AI DemandTrump Rebuilds Tariffs With New Levies",
+      "pub_date": "2026-07-24T11:00:00Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/articles/samsung-sk-hynix-ink-large-110000137.html"
+    },
     {
       "title": "Broadcom (AVGO) Lands At The Center Of A $35 Billion AI Financing Trade",
       "summary": "Wall Street banks have begun trading pieces of a $35b financing package tied to Broadcom and Anthropic's AI chip and infrastructure build out. The transactions involve buying and selling segments of the funding that supports Anthropic's custom chip orders with Broadcom. This activity signals fresh interest in financing structures linked to large scale AI hardware projects. For investors tracking Broadcom (NasdaqGS:AVGO), this financing package trading activity comes as the stock changes...",
@@ -36,27 +57,6 @@
       "pub_date": "2026-07-23T16:08:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-smart-buy-q3-160800907.html"
-    },
-    {
-      "title": "Cerebras Scores With CrowdStrike Deal: What it Means for Investors",
-      "summary": "CBRS' CrowdStrike pact brings wafer-scale AI inference to real-time cyber defense, widening its enterprise reach as cloud growth accelerates.",
-      "pub_date": "2026-07-23T15:57:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-scores-crowdstrike-deal-means-155700503.html"
-    },
-    {
-      "title": "CBRS vs. AVGO: Which Stock Leads the AI Infrastructure Boom?",
-      "summary": "Broadcom's strong AI bookings and customer commitments through 2028 give it the edge over Cerebras, a fast-growing but unprofitable rival.",
-      "pub_date": "2026-07-23T15:54:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cbrs-vs-avgo-stock-leads-155400397.html"
-    },
-    {
-      "title": "Billionaire Investor Philippe Laffont\u2019s Top 5 Tech Picks",
-      "summary": "Coatue Management's latest 13F reveals Philippe Laffont stacking chips on a single concentrated AI infrastructure bet, and one of his five picks has nothing to do with semiconductors at all.",
-      "pub_date": "2026-07-23T14:33:01Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-investor-philippe-laffont-top-143301598.html"
     }
   ]
 }

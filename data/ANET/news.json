@@ -1,7 +1,14 @@
 {
   "ticker": "ANET",
-  "generated_at": "2026-07-24T10:11:52.387669+00:00",
+  "generated_at": "2026-07-24T13:24:30.185864+00:00",
   "items": [
+    {
+      "title": "The Zacks Analyst Blog Highlights Arista Networks, Unity Software, HubSpot and Samsara",
+      "summary": "AI-driven enterprise spending is creating growth opportunities for ANET, U, HUBS and IOT as companies expand intelligent software and cloud capabilities.",
+      "pub_date": "2026-07-24T11:04:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-arista-110400415.html"
+    },
     {
       "title": "Arista Networks Stock Runs On A Different Fuel",
       "summary": "The networking giant is standing out in a weak market, but what it really offers your portfolio is a powerful, and volatile, dose of something new.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-23T07:22:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-arista-networks-stock-rocketed-072200717.html"
-    },
-    {
-      "title": "Can ANET's New VeloCloud AI Security Solution Drive Enterprise Growth?",
-      "summary": "Arista Networks adds AI-driven ETM to VeloCloud SD-WAN, combining zero trust security and networking on one platform to simplify branch deployments.",
-      "pub_date": "2026-07-22T16:03:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anets-velocloud-ai-security-solution-160300168.html"
     }
   ]
 }

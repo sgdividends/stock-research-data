@@ -1,20 +1,27 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-07-24T10:12:16.437885+00:00",
+  "generated_at": "2026-07-24T13:24:57.841652+00:00",
   "items": [
-    {
-      "title": "Earnings live: Google stock drops on capex concerns, ServiceNow pops",
-      "summary": "Wall Street is coming into a busy week of earnings with high expectations.",
-      "pub_date": "2026-07-20T11:53:24Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/earnings-live-second-quarter-results-tesla-google-july-115324842.html"
-    },
     {
       "title": "IBM may be caught up in latest bout of AI volatility: 'Don't concentrate in any one theme'",
       "summary": "IBM (IBM) lowered its full-year sales out after falling short of second quarter earnings and revenue estimates. The stock is down nearly 30% year-to-date in 2026. Northwestern Mutual Wealth Management Company CIO Brent Schutte joins Yahoo Finance Executive Editor Brian Sozzi on Opening Bid to discuss the latest round of AI volatility that the chipmaker may be caught up in.",
       "pub_date": "2026-07-23T15:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/ibm-may-caught-latest-bout-150000533.html"
+    },
+    {
+      "title": "China Has a Plan to Rival America\u2019s AI Chips",
+      "summary": "Plus, Trump\u2019s frustrations over the Iran war, behind the scenes with our travel columnist, and the fight to save all-you-can-eat buffets in Las Vegas.",
+      "pub_date": "2026-07-24T10:04:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/lifestyle/travel/china-has-a-plan-to-rival-americas-ai-chips-b7d9c37f?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "There's a problem holding back quantum computer growth and this Ontario startup aims to solve it",
+      "summary": "A device developed by Waterloo-based QuantumCore Inc. may help Google and IBM to scale up their quantum computing",
+      "pub_date": "2026-07-24T10:00:58Z",
+      "source": "Financial Post",
+      "url": "https://finance.yahoo.com/news/theres-problem-holding-back-quantum-100058113.html"
     },
     {
       "title": "IBM to buy HRL Laboratories to enhance quantum computing",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-23T20:55:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-d3fdc4c0?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "S&P 500 Q2 Earnings: Stripping Out the Outsized Impact of Alphabet and Micron",
-      "summary": "The picture emerging from Q2 earnings is one of broad-based strength. Companies are comfortably beating consensus estimates-even as those forecasts were revised upward leading into the reporting cycle-while the overall pace of earnings growth continues to accelerate noticeably.",
-      "pub_date": "2026-07-23T20:45:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-q2-earnings-stripping-204500975.html"
     }
   ]
 }
