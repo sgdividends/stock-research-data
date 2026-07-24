@@ -1,6 +1,6 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-07-24T02:06:51.981737+00:00",
+  "generated_at": "2026-07-24T06:21:48.165056+00:00",
   "items": [
     {
       "title": "Bitcoin and ethereum prices today, Thursday, July 23: Prices mixed as analysts debate crypto bottom",
@@ -15,6 +15,13 @@
       "pub_date": "2026-07-23T12:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/why-coinbase-exec-relentlessly-optimistic-120000556.html"
+    },
+    {
+      "title": "Coinbase Calls AI Payments a High-Conviction Bet as Agent Checkout Goes Live",
+      "summary": "Coinbase Global Inc. (NASDAQ: $COIN) is letting businesses accept payments from AI agents, extending its stablecoin...",
+      "pub_date": "2026-07-24T02:23:00Z",
+      "source": "CryptoProwl",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-calls-ai-payments-high-022300274.html"
     },
     {
       "title": "Abu Dhabi's Mubadala Capital\u00a0brings tokenized private fund to Solana",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-23T16:25:00Z",
       "source": "CryptoProwl",
       "url": "https://finance.yahoo.com/markets/crypto/articles/blackrock-strategy-coinbase-back-15m-162500229.html"
-    },
-    {
-      "title": "BlackRock, Coinbase and Strategy Pledge $15M to Quantum-Proof Bitcoin",
-      "summary": "Nine of the biggest institutional names in Bitcoin formed a consortium to fund the developers working to keep the network secure\u2014including from future quantum computers.",
-      "pub_date": "2026-07-23T15:17:38Z",
-      "source": "decrypt",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/blackrock-coinbase-strategy-pledge-15m-151738491.html"
     }
   ]
 }

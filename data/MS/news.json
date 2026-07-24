@@ -1,7 +1,14 @@
 {
   "ticker": "MS",
-  "generated_at": "2026-07-24T02:07:22.559264+00:00",
+  "generated_at": "2026-07-24T06:22:13.008123+00:00",
   "items": [
+    {
+      "title": "Morgan Stanley sends strong verdict on memory stocks",
+      "summary": "Memory stocks were the hottest trade of 2026 until they weren't. In the span of a few weeks, one of the market's best-performing sectors flipped into a bear market. Micron (MU), Samsung, and SK Hynix (SKHY) all fell more than 20% from their late-June highs, and the Roundhill Memory ETF went ...",
+      "pub_date": "2026-07-24T02:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sends-strong-verdict-020300333.html"
+    },
     {
       "title": "The 1 Number That Explains Why Alphabet Stock Is Tanking",
       "summary": "Alphabet\u2019s second-quarter free cash flow turned negative for the first time as the Google parent ramps AI spending, leaving Wall Street divided over whether the investment will pay off.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-23T09:03:10Z",
       "source": "Retail Insight Network",
       "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-diligent-capital-lead-090310988.html"
-    },
-    {
-      "title": "Morgan Stanley leads TMT M&A advisory by deal value in H1 2026",
-      "summary": "Houlihan Lokey led by deal volume in H1 2026, advising on 34 transactions across the TMT sector.",
-      "pub_date": "2026-07-23T09:02:41Z",
-      "source": "Verdict",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-leads-tmt-m-090241978.html"
     }
   ]
 }
