@@ -1,6 +1,6 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-07-24T06:21:48.165056+00:00",
+  "generated_at": "2026-07-24T10:12:00.810252+00:00",
   "items": [
     {
       "title": "Bitcoin and ethereum prices today, Thursday, July 23: Prices mixed as analysts debate crypto bottom",
@@ -15,6 +15,13 @@
       "pub_date": "2026-07-23T12:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/why-coinbase-exec-relentlessly-optimistic-120000556.html"
+    },
+    {
+      "title": "How Crypto, Coinbase Could Win Even if the Clarity Act Loses",
+      "summary": "The U.S. Senate could soon create a regulatory framework for crypto. Getting even this far is a victory for the industry.",
+      "pub_date": "2026-07-24T07:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/crypto-coinbase-clarity-act-win-lose-0daf4aca?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Coinbase Calls AI Payments a High-Conviction Bet as Agent Checkout Goes Live",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-23T16:57:28Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/markets/crypto/articles/blackrock-coinbase-microstrategy-prepare-scary-165728220.html"
-    },
-    {
-      "title": "BlackRock, Strategy and Coinbase Back $15M Bitcoin Security Consortium",
-      "summary": "BlackRock (NYSE: $BLK), Strategy (NASDAQ: $MSTR) and Coinbase (NASDAQ: $COIN) are putting $15 million behind a Bitc...",
-      "pub_date": "2026-07-23T16:25:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/blackrock-strategy-coinbase-back-15m-162500229.html"
     }
   ]
 }

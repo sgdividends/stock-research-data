@@ -1,7 +1,14 @@
 {
   "ticker": "GM",
-  "generated_at": "2026-07-24T06:22:00.094050+00:00",
+  "generated_at": "2026-07-24T10:12:13.205070+00:00",
   "items": [
+    {
+      "title": "IBM to buy HRL Laboratories to enhance quantum computing",
+      "summary": "IBM aims to strengthen its quantum technology capabilities with the planned purchase of R&D firm.",
+      "pub_date": "2026-07-24T08:38:41Z",
+      "source": "Verdict",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-buy-hrl-laboratories-enhance-083841195.html"
+    },
     {
       "title": "GM CEO Mary Barra Says China's Price War Isn't 'Sustainable,' Backs Company's Autonomous Driving Efforts Amid Nearly $11 Billion in EV Charges",
       "summary": "General Motors Co. CEO Mary Barra has said that China\u2019s price war is \u201cunsustainable\u201d in the long term during the automaker\u2019s second-quarter 2026 earnings call with investors. Mary Barra Says GM Leading in Autonomous Efforts During the earnings call, Barra...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-23T14:06:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/quantumscape-q2-earnings-beat-estimates-140600117.html"
-    },
-    {
-      "title": "IBM acquires HRL Laboratories from Boeing and GM",
-      "summary": "HRL, jointly owned by Boeing and GM, makes electron spin qubits \u2014 a different approach from the superconducting circuits IBM currently uses",
-      "pub_date": "2026-07-23T13:06:26Z",
-      "source": "Quartz",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-acquires-hrl-laboratories-boeing-130626950.html"
     }
   ]
 }

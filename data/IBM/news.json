@@ -1,6 +1,6 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-07-24T06:22:03.613344+00:00",
+  "generated_at": "2026-07-24T10:12:16.437885+00:00",
   "items": [
     {
       "title": "Earnings live: Google stock drops on capex concerns, ServiceNow pops",
@@ -15,6 +15,13 @@
       "pub_date": "2026-07-23T15:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/ibm-may-caught-latest-bout-150000533.html"
+    },
+    {
+      "title": "IBM to buy HRL Laboratories to enhance quantum computing",
+      "summary": "IBM aims to strengthen its quantum technology capabilities with the planned purchase of R&D firm.",
+      "pub_date": "2026-07-24T08:38:41Z",
+      "source": "Verdict",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-buy-hrl-laboratories-enhance-083841195.html"
     },
     {
       "title": "Dell's Big Day Was All About Another Company",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-23T20:45:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-q2-earnings-stripping-204500975.html"
-    },
-    {
-      "title": "IBM Stock Alert: What to Know as IBM Acquires Quantum Computing Research Lab",
-      "summary": "IBM says it\u2019s acquiring HRL Laboratories to accelerate its roadmap in fault-tolerant quantum computing. But does that warrant buying IBM shares today?",
-      "pub_date": "2026-07-23T18:58:38Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ibm-stock-alert-know-ibm-185838729.html"
     }
   ]
 }
