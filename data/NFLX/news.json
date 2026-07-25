@@ -1,6 +1,6 @@
 {
   "ticker": "NFLX",
-  "generated_at": "2026-07-25T02:06:43.713236+00:00",
+  "generated_at": "2026-07-25T06:12:33.456377+00:00",
   "items": [
     {
       "title": "Why investors should be 'really excited' about this form of agentic AI trading",
@@ -8,6 +8,13 @@
       "pub_date": "2026-07-24T12:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/why-investors-really-excited-form-120000425.html"
+    },
+    {
+      "title": "Tech Hits a Wall & Netflix Plunges",
+      "summary": "Tech stocks have dropped as earnings reports have given investors reason for concern.",
+      "pub_date": "2026-07-25T02:17:37Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tech-hits-wall-netflix-plunges-021737896.html"
     },
     {
       "title": "Netflix (NFLX) Eyes Letterboxd To Bring 30 Million Movie Fans Into Its Orbit",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-24T03:17:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-gives-two-cents-031700406.html"
-    },
-    {
-      "title": "Netflix's stock split history (& prospects) explained",
-      "summary": "Netflix revolutionized home cinematic viewing, first with its DVD subscription service, then with the rollout of its online streaming service. With hundreds of millions of subscribers globally, Netflix is one of the dominant streaming providers in the world, and its stock price has reflected its ...",
-      "pub_date": "2026-07-24T00:21:44Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netflixs-stock-split-history-prospects-002144722.html"
     }
   ]
 }
