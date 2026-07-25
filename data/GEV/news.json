@@ -1,7 +1,14 @@
 {
   "ticker": "GEV",
-  "generated_at": "2026-07-25T16:51:59.106653+00:00",
+  "generated_at": "2026-07-25T20:43:32.075601+00:00",
   "items": [
+    {
+      "title": "Morgan Stanley strongly resets GE Vernova stock target",
+      "summary": "GE Vernova (GEV) told investors on July 22 that it plans to build more gas turbines than it had ever promised. After the announcement, the stock fell. Shares dropped 6.4% on the day of the news, even though the company raised full-year revenue and cash flow guidance and posted record orders. Morgan ...",
+      "pub_date": "2026-07-25T18:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-strongly-resets-ge-180300042.html"
+    },
     {
       "title": "GE Vernova (GEV): $176 Billion Backlog and AI Power Demand Outweigh Short-Term EPS Miss",
       "summary": "AI data centers are putting pressure on the US power grid, making grid equipment manufacturers, apart from chipmakers, direct beneficiaries of the AI buildout. US data center power consumption is expected to increase 22% in a single year, with total grid demand almost tripling to 134.4 GW by 2030. Hyperscalers such as Amazon, Google, Microsoft, [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-23T20:53:28Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/industrial-stocks-xli-etf-claws-gains-from-falling-market/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Data Centers Turbocharge Jet Engine Maker In A Battle For Power",
-      "summary": "Howmet Aerospace is hovering in a buy zone above a 281.45 pivot ahead of second-quarter results on Aug. 6.",
-      "pub_date": "2026-07-23T17:36:09Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/research/ai-data-center-howmet-aerospace-hwm-stock/?src=A00220&yptr=yahoo"
     }
   ]
 }
