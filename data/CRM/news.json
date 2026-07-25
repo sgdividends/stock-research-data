@@ -1,7 +1,14 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-07-24T20:57:37.696693+00:00",
+  "generated_at": "2026-07-25T02:06:16.540372+00:00",
   "items": [
+    {
+      "title": "ORCL Has Left Its Peers Behind. Or Has It?",
+      "summary": "The market has sent Oracle's stock to the bottom of its peer group, even as its business performance ranks near the top, creating a stark disconnect between price and reality.",
+      "pub_date": "2026-07-24T20:47:37Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/orcl-left-peers-behind-204737453.html"
+    },
     {
       "title": "US Equity Markets Mixed as Oil Prices Decline on Efforts to Mediate Peace Between US, Iran",
       "summary": "US equity indexes were mixed Friday as crude oil declined amid China-backed Pakistani efforts to med",
@@ -24,6 +31,13 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-193136738.html"
     },
     {
+      "title": "A $1.6 Billion Reason Salesforce (CRM) Stock Is Up Today",
+      "summary": "Salesforce stock soars on a $1.6 billion contract from the U.S. Department of Veterans Affairs (VA). Here\u2019s what the deal really means for CRM shares.",
+      "pub_date": "2026-07-24T18:22:20Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/technology/ai/articles/1-6-billion-reason-salesforce-182220250.html"
+    },
+    {
       "title": "ServiceNow Surges 6%, Salesforce Climbs 4% as Government AI Deals Lift Enterprise Software",
       "summary": "Federal AI contracts are pouring into enterprise software order books, and two of the sector's most beaten-down stocks are suddenly surging. Whether today's rally marks a genuine turning point or a fleeting squeeze depends on details buried inside fresh earnings reports and a blockbuster government deal.",
       "pub_date": "2026-07-24T17:38:31Z",
@@ -43,20 +57,6 @@
       "pub_date": "2026-07-24T15:47:25Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/haven-t-stopped-buying-salesforce-154725756.html"
-    },
-    {
-      "title": "Prediction: ServiceNow\u2019s AI Business Just Crossed $1 Billion. Here\u2019s What It Means For the Stock",
-      "summary": "ServiceNow just posted a blowout quarter with AI deployments scaling at a pace no enterprise software company has matched, yet the stock sits 50% below where it traded a year ago. Something about that gap does not add up.",
-      "pub_date": "2026-07-24T13:30:47Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-servicenow-ai-business-just-133047555.html"
-    },
-    {
-      "title": "From Beaten-Down Stock to Acquisition Target: Why UiPath Is Back in Play",
-      "summary": "UiPath's stock has been left for dead, yet several of enterprise software's biggest players have compelling reasons to want it. Five names stand out as potential acquirers, and the logic behind one of them is almost impossible to argue against.",
-      "pub_date": "2026-07-24T13:05:50Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/beaten-down-stock-acquisition-target-130550519.html"
     }
   ]
 }

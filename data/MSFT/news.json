@@ -1,13 +1,20 @@
 {
   "ticker": "MSFT",
-  "generated_at": "2026-07-24T20:58:07.400950+00:00",
+  "generated_at": "2026-07-25T02:06:42.561239+00:00",
   "items": [
     {
-      "title": "Tech stocks live: Huang, Nadella, and other CEOs defend open-source AI as US threatens crackdown",
-      "summary": "Live coverage of tech stock news.",
-      "pub_date": "2026-07-20T16:43:34Z",
+      "title": "What to watch next week: Big Tech earnings, the Fed, and Consumer Confidence",
+      "summary": "Asking for a Trend Host Brooke DiPalma previews several of the biggest stories to come next week, including Mag 7 earnings from Microsoft (MSFT), Meta (META), Apple (AAPL) and Amazon (AMZN), as well as the Fed decision and the latest Consumer confidence data.",
+      "pub_date": "2026-07-24T22:00:00Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/watch-next-week-big-tech-220000158.html"
+    },
+    {
+      "title": "AMD CEO Lisa Su isn't worried about an AI house of cards",
+      "summary": "It makes sense for tech companies to work together in the age of AI, no?",
+      "pub_date": "2026-07-24T18:00:22Z",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/live/tech-stocks-live-tech-heavy-nasdaq-climbs-ahead-of-big-tech-earnings-kickoff-164334720.html"
+      "url": "https://finance.yahoo.com/technology/article/amd-ceo-lisa-su-isnt-worried-about-an-ai-house-of-cards-180022112.html"
     },
     {
       "title": "OpenAI president Greg Brockman: 'We will remain in this compute shortage no matter what'",
@@ -17,46 +24,39 @@
       "url": "https://finance.yahoo.com/technology/article/openai-president-greg-brockman-we-will-remain-in-this-compute-shortage-no-matter-what-155249677.html"
     },
     {
-      "title": "Nasdaq lags on angst over AI spending ahead of earnings reports",
-      "summary": "By Sin\u00e9ad Carew and Ragini Mathur July 24 (Reuters) - The tech-heavy Nasdaq fell on Friday as investors sold chip stocks on worries about massive spending on artificial intelligence ahead of the next",
-      "pub_date": "2026-07-24T20:45:14Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-rise-tech-101753664.html"
+      "title": "Meta quits clean energy pledge amid gas-powered data center push",
+      "summary": "Meta has abandoned a global pledge by leading companies to source all of their electricity from renewable sources, the social media giant confirmed Friday.A Meta spokesperson told AFP the company is continuing to scale up investments in renewable energy, and that leaving RE100 does not change its goal of matching its electricity use with 100 percent clean energy.\u00a0",
+      "pub_date": "2026-07-25T00:21:39Z",
+      "source": "AFP",
+      "url": "https://finance.yahoo.com/energy/articles/meta-quits-clean-energy-pledge-002139627.html"
     },
     {
-      "title": "The Most Basic Economics Lesson Is Why I Won\u2019t Stop Buying Nvidia This Earnings Season",
-      "summary": "Every quarter, Wall Street fixates on whether hyperscalers will blink and cut their AI budgets, and every quarter the order books tell a completely different story. Here is the basic economic principle that keeps one investor hitting buy on NVDA ahead of August earnings.",
-      "pub_date": "2026-07-24T20:16:07Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/most-basic-economics-lesson-why-201607791.html"
+      "title": "Nvidia, Microsoft, Palantir Lead Big Tech Revolt Against AI Restrictions",
+      "summary": "Big Tech Draws Line on AI: Nvidia, Microsoft Push Back on New Restrictions",
+      "pub_date": "2026-07-24T23:59:55Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-microsoft-palantir-lead-big-235955088.html"
     },
     {
-      "title": "US stocks face tests from Fed decision, tech-led earnings deluge",
-      "summary": "By Lewis Krauskopf NEW YORK, July 24 (Reuters) - A wobbly U.S. stock market will take its cues in the coming week from a Federal Reserve meeting set to shed light on the path for interest rates, and",
-      "pub_date": "2026-07-24T20:15:47Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stocks-face-tests-fed-100455048.html"
+      "title": "Review & Preview: An Earnings Week to Forget",
+      "summary": "It\u2019s peak earnings season, and investors could be forgiven for wanting an escape hatch.  Corporate America is delivering solid results, but it\u2019s not helping stocks.  Last night, chip maker Intel\u2019s quarterly results blew past Wall Street estimates.",
+      "pub_date": "2026-07-24T23:55:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stocks-today-good-earnings-weigh-down-equities-intel-alphabet-american-express-ff612f0a?siteid=yhoof2&yptr=yahoo"
     },
     {
-      "title": "How Snowflake Stock Is Keeping Cool While Other Software Stocks Melt",
-      "summary": "This year has not been kind to big-name enterprise software stocks \u2014 with some of the sector's biggest names like Microsoft and Salesforce down sharply.  Fears that top artificial intelligence models from Anthropic and OpenAI could displace existing enterprise software have weighed on the software sector.  At Snowflake's investor day last month, Chief Executive Sridhar Ramaswamy said the company is seeing benefits from its focus on creating \"the definitive data platform that people would want to use if they wanted to get value from AI.\"",
-      "pub_date": "2026-07-24T20:11:08Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/research/the-new-america/snowflake-stock-snow-software-ai/?src=A00220&yptr=yahoo"
+      "title": "Mag 7 Earnings Preview: Alphabet's Cloud Surge and CapEx Hike Raise the Stakes",
+      "summary": "The market reaction to Alphabet's Q2 results has significantly raised the bar for its Magnificent Seven peers that are on deck to report results this week, namely Microsoft and Meta Platforms on Wednesday, July 29th, and Apple and Amazon on Thursday, July 30th.",
+      "pub_date": "2026-07-24T23:01:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mag-7-earnings-preview-alphabets-230100437.html"
     },
     {
-      "title": "Microsoft (MSFT) Stock May Be 43% Undervalued After Fresh AI Deal News",
-      "summary": "Microsoft stock has pulled back from its highs and is down over the past year, yet valuation checks suggest the market may be underpricing the company, with both the intrinsic value estimate from a Discounted Cash Flow (DCF) approach and earnings multiples pointing to upside relative to the current share price. Over the past 5 years Microsoft has returned 38.8%, which shows that even after recent weakness the longer term shareholder experience has still been positive. Heavy AI infrastructure...",
-      "pub_date": "2026-07-24T20:08:30Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-stock-may-43-200830120.html"
-    },
-    {
-      "title": "This Dog Sniffs Out A Buy Point While Monitoring AI Behavior With AWS, Azure, Google",
-      "summary": "Boosted by big AI demand and partnership with AWS, Microsoft Azure and Google, Datadog is tracking the scent of a breakout.",
-      "pub_date": "2026-07-24T20:00:07Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/research/ibd-stock-analysis/datadog-stock-ddog-amazon-aws-microsoft-azure-google-cloud-partnerships/?src=A00220&yptr=yahoo"
+      "title": "Trump Is Expanding a Pledge That Could Stop AI Data Centers From Hiking Your Electricity Bill\u2014 Here's Who Just Signed On",
+      "summary": "The White House is expanding its voluntary Ratepayer Protection Pledge for AI data centers, adding nearly 200 utilities, governors, electricity cooperatives, public power providers and developers to the initiative, according to a White House official who confirmed the move to...",
+      "pub_date": "2026-07-24T22:31:16Z",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/economy/policy/articles/trump-expanding-pledge-could-stop-223116373.html"
     }
   ]
 }

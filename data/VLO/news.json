@@ -1,7 +1,14 @@
 {
   "ticker": "VLO",
-  "generated_at": "2026-07-24T20:58:27.985576+00:00",
+  "generated_at": "2026-07-25T02:07:00.441774+00:00",
   "items": [
+    {
+      "title": "How Many Stocks Should You Own?",
+      "summary": "Three stocks or one hundred? Which are you? Plus 3 stocks with low PEG ratios.",
+      "pub_date": "2026-07-24T21:47:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/many-stocks-own-214700040.html"
+    },
     {
       "title": "Eni Taps Saipem for New Long-Term Offshore Drilling Campaign",
       "summary": "E awards SAPMF a $260 million Cote d'Ivoire long-term drilling contract, with the Santorini drillship set to begin the campaign in 2027.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-23T00:00:00Z",
       "source": "Oilprice.com",
       "url": "https://finance.yahoo.com/energy/articles/global-refiners-cutting-oil-traders-000000289.html"
-    },
-    {
-      "title": "Valero vs Cenovus: Which Energy Stock Is the Better Pick Now?",
-      "summary": "VLO's refining edge and near-term upside outshine CVE's resilient integrated model as geopolitics and Canadian regulation cloud the outlook.",
-      "pub_date": "2026-07-22T17:09:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/energy/articles/valero-vs-cenovus-energy-stock-170900595.html"
     }
   ]
 }

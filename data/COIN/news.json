@@ -1,9 +1,16 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-07-24T20:57:36.191187+00:00",
+  "generated_at": "2026-07-25T02:06:15.228034+00:00",
   "items": [
     {
-      "title": "Coinbase Layoffs Architect Exits Weeks After Cutting 700 Jobs",
+      "title": "Quantum and Crypto Are on a Collision Course\u2014and Wall Street Is Spending Millions to Stop It",
+      "summary": "A coalition of financial institutions and Bitcoin holders are banding together to defend blockchain networks from quantum computing.",
+      "pub_date": "2026-07-24T21:16:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/quantum-crypto-bitcoin-danger-f4d5c9f8?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Coinbase Loses Another Executive Weeks After Cutting 700 Jobs",
       "summary": "Coinbase's people chief quit 11 weeks after running the 700-job cut. His own exit deal is far softer. What we know so far.",
       "pub_date": "2026-07-24T19:25:19Z",
       "source": "BeInCrypto",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-24T12:29:34Z",
       "source": "decrypt",
       "url": "https://finance.yahoo.com/markets/crypto/articles/morning-minute-bitcoins-15m-quantum-122934300.html"
-    },
-    {
-      "title": "Coinbase Calls AI Payments a High-Conviction Bet as Agent Checkout Goes Live",
-      "summary": "Coinbase Global Inc. (NASDAQ: $COIN) is letting businesses accept payments from AI agents, extending its stablecoin...",
-      "pub_date": "2026-07-24T02:23:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-calls-ai-payments-high-022300274.html"
     }
   ]
 }
