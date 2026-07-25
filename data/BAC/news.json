@@ -1,7 +1,14 @@
 {
   "ticker": "BAC",
-  "generated_at": "2026-07-25T13:11:38.392212+00:00",
+  "generated_at": "2026-07-25T16:51:39.962226+00:00",
   "items": [
+    {
+      "title": "Bank of America revamps AMD stock price target for 2026",
+      "summary": "For years, the AI chip conversation has had one dominant name and a long list of challengers trying to close the gap. Most of them haven't. One of them is starting to look different, and Bank of America just made that case in writing. Bank of America analyst Vivek Arya, who covers semiconductors ...",
+      "pub_date": "2026-07-25T16:17:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bank-america-revamps-amd-stock-161700284.html"
+    },
     {
       "title": "Bank of America Just Raised Its Dividend 14%. The Buyback Is the Bigger Story.",
       "summary": "It's the last of the Big Four banks to declare a dividend raise this earnings season.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-24T17:38:31Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-surges-6-salesforce-climbs-173831058.html"
-    },
-    {
-      "title": "Global Bond Yields Hit Highest Since 2008 as Brent Surges Above $100",
-      "summary": "Rising oil prices and shifting rate expectations pressure global bonds ahead of key central bank meetings.",
-      "pub_date": "2026-07-24T17:14:37Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/economy/policy/articles/global-bond-yields-hit-highest-171437019.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-07-25T13:11:39.701363+00:00",
+  "generated_at": "2026-07-25T16:51:41.246392+00:00",
   "items": [
+    {
+      "title": "Galaxy Research Head Says Bitcoin Is A 'Veblen Good' \u2014 The Firm's Own Desk Is 50/50 On The Bottom",
+      "summary": "Galaxy\u2019s trading desk says Bitcoin\u2019s risk-reward is improving over the next 6-12 months, citing stronger ETF flows.",
+      "pub_date": "2026-07-25T14:28:44Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/galaxy-research-head-says-bitcoin-142844290.html"
+    },
     {
       "title": "Strategy (MSTR) Joins BlackRock And Coinbase In Bitcoin Security Consortium",
       "summary": "Strategy (NasdaqGS:MSTR) has joined BlackRock, Coinbase, and other industry players to form the Bitcoin Security Consortium. The consortium is focused on strengthening Bitcoin against potential quantum computing threats. Members have committed a combined US$15 million to support research and development of quantum resistant security measures. For investors following Strategy, the move into the Bitcoin Security Consortium highlights how closely the company is tying its profile to Bitcoin and...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-24T16:37:35Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/metas-ai-borrowing-costs-rise-163735686.html"
-    },
-    {
-      "title": "Bitcoin ETFs Shed $225M, Snapping Seven-Day Inflow Streak as Iran Tensions Spook Markets",
-      "summary": "BlackRock's IBIT led the exit as Bitcoin briefly dipped under $65,000 and stocks fell on renewed US-Iran hostilities\u2014though the week still closed in the green.",
-      "pub_date": "2026-07-24T16:17:37Z",
-      "source": "decrypt",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-shed-225m-snapping-161737149.html"
     }
   ]
 }
