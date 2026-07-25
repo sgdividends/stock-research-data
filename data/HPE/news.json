@@ -1,7 +1,14 @@
 {
   "ticker": "HPE",
-  "generated_at": "2026-07-25T09:41:23.762019+00:00",
+  "generated_at": "2026-07-25T13:12:01.272945+00:00",
   "items": [
+    {
+      "title": "See the $600 Million World of Executive Perks",
+      "summary": "From private ranch vacations to concierge medicine, these are the ultraluxury perks top executives scored last year.",
+      "pub_date": "2026-07-25T09:30:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/see-the-600-million-world-of-executive-perks-e8759807?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Billionaire Investor Paul Singer\u2019s Top 5 Picks: Are They a Buy Now?",
       "summary": "Elliott Management's latest 13F filing exposes five positions spanning gold streamers to AI infrastructure, but not all of them still make sense to buy. One has already tripled expectations while another has aged past the thesis entirely.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-22T21:09:16Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-undervalued-ai-210916868.html"
-    },
-    {
-      "title": "Stocks to Watch Recap: Super Micro Computer, AT&T, Tesla, Alphabet",
-      "summary": "\u2197\ufe0f Super Micro Computer (SMCI): Shares surged nearly 20% after the AI-server maker projected fourth-quarter gross margins roughly double those it had originally targeted. Rivals Dell Technologies (DELL) and Hewlett Packard Enterprises (HPE) also rallied, rising 9.",
-      "pub_date": "2026-07-22T20:59:52Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-22-2026/card/stocks-to-watch-alphabet-tesla-airbus-super-micro-computer-neAk1G2uB22t9rrm5dYe?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

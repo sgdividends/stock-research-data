@@ -1,13 +1,34 @@
 {
   "ticker": "META",
-  "generated_at": "2026-07-25T09:41:33.614806+00:00",
+  "generated_at": "2026-07-25T13:12:10.111738+00:00",
   "items": [
     {
-      "title": "What to watch next week: Big Tech earnings, the Fed, and Consumer Confidence",
-      "summary": "Asking for a Trend Host Brooke DiPalma previews several of the biggest stories to come next week, including Mag 7 earnings from Microsoft (MSFT), Meta (META), Apple (AAPL) and Amazon (AMZN), as well as the Fed decision and the latest Consumer confidence data.",
-      "pub_date": "2026-07-24T22:00:00Z",
+      "title": "Alphabet flops, Intel shocks, and Tesla tanks: AlphaSpace weekly recap",
+      "summary": "Some markets observations, compliments of Yahoo Finance AlphaSpace.",
+      "pub_date": "2026-07-25T12:38:16Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/alphabet-flops-intel-shocks-and-tesla-tanks-alphaspace-weekly-recap-123816321.html"
+    },
+    {
+      "title": "The AI ecosystem should be 'intertwined': AMD CEO Lisa Su on Anthropic partnership",
+      "summary": "AMD (AMD) CEO Lisa Su sits down with Yahoo Finance Executive Editor Brian Sozzi to discuss the company's new partnership with Anthropic and explain why it's important for AI companies to be \"intertwined.\"",
+      "pub_date": "2026-07-24T17:30:00Z",
       "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/watch-next-week-big-tech-220000158.html"
+      "url": "https://finance.yahoo.com/video/ai-ecosystem-intertwined-amd-ceo-173000750.html"
+    },
+    {
+      "title": "OpenAI president Greg Brockman: 'We will remain in this compute shortage no matter what'",
+      "summary": "OpenAI president Greg Brockman says AI-driven computing constraints will last for the foreseeable future.",
+      "pub_date": "2026-07-24T15:52:49Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/article/openai-president-greg-brockman-we-will-remain-in-this-compute-shortage-no-matter-what-155249677.html"
+    },
+    {
+      "title": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus",
+      "summary": "Dow Jones futures will open Sunday evening, along with S&P 500 futures and Nasdaq futures. Apple, Microsoft, Meta Platforms, Amazon.com headline a massive earnings wave. The Federal Reserve meets, with a rate hike a possibility.",
+      "pub_date": "2026-07-25T12:24:40Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo"
     },
     {
       "title": "Jim Cramer Discsusses Meta Platforms (NASDAQ:META)\u2019s \u201cBrilliant Team of People\u201d & Their Big Worry",
@@ -36,27 +57,6 @@
       "pub_date": "2026-07-24T23:59:43Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/good-news-meta-stock-fans-235943957.html"
-    },
-    {
-      "title": "Review & Preview: An Earnings Week to Forget",
-      "summary": "It\u2019s peak earnings season, and investors could be forgiven for wanting an escape hatch.  Corporate America is delivering solid results, but it\u2019s not helping stocks.  Last night, chip maker Intel\u2019s quarterly results blew past Wall Street estimates.",
-      "pub_date": "2026-07-24T23:55:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stocks-today-good-earnings-weigh-down-equities-intel-alphabet-american-express-ff612f0a?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Mag 7 Earnings Preview: Alphabet's Cloud Surge and CapEx Hike Raise the Stakes",
-      "summary": "The market reaction to Alphabet's Q2 results has significantly raised the bar for its Magnificent Seven peers that are on deck to report results this week, namely Microsoft and Meta Platforms on Wednesday, July 29th, and Apple and Amazon on Thursday, July 30th.",
-      "pub_date": "2026-07-24T23:01:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mag-7-earnings-preview-alphabets-230100437.html"
-    },
-    {
-      "title": "SpaceX Lands With a Thud",
-      "summary": "Just over a month since its initial public offering,  SpaceX  has delivered one of the weakest post-debut performances of any major U.S. listing since the end of the 2008-2009 financial crisis.  A Barron\u2019s analysis found that the stock performed worse than 90% of other U.S. IPOs with market capitalizations of $1 billion or more since July, 2009.  Over the first 27 trading days,  SpaceX  was down 23% from its first day closing price of $161.",
-      "pub_date": "2026-07-24T22:44:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/spacex-lands-with-a-thud-ea6985a4?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
