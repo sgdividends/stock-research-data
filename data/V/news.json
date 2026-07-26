@@ -1,7 +1,14 @@
 {
   "ticker": "V",
-  "generated_at": "2026-07-26T16:54:12.625475+00:00",
+  "generated_at": "2026-07-26T20:52:07.423785+00:00",
   "items": [
+    {
+      "title": "Fed Meeting, Inflation, Boeing, Meta, Apple, Exxon, and More to Watch This Week",
+      "summary": "This is a huge earnings week, with nearly a third of S&P 500 companies reporting. The Fed is expected to hold rates steady after its confab ends Wednesday, and we\u2019ll see key inflation data on Thursday.",
+      "pub_date": "2026-07-26T18:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/fed-meeting-inflation-boeing-meta-apple-exxon-01806fda?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Visa (V) Just Completed Greater China\u2019s First AI Powered B2B Agentic Payment",
       "summary": "Visa (NYSE:V) and Lianlian completed Greater China's first AI powered B2B agentic payment. The transaction used Visa's Agentic Directory to run an end to end cross border payment autonomously within preset controls. The move highlights Visa's push into agentic commerce and machine to machine financial transactions. For investors tracking Visa at a share price of $355.74, this AI powered B2B payment with Lianlian puts fresh attention on the company's role in digital payment infrastructure...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-24T12:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/why-investors-really-excited-form-120000425.html"
-    },
-    {
-      "title": "Visa and Lianlian complete Greater China\u2019s first live agentic B2B payment",
-      "summary": "Transaction marks a milestone for small businesses where procurement can now be delegated to an agent to be managed entirely",
-      "pub_date": "2026-07-24T06:47:09Z",
-      "source": "Electronic Payments",
-      "url": "https://finance.yahoo.com/technology/ai/articles/visa-lianlian-complete-greater-china-064709263.html"
     }
   ]
 }

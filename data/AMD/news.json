@@ -1,6 +1,6 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-07-26T16:52:57.090873+00:00",
+  "generated_at": "2026-07-26T20:51:13.990152+00:00",
   "items": [
     {
       "title": "UBS hurries to reset AMD stock target on key AI Day signals",
@@ -8,6 +8,13 @@
       "pub_date": "2026-07-26T13:03:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-hurries-reset-amd-stock-130300886.html"
+    },
+    {
+      "title": "What a Major Anthropic Chip Deal Really Means for AMD Stock",
+      "summary": "As AMD expands its AI ecosystem through a strategic partnership with Anthropic, investors have another reason to keep the stock on their radar.",
+      "pub_date": "2026-07-26T13:00:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/technology/ai/articles/major-anthropic-chip-deal-really-130002547.html"
     },
     {
       "title": "Supermicro (SMCI) Launches H15 Servers With 72 GPU AI Training Platform",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-25T14:00:02Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/technology/ai/articles/arm-just-scored-major-server-140002090.html"
-    },
-    {
-      "title": "Is Riot Platforms (RIOT) Too Pricey For Its AI Data Center Push?",
-      "summary": "Riot Platforms has delivered a 59.1% gain year to date, yet the stock screens as expensive on broader valuation checks. This raises the question of how much of the AI data center story is already reflected in the current price. Year to date, Riot Platforms is up 59.1%, which indicates investors have already priced in a meaningful shift in sentiment toward the stock. The expanded AI and high performance computing leasing opportunity tied to AMD and Anthropic can support long term revenue...",
-      "pub_date": "2026-07-25T01:11:08Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/riot-platforms-riot-too-pricey-011108545.html"
     }
   ]
 }

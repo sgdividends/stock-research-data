@@ -1,7 +1,14 @@
 {
   "ticker": "LNT",
-  "generated_at": "2026-07-26T16:53:41.957701+00:00",
+  "generated_at": "2026-07-26T20:51:45.880120+00:00",
   "items": [
+    {
+      "title": "A $550,000 Portfolio That Quietly Pays a 62-Year-Old $3,400 a Month Until Social Security Kicks In",
+      "summary": "Stopping work at 62 while waiting for a bigger Social Security check sounds clean on paper, but the math gets complicated fast when a portfolio has to carry the entire household for years. Here is how much capital different yield strategies actually require, and which tradeoffs could quietly wreck the plan.",
+      "pub_date": "2026-07-26T19:52:34Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/550-000-portfolio-quietly-pays-195234765.html"
+    },
     {
       "title": "How Much of a $12,000 Monthly Dividend Paycheck Do You Actually Keep After Taxes?",
       "summary": "A $144,000 annual dividend paycheck sounds like financial freedom, but the tax character of every security you own quietly decides how much of that money you ever touch. Before you target the yield, find out what state you live in and what your holdings are actually classified as.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-21T12:15:44Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/expect-alliant-energys-next-quarterly-121544840.html"
-    },
-    {
-      "title": "Madison utility seeks new data center rate to shield regular customers",
-      "summary": "MGE wants a new rate for data centers to ensure existing customers do not pay for their energy infrastructure.",
-      "pub_date": "2026-07-16T17:04:28Z",
-      "source": "Milwaukee Journal Sentinel",
-      "url": "https://finance.yahoo.com/energy/articles/madison-utility-seeks-data-center-170428617.html"
     }
   ]
 }
