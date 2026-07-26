@@ -1,7 +1,14 @@
 {
   "ticker": "C",
-  "generated_at": "2026-07-26T02:10:48.688588+00:00",
+  "generated_at": "2026-07-26T06:31:40.201039+00:00",
   "items": [
+    {
+      "title": "What Big Bank Earnings Just Revealed About the Health of the U.S. Consumer",
+      "summary": "If big bank earnings are any indication, consumers are doing fine despite the headwinds.",
+      "pub_date": "2026-07-26T02:35:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/economy/articles/big-bank-earnings-just-revealed-023500824.html"
+    },
     {
       "title": "Citi Warns U.S. Equity Positioning May Face Further Pressure",
       "summary": "Citi believes the recent technology-driven market decline has significantly weakened investor positioning across global equity markets, warning that the adjustment in U. S.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-24T08:36:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/herc-holdings-hri-surges-8-083600345.html"
-    },
-    {
-      "title": "Mastercard (MA) Expands Virtual Card Platform As Citi Prepares Global Launch",
-      "summary": "Mastercard announced major upgrades to its virtual card number platform, adding new security controls, an embedded payments network, and unified API access. The company is targeting both enterprises and financial institutions looking to scale and secure virtual card programs. Citi will be the first issuer to launch these capabilities globally, signaling broad industry interest in the expanded platform. For investors following Mastercard (NYSE:MA), this product update sits against a mixed...",
-      "pub_date": "2026-07-23T22:10:55Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-expands-virtual-card-221055015.html"
     }
   ]
 }
