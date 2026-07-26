@@ -1,7 +1,14 @@
 {
   "ticker": "UBER",
-  "generated_at": "2026-07-26T13:07:54.533711+00:00",
+  "generated_at": "2026-07-26T16:54:11.095577+00:00",
   "items": [
+    {
+      "title": "TechCrunch Mobility: Uber bets on its former CEO",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "pub_date": "2026-07-26T16:03:00Z",
+      "source": "TechCrunch",
+      "url": "https://finance.yahoo.com/technology/articles/techcrunch-mobility-uber-bets-former-160300675.html"
+    },
     {
       "title": "Uber\u2019s New Acquisition and GE Aerospace\u2019s Search for Parts",
       "summary": "Uber is leaning into delivery services with its acquisition of Delivery Hero. Plus, GE Aerospace is having a hard time sourcing materials.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-24T15:23:42Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/uber-ai-layoffs-more-american-152342891.html"
-    },
-    {
-      "title": "The challenges companies face to launch robotaxis in Europe",
-      "summary": "European carmakers like BMW, Volkswagen and Mercedes-Benz have continued to struggle significantly to roll out commercial robotaxi fleets, unlike Chinese companies, but why?View on euronews",
-      "pub_date": "2026-07-24T12:39:17Z",
-      "source": "Euronews",
-      "url": "https://finance.yahoo.com/technology/articles/challenges-companies-face-launch-robotaxis-123917190.html"
     }
   ]
 }
