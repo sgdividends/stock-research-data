@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "generated_at": "2026-07-25T20:42:58.620110+00:00",
+  "generated_at": "2026-07-26T02:10:36.251918+00:00",
   "items": [
     {
       "title": "Google and Tesla lost half a trillion dollars this week as their suppliers cashed in: Chart of the Day",
@@ -12,9 +12,16 @@
     {
       "title": "Dow Jones Futures: Market Triggers Sell Signal; Apple Earnings, Iran News, Fed Meeting In Focus",
       "summary": "Dow Jones futures will open Sunday evening, along with S&P 500 futures and Nasdaq futures. Apple, Microsoft, Meta Platforms, Amazon.com headline a massive earnings wave. The Federal Reserve meets, with a rate hike a possibility.",
-      "pub_date": "2026-07-25T19:09:11Z",
+      "pub_date": "2026-07-25T22:02:53Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "No Matter Who Wins the Smartphone and AI Chip Races, ARM Stock Still Benefits",
+      "summary": "Arm now leads x86 in AI servers and collects royalties from every chipmaker, including the ones it competes with.",
+      "pub_date": "2026-07-25T19:30:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/technology/ai/articles/no-matter-wins-smartphone-ai-193002317.html"
     },
     {
       "title": "Apple (AAPL) Readies Foldable iPhone As Samsung Launches New Rival Phones",
@@ -38,25 +45,18 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/inside-dgrw-32-payout-ratio-155227926.html"
     },
     {
+      "title": "Cathie Wood Just Poured $18 Million Into Meta Stock. Here\u2019s Why.",
+      "summary": "Cathie Wood's latest trade makes a strong case for Meta stock prior to Q2 earnings.",
+      "pub_date": "2026-07-25T15:30:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-just-poured-18-153002939.html"
+    },
+    {
       "title": "Elon Musk\u2019s Self-Proclaimed \u2018Starter Wife\u2019 Says When He Became Rich, His Judgment Overruled Hers \u2014 \u2018I Am Your Wife, Not Your Employee\u2019",
       "summary": "Success can transform a balance sheet overnight. According to Tesla and SpaceX CEO Elon Musk\u2019s first wife, novelist Justine Musk, it can also reshape the balance inside a marriage. Justine reflected on their relationship in a Marie Claire essay titled...",
       "pub_date": "2026-07-25T14:30:12Z",
       "source": "Benzinga",
       "url": "https://www.yahoo.com/lifestyle/articles/elon-musk-self-proclaimed-starter-143012151.html"
-    },
-    {
-      "title": "Binance Data Shows How Crypto is Using AI Stocks to Attract Gen Z Investors",
-      "summary": "Binance Research data shows Nvidia tops first stock trades for young crypto users in emerging markets, at 20%.",
-      "pub_date": "2026-07-25T13:19:09Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/binance-data-shows-crypto-using-131909870.html"
-    },
-    {
-      "title": "Alphabet vs. Apple: Which Warren Buffett Favorite Is the Better Buy Right Now?",
-      "summary": "Berkshire Hathaway has traded both stocks extensively over the last year.",
-      "pub_date": "2026-07-25T12:54:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-vs-apple-warren-buffett-125400843.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "PANW",
-  "generated_at": "2026-07-25T20:43:57.852361+00:00",
+  "generated_at": "2026-07-26T02:11:35.168352+00:00",
   "items": [
+    {
+      "title": "BofA lifts cybersecurity stock targets to reflect long-term growth outlook",
+      "summary": "Investing.com -- Bank of America raised its price objectives for Cloudflare, Palo Alto Networks, SentinelOne and CrowdStrike, citing expanding cybersecurity valuations, accelerating artificial intelligence adoption and a stronger long-term growth outlook.",
+      "pub_date": "2026-07-25T23:27:23Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bofa-lifts-cybersecurity-stock-targets-232723642.html"
+    },
     {
       "title": "IGV ETF Is A More Focused Bet Than You Think",
       "summary": "A fund's name tells you its category, but rarely reveals the true shape of the portfolio inside.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-23T06:00:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/openai-cybersecurity-stocks-palo-alto-okta-e1fd1b13?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Palo Alto Networks CEO calls OpenAI-Hugging Face hack \u2019next level\u2019",
-      "summary": "Palo Alto Networks (NASDAQ: PANW), trading around $338 on Wednesday and up roughly 86% year-to-date, is the direct market beneficiary of the escalating anxiety around AI-driven cyberattacks, with William Blair naming it its top cybersecurity pick following the breach.",
-      "pub_date": "2026-07-22T19:16:23Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-ceo-calls-191623585.html"
     }
   ]
 }

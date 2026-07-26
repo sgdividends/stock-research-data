@@ -1,7 +1,21 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-07-25T20:43:02.899647+00:00",
+  "generated_at": "2026-07-26T02:10:40.461379+00:00",
   "items": [
+    {
+      "title": "Supermicro (SMCI) Launches H15 Servers With 72 GPU AI Training Platform",
+      "summary": "Super Micro Computer (NasdaqGS:SMCI) announced its new H15 server portfolio, powered by 6th Gen AMD EPYC 9006 CPUs. The launch includes systems supporting up to 256 CPU cores, new rack scale AI infrastructure, and the Helios Platform with up to 72 GPUs for large scale AI training. Super Micro Computer is leaning further into AI, cloud, and high performance computing with its latest H15 server portfolio built around next generation AMD CPUs and GPUs. For investors watching AI infrastructure,...",
+      "pub_date": "2026-07-26T00:16:39Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/supermicro-smci-launches-h15-servers-001639306.html"
+    },
+    {
+      "title": "Nvidia vs. AMD vs. Intel: Which One Actually Won the AI Chip Race in the First Half of 2026?",
+      "summary": "Nvidia dominated AI chips, AMD rewarded shareholders, and Intel's surprising rally came from an entirely different story.",
+      "pub_date": "2026-07-25T23:20:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-vs-amd-vs-intel-232000073.html"
+    },
     {
       "title": "Got $100? 1 Artificial Intelligence (AI) Memory ETF to Buy Right Now.",
       "summary": "The iShares Semiconductor ETF offers exposure to multiple companies positioned to benefit from increased spending on advanced memory.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-07-24T23:00:02Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-vs-qualcomm-one-230002513.html"
-    },
-    {
-      "title": "Stock Market Today, July 24: Intel Reverses Gains on Foundry and AI Spending Concerns",
-      "summary": "Today, July 24, 2026, shares fell almost 8% as strong premarket momentum evaporated as investors refocused on increasing capex plans.",
-      "pub_date": "2026-07-24T22:12:51Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-july-24-221251196.html"
-    },
-    {
-      "title": "MRVL Has Momentum. The Question Is The Price",
-      "summary": "This AI chipmaker is on a historic run, but the price of admission is steep, forcing investors to decide if the engine has more power than the market has already paid for.",
-      "pub_date": "2026-07-24T21:14:44Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mrvl-momentum-price-211444915.html"
     }
   ]
 }

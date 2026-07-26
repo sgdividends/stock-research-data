@@ -1,7 +1,14 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-07-25T20:44:06.516361+00:00",
+  "generated_at": "2026-07-26T02:11:43.713972+00:00",
   "items": [
+    {
+      "title": "Supermicro (SMCI) Launches H15 Servers With 72 GPU AI Training Platform",
+      "summary": "Super Micro Computer (NasdaqGS:SMCI) announced its new H15 server portfolio, powered by 6th Gen AMD EPYC 9006 CPUs. The launch includes systems supporting up to 256 CPU cores, new rack scale AI infrastructure, and the Helios Platform with up to 72 GPUs for large scale AI training. Super Micro Computer is leaning further into AI, cloud, and high performance computing with its latest H15 server portfolio built around next generation AMD CPUs and GPUs. For investors watching AI infrastructure,...",
+      "pub_date": "2026-07-26T00:16:39Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/supermicro-smci-launches-h15-servers-001639306.html"
+    },
     {
       "title": "Eli Lilly, Dell Among Stocks To Watch As Market Leadership Shifts",
       "summary": "As AI-related stocks weaken, investors are rotating into other sectors, such as energy and health care.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-24T18:01:08Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-explosive-upside-180108430.html"
-    },
-    {
-      "title": "Dell's Big Day Was All About Another Company",
-      "summary": "You might think a stock jumps on its own news, but Wednesday's surge was a lesson in how the AI hardware frenzy is lifting all boats.",
-      "pub_date": "2026-07-24T00:08:40Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dells-big-day-another-company-000840263.html"
     }
   ]
 }
