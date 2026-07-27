@@ -1,7 +1,14 @@
 {
   "ticker": "ACN",
-  "generated_at": "2026-07-27T06:58:06.373927+00:00",
+  "generated_at": "2026-07-27T11:14:19.600550+00:00",
   "items": [
+    {
+      "title": "Booz Allen Soared On A Beat, Not A Boom",
+      "summary": "A cheap, beaten-down stock cleared a low earnings bar while the market and its defense services peers sat still, and that was enough to spark a double-digit jump even as revenue keeps falling.",
+      "pub_date": "2026-07-27T09:14:19Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/booz-allen-soared-beat-not-091419094.html"
+    },
     {
       "title": "How Long IBM Stock Could Stay Underwater",
       "summary": "Beyond the initial plunge, the true risk of a market shock is the long and uncertain wait for a recovery.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-21T14:59:10Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-q2-earnings-preview-expect-145910983.html"
-    },
-    {
-      "title": "Strength in Global Bond Issuance Volumes to Aid Moody's Q2 Earnings",
-      "summary": "MCO's Q2 results may reflect strong global bond issuance, with investment-grade, high-yield and structured finance activity supporting revenue growth.",
-      "pub_date": "2026-07-21T14:39:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/strength-global-bond-issuance-volumes-143900702.html"
     }
   ]
 }

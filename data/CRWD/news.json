@@ -1,7 +1,14 @@
 {
   "ticker": "CRWD",
-  "generated_at": "2026-07-27T06:58:21.936559+00:00",
+  "generated_at": "2026-07-27T11:14:34.287900+00:00",
   "items": [
+    {
+      "title": "Nvidia forms industry alliance for open AI security after Hugging Face hack",
+      "summary": "July 27 () - Nvidia said on Monday it had formed a coalition with other companies to develop and share tools for \u200cAI safety and cybersecurity, days after the Hugging Face incident \u200cdrew attention to the dangers of losing control of autonomous AI agents. The Open Secure AI \u200bAlliance, with founding members including Adobe, CrowdStrike, Hugging Face and Dell Technologies, follows a public letter, signed by a wide range of companies including OpenAI, which advocates for open-weight AI models.",
+      "pub_date": "2026-07-27T10:28:28Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/nvidia-forms-industry-alliance-open-102828183.html"
+    },
     {
       "title": "BofA lifts cybersecurity stock targets to reflect long-term growth outlook",
       "summary": "Investing.com -- Bank of America raised its price objectives for Cloudflare, Palo Alto Networks, SentinelOne and CrowdStrike, citing expanding cybersecurity valuations, accelerating artificial intelligence adoption and a stronger long-term growth outlook.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-23T22:11:36Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-systems-cbrs-teams-crowdstrike-221136324.html"
-    },
-    {
-      "title": "Cerebras Scores With CrowdStrike Deal: What it Means for Investors",
-      "summary": "CBRS' CrowdStrike pact brings wafer-scale AI inference to real-time cyber defense, widening its enterprise reach as cloud growth accelerates.",
-      "pub_date": "2026-07-23T15:57:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-scores-crowdstrike-deal-means-155700503.html"
     }
   ]
 }
