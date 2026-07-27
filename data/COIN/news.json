@@ -1,7 +1,14 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-07-27T11:14:32.895365+00:00",
+  "generated_at": "2026-07-27T14:19:02.772771+00:00",
   "items": [
+    {
+      "title": "Crypto Firms Pivoting to AI Is 'Zero-Sum' Thinking: Coinbase CEO",
+      "summary": "Brian Armstrong says crypto is infrastructure that underpins AI, and that AI agents will need it to transact on their own.",
+      "pub_date": "2026-07-27T12:27:47Z",
+      "source": "decrypt",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-firms-pivoting-ai-zero-122747169.html"
+    },
     {
       "title": "Brian Armstrong Says the AI Megatrend Makes Crypto More Important",
       "summary": "Coinbase CEO Brian Armstrong says AI agents will transact more than all humans, making crypto rails more important.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-26T08:50:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/crypto/articles/heres-why-im-buying-bitcoin-085000587.html"
-    },
-    {
-      "title": "Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US",
-      "summary": "China has a hot new product in the United States: artificial intelligence.  San Francisco-based Raffi Krikorian, the chief technology officer at Mozilla, which runs the Firefox browser, switched to Chinese AI startup Moonshot\u2019s Kimi K3 for many of his day-to-day activities within days of the new, powerful model\u2019s launch more than a week ago.  \u201cIt just seems snappier,\u201d he said of K3, comparing it to the acclaimed and more expensive Claude Fable chatbot from San Francisco company Anthropic.",
-      "pub_date": "2026-07-26T04:04:59Z",
-      "source": "Associated Press",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cheaper-open-intelligent-chinese-ai-040459793.html"
     }
   ]
 }

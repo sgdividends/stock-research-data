@@ -1,7 +1,14 @@
 {
   "ticker": "NFLX",
-  "generated_at": "2026-07-27T11:15:02.096264+00:00",
+  "generated_at": "2026-07-27T14:19:39.044254+00:00",
   "items": [
+    {
+      "title": "Kalshi threatens to sue Netflix over prediction markets documentary",
+      "summary": "The prediction market company says the trailer for \"Instadocs: The Prediction Games\" is defamatory and contains fabricated documents",
+      "pub_date": "2026-07-27T13:00:11Z",
+      "source": "Quartz",
+      "url": "https://finance.yahoo.com/markets/options/articles/kalshi-threatens-sue-netflix-over-130011818.html"
+    },
     {
       "title": "I Predicted Netflix Would Soar After July 16. The Stock Is Down 6% Instead. Here's Whether I'm Still a Buyer.",
       "summary": "I thought Netflix would crush this earnings season. I am the one who got crushed.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-25T02:17:37Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/tech-hits-wall-netflix-plunges-021737896.html"
-    },
-    {
-      "title": "Netflix (NFLX) Eyes Letterboxd To Bring 30 Million Movie Fans Into Its Orbit",
-      "summary": "Netflix (NasdaqGS:NFLX) is reportedly in talks to acquire Letterboxd, a movie-focused social network with over 30 million users. The potential deal would bring a large and active film community directly into Netflix\u2019s ecosystem. Discussions are ongoing and center on how a social platform could support content discovery, engagement, and future product ideas. Netflix has built its business around subscription streaming and original content, while the broader media industry continues to...",
-      "pub_date": "2026-07-25T01:10:57Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/media-advertising/articles/netflix-nflx-eyes-letterboxd-bring-011057825.html"
     }
   ]
 }
