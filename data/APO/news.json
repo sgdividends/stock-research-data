@@ -1,7 +1,14 @@
 {
   "ticker": "APO",
-  "generated_at": "2026-07-27T17:38:35.795506+00:00",
+  "generated_at": "2026-07-27T21:05:28.420808+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Advance Monday Afternoon",
+      "summary": "Financial stocks were higher in Monday afternoon trading, with the NYSE Financial Index rising 0.5%",
+      "pub_date": "2026-07-27T17:46:04Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-advance-monday-174604386.html"
+    },
     {
       "title": "Investors Turn To Bitcoin Amid Fears Of U.S. Dollar Devaluation",
       "summary": "Investors appear to be turning back to Bitcoin (CRYPO: $BTC) amid rising fears that the U.S. dollar will become dev...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-22T21:07:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/investing/financial-services-roundup-market-talk-65488a40?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Sector Update: Financial Stocks Decline Late Afternoon",
-      "summary": "Financial stocks were lower in late Wednesday afternoon trading, with the NYSE Financial Index and t",
-      "pub_date": "2026-07-22T19:53:12Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-afternoon-195312110.html"
     }
   ]
 }

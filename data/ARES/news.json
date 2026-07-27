@@ -1,7 +1,14 @@
 {
   "ticker": "ARES",
-  "generated_at": "2026-07-27T17:38:36.222837+00:00",
+  "generated_at": "2026-07-27T21:05:28.918440+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Higher Late Afternoon",
+      "summary": "Financial stocks advanced in late Monday afternoon trading, with the NYSE Financial Index rising 0.6",
+      "pub_date": "2026-07-27T19:44:46Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-higher-afternoon-194446137.html"
+    },
     {
       "title": "Revolut to Offer Clients Apollo, Ares Funds for as Little as \u20ac1",
       "summary": "(Bloomberg) -- Revolut Ltd. will offer European customers access to funds spanning private equity, credit and infrastructure, one of the most high-profile examples of alternative asset managers teaming up with platforms to attract retail investors.Most Read from BloombergDeepSeek Suspends Fundraising After Viral US-China PostsUS, Iran Extend Pause in Strikes as Oman Holds Hormuz TalksSpaceX at $100 Would Imply Zero AI Value, Morgan Stanley SaysChina Chipmaker CXMT Jumps 466% in Debut After Block",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-23T17:41:42Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-softer-afternoon-174142906.html"
-    },
-    {
-      "title": "BX's Q2 Earnings Beat as AUM Hits Record High Amid Tough Environment",
-      "summary": "Blackstone's Q2 earnings beat estimates as record $1.35 trillion AUM and strong inflows outweighed higher expenses.",
-      "pub_date": "2026-07-23T14:09:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bxs-q2-earnings-beat-aum-140900588.html"
     }
   ]
 }

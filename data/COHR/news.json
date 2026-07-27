@@ -1,7 +1,14 @@
 {
   "ticker": "COHR",
-  "generated_at": "2026-07-27T17:38:43.816488+00:00",
+  "generated_at": "2026-07-27T21:05:37.709452+00:00",
   "items": [
+    {
+      "title": "Chip Stocks Tank While Software Shines",
+      "summary": "All three major indexes were lower than they started today's trading session, and chip stocks were leading the march lower. The Nasdaq was down 0.2% while the S&P 500 searched for direction. The Dow was up, 0.",
+      "pub_date": "2026-07-27T19:05:09Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-072726/card/chip-stocks-tank-while-software-shines-glV8HPCZ2thg82L32jnB?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Most Stocks Are Higher Despite the S&P 500's Reversal",
       "summary": "It's been a tough trading day for the S&P 500, but if you take a look under the surface, the market was actually holding up alright.  The S&P 500 was down 0.3% after trading more than 0.9% higher earlier in the session.  Chip stocks were the weakest link, with Sandisk, Coherent, and Lam Research as the index's worst performers.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-23T04:16:35Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/technology/articles/nvidia-acquiring-dark-fiber-across-041635928.html"
-    },
-    {
-      "title": "COHR, AAOI, LITE, POET: Photonic Stocks Join Google Capex-Fueled AI Rally",
-      "summary": "Investor interest in all four has surged as hyperscalers ramp AI infrastructure spending.",
-      "pub_date": "2026-07-23T04:08:05Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cohr-aaoi-lite-poet-photonic-040805917.html"
     }
   ]
 }

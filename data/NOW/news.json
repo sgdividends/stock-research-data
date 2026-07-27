@@ -1,7 +1,28 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-07-27T17:39:14.207473+00:00",
+  "generated_at": "2026-07-27T21:06:10.010979+00:00",
   "items": [
+    {
+      "title": "Chip Stocks Tank While Software Shines",
+      "summary": "All three major indexes were lower than they started today's trading session, and chip stocks were leading the march lower. The Nasdaq was down 0.2% while the S&P 500 searched for direction. The Dow was up, 0.",
+      "pub_date": "2026-07-27T19:05:09Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-072726/card/chip-stocks-tank-while-software-shines-glV8HPCZ2thg82L32jnB?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Salesforce Surges 7%, ServiceNow Jumps 8%, Workday Jumps 10% as Software Rebounds on AI Rotation",
+      "summary": "Enterprise software names are staging one of their sharpest single-day reversals of the year, and the catalyst has less to do with their own fundamentals than with what is happening in a completely different corner of the market.",
+      "pub_date": "2026-07-27T18:36:33Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-surges-7-servicenow-jumps-183633422.html"
+    },
+    {
+      "title": "Prediction: Is It Too Late to Buy Palantir Stock?",
+      "summary": "Palantir has shed nearly a third of its value from recent highs while its operating story accelerates, and that contradiction sets up one of the more interesting risk-reward debates in AI stocks right now.",
+      "pub_date": "2026-07-27T18:30:41Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-too-buy-palantir-stock-183041118.html"
+    },
     {
       "title": "Brokers Suggest Investing in ServiceNow (NOW): Read This Before Placing a Bet",
       "summary": "The average brokerage recommendation (ABR) for ServiceNow (NOW) is equivalent to a Buy. The overly optimistic recommendations of Wall Street analysts make the effectiveness of this highly sought-after metric questionable. So, is it worth buying the stock?",
@@ -36,27 +57,6 @@
       "pub_date": "2026-07-26T18:07:32Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-now-teams-teamviewer-experian-180732053.html"
-    },
-    {
-      "title": "Down 40% on the Year, Is ServiceNow Stock a Buy as Its Subscription Revenue Surges 25%?",
-      "summary": "ServiceNow stock has been caught in the SaaS sell-off this year.",
-      "pub_date": "2026-07-26T18:05:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/down-40-servicenow-stock-buy-180500609.html"
-    },
-    {
-      "title": "Better AI Software Stock: Palantir vs. ServiceNow",
-      "summary": "Worries about AI making software companies obsolete may be overblown.",
-      "pub_date": "2026-07-26T16:07:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/better-ai-software-stock-palantir-160700505.html"
-    },
-    {
-      "title": "Goldman says ServiceNow is writing a totally new playbook",
-      "summary": "Seven years ago, on an earnings call, ServiceNow CEO Bill McDermott promised the company would become the defining enterprise software company of the 21st century, according to a transcript published by Benzinga. That promise rested almost entirely on IT ticket routing, the unglamorous software ...",
-      "pub_date": "2026-07-26T14:37:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/ai/articles/goldman-says-servicenow-writing-totally-143700279.html"
     }
   ]
 }
