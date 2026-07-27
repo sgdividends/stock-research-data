@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "generated_at": "2026-07-26T20:51:10.920764+00:00",
+  "generated_at": "2026-07-27T02:24:11.251728+00:00",
   "items": [
     {
       "title": "4 Big Tech earnings reports, a Fed meeting, and $100 oil: It's the busiest week of the quarter",
@@ -10,11 +10,18 @@
       "url": "https://finance.yahoo.com/markets/article/4-big-tech-earnings-reports-a-fed-meeting-and-100-oil-its-the-busiest-week-of-the-quarter-100000261.html"
     },
     {
-      "title": "Dow Jones Futures: U.S., Iran Seek Deal; Apple Leads Earnings Wave, Fed Meeting Ahead",
+      "title": "Dow Jones Futures Rise, Oil Prices Dive On Iran Hopes; Apple Leads Earnings Wave, Fed Meeting Ahead",
       "summary": "U.S.-Iran attacks have paused amid deal hopes. Apple, Amazon, Meta lead an earnings wave. A Fed rate hike is on the table.",
-      "pub_date": "2026-07-26T19:54:02Z",
+      "pub_date": "2026-07-27T02:01:04Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-earnings-iran-news-fed-meeting-ai-stocks/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Prediction: Alphabet Will Beat Apple to a $5 Trillion Market Cap",
+      "summary": "Apple has a headstart, but it's not stable.",
+      "pub_date": "2026-07-26T21:20:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-alphabet-beat-apple-5-212000337.html"
     },
     {
       "title": "Fed Meeting, Inflation, Boeing, Meta, Apple, Exxon, and More to Watch This Week",
@@ -22,6 +29,13 @@
       "pub_date": "2026-07-26T18:00:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/fed-meeting-inflation-boeing-meta-apple-exxon-01806fda?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Fed Decision, Tech Earnings and Other Can't Miss Items this Week",
+      "summary": "Markets face the week's most consequential moment Wednesday at 2:00pm when the Federal Reserve announces its rate decision and Fed Chair Kevin Warsh holds his first post-decision press conference, setting policy direction.",
+      "pub_date": "2026-07-26T17:00:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/economy/policy/articles/fed-decision-tech-earnings-other-170002542.html"
     },
     {
       "title": "Magnificent 7 Trade Is Broken \u2014 Here\u2019s Where Smart Investors Should Look Next",
@@ -38,25 +52,11 @@
       "url": "https://www.investors.com/research/investing-action-plan/stock-market-week-ahead-mag-7-and-the-fed-but-its-all-about-the-cash/?src=A00220&yptr=yahoo"
     },
     {
-      "title": "Trump Says The Government\u2019s Intel Stake Made $70 Billion in Eight Months \u2014 \u2018Do I Get Credit for That? No\u2019",
-      "summary": "When struggling companies turn to Washington for help, the government typically offers loans or other financial assistance. President Donald Trump said he took a different approach with Intel Corp. (NASDAQ:INTC) \u2014 one he claims generated tens of billions of dollars...",
-      "pub_date": "2026-07-26T14:31:15Z",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/economy/policy/articles/trump-says-government-intel-stake-143115077.html"
-    },
-    {
-      "title": "Companies with aggressive buybacks have lagged the S&P 500 in the AI era",
-      "summary": "Investing.com -- Barclays said a sharp slowdown in share buybacks by major U.S. technology companies is unlikely to weigh significantly on the broader equity market, arguing that investors have increasingly rewarded growth over capital returns as artificial intelligence spending accelerates.",
-      "pub_date": "2026-07-26T13:13:21Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/companies-aggressive-buybacks-lagged-p-131321741.html"
-    },
-    {
-      "title": "What to Expect in Markets This Week: Amazon, Apple, Meta and Microsoft Earnings; Fed Interest Rate Decision",
-      "summary": "Earnings reports from four of the world\u2019s largest tech companies, a decision on interest rates, and key economic data releases will be in focus this week.",
-      "pub_date": "2026-07-26T12:40:00Z",
-      "source": "Investopedia",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/expect-markets-week-amazon-apple-124000801.html"
+      "title": "Elon Musk Just Revealed a Quiet Win for Tesla\u2019s AI Ambitions",
+      "summary": "Elon Musk revealed that Micron gave Tesla a 'very significant allocation' of memory chips on 'reasonable terms' and is making room for Tesla in the years ahead, amid soaring industry memory prices driven by AI demand.",
+      "pub_date": "2026-07-26T15:00:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-just-revealed-quiet-150002342.html"
     }
   ]
 }
