@@ -1,7 +1,21 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-07-27T14:19:04.557086+00:00",
+  "generated_at": "2026-07-27T17:38:45.124291+00:00",
   "items": [
+    {
+      "title": "Stock Market Today: Dow Up; Pharma Firm Tests Entry; Memory Plays Sink As China Rival Soars (Live Coverage)",
+      "summary": "The Dow Jones index jumps on hopes of U.S.-Iran talks. Oil skids but software shines Monday. Nvidia falls on OpenAI move.",
+      "pub_date": "2026-07-27T17:28:16Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-oil-prices-plunge/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Experian Taps Fastly to Tackle AI Agent Trust Issues",
+      "summary": "The partnership forms as agentic commerce continues to grow.",
+      "pub_date": "2026-07-27T14:36:49Z",
+      "source": "Sourcing Journal",
+      "url": "https://finance.yahoo.com/technology/ai/articles/experian-taps-fastly-tackle-ai-143649684.html"
+    },
     {
       "title": "Joins Industry Coalition to Launch Open Source AI Cybersecurity Alliance",
       "summary": "Nvidia (NVDA) is leading an initiative among a number of companies advocating for open-source AI too",
@@ -17,6 +31,13 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-ai-security-alliance-unites-110746241.html"
     },
     {
+      "title": "Salesforce's Quarterly Earnings Preview: What You Need to Know",
+      "summary": "Salesforce will release its second-quarter earnings soon, and analysts anticipate a single-digit bottom-line growth.",
+      "pub_date": "2026-07-27T11:06:08Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforces-quarterly-earnings-preview-know-110608209.html"
+    },
+    {
       "title": "Salesforce Invests in Brunello Cucinelli\u2019s AI Platform",
       "summary": "The agreement will allow Callimacus, the platform supported by Cucinelli's Solomei AI research center, to expand its engineering and accelerate commercial growth across Europe and North America.",
       "pub_date": "2026-07-27T10:51:41Z",
@@ -24,39 +45,18 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-invests-brunello-cucinelli-ai-105141651.html"
     },
     {
+      "title": "FTSE 100 Live: Stocks advance as oil price retreats below $90, US futures surge",
+      "summary": "FTSE 100 up 45 points at 10,781 Oil prices drop as US and Iran pause strikes AstraZeneca and Vodafone report as results season ups a gear 5.35pm: Stocks gain The FTSE 100 added 45 points to finish the day at 10,781 amid a pause in US-Iran fighting. \u201cThe resilience of European...",
+      "pub_date": "2026-07-27T06:16:00Z",
+      "source": "Proactive",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-live-strong-start-061600170.html"
+    },
+    {
       "title": "Salesforce\u2019s new deal could reshape veteran health care",
       "summary": "Five years ago, the Department of Veterans Affairs launched a new medical records system meant to fix a health network running on decades old technology. The rollout became one of the most cited failures in modern government technology, tied to patient deaths and years of paused deployments. The ...",
       "pub_date": "2026-07-27T01:03:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/healthcare/articles/salesforce-deal-could-reshape-veteran-010300393.html"
-    },
-    {
-      "title": "Salesforce vs. ServiceNow: Which Agentic AI Stock Is Actually the Better Buy Right Now?",
-      "summary": "These companies are turning AI from a threat into an opportunity.",
-      "pub_date": "2026-07-26T11:25:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-vs-servicenow-agentic-ai-112500195.html"
-    },
-    {
-      "title": "Prediction: Is Salesforce a Millionaire-Maker Stock?",
-      "summary": "Salesforce stock has cratered over 38% this year while its AI business quietly explodes in the background, and the gap between those two realities is exactly where opportunity hides or evaporates.",
-      "pub_date": "2026-07-25T15:30:18Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-salesforce-millionaire-maker-stock-153018161.html"
-    },
-    {
-      "title": "Salesforce Lands $1.6B Veterans Affairs Agreement as AI Adoption Accelerates",
-      "summary": "Salesforce, Inc. shares are up during Friday\u2019s premarket session as the company has won a $1.6 billion contract from the U.S. Department of Veterans Affairs (VA) to enhance its services. This agreement is expected to leverage Salesforce\u2019s technology to streamline...",
-      "pub_date": "2026-07-25T13:30:14Z",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-lands-1-6b-veterans-133014487.html"
-    },
-    {
-      "title": "Salesforce (CRM) Lands $1.6 Billion VA Deal To Power Veteran Care",
-      "summary": "Salesforce (NYSE:CRM) has secured a US$1.6 billion, three-year contract with the U.S. Department of Veterans Affairs. The Missionforce platform will be used to modernize care and service delivery for more than 17 million veterans. The contract focuses on AI-powered workflows, 24/7 care coordination, and secure cloud tools across the VA system. Salesforce is best known for its customer relationship management software, but the company has been steadily building a presence in large public...",
-      "pub_date": "2026-07-25T02:08:52Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-lands-1-6-020852466.html"
     }
   ]
 }

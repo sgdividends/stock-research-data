@@ -1,7 +1,14 @@
 {
   "ticker": "COHR",
-  "generated_at": "2026-07-27T14:19:02.635434+00:00",
+  "generated_at": "2026-07-27T17:38:43.816488+00:00",
   "items": [
+    {
+      "title": "Most Stocks Are Higher Despite the S&P 500's Reversal",
+      "summary": "It's been a tough trading day for the S&P 500, but if you take a look under the surface, the market was actually holding up alright.  The S&P 500 was down 0.3% after trading more than 0.9% higher earlier in the session.  Chip stocks were the weakest link, with Sandisk, Coherent, and Lam Research as the index's worst performers.",
+      "pub_date": "2026-07-27T15:48:45Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-072726/card/most-stocks-are-higher-despite-the-s-p-500-s-reversal-U0deJiRHZO47jdlFSQ79?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "AI Memory Stocks Lead Chip Selloff",
       "summary": "Micron, AMD and memory names fall as risk appetite weakens",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-23T04:08:05Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/technology/ai/articles/cohr-aaoi-lite-poet-photonic-040805917.html"
-    },
-    {
-      "title": "COHR vs. ARM: Which Tech Stock Offers More Upside Now?",
-      "summary": "Coherent's AI infrastructure momentum, expanding profitability and stronger valuation make it the more compelling opportunity over Arm Holdings.",
-      "pub_date": "2026-07-22T17:38:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cohr-vs-arm-tech-stock-173800307.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "AAPL",
-  "generated_at": "2026-07-27T14:18:46.824183+00:00",
+  "generated_at": "2026-07-27T17:38:31.068144+00:00",
   "items": [
+    {
+      "title": "Chinese memory chipmaker CXMT booms in IPO. Does US memory stand a chance?",
+      "summary": "China's biggest memory chipmaker, ChangXin Memory Technologies (CXMT), is surging in its IPO on the Shanghai Stock Exchange. Yahoo Finance Technology Editor Dan Howley explains what investors should know about emerging Chinese competition in the tech space.",
+      "pub_date": "2026-07-27T16:11:09Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/chinese-memory-chipmaker-cxmt-booms-in-ipo-does-us-memory-stand-a-chance-161109405.html"
+    },
     {
       "title": "Earnings live: AstraZeneca stock rises to kick off a busy earnings week",
       "summary": "Earnings season kicks into high gear this week.",
@@ -17,46 +24,39 @@
       "url": "https://finance.yahoo.com/markets/article/4-big-tech-earnings-reports-a-fed-meeting-and-100-oil-its-the-busiest-week-of-the-quarter-100000261.html"
     },
     {
-      "title": "Will NVIDIA or Apple Be the Largest Company By Year\u2019s End? \u2014 Here\u2019s the Name I\u2019m Putting My Chips On",
-      "summary": "Nvidia keeps reclaiming the throne and Apple is lining up a new CEO, fresh AI features, and a device upgrade program that could ignite a supercycle. Only one of these giants walks away as the world's most valuable company, and the pick might genuinely surprise you.",
-      "pub_date": "2026-07-27T13:44:19Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-apple-largest-company-end-134419034.html"
-    },
-    {
-      "title": "Stock Market Today: Dow Jumps 600 Points On U.S.-Iran Hopes; Oil Prices Plunge (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index jumped 600 points on hopes of U.S.-Iran talks. Oil prices plunged Monday.",
-      "pub_date": "2026-07-27T13:42:55Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-oil-prices-plunge/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Inside China\u2019s Blockbuster $484 Billion Memory Chip Debut",
-      "summary": "Sometimes three\u2019s a crowd. But when it comes to the memory boom there\u2019s room, and plenty of demand, for more chip makers.",
-      "pub_date": "2026-07-27T13:11:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/cxmt-stock-ipo-micron-memory-chips-china-834b55db?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Update: US Equity Futures Rise Pre-Bell as Oil Prices Drop Amid Pause in Middle East Hostilities",
-      "summary": "US equity futures rose pre-bell Monday as oil prices declined amid a pause in hostilities between th",
-      "pub_date": "2026-07-27T12:52:12Z",
+      "title": "S&P 500 Second-Quarter Earnings Growth Reaches 70%, Oppenheimer Says",
+      "summary": "S&P 500 companies' second-quarter earnings growth reached 70%, driven by the information technology",
+      "pub_date": "2026-07-27T17:16:10Z",
       "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-125212777.html"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-second-quarter-earnings-171610205.html"
     },
     {
-      "title": "Apple Makes Privacy Central to Smart Glasses Push",
-      "summary": "Tech giant targets a 2027 launch with stronger user safeguards",
-      "pub_date": "2026-07-27T12:42:02Z",
+      "title": "US Futures Rise as Megacap Earnings and Fed Decision Headline Quarter's Busiest Week",
+      "summary": "Dow and S&P 500 futures gain 0.8% and Nasdaq futures 1.4% ahead of Microsoft, Meta, Apple and Amazon results and Wednesday's Fed call.",
+      "pub_date": "2026-07-27T17:04:43Z",
       "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/apple-makes-privacy-central-smart-124202510.html"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-futures-rise-megacap-earnings-170443204.html"
     },
     {
-      "title": "Apple Puts Privacy at Center of Smart Glasses Push",
-      "summary": "The company is refining safeguards ahead of a planned 2027 consumer launch.",
-      "pub_date": "2026-07-27T12:34:44Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/articles/apple-puts-privacy-center-smart-123444257.html"
+      "title": "Apple's Pre-Earnings Rally Pushes Stock Near Record Highs",
+      "summary": "Apple stock is nearing fresh records ahead of its earnings release.  The company is set to report earnings after the bell on Thursday in what will be Tim Cook's last earnings call as CEO.  It will also be the first quarterly release since the company raised prices to offset higher memory costs.",
+      "pub_date": "2026-07-27T16:51:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-072726/card/apple-s-pre-earnings-rally-pushes-stock-near-record-highs-kUZvRVdFjZlFJVUVSjTR?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Apple Could Reclaim Market-Cap Crown Today",
+      "summary": "Apple is on pace to snap Nvidia's 272-trading-day streak as the largest U.S. company by market cap.  The iPhone maker, which has never cracked the $5 trillion market cap threshold, is also closing in on that milestone.  Apple's stock price today hit a new all-time intraday high of $339.50.",
+      "pub_date": "2026-07-27T16:31:27Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-27-2026/card/apple-could-reclaim-market-cap-crown-today-IalXQwdYe5QVNb4wBetu?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Why Are Chip Stocks Down? Investors\u2019 Three Big Worries",
+      "summary": "U.S. chip stocks are taking a beating Monday after a stratospheric stock market debut by Chinese memory-chip maker CXMT. But that's only the latest development to rattle jittery investors. Also:   Apple has been lobbying the Trump administration on a plan to use memory chips from China in some Apple products.",
+      "pub_date": "2026-07-27T16:14:48Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-27-2026/card/why-are-chip-stocks-down-investors-three-big-worries-m3CfaKW7gK4tjw2hCw4Q?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
