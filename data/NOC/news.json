@@ -1,7 +1,21 @@
 {
   "ticker": "NOC",
-  "generated_at": "2026-07-28T13:51:25.477332+00:00",
+  "generated_at": "2026-07-28T17:23:07.786172+00:00",
   "items": [
+    {
+      "title": "Boeing's Q2 Loss Wider Than Estimated, Revenues Increase Y/Y",
+      "summary": "BA's Q2 revenues beat estimates and backlog hits a record $715.3 billion, but a wider-than-expected adjusted loss tempered the stronger sales performance.",
+      "pub_date": "2026-07-28T13:38:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/boeings-q2-loss-wider-estimated-133800692.html"
+    },
+    {
+      "title": "Textron Q2 Earnings Outpace Estimates, Revenues Increase Y/Y",
+      "summary": "TXT tops Q2 earnings and revenue estimates as Bell and Systems growth offsets mixed Aviation deliveries, while reaffirming full-year guidance.",
+      "pub_date": "2026-07-28T13:37:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/textron-q2-earnings-outpace-estimates-133700984.html"
+    },
     {
       "title": "The Gap Between GE Stock And Its Own Numbers",
       "summary": "The jet-engine giant's stock is flying at a premium to its peers, but its performance on the ground tells a more complicated story.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-07-26T08:32:37Z",
       "source": "Investing.com",
       "url": "https://www.yahoo.com/news/world/articles/us-japan-join-philippines-south-083237693.html"
-    },
-    {
-      "title": "Russian attack on Kyiv triggers fires across Ukrainian capital",
-      "summary": "Investing.com -- Falling debris from an overnight Russian attack triggered fires in at least three districts of Kyiv early Sunday, Reuters reported, citing Mayor Vitali Klitschko.",
-      "pub_date": "2026-07-26T01:20:33Z",
-      "source": "Investing.com",
-      "url": "https://www.yahoo.com/news/world/articles/russian-attack-kyiv-triggers-fires-012033329.html"
-    },
-    {
-      "title": "SpaceX (SPCX) Launches Northrop Grumman Repair Mission And Opens A New Service Market",
-      "summary": "Space Exploration Technologies (NasdaqGS:SPCX) launched Northrop Grumman's MRV-MEP satellite repair mission, focused on on-orbit servicing. The mission centers on maintaining and extending the life of existing satellites rather than placing new hardware in orbit. This launch adds a new service-focused line of activity tied to long-term space infrastructure needs. For investors tracking Space Exploration Technologies, the MRV-MEP satellite repair mission with Northrop Grumman highlights a...",
-      "pub_date": "2026-07-25T20:06:43Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-spcx-launches-northrop-grumman-200643407.html"
     }
   ]
 }

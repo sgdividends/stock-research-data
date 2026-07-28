@@ -1,7 +1,14 @@
 {
   "ticker": "T",
-  "generated_at": "2026-07-28T13:51:38.556253+00:00",
+  "generated_at": "2026-07-28T17:23:20.496638+00:00",
   "items": [
+    {
+      "title": "Quantum computing is helping AT&T solve network problems in seconds: D-Wave CEO",
+      "summary": "D-Wave Quantum (QBTS) has transferred its listing on the New York Stock Exchange (NYSE) to the Nasdaq (^IXIC). The quantum computing company has also expanded its network optimization deal with AT&T (T). D-Wave Quantum CEO and president Alan Baratz sits down with Julie Hyman to talk more about its optimization goals for AT&T and other clients.",
+      "pub_date": "2026-07-28T15:00:38Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/quantum-computing-is-helping-att-solve-network-problems-in-seconds-d-wave-ceo-150038004.html"
+    },
     {
       "title": "D-Wave leads quantum stocks higher as AT&T expands computing deal",
       "summary": "AT&T will expand the use of D-Wave's quantum technology across its network operations as part of a new agreement.",
@@ -15,6 +22,13 @@
       "pub_date": "2026-07-28T13:04:09Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/t-t-remains-competitive-despite-130409846.html"
+    },
+    {
+      "title": "Is Trending Stock Tutor Perini Corporation (TPC) a Buy Now?",
+      "summary": "Tutor Perini (TPC) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+      "pub_date": "2026-07-28T13:00:02Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trending-stock-tutor-perini-corporation-130002829.html"
     },
     {
       "title": "One Benchmark From AT&T Just Moved a Quantum Stock 20%",
@@ -43,20 +57,6 @@
       "pub_date": "2026-07-28T01:40:58Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-d-wave-quantum-stock-014058895.html"
-    },
-    {
-      "title": "AT&T (T) Expands D Wave Partnership To Rework Telecom Network Operations",
-      "summary": "AT&T (NYSE:T) has expanded its quantum computing partnership with D-Wave to cover more of its telecom network operations. The agreement focuses on applying quantum tools to outage detection, technician routing, and traffic management across AT&T's network. The move shifts the collaboration from limited pilots to wider operational use within AT&T's infrastructure. AT&T operates one of the largest telecom networks in the United States, with complex infrastructure that depends on efficient...",
-      "pub_date": "2026-07-27T23:12:29Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/articles/t-t-expands-d-wave-231229209.html"
-    },
-    {
-      "title": "Stock Market Today, July 27: D-Wave Surges on Nasdaq Debut and Expanded AT&T Deal",
-      "summary": "D-Wave jumped 20% after an expanded AT&T partnership for quantum network optimization, today, July 27, 2026.",
-      "pub_date": "2026-07-27T21:26:24Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-july-27-212624352.html"
     }
   ]
 }

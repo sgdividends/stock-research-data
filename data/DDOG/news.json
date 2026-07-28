@@ -1,7 +1,14 @@
 {
   "ticker": "DDOG",
-  "generated_at": "2026-07-28T13:50:55.697254+00:00",
+  "generated_at": "2026-07-28T17:22:40.954744+00:00",
   "items": [
+    {
+      "title": "Datadog Director Amit Agarwal Sells 20,000 Shares for $5.2 Million",
+      "summary": "Insider exercised stock options and sold shares under a pre-arranged Rule 10b5-1 trading plan established in March, reducing his equity stake by 35% while retaining nearly 900,000 derivative securities.",
+      "pub_date": "2026-07-28T15:20:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/datadog-director-amit-agarwal-sells-152001461.html"
+    },
     {
       "title": "Datadog Draws Another Target Raise Days Before Q2 Results",
       "summary": "Citi keeps Buy while noting multiples have hit new peaks after an 80% run",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-24T21:36:01Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-vs-datadog-revenue-trends-213601967.html"
-    },
-    {
-      "title": "This Dog Sniffs Out A Buy Point While Monitoring AI Behavior With AWS, Azure, Google",
-      "summary": "Boosted by big AI demand and partnership with AWS, Microsoft Azure and Google, Datadog is tracking the scent of a breakout.",
-      "pub_date": "2026-07-24T20:00:07Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/research/ibd-stock-analysis/datadog-stock-ddog-amazon-aws-microsoft-azure-google-cloud-partnerships/?src=A00220&yptr=yahoo"
     }
   ]
 }
