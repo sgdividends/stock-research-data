@@ -1,7 +1,14 @@
 {
   "ticker": "RF",
-  "generated_at": "2026-07-28T17:23:15.080360+00:00",
+  "generated_at": "2026-07-28T21:04:31.642950+00:00",
   "items": [
+    {
+      "title": "BOH Q2 Earnings Beat on Strong NII, Stock Dips on Lower Fee Income",
+      "summary": "Bank of Hawaii's Q2 results benefit from higher NII, margin expansion and loan growth. However, shares plunge 4.7% as fee income and deposit balances decline.",
+      "pub_date": "2026-07-28T16:45:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/boh-q2-earnings-beat-strong-164500925.html"
+    },
     {
       "title": "NTRS Q2 Earnings Beat on Higher NII & AUM Growth, Dividend Raised",
       "summary": "Northern Trust's Q2 results benefit from higher NII, fee income and AUM growth, while a dividend hike underscores capital strength.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-17T19:55:07Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-softer-afternoon-195507210.html"
-    },
-    {
-      "title": "Sector Update: Financial Stocks Decline Friday Afternoon",
-      "summary": "Financial stocks were lower in Friday afternoon trading, with the NYSE Financial Index and the State",
-      "pub_date": "2026-07-17T17:31:17Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-friday-173117432.html"
     }
   ]
 }

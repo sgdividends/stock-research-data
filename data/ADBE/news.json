@@ -1,7 +1,21 @@
 {
   "ticker": "ADBE",
-  "generated_at": "2026-07-28T17:22:24.403315+00:00",
+  "generated_at": "2026-07-28T21:03:21.747836+00:00",
   "items": [
+    {
+      "title": "What Shopify Stock Really Asks You To Pay For Its Growth",
+      "summary": "The growth is genuinely rare, but so is the price, and the margin cushion behind it is thin; both deserve a hard look before you decide.",
+      "pub_date": "2026-07-28T18:16:46Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/shopify-stock-really-asks-pay-181646511.html"
+    },
+    {
+      "title": "Own Salesforce For AI? Oracle's Order Book Demands A Look",
+      "summary": "For the same bet on enterprise software, Oracle presents a clearer forward path backed by a massive backlog, while Salesforce asks investors to underwrite a future turnaround.",
+      "pub_date": "2026-07-28T17:49:14Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/technology/articles/own-salesforce-ai-oracles-order-174914091.html"
+    },
     {
       "title": "Adobe (ADBE) Joins Open Source AI Cybersecurity Alliance As AI Trust Takes Focus",
       "summary": "Adobe joined an industry coalition to create the Open Source AI Cybersecurity Alliance, focusing on safer AI tools and standards. The alliance aims to develop shared, open-source defenses for AI systems that are increasingly used across software and digital media. This move adds a new dimension to Adobe's role in AI beyond its core creative and productivity products. Adobe, traded as NasdaqGS:ADBE, is stepping into a broader AI security role at a time when its stock has shown mixed...",
@@ -43,20 +57,6 @@
       "pub_date": "2026-07-27T12:31:59Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/expect-adobe-q3-2026-earnings-123159830.html"
-    },
-    {
-      "title": "Joins Industry Coalition to Launch Open Source AI Cybersecurity Alliance",
-      "summary": "Nvidia (NVDA) is leading an initiative among a number of companies advocating for open-source AI too",
-      "pub_date": "2026-07-27T11:23:55Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/ai/articles/joins-industry-coalition-launch-open-112355572.html"
-    },
-    {
-      "title": "Nvidia's New AI Security Alliance Unites Microsoft, SpaceX, IBM To Push Open-Source Defense \u2013 But Meta's Missing From The List",
-      "summary": "Nvidia assembled nearly 40 tech and cybersecurity giants for a new open-source AI defense coalition, but Meta was not among the listed founding members.",
-      "pub_date": "2026-07-27T11:07:46Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-ai-security-alliance-unites-110746241.html"
     }
   ]
 }
