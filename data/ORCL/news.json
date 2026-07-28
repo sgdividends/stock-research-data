@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-07-28T06:22:08.036067+00:00",
+  "generated_at": "2026-07-28T10:30:02.008236+00:00",
   "items": [
     {
       "title": "One number instantly explains why Apple's investors are having a wildly different year than Oracle's",
@@ -15,6 +15,13 @@
       "pub_date": "2026-07-28T00:33:58Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/intu-down-60-intuits-proven-003358609.html"
+    },
+    {
+      "title": "Big Tech credit risks rise sharply as AI spending soars",
+      "summary": "A closely watched gauge of risk in holding the debt of companies at the centre of the AI boom is rising rapidly, underscoring growing jitters...",
+      "pub_date": "2026-07-27T20:55:03Z",
+      "source": "Financial Times",
+      "url": "https://finance.yahoo.com/technology/articles/big-tech-credit-risks-rise-205503982.html"
     },
     {
       "title": "A $7 Billion Reason to Buy Oracle Stock Now",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-27T16:12:40Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/happened-tech-stocks-2000-many-161240902.html"
-    },
-    {
-      "title": "Does Azure AI Growth Make Microsoft Stock a Buy Ahead of Q4 Earnings?",
-      "summary": "Microsoft's Azure outlook stays strong ahead of fiscal Q4 results as AI demand outpaces capacity and new platform launches test margin durability.",
-      "pub_date": "2026-07-27T16:03:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-azure-ai-growth-microsoft-160300823.html"
     }
   ]
 }
