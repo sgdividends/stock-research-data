@@ -1,7 +1,35 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-07-28T10:30:08.846746+00:00",
+  "generated_at": "2026-07-28T13:51:35.670173+00:00",
   "items": [
+    {
+      "title": "Nvidia Gets Drawn Into Supermicro Chip Smuggling Scandal. Should Investors Be Worried?",
+      "summary": "Taiwanese prosecutors just detained an Nvidia employee in a chip smuggling probe already linked to Supermicro's stunning collapse, and investors are scrambling to figure out whether history is about to repeat itself.",
+      "pub_date": "2026-07-28T12:44:52Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-gets-drawn-supermicro-chip-124452196.html"
+    },
+    {
+      "title": "Jim Cramer Tells Leveraged AI Investors \u2018Sell it. No Matter What.\u2019 At the Market Open Today",
+      "summary": "Jim Cramer issued one of his sharpest warnings of the year on Mad Money last night, and it lands at a moment when leveraged AI positions are sitting in a minefield few retail investors seem to see yet.",
+      "pub_date": "2026-07-28T12:43:19Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/options/articles/jim-cramer-tells-leveraged-ai-124319799.html"
+    },
+    {
+      "title": "After Giving Investors Great News, Is Super Micro Computer Stock Headed Back to $50?",
+      "summary": "The company recently announced its margins would be significantly higher than what it previously forecasted.",
+      "pub_date": "2026-07-28T12:20:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/giving-investors-great-news-super-122000264.html"
+    },
+    {
+      "title": "U.S. Stock Futures Lower as Chip Selloff Deepens in Asia",
+      "summary": "Stock futures slipped as a slump in chip stocks broadened.",
+      "pub_date": "2026-07-28T11:12:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-lower-chip-111200720.html"
+    },
     {
       "title": "U.S. chip stocks extend losses on AI financing, China competition fears",
       "summary": "Investing.com -- U.S. chip stocks extended losses in premarket trading Tuesday, building on Monday\u2019s declines after a broad selloff swept through Asian semiconductor names overnight as investors pulled back from AI-linked stocks amid growing worries about how the industry\u2019s infrastructure buildout is being financed and rising competitive pressure from China.",
@@ -17,46 +45,18 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-nvidia-employee-detained-084001862.html"
     },
     {
+      "title": "Nvidia Employee Detained by Taiwan in China Chip Smuggling Probe",
+      "summary": "(Bloomberg) -- Taiwanese prosecutors have detained an Nvidia Corp. employee and searched the company\u2019s offices as part of a widening probe into the alleged smuggling of AI accelerators into China, according to people familiar with the matter. Most Read from BloombergNvidia\u2019s $750 Billion in Deals Reignite Circular AI FearsDeepSeek Suspends Fundraising After Viral US-China PostsS&P 500 Wobbles as AI Angst Offsets Oil Decline: Markets WrapASML Slides on Report of China Starting DUV Tool Production",
+      "pub_date": "2026-07-28T04:48:29Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-employee-detained-taiwan-china-044829873.html"
+    },
+    {
       "title": "Sandisk and More Chip Stocks Hit China Roadblocks",
       "summary": "FEATURE  China threw up a couple of roadblocks for chips stocks Monday, forcing Sandisk ASML Holding and a host of others into the ditch. The obstacles: a massive Chinese IPO and a state-backed company\u2019s mass production of chip-making machines.",
       "pub_date": "2026-07-27T20:36:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/sandisk-asml-chip-stocks-cxmt-china-fd971457?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "CXMT, Sandisk, ASML, SpaceX, D-Wave Quantum, Workday, and More Stocks That Explain Today\u2019s Market",
-      "summary": "FEATURE  A chip stock slide weighed on the major indexes following reports that a state-backed Chinese company has begun mass producing chip-making machines. Those same semiconductor companies, and many artificial-intelligence names, also were under pressure Monday after Chinese memory chip maker ChangXin Memory Technologies \u2019(CXMT) massive trading debut.",
-      "pub_date": "2026-07-27T20:30:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-ed57540c?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "AMD Data Center Growth Seen Beating Expectations Through 2027",
-      "summary": "Wedbush expects stronger CPU and GPU revenue as new AI partnerships support demand.",
-      "pub_date": "2026-07-27T19:17:30Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/articles/amd-data-center-growth-seen-191730921.html"
-    },
-    {
-      "title": "Super Micro\u2019s Margin Beat Is Genuine. And So Is The \u2018Value Trap\u2019 Thesis",
-      "summary": "The preliminary fiscal Q4 2026 update from Super Micro Computer Inc. (NASDAQ:SMCI), which was announced on July 21, serves as a case study in the distinction between a discounted valuation and a \u2018value trap\u2019. The server manufacturer announced more than $60 billion in new orders during the quarter, a record backlog, and guided gross margins [\u2026]",
-      "pub_date": "2026-07-27T15:33:19Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-margin-beat-genuine-153319228.html"
-    },
-    {
-      "title": "Should You Buy Super Micro Computer Stock Before Aug. 11?",
-      "summary": "The tech company has earnings coming up in a few weeks.",
-      "pub_date": "2026-07-27T13:34:09Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-super-micro-computer-stock-133409649.html"
-    },
-    {
-      "title": "Meet The 2 S&P 500 CEOs Paid Less Than $500 A Year",
-      "summary": "Investors can debate if S&P 500 CEOs deserve their sky-high pay packages. But not all CEOs get such princely sums.",
-      "pub_date": "2026-07-27T11:42:37Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/etfs-and-funds/sectors/sp500-meet-the-2-ceos-paid-less-than-500-a-year/?src=A00220&yptr=yahoo"
     }
   ]
 }

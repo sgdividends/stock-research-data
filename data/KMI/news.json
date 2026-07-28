@@ -1,6 +1,6 @@
 {
   "ticker": "KMI",
-  "generated_at": "2026-07-28T10:29:52.556649+00:00",
+  "generated_at": "2026-07-28T13:51:16.424936+00:00",
   "items": [
     {
       "title": "Ovintiv Q2 Earnings Miss Estimates, Revenues Increase Y/Y",
@@ -31,6 +31,13 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-4-income-play-beats-162438414.html"
     },
     {
+      "title": "Kinder Morgan, Inc. Q2 2026 Earnings Call Summary",
+      "summary": "Moby summary of Kinder Morgan, Inc.'s Q2 2026 earnings call",
+      "pub_date": "2026-07-25T12:30:00Z",
+      "source": "Moby",
+      "url": "https://finance.yahoo.com/energy/articles/kinder-morgan-inc-q2-2026-123000203.html"
+    },
+    {
       "title": "Kinder Morgan (KMI) Q2 2026 Earnings Call Transcript",
       "summary": "Net income jumped 21% as adjusted EBITDA reached record levels.",
       "pub_date": "2026-07-25T00:32:03Z",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-24T19:11:57Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/kinder-morgan-kmi-stock-still-191157208.html"
-    },
-    {
-      "title": "Liberty Energy Q2 Earnings Surpass Estimates, Revenues Increase Y/Y",
-      "summary": "LBRT tops Q2 earnings and revenue estimates as record utilization, pricing gains and AI-focused initiatives fuel growth despite higher costs.",
-      "pub_date": "2026-07-24T15:20:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/energy/articles/liberty-energy-q2-earnings-surpass-152000496.html"
     }
   ]
 }

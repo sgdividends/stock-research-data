@@ -1,7 +1,14 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-07-28T10:30:00.045669+00:00",
+  "generated_at": "2026-07-28T13:51:25.629092+00:00",
   "items": [
+    {
+      "title": "This Week In Cloud AI - Axe Compute Secures Major $1.5 Billion AI Infrastructure Deal",
+      "summary": "Axe Compute Inc. has announced a significant five-year customer agreement valued at over $1.5 billion, marking a notable development in the Cloud AI space. This contract involves the deployment of a dedicated AI infrastructure cluster based on NVIDIA Blackwell GPUs, intended for high-demand AI workloads in the United States. The agreement, secured through Axe Compute's Build program, is part of a larger effort, bringing the company's total signed contract value for 2026 to over $3 billion...",
+      "pub_date": "2026-07-28T12:44:35Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/week-cloud-ai-axe-compute-124435478.html"
+    },
     {
       "title": "Stock Market Today, July 27: Dow Rises on Oil Retreat, and Sandisk Plunges 11% on Memory Weakness",
       "summary": "Crude tumbled as geopolitical tensions eased, while semiconductor losses dragged the Nasdaq lower, today, July 27, 2026.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-27T13:23:31Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/datadogs-stock-now-costs-far-132331547.html"
-    },
-    {
-      "title": "Joins Industry Coalition to Launch Open Source AI Cybersecurity Alliance",
-      "summary": "Nvidia (NVDA) is leading an initiative among a number of companies advocating for open-source AI too",
-      "pub_date": "2026-07-27T11:23:55Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/ai/articles/joins-industry-coalition-launch-open-112355572.html"
     }
   ]
 }

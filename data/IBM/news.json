@@ -1,6 +1,6 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-07-28T10:29:48.580345+00:00",
+  "generated_at": "2026-07-28T13:51:11.899446+00:00",
   "items": [
     {
       "title": "Why Circle's IBM patent deal matters for crypto",
@@ -15,6 +15,20 @@
       "pub_date": "2026-07-27T13:13:36Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/d-wave-leads-quantum-stocks-higher-as-att-expands-computing-deal-131336800.html"
+    },
+    {
+      "title": "Quantum Computing Stocks: Here's How WisdomTree Sizes Up The Industry",
+      "summary": "WisdomTree's research chief sees AI accelerating the commercial progress of quantum computing stocks with cloud services driving adoption.",
+      "pub_date": "2026-07-28T13:25:28Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/technology/quantum-computing-stocks-wisdomtree-etf-interview-ibm/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Circle Acquires Nearly 1,000 IBM Blockchain Patents, Becoming America's Blockchain IP Leader",
+      "summary": "Circle acquired IBM's blockchain patent portfolio, comprising more than 680 patent families and nearly 1,000 issued patents worldwide. The acquisition makes Circle the largest blockchain ...",
+      "pub_date": "2026-07-28T10:26:21Z",
+      "source": "CCN",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/circle-acquires-nearly-1-000-102621018.html"
     },
     {
       "title": "Does IBM pay dividends? History, yield & payout ratio explained",
@@ -43,20 +57,6 @@
       "pub_date": "2026-07-27T19:22:01Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-spacex-just-joined-ai-192201273.html"
-    },
-    {
-      "title": "Global Game Summit: IBM's Jonathan Adashek on AI Enhancing Sports Experiences",
-      "summary": "IBM's Jonathan Adashek joins Ashley Mastronardi on NYSE Floor Talk",
-      "pub_date": "2026-07-27T18:45:56Z",
-      "source": "NYSE",
-      "url": "https://finance.yahoo.com/video/global-game-summit-ibms-jonathan-184556024.html"
-    },
-    {
-      "title": "Popular crypto stock jumps after acquiring nearly 1,000 patents",
-      "summary": "Circle Internet Group (NYSE: CRCL) said on July 27 it had acquired IBM's blockchain patent portfolio, adding more than 680 patent families and nearly 1,000 issued patents worldwide to its intellectual property. The company, which issues the USDC stablecoin, said the acquisition makes it the largest ...",
-      "pub_date": "2026-07-27T17:10:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/popular-crypto-stock-jumps-acquiring-171000838.html"
     }
   ]
 }
