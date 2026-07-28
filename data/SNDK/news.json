@@ -1,13 +1,20 @@
 {
   "ticker": "SNDK",
-  "generated_at": "2026-07-27T21:06:19.965214+00:00",
+  "generated_at": "2026-07-28T01:59:55.086473+00:00",
   "items": [
     {
       "title": "Dow Jones Futures: U.S.-Iran Peace Hopes Send Oil Prices Plunging; Nvidia, Micron, Sandisk, SpaceX, Tesla Sell Off",
       "summary": "Dow Jones Futures: Oil prices plunged Monday amid U.S.-Iran peace hopes. Nvidia, Micron, Sandisk, SpaceX and Tesla sold off.",
-      "pub_date": "2026-07-27T20:45:34Z",
+      "pub_date": "2026-07-28T00:51:53Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-us-iran-oil-prices-nvidia-micron-sandisk-spacex-tesla/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Stock Market Today, July 27: Dow Rises on Oil Retreat, and Sandisk Plunges 11% on Memory Weakness",
+      "summary": "Crude tumbled as geopolitical tensions eased, while semiconductor losses dragged the Nasdaq lower, today, July 27, 2026.",
+      "pub_date": "2026-07-27T21:24:56Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-july-27-212456485.html"
     },
     {
       "title": "Memory-Chip Stocks Micron, SK Hynix Drop After China Rival's IPO",
@@ -15,6 +22,13 @@
       "pub_date": "2026-07-27T20:44:21Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/technology/memory-chip-stocks-micron-sk-hynix-cxmt-ipo/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Geopolitics, AI Concerns, & Tech's Summer Slump",
+      "summary": "Between the lingering geopolitical conflict, the upcoming mid-term elections, AI concerns, and poor seasonality, market volatility is likely to persist.",
+      "pub_date": "2026-07-27T20:42:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/geopolitics-ai-concerns-techs-summer-204200050.html"
     },
     {
       "title": "Sandisk and More Chip Stocks Hit China Roadblocks",
@@ -31,32 +45,18 @@
       "url": "https://www.barrons.com/articles/stock-movers-ed57540c?siteid=yhoof2&yptr=yahoo"
     },
     {
-      "title": "CXMT\u2019s Blockbuster IPO Hits MU, SNDK and WDC\u2014Is the Memory Rally at Risk?",
-      "summary": "Memory and storage stocks came under pressure on July 27 after China\u2019s leading semiconductor manufacturer, ChangXin Memory Technologies (CXMT), delivered a blockbuster Shanghai stock market debut to surpass a $500 billion valuation. Micron Technology, Inc. (NASDAQ:MU) shares fell 5%, Sandisk Corporation (NASDAQ:SNDK) declined around 12%, while Western Digital Corporation (NASDAQ:WDC) also traded sharply lower on [\u2026]",
-      "pub_date": "2026-07-27T19:55:32Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cxmt-blockbuster-ipo-hits-mu-195532122.html"
+      "title": "Chinese IPO Rattles Chip Stocks",
+      "summary": "The company topped  Industrial and Commercial Bank of China  to become the most valuable company listed in a mainland Chinese market.  ASML and  Advanced Micro Devices  fell 5.8% and 5.2%, respectively.  The Nasdaq Composite ended the day down 0.2%.",
+      "pub_date": "2026-07-27T20:27:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/chinese-ipo-rattles-chip-stocks-a563c5f6?siteid=yhoof2&yptr=yahoo"
     },
     {
-      "title": "Why J.P. Morgan Says the ASML Stock Selloff Is \u2018Disproportionate\u2019",
-      "summary": "The company still holds a significant edge in production capabilities compared with Chinese counterparts, an analyst says.",
-      "pub_date": "2026-07-27T19:44:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/asml-chip-stock-selloff-price-342f58c5?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Chip Stocks Tank While Software Shines",
-      "summary": "All three major indexes were lower than they started today's trading session, and chip stocks were leading the march lower. The Nasdaq was down 0.2% while the S&P 500 searched for direction. The Dow was up, 0.",
-      "pub_date": "2026-07-27T19:05:09Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-072726/card/chip-stocks-tank-while-software-shines-glV8HPCZ2thg82L32jnB?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Why Sandisk Stock Crashed on Monday",
-      "summary": "China is taking aim at memory stock profits, and Sandisk could be the next target.",
-      "pub_date": "2026-07-27T17:47:58Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-sandisk-stock-crashed-monday-174758918.html"
+      "title": "EXCLUSIVE: China Is Coming For SanDisk\u2014But Not Yet For Micron\u2019s Memory Crown (CORRECTED)",
+      "summary": "Editor\u2019s Note: This story has been corrected to remove an inaccurate company reference. High-bandwidth memory \u2014 the specialized chips powering Nvidia Corp.\u2019s latest AI accelerators \u2014 appears set to remain dominated by established leaders such as Micron Technology Inc. (NASDAQ:MU), SK Hynix Inc. (NASDAQ:SKHY) and Samsung Electronics Co. Ltd. (NYSE:SSNLF) for years. China, however, is making rapid progress in commodity DRAM and NAND. That\u2019s according to Counterpoint Research analyst MS Hwang, who",
+      "pub_date": "2026-07-27T20:10:44Z",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/exclusive-china-coming-sandisk-not-135242537.html"
     }
   ]
 }

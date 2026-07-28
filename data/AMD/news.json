@@ -1,7 +1,35 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-07-27T21:05:26.725225+00:00",
+  "generated_at": "2026-07-28T01:59:06.480020+00:00",
   "items": [
+    {
+      "title": "Nvidia drops nearly 5%, leading chip stocks lower amid renewed worries of circular financing",
+      "summary": "Growing fears of AI circular financing sent shares of Nvidia and the rest of the chip sector lower.",
+      "pub_date": "2026-07-27T19:33:09Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-drops-nearly-5-leading-chip-stocks-lower-amid-renewed-worries-of-circular-financing-193309793.html"
+    },
+    {
+      "title": "AMD (AMD) Faces New Supply Chain Risk As China Scales Domestic DUV Tools",
+      "summary": "A state backed Chinese producer has started mass manufacturing domestic deep ultraviolet lithography machines, marking a key step toward greater self sufficiency in chipmaking. This development could reduce China's reliance on foreign semiconductor equipment and alter global supply chain relationships for chip designers and manufacturers. Advanced Micro Devices (NasdaqGS:AMD) is exposed to these shifts through its role in high performance computing and graphics chips that are closely tied to...",
+      "pub_date": "2026-07-28T01:08:42Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-amd-faces-supply-chain-010842758.html"
+    },
+    {
+      "title": "Advanced Micro Devices (AMD) Stock Falls Amid Market Uptick: What Investors Need to Know",
+      "summary": "In the most recent trading session, Advanced Micro Devices (AMD) closed at $494.95, indicating a -5.17% shift from the previous trading day.",
+      "pub_date": "2026-07-27T21:45:04Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-stock-214504024.html"
+    },
+    {
+      "title": "Nvidia Invests in Ilya Sutskever's AI Startup",
+      "summary": "Chip giant invests in Safe Superintelligence and supplies Vera Rubin systems",
+      "pub_date": "2026-07-27T21:27:20Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-invests-ilya-sutskevers-ai-212720721.html"
+    },
     {
       "title": "Sandisk and More Chip Stocks Hit China Roadblocks",
       "summary": "FEATURE  China threw up a couple of roadblocks for chips stocks Monday, forcing Sandisk ASML Holding and a host of others into the ditch. The obstacles: a massive Chinese IPO and a state-backed company\u2019s mass production of chip-making machines.",
@@ -24,39 +52,11 @@
       "url": "https://www.barrons.com/articles/stock-movers-ed57540c?siteid=yhoof2&yptr=yahoo"
     },
     {
-      "title": "Will Helios Be the Catalyst AMD's Stock Needs to Hit a $1 Trillion Market Cap in 2026?",
-      "summary": "Advanced Micro Devices recently launched its Helios racks, which could unlock much more growth for the business.",
-      "pub_date": "2026-07-27T20:05:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/helios-catalyst-amds-stock-needs-200500794.html"
-    },
-    {
-      "title": "AMD Data Center Growth Seen Beating Expectations Through 2027",
-      "summary": "Wedbush expects stronger CPU and GPU revenue as new AI partnerships support demand.",
-      "pub_date": "2026-07-27T19:17:30Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/articles/amd-data-center-growth-seen-191730921.html"
-    },
-    {
-      "title": "AMD\u2019s Microsoft Partnership Validates This Transition So I\u2019m Loading Up",
-      "summary": "AMD has quietly transformed from a chip underdog into a rack-scale platform, and the hyperscalers placing the biggest bets in AI infrastructure are already voting with their wallets. Here is why one investor keeps loading up even at a triple-digit P/E.",
-      "pub_date": "2026-07-27T19:15:03Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amd-microsoft-partnership-validates-transition-191503891.html"
-    },
-    {
-      "title": "Chip Stocks Tank While Software Shines",
-      "summary": "All three major indexes were lower than they started today's trading session, and chip stocks were leading the march lower. The Nasdaq was down 0.2% while the S&P 500 searched for direction. The Dow was up, 0.",
-      "pub_date": "2026-07-27T19:05:09Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-072726/card/chip-stocks-tank-while-software-shines-glV8HPCZ2thg82L32jnB?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Missed NVIDIA? This AI Infrastructure Stock Has More Room to Run",
-      "summary": "Western Digital is riding AI storage demand with rising revenues, expanding margins and bullish analyst targets. See why WDC could extend its rally.",
-      "pub_date": "2026-07-27T19:00:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/missed-nvidia-ai-infrastructure-stock-190000631.html"
+      "title": "Chinese IPO Rattles Chip Stocks",
+      "summary": "The company topped  Industrial and Commercial Bank of China  to become the most valuable company listed in a mainland Chinese market.  ASML and  Advanced Micro Devices  fell 5.8% and 5.2%, respectively.  The Nasdaq Composite ended the day down 0.2%.",
+      "pub_date": "2026-07-27T20:27:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/chinese-ipo-rattles-chip-stocks-a563c5f6?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "DGX",
-  "generated_at": "2026-07-27T21:05:42.435138+00:00",
+  "generated_at": "2026-07-28T01:59:20.062765+00:00",
   "items": [
+    {
+      "title": "Equinix Stock Has A Message For Management",
+      "summary": "The company raised its outlook on booming AI demand, but the stock is telling a different story by standing still.",
+      "pub_date": "2026-07-27T20:56:09Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equinix-stock-message-management-205609089.html"
+    },
     {
       "title": "Why Quest Diagnostics Stock Climbed This Past Week",
       "summary": "Demand for medical testing services is rising.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-23T21:03:14Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/healthcare/articles/quest-diagnostics-inc-dgx-q2-210314028.html"
-    },
-    {
-      "title": "Quest Diagnostics Surges After Hims- And Oura-Tied Beat",
-      "summary": "Quest Diagnostics put up a definitive beat Thursday, driven by solid demand across its consumer division, leading the stock to surge.",
-      "pub_date": "2026-07-23T20:17:18Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/quest-diagnostics-stock-quest-diagnostics-earnings-q2-2026/?src=A00220&yptr=yahoo"
     }
   ]
 }

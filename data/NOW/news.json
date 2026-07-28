@@ -1,7 +1,14 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-07-27T21:06:10.010979+00:00",
+  "generated_at": "2026-07-28T01:59:45.863218+00:00",
   "items": [
+    {
+      "title": "Stock Market Today, July 27: Dow Rises on Oil Retreat, and Sandisk Plunges 11% on Memory Weakness",
+      "summary": "Crude tumbled as geopolitical tensions eased, while semiconductor losses dragged the Nasdaq lower, today, July 27, 2026.",
+      "pub_date": "2026-07-27T21:24:56Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-july-27-212456485.html"
+    },
     {
       "title": "Chip Stocks Tank While Software Shines",
       "summary": "All three major indexes were lower than they started today's trading session, and chip stocks were leading the march lower. The Nasdaq was down 0.2% while the S&P 500 searched for direction. The Dow was up, 0.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-27T11:23:55Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/technology/ai/articles/joins-industry-coalition-launch-open-112355572.html"
-    },
-    {
-      "title": "ServiceNow (NOW) Teams Up With TeamViewer As Experian Expands AI Platform Use",
-      "summary": "TeamViewer and ServiceNow (NYSE:NOW) have agreed a multi-year partnership to connect TeamViewer\u2019s Digital Employee Experience and Remote Connectivity with the ServiceNow AI Platform. The collaboration focuses on building more autonomous IT operations through joint product work and capital investment from both companies. Separately, Experian is expanding its deployment of the ServiceNow AI Platform to support broader AI driven workflows and automation across its business. ServiceNow, which...",
-      "pub_date": "2026-07-26T18:07:32Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-now-teams-teamviewer-experian-180732053.html"
     }
   ]
 }
