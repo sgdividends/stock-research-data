@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-07-28T01:59:47.907069+00:00",
+  "generated_at": "2026-07-28T06:22:08.036067+00:00",
   "items": [
     {
       "title": "One number instantly explains why Apple's investors are having a wildly different year than Oracle's",
@@ -15,6 +15,13 @@
       "pub_date": "2026-07-28T00:33:58Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/intu-down-60-intuits-proven-003358609.html"
+    },
+    {
+      "title": "A $7 Billion Reason to Buy Oracle Stock Now",
+      "summary": "Oracle just landed a $7 billion Pentagon deal, reinforcing its AI cloud momentum and giving investors another compelling reason to stay bullish.",
+      "pub_date": "2026-07-27T20:06:22Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/7-billion-reason-buy-oracle-200622662.html"
     },
     {
       "title": "Microsoft faces AI capex scrutiny as it prepares to report Q4 results",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-27T16:03:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/does-azure-ai-growth-microsoft-160300823.html"
-    },
-    {
-      "title": "AI Stocks Crash After NVIDIA Plans to Finance $250 Billion OpenAI Buildout Are Reported",
-      "summary": "A Wall Street Journal report about NVIDIA potentially backstopping OpenAI's compute ambitions at a staggering scale has triggered a broad selloff across AI hardware names, and the concern investors cannot shake goes straight to the heart of how sustainable the AI spending boom really is.",
-      "pub_date": "2026-07-27T16:00:49Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-crash-nvidia-plans-160049039.html"
     }
   ]
 }

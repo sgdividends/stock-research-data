@@ -1,6 +1,6 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-07-28T01:59:06.480020+00:00",
+  "generated_at": "2026-07-28T06:21:31.512273+00:00",
   "items": [
     {
       "title": "Nvidia drops nearly 5%, leading chip stocks lower amid renewed worries of circular financing",
@@ -8,6 +8,27 @@
       "pub_date": "2026-07-27T19:33:09Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/nvidia-drops-nearly-5-leading-chip-stocks-lower-amid-renewed-worries-of-circular-financing-193309793.html"
+    },
+    {
+      "title": "AI Memory Stocks on Rocky Ground: 3 Reasons SK Hynix Fell 13%",
+      "summary": "SK Hynix fell 13% as Nvidia's OpenAI bet, China's CXMT listing, and AI capex doubts hit chip stocks with more volatility.",
+      "pub_date": "2026-07-28T04:35:35Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-memory-stocks-rocky-ground-043535262.html"
+    },
+    {
+      "title": "SNDK, NVDA, SKHY, ASML Stocks Extend Slide Overnight Amid China's AI Challenge, Tech Rotation",
+      "summary": "New Chinese AI technologies and a remarkably strong listing by the country\u2019s largest memory chip firm weighed on sentiment toward U.S. semiconductors.",
+      "pub_date": "2026-07-28T02:23:17Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sndk-nvda-skhy-asml-stocks-022317630.html"
+    },
+    {
+      "title": "KOSPI Crashes 8% as AI Chip Selloff Slams Asian Markets",
+      "summary": "KOSPI dives 8% as the AI chip selloff spreads to Asia a day before SK Hynix earnings and Big Tech reports.",
+      "pub_date": "2026-07-28T02:13:33Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/kospi-crashes-8-ai-chip-021333639.html"
     },
     {
       "title": "AMD (AMD) Faces New Supply Chain Risk As China Scales Domestic DUV Tools",
@@ -31,32 +52,11 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-invests-ilya-sutskevers-ai-212720721.html"
     },
     {
-      "title": "Sandisk and More Chip Stocks Hit China Roadblocks",
-      "summary": "FEATURE  China threw up a couple of roadblocks for chips stocks Monday, forcing Sandisk ASML Holding and a host of others into the ditch. The obstacles: a massive Chinese IPO and a state-backed company\u2019s mass production of chip-making machines.",
-      "pub_date": "2026-07-27T20:36:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/sandisk-asml-chip-stocks-cxmt-china-fd971457?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Nvidia in Talks to Finance OpenAI, Report Says. What It Means for the Stock.",
-      "summary": "Chip stocks fell sharply in morning trading after a report emerged that a state-backed Chinese company has started mass producing chip-making machines.  Nvidia has missed out on the chip rally, up just 5.4% this year compared with the  (SOX) 63% rise\u2014the index that tracks the 30 biggest U.S.-listed companies connected to semis.  OpenAI and Nvidia did not immediately respond to a request for comment.",
-      "pub_date": "2026-07-27T20:32:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/nvidia-stock-price-openai-finance-deal-b9c8993b?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "CXMT, Sandisk, ASML, SpaceX, D-Wave Quantum, Workday, and More Stocks That Explain Today\u2019s Market",
-      "summary": "FEATURE  A chip stock slide weighed on the major indexes following reports that a state-backed Chinese company has begun mass producing chip-making machines. Those same semiconductor companies, and many artificial-intelligence names, also were under pressure Monday after Chinese memory chip maker ChangXin Memory Technologies \u2019(CXMT) massive trading debut.",
-      "pub_date": "2026-07-27T20:30:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-ed57540c?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Chinese IPO Rattles Chip Stocks",
-      "summary": "The company topped  Industrial and Commercial Bank of China  to become the most valuable company listed in a mainland Chinese market.  ASML and  Advanced Micro Devices  fell 5.8% and 5.2%, respectively.  The Nasdaq Composite ended the day down 0.2%.",
-      "pub_date": "2026-07-27T20:27:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/chinese-ipo-rattles-chip-stocks-a563c5f6?siteid=yhoof2&yptr=yahoo"
+      "title": "Why This Analyst Is Betting AMD Stock Can Hit $1,250 in the Next Year",
+      "summary": "Baird doubled AMD\u2019s price target to $1,250 based on its AI prospects.",
+      "pub_date": "2026-07-27T20:38:45Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-analyst-betting-amd-stock-203845278.html"
     }
   ]
 }
