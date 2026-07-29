@@ -1,7 +1,14 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-07-29T02:02:21.831153+00:00",
+  "generated_at": "2026-07-29T06:26:32.368476+00:00",
   "items": [
+    {
+      "title": "Chip stocks are crashing as the rest of the market barely flinches: AlphaCheck",
+      "summary": "Semiconductor stocks are flashing red \u2014 under the market's hood, the rally is still running green.",
+      "pub_date": "2026-07-28T16:13:42Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/chip-stocks-are-crashing-as-the-rest-of-the-market-barely-flinches-alphacheck-161342600.html"
+    },
     {
       "title": "Semiconductor stock charts just formed this bearish shape that signals more potential losses",
       "summary": "Look out below for semis?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-28T19:29:05Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stocks-surge-already-visible-192905738.html"
-    },
-    {
-      "title": "Big Tech Credit Risk Flashes Urgent Warning Over AI Spending",
-      "summary": "Debt markets are growing uneasy about the cost of the AI boom",
-      "pub_date": "2026-07-28T19:26:45Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/big-tech-credit-risk-flashes-192645668.html"
     }
   ]
 }

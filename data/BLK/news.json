@@ -1,6 +1,6 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-07-29T02:02:24.310093+00:00",
+  "generated_at": "2026-07-29T06:26:34.482420+00:00",
   "items": [
     {
       "title": "Meta to report Q2 earnings amid AI investing concerns",
@@ -8,6 +8,20 @@
       "pub_date": "2026-07-28T12:13:25Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/news/meta-to-report-q2-earnings-amid-ai-investing-concerns-121325403.html"
+    },
+    {
+      "title": "Bitcoin ETFs Bleed While Ethereum Funds Post Third Straight Weekly Inflow",
+      "summary": "Bitcoin ETFs lost 3,170 BTC in a week as Ethereum funds added 37,959 ETH, extending a third straight inflow streak.",
+      "pub_date": "2026-07-29T05:54:51Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-bleed-while-ethereum-055451344.html"
+    },
+    {
+      "title": "HIMS Stock Eyes Comeback After 3-Week Slide: BlackRock Raises Stake, Bulls Bet On Peptide-Fueled Q2 Run",
+      "summary": "BlackRock disclosed ownership of 26.5 million HIMS shares, representing a stake of about 12%.",
+      "pub_date": "2026-07-29T01:33:09Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hims-stock-eyes-comeback-3-013309666.html"
     },
     {
       "title": "Meta Unveils $14 Billion AI Data-Center Venture With BlackRock",
@@ -43,20 +57,6 @@
       "pub_date": "2026-07-28T17:59:46Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/technology/articles/koch-said-explore-sale-data-175946496.html"
-    },
-    {
-      "title": "Sector Update: Tech Stocks Fall Tuesday Afternoon",
-      "summary": "Tech stocks were lower Tuesday afternoon, with the State Street Technology Select Sector SPDR ETF (X",
-      "pub_date": "2026-07-28T17:34:28Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-tuesday-173428394.html"
-    },
-    {
-      "title": "Meta's $14 Billion AI Move Comes With a Twist",
-      "summary": "The campus is expected to provide 1 gigawatt of computing capacity.",
-      "pub_date": "2026-07-28T17:24:23Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/metas-14-billion-ai-move-172423686.html"
     }
   ]
 }

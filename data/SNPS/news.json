@@ -1,7 +1,14 @@
 {
   "ticker": "SNPS",
-  "generated_at": "2026-07-29T02:03:13.712470+00:00",
+  "generated_at": "2026-07-29T06:27:12.806823+00:00",
   "items": [
+    {
+      "title": "Nvidia (NVDA) Pours $5 Billion Into Safe AI And Expands Data Center Reach",
+      "summary": "Nvidia (NasdaqGS:NVDA) is committing US$5b to Safe Superintelligence, a new AI safety startup led by former OpenAI chief scientist Ilya Sutskever. The company is entering multibillion dollar AI data center lease deals, including a large buildout with Hut 8 in Texas. Nvidia is expanding its Agent Toolkit platform through new partnerships with Synopsys, Siemens, and Cadence to support chip and system design automation. Nvidia sits at the center of AI computing, with its GPUs and software...",
+      "pub_date": "2026-07-29T03:13:08Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-pours-5-billion-031308100.html"
+    },
     {
       "title": "Intel\u2019s 14A chips aren\u2019t built yet: Synopsys is already there",
       "summary": "Anyone who has shipped software before it was fully tested knows the math. A bug caught in code review costs an afternoon. The same bug caught after launch costs a weekend, an apology, and sometimes a customer. Chip design runs on a version of that math, except the much-higher stakes involve ...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-27T11:23:55Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/technology/ai/articles/joins-industry-coalition-launch-open-112355572.html"
-    },
-    {
-      "title": "Synopsys Stock: The Price Tag Hides a Patient Investor's Discount",
-      "summary": "The stock's high multiple looks daunting, but a look at future earnings reveals a very different story about its price.",
-      "pub_date": "2026-07-24T21:30:51Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/synopsys-stock-price-tag-hides-213051501.html"
     }
   ]
 }

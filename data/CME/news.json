@@ -1,7 +1,14 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-07-29T02:02:29.164753+00:00",
+  "generated_at": "2026-07-29T06:26:37.975022+00:00",
   "items": [
+    {
+      "title": "The S&P 500 Trades Industrials for Tech",
+      "summary": "Technology companies have expanded their influence in the S 500 over the years, displacing industrials.",
+      "pub_date": "2026-07-29T06:00:00Z",
+      "source": "CME Group",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-trades-industrials-tech-060000649.html"
+    },
     {
       "title": "CME Group (CME) Stock Gets Fair Value Trim As Analysts Debate Earnings Strength",
       "summary": "CME Group\u2019s fair value estimate has been trimmed from US$289.00 to about US$282.36, a reduction of roughly 2.3% that reflects updated model assumptions. This more measured price target sits alongside a split analyst narrative, with some research pointing to strong earnings and product moats, while others highlight competitive threats and softer volume assumptions. As you read on, you will see how these moving parts are shaping the evolving story around CME Group and what to watch...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-28T03:16:30Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cme-24-7-gold-single-031630330.html"
-    },
-    {
-      "title": "Royal Caribbean Surges Briefly Ahead Of Results As Oil Prices Slide",
-      "summary": "Cruise lines, airline stocks jump as oil prices fall. United, Delta set to rebound from support. Royal Caribbean surges with earnings due.",
-      "pub_date": "2026-07-27T20:33:27Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/royal-caribbean-cruise-lines-airlines-surge-oil-prices-us-iran-strike-halt-rcl-stock-nclh-aal-dal-ual-ccl/?src=A00220&yptr=yahoo"
     }
   ]
 }

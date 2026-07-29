@@ -1,6 +1,6 @@
 {
   "ticker": "BA",
-  "generated_at": "2026-07-29T02:02:22.576985+00:00",
+  "generated_at": "2026-07-29T06:26:33.036611+00:00",
   "items": [
     {
       "title": "Stock market today: Nasdaq bounces back, S&P 500 and Dow rise as earnings, falling oil prices offset chip weakness",
@@ -8,6 +8,13 @@
       "pub_date": "2026-07-28T08:28:32Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-chip-stocks-082832371.html"
+    },
+    {
+      "title": "Boeing (BA) Is Up 8.2% After Narrower Loss, Cash-Flow Reaffirmation And FAA Milestone - What's Changed",
+      "summary": "Boeing reported past second-quarter 2026 results showing revenue of US$24,560 million versus US$22,749 million a year earlier, with net loss narrowing to US$444 million from US$611 million despite continued charges in its defense programs. Alongside higher commercial deliveries and restored FAA self-certification for 737 MAX and 787 jets, Boeing generated positive free cash flow and reaffirmed its full-year cash guidance, underscoring operational progress even as its defense segment remains...",
+      "pub_date": "2026-07-29T05:07:15Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-8-2-narrower-050715605.html"
     },
     {
       "title": "Boeing Co (BA) Q2 2026 Earnings Call Highlights: Record Airplane Deliveries and Revenue Growth ...",
@@ -45,18 +52,11 @@
       "url": "https://www.barrons.com/articles/boeing-earnings-stock-price-228776d8?siteid=yhoof2&yptr=yahoo"
     },
     {
-      "title": "Update: Dow Extends Advance Following Strong Earnings Reports",
-      "summary": "(Updates with market moves at the end of the day.) The Dow Jones Industrial Average rose for a th",
-      "pub_date": "2026-07-28T20:32:02Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-extends-advance-following-strong-203202788.html"
-    },
-    {
-      "title": "S&P 500 ends higher as investors await tech earnings",
-      "summary": "By Noel Randewich July 28 (Reuters) - The S&P 500 ended higher on Tuesday as gains in Boeing and Coca-Cola helped offset tumbling chip stocks ahead of quarterly reports from Apple and other tech",
-      "pub_date": "2026-07-28T20:24:08Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-ai-chip-085903477.html"
+      "title": "Stocks Settle Mostly Higher on Positive Earnings Results",
+      "summary": "The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed up +0.21%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +1.03%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.98%. September E-mini S&P futures (ESU26 ) rose +0.24%, and September E-mini Nasdaq futures...",
+      "pub_date": "2026-07-28T20:33:51Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-mostly-higher-positive-203351910.html"
     }
   ]
 }
