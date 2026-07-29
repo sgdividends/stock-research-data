@@ -1,7 +1,7 @@
 {
   "ticker": "PYPL",
   "as_of": "2026-07-27",
-  "generated_at": "2026-07-28T08:15:49.321748+00:00",
+  "generated_at": "2026-07-29T08:21:02.122174+00:00",
   "close": 56.07,
   "rsi_14": 74.91,
   "rsi_14_pctile_1y": 96.6,
@@ -22,7 +22,7 @@
   "bb_pctb_pctile_1y": 81.0,
   "atr_14": 1.74,
   "atr_pct": 3.1,
-  "week52_high": 79.5,
+  "week52_high": 79.21,
   "week52_low": 38.46,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }
