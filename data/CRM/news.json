@@ -1,7 +1,14 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-07-29T10:33:55.812032+00:00",
+  "generated_at": "2026-07-29T13:55:23.683363+00:00",
   "items": [
+    {
+      "title": "Bandwidth Q2 Earnings Call Highlights",
+      "summary": "Bandwidth (NASDAQ:BAND) reported second-quarter 2026 results that exceeded its expectations, citing demand for AI-enabled communications, enterprise modernization projects and operating leverage from its owned network. The company raised its full-year outlook after reporting 22% year-over-year reven",
+      "pub_date": "2026-07-29T13:03:59Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bandwidth-q2-earnings-call-highlights-130359834.html"
+    },
     {
       "title": "3 of Wall Street\u2019s Favorite Stocks with Questionable Fundamentals",
       "summary": "Wall Street is overwhelmingly bullish on the stocks in this article, with price targets suggesting significant upside potential. However, it\u2019s worth remembering that analysts rarely issue sell ratings, partly because their firms often seek other business from the same companies they cover.",
@@ -38,25 +45,18 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/dow-jones-rises-659-points-170348947.html"
     },
     {
+      "title": "Software stocks are rising, and these 6 are expected to withstand the AI threat",
+      "summary": "Most software companies are expected to show a slowing pace of sales growth over the next two years. Oracle and DigitalOcean are among the exceptions.",
+      "pub_date": "2026-07-28T16:30:00Z",
+      "source": "MarketWatch",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/software-stocks-rising-6-expected-163000009.html"
+    },
+    {
       "title": "How SAP's AI and Cloud Strategy Is Reshaping Its Growth Outlook Now",
       "summary": "SAP is linking cloud ERP, trusted data and embedded AI to autonomous workflows, but legacy declines and execution risks keep investors cautious.",
       "pub_date": "2026-07-28T15:50:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/saps-ai-cloud-strategy-reshaping-155000779.html"
-    },
-    {
-      "title": "How SAP Is Riding the Enterprise Shift Toward Agentic AI & Cloud ERP",
-      "summary": "SAP is scaling agentic AI and usage-based cloud growth, but profit dilution, rising costs and long sales cycles keep execution risk in focus.",
-      "pub_date": "2026-07-28T15:39:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/sap-riding-enterprise-shift-toward-153900154.html"
-    },
-    {
-      "title": "Salesforce\u2019s (CRM) Impact on AI Deployment in Corporate Environments",
-      "summary": "Night View Capital, an investment management firm, released its second-quarter 2026 investor letter. The letter highlights that AI is a transformative force, comparable to electricity due to its industry-wide impact. A copy of the letter can be downloaded here. Although fears about the software sector have led to significant declines in stock prices, the letter [\u2026]",
-      "pub_date": "2026-07-28T15:32:19Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-impact-ai-deployment-153219870.html"
     }
   ]
 }

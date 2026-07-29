@@ -1,13 +1,20 @@
 {
   "ticker": "PYPL",
-  "generated_at": "2026-07-29T10:34:28.896341+00:00",
+  "generated_at": "2026-07-29T13:55:53.147104+00:00",
   "items": [
     {
-      "title": "Stock market today: Nasdaq bounces back, S&P 500 and Dow rise as earnings, falling oil prices offset chip weakness",
-      "summary": "Concerns about the AI boom's sustainability offset the market impact of falling oil prices and earnings optimism.",
-      "pub_date": "2026-07-28T08:28:32Z",
+      "title": "Earnings live: Humana stock falls, Procter & Gamble dips, with Big Tech earnings on deck",
+      "summary": "Earnings season kicks into high gear this week.",
+      "pub_date": "2026-07-27T11:52:07Z",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-chip-stocks-082832371.html"
+      "url": "https://finance.yahoo.com/markets/live/earnings-live-humana-stock-falls-procter--gamble-dips-with-big-tech-earnings-on-deck-115207214.html"
+    },
+    {
+      "title": "Paypal stock rises as CEO keeps door open on potential deals",
+      "summary": "PayPal posted a solid quarter, while the CEO left the door open to a merger.",
+      "pub_date": "2026-07-28T14:15:54Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/paypal-stock-rises-as-ceo-keeps-door-open-on-potential-deals-141554191.html"
     },
     {
       "title": "Once high-flying PayPal becomes a takeover target as it attempts a turnaround",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-28T21:15:45Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-stock-gains-beat-raise-211545253.html"
-    },
-    {
-      "title": "PayPal CEO signals deal openness but sticks with standalone strategy",
-      "summary": "Stripe and Advent International jointly recently bid $60.50 per share for PayPal, according to media reports. PayPal's board, with advice from Goldman Sachs and Evercore, signaled that the offer price was too low. With PYPL trading at $58.47 as of Tuesday afternoon, investors appear to be pricing in either a sweetened offer or a credible standalone recovery.",
-      "pub_date": "2026-07-28T20:50:25Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-ceo-signals-deal-openness-205025249.html"
     }
   ]
 }

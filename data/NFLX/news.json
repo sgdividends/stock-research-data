@@ -1,7 +1,21 @@
 {
   "ticker": "NFLX",
-  "generated_at": "2026-07-29T10:34:21.970833+00:00",
+  "generated_at": "2026-07-29T13:55:47.690930+00:00",
   "items": [
+    {
+      "title": "Netflix: The Days of Rapid Growth Are Over",
+      "summary": "The streaming leader's Q2 revenue was below what Wall Street was expecting.",
+      "pub_date": "2026-07-29T13:37:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-days-rapid-growth-over-133700732.html"
+    },
+    {
+      "title": "Netflix's Live Content Push: Can it Sustain Subscriber Growth?",
+      "summary": "Netflix's selective live events strategy is boosting subscriber sign-ups, engagement and ads, positioning live programming as a key growth driver.",
+      "pub_date": "2026-07-29T12:26:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/media-advertising/articles/netflixs-live-content-push-sustain-122600678.html"
+    },
     {
       "title": "Down 25%, Is It Finally Time to Buy Netflix (NFLX) Stock?",
       "summary": "Netflix's stock is undervalued relative to its recent history.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-07-28T09:22:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-bac-092200875.html"
-    },
-    {
-      "title": "YouTube\u2019s Peacock Partnership is a Streaming Bundle Breakthrough",
-      "summary": "For YouTube, the partnership is the latest and greatest attempt to trounce Netflix as both seek to become all-in-one entertainment platforms.",
-      "pub_date": "2026-07-28T04:01:00Z",
-      "source": "The Daily Upside",
-      "url": "https://finance.yahoo.com/media-advertising/articles/youtube-peacock-partnership-streaming-bundle-040100265.html"
-    },
-    {
-      "title": "What Wall Street Pushed GOOGL To Explain",
-      "summary": "The numbers were huge, but so were the costs, and analysts wanted to know if Alphabet's large AI spending is building a real moat or just digging a hole.",
-      "pub_date": "2026-07-27T22:10:20Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-pushed-googl-explain-221020420.html"
     }
   ]
 }

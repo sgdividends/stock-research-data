@@ -1,7 +1,14 @@
 {
   "ticker": "ECHO",
-  "generated_at": "2026-07-29T10:34:00.081023+00:00",
+  "generated_at": "2026-07-29T13:55:27.845308+00:00",
   "items": [
+    {
+      "title": "AT&T closes $23 billion EchoStar spectrum acquisition",
+      "summary": "The deal adds roughly 50 MHz of low-band and mid-band spectrum covering nearly every U.S. market to AT&T's holdings",
+      "pub_date": "2026-07-29T12:26:31Z",
+      "source": "Quartz",
+      "url": "https://finance.yahoo.com/technology/articles/t-closes-23-billion-echostar-122631197.html"
+    },
     {
       "title": "AT&T closes $23bn acquisition of spectrum licences from EchoStar",
       "summary": "The deal broadens AT&T\u2019s national spectrum holdings and expands its presence across over 400 US markets.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-22T17:06:22Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/markets/stocks/articles/t-q2-earnings-call-highlights-170622113.html"
-    },
-    {
-      "title": "EchoStar\u2019s Q2 2026 Earnings: What to Expect",
-      "summary": "EchoStar is set to report Q2 earnings later this month, with analysts expecting a significantly narrower loss.",
-      "pub_date": "2026-07-22T11:27:38Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/echostar-q2-2026-earnings-expect-112738040.html"
     }
   ]
 }

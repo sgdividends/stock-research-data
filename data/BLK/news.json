@@ -1,7 +1,14 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-07-29T10:33:49.749111+00:00",
+  "generated_at": "2026-07-29T13:55:17.901985+00:00",
   "items": [
+    {
+      "title": "Tech stocks today: Microsoft and Meta to report earnings, as chip stocks struggle",
+      "summary": "Tech stocks were mixed on Tuesday, as chip stocks continued to selloff ahead of earnings.",
+      "pub_date": "2026-07-27T13:46:11Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-big-tech-earnings-134611080.html"
+    },
     {
       "title": "Meta to report Q2 earnings amid AI investing concerns",
       "summary": "Meta will report its Q2 earnings after the bell on Wednesday.",
@@ -10,53 +17,46 @@
       "url": "https://finance.yahoo.com/news/meta-to-report-q2-earnings-amid-ai-investing-concerns-121325403.html"
     },
     {
+      "title": "Meta and BlackRock Form $14 Billion Venture for Texas AI Data Center",
+      "summary": "Meta and BlackRock form an 80/20 joint venture to build a planned $14 billion AI data center in El Paso, Texas.",
+      "pub_date": "2026-07-29T13:14:23Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-blackrock-form-14-billion-131423376.html"
+    },
+    {
+      "title": "BlackRock (BLK) Is Up 5.7% After $14 Billion Meta AI Data Center Deal - Has The Bull Case Changed?",
+      "summary": "Meta Platforms, Inc. and BlackRock, Inc. recently announced a venture to develop and own a US$14.00 billion, 1\u2011gigawatt data center campus in El Paso, Texas, with funds managed by BlackRock holding an 80% stake and Meta contributing land and construction\u2011in\u2011progress assets valued at about US$2.30 billion. The structure of the deal, including BlackRock\u2019s roughly US$4.90 billion cash contribution and use of a US$12.50 billion debt facility, highlights how large asset managers are increasingly...",
+      "pub_date": "2026-07-29T13:08:08Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/blackrock-blk-5-7-14-130808998.html"
+    },
+    {
+      "title": "Meta (META), BlackRock (BLK) Form $14 Billion AI Data Center Venture\u2014Can It Ease the Cost of Meta\u2019s AI Buildout?",
+      "summary": "Wall Street is taking center stage in financing the AI buildout. On July 28, Meta Platforms, Inc. (NASDAQ: META) and asset \u200cmanager BlackRock, Inc. (NYSE: BLK) announced a venture to develop and operate a one gigawatt data center campus in El Paso, Texas. The project, costing about $14 billion in development, marks the emergence of [\u2026]",
+      "pub_date": "2026-07-29T12:47:07Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-meta-blackrock-blk-form-124707417.html"
+    },
+    {
+      "title": "Can Singapore Create an ASEAN Blackrock?",
+      "summary": "In crypto news today (July 29), Bitcoin climbed +1% overnight, reclaiming $64,000 ahead of today\u2019s FOMC meeting, in which a rate hike is rumored to be on the table. Liquidations have slowed from yesterday, sitting at just over $420M, down from $605M the day before, although the majority of those ...",
+      "pub_date": "2026-07-29T11:03:23Z",
+      "source": "99bitcoins",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/singapore-create-asean-blackrock-110323962.html"
+    },
+    {
+      "title": "Should iShares MSCI USA Min Vol Factor ETF (USMV) Be on Your Investing Radar?",
+      "summary": "Style Box ETF report for USMV",
+      "pub_date": "2026-07-29T10:20:02Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-msci-usa-min-vol-102002253.html"
+    },
+    {
       "title": "Why Are Ethereum ETF Outperforming Bitcoin ETF in 2026?",
       "summary": "Ethereum ETFs pulled in 37,959 ETH, roughly $71.17 million, over the seven days ending July 28, while Bitcoin ETFs shed 3,170 BTC worth $200.23 million over the same stretch. That divergence, reported by Lookonchain using CoinGlass data, marks the third consecutive week of net ETH inflows and raises a direct ...",
       "pub_date": "2026-07-29T09:21:14Z",
       "source": "Cryptonews",
       "url": "https://finance.yahoo.com/markets/crypto/articles/why-ethereum-etf-outperforming-bitcoin-092114091.html"
-    },
-    {
-      "title": "Bitcoin ETFs Bleed While Ethereum Funds Post Third Straight Weekly Inflow",
-      "summary": "Bitcoin ETFs lost 3,170 BTC in a week as Ethereum funds added 37,959 ETH, extending a third straight inflow streak.",
-      "pub_date": "2026-07-29T05:54:51Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-bleed-while-ethereum-055451344.html"
-    },
-    {
-      "title": "HIMS Stock Eyes Comeback After 3-Week Slide: BlackRock Raises Stake, Bulls Bet On Peptide-Fueled Q2 Run",
-      "summary": "BlackRock disclosed ownership of 26.5 million HIMS shares, representing a stake of about 12%.",
-      "pub_date": "2026-07-29T01:33:09Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hims-stock-eyes-comeback-3-013309666.html"
-    },
-    {
-      "title": "Meta Unveils $14 Billion AI Data-Center Venture With BlackRock",
-      "summary": "Meta will retain a 20% interest while BlackRock-managed funds own 80% of the planned El Paso facility.",
-      "pub_date": "2026-07-28T19:36:40Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/meta-unveils-14-billion-ai-193640701.html"
-    },
-    {
-      "title": "Sector Update: Tech Stocks Fall Late Afternoon",
-      "summary": "Tech stocks were lower late Tuesday afternoon, with the State Street Technology Select Sector SPDR E",
-      "pub_date": "2026-07-28T19:31:44Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-afternoon-193144961.html"
-    },
-    {
-      "title": "Invesco Q2 Earnings Call Highlights",
-      "summary": "Invesco (NYSE:IVZ) reported record second-quarter net long-term inflows and higher profitability as demand for ETFs, fixed income, separately managed accounts and private-market strategies helped push assets under management to $2.5 trillion. President and CEO Andrew Schlossberg said the firm gener",
-      "pub_date": "2026-07-28T19:04:24Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-q2-earnings-call-highlights-190424897.html"
-    },
-    {
-      "title": "AI Bond Binge Enters New Era of Weak Demand and Sky-High Prices",
-      "summary": "(Bloomberg) -- For months, Big Tech has flooded debt markets with mega bonds that were initially snatched up by investors keen to get exposure to the artificial intelligence boom. As demand wanes and bubble concerns mount, those deals are becoming harder and costlier to get over the line. Most Read from BloombergChip Rout Deepens on Circular Funding, China Competition FearsNvidia\u2019s $750 Billion in Deals Reignite Circular AI FearsCitadel Securities Sees Warsh Delivering Surprise Fed HikeApple Set",
-      "pub_date": "2026-07-28T18:10:15Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-bond-binge-enters-era-181015249.html"
     }
   ]
 }

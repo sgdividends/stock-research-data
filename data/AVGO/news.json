@@ -1,6 +1,6 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-07-29T10:33:47.611589+00:00",
+  "generated_at": "2026-07-29T13:55:15.872812+00:00",
   "items": [
     {
       "title": "Chip stocks are crashing as the rest of the market barely flinches: AlphaCheck",
@@ -10,6 +10,41 @@
       "url": "https://finance.yahoo.com/markets/article/chip-stocks-are-crashing-as-the-rest-of-the-market-barely-flinches-alphacheck-161342600.html"
     },
     {
+      "title": "SOXQ ETF Is A Sharper Bet Than Its Name Suggests",
+      "summary": "A fund's label tells you the category, but a look at the holdings ledger reveals the actual shape of your investment.",
+      "pub_date": "2026-07-29T13:30:47Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/soxq-etf-sharper-bet-name-133047697.html"
+    },
+    {
+      "title": "Apple Becomes a $5 Trillion Company. Here\u2019s What Comes Next",
+      "summary": "Apple just crossed a threshold no American company has ever reached, and Wall Street is split on whether the stock can keep climbing from here or whether the milestone itself signals a ceiling.",
+      "pub_date": "2026-07-29T13:30:35Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-becomes-5-trillion-company-133035779.html"
+    },
+    {
+      "title": "What Could Push NVDA Stock Higher From Here?",
+      "summary": "While the world focuses on its GPU dominance, the company is mounting a surprise attack on an entirely new market. It is now targeting the CPU space, a category it has never addressed before. This move opens a brand new addressable market, altering the company's growth profile.",
+      "pub_date": "2026-07-29T13:21:21Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/could-push-nvda-stock-higher-132121874.html"
+    },
+    {
+      "title": "Tesla Stock Falls Again, Putting Trillion-Dollar Status at Risk",
+      "summary": "The shares dropped for five consecutive days, including a four-day losing streak since the car maker reported weaker-than-expected second-quarter earnings.",
+      "pub_date": "2026-07-29T11:30:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/tesla-stock-price-trillion-dollars-a53cdd8b?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Only 2 \"Magnificent Seven\" Stocks Are Beating the Market This Year. What's Going On?",
+      "summary": "The market has hit new records this year, but it isn't the \"Magnificent Seven\" stocks that are leading the way.",
+      "pub_date": "2026-07-29T10:35:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/only-2-magnificent-seven-stocks-103500293.html"
+    },
+    {
       "title": "Prediction: 3 Unstoppable Artificial Intelligence (AI) Stocks That Will Join the $2 Trillion Club by 2027 (Hint: Not SpaceX)",
       "summary": "The $2 trillion club is going to get more crowded during the next year.",
       "pub_date": "2026-07-29T09:35:00Z",
@@ -17,46 +52,11 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/prediction-3-unstoppable-artificial-intelligence-093500551.html"
     },
     {
-      "title": "3 Stocks I'm Buying Over SpaceX Right Now",
-      "summary": "Space Exploration Technologies, commonly known as SpaceX, doesn't have any profits to speak of.",
-      "pub_date": "2026-07-29T07:20:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-im-buying-over-072000526.html"
-    },
-    {
-      "title": "EXCLUSIVE: After Nvidia And SK Hynix, These 3 AI Stocks Could Be The Next Winners, CEO Says",
-      "summary": "The first wave of the AI boom crowned Nvidia Corp. and memory leader SK Hynix Inc. as Wall Street\u2019s biggest winners. But as AI infrastructure spending broadens, the next opportunities may lie deeper in the supply chain. GraniteShares CEO Will...",
-      "pub_date": "2026-07-28T22:00:27Z",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-nvidia-sk-hynix-3-220027741.html"
-    },
-    {
-      "title": "How Far Could Marvell Technology Stock Actually Fall From Here?",
-      "summary": "A stock that historically falls harder than the market during market-wide shocks is trading well below its own high, and its own shock record says how deep and how long a real drawdown could run.",
-      "pub_date": "2026-07-28T21:32:05Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/far-could-marvell-technology-stock-213205932.html"
-    },
-    {
-      "title": "Qualcomm\u2019s (QCOM) Samsung Expansion and AI Deals Could Reshape Its Growth Story",
-      "summary": "Qualcomm Incorporated (NASDAQ:QCOM) is entering a new phase of growth as two major catalysts\u2014the expansion of its Samsung partnership and its push into AI infrastructure\u2014 begin reshaping the company\u2019s long-term outlook. Samsung Partnership Strengthens Premium Smartphone Leadership Its expanded collaboration with Samsung paves the way for Snapdragon platforms to power Samsung\u2019s latest Galaxy smartphones, smart [\u2026]",
-      "pub_date": "2026-07-28T20:11:24Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-samsung-expansion-ai-201124878.html"
-    },
-    {
-      "title": "Chip Stocks Extend Pullback Amid AI Bubble Fears",
-      "summary": "Shares of a number of chipmakers are falling, extending a rough stretch for the AI trade and dragging the Nasdaq lower.",
-      "pub_date": "2026-07-28T20:09:59Z",
-      "source": "Investopedia",
-      "url": "https://finance.yahoo.com/technology/articles/chip-stocks-extend-pullback-amid-200959119.html"
-    },
-    {
-      "title": "Intel Posted A Big Beat And Still Fell, And Its Spending Plan Is Why",
-      "summary": "A quarter that nearly doubled expected profit still could not outweigh a rising capital bill, a softer profit guide, and a foundry deep in the red.",
-      "pub_date": "2026-07-28T19:44:52Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-posted-big-beat-still-194452473.html"
+      "title": "AI Boom Spurs Insider Selling by Nvidia, CoreWeave Billionaires",
+      "summary": "(Bloomberg) -- Executives and investors tied to the AI supply chain were among the biggest insider sellers in the second quarter, taking advantage of a sharp \u2014 and volatile \u2014 rally in technology stocks.Most Read from BloombergUS Intercepts Iran Attack on Bases, Puncturing Days of CalmSK Hynix Profit Disappoints, Spending Soars to $31 BillionNvidia\u2019s $750 Billion in Deals Reignite Circular AI FearsChip Rout Deepens on Circular Funding, China Competition FearsApple Set to Make Big Smart Home Push",
+      "pub_date": "2026-07-29T09:30:01Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-boom-spurs-insider-selling-093001674.html"
     }
   ]
 }

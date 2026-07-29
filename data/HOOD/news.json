@@ -1,6 +1,6 @@
 {
   "ticker": "HOOD",
-  "generated_at": "2026-07-29T10:34:09.266227+00:00",
+  "generated_at": "2026-07-29T13:55:36.569552+00:00",
   "items": [
     {
       "title": "S&P 8,500 melt-up? Why money is leaving big tech",
@@ -8,6 +8,13 @@
       "pub_date": "2026-07-29T10:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/p-8-500-melt-why-100000793.html"
+    },
+    {
+      "title": "Should Investors Consider StoneX Stock After Its Impressive YTD Rally?",
+      "summary": "SNEX's 75.7% YTD rally reflects strong earnings prospects and diversified growth, but its premium valuation suggests investors should await a pullback.",
+      "pub_date": "2026-07-29T12:41:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-consider-stonex-stock-impressive-124100457.html"
     },
     {
       "title": "Nasdaq, S&P 500 Futures Mixed Ahead Of Fed Verdict, Microsoft And Meta Earnings As Oil Extends Rally: Why SKHY, SPCX, HOOD, BE Are In Focus",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-28T20:07:00Z",
       "source": "Fortune",
       "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-robinhood-locked-heated-battle-200700382.html"
-    },
-    {
-      "title": "Robinhood Chain\u2019s Trading Volumes Slump As Memecoin Interest Fades",
-      "summary": "Trading volumes on the Robinhood (NASDAQ: $HOOD) Chain platform are slumping as investor interest in memecoins fade...",
-      "pub_date": "2026-07-28T19:43:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/robinhood-chain-trading-volumes-slump-194300191.html"
     }
   ]
 }

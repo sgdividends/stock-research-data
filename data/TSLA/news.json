@@ -1,13 +1,20 @@
 {
   "ticker": "TSLA",
-  "generated_at": "2026-07-29T10:34:36.268123+00:00",
+  "generated_at": "2026-07-29T13:56:00.024228+00:00",
   "items": [
     {
-      "title": "Mag 7 earnings: Alphabet 'really set the tone,' strategist says",
-      "summary": "Meta Platforms (META), Microsoft (MSFT), Amazon (AMZN), and Apple (AAPL) are the next Big Tech names \u2014 part of the Magnificent Seven \u2014 to report quarterly earnings results this week. Zacks Investment Research stock strategist Ethan Feller weighs in on investors' expectations for these Magnificent Seven member stocks.",
-      "pub_date": "2026-07-28T19:46:21Z",
+      "title": "Earnings live: Humana stock falls, Procter & Gamble dips, with Big Tech earnings on deck",
+      "summary": "Earnings season kicks into high gear this week.",
+      "pub_date": "2026-07-27T11:52:07Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/earnings-live-humana-stock-falls-procter--gamble-dips-with-big-tech-earnings-on-deck-115207214.html"
+    },
+    {
+      "title": "CLARITY Act hits summer roadblock",
+      "summary": "Scott Melker dives into the roadblocks delaying the CLARITY Act, CME\u2019s expansion into near round-the-clock futures trading, and the surge in blockchain activity as token prices cool. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.",
+      "pub_date": "2026-07-28T15:57:43Z",
       "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/mag-7-earnings-alphabet-really-set-the-tone-strategist-says-194621871.html"
+      "url": "https://finance.yahoo.com/video/clarity-act-hits-summer-roadblock-155743444.html"
     },
     {
       "title": "Tesla stock hasn't been this oversold in more than a year",
@@ -17,46 +24,39 @@
       "url": "https://finance.yahoo.com/markets/stocks/article/tesla-stock-hasnt-been-this-oversold-in-more-than-a-year-143054225.html"
     },
     {
-      "title": "Tesla, ContourGlobal sign 1TWh/year PPA for Project Sterling in Arizona",
-      "summary": "Under the agreement, Tesla will receive around 90% of the plant\u2019s annual output, bundled with RECs.",
-      "pub_date": "2026-07-29T08:53:54Z",
-      "source": "Power Technology",
-      "url": "https://finance.yahoo.com/energy/articles/tesla-contourglobal-sign-1twh-ppa-085354282.html"
+      "title": "Nvidia's Latest Rebound Comes With Fresh Support",
+      "summary": "Cathie Wood added to her position as analysts maintained a bullish long-term outlook.",
+      "pub_date": "2026-07-29T13:47:54Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-latest-rebound-comes-fresh-134754085.html"
     },
     {
-      "title": "Zacks Investment Ideas feature highlights: Nasdaq 100 Index ETF, Microsoft, Meta Platforms, Tesla and Alphabet",
-      "summary": "QQQ rebounded with Wall Street as investors brace for a pivotal Wednesday featuring Big Tech earnings and a Fed rate decision that could drive market volatility.",
-      "pub_date": "2026-07-29T07:56:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-075600832.html"
+      "title": "ARK Buys Millions In Falling Space Names. SpaceX Preps Classified Mission.",
+      "summary": "Cathie Wood, ARK load up on SpaceX, Rocket Lab, other falling space stocks. SpaceX readies to launch classified mission for U.S. government.",
+      "pub_date": "2026-07-29T13:40:41Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/cathie-wood-ark-invest-spacex-space-stocks-rocket-lab-kratos-intuitive-machines-tesla-space-force/?src=A00220&yptr=yahoo"
     },
     {
-      "title": "Binance Adds 10 More Tokenized Stocks to Its bStocks Lineup",
-      "summary": "Binance will list 10 new bStock pairs, including Apple and Amazon, with zero maker fees running until August 31.",
-      "pub_date": "2026-07-29T07:27:09Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/binance-adds-10-more-tokenized-072709446.html"
+      "title": "Ford Jumps 6%, Outstrips GM and Tesla on Q2 Earnings Beat, Raised 2026 Guidance, Citi Upgrade",
+      "summary": "Ford surged past both Detroit and Silicon Valley rivals in a single session, driven by a confluence of factors that rarely align this cleanly for a legacy automaker carrying fresh EV write-downs and a bruising GAAP loss.",
+      "pub_date": "2026-07-29T13:19:22Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ford-jumps-6-outstrips-gm-131922055.html"
     },
     {
-      "title": "A Potential Tesla-SpaceX Merger Could Create \u2018Orbit-To-Ground\u2019 AI Powerhouse With Over $1 Trillion In Chip Savings, Says Analyst",
-      "summary": "UBS estimates SpaceX could spend about $135 billion on wafer-fab equipment over five years for Terafab.",
-      "pub_date": "2026-07-29T07:17:53Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/potential-tesla-spacex-merger-could-071753705.html"
+      "title": "Direxion unveils options income ETF suite tied to Nvidia, Tesla and other megacap",
+      "summary": "Investing.com -- Direxion on Wednesday launched a new family of exchange-traded funds designed to generate income by writing call options on individual high-volatility stocks, expanding beyond its traditional leveraged and inverse ETF offerings.",
+      "pub_date": "2026-07-29T13:19:14Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/options/articles/direxion-unveils-options-income-etf-131914251.html"
     },
     {
-      "title": "Cathie Wood\u2019s ARK Loads Up On Musk\u2019s SpaceX, Tesla Again As US Tightens Its Grip On AI Competition With Robotics Curbs",
-      "summary": "Wood remains highly bullish on SpaceX, calling it a potential \u201cmost important company in global history.\u201d",
-      "pub_date": "2026-07-29T05:24:38Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-ark-loads-musk-052438863.html"
-    },
-    {
-      "title": "Asian stock rout deepens as AI worries grip markets",
-      "summary": "By Ankur Banerjee SINGAPORE, July 29 (Reuters) - Asian stocks sank on Wednesday, extending a vicious selloff as anxiety about AI valuations and whether the massive spending will deliver returns",
-      "pub_date": "2026-07-29T05:20:24Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/news/asian-stocks-stabilise-rout-ahead-012705415.html"
+      "title": "SpaceX Vs. HawkEye, Cerebrus: Comparing 2026 IPOs",
+      "summary": "SpaceX stock is down over 50% from a short-lived peak just a few days after it went public. Here's what investors can expect for its future.",
+      "pub_date": "2026-07-29T12:56:05Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/spacex-ipo-elon-musk-sk-hynix-cerebras-bill-ackman-pershing-square/?src=A00220&yptr=yahoo"
     }
   ]
 }
