@@ -1,7 +1,14 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-07-29T17:09:05.237720+00:00",
+  "generated_at": "2026-07-29T20:47:16.672567+00:00",
   "items": [
+    {
+      "title": "Nvidia, Micron, AMD sink after SK Hynix results fail to impress, AI trade unwinds",
+      "summary": "The semiconductor sector plummeted on Wednesday as SK Hynix reported a record second quarter operating profit, which fell short of lofty expectations.",
+      "pub_date": "2026-07-29T13:03:52Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-micron-amd-sink-after-sk-hynix-results-fail-to-impress-ai-trade-unwinds-130352334.html"
+    },
     {
       "title": "The CLARITY Act divides finance giants ahead of congressional recess",
       "summary": "Scott Melker breaks down the growing divide on Wall Street over the CLARITY Act, as BlackRock (BLK), Fidelity (FIS), Goldman Sachs (GS), and SoFi (SOFI) publicly back the crypto market structure bill just one week before Congress heads into recess. Melker also discusses Morgan Stanley (MS) offering new ethereum (ETH-USD), Solana (SOL-USD) ETFs aunds, and what the latest developments mean for investors. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.",
@@ -10,53 +17,46 @@
       "url": "https://finance.yahoo.com/video/the-clarity-act-divides-finance-giants-ahead-of-congressional-recess-164157901.html"
     },
     {
-      "title": "Chip selloff overblown, UBS says, downplaying \"circular financing\" fears",
-      "summary": "Semiconductors are caught in a selloff UBS thinks is overblown. The bank argues that fears over \"circular financing\" in AI infrastructure deals misread who's actually cashing in on the buildout, and it's the chip supply chain, not the hyperscalers, footing the bill. The commentary follows...",
-      "pub_date": "2026-07-29T16:42:00Z",
-      "source": "Proactive",
-      "url": "https://finance.yahoo.com/technology/articles/chip-selloff-overblown-ubs-says-164200300.html"
+      "title": "AMD's Core Scientific deal is bigger than the headline number",
+      "summary": "Nine months ago, Core Scientific shareholders turned down real money. They rejected a $9 billion buyout offer from CoreWeave, according to CNBC. Shareholders bet the company was worth more standing alone. On Tuesday, that bet started to look prescient. AMD agreed to lease more than 500 megawatts of ...",
+      "pub_date": "2026-07-29T19:13:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amds-core-scientific-deal-bigger-191300006.html"
     },
     {
-      "title": "Why AMD (AMD) and Core Scientific (CORZ) Are Pairing AI Chips With Up to 2.5 Gigawatts",
-      "summary": "Advanced Micro Devices, Inc. (NASDAQ:AMD) and Core Scientific, Inc. (NASDAQ:CORZ) announced an infrastructure partnership on July 28 that starts with more than 500 megawatts of U.S. data center capacity in 2027 and can expand to 2.5 gigawatts. The commercial link is a deployment bottleneck. AI accelerators cannot generate revenue without energized land, cooling, networking, and [\u2026]",
-      "pub_date": "2026-07-29T16:37:03Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/why-amd-amd-core-scientific-163703591.html"
-    },
-    {
-      "title": "Intel Continues to Get Pummeled: Why One Analyst Maintains His Conviction That 130% Gains Will Come",
-      "summary": "A Chinese IPO just torched the entire memory sector in a single session, and one analyst is doubling down on a price target that implies 168% gains from here. The bull and bear cases for Micron have never been further apart.",
-      "pub_date": "2026-07-29T16:18:16Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-continues-pummeled-why-one-161816078.html"
-    },
-    {
-      "title": "The AI Trade Is Still On: Why Nvidia Remains at the Center of It",
-      "summary": "Nvidia has already handed investors a 14,797% return over the past decade, yet the forces driving that run show no sign of exhausting themselves. Whether the next leg holds depends on a few fault lines most bulls are not watching closely enough.",
-      "pub_date": "2026-07-29T15:00:58Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-trade-still-why-nvidia-150058899.html"
-    },
-    {
-      "title": "Wedbush Says AMD Deal Comes With a Catch",
-      "summary": "AMD's expansion strategy comes with a familiar AI risk.",
-      "pub_date": "2026-07-29T14:02:54Z",
+      "title": "AMD Stock Drops 5.7% as AI Rout Overwhelms 2.5-Gigawatt Deal",
+      "summary": "AMD secured substantial data-center capacity, but the agreement failed to insulate its shares from the global semiconductor selloff.",
+      "pub_date": "2026-07-29T18:36:08Z",
       "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wedbush-says-amd-deal-comes-140254104.html"
+      "url": "https://finance.yahoo.com/technology/articles/amd-stock-drops-5-7-183608429.html"
     },
     {
-      "title": "What Could Push NVDA Stock Higher From Here?",
-      "summary": "While the world focuses on its GPU dominance, the company is mounting a surprise attack on an entirely new market. It is now targeting the CPU space, a category it has never addressed before. This move opens a brand new addressable market, altering the company's growth profile.",
-      "pub_date": "2026-07-29T13:21:21Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/could-push-nvda-stock-higher-132121874.html"
+      "title": "Nasdaq, S&P 500 Fall 1%, Dow Sinks 900 Points Ahead of Fed Decision",
+      "summary": "Wall Street Selloff Deepens as Oil Soars and Fed Decision Looms",
+      "pub_date": "2026-07-29T18:31:29Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-fall-1-183129628.html"
     },
     {
-      "title": "Eliyan raises $145 million at $1 billion valuation to ease AI chip data bottlenecks",
-      "summary": "Eliyan, a startup that aims to ease the bottlenecks in transferring data between AI chips in data centers, \u200csaid on Wednesday it had raised $145 million in venture funding at a $1 billion \u200cvaluation.  Cisco Systems, Lumentum and an early investor in networking pioneer Mellanox before its sale to Nvidia backed the raising, \u200baccording to Santa Clara, California-based Eliyan.  The startup is developing technology aimed at the growing list of companies that are developing their own custom AI computing chips to compete with graphics processing units from Nvidia and Advanced Micro Devices.",
-      "pub_date": "2026-07-29T13:06:37Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/ai/articles/eliyan-raises-145-million-1-130637741.html"
+      "title": "Why AMD and Core Scientific's $14 billion AI partnership is a turning point",
+      "summary": "Scott Melker breaks down Core Scientific's (CORZ) 15-year, $14 billion infrastructure partnership with AMD (AMD), arguing the deal underscores a major shift: AI infrastructure is proving to be a more lucrative business than bitcoin (BTC-USD) mining. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.",
+      "pub_date": "2026-07-29T18:30:00Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/video/why-amd-core-scientifics-14-183000053.html"
+    },
+    {
+      "title": "Nvidia, AMD, Micron Lead Chip Stocks Selloff as SK hynix Earnings Disappoint",
+      "summary": "Chip Stocks Tumble as SK hynix Miss Overshadows AI Demand Strength",
+      "pub_date": "2026-07-29T18:22:55Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/articles/nvidia-amd-micron-lead-chip-182255155.html"
+    },
+    {
+      "title": "I\u2019m Loading Up on AMD Because It Proves That Coming in Second Place Creates Asymmetric Upside",
+      "summary": "Second place in AI chips sounds like a consolation prize until you see who is writing the checks to keep it alive. Here is why the challenger seat looks more attractive than the throne right now.",
+      "pub_date": "2026-07-29T17:59:17Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/m-loading-amd-because-proves-175917468.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "DELL",
-  "generated_at": "2026-07-29T17:09:19.336616+00:00",
+  "generated_at": "2026-07-29T20:47:35.750545+00:00",
   "items": [
+    {
+      "title": "Apple's Q3 Earnings: Strong iPhone 17 Shipment to Aid Top-Line Growth",
+      "summary": "AAPL's fiscal Q3 sales may gain from strong iPhone 17 demand, while Mac growth offsets tougher iPad comparisons and supply limits.",
+      "pub_date": "2026-07-29T15:59:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apples-q3-earnings-strong-iphone-155900810.html"
+    },
     {
       "title": "Dell Technologies (DELL) Joins Open Source AI Cybersecurity Alliance",
       "summary": "Dell Technologies joined an industry coalition to launch an open-source AI cybersecurity alliance. The alliance aims to share tools and research to improve AI driven threat detection and defense. This move broadens Dell Technologies' role in AI beyond infrastructure into security focused collaboration. Dell Technologies, listed as NYSE:DELL, is adding a new angle to its AI story with this open-source cybersecurity alliance. The company is already on many investors' radars, with the share...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-28T20:37:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/stock-movers-c1b8b940?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Dell Stock Crashes as AI Server Boom Faces New Margin Concerns",
-      "summary": "Dell Stock Tumbles After Analyst Warns of AI Server Risks",
-      "pub_date": "2026-07-28T19:56:48Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-crashes-ai-server-195648777.html"
     }
   ]
 }

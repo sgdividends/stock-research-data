@@ -1,7 +1,14 @@
 {
   "ticker": "DASH",
-  "generated_at": "2026-07-29T17:09:18.570109+00:00",
+  "generated_at": "2026-07-29T20:47:34.912580+00:00",
   "items": [
+    {
+      "title": "DoorDash Gets FAA Approval to Fly Delivery Drones",
+      "summary": "Investors greeted the news with a shrug, a pop, and then a full refund of that pop",
+      "pub_date": "2026-07-29T18:34:39Z",
+      "source": "Moby",
+      "url": "https://finance.yahoo.com/technology/articles/doordash-gets-faa-approval-fly-183439963.html"
+    },
     {
       "title": "DoorDash launches DoorDash Air drone delivery after FAA certification",
       "summary": "DoorDash becomes the eighth operator in the U.S. to earn Part 135 air carrier certification, authorizing commercial drone delivery",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-27T20:37:02Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-quality-compounders-own-decades-203702235.html"
-    },
-    {
-      "title": "Joins Industry Coalition to Launch Open Source AI Cybersecurity Alliance",
-      "summary": "Nvidia (NVDA) is leading an initiative among a number of companies advocating for open-source AI too",
-      "pub_date": "2026-07-27T11:23:55Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/ai/articles/joins-industry-coalition-launch-open-112355572.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "BNY",
-  "generated_at": "2026-07-29T17:09:10.193003+00:00",
+  "generated_at": "2026-07-29T20:47:23.730740+00:00",
   "items": [
+    {
+      "title": "Bank of New York sends major update for its investors",
+      "summary": "BNY, the world's largest custodian bank with $59.4 trillion in assets under custody and administration as of March 2026, has launched new digital transfer agency capabilities aimed at supporting funds built natively on blockchain. The service, called Digital TA, extends BNY's existing fund ...",
+      "pub_date": "2026-07-29T18:19:44Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bank-york-sends-major-investors-181944071.html"
+    },
     {
       "title": "BNY moves $8.6T fund business onchain",
       "summary": "BNY is bringing its transfer agency business \u2014 which services about $8.6 trillion across 7.6 million accounts \u2014 onto the blockchain, with Baillie Gifford, BlackRock and Dreyfus lined up to use it. It's one of Wall Street's biggest bets yet on tokenized funds. CoinDesk's Jennifer Sanasie hosts \"CoinDesk Daily.\"",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-20T20:23:56Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/ai-energy-infrastructure-stocks-buy-points/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "FNB Q2 Earnings Meet Estimates, Revenues Rise Y/Y to Record Levels",
-      "summary": "F.N.B. Corp posts record Q2 revenues. Earnings meet estimates, fueled by higher net interest income, stronger fee income and lower credit loss provisions.",
-      "pub_date": "2026-07-17T14:37:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fnb-q2-earnings-meet-estimates-143700150.html"
     }
   ]
 }

@@ -1,7 +1,21 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-07-29T17:09:17.099467+00:00",
+  "generated_at": "2026-07-29T20:47:33.251900+00:00",
   "items": [
+    {
+      "title": "Varonis Q2 Earnings Surpass Expectations, Revenues Rise Y/Y",
+      "summary": "VRNS tops Q2 earnings and revenue estimates as SaaS growth, AI security demand and a higher full-year outlook fuel confidence in its growth trajectory.",
+      "pub_date": "2026-07-29T16:00:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/varonis-q2-earnings-surpass-expectations-160000130.html"
+    },
+    {
+      "title": "NXP Semiconductors Q2 Earnings Beat Estimates, Revenues Rise Y/Y",
+      "summary": "NXPI posts Q2 earnings and revenue beats as automotive, industrial and AI data center demand lift growth, with strong Q3 guidance adding momentum.",
+      "pub_date": "2026-07-29T15:56:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-q2-earnings-beat-155600195.html"
+    },
     {
       "title": "The Volatility Warning Embedded in Cisco Stock",
       "summary": "Beneath the surface of its recent run, the market is pricing a notably wide range of outcomes for the networking giant, a risk you carry whether you trade options or not.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-07-29T10:19:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/visa-earnings-stock-price-layoffs-8325a733?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Zacks Industry Outlook Highlights Cisco Systems, Extreme Networks and Digi International",
-      "summary": "Cisco Systems leads networking stocks benefiting from AI infrastructure demand, despite industry headwinds from cautious IT spending and supply-chain uncertainty.",
-      "pub_date": "2026-07-29T08:52:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-cisco-085200540.html"
-    },
-    {
-      "title": "Arista Networks Stock And The Price Tag That Fades Over Time",
-      "summary": "The networking giant's shares carry a premium, but a look two years into the future reveals a valuation that is far more ordinary.",
-      "pub_date": "2026-07-28T23:40:09Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-stock-price-tag-234009062.html"
     }
   ]
 }
