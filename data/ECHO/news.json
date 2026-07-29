@@ -1,7 +1,14 @@
 {
   "ticker": "ECHO",
-  "generated_at": "2026-07-29T06:26:43.974113+00:00",
+  "generated_at": "2026-07-29T10:34:00.081023+00:00",
   "items": [
+    {
+      "title": "AT&T closes $23bn acquisition of spectrum licences from EchoStar",
+      "summary": "The deal broadens AT&T\u2019s national spectrum holdings and expands its presence across over 400 US markets.",
+      "pub_date": "2026-07-29T08:52:24Z",
+      "source": "Verdict",
+      "url": "https://finance.yahoo.com/technology/articles/t-closes-23bn-acquisition-5g-085224945.html"
+    },
     {
       "title": "AT&T closes $23 billion deal to acquire spectrum from Echostar",
       "summary": "July 28 (Reuters) - AT&T on Tuesday said it completed its $23 billion acquisition of some wireless spectrum licenses from EchoStar under a deal announced in August 2025.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-22T11:27:38Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/echostar-q2-2026-earnings-expect-112738040.html"
-    },
-    {
-      "title": "EchoStar (ECHO) Stock Looks Cheap On Cash Flow As Sales Stay Rich",
-      "summary": "EchoStar stock has delivered a very large 3-year gain, yet the valuation picture is split, with a Discounted Cash Flow (DCF) intrinsic value estimate pointing to meaningful upside while market-based multiples paint the shares as expensive. EchoStar has returned about 380.7% over the past 3 years, which puts extra attention on whether the current price still leaves room for a reasonable margin of safety. Recent analyst focus on the value of EchoStar's SpaceX stake and spectrum assets can...",
-      "pub_date": "2026-07-18T16:09:14Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/echostar-echo-stock-looks-cheap-160914858.html"
     }
   ]
 }

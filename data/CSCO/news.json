@@ -1,7 +1,14 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-07-29T06:26:40.107954+00:00",
+  "generated_at": "2026-07-29T10:33:56.095399+00:00",
   "items": [
+    {
+      "title": "Zacks Industry Outlook Highlights Cisco Systems, Extreme Networks and Digi International",
+      "summary": "Cisco Systems leads networking stocks benefiting from AI infrastructure demand, despite industry headwinds from cautious IT spending and supply-chain uncertainty.",
+      "pub_date": "2026-07-29T08:52:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-cisco-085200540.html"
+    },
     {
       "title": "Arista Networks Stock And The Price Tag That Fades Over Time",
       "summary": "The networking giant's shares carry a premium, but a look two years into the future reveals a valuation that is far more ordinary.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-28T14:20:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/amkor-technology-q2-earnings-beat-142000617.html"
-    },
-    {
-      "title": "3 Stocks to Consider From Networking Industry Battered by Headwinds",
-      "summary": "Amid macro headwinds and margin pressures, CSCO, EXTR and DGII ride on multiple tailwinds",
-      "pub_date": "2026-07-28T14:08:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-consider-networking-industry-140800779.html"
     }
   ]
 }

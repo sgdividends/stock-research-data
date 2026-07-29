@@ -1,6 +1,6 @@
 {
   "ticker": "AMAT",
-  "generated_at": "2026-07-29T06:26:29.196997+00:00",
+  "generated_at": "2026-07-29T10:33:45.083513+00:00",
   "items": [
     {
       "title": "Micron, SK Hynix stocks sink as AI chip sell-off deepens",
@@ -8,6 +8,13 @@
       "pub_date": "2026-07-28T12:56:22Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/micron-sk-hynix-stocks-sink-as-ai-chip-sell-off-deepens-125622548.html"
+    },
+    {
+      "title": "Kulicke and Soffa, Applied Materials, AMD, Intel, and KLA Corporation Stocks Trade Down, What You Need To Know",
+      "summary": "A number of semiconductor stocks continued to pull back amid a broad global sell-off, fueled by concerns over increased competition from China and growing doubts about the sustainability of AI-related demand.",
+      "pub_date": "2026-07-29T10:13:02Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/kulicke-soffa-applied-materials-amd-101302909.html"
     },
     {
       "title": "Is Amkor Technology Stock A Smart Buy Right Now",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-28T13:30:54Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/articles/applied-materials-amat-rose-ai-133054061.html"
-    },
-    {
-      "title": "HSBC Delivers Massive Price Target Hike for Applied Materials Stock",
-      "summary": "Top Bank Turns More Bullish on Applied Materials as AI Chip Boom Grows",
-      "pub_date": "2026-07-28T12:23:53Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-delivers-massive-price-target-122353410.html"
     }
   ]
 }

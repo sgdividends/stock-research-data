@@ -1,6 +1,6 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-07-29T06:26:29.417035+00:00",
+  "generated_at": "2026-07-29T10:33:45.500273+00:00",
   "items": [
     {
       "title": "Micron, SK Hynix stocks sink as AI chip sell-off deepens",
@@ -10,18 +10,32 @@
       "url": "https://finance.yahoo.com/markets/article/micron-sk-hynix-stocks-sink-as-ai-chip-sell-off-deepens-125622548.html"
     },
     {
+      "title": "Dow Jones Futures Fall, Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Are AI Earnings Movers",
+      "summary": "Futures fell as oil prices jumped on an Iran news. Seagate, SK Hynix, KLA, Bloom Energy are key earnings late. Will the Fed surprise?",
+      "pub_date": "2026-07-29T10:26:51Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-seagate-sk-hynix-kla-bloom-energy-earnings-fed-meeting/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Kulicke and Soffa, Applied Materials, AMD, Intel, and KLA Corporation Stocks Trade Down, What You Need To Know",
+      "summary": "A number of semiconductor stocks continued to pull back amid a broad global sell-off, fueled by concerns over increased competition from China and growing doubts about the sustainability of AI-related demand.",
+      "pub_date": "2026-07-29T10:13:02Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/kulicke-soffa-applied-materials-amd-101302909.html"
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights Alphabet, Advanced Micro Devices and RTX",
+      "summary": "Alphabet's AI momentum across Search and Cloud, alongside updates on AMD and RTX, highlights growth opportunities and key execution risks investors are watching.",
+      "pub_date": "2026-07-29T09:13:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-alphabet-091300399.html"
+    },
+    {
       "title": "Core Scientific (CORZ) Stock Looks Above Fair Value After A Big AI Deal",
       "summary": "Core Scientific stock has delivered a strong 57.3% return over the past year, yet the current valuation checks and market multiples suggest the shares are not obviously cheap. With a low overall value score and concerns about execution on large AI infrastructure commitments, investors are weighing how much optimism is already in the price. Over the past 12 months, Core Scientific has returned 57.3%, which puts recent weakness into context for anyone looking at the stock after the pullback in...",
       "pub_date": "2026-07-29T05:06:50Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/core-scientific-corz-stock-looks-050650193.html"
-    },
-    {
-      "title": "Dow Jones Futures: Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Earnings Late",
-      "summary": "Futures fell as oil prices jumped on an Iran news. Seagate, SK Hynix, KLA, Bloom Energy are key earnings late. Will the Fed surprise?",
-      "pub_date": "2026-07-29T03:06:28Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-seagate-sk-hynix-kla-bloom-energy-earnings-fed-meeting/?src=A00220&yptr=yahoo"
     },
     {
       "title": "Advanced Micro Devices vs. BigBear.ai: Which Technology Stock Is a Better Buy in 2026?",
@@ -43,20 +57,6 @@
       "pub_date": "2026-07-28T21:32:05Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/far-could-marvell-technology-stock-213205932.html"
-    },
-    {
-      "title": "Core Scientific Inc (CORZ) Q2 2026 Earnings Call Highlights: Strategic Partnerships and Robust ...",
-      "summary": "Core Scientific Inc (CORZ) reports strong financial stability and strategic advancements with a major AMD partnership, despite challenges in transitioning from Bitcoin mining.",
-      "pub_date": "2026-07-28T21:01:46Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/core-scientific-inc-corz-q2-210146604.html"
-    },
-    {
-      "title": "Corning, ASML, SK Hynix, PayPal, UPS, Dell, and More Stocks That Explain Today\u2019s Market",
-      "summary": "ASML, Sandisk, and other AI stocks struggle as investors fret over rising costs and competition from China.",
-      "pub_date": "2026-07-28T20:37:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-c1b8b940?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

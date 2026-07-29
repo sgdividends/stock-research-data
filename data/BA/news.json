@@ -1,6 +1,6 @@
 {
   "ticker": "BA",
-  "generated_at": "2026-07-29T06:26:33.036611+00:00",
+  "generated_at": "2026-07-29T10:33:48.255036+00:00",
   "items": [
     {
       "title": "Stock market today: Nasdaq bounces back, S&P 500 and Dow rise as earnings, falling oil prices offset chip weakness",
@@ -8,6 +8,13 @@
       "pub_date": "2026-07-28T08:28:32Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-july-28-dow-sp-500-nasdaq-chip-stocks-082832371.html"
+    },
+    {
+      "title": "Could the Most Radical Plane Design Since the Concorde Take On Boeing?",
+      "summary": "JetZero\u2019s blended-wing aircraft, the Z4, just got a boost from Washington: a $3 billion loan commitment to help start production.",
+      "pub_date": "2026-07-29T09:30:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/could-the-most-radical-plane-design-since-the-concorde-take-on-boeing-abd9a6ce?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Boeing (BA) Is Up 8.2% After Narrower Loss, Cash-Flow Reaffirmation And FAA Milestone - What's Changed",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-28T20:37:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/boeing-earnings-stock-price-228776d8?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Stocks Settle Mostly Higher on Positive Earnings Results",
-      "summary": "The S&P 500 Index ($SPX ) (SPY ) on Tuesday closed up +0.21%, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up +1.03%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down -0.98%. September E-mini S&P futures (ESU26 ) rose +0.24%, and September E-mini Nasdaq futures...",
-      "pub_date": "2026-07-28T20:33:51Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-mostly-higher-positive-203351910.html"
     }
   ]
 }
