@@ -1,7 +1,21 @@
 {
   "ticker": "PANW",
-  "generated_at": "2026-07-29T13:55:50.244825+00:00",
+  "generated_at": "2026-07-29T17:09:50.780070+00:00",
   "items": [
+    {
+      "title": "'Unprecedented' OpenAI Cyberattack Brings Palo Alto, CrowdStrike Into Focus",
+      "summary": "The OpenAI cyberattack brought Palo Alto stock and CrowdStrike into focus amid the \"unprecedented\" Hugging Face break-in.",
+      "pub_date": "2026-07-29T16:08:25Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/research/ibd-industry-themes/openai-cyberattack-palo-alto-stock-crowdstrike/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "The Volatility Warning Embedded in Cisco Stock",
+      "summary": "Beneath the surface of its recent run, the market is pricing a notably wide range of outcomes for the networking giant, a risk you carry whether you trade options or not.",
+      "pub_date": "2026-07-29T13:43:54Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/volatility-warning-embedded-cisco-stock-134354816.html"
+    },
     {
       "title": "Palo Alto Networks (PANW) Stock Could Be Pricey After Fresh AI Security Demand",
       "summary": "Palo Alto Networks has delivered a very large 5 year return, yet the current valuation checks suggest the stock no longer looks obviously cheap, with the Discounted Cash Flow (DCF) estimate sitting close to the market price while traditional multiples lean rich. Palo Alto Networks has returned about 375.6% over 5 years, which sets a high bar for any new buyers looking for further gains from here. Growing focus on AI driven cybersecurity and recent product moves around observability can...",
@@ -43,20 +57,6 @@
       "pub_date": "2026-07-27T13:45:23Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ciscos-big-run-actually-adds-134523037.html"
-    },
-    {
-      "title": "Joins Industry Coalition to Launch Open Source AI Cybersecurity Alliance",
-      "summary": "Nvidia (NVDA) is leading an initiative among a number of companies advocating for open-source AI too",
-      "pub_date": "2026-07-27T11:23:55Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/ai/articles/joins-industry-coalition-launch-open-112355572.html"
-    },
-    {
-      "title": "Nvidia's New AI Security Alliance Unites Microsoft, SpaceX, IBM To Push Open-Source Defense \u2013 But Meta's Missing From The List",
-      "summary": "Nvidia assembled nearly 40 tech and cybersecurity giants for a new open-source AI defense coalition, but Meta was not among the listed founding members.",
-      "pub_date": "2026-07-27T11:07:46Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-ai-security-alliance-unites-110746241.html"
     }
   ]
 }

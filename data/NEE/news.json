@@ -1,7 +1,21 @@
 {
   "ticker": "NEE",
-  "generated_at": "2026-07-29T13:55:47.507307+00:00",
+  "generated_at": "2026-07-29T17:09:46.756490+00:00",
   "items": [
+    {
+      "title": "Top Midday Stories: Stocks Down, Oil Up as Trump Vows Strong Response to Iran Attacks; Vertiv Q2 Revenue Misses Estimates",
+      "summary": "All three major US stock indexes were down in late-morning trading Wednesday after President Trump v",
+      "pub_date": "2026-07-29T15:40:45Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-stocks-down-154045883.html"
+    },
+    {
+      "title": "Brookfield, NextEra to Develop $100 Billion Data Center Campus in Kentucky",
+      "summary": "A partnership of energy, infrastructure and utility companies plan to develop a data center campus on the Energy Department\u2019s Paducah site in western Kentucky, repurposing the land as part of a privately-funded project.",
+      "pub_date": "2026-07-29T14:23:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/energy-oil/brookfield-nextera-to-develop-100-billion-data-center-campus-in-kentucky-c0615347?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Update: Market Chatter: NextEra, Brookfield to Build $100 Billion Data Campus in Kentucky",
       "summary": "(Update with statements by the Energy Department, Brookfield and NextEra Energy in the last three pa",
@@ -17,8 +31,15 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/nextera-brookfield-plan-100-billion-131759381.html"
     },
     {
-      "title": "NextEra, Brookfield plan $100 billion data center at Kentucky uranium site",
-      "summary": "A consortium including NextEra Energy and Brookfield plans to develop a $100 billion data center \u200ccampus at a former uranium enrichment site in Paducah, Kentucky, \u200cthe companies said on Wednesday.  Soaring U.S. electricity demand is driving investment in artificial intelligence \u200bdata centers and other technologies that are straining an aging U.S. electric grid.  The coalition includes Brookfield, NextEra Energy, Big Rivers Electric Power Corporation, Jackson Purchase Energy Cooperative and Paducah Power System.",
+      "title": "Entergy Q2 Earnings Beat Estimates, Sales Improve Year Over Year",
+      "summary": "ETR beats Q2 earnings estimates as industrial demand boosts retail sales, even as higher costs and interest expense weigh on quarterly results.",
+      "pub_date": "2026-07-29T13:10:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-q2-earnings-beat-estimates-131000159.html"
+    },
+    {
+      "title": "NextEra, Brookfield plan $100 billion data center at US uranium site in Kentucky",
+      "summary": "NextEra Energy and Brookfield plan to develop a $100 billion data center campus and power plant at a\u00a0federally owned former \u200curanium enrichment site in Kentucky, the companies said on Wednesday.  The Paducah, Kentucky, campus is \u200cthe latest in a string of project announcements that pairs Department of Energy land with server warehouses and large-scale \u200bpower generation as the U.S. races to expand artificial intelligence infrastructure.  The project is expected to provide more than 1.2 gigawatts of data center compute capacity and up to 1.8 GW of electricity that could be supplied to the grid, the companies said.",
       "pub_date": "2026-07-29T12:01:58Z",
       "source": "Reuters",
       "url": "https://finance.yahoo.com/technology/articles/brookfield-nextera-develop-100-billion-120158969.html"
@@ -31,32 +52,11 @@
       "url": "https://finance.yahoo.com/energy/articles/nextera-brookfield-build-100-billion-110000074.html"
     },
     {
-      "title": "XPLR Infrastructure Q2 Earnings Call Highlights",
-      "summary": "XPLR Infrastructure (NYSE:XIFR) said it continued to simplify its capital structure and advance its repowering and energy-storage development plans during the second quarter of 2026, while reaffirming its full-year financial outlook. President and Chief Executive Officer Alan Liu said the company c",
-      "pub_date": "2026-07-28T21:04:14Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/energy/articles/xplr-infrastructure-q2-earnings-call-210414760.html"
-    },
-    {
-      "title": "Investors Heavily Search NextEra Energy, Inc. (NEE): Here is What You Need to Know",
-      "summary": "NextEra (NEE) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-      "pub_date": "2026-07-28T13:00:02Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-nextera-energy-130002679.html"
-    },
-    {
-      "title": "NextEra Energy Is Becoming the Utility Sector's Biggest AI Power Bet -- Here Are the Numbers That Prove It",
-      "summary": "NextEra Energy is becoming a major player in AI power.",
-      "pub_date": "2026-07-28T09:50:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/energy/articles/nextera-energy-becoming-utility-sectors-095000411.html"
-    },
-    {
-      "title": "AI Energy Bottleneck: Buy GE Vernova or NextEra Energy on AI Pivot?",
-      "summary": "GE Vernova sells the equipment that generates every hyperscaler megawatt while NextEra owns the megawatts themselves, and right now both stocks are pricing in the same AI power crunch through very different lenses.",
-      "pub_date": "2026-07-27T15:23:30Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/energy/articles/ai-energy-bottleneck-buy-ge-152330474.html"
+      "title": "Are Wall Street Analysts Predicting NextEra Energy Stock Will Climb or Sink?",
+      "summary": "NextEra Energy has outperformed the broader market over the past year, and analysts remain moderately optimistic about the stock\u2019s prospects.",
+      "pub_date": "2026-07-29T10:15:22Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-nextera-101522113.html"
     }
   ]
 }

@@ -1,20 +1,27 @@
 {
   "ticker": "LMT",
-  "generated_at": "2026-07-29T13:55:42.830986+00:00",
+  "generated_at": "2026-07-29T17:09:40.833299+00:00",
   "items": [
+    {
+      "title": "General Dynamics Stock Bucks Defense Sector Slump Following Earnings Beat",
+      "summary": "General Dynamics  has managed to avoid much of the defense stock pain that came after fighting began in Iran.  Wall Street was looking for earnings per share of $3.96 from sales of $13.5 billion.  Orders were higher than sales, a good omen for future revenue growth.",
+      "pub_date": "2026-07-29T14:07:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/general-dynamics-earnings-stock-price-4c5f78be?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Reading Between The Lines Of RTX's Latest Call",
+      "summary": "RTX's headline numbers looked great, but the real story on its earnings call was about a coming slowdown and a tough choice in its engine business.",
+      "pub_date": "2026-07-29T13:46:31Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/reading-between-lines-rtxs-latest-134631183.html"
+    },
     {
       "title": "The Strategic Buyers That Could Scoop Up Distressed eVTOL Darling Archer Aviation",
       "summary": "Archer Aviation has gone from retail darling to distressed asset trading near multi-year lows, and a short list of corporate giants already has the motive, money, and strategic logic to make a move before someone else does.",
       "pub_date": "2026-07-29T12:10:42Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/strategic-buyers-could-scoop-distressed-121042724.html"
-    },
-    {
-      "title": "General Dynamics Stock Bucks Defense Sector Slump Following Earnings Beat",
-      "summary": "General Dynamics  has managed to avoid much of the defense stock pain that came after fighting began in Iran.  Wall Street was looking for earnings per share of $3.96 from sales of $13.5 billion.  Operating profit margin was 10.4%, up 0.4 percentage point year-over-year.",
-      "pub_date": "2026-07-29T11:55:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/general-dynamics-earnings-stock-price-4c5f78be?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Recession-Proof Stocks: The Best Stocks to Buy for a Recession",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-28T10:41:32Z",
       "source": "Reuters Videos",
       "url": "https://finance.yahoo.com/video/tech-weekly-tesla-under-strain-104132059.html"
-    },
-    {
-      "title": "The Gap Between GE Stock And Its Own Numbers",
-      "summary": "The jet-engine giant's stock is flying at a premium to its peers, but its performance on the ground tells a more complicated story.",
-      "pub_date": "2026-07-27T21:47:10Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gap-between-ge-stock-own-214710211.html"
     }
   ]
 }

@@ -1,13 +1,34 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-07-29T13:55:23.910834+00:00",
+  "generated_at": "2026-07-29T17:09:17.099467+00:00",
   "items": [
+    {
+      "title": "The Volatility Warning Embedded in Cisco Stock",
+      "summary": "Beneath the surface of its recent run, the market is pricing a notably wide range of outcomes for the networking giant, a risk you carry whether you trade options or not.",
+      "pub_date": "2026-07-29T13:43:54Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/volatility-warning-embedded-cisco-stock-134354816.html"
+    },
     {
       "title": "Eliyan raises $145 million at $1 billion valuation to ease AI chip data bottlenecks",
       "summary": "Eliyan, a startup that aims to ease the bottlenecks in transferring data between AI chips in data centers, \u200csaid on Wednesday it had raised $145 million in venture funding at a $1 billion \u200cvaluation.  Cisco Systems, Lumentum and an early investor in networking pioneer Mellanox before its sale to Nvidia backed the raising, \u200baccording to Santa Clara, California-based Eliyan.  The startup is developing technology aimed at the growing list of companies that are developing their own custom AI computing chips to compete with graphics processing units from Nvidia and Advanced Micro Devices.",
       "pub_date": "2026-07-29T13:06:37Z",
       "source": "Reuters",
       "url": "https://finance.yahoo.com/technology/ai/articles/eliyan-raises-145-million-1-130637741.html"
+    },
+    {
+      "title": "CVLT Q1 Earnings Beat Estimates, Revenues Rise Y/Y on SaaS Growth",
+      "summary": "Commvault tops Q1'27 earnings and revenue estimates as SaaS demand, subscription growth and stronger profitability drive results.",
+      "pub_date": "2026-07-29T12:54:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cvlt-q1-earnings-beat-estimates-125400698.html"
+    },
+    {
+      "title": "Logitech Q1 Earnings Beat Estimates on Tariff Refunds, Premium Demand",
+      "summary": "LOGI's Q1'27 profit surges on tariff refunds, premium-device demand and stronger mix, while a supplier shutdown clouds the near-term outlook.",
+      "pub_date": "2026-07-29T12:51:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/logitech-q1-earnings-beat-estimates-125100737.html"
     },
     {
       "title": "MANH Q2 Earnings Beat Estimates, Cloud Growth Fuels Revenues",
@@ -36,27 +57,6 @@
       "pub_date": "2026-07-28T23:40:09Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-stock-price-tag-234009062.html"
-    },
-    {
-      "title": "Did Cisco's New AI and Quantum-Safe Security Alliances Just Shift Cisco Systems' (CSCO) Investment Narrative?",
-      "summary": "In recent weeks, Intrado Life & Safety, Tech Mahindra, and SuccessKPI have each announced new integrations and partnerships with Cisco\u2019s Webex and security platforms, while Cisco has also begun testing Aliro\u2019s quantum networking software and joined Nvidia\u2019s Open Secure AI Alliance to bolster open-source AI cybersecurity. Together, these moves underline Cisco\u2019s push to embed AI, advanced security, and quantum-safe capabilities across its collaboration, networking, and contact center offerings...",
-      "pub_date": "2026-07-28T19:08:04Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/did-ciscos-ai-quantum-safe-190804244.html"
-    },
-    {
-      "title": "FFIV Beats Q3 Earnings Estimates on Systems Strength, Raises View",
-      "summary": "F5 tops third-quarter estimates as strong systems demand, hybrid multicloud adoption and application security growth drive higher guidance.",
-      "pub_date": "2026-07-28T15:50:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ffiv-beats-q3-earnings-estimates-155000477.html"
-    },
-    {
-      "title": "NVTS Q2 Earnings Meet Estimates, Revenues Beat on High-Power Growth",
-      "summary": "Navitas Semiconductor beats Q2 revenue estimates as AI-driven high-power demand and a stronger third-quarter outlook reinforce its growth strategy.",
-      "pub_date": "2026-07-28T15:13:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvts-q2-earnings-meet-estimates-151300491.html"
     }
   ]
 }

@@ -1,13 +1,34 @@
 {
   "ticker": "FTNT",
-  "generated_at": "2026-07-29T13:55:33.181823+00:00",
+  "generated_at": "2026-07-29T17:09:28.854804+00:00",
   "items": [
+    {
+      "title": "'Unprecedented' OpenAI Cyberattack Brings Palo Alto, CrowdStrike Into Focus",
+      "summary": "The OpenAI cyberattack brought Palo Alto stock and CrowdStrike into focus amid the \"unprecedented\" Hugging Face break-in.",
+      "pub_date": "2026-07-29T16:08:25Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/research/ibd-industry-themes/openai-cyberattack-palo-alto-stock-crowdstrike/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "The Volatility Warning Embedded in Cisco Stock",
+      "summary": "Beneath the surface of its recent run, the market is pricing a notably wide range of outcomes for the networking giant, a risk you carry whether you trade options or not.",
+      "pub_date": "2026-07-29T13:43:54Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/volatility-warning-embedded-cisco-stock-134354816.html"
+    },
     {
       "title": "Dow Jones Futures Fall, Oil Jumps On Iran News; Seagate, SK Hynix, KLA, Bloom Energy Are AI Earnings Movers",
       "summary": "Futures were mixed as oil prices jumped on Iran news while Seagate, SK Hynix, KLA, Bloom Energy led AI earnings. Will the Fed surprise?",
       "pub_date": "2026-07-29T12:30:03Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-seagate-sk-hynix-kla-bloom-energy-earnings-fed-meeting/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Are Wall Street Analysts Bullish on Fortinet Stock?",
+      "summary": "Fortinet has outperformed the broader market over the past year, but analysts are cautious about the stock\u2019s prospects.",
+      "pub_date": "2026-07-29T08:58:41Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-fortinet-085841639.html"
     },
     {
       "title": "Will Fortinet (FTNT) Beat Estimates Again in Its Next Earnings Report?",
@@ -36,27 +57,6 @@
       "pub_date": "2026-07-27T20:56:09Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/equinix-stock-message-management-205609089.html"
-    },
-    {
-      "title": "Intel Just Secured a Huge Customer for Its Foundry Business",
-      "summary": "The tech company recently landed Fortinet as a customer of its foundry service.",
-      "pub_date": "2026-07-27T20:50:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-just-secured-huge-customer-205000405.html"
-    },
-    {
-      "title": "Fortinet Set to Report Q2 Earnings: What's in Store for the Stock?",
-      "summary": "FTNT gears up for Q2 earnings as AI security, Secure Networking and SASE demand take center stage amid revenue and margin expectations.",
-      "pub_date": "2026-07-27T14:52:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fortinet-set-report-q2-earnings-145200455.html"
-    },
-    {
-      "title": "What Cisco's Big Run Actually Adds To Your Portfolio",
-      "summary": "Cisco has outrun the market for years, yet what decides its place in your portfolio is how much of that return is genuinely its own.",
-      "pub_date": "2026-07-27T13:45:23Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ciscos-big-run-actually-adds-134523037.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "IT",
-  "generated_at": "2026-07-29T13:55:39.284638+00:00",
+  "generated_at": "2026-07-29T17:09:36.771787+00:00",
   "items": [
+    {
+      "title": "Why Gartner Stock Is Climbing Higher Today",
+      "summary": "Some investors believe the company's shares are undervalued.",
+      "pub_date": "2026-07-29T16:14:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-gartner-stock-climbing-higher-161400740.html"
+    },
     {
       "title": "Lumen (LUMN) Stock Looks Richer After Fresh AI Connectivity Recognition",
       "summary": "Lumen Technologies has delivered a very strong 3 year share price gain, yet its valuation checks send mixed signals, with the Discounted Cash Flow (DCF) estimate pointing to a premium while market multiples look more supportive. The stock is up about 205% over the past 3 years, which puts recent short term weakness in the context of a major longer term rebound. Recognition in a recent Gartner report for AI focused enterprise connectivity can support optimism about future revenue potential,...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-21T19:46:25Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/must-act-now-16-nobel-194625818.html"
-    },
-    {
-      "title": "Finance AI spending is stuck on efficiency gains, Gartner says",
-      "summary": "Only 17% of CFOs report significant or transformational value from productivity-focused investments, according to the research.",
-      "pub_date": "2026-07-21T05:00:00Z",
-      "source": "CFO Dive",
-      "url": "https://finance.yahoo.com/technology/ai/articles/finance-ai-spending-stuck-efficiency-050000851.html"
     }
   ]
 }

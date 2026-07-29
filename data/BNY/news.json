@@ -1,7 +1,14 @@
 {
   "ticker": "BNY",
-  "generated_at": "2026-07-29T13:55:18.114486+00:00",
+  "generated_at": "2026-07-29T17:09:10.193003+00:00",
   "items": [
+    {
+      "title": "BNY moves $8.6T fund business onchain",
+      "summary": "BNY is bringing its transfer agency business \u2014 which services about $8.6 trillion across 7.6 million accounts \u2014 onto the blockchain, with Baillie Gifford, BlackRock and Dreyfus lined up to use it. It's one of Wall Street's biggest bets yet on tokenized funds. CoinDesk's Jennifer Sanasie hosts \"CoinDesk Daily.\"",
+      "pub_date": "2026-07-29T16:17:12Z",
+      "source": "CoinDesk",
+      "url": "https://finance.yahoo.com/video/bny-moves-8-6t-fund-161712444.html"
+    },
     {
       "title": "Top Analyst Reports for GE Aerospace, AT&T & Chubb",
       "summary": "GE Aerospace, AT&T and Chubb headline today's top analyst reports, highlighting business momentum, key challenges and strategic drivers shaping each company.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-17T14:37:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/fnb-q2-earnings-meet-estimates-143700150.html"
-    },
-    {
-      "title": "CBSH Stock Gains on Q2 Earnings Beat, Revenues & Costs Rise Y/Y",
-      "summary": "CBSH tops Q2 earnings and revenue estimates as higher net interest and fee income offset pressure from rising expenses and credit loss provisions.",
-      "pub_date": "2026-07-17T14:36:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cbsh-stock-gains-q2-earnings-143600748.html"
     }
   ]
 }
