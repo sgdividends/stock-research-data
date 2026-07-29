@@ -1,6 +1,6 @@
 {
   "ticker": "T",
-  "generated_at": "2026-07-28T21:04:38.636318+00:00",
+  "generated_at": "2026-07-29T02:03:16.007342+00:00",
   "items": [
     {
       "title": "Quantum computing is helping AT&T solve network problems in seconds: D-Wave CEO",
@@ -15,6 +15,13 @@
       "pub_date": "2026-07-28T20:54:48Z",
       "source": "Reuters",
       "url": "https://finance.yahoo.com/technology/articles/t-closes-23-billion-deal-205448575.html"
+    },
+    {
+      "title": "Dow Soars 537 Points on Strong Blue-Chip Earnings: Stock Market Today",
+      "summary": "Blue chips outperformed Tuesday on solid results from Coca-Cola and Boeing, while slumping chip stocks held the Nasdaq back.",
+      "pub_date": "2026-07-28T20:09:49Z",
+      "source": "Kiplinger",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-soars-537-points-strong-200949877.html"
     },
     {
       "title": "D-Wave Quantum Just Announced an Expanded Deal. Should You Buy the Stock Now?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-28T12:44:35Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/week-cloud-ai-axe-compute-124435478.html"
-    },
-    {
-      "title": "AT&T Stock Outlook: Is Wall Street Bullish or Bearish?",
-      "summary": "AT&T has lagged behind the broader market over the past year, and analysts remain moderately bullish about the stock\u2019s prospects.",
-      "pub_date": "2026-07-28T12:07:52Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/t-stock-outlook-wall-street-120752024.html"
     }
   ]
 }

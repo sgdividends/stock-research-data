@@ -1,7 +1,14 @@
 {
   "ticker": "COST",
-  "generated_at": "2026-07-28T21:03:40.038164+00:00",
+  "generated_at": "2026-07-29T02:02:30.772674+00:00",
   "items": [
+    {
+      "title": "87-year-old grocery giant closing more stores",
+      "summary": "As a kid, back in the 1980s, my family did its grocery shopping at the Star Market in our town. That wasn't as much a choice as it was really the only option. There were some specialty markets like butchers and a store that just sold fruit and vegetables, but we didn't have a Target, Walmart, ...",
+      "pub_date": "2026-07-28T23:17:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/small-business/articles/87-old-grocery-giant-closing-231700750.html"
+    },
     {
       "title": "Costco (COST) Is Running A Florida Distribution Center Fully Off The Grid",
       "summary": "Costco Wholesale has begun operating its Port St. Lucie, Florida distribution center fully off the power grid. The facility now runs on an on-site solar and battery energy system in partnership with Trinity Energy. This move aligns the site with Costco's broader net zero and sustainability objectives. Costco Wholesale, ticker NasdaqGS:COST, is adding a new dimension to its investment story with this off grid distribution center in Florida. The stock closed at $951.58, with a return of 11.4%...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-27T13:40:37Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/expect-costco-wholesales-q4-2026-134037110.html"
-    },
-    {
-      "title": "Why Premium Grocers Skew CMBS Delinquency Rankings",
-      "summary": "Premium grocers like Whole Foods show high CMBS delinquency rates, but property risk\u2014not tenant health\u2014drives the headline numbers.",
-      "pub_date": "2026-07-27T06:43:40Z",
-      "source": "CRE Daily",
-      "url": "https://finance.yahoo.com/real-estate/articles/why-premium-grocers-skew-cmbs-064340580.html"
     }
   ]
 }

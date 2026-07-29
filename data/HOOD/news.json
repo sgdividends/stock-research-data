@@ -1,13 +1,27 @@
 {
   "ticker": "HOOD",
-  "generated_at": "2026-07-28T21:04:01.979855+00:00",
+  "generated_at": "2026-07-29T02:02:47.594155+00:00",
   "items": [
+    {
+      "title": "Analysts hike Robinhood stock price target ahead of July 29 earnings",
+      "summary": "Robinhood Markets (Nasdaq: HOOD), the e-trading brokerage platform popular for its equity, crypto, and tokenized stock offerings, is set to report the earnings for Q2 2026 on July 29. Last quarter, the brokerage firm missed Wall Street estimates as it generated $0.38 in earnings per share ...",
+      "pub_date": "2026-07-28T22:30:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-hike-robinhood-stock-price-223000678.html"
+    },
     {
       "title": "SpaceX Erased Tesla\u2019s Marketcap in Little Over a Month",
       "summary": "Bettors on Kalshi are giving SpaceXAI a 68% chance of taking over Tesla before 2028, treating the merger as a matter of scheduling rather than speculation.",
       "pub_date": "2026-07-28T20:13:39Z",
       "source": "Moby",
       "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-erased-tesla-marketcap-little-201339199.html"
+    },
+    {
+      "title": "Coinbase and Robinhood are locked in a heated battle ahead of Q2 earnings\u2014but only one is being called the industry\u2019s \u2018first hyperscaler\u2019",
+      "summary": "Robinhood has proved better at diversifying its revenue streams\u2014but emerging fields of AI commerce and tokenized stocks will boost Coinbase in time.",
+      "pub_date": "2026-07-28T20:07:00Z",
+      "source": "Fortune",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-robinhood-locked-heated-battle-200700382.html"
     },
     {
       "title": "Robinhood Chain\u2019s Trading Volumes Slump As Memecoin Interest Fades",
@@ -43,20 +57,6 @@
       "pub_date": "2026-07-28T15:54:00Z",
       "source": "Reuters",
       "url": "https://finance.yahoo.com/technology/ai/articles/robinhood-ceo-vlad-tenev-says-155400027.html"
-    },
-    {
-      "title": "3 Crypto Stock Earnings to Watch In July",
-      "summary": "Robinhood, Coinbase, and Strategy report Q2 earnings this week. See what analysts expect from the 3 crypto stocks.",
-      "pub_date": "2026-07-28T13:42:28Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/3-crypto-stock-earnings-watch-134228577.html"
-    },
-    {
-      "title": "Robinhood Leads Tokenized Stocks by Holders but Not by Money",
-      "summary": "Robinhood leads tokenized stock holders with 44% share, while PONS overtakes CASHCAT as its chain's largest token.",
-      "pub_date": "2026-07-28T09:45:14Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/robinhood-leads-tokenized-stocks-holders-094514263.html"
     }
   ]
 }
