@@ -1,7 +1,14 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-07-30T06:23:03.512963+00:00",
+  "generated_at": "2026-07-30T10:19:38.075105+00:00",
   "items": [
+    {
+      "title": "How Do You Know a Quantum Computer Isn\u2019t Lying? IBM Says It Has the Answer.",
+      "summary": "IBM and research partners show how quantum calculations can be checked for accuracy in real time in three new papers.",
+      "pub_date": "2026-07-30T10:02:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/ibm-quantum-computer-25d03e14?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Circle (CRCL) Stock Looks Expensive Despite Its 68% One Year Fall",
       "summary": "Circle Internet Group stock has fallen sharply over the past year, and recent valuation checks suggest the shares look expensive rather than like a clear bargain. Regulatory headlines and acquisition activity keep the story in focus, but the key question for investors is how these developments compare to what you are paying for the stock today. Circle Internet Group is down 67.8% over the past year, which puts recent price action and sentiment at the center of any valuation...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-29T15:41:48Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/decoding-pltr-stocks-premium-valuation-154148921.html"
-    },
-    {
-      "title": "Is IBM (IBM) Quietly Turning QRadar Into the Core of Its AI Security Investment Story?",
-      "summary": "In July 2026, Resecurity, Inc. launched a native integration for IBM\u2019s QRadar SIEM via the IBM Application Exchange, enabling enterprises to feed standardized STIX/TAXII threat intelligence directly into QRadar for centralized monitoring and correlation of security events. This deeper QRadar ecosystem integration highlights how IBM\u2019s security platform is becoming a hub for AI-ready cyber data, aligning with growing concern about AI-enabled attacks and demand for more automated defenses...",
-      "pub_date": "2026-07-29T15:08:34Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-ibm-quietly-turning-qradar-150834809.html"
     }
   ]
 }
