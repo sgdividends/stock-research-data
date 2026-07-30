@@ -1,7 +1,35 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-07-30T13:45:30.722752+00:00",
+  "generated_at": "2026-07-30T17:20:03.101486+00:00",
   "items": [
+    {
+      "title": "Microsoft Q4 Earnings Beat Estimates as Cloud and AI Drive Results",
+      "summary": "MSFT beats Q4 estimates as cloud and AI demand lift revenues, earnings and Azure growth, while expanding AI infrastructure and raising investment plans.",
+      "pub_date": "2026-07-30T16:01:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-q4-earnings-beat-estimates-160100382.html"
+    },
+    {
+      "title": "LRCX Q4 Earnings Beat on NAND and Customer Support Strength",
+      "summary": "Lam Research tops Q4 FY26 estimates as NAND revenues more than double sequentially and support sales hit a third straight record.",
+      "pub_date": "2026-07-30T15:54:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lrcx-q4-earnings-beat-nand-155400014.html"
+    },
+    {
+      "title": "TENB Q2 Earnings Beat on Tenable One Momentum, Outlook Raised",
+      "summary": "Tenable beats Q2 earnings and revenue estimates as record Tenable One adoption, AI momentum and customer expansion fuel growth and lift its outlook.",
+      "pub_date": "2026-07-30T13:44:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tenb-q2-earnings-beat-tenable-134400010.html"
+    },
+    {
+      "title": "Fortinet Q2 Earnings & Revenues Beat Estimates, Increase Y/Y",
+      "summary": "FTNT tops Q2 earnings and revenue estimates as strong AI infrastructure, SASE and OT security demand lift results and prompt higher 2026 guidance.",
+      "pub_date": "2026-07-30T13:38:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fortinet-q2-earnings-revenues-beat-133800402.html"
+    },
     {
       "title": "Charles Payne: AI Is Not the Dot-Com Bubble. NVIDIA\u2019s Earnings Prove That",
       "summary": "Wall Street keeps reaching for the dot-com playbook every time an AI stock surges, but Fox Business host Charles Payne thinks that reflex is costing investors something far more valuable than peace of mind.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-07-29T21:45:03Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-cisco-systems-csco-214503481.html"
-    },
-    {
-      "title": "Varonis Q2 Earnings Surpass Expectations, Revenues Rise Y/Y",
-      "summary": "VRNS tops Q2 earnings and revenue estimates as SaaS growth, AI security demand and a higher full-year outlook fuel confidence in its growth trajectory.",
-      "pub_date": "2026-07-29T16:00:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/varonis-q2-earnings-surpass-expectations-160000130.html"
-    },
-    {
-      "title": "NXP Semiconductors Q2 Earnings Beat Estimates, Revenues Rise Y/Y",
-      "summary": "NXPI posts Q2 earnings and revenue beats as automotive, industrial and AI data center demand lift growth, with strong Q3 guidance adding momentum.",
-      "pub_date": "2026-07-29T15:56:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-q2-earnings-beat-155600195.html"
-    },
-    {
-      "title": "The Volatility Warning Embedded in Cisco Stock",
-      "summary": "Beneath the surface of its recent run, the market is pricing a notably wide range of outcomes for the networking giant, a risk you carry whether you trade options or not.",
-      "pub_date": "2026-07-29T13:43:54Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/volatility-warning-embedded-cisco-stock-134354816.html"
-    },
-    {
-      "title": "Eliyan raises $145 million at $1 billion valuation to ease AI chip data bottlenecks",
-      "summary": "Eliyan, a startup that aims to ease the bottlenecks in transferring data between AI chips in data centers, \u200csaid on Wednesday it had raised $145 million in venture funding at a $1 billion \u200cvaluation.  Cisco Systems, Lumentum and an early investor in networking pioneer Mellanox before its sale to Nvidia backed the raising, \u200baccording to Santa Clara, California-based Eliyan.  The startup is developing technology aimed at the growing list of companies that are developing their own custom AI computing chips to compete with graphics processing units from Nvidia and Advanced Micro Devices.",
-      "pub_date": "2026-07-29T13:06:37Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/ai/articles/eliyan-raises-145-million-1-130637741.html"
     }
   ]
 }

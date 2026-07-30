@@ -1,7 +1,14 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-07-30T13:46:30.429773+00:00",
+  "generated_at": "2026-07-30T17:20:54.689825+00:00",
   "items": [
+    {
+      "title": "Super Micro's Next Earnings Could Trigger an 18% Stock Swing",
+      "summary": "Super Micro Heads Into Earnings With Bulls and Bears at Odds",
+      "pub_date": "2026-07-30T16:28:26Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micros-next-earnings-could-162826348.html"
+    },
     {
       "title": "Super Micro (SMCI) Faces ITC Patent Investigation Over Netlist Memory Tech",
       "summary": "The U.S. International Trade Commission has opened an investigation into alleged infringement of Netlist memory patents by Super Micro Computer (NasdaqGS:SMCI) and other companies. The case centers on certain memory technologies that may be used in servers and data center hardware. The ITC process can lead to potential import bans or other trade remedies that affect hardware shipments into the U.S. This investigation adds a new legal and regulatory issue for SMCI investors to monitor through...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-28T11:12:00Z",
       "source": "The Wall Street Journal",
       "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-lower-chip-111200720.html"
-    },
-    {
-      "title": "U.S. chip stocks extend sell-off on AI financing, China competition worries",
-      "summary": "Investing.com - U.S. chip stocks fell further Tuesday, extending Monday\u2019s losses as a sell-off swept through Asian semiconductor names overnight, with investors fretting over the sustainability the AI industry\u2019s rapid infrastructure buildout and mounting competitive pressure from China.",
-      "pub_date": "2026-07-28T09:23:07Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/u-chip-stocks-extend-losses-092307317.html"
     }
   ]
 }
