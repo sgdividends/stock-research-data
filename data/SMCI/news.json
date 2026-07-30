@@ -1,7 +1,14 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-07-29T20:48:25.358483+00:00",
+  "generated_at": "2026-07-30T01:53:08.804945+00:00",
   "items": [
+    {
+      "title": "Super Micro (SMCI) Faces ITC Patent Investigation Over Netlist Memory Tech",
+      "summary": "The U.S. International Trade Commission has opened an investigation into alleged infringement of Netlist memory patents by Super Micro Computer (NasdaqGS:SMCI) and other companies. The case centers on certain memory technologies that may be used in servers and data center hardware. The ITC process can lead to potential import bans or other trade remedies that affect hardware shipments into the U.S. This investigation adds a new legal and regulatory issue for SMCI investors to monitor through...",
+      "pub_date": "2026-07-30T01:08:53Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-smci-faces-itc-010853627.html"
+    },
     {
       "title": "Super Micro Computer (SMCI) Stock Sinks As Market Gains: Here's Why",
       "summary": "In the latest trading session, Super Micro Computer (SMCI) closed at $28.45, marking a -4.56% move from the previous day.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-28T09:23:07Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/u-chip-stocks-extend-losses-092307317.html"
-    },
-    {
-      "title": "Market Chatter: Nvidia Employee Detained in Taiwan AI Chip-Smuggling Probe",
-      "summary": "An Nvidia (NVDA) employee has been detained by Taiwanese prosecutors as part of an investigation int",
-      "pub_date": "2026-07-28T08:40:01Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-nvidia-employee-detained-084001862.html"
     }
   ]
 }

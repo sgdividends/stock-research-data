@@ -1,13 +1,20 @@
 {
   "ticker": "MSFT",
-  "generated_at": "2026-07-29T20:48:09.824578+00:00",
+  "generated_at": "2026-07-30T01:52:58.634579+00:00",
   "items": [
     {
-      "title": "Tech stocks today: Microsoft, Meta, Qualcomm report earnings as chip stocks struggle",
-      "summary": "Tech stocks were mixed on Tuesday, as chip stocks continued to selloff ahead of earnings.",
-      "pub_date": "2026-07-27T13:46:11Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-big-tech-earnings-134611080.html"
+      "title": "Microsoft's Q4 results are 'narrative changing,' according to one analyst",
+      "summary": "D.A. Davidson head of technology research Gil Luria reacts to Microsoft's fiscal fourth quarter earnings and revenue results, going on to explain two bear cases for the Big Tech stock.",
+      "pub_date": "2026-07-29T21:30:00Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/microsofts-q4-results-narrative-changing-213000946.html"
+    },
+    {
+      "title": "Microsoft shares rise after Q4 beat",
+      "summary": "Microsoft (MSFT) rise after reporting Q4 results. Market Domination Host Josh Lipton delivers the latest earnings details as the numbers cross the wire.",
+      "pub_date": "2026-07-29T20:28:31Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/microsoft-shares-rise-q4-beat-202831072.html"
     },
     {
       "title": "S&P 8,500 melt-up? Why money is leaving big tech",
@@ -17,46 +24,39 @@
       "url": "https://finance.yahoo.com/video/p-8-500-melt-why-100000793.html"
     },
     {
-      "title": "Markets brace for Fed decision and Big Tech earnings",
-      "summary": "Josh Lipton stock the market movers for Wednesday, July 29th, including the Federal Reserve's interest rate decision. After the closing bell, Microsoft (MSFT) and Meta (META) report second quarter earnings, with investors watching closely for signs that their massive AI investments are beginning to pay off.",
-      "pub_date": "2026-07-28T22:00:00Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/markets-brace-fed-decision-big-220000833.html"
-    },
-    {
-      "title": "Wall Street closes down sharply after Fed holds rates unchanged",
-      "summary": "By Noel Randewich July 29 (Reuters) - Wall Street ended sharply lower on Wednesday after the Federal Reserve held interest rates steady, with AI-related chip stocks adding to recent declines ahead of",
-      "pub_date": "2026-07-29T20:35:31Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-edge-113734004.html"
-    },
-    {
-      "title": "Microsoft tops estimates as Azure passes $100 billion annually",
-      "summary": "Microsoft on Wednesday reported quarterly revenue and earnings that beat Wall Street expectations, while announcing that annual Azure revenue has surpassed $100 billion.",
-      "pub_date": "2026-07-29T20:31:24Z",
-      "source": "Axios",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-tops-estimates-azure-passes-203124006.html"
-    },
-    {
-      "title": "Microsoft Azure growth reaches 43% as cloud backlog climbs to $678 billion",
-      "summary": "Azure surpassed $100 billion in annual revenue as Microsoft\u2019s cloud backlog jumped 84%, strengthening the revenue case for its costly AI infrastructure buildout.",
-      "pub_date": "2026-07-29T20:27:02Z",
-      "source": "Blockspace",
-      "url": "https://finance.yahoo.com/technology/articles/microsoft-azure-growth-reaches-43-202702342.html"
-    },
-    {
-      "title": "Microsoft\u2019s (NASDAQ:MSFT) Q2 CY2026: Beats On Revenue",
-      "summary": "Technology giant Microsoft (NASDAQ:MSFT) beat Wall Street\u2019s revenue expectations in Q2 CY2026, with sales up 17.7% year on year to $90.01 billion. Its non-GAAP profit of $4.81 per share was 14.1% above analysts\u2019 consensus estimates.",
-      "pub_date": "2026-07-29T20:23:45Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-nasdaq-msft-q2-cy2026-202345338.html"
-    },
-    {
-      "title": "Microsoft Smashes June-Quarter Targets On AI, Cloud Strength",
-      "summary": "Microsoft crushed Wall Street's targets for its fiscal fourth quarter thanks to cloud computing and AI strength. Microsoft stock rose late.",
-      "pub_date": "2026-07-29T20:14:22Z",
+      "title": "Dow Jones Futures Rise; Microsoft, Meta Lead Big Earnings After Market Tumbles, Oil Prices Soar",
+      "summary": "The stock market sold off as oil prices surged on Trump's Iran threats. Microsoft, Meta and Fortinet were key earnings movers late.",
+      "pub_date": "2026-07-30T01:32:34Z",
       "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/microsoft-stock-msft-fiscal-q4-2026-earnings/?src=A00220&yptr=yahoo"
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-trump-iran-threats-microsoft-meta-fortinet-earnings/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Is Microsoft a Buy After Its Latest Earnings Report?",
+      "summary": "The hyperscaler impressed Wall Street by holding firm on AI spending.",
+      "pub_date": "2026-07-30T01:32:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-buy-latest-earnings-report-013201432.html"
+    },
+    {
+      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+      "pub_date": "2026-07-30T00:21:06Z",
+      "source": "TechCrunch",
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-openly-competing-openai-anthropic-002106838.html"
+    },
+    {
+      "title": "Microsoft Q4 Earnings Call Highlights",
+      "summary": "Microsoft (NASDAQ:MSFT) closed fiscal 2026 with record revenue and continued growth in cloud and artificial intelligence services, while outlining plans for further infrastructure investment and forecasting double-digit revenue and operating-income growth in fiscal 2027. For the fiscal fourth quart",
+      "pub_date": "2026-07-30T00:03:55Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-q4-earnings-call-highlights-000355148.html"
+    },
+    {
+      "title": "Investors Are Racing to Find America's Next Rare Earth Winner",
+      "summary": "REalloys is establishing a comprehensive, non-Chinese rare earth supply chain in North America by integrating feedstock sourcing, proprietary metallization technology, and permanent magnet manufacturing",
+      "pub_date": "2026-07-30T00:00:00Z",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/investors-racing-americas-next-rare-000000036.html"
     }
   ]
 }

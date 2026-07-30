@@ -1,6 +1,6 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-07-29T20:47:30.959255+00:00",
+  "generated_at": "2026-07-30T01:52:31.862698+00:00",
   "items": [
     {
       "title": "The CLARITY Act divides finance giants ahead of congressional recess",
@@ -17,8 +17,22 @@
       "url": "https://finance.yahoo.com/video/why-goldman-sachs-blackrock-other-162000603.html"
     },
     {
+      "title": "Coinbase changes security rewards, blames AI",
+      "summary": "Coinbase changed its public HackerOne bug bounty program on July 29, removing rewards for low- and medium-severity vulnerabilities with immediate effect. High-severity rewards fell from $15,000 to $6,000, a reduction of $9,000, or 60%. Critical payouts dropped from $50,000 to $15,000, a cut ...",
+      "pub_date": "2026-07-29T21:51:08Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-changes-security-rewards-blames-215108151.html"
+    },
+    {
+      "title": "Binance.US Wants to Join Prediction Markets Race With CFTC Stamp",
+      "summary": "(Bloomberg) -- Binance.US is planning to apply for a license with the Commodity Futures Trading Commission that would help it start its own prediction market, the company\u2019s chief executive officer said at a conference on Wednesday.Most Read from BloombergWarner Bros. Deal Collapse Would Cost the Ellisons $9.8 BillionUS Intercepts Iran Attack on Bases, Puncturing Days of CalmStocks Fall as 30-Year Bond Yields Surge After Fed: Markets WrapTrump Says US Will Strike Iran Hard as War Escalates AgainA",
+      "pub_date": "2026-07-29T20:57:16Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/binance-us-wants-join-prediction-205716133.html"
+    },
+    {
       "title": "Robinhood Earnings Soar Above Views On Record Trading Volumes",
-      "summary": "Robinhood earnings smashed expectations late Wednesday, with Coinbase earnings due on Thursday, as brokerage industry rivalries intensify.  Coinbase is on deck late Thursday.  Robinhood saw \"new highs across equity, option and event contract volumes,\" CFO Shiv Verma said in an earnings release.",
+      "summary": "Robinhood earnings smashed expectations late Wednesday, with Coinbase earnings due on Thursday, as brokerage industry rivalries intensify. But Robinhood stock fell in extended trading. For the second quarter, Robinhood reported records in trading volumes and Gold subscribers.",
       "pub_date": "2026-07-29T20:43:50Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/robinhood-earnings-q2-robinhood-stock-coinbase/?src=A00220&yptr=yahoo"
@@ -43,20 +57,6 @@
       "pub_date": "2026-07-29T15:03:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-brian-armstrongs-bold-150300976.html"
-    },
-    {
-      "title": "Coinbase Calls On Canada To Adopt Clear Rules For Crypto",
-      "summary": "Coinbase Global (NASDAQ: $COIN) is calling on Canada to adopt clear and permanent rules to govern the cryptocurrenc...",
-      "pub_date": "2026-07-29T13:31:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-calls-canada-adopt-clear-133100475.html"
-    },
-    {
-      "title": "Coinbase CEO Brian Armstrong Says 'Crypto Voters Are Watching' As 70% Say It'll Sway Their Midterm Vote",
-      "summary": "Stand With Crypto found that 73% of crypto owners are tracking lawmakers\u2019 positions on digital assets, and roughly 80% say they are very likely to vote in the midterms.",
-      "pub_date": "2026-07-29T13:14:07Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-brian-armstrong-says-131407904.html"
     }
   ]
 }

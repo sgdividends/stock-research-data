@@ -1,13 +1,41 @@
 {
   "ticker": "FDS",
-  "generated_at": "2026-07-29T20:47:44.520434+00:00",
+  "generated_at": "2026-07-30T01:52:42.004443+00:00",
   "items": [
     {
-      "title": "Meta Q2 Earnings Miss. Stock Falls.",
-      "summary": "Meta Platforms stock slid after the social media giant reported second-quarter results late Wednesday. Here are the numbers to know: Meta earned an adjusted $6.18 per share from sales of $60.8 billion for the June quarter, according to a company press release.",
-      "pub_date": "2026-07-29T20:10:40Z",
+      "title": "Pilgrim\u2019s Pride Reports Lower Profit, Sales",
+      "summary": "The chicken and pork manufacturer logged a profit of $13.4 million in the second quarter, citing commodity market pricing reductions.",
+      "pub_date": "2026-07-29T21:28:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/earnings/pilgrims-pride-reports-lower-profit-sales-b0e30607?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Chipotle Mexican Grill Posts Higher Sales, Driven by New Restaurant Openings",
+      "summary": "The fast-casual chain\u2019s revenue rose 9.3% to $3.35 billion as it opened 100 restaurants in its second quarter.",
+      "pub_date": "2026-07-29T20:59:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/earnings/chipotle-mexican-grill-posts-higher-sales-driven-by-new-restaurant-openings-f614dceb?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Meta Stock Slides After Sales Outlook Disappoints Amid Rising AI Costs",
+      "summary": "Meta Platforms stock slid after the social media giant reported second-quarter earnings below expectations.  The Facebook parent's sales forecast was below estimates as well, while its AI spending forecast was upped slightly.  The Menlo Park, Calif.-based Meta earned $6.18 per share from sales of $60.8 billion for the June quarter, according to a company press release.",
+      "pub_date": "2026-07-29T20:52:18Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/technology/meta-stock-q2-2026-earnings-results-ai/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Arm Posts Higher Revenue, Profit as AI Demand Drives Growth",
+      "summary": "The company reported a higher first-quarter profit of $270 million as demand for its chip designs exceeded expectations.",
+      "pub_date": "2026-07-29T20:31:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/earnings/arm-posts-higher-revenue-profit-as-ai-demand-drives-growth-8e035f8c?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "L3Harris Raises Guidance on Higher Profit, Revenue",
+      "summary": "The defense contractor said it now expects full-year earnings between $11.80 and $12.00 a share, up 40 cents from the company\u2019s previous guidance.",
+      "pub_date": "2026-07-29T20:27:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/earnings/l3harris-raises-guidance-on-higher-profit-revenue-99245ed2?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "FactSet Research Systems (FDS) Following RepRisk Tie Up Keeps Undervalued Narrative In Play",
@@ -29,34 +57,6 @@
       "pub_date": "2026-07-29T17:53:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/business/earnings/renault-reports-higher-revenue-says-cost-cutting-efforts-bearing-fruit-77a9eb16?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "The Fed Has Held Interest Rates at 3.50%-3.75% for 5 Straight Meetings Under Kevin Warsh, a Signal That Borrowers Shouldn't Expect Relief Soon",
-      "summary": "Investors and consumers should expect steady (and possibly higher) interest rates for the foreseeable future.",
-      "pub_date": "2026-07-29T17:51:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/economy/policy/articles/fed-held-interest-rates-3-175100951.html"
-    },
-    {
-      "title": "Wingstop Second-Quarter Earnings Top Views; Shares Rise",
-      "summary": "Wingstop (WING) reported stronger-than-expected fiscal second-quarter earnings and reiterated its gl",
-      "pub_date": "2026-07-29T17:12:35Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wingstop-second-quarter-earnings-top-171235586.html"
-    },
-    {
-      "title": "GE HealthCare Says Increased Orders, Healthy Demand Lifted Revenue",
-      "summary": "The medical-technology company\u2019s revenue came in at $5.3 billion in the second quarter, boosted by an 11% increase in total orders.",
-      "pub_date": "2026-07-29T15:30:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/ge-healthcare-posts-higher-profit-revenue-on-increased-orders-d24249fe?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Boston Scientific Cuts Outlook Amid Weak Demand for Watchman Heart Device",
-      "summary": "Boston Scientific (BSX) lowered its full-year guidance below Wall Street's estimates on Wednesday, c",
-      "pub_date": "2026-07-29T15:27:02Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/healthcare/articles/boston-scientific-cuts-outlook-amid-152702729.html"
     }
   ]
 }

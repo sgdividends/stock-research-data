@@ -1,7 +1,14 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-07-29T20:47:32.819670+00:00",
+  "generated_at": "2026-07-30T01:52:33.439326+00:00",
   "items": [
+    {
+      "title": "Update: Equities Tumble Following Fed's Divided Decision to Stay on Hold",
+      "summary": "(Updates with market moves at the end of the day and the Fed decision.) US stocks slid Wednesday",
+      "pub_date": "2026-07-29T20:27:33Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equities-tumble-following-fed-apos-202733412.html"
+    },
     {
       "title": "Salesforce (CRM) Stock Fair Value Edges Lower As Analysts Split On AI Growth",
       "summary": "The fair value estimate for Salesforce stock has been adjusted from US$248.24 to US$241.72, a relatively small move that still signals a shift in how the story is being modeled. This change sits against mixed Street commentary, with some analysts encouraged by Agentforce, Fin and large government wins, while others focus on slower core growth and open questions around AI monetization. As you read on, you will see how these differing views shape the evolving Salesforce narrative and what that...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-28T19:49:02Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-wall-street-favorite-stocks-194902743.html"
-    },
-    {
-      "title": "Dow Rallies While Chip Stocks Decline",
-      "summary": "The Dow industrials surged, while chip stocks were selling off as investors ditched artificial-intelligence darlings in favor of other sectors that had been left behind this year.",
-      "pub_date": "2026-07-28T19:03:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/oil-extends-fall-on-hopes-of-hormuz-reopening-but-chip-selloff-deepens-331d84a1?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
