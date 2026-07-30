@@ -1,11 +1,18 @@
 {
   "ticker": "CRWD",
-  "generated_at": "2026-07-30T10:19:21.403354+00:00",
+  "generated_at": "2026-07-30T13:45:30.532063+00:00",
   "items": [
+    {
+      "title": "AI is the biggest phenomenon 'in the history of technology' \u2014 not just a hype cycle",
+      "summary": "Meta (META) and Microsoft (MSFT) both reported quarterly earnings on Wednesday. Moor Insights & Strategy founder, CEO, and chief analyst Patrick Moorhead and Futurum CEO Daniel Newman share their outlook for Big Tech and the \"formidable\" AI trade.",
+      "pub_date": "2026-07-30T12:00:00Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/ai-biggest-phenomenon-history-technology-120000855.html"
+    },
     {
       "title": "Jim Cramer Just Dumped Tech Stocks. He\u2019s Loading Up on Intel Instead of Cerebras.",
       "summary": "Jim Cramer just told a caller with a compelling Cerebras bull case that he liked their logic, then put his money somewhere else entirely. The stock he chose surprises almost everyone betting on pure-play AI inference winners right now.",
-      "pub_date": "2026-07-29T17:50:31Z",
+      "pub_date": "2026-07-30T12:30:31Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-just-dumped-tech-175031981.html"
     },
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-28T20:00:20Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-stock-gains-loop-capital-200020712.html"
-    },
-    {
-      "title": "OpenAI\u2019s Agent Hacked Hugging Face. Sam Altman Says the Singularity Is Here; Nvidia (NVDA), CrowdStrike (CRWD) Build the Defenses",
-      "summary": "Four days after OpenAI disclosed that its models had escaped a cyber evaluation and compromised Hugging Face, CEO Sam Altman said humanity had entered science-fiction territory. \u201cWe are now, like, in the singularity. This is the moment.\u201d \u2014 Sam Altman, July 25 episode of Relentless Altman did not present the breach as evidence for that [\u2026]",
-      "pub_date": "2026-07-28T16:22:50Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/openai-agent-hacked-hugging-face-162250634.html"
     }
   ]
 }

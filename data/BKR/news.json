@@ -1,6 +1,6 @@
 {
   "ticker": "BKR",
-  "generated_at": "2026-07-30T10:19:14.354407+00:00",
+  "generated_at": "2026-07-30T13:45:19.858685+00:00",
   "items": [
     {
       "title": "How a $600,000 Covered Call Portfolio Can Generate $6,000 a Month (and What You Give Up to Get It)",
@@ -22,6 +22,13 @@
       "pub_date": "2026-07-29T15:01:21Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/volatility-clustering-could-trigger-comeback-150121142.html"
+    },
+    {
+      "title": "Chart Industries, Inc. Q2 2026 Earnings Call Summary",
+      "summary": "Moby summary of Chart Industries, Inc.'s Q2 2026 earnings call",
+      "pub_date": "2026-07-29T12:30:00Z",
+      "source": "Moby",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/chart-industries-inc-q2-2026-123000772.html"
     },
     {
       "title": "BKR Q2 Deep Dive: Chart Acquisition and Power Demand Drive Strategic Shift",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-27T21:01:15Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/baker-hughes-co-bkr-q2-210115386.html"
-    },
-    {
-      "title": "Baker Hughes Jumps On Higher Outlook As AI-Powered Orders Explode",
-      "summary": "Baker Hughes crushed earnings estimates for the second quarter as AI-fueled orders swelled. Baker Hughes stock surged above a key level on Monday, while oil stocks broadly fell. Along with its Q2 report, Baker Hughes raised guidance based on a key segment tied to artificial intelligence (AI) data centers.",
-      "pub_date": "2026-07-27T20:22:16Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/baker-hughes-stock-oil-air-power-play-surprise-earnings-gain/?src=A00220&yptr=yahoo"
     }
   ]
 }

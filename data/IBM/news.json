@@ -1,13 +1,27 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-07-30T10:19:38.075105+00:00",
+  "generated_at": "2026-07-30T13:45:55.331893+00:00",
   "items": [
     {
-      "title": "How Do You Know a Quantum Computer Isn\u2019t Lying? IBM Says It Has the Answer.",
+      "title": "IBM Swapped Its AI Scoreboard For A Quantum One",
+      "summary": "The generative AI figure that once made its progress checkable is gone from the latest earnings call.",
+      "pub_date": "2026-07-30T11:59:55Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-swapped-ai-scoreboard-quantum-115955903.html"
+    },
+    {
+      "title": "IBM is Finally Fixing One of Quantum Computing\u2019s Biggest Headaches",
       "summary": "IBM and research partners show how quantum calculations can be checked for accuracy in real time in three new papers.",
-      "pub_date": "2026-07-30T10:02:00Z",
+      "pub_date": "2026-07-30T11:46:00Z",
       "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/ibm-quantum-computer-25d03e14?siteid=yhoof2&yptr=yahoo"
+      "url": "https://www.barrons.com/articles/ibm-quantum-computing-problems-25d03e14?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "IBM Claims New Era of \u2018Quantum Advantage\u2019",
+      "summary": "Big Blue is racing to show that its quantum computing business can be profitable following a historic stock tumble.",
+      "pub_date": "2026-07-30T10:00:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/cio-journal/ibm-claims-new-era-of-quantum-advantage-92e3d5d4?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Circle (CRCL) Stock Looks Expensive Despite Its 68% One Year Fall",
@@ -43,20 +57,6 @@
       "pub_date": "2026-07-29T18:57:39Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ibm-stock-3-reasons-q2-185739356.html"
-    },
-    {
-      "title": "ORCL Is Back At A Level It Has Defended Before",
-      "summary": "Oracle's stock has fallen to a price floor that has launched powerful rallies before, but this time the company arrives with an unprecedented bet on its future.",
-      "pub_date": "2026-07-29T17:55:39Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/orcl-back-level-defended-175539197.html"
-    },
-    {
-      "title": "Decoding PLTR Stock's Premium Valuation",
-      "summary": "This is a hyper-growth chapter for Palantir Technologies. The company provides its Artificial Intelligence Platform to critical institutions like the Department of the Navy.",
-      "pub_date": "2026-07-29T15:41:48Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/decoding-pltr-stocks-premium-valuation-154148921.html"
     }
   ]
 }
