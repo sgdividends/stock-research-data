@@ -1,7 +1,14 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-07-30T01:52:49.661249+00:00",
+  "generated_at": "2026-07-30T06:23:04.614275+00:00",
   "items": [
+    {
+      "title": "Fortinet (FTNT) Raises Revenue Outlook After Strong Q2 And New AI Product Push",
+      "summary": "Fortinet raised its annual revenue forecast after reporting strong Q2 results that exceeded its prior guidance on revenue and profitability. The company highlighted progress in its shift to a subscription led model and deeper use of generative AI across its product suite. Fortinet announced a collaboration with Intel on the Fortinet Security Processor 6 and rolled out new offerings including FortiGate 1200G and FortiSOC. Moody\u2019s upgraded Fortinet\u2019s ratings to the highest level for any...",
+      "pub_date": "2026-07-30T05:08:35Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fortinet-ftnt-raises-revenue-outlook-050835724.html"
+    },
     {
       "title": "Vertiv Earnings Beat Estimates. Why the Stock Is Falling.",
       "summary": "Vertiv stock drops sharply after the data-center infrastructure company\u2019s second-quarter sales came in below Wall Street\u2019s expectations.",
@@ -10,11 +17,11 @@
       "url": "https://www.barrons.com/articles/vertiv-earnings-stock-price-8631d669?siteid=yhoof2&yptr=yahoo"
     },
     {
-      "title": "Agentic AI Is Coming to Chip Design. Here Is Why Synopsys Stock Could Be the Biggest Beneficiary.",
-      "summary": "Synopsys partners with Nvidia on agentic AI after partnering with Intel last week.",
-      "pub_date": "2026-07-29T19:28:30Z",
+      "title": "Intel Stock Sinks 40%, But Most Analysts Still Aren\u2019t Bullish on INTC",
+      "summary": "Despite its solid growth prospects and improving fundamentals, most Wall Street analysts aren\u2019t bullish on Intel stock.",
+      "pub_date": "2026-07-29T19:57:20Z",
       "source": "Barchart",
-      "url": "https://finance.yahoo.com/technology/ai/articles/agentic-ai-coming-chip-design-192830292.html"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-sinks-40-most-195720281.html"
     },
     {
       "title": "Intel (INTC) Stock Looks Fully Priced Despite Fair Value Support",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-29T17:28:39Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-124-amd-100-172839031.html"
-    },
-    {
-      "title": "Trump\u2019s $100,000 Truth API Faces SEC Investigation Demand: Two Precedents Show How it Ends",
-      "summary": "Warren and Schiff want an SEC investigation into Trump Media's Truth API, the $100,000 paid feed launching August 1. Two precedents show how it ends.",
-      "pub_date": "2026-07-29T16:55:26Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/trump-100-000-truth-api-165526565.html"
     }
   ]
 }

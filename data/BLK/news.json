@@ -1,6 +1,6 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-07-30T01:52:26.267504+00:00",
+  "generated_at": "2026-07-30T06:22:34.367011+00:00",
   "items": [
     {
       "title": "Tech stocks today: Microsoft, Meta, Qualcomm report earnings as chip stocks struggle",
@@ -15,6 +15,13 @@
       "pub_date": "2026-07-29T16:20:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/why-goldman-sachs-blackrock-other-162000603.html"
+    },
+    {
+      "title": "ONDS Stock Gains Overnight: BlackRock Reveals 7.2% Ondas Stake, High Short Interest Keeps Traders Watching",
+      "summary": "Investors looked at the chances of a short squeeze, new defense deals, company acquisitions, and Ondas\u2019 growing autonomous technology business.",
+      "pub_date": "2026-07-30T04:47:49Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/onds-stock-gains-overnight-blackrock-044749079.html"
     },
     {
       "title": "Meta (META) Launches $14 Billion Texas AI Data Center Campus With BlackRock",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-29T14:07:35Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-picks-ai-winners-140735436.html"
-    },
-    {
-      "title": "Meta and BlackRock Form $14 Billion Venture for Texas AI Data Center",
-      "summary": "Meta and BlackRock form an 80/20 joint venture to build a planned $14 billion AI data center in El Paso, Texas.",
-      "pub_date": "2026-07-29T13:14:23Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/technology/ai/articles/meta-blackrock-form-14-billion-131423376.html"
     }
   ]
 }
