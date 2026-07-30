@@ -1,13 +1,34 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-07-30T17:20:25.281123+00:00",
+  "generated_at": "2026-07-30T21:02:10.975962+00:00",
   "items": [
+    {
+      "title": "IBM Is Making Another Quantum Bet. Three New Partnerships Could Matter",
+      "summary": "IBM Takes Another Step in Quantum Computing",
+      "pub_date": "2026-07-30T19:23:49Z",
+      "source": "GuruFocus.com",
+      "url": "https://tech.yahoo.com/science/articles/ibm-making-another-quantum-bet-192349333.html"
+    },
+    {
+      "title": "IBM Is Finally Fixing One of Quantum Computing\u2019s Biggest Headaches",
+      "summary": "IBM and research partners show how quantum calculations can be checked for accuracy in real time in three new papers.",
+      "pub_date": "2026-07-30T18:50:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/ibm-quantum-computing-problems-25d03e14?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Stagwell Q2 Driven By Digital Transformation, Political",
       "summary": "Madison & Wall commented that the firm's growth was stronger than most groups other than Publicis.",
       "pub_date": "2026-07-30T14:38:03Z",
       "source": "MediaPost",
       "url": "https://finance.yahoo.com/media-advertising/articles/stagwell-q2-driven-digital-transformation-143803029.html"
+    },
+    {
+      "title": "Circle Just Bought IBM\u2019s Blockchain Patent Portfolio. The Real Test Is How It Gets Deployed.",
+      "summary": "Circle acquired IBM\u2019s blockchain patent portfolio, adding more than 680 patent families and nearly 1,000 issued patents worldwide and becoming the leading holder of blockchain patents in the United States.",
+      "pub_date": "2026-07-30T14:00:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/circle-just-bought-ibm-blockchain-140002339.html"
     },
     {
       "title": "Analyst cuts Circle stock price target ahead of earnings",
@@ -31,32 +52,11 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/ibm-swapped-ai-scoreboard-quantum-115955903.html"
     },
     {
-      "title": "IBM is Finally Fixing One of Quantum Computing\u2019s Biggest Headaches",
-      "summary": "IBM and research partners show how quantum calculations can be checked for accuracy in real time in three new papers.",
-      "pub_date": "2026-07-30T11:46:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/ibm-quantum-computing-problems-25d03e14?siteid=yhoof2&yptr=yahoo"
-    },
-    {
       "title": "IBM Claims New Era of \u2018Quantum Advantage\u2019",
       "summary": "Big Blue is racing to show that its quantum computing business can be profitable following a historic stock tumble.",
       "pub_date": "2026-07-30T10:00:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/cio-journal/ibm-claims-new-era-of-quantum-advantage-92e3d5d4?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Circle (CRCL) Stock Looks Expensive Despite Its 68% One Year Fall",
-      "summary": "Circle Internet Group stock has fallen sharply over the past year, and recent valuation checks suggest the shares look expensive rather than like a clear bargain. Regulatory headlines and acquisition activity keep the story in focus, but the key question for investors is how these developments compare to what you are paying for the stock today. Circle Internet Group is down 67.8% over the past year, which puts recent price action and sentiment at the center of any valuation...",
-      "pub_date": "2026-07-30T03:15:36Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/circle-crcl-stock-looks-expensive-031536206.html"
-    },
-    {
-      "title": "Circle (CRCL) Just Bought Nearly 1,000 IBM Blockchain Patents",
-      "summary": "Circle Internet Group (NYSE:CRCL) has acquired nearly 1,000 blockchain patents from IBM. The portfolio covers a wide range of distributed ledger, payments and digital asset infrastructure technologies. The move is intended to reinforce the technology stack behind USDC and Circle's wider digital financial services platform. The acquisition comes at a time when several crypto sector peers are restructuring or scaling back operations. Circle Internet Group sits at the intersection of...",
-      "pub_date": "2026-07-29T21:08:11Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/circle-crcl-just-bought-nearly-210811191.html"
     }
   ]
 }

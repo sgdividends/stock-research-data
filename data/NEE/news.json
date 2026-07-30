@@ -1,7 +1,21 @@
 {
   "ticker": "NEE",
-  "generated_at": "2026-07-30T17:20:40.537187+00:00",
+  "generated_at": "2026-07-30T21:02:22.700635+00:00",
   "items": [
+    {
+      "title": "Xcel Q2 Earnings Beat Estimates on Infrastructure Investment Recovery",
+      "summary": "Xcel Energy's Q2 earnings rose 24% and beat estimates as infrastructure recovery and lower power costs offset a revenue miss.",
+      "pub_date": "2026-07-30T17:27:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/energy/articles/xcel-q2-earnings-beat-estimates-172700804.html"
+    },
+    {
+      "title": "DOE Is Converting Its Own Cold War Uranium Sites Into $100 Billion AI Data Centers",
+      "summary": "The Department of Energy\u2019s conversion of the 3,556-acre Paducah Gaseous Diffusion Plant into the $100 billion Paducah American Energy Hub signals the end of the era where AI infrastructure developers were forced to compete for scarce private land. For decades, this site in McCracken County, Kentucky, served as a cornerstone of national security, first producing [\u2026]",
+      "pub_date": "2026-07-30T05:11:40Z",
+      "source": "Forkast News",
+      "url": "https://finance.yahoo.com/technology/ai/articles/doe-converting-own-cold-war-051140898.html"
+    },
     {
       "title": "One Sign the AI Power Trade Is Running Out of Juice",
       "summary": "Investors are no longer wowed by big data center announcements, particularly if they\u2019re short on details and confirmed customers.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-07-29T15:40:45Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-stocks-down-154045883.html"
-    },
-    {
-      "title": "Brookfield, NextEra to Develop $100 Billion Data Center Campus in Kentucky",
-      "summary": "A partnership of energy, infrastructure and utility companies plan to develop a data center campus on the Energy Department\u2019s Paducah site in western Kentucky, repurposing the land as part of a privately-funded project.",
-      "pub_date": "2026-07-29T14:23:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/energy-oil/brookfield-nextera-to-develop-100-billion-data-center-campus-in-kentucky-c0615347?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Update: Market Chatter: NextEra, Brookfield to Build $100 Billion Data Campus in Kentucky",
-      "summary": "(Update with statements by the Energy Department, Brookfield and NextEra Energy in the last three pa",
-      "pub_date": "2026-07-29T13:28:14Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/energy/articles/market-chatter-nextera-brookfield-build-132814235.html"
     }
   ]
 }

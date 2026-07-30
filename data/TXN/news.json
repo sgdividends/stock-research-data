@@ -1,7 +1,21 @@
 {
   "ticker": "TXN",
-  "generated_at": "2026-07-30T17:21:03.591731+00:00",
+  "generated_at": "2026-07-30T21:02:39.411549+00:00",
   "items": [
+    {
+      "title": "ASML, Lam Research, and a Ton of Other Stocks to Buy Right Now",
+      "summary": "It\u2019s a vibes market and it doesn\u2019t matter how good earnings or guidance is for many companies, writes Mizuho analyst Jordan Klein.",
+      "pub_date": "2026-07-30T18:45:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/asml-lam-research-sandisk-microsoft-stock-buy-fd120464?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Should You Buy, Sell or Hold onsemi Stock Before Q2 Earnings?",
+      "summary": "ON's improving auto and industrial demand, AI power growth and Fab Right gains support Q2, but weak EV markets and premium valuation warrant caution.",
+      "pub_date": "2026-07-30T18:17:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-onsemi-stock-181700170.html"
+    },
     {
       "title": "The Market Thinks Texas Instruments (TXN) Is a Boring Analog Chipmaker; AI Data Centers Disagree",
       "summary": "Arete Research, an independent research firm, has upgraded Texas Instruments Incorporated (NASDAQ:TXN) to Buy from Neutral and lifted its price target to $405 from $303. This 34% raise in the PT comes days after the company posted a strong quarter \u2013 a surprise from an analog cyclical sector. Texas Instruments\u2019 Q2 revenue reached $5.46 billion, [\u2026]",
@@ -43,20 +57,6 @@
       "pub_date": "2026-07-29T04:11:42Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/technology/articles/us-risks-broadening-china-tech-041142786.html"
-    },
-    {
-      "title": "Is Analog Devices (ADI) Trading At A Premium After Its 141% Run?",
-      "summary": "Analog Devices has delivered a strong 141.5% total return over the past 5 years, yet its valuation checks and current pricing leave investors questioning whether the stock now leans expensive rather than clearly cheap. Over 5 years, Analog Devices has returned 141.5%, which puts recent gains front and center when judging how much upside might still be left in the current share price. Expectations around long term cash generation in the analog and mixed signal chip markets can support the...",
-      "pub_date": "2026-07-28T19:07:19Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-adi-trading-premium-190719476.html"
-    },
-    {
-      "title": "Microchip's Hailo Buyout Strengthens Edge AI Ambitions: What's Ahead?",
-      "summary": "MCHP's Hailo acquisition expands its edge AI portfolio across robotics, vision and embedded systems while boosting software reach and growth prospects.",
-      "pub_date": "2026-07-28T16:52:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/microchips-hailo-buyout-strengthens-edge-165200336.html"
     }
   ]
 }

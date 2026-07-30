@@ -1,11 +1,11 @@
 {
   "ticker": "FTNT",
-  "generated_at": "2026-07-30T17:20:16.943737+00:00",
+  "generated_at": "2026-07-30T21:02:05.366489+00:00",
   "items": [
     {
-      "title": "Stock Market Today: Nasdaq Rebounds As Chips Jump; This Medical Name Jams Ahead Of Earnings (Live Coverage)",
+      "title": "Stock Market Today: Chips Lead Nasdaq's Fierce Rebound, But Meta Bashed",
       "summary": "Stock Market Today: The Dow Jones index rallies with the Nasdaq composite following a Fed Day tumble. Meta stock plunges on earnings.",
-      "pub_date": "2026-07-30T16:07:44Z",
+      "pub_date": "2026-07-30T20:46:55Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-meta-stock-meta-q2-earnings/?src=A00220&yptr=yahoo"
     },
@@ -15,6 +15,13 @@
       "pub_date": "2026-07-30T15:04:23Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/markets/stocks/articles/climb-global-solutions-q2-earnings-150423860.html"
+    },
+    {
+      "title": "Why Wells Fargo Thinks Intel\u2019s AI Business Is Getting Even Stronger",
+      "summary": "Intel's improving data center business is giving investors another reason to stay bullish.",
+      "pub_date": "2026-07-30T14:46:04Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/technology/ai/articles/why-wells-fargo-thinks-intel-144604980.html"
     },
     {
       "title": "FTNT Q2 Earnings Call Highlights SASE Firewall Growth",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-30T12:15:49Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-trump-iran-threats-microsoft-meta-fortinet-earnings/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Fortinet (FTNT) Raises Revenue Outlook After Strong Q2 And New AI Product Push",
-      "summary": "Fortinet raised its annual revenue forecast after reporting strong Q2 results that exceeded its prior guidance on revenue and profitability. The company highlighted progress in its shift to a subscription led model and deeper use of generative AI across its product suite. Fortinet announced a collaboration with Intel on the Fortinet Security Processor 6 and rolled out new offerings including FortiGate 1200G and FortiSOC. Moody\u2019s upgraded Fortinet\u2019s ratings to the highest level for any...",
-      "pub_date": "2026-07-30T05:08:35Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fortinet-ftnt-raises-revenue-outlook-050835724.html"
     }
   ]
 }
