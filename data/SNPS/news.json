@@ -1,7 +1,14 @@
 {
   "ticker": "SNPS",
-  "generated_at": "2026-07-31T10:33:00.476887+00:00",
+  "generated_at": "2026-07-31T13:51:20.336696+00:00",
   "items": [
+    {
+      "title": "The Quiet Surface of Synopsys Stock Hides a Turbulent Forecast",
+      "summary": "If you hold Synopsys shares, the market is pricing a potential fifty percent swing over the next year, a two-sided risk you carry whether or not you ever touch an option.",
+      "pub_date": "2026-07-31T13:26:51Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/quiet-surface-synopsys-stock-hides-132651803.html"
+    },
     {
       "title": "Intel (INTC) Just Expanded Its Foundry Tool Kit For AI Chip Customers",
       "summary": "Synopsys and Keysight Technologies have certified advanced EDA and electromagnetic simulation tools for Intel's latest 14A and 18A P foundry nodes. The certification expands Intel Foundry's design ecosystem for AI and high performance computing customers using these advanced manufacturing processes. The new tool support is intended to help reduce design risk and shorten time to market for chips built on NasdaqGS:INTC process technology. Intel is working to position its foundry business as a...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-29T13:21:22Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/options/articles/want-adsk-stock-30-cheaper-132122116.html"
-    },
-    {
-      "title": "Nvidia (NVDA) Pours $5 Billion Into Safe AI And Expands Data Center Reach",
-      "summary": "Nvidia (NasdaqGS:NVDA) is committing US$5b to Safe Superintelligence, a new AI safety startup led by former OpenAI chief scientist Ilya Sutskever. The company is entering multibillion dollar AI data center lease deals, including a large buildout with Hut 8 in Texas. Nvidia is expanding its Agent Toolkit platform through new partnerships with Synopsys, Siemens, and Cadence to support chip and system design automation. Nvidia sits at the center of AI computing, with its GPUs and software...",
-      "pub_date": "2026-07-29T03:13:08Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-pours-5-billion-031308100.html"
     }
   ]
 }
