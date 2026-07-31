@@ -1,6 +1,6 @@
 {
   "ticker": "EFX",
-  "generated_at": "2026-07-30T21:02:00.134323+00:00",
+  "generated_at": "2026-07-31T02:11:20.884840+00:00",
   "items": [
     {
       "title": "Equifax's $2.2 million credit reporting settlement: Who qualifies",
@@ -8,6 +8,13 @@
       "pub_date": "2026-07-30T13:00:00Z",
       "source": "Yahoo Personal Finance",
       "url": "https://finance.yahoo.com/personal-finance/banking/article/equifaxs-22-million-credit-reporting-settlement-who-qualifies-130000338.html"
+    },
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "summary": "Find insight on Fair Isaac, bitcoin ETFs and more in the latest Market Talks covering financial services.",
+      "pub_date": "2026-07-30T21:21:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-cc9c2171?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Equifax (EFX) Looks Attractive Defying Mortgage Weakness and AI Fears",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-28T14:40:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/healthcare/articles/iqv-q2-earnings-beat-estimates-144000466.html"
-    },
-    {
-      "title": "Waste Connections Stock Barely Moves Since Q2 Earnings Beat",
-      "summary": "WCN beats Q2 earnings estimates, raises its 2026 revenue outlook and expands margins, yet the stock barely moves after the July 22 report.",
-      "pub_date": "2026-07-27T14:59:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/waste-connections-stock-barely-moves-145900431.html"
     }
   ]
 }

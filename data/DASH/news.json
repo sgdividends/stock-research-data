@@ -1,7 +1,14 @@
 {
   "ticker": "DASH",
-  "generated_at": "2026-07-30T21:01:54.826880+00:00",
+  "generated_at": "2026-07-31T02:11:16.332799+00:00",
   "items": [
+    {
+      "title": "Amazon.com Q2 Earnings Call Highlights",
+      "summary": "Amazon.com (NASDAQ:AMZN) reported second-quarter revenue of $200.6 billion, up 20% year over year excluding foreign-exchange effects, while operating income rose 43% to $27.5 billion. CEO Andy Jassy highlighted accelerating growth at Amazon Web Services, expansion in faster retail delivery and groce",
+      "pub_date": "2026-07-30T23:04:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-q2-earnings-call-230400197.html"
+    },
     {
       "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
       "summary": "DoorDash just secured federal clearance to fly its own delivery drones commercially, but a persistent trust gap with the American public may prove harder to clear than any regulatory hurdle.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-29T13:42:43Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/technology/articles/doordash-secures-faa-approval-launch-134243094.html"
-    },
-    {
-      "title": "DoorDash Takes to the Sky With Its Own Drones",
-      "summary": "DoorDash  for years has rushed online orders from burritos to cold medicine to customers\u2019 homes via bike couriers and drivers.  Now the delivery provider is adding a new mode of transport: air.  DoorDash on Wednesday said it has secured a key certification from the Federal Aviation Administration to make commercial deliveries using drones.",
-      "pub_date": "2026-07-29T13:00:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/logistics-report/doordash-takes-to-the-sky-with-its-own-drones-0cc8658d?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

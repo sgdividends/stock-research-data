@@ -1,7 +1,14 @@
 {
   "ticker": "ECHO",
-  "generated_at": "2026-07-30T21:01:59.794527+00:00",
+  "generated_at": "2026-07-31T02:11:20.438814+00:00",
   "items": [
+    {
+      "title": "Giant satellite internet company prepares Chapter 11 bankruptcy",
+      "summary": "A massive loss of satellite internet subscribers over the last six years has caught up with EchoStar's Hughes Network Systems, forcing the company to restructure its huge debt obligations, which could lead the company to file for a bankruptcy reorganization in the days ahead. Satellite internet ...",
+      "pub_date": "2026-07-31T00:18:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/articles/giant-satellite-internet-company-prepares-001800654.html"
+    },
     {
       "title": "AT&T closes $23 billion EchoStar spectrum acquisition",
       "summary": "The deal adds roughly 50 MHz of low-band and mid-band spectrum covering nearly every U.S. market to AT&T's holdings",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-24T15:29:08Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/1-cash-burning-stock-consider-152908955.html"
-    },
-    {
-      "title": "AT&T Q2 Earnings Call Highlights",
-      "summary": "AT&T (NYSE:T) reported faster growth in service revenue, adjusted EBITDA and adjusted earnings per share in the second quarter of 2026, with executives pointing to gains in fiber, fixed wireless and postpaid phone subscribers as the main drivers of the quarter\u2019s performance. Chairman and CEO John S",
-      "pub_date": "2026-07-22T17:06:22Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/t-q2-earnings-call-highlights-170622113.html"
     }
   ]
 }

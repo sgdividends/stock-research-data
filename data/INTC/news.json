@@ -1,13 +1,41 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-07-30T21:02:11.807340+00:00",
+  "generated_at": "2026-07-31T02:11:36.031095+00:00",
   "items": [
+    {
+      "title": "Intel (INTC) Just Expanded Its Foundry Tool Kit For AI Chip Customers",
+      "summary": "Synopsys and Keysight Technologies have certified advanced EDA and electromagnetic simulation tools for Intel's latest 14A and 18A P foundry nodes. The certification expands Intel Foundry's design ecosystem for AI and high performance computing customers using these advanced manufacturing processes. The new tool support is intended to help reduce design risk and shorten time to market for chips built on NasdaqGS:INTC process technology. Intel is working to position its foundry business as a...",
+      "pub_date": "2026-07-30T22:11:01Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-just-expanded-foundry-221101344.html"
+    },
+    {
+      "title": "Apple Tops Third-Quarter Estimates; IPad, Services Revenue Falls Short",
+      "summary": "Apple (AAPL) reported strong fiscal third-quarter results amid momentum in iPhone sales, though the",
+      "pub_date": "2026-07-30T21:19:42Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-tops-third-quarter-estimates-211942912.html"
+    },
+    {
+      "title": "The Growth That Has To Land For Advanced Micro Devices Stock to Make Sense",
+      "summary": "The sticker shock on AMD\u2019s valuation fades once you look two years out, but the discount hinges on an aggressive growth story that deserves a closer look.",
+      "pub_date": "2026-07-30T20:47:13Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/growth-land-advanced-micro-devices-204713876.html"
+    },
     {
       "title": "Update: Nasdaq Composite Snaps 6-Day Slump as Microsoft Soars",
       "summary": "(Updates with market moves at the end of the day.) The Nasdaq Composite surged Thursday, reboundi",
       "pub_date": "2026-07-30T20:44:16Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-composite-snaps-6-day-204416812.html"
+    },
+    {
+      "title": "Nvidia Stock Is Showing Signs of Life. What\u2019s Driving the Rebound.",
+      "summary": "Nvidia investors were probably hoping for more AI spending from Meta and Microsoft but the shares were still rising Thursday.",
+      "pub_date": "2026-07-30T20:28:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/nvidia-stock-price-today-capex-aa091d3d?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "US Equity Markets End Higher on Microsoft's Cloud Gains, Semiconductor Rebound",
@@ -29,34 +57,6 @@
       "pub_date": "2026-07-30T20:03:55Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-where-compounding-could-200355068.html"
-    },
-    {
-      "title": "TSMC's next AI chip move sends Intel stock soaring",
-      "summary": "Intel shares soar as TSMC takes on its AI chip packaging technology",
-      "pub_date": "2026-07-30T19:53:43Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/tsmcs-next-ai-chip-move-195343067.html"
-    },
-    {
-      "title": "Intel's Rare AI Advantage Faces a New Threat",
-      "summary": "One manufacturing bottleneck is becoming a crucial battleground",
-      "pub_date": "2026-07-30T19:22:42Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/intels-rare-ai-advantage-faces-192242776.html"
-    },
-    {
-      "title": "Marvell Stock Sits Far Below Its High, But Its Operating Margin Has Kept Climbing",
-      "summary": "The reported operating margin has risen in each of the last two years, and management plans to grow costs far more slowly than revenue from here.",
-      "pub_date": "2026-07-30T19:07:27Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-sits-far-below-190727621.html"
-    },
-    {
-      "title": "Nasdaq Leads Major U.S. Stock Indexes Higher, Fueled by Microsoft Rally",
-      "summary": "U.S. stocks bounced back, with the Nasdaq composite gaining more than 2% as chip stocks rebounded and Microsoft shares surged.",
-      "pub_date": "2026-07-30T18:29:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stock-futures-steady-amid-inflation-fears-c66f314a?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

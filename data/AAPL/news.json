@@ -1,13 +1,20 @@
 {
   "ticker": "AAPL",
-  "generated_at": "2026-07-30T21:01:37.050212+00:00",
+  "generated_at": "2026-07-31T02:10:53.414415+00:00",
   "items": [
     {
-      "title": "Apple Q3 earnings, revenue exceed Wall Street estimates",
-      "summary": "Apple (AAPL) released results for its fiscal third quarter, revealing earnings of $2.02 per share (vs. estimates of $1.80) and revenue of $109.42 billion (vs. estimates of $108.85 billion). The stock is ticking lower in Thursday's after-hours trading. Asking for a Trend Host Josh Lipton dives into Apple's earnings figures.",
-      "pub_date": "2026-07-30T20:35:05Z",
+      "title": "Tim Cook's final earnings call as Apple CEO",
+      "summary": "Tim Cook delivered his final earnings call as Apple's (AAPL) CEO before passing the baton to incoming CEO John Ternus.",
+      "pub_date": "2026-07-30T22:51:00Z",
       "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/apple-q3-earnings-revenue-exceed-wall-street-estimates-203505015.html"
+      "url": "https://finance.yahoo.com/video/tim-cooks-final-earnings-call-225100463.html"
+    },
+    {
+      "title": "Earnings live: Amazon stock surges on earnings beat, Apple stock slides",
+      "summary": "Earnings season kicks into high gear this week.",
+      "pub_date": "2026-07-27T11:52:07Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/earnings-live-amazon-stock-surges-on-earnings-beat-apple-stock-slides-115207214.html"
     },
     {
       "title": "Chip stocks are rebounding \u2014 except for Qualcomm: Why it might just be a 'one off'",
@@ -17,46 +24,39 @@
       "url": "https://finance.yahoo.com/video/chip-stocks-rebounding-except-qualcomm-140656227.html"
     },
     {
-      "title": "Big Tech earnings meet IPO buzz: What to watch Thursday",
-      "summary": "Asking for a Trend Host Josh Lipton previews the biggest market catalysts for Thursday, July 30, including highly anticipated earnings from Apple (AAPL) and Amazon (AMZN) as well as the expected IPO debuts of Jersey Mike's and Reformation.",
-      "pub_date": "2026-07-29T22:00:00Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/big-tech-earnings-meet-ipo-220000114.html"
-    },
-    {
-      "title": "Strong iPhone sales propel Apple's fiscal Q3 results past Wall Street's expectations",
-      "summary": "Apple posted a solid fiscal third quarter on Thursday, climbing past Wall Street's expectations thanks to strong sales of the iPhone and MacBook computers.  Apple raised the prices of its Macs and iPads last month, citing a memory-chip shortage brought on by the artificial intelligence boom.  The company had called the demand spike an \u201cunprecedented challenge\u201d for the consumer electronics industry.",
-      "pub_date": "2026-07-30T20:54:13Z",
-      "source": "Associated Press",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/strong-iphone-sales-propel-apples-205413484.html"
-    },
-    {
-      "title": "Apple\u2019s (NASDAQ:AAPL) Q2 CY2026 Sales Top Estimates",
-      "summary": "iPhone and iPad maker Apple (NASDAQ:AAPL) reported Q2 CY2026 results exceeding the market\u2019s revenue expectations, with sales up 16.4% year on year to $109.4 billion. Its GAAP profit of $2.02 per share was 6.7% above analysts\u2019 consensus estimates.",
-      "pub_date": "2026-07-30T20:49:39Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-nasdaq-aapl-q2-cy2026-204939803.html"
-    },
-    {
-      "title": "Apple beats quarterly revenue and profit estimates on strong iPhone, Mac sales",
-      "summary": "Apple Inc (NASDAQ:AAPL, XETRA:APC) reported fiscal third-quarter revenue and profit that topped Wall Street expectations, driven by stronger-than-expected iPhone and Mac sales, though shares fell more than 4% in after-hours trading. The company posted revenue of $109.42 billion, up 16.4% from...",
-      "pub_date": "2026-07-30T20:47:00Z",
-      "source": "Proactive",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-beats-quarterly-revenue-profit-204700584.html"
-    },
-    {
-      "title": "Stock Market Today: Chips Lead Nasdaq's Fierce Rebound, But Meta Bashed",
-      "summary": "Stock Market Today: The Dow Jones index rallies with the Nasdaq composite following a Fed Day tumble. Meta stock plunges on earnings.",
-      "pub_date": "2026-07-30T20:46:55Z",
+      "title": "Dow Jones Futures: Apple, Amazon Diverge Late; What To Do After AI Stocks Surge",
+      "summary": "The stock market jumped Thursday as Microsoft powered a big AI rebound. Apple and Amazon led earnings late.",
+      "pub_date": "2026-07-31T02:06:29Z",
       "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-meta-stock-meta-q2-earnings/?src=A00220&yptr=yahoo"
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-amazon-earnings-microsoft-powers-ai-stock/?src=A00220&yptr=yahoo"
     },
     {
-      "title": "Apple Beats June-Quarter Targets, Gets Earnings Boost From Tariff Refunds",
-      "summary": "Apple late Thursday beat Wall Street's targets for its fiscal third quarter. But Apple stock fell in extended trading.",
-      "pub_date": "2026-07-30T20:44:44Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/apple-stock-aapl-fiscal-q3-2026-earnings/?src=A00220&yptr=yahoo"
+      "title": "Dow, S&P 500, Nasdaq Futures Extend Rally As Big Tech Earnings Revive AI Trade: AMZN, AAPL, NBIS, RDDT In Focus",
+      "summary": "Despite multiple sessions in the red, all three benchmark indexes are on track to close higher this week.",
+      "pub_date": "2026-07-31T01:35:45Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-013545905.html"
+    },
+    {
+      "title": "MU, SNDK, WDC, SKHY Stock Jump After-Hours \u2014 Memory Chipmakers Soar After Amazon, Apple Management Flag Soaring Costs, Supply Crunch",
+      "summary": "Most memory chipmakers extended Thursday\u2019s gain after-hours as tech bigwigs flag continued rise in memory prices.",
+      "pub_date": "2026-07-31T00:09:35Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mu-sndk-wdc-skhy-stock-000935089.html"
+    },
+    {
+      "title": "Apple Expects Slower Growth After AI Boom Drives Up Costs",
+      "summary": "The company is set to release an upgraded Siri assistant in the fall, and it continues to contend with higher component costs.",
+      "pub_date": "2026-07-31T00:03:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/apple-aapl-q3-earnings-report-2026-stock-a2eed24e?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "The AI secret behind Qualcomm's price hike",
+      "summary": "Anyone who has shopped for a new phone, laptop, or VR headset this summer probably noticed something odd. The usual discount that comes with an aging model never showed up. Prices held steady, and in some cases climbed. Apple just did it, and the trend is spreading everywhere. That is backward. A ...",
+      "pub_date": "2026-07-31T00:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-secret-behind-qualcomms-price-000300448.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "FICO",
-  "generated_at": "2026-07-30T21:02:04.172135+00:00",
+  "generated_at": "2026-07-31T02:11:26.172672+00:00",
   "items": [
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "summary": "Find insight on Fair Isaac, bitcoin ETFs and more in the latest Market Talks covering financial services.",
+      "pub_date": "2026-07-30T21:21:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-cc9c2171?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "FICO Stock Drops the Most in 6 Years. Here\u2019s What Went Wrong.",
       "summary": "FICO dropped on Thursday after the global analytics software company issued lower-than-expected guidance.  The company, formerly known as  Fair Isaac  closed down 17% at $1,139.54, snapping a four-day winning streak to post its largest percent decrease since March 16, 2020, according to Dow Jones Market Data.  For the third quarter of fiscal 2026, the company on Wednesday posted better-than-expected adjusted earnings of $12.18 a share versus consensus expectations for $11.76 a share.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-29T21:29:39Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/fair-isaac-corporation-nyse-fico-212939016.html"
-    },
-    {
-      "title": "Fair Isaac Corporation (FICO) Reports Earnings Tomorrow: What To Expect",
-      "summary": "Credit scoring and analytics company FICO (NYSE:FICO) will be reporting earnings this Wednesday after the bell. Here\u2019s what investors should know.",
-      "pub_date": "2026-07-28T21:09:02Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fair-isaac-corporation-fico-reports-210902592.html"
     }
   ]
 }

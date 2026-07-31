@@ -1,7 +1,14 @@
 {
   "ticker": "SNPS",
-  "generated_at": "2026-07-30T21:02:33.209021+00:00",
+  "generated_at": "2026-07-31T02:12:03.353968+00:00",
   "items": [
+    {
+      "title": "Intel (INTC) Just Expanded Its Foundry Tool Kit For AI Chip Customers",
+      "summary": "Synopsys and Keysight Technologies have certified advanced EDA and electromagnetic simulation tools for Intel's latest 14A and 18A P foundry nodes. The certification expands Intel Foundry's design ecosystem for AI and high performance computing customers using these advanced manufacturing processes. The new tool support is intended to help reduce design risk and shorten time to market for chips built on NasdaqGS:INTC process technology. Intel is working to position its foundry business as a...",
+      "pub_date": "2026-07-30T22:11:01Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-just-expanded-foundry-221101344.html"
+    },
     {
       "title": "Prediction: Synopsys Could Become the Next $150 Billion Software Giant",
       "summary": "Synopsys has cratered over 40% in the past year while its underlying business just posted 42% revenue growth, and that contradiction is exactly where a generational buying opportunity tends to hide.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-29T03:13:08Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-pours-5-billion-031308100.html"
-    },
-    {
-      "title": "Intel\u2019s 14A chips aren\u2019t built yet: Synopsys is already there",
-      "summary": "Anyone who has shipped software before it was fully tested knows the math. A bug caught in code review costs an afternoon. The same bug caught after launch costs a weekend, an apology, and sometimes a customer. Chip design runs on a version of that math, except the much-higher stakes involve ...",
-      "pub_date": "2026-07-28T18:47:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/articles/intel-14a-chips-aren-t-184700392.html"
     }
   ]
 }

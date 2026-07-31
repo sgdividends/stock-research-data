@@ -1,7 +1,14 @@
 {
   "ticker": "PYPL",
-  "generated_at": "2026-07-30T21:02:29.821064+00:00",
+  "generated_at": "2026-07-31T02:11:58.968936+00:00",
   "items": [
+    {
+      "title": "PayPal's $17 Billion Bet Against Wall Street",
+      "summary": "A large bet on its own shares has so far been a losing one, creating a quiet standoff between management's conviction and the market's deep-seated skepticism.",
+      "pub_date": "2026-07-31T01:40:53Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/paypals-17-billion-bet-against-014053126.html"
+    },
     {
       "title": "Visa vs PayPal: The Post Earnings Winner",
       "summary": "Visa crossed $4 trillion in global payments volume the same quarter PayPal brought in a new CEO to salvage branded checkout, and the two earnings reports could not paint a more different picture of where fintech power is actually concentrating.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-29T17:23:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sezzles-everyday-money-expansion-could-172300364.html"
-    },
-    {
-      "title": "How Sezzle's AI and Open-Loop Strategy Could Power Its Next Phase",
-      "summary": "Sezzle is using AI, open-loop payments and deeper consumer engagement to speed development, widen usage and support profitable growth.",
-      "pub_date": "2026-07-29T17:22:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/sezzles-ai-open-loop-strategy-172200139.html"
     }
   ]
 }
