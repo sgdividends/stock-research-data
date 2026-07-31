@@ -1,7 +1,14 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-07-31T02:11:36.031095+00:00",
+  "generated_at": "2026-07-31T06:39:45.335005+00:00",
   "items": [
+    {
+      "title": "Astera Labs vs. Intel: Which Technology Stock Is a Better Buy in 2026?",
+      "summary": "Astera Labs is posting triple-digit growth with a fortress balance sheet, while Intel is seeing accelerating data center growth.",
+      "pub_date": "2026-07-31T04:25:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-vs-intel-technology-042501298.html"
+    },
     {
       "title": "Intel (INTC) Just Expanded Its Foundry Tool Kit For AI Chip Customers",
       "summary": "Synopsys and Keysight Technologies have certified advanced EDA and electromagnetic simulation tools for Intel's latest 14A and 18A P foundry nodes. The certification expands Intel Foundry's design ecosystem for AI and high performance computing customers using these advanced manufacturing processes. The new tool support is intended to help reduce design risk and shorten time to market for chips built on NasdaqGS:INTC process technology. Intel is working to position its foundry business as a...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-30T20:05:23Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/intel-scores-needed-win-bigger-200523007.html"
-    },
-    {
-      "title": "NVDA Stock: Where Compounding Could Take The Price",
-      "summary": "While the world sees a GPU company, management is building a major business in a market it has never addressed before. The company now has visibility to nearly $20 billion in total CPU revenue this year. This shift reframes the growth story from components to full systems.",
-      "pub_date": "2026-07-30T20:03:55Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-where-compounding-could-200355068.html"
     }
   ]
 }
