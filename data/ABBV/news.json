@@ -1,6 +1,6 @@
 {
   "ticker": "ABBV",
-  "generated_at": "2026-07-31T17:23:22.567170+00:00",
+  "generated_at": "2026-07-31T20:58:32.279323+00:00",
   "items": [
     {
       "title": "Friday's market movers: Oil earnings and consumer sentiment data",
@@ -8,6 +8,20 @@
       "pub_date": "2026-07-30T22:01:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/fridays-market-movers-oil-earnings-and-consumer-sentiment-data-220100782.html"
+    },
+    {
+      "title": "AbbVie Earnings Beat Forecasts as Skyrizi Sales Soar 24%. Why the Stock Is Falling.",
+      "summary": "AbbVie slashes its full-year guidance to account for its pending acquisition of Apogee Therapeutics.",
+      "pub_date": "2026-07-31T17:22:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/abbvie-earnings-stock-price-511cff16?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "ABBV Beats on Q2 Earnings & Sales, Cuts '26 EPS View, Stock Down",
+      "summary": "AbbVie tops Q2 earnings and revenue estimates on strong immunology drug sales, but a lower 2026 EPS outlook tied to the Apogee deal weighs on shares.",
+      "pub_date": "2026-07-31T17:11:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/abbv-beats-q2-earnings-sales-171100640.html"
     },
     {
       "title": "AbbVie Inc. Q2 2026 Earnings Call Summary",
@@ -43,20 +57,6 @@
       "pub_date": "2026-07-31T15:04:28Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/healthcare/articles/abbvie-q2-earnings-call-highlights-150428675.html"
-    },
-    {
-      "title": "AbbVie Beats but Cuts Guidance on $10.9 Billion Acquisition",
-      "summary": "Revenue of $16.99 billion and adjusted EPS of $3.65 both beat estimates",
-      "pub_date": "2026-07-31T15:03:48Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/healthcare/articles/abbvie-beats-cuts-guidance-10-150348682.html"
-    },
-    {
-      "title": "Pre-Market Trading Up in Final Session of the Week",
-      "summary": "Despite some mid-week turbulence, we're trading fairly even with where we were as of mid-day Monday.",
-      "pub_date": "2026-07-31T14:34:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/pre-market-trading-final-session-143400237.html"
     }
   ]
 }

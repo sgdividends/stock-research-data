@@ -1,7 +1,14 @@
 {
   "ticker": "PSX",
-  "generated_at": "2026-07-31T17:24:28.267323+00:00",
+  "generated_at": "2026-07-31T20:59:19.413646+00:00",
   "items": [
+    {
+      "title": "Sector Update: Energy Stocks Advance Friday Afternoon",
+      "summary": "Energy stocks were higher Friday afternoon, with the NYSE Energy Sector Index rising 0.3% and the St",
+      "pub_date": "2026-07-31T17:35:30Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-advance-friday-173530588.html"
+    },
     {
       "title": "Sector Update: Energy Stocks Edge Higher Premarket Friday",
       "summary": "Energy stocks were edging higher premarket Friday, with the State Street Energy Select Sector SPDR E",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-29T22:25:08Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cvr-energy-cvi-q2-earnings-222508244.html"
-    },
-    {
-      "title": "Sector Update: Energy Stocks Gain Late Afternoon",
-      "summary": "Energy stocks rose late Wednesday afternoon, with the NYSE Energy Sector Index gaining 2.3% and the",
-      "pub_date": "2026-07-29T19:54:50Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-195450732.html"
     }
   ]
 }

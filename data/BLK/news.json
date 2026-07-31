@@ -1,7 +1,28 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-07-31T17:23:33.574321+00:00",
+  "generated_at": "2026-07-31T20:58:39.881165+00:00",
   "items": [
+    {
+      "title": "BlackRock Bitcoin Buying Rebounds as ETF Investors Sit 22% Underwater",
+      "summary": "BlackRock clients bought $273 million in Bitcoin in two days while the average US spot ETF buyer sits 22% underwater.",
+      "pub_date": "2026-07-31T18:02:04Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/blackrock-bitcoin-buying-rebounds-etf-180204328.html"
+    },
+    {
+      "title": "Beyond 401(k)s: How Millennials Are Ditching Gen X Retirement Strategies.",
+      "summary": "Sorry, Gen X, when it comes to saving for retirement, the younger generation views it differently.",
+      "pub_date": "2026-07-31T17:13:49Z",
+      "source": "Kiplinger",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/beyond-401-k-millennials-ditching-171349867.html"
+    },
+    {
+      "title": "Could Wisconsin strip your voting rights for using prediction markets?",
+      "summary": "On CoinDesk's The Policy Protocol, Renato Mariotti is joined by guest host Ari Redbord, Global Head of Policy at TRM Labs, for a conversation on the politics of the CLARITY Act, the state-vs-federal fight over prediction markets, and Wisconsin's invocation of an 1849 law that could bar prediction-market users from voting. And, they sit down with Rachel Anderica, Head of Global Operations at Anchorage Digital, who walks through Anchorage's agentic banking build inside its OCC trust and a \"cashless reserves\" model in partnership with JPMorgan. Plus, the hosts name the TradFi endorsers of CLARITY \u2014 BlackRock, Fidelity, and Goldman Sachs \u2014 as the Person of the Week.",
+      "pub_date": "2026-07-31T14:41:12Z",
+      "source": "CoinDesk",
+      "url": "https://finance.yahoo.com/video/wisconsin-could-strip-voting-rights-144112423.html"
+    },
     {
       "title": "Tempo Brings BlackRock\u2019s BUIDL to Businesses in New Treasury Partnership",
       "summary": "The ongoing race to become the blockchain of choice for institutional finance is increasingly shifting beyond stablecoins to tokenized Treasury products. The latest entrant is Stripe\u2019s blockchain Tempo, which has integrated BlackRock\u2019s USD Institutional Digital Liquidity Fund (BUIDL) into its ecosystem. It gives eligible users access to the world\u2019s largest tokenized money market fund and",
@@ -36,27 +57,6 @@
       "pub_date": "2026-07-30T17:02:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/kkr-co-shares-gain-q2-170200805.html"
-    },
-    {
-      "title": "The CLARITY Act\u2019s Passage Premium: A $1.4 Billion Mirage",
-      "summary": "In the world of prediction markets, the CLARITY Act was once the golden child. Back in February, the odds of passage sat at a comfortable 82%, a number that suggested the bill was essentially a legislative formality waiting for a signature. Today, that narrative has been dismantled. On July 30, Polymarket odds for the bill\u2019s [\u2026]",
-      "pub_date": "2026-07-30T15:10:38Z",
-      "source": "Forkast News",
-      "url": "https://finance.yahoo.com/economy/policy/articles/clarity-act-passage-premium-1-151038914.html"
-    },
-    {
-      "title": "Blackstone Inc. (BX)\u2019s Profit Jumped 26% on AI Bets but the Stock Barely Moved. Here\u2019s Why.",
-      "summary": "Blackstone Inc. (NYSE:BX) just posted one of its stronger quarters in years. Profit available to shareholders jumped 26% to $1.52 a share, beating estimates that were clustered around $1.33 to $1.35. Total assets under management grew 11% to $1.35 trillion, and revenue jumped 36% to $5.04 billion. Nine of the firm\u2019s ten best-performing investments right [\u2026]",
-      "pub_date": "2026-07-30T14:46:43Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/blackstone-inc-bx-profit-jumped-144643971.html"
-    },
-    {
-      "title": "Meta Is Financing Its $14 Billion El Paso Data Center by Selling 80 Percent of It to BlackRock",
-      "summary": "Meta is financing its $14 billion, 1 GW El Paso data center through a sophisticated sale-leaseback variant that converts existing land and construction-in-progress assets into partnership equity. By offloading the immediate capital burden to external partners, the company has established a joint venture where BlackRock-managed funds hold an 80% equity stake, while Meta retains a [\u2026]",
-      "pub_date": "2026-07-30T13:19:29Z",
-      "source": "Forkast News",
-      "url": "https://finance.yahoo.com/technology/ai/articles/meta-financing-14-billion-el-131929509.html"
     }
   ]
 }
