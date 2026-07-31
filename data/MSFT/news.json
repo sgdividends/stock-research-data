@@ -1,13 +1,20 @@
 {
   "ticker": "MSFT",
-  "generated_at": "2026-07-31T06:39:53.835505+00:00",
+  "generated_at": "2026-07-31T10:32:49.699017+00:00",
   "items": [
     {
-      "title": "Earnings live: Amazon stock surges on earnings beat, Apple stock slides",
-      "summary": "Earnings season kicks into high gear this week.",
-      "pub_date": "2026-07-27T11:52:07Z",
+      "title": "Amazon stock soars after Q2 earnings beat expectations as AI, chip businesses see $25 billion run rate",
+      "summary": "Amazon reported its Q2 earnings after the bell on Thursday.",
+      "pub_date": "2026-07-29T11:56:22Z",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/earnings-live-amazon-stock-surges-on-earnings-beat-apple-stock-slides-115207214.html"
+      "url": "https://finance.yahoo.com/news/amazon-stock-soars-after-q2-earnings-beat-expectations-as-ai-chip-businesses-see-25-billion-run-rate-115622323.html"
+    },
+    {
+      "title": "The AI spending boom is forcing a rethink on stock buybacks: One Big Investment Idea",
+      "summary": "Stock buybacks are near historic highs. But their biggest benefit to investors \u2014 making each remaining share more valuable \u2014 is fading in the era of the AI spending boom.",
+      "pub_date": "2026-07-31T10:00:00Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/the-ai-spending-boom-is-forcing-a-rethink-on-stock-buybacks-one-big-investment-idea-100000480.html"
     },
     {
       "title": "Microsoft's stock rockets more than 15% for largest single-day jump in history",
@@ -38,25 +45,18 @@
       "url": "https://finance.yahoo.com/video/chip-stocks-rebounding-except-qualcomm-140656227.html"
     },
     {
-      "title": "Wall Street splits on Big Tech's AI bills",
-      "summary": "<body><p>STORY: :: Central California / July 30, 2026</p><p>:: AI is costing billions and Wall Street expects returns</p><p>:: Stephen Nellis, Technology Correspondent</p><p>\"The big takeaway from a spate of big tech earnings this week is that AI costs a lot of money to build, but what Wall Street really cares about is whether you have a credible plan in place to make money off of AI once you've built it.\"</p><p>\"Microsoft and Meta both talked about spending a lot of money to build up data centers to deliver AI, but one stock, Meta, got punished while another stock, Microsoft, got rewarded. I think what you have to understand is that there's a huge difference in how these companies want to go after AI.\"</p><p>\"Meta is looking at weaving AI into all of its existing products that people know about, like Instagram, etc.\"</p><p>\"Microsoft has a bit of a different approach where what they're pitching is saying, hey, what we plan to make money on is that part of helping the business figure out how to apply AI to the data inside their business.\"</p><p>\"Apple is a little bit different case from the rest of its big tech peers, and that's because at this point, its business is still mostly selling things like iPhones because it's been very late to AI.\"</p><p>\"The company had really good sales of iPhones and Macs in the quarter that just ended in late June, but looking ahead to the quarter that we're in currently in the rest of the year, it's actually signaling that this AI data center build out is really gumming up the supply chain in a way that's gonna make it harder for Apple to actually build its consumer devices, even though those devices don't compete directly with these data centers.\"</p><p>\"And I think you're seeing the market respond to what they think of those different approaches.\"</p></body>",
-      "pub_date": "2026-07-31T05:30:17Z",
-      "source": "Reuters Videos",
-      "url": "https://finance.yahoo.com/video/wall-street-splits-big-techs-053017939.html"
-    },
-    {
       "title": "Dow Jones Futures: Apple, Amazon Diverge Late; What To Do After AI Stocks Surge",
       "summary": "The stock market jumped Thursday as Microsoft powered a big AI rebound. Apple and Amazon led earnings late.",
-      "pub_date": "2026-07-31T03:04:56Z",
+      "pub_date": "2026-07-31T10:15:14Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-amazon-earnings-microsoft-powers-ai-stock/?src=A00220&yptr=yahoo"
     },
     {
-      "title": "Amazon Stock Pops 9.5% After-Hours as AWS Fuels Earnings Beat: Jim Cramer Calls it 'Astonishing'",
-      "summary": "Amazon.com, Inc. (NASDAQ:AMZN) shares jumped Thursday after the company delivered stronger-than-expected second-quarter earnings, with investors and analysts praising accelerating Amazon Web Services profitability as evidence that returns on artificial intelligence investments are beginning to materialize. Cramer Calls Amazon \u2018Astonishing\u2019 After AWS Delivers CNBC host Jim Cramer called the results \u201castonishing,\u201d in a post on X, though he said Microsoft Corp. (NASDAQ:MSFT) remains the standout am",
-      "pub_date": "2026-07-31T02:32:40Z",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-pops-9-5-023240167.html"
+      "title": "Teetering US stock market faces jobs report, big earnings week\u00a0",
+      "summary": "By Lewis Krauskopf NEW YORK, July 31 (Reuters) - U.S. employment data and a batch of corporate results this coming week will keep equity investors on edge over the direction of the stock market, which",
+      "pub_date": "2026-07-31T10:02:38Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/teetering-us-stock-market-faces-100238136.html"
     }
   ]
 }

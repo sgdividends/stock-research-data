@@ -1,7 +1,14 @@
 {
   "ticker": "META",
-  "generated_at": "2026-07-31T06:39:52.007984+00:00",
+  "generated_at": "2026-07-31T10:32:47.080056+00:00",
   "items": [
+    {
+      "title": "Amazon stock soars after Q2 earnings beat expectations as AI, chip businesses see $25 billion run rate",
+      "summary": "Amazon reported its Q2 earnings after the bell on Thursday.",
+      "pub_date": "2026-07-29T11:56:22Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/amazon-stock-soars-after-q2-earnings-beat-expectations-as-ai-chip-businesses-see-25-billion-run-rate-115622323.html"
+    },
     {
       "title": "Earnings live: Amazon stock surges on earnings beat, Apple stock slides",
       "summary": "Earnings season kicks into high gear this week.",
@@ -10,53 +17,46 @@
       "url": "https://finance.yahoo.com/markets/live/earnings-live-amazon-stock-surges-on-earnings-beat-apple-stock-slides-115207214.html"
     },
     {
-      "title": "Microsoft and Meta results send stocks in opposite directions",
-      "summary": "Microsoft and Meta reported their earnings on Wednesday.",
-      "pub_date": "2026-07-30T18:00:06Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/article/microsoft-and-meta-results-send-stocks-in-opposite-directions-180006443.html"
-    },
-    {
-      "title": "Microsoft and Meta boost AI spending, but only one stock pays the price",
-      "summary": "Scott Melker discusses the Federal Reserve's latest decision to hold interest rates steady, Meta (META) and Microsoft's (MSFT) increasing AI expenses, but only one stock is getting punished. Meanwhile, bitcoin (BTC-USD) continues to hover around $64,000, Melker explains why the cryptocurrency's resilience is a bullish sign despite the broader market uncertainty. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.",
-      "pub_date": "2026-07-30T16:00:00Z",
+      "title": "Meta's & Microsoft's massive AI spending: Why only one is getting rewarded",
+      "summary": "Scott Melker discusses Meta's (META) and Microsoft's (MSFT) recent earnings results and rising AI expenses. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.",
+      "pub_date": "2026-07-30T17:30:00Z",
       "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/microsoft-meta-boost-ai-spending-160000943.html"
+      "url": "https://finance.yahoo.com/video/metas-microsofts-massive-ai-spending-173000471.html"
     },
     {
-      "title": "One line from Meta's earnings call that ensured the stock will likely stay dead money",
-      "summary": "Meta stock takes another plunge.",
-      "pub_date": "2026-07-30T13:45:42Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/one-line-from-metas-earnings-call-that-ensured-the-stock-will-likely-stay-dead-money-134542007.html"
+      "title": "Meta is in need of a new 'lead singer' beyond advertising: Brent Thill",
+      "summary": "Meta Platforms (META) stock is down by over 9% on Thursday since the tech giant released quarterly results that missed adjusted earnings estimates while raising the lower end of its full-year capital expenditures. Jefferies senior analyst Brent Thill highlights Meta's various revenue segments and why the Big Tech name needs to look beyond just its core advertising business.",
+      "pub_date": "2026-07-30T15:01:39Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/meta-is-in-need-of-a-new-lead-singer-beyond-advertising-brent-thill-150139791.html"
     },
     {
-      "title": "Dolby Laboratories Q3 Earnings Call Highlights",
-      "summary": "Dolby Laboratories (NYSE:DLB) reported third-quarter fiscal 2026 revenue of $305 million, within its prior guidance range, as strength in Dolby Atmos, Dolby Vision and imaging patents was partly offset by deal timing and foundational audio revenue. Non-GAAP earnings per share were $0.69, slightly a",
-      "pub_date": "2026-07-31T06:03:59Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dolby-laboratories-q3-earnings-call-060359256.html"
+      "title": "Dow Jones Futures: Apple, Amazon Diverge Late; What To Do After AI Stocks Surge",
+      "summary": "The stock market jumped Thursday as Microsoft powered a big AI rebound. Apple and Amazon led earnings late.",
+      "pub_date": "2026-07-31T10:15:14Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-apple-amazon-earnings-microsoft-powers-ai-stock/?src=A00220&yptr=yahoo"
     },
     {
-      "title": "Missed Out On Nebius? This Former Crypto Miner Might Be Your Second Chance.",
-      "summary": "Keel is pivoting from crypto mining to AI infrastructure, and it's still early for investors who want to accumulate shares.",
-      "pub_date": "2026-07-31T05:50:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/missed-nebius-former-crypto-miner-055000764.html"
+      "title": "Teetering US stock market faces jobs report, big earnings week\u00a0",
+      "summary": "By Lewis Krauskopf NEW YORK, July 31 (Reuters) - U.S. employment data and a batch of corporate results this coming week will keep equity investors on edge over the direction of the stock market, which",
+      "pub_date": "2026-07-31T10:02:38Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/teetering-us-stock-market-faces-100238136.html"
     },
     {
-      "title": "Wall Street splits on Big Tech's AI bills",
-      "summary": "<body><p>STORY: :: Central California / July 30, 2026</p><p>:: AI is costing billions and Wall Street expects returns</p><p>:: Stephen Nellis, Technology Correspondent</p><p>\"The big takeaway from a spate of big tech earnings this week is that AI costs a lot of money to build, but what Wall Street really cares about is whether you have a credible plan in place to make money off of AI once you've built it.\"</p><p>\"Microsoft and Meta both talked about spending a lot of money to build up data centers to deliver AI, but one stock, Meta, got punished while another stock, Microsoft, got rewarded. I think what you have to understand is that there's a huge difference in how these companies want to go after AI.\"</p><p>\"Meta is looking at weaving AI into all of its existing products that people know about, like Instagram, etc.\"</p><p>\"Microsoft has a bit of a different approach where what they're pitching is saying, hey, what we plan to make money on is that part of helping the business figure out how to apply AI to the data inside their business.\"</p><p>\"Apple is a little bit different case from the rest of its big tech peers, and that's because at this point, its business is still mostly selling things like iPhones because it's been very late to AI.\"</p><p>\"The company had really good sales of iPhones and Macs in the quarter that just ended in late June, but looking ahead to the quarter that we're in currently in the rest of the year, it's actually signaling that this AI data center build out is really gumming up the supply chain in a way that's gonna make it harder for Apple to actually build its consumer devices, even though those devices don't compete directly with these data centers.\"</p><p>\"And I think you're seeing the market respond to what they think of those different approaches.\"</p></body>",
-      "pub_date": "2026-07-31T05:30:17Z",
-      "source": "Reuters Videos",
-      "url": "https://finance.yahoo.com/video/wall-street-splits-big-techs-053017939.html"
+      "title": "The Best House On The Block Costs The Most: RDDT",
+      "summary": "Reddit is delivering leading growth but commands a top-of-the-market price, forcing investors to decide if its operational lead is already paid for.",
+      "pub_date": "2026-07-31T09:04:01Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/best-house-block-costs-most-090401012.html"
     },
     {
-      "title": "Zuckerberg is betting big on a superintelligence future",
-      "summary": "Every big vision eventually shows up on a balance sheet. Investors have spent the past year listening to Mark Zuckerberg describe a future in which artificial intelligence (AI) becomes personal, universal, and roughly as ordinary as electricity. The pitch has been consistent. It has also been ...",
-      "pub_date": "2026-07-31T03:33:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/ai/articles/zuckerberg-betting-big-superintelligence-future-033300255.html"
+      "title": "Nasdaq, S&P 500 Futures Rise As Amazon Reignites AI Trade, Apple Slides: Why TSLA, SPCX, RDDT, SMCI, BE, RKLB Are In Focus",
+      "summary": "On Stocktwits, retail sentiment for SPY remained 'bearish,' and improved to 'neutral' on QQQ as investors warmed to the latest AI-driven earnings.",
+      "pub_date": "2026-07-31T08:54:30Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-rise-085430130.html"
     }
   ]
 }
