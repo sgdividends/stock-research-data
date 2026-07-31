@@ -1,7 +1,14 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-07-31T13:51:07.993949+00:00",
+  "generated_at": "2026-07-31T17:24:20.075549+00:00",
   "items": [
+    {
+      "title": "What the Options Market Is Signaling About the Size of the Next Move in Salesforce Stock",
+      "summary": "If you hold shares in the software giant, you are already carrying exposure to a remarkably wide range of outcomes priced in for the coming year.",
+      "pub_date": "2026-07-31T13:45:05Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/options-market-signaling-size-next-134505594.html"
+    },
     {
       "title": "This Week In Cloud AI - AI Spending Soars Worldwide As Industries Transform",
       "summary": "In its first year, BCC Research's Artificial Intelligence vertical has developed a comprehensive suite of reports to provide a detailed view of the global AI market. This collection includes quarterly Core Four reports alongside monthly Pulse Reports and an AI Sentiment Index, offering insights into AI adoption, disruption, usage, and investment across various industries worldwide. Notably, the reports highlight a structural shift in industries such as finance, logistics, and digital health,...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-30T13:53:26Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-showing-signs-life-still-135326585.html"
-    },
-    {
-      "title": "ServiceNow CEO admits there's a solution to AI's biggest problem",
-      "summary": "One of the genuine fears surrounding agentic AI is the question nobody likes to say out loud: What happens when it goes wrong? Or becomes unmanageable? We all know what AI can do. It can operate autonomously across enterprise systems, make decisions, and take actions without constant human ...",
-      "pub_date": "2026-07-29T19:13:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-ceo-admits-theres-solution-191300377.html"
     }
   ]
 }

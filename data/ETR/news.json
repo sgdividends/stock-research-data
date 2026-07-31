@@ -1,7 +1,14 @@
 {
   "ticker": "ETR",
-  "generated_at": "2026-07-31T13:50:39.685622+00:00",
+  "generated_at": "2026-07-31T17:23:52.793709+00:00",
   "items": [
+    {
+      "title": "Edison International Q2 Earnings Surpass Estimates, Revenues Miss",
+      "summary": "EIX Q2 earnings surge 58.8% and beat estimates by 51%, while revenues decline and miss expectations.",
+      "pub_date": "2026-07-31T13:25:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/edison-international-q2-earnings-surpass-132500317.html"
+    },
     {
       "title": "IDACORP Q2 Earnings Outpace Estimates, Revenues Increase Y/Y",
       "summary": "IDA surpasses Q2 earnings estimates as customer growth, rate changes and large contracts lift results, while revenues rise and guidance improves.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-28T11:40:01Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cms-energy-cms-meets-q2-114001772.html"
-    },
-    {
-      "title": "Entergy Gears Up to Report Q2 Earnings: Here's What to Expect",
-      "summary": "ETR's Q2 results may reflect stronger retail, industrial and data center demand, while storm restoration costs are likely to have pressured the performance.",
-      "pub_date": "2026-07-27T12:50:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-gears-report-q2-earnings-125000687.html"
     }
   ]
 }

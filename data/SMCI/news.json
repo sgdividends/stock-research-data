@@ -1,6 +1,6 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-07-31T13:51:19.907795+00:00",
+  "generated_at": "2026-07-31T17:24:32.899721+00:00",
   "items": [
     {
       "title": "Nasdaq, S&P 500 Futures Rise As Amazon Reignites AI Trade, Apple Slides: Why TSLA, SPCX, RDDT, SMCI, BE, RKLB Are In Focus",
@@ -8,6 +8,13 @@
       "pub_date": "2026-07-31T08:54:30Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-rise-085430130.html"
+    },
+    {
+      "title": "Palantir Holds the Edge Ahead of Earnings",
+      "summary": "Analysts favor Palantir ahead of earnings.",
+      "pub_date": "2026-07-30T20:03:21Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/palantir-holds-edge-ahead-earnings-200321010.html"
     },
     {
       "title": "Super Micro's Next Earnings Could Trigger an 18% Stock Swing",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-28T12:44:52Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-gets-drawn-supermicro-chip-124452196.html"
-    },
-    {
-      "title": "Jim Cramer Tells Leveraged AI Investors \u2018Sell it. No Matter What.\u2019 At the Market Open Today",
-      "summary": "Jim Cramer issued one of his sharpest warnings of the year on Mad Money last night, and it lands at a moment when leveraged AI positions are sitting in a minefield few retail investors seem to see yet.",
-      "pub_date": "2026-07-28T12:43:19Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/options/articles/jim-cramer-tells-leveraged-ai-124319799.html"
     }
   ]
 }
