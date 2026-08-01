@@ -1,6 +1,6 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-08-01T02:12:45.034134+00:00",
+  "generated_at": "2026-08-01T06:23:56.056697+00:00",
   "items": [
     {
       "title": "Coinbase stock sinks as weak crypto market leads to another quarterly loss",
@@ -8,6 +8,13 @@
       "pub_date": "2026-07-31T11:32:36Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/crypto/article/coinbase-stock-sinks-as-weak-crypto-market-leads-to-another-quarterly-loss-113236213.html"
+    },
+    {
+      "title": "COIN Q2 Deep Dive: Revenue Miss, Exec Turnover, and Product Diversification Take Center Stage",
+      "summary": "Blockchain infrastructure company Coinbase (NASDAQ:COIN) fell short of the market\u2019s revenue expectations in Q2 CY2026, with sales falling 18.5% year on year to $1.22 billion. Its non-GAAP loss of $1.36 per share was significantly below analysts\u2019 consensus estimates.",
+      "pub_date": "2026-08-01T03:55:57Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coin-q2-deep-dive-revenue-035557581.html"
     },
     {
       "title": "Crypto Market Today, July 31: Bitcoin Slides Below $63,000 and Coinbase Tumbles 10%",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-31T19:13:54Z",
       "source": "BeInCrypto",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-earnings-misses-later-wall-191354922.html"
-    },
-    {
-      "title": "Sector Update: Financial Stocks Edge Higher Friday Afternoon",
-      "summary": "Financial stocks were slightly higher in Friday afternoon trading, with the NYSE Financial Index up",
-      "pub_date": "2026-07-31T17:46:32Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-edge-higher-174632782.html"
     }
   ]
 }

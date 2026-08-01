@@ -1,7 +1,14 @@
 {
   "ticker": "BAC",
-  "generated_at": "2026-08-01T02:12:35.825865+00:00",
+  "generated_at": "2026-08-01T06:23:49.241181+00:00",
   "items": [
+    {
+      "title": "Bank of America sends strong verdict to Meta stock investor",
+      "summary": "For five consecutive quarters, Meta Platforms did something that very few companies at its scale manage to pull off. It beat earnings expectations every single time, while simultaneously ramping one of the most aggressive AI spending programs in corporate history. The market rewarded both things. ...",
+      "pub_date": "2026-08-01T03:33:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-strong-verdict-033300427.html"
+    },
     {
       "title": "Bank Of America (BAC) Buys MDSec In First Deal For Five Years",
       "summary": "Bank of America (NYSE:BAC) has agreed to acquire UK based cybersecurity firm MDSec Consulting. The deal is aimed at strengthening the bank's digital defense capabilities in response to rising AI driven cyber threats. This is Bank of America's first acquisition in five years and is expected to support its growth plans in the UK and globally. Bank of America operates as a large global financial institution with a significant presence in retail banking, wealth management, and corporate...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-31T15:45:01Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/economy/policy/articles/us-treasury-weighs-repo-entry-154501350.html"
-    },
-    {
-      "title": "Fed's Hawkish Pause Puts JPMorgan in Focus: Buy, Sell or Hold?",
-      "summary": "Does JPM's rising 2026 NII outlook, diversified revenues and solid capital base make it well suited for the Fed's higher-for-longer rate stance? Let's find out.",
-      "pub_date": "2026-07-31T13:59:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/economy/policy/articles/feds-hawkish-pause-puts-jpmorgan-135900958.html"
     }
   ]
 }
