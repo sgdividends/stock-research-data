@@ -1,7 +1,14 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-08-01T09:54:01.868532+00:00",
+  "generated_at": "2026-08-01T13:06:26.339754+00:00",
   "items": [
+    {
+      "title": "ServiceNow cuts nearly 300 jobs in Silicon Valley",
+      "summary": "Silicon Valley tech company ServiceNow has laid off almost 300 jobs.",
+      "pub_date": "2026-08-01T10:00:00Z",
+      "source": "LA Times",
+      "url": "https://finance.yahoo.com/technology/articles/servicenow-cuts-nearly-300-jobs-100000472.html"
+    },
     {
       "title": "Rimini Street Q2 Earnings Call Highlights",
       "summary": "Rimini Street (NASDAQ:RMNI) reported second-quarter revenue growth and reiterated its full-year outlook, citing demand for its core support offerings, expansion of its enterprise software services portfolio and progress in selling AI-focused solutions. Revenue for the quarter ended June 30 was $111",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-30T18:32:42Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/technology/articles/exclusive-servicenow-cut-1k-jobs-183242920.html"
-    },
-    {
-      "title": "Analyzing ServiceNow\u2019s (NOW) Unique Position in Workflow Automation",
-      "summary": "Investment management company Vulcan Value Partners recently released its second-quarter 2026 investor letter. A copy of the letter can be downloaded here. Vulcan Value Partners prioritizes long-term returns and lower risk over short-term performance. In the quarter, the Large Cap Composite (Net) returned 9.5%, the Small Cap Composite (Net) returned 13.3%, the Focus Composite (Net) returned 10.4%, the [\u2026]",
-      "pub_date": "2026-07-30T14:08:49Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/analyzing-servicenow-now-unique-position-140849153.html"
     }
   ]
 }
