@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "generated_at": "2026-08-01T06:24:20.430083+00:00",
+  "generated_at": "2026-08-01T09:53:56.637816+00:00",
   "items": [
     {
       "title": "Tech stocks today: Amazon beats, Apple sinks",
@@ -22,6 +22,13 @@
       "pub_date": "2026-07-31T10:00:00Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/the-ai-spending-boom-is-forcing-a-rethink-on-stock-buybacks-one-big-investment-idea-100000480.html"
+    },
+    {
+      "title": "Capital Power Q2 Earnings Call Highlights",
+      "summary": "Capital Power (TSE:CPX) said its second-quarter results reflected higher generation, contributions from its expanded PJM platform and continued commercial optimization, while management raised its estimate of annual adjusted EBITDA upside embedded in its existing portfolio to approximately C$1.25 bi",
+      "pub_date": "2026-08-01T09:03:46Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/energy/articles/capital-power-q2-earnings-call-090346806.html"
     },
     {
       "title": "Australia defends under-16 social media ban despite widespread use",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-01T01:15:39Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/stocks/articles/insurance-etfs-top-defensive-sector-011539347.html"
-    },
-    {
-      "title": "Pembina Pipeline Q2 Earnings Call Highlights",
-      "summary": "Pembina Pipeline (NYSE:PBA) reported second-quarter adjusted EBITDA of C$1.064 billion, up C$51 million, or 5%, from the same period a year earlier, as solid pipeline and facilities operations and stronger marketing results offset the impact of a revised Alliance Pipeline toll structure and revenue-",
-      "pub_date": "2026-07-31T23:03:53Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/energy/articles/pembina-pipeline-q2-earnings-call-230353423.html"
     }
   ]
 }
