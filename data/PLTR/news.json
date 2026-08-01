@@ -1,7 +1,14 @@
 {
   "ticker": "PLTR",
-  "generated_at": "2026-08-01T13:06:31.427562+00:00",
+  "generated_at": "2026-08-01T16:54:52.783741+00:00",
   "items": [
+    {
+      "title": "The Market Now Says Palantir Technologies Is Just an LLM Wrapper. The Financials Disagree",
+      "summary": "Palantir's stock has cratered 40% from its peak and critics are calling it a glorified chatbot wrapper, but the company's own financials are moving in the opposite direction from the narrative.",
+      "pub_date": "2026-08-01T14:43:34Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-now-says-palantir-technologies-144334046.html"
+    },
     {
       "title": "S&P 500 Posts Weekly Gain Amid AI Monetization Optimism",
       "summary": "The Standard & Poor's 500 index rose 1.1% this week as hyperscalers showed the mega spend on the art",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-31T18:16:13Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-next-earnings-report-181613948.html"
-    },
-    {
-      "title": "Will Top-Line Improvement Benefit Palantir in Q2 Earnings?",
-      "summary": "PLTR's second-quarter revenues are expected to jump 80% as AI-driven demand lifts its government and commercial businesses.",
-      "pub_date": "2026-07-31T18:12:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/top-line-improvement-benefit-palantir-181200340.html"
     }
   ]
 }

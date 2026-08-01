@@ -1,7 +1,14 @@
 {
   "ticker": "ACN",
-  "generated_at": "2026-08-01T13:05:39.601173+00:00",
+  "generated_at": "2026-08-01T16:54:07.612942+00:00",
   "items": [
+    {
+      "title": "What ACN Holders Got Paid While The Stock Fell Behind",
+      "summary": "A consulting giant showered its owners with cash, yet the stock fell far behind the market. Here is the accounting of what that money truly bought, and what it means now.",
+      "pub_date": "2026-08-01T15:01:50Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/acn-holders-got-paid-while-150150643.html"
+    },
     {
       "title": "Accenture (ACN) Outperforms Broader Market: What You Need to Know",
       "summary": "Accenture (ACN) closed the most recent trading day at $165.92, moving +1.61% from the previous trading session.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-30T21:02:00Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/options/articles/bank-13-ibm-stock-buying-210200218.html"
-    },
-    {
-      "title": "IBM Swapped Its AI Scoreboard For A Quantum One",
-      "summary": "The generative AI figure that once made its progress checkable is gone from the latest earnings call.",
-      "pub_date": "2026-07-30T11:59:55Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-swapped-ai-scoreboard-quantum-115955903.html"
     }
   ]
 }
