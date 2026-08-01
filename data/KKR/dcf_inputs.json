@@ -1,8 +1,8 @@
 {
   "ticker": "KKR",
-  "price": 95.97,
+  "price": 101.43,
   "beta": 1.794,
-  "market_cap": 89486417920,
+  "market_cap": 94577549312,
   "ocf_ttm": -325296000.0,
   "capex_ttm": 167343000.0,
   "da_ttm": null,
@@ -11,6 +11,6 @@
   "debt": 55780061184,
   "shares": 932441505,
   "rev_cagr": 0.5112,
-  "latest_rev_yoy": -0.066,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.022,
+  "last_updated": "2026-08-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

@@ -1,8 +1,8 @@
 {
   "ticker": "APO",
-  "price": 119.0,
+  "price": 125.59,
   "beta": 1.499,
-  "market_cap": 68605583360,
+  "market_cap": 72404828160,
   "ocf_ttm": 7854000000.0,
   "capex_ttm": null,
   "da_ttm": 1520000000.0,
@@ -12,5 +12,5 @@
   "shares": 576517513,
   "rev_cagr": 0.4296,
   "latest_rev_yoy": -0.092,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "last_updated": "2026-08-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

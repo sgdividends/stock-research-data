@@ -1,6 +1,6 @@
 {
   "ticker": "DD",
-  "price": 137.4,
+  "price": 137.0,
   "beta": 1.083,
   "market_cap": null,
   "ocf_ttm": 362000000.0,
@@ -12,5 +12,5 @@
   "shares": null,
   "rev_cagr": -0.1927,
   "latest_rev_yoy": 0.043,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "last_updated": "2026-08-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

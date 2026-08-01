@@ -1,8 +1,8 @@
 {
   "ticker": "TTD",
-  "price": 16.79,
+  "price": 18.04,
   "beta": 1.04,
-  "market_cap": 7893119488,
+  "market_cap": 8480755200,
   "ocf_ttm": 1093093000.0,
   "capex_ttm": 263760000.0,
   "da_ttm": 123230000.0,
@@ -12,5 +12,5 @@
   "shares": 470108361,
   "rev_cagr": 0.2244,
   "latest_rev_yoy": 0.118,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "last_updated": "2026-08-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

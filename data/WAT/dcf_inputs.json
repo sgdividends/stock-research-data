@@ -1,8 +1,8 @@
 {
   "ticker": "WAT",
-  "price": 382.41,
+  "price": 377.31,
   "beta": 1.202,
-  "market_cap": 37547253760,
+  "market_cap": 37046505472,
   "ocf_ttm": 389555000.0,
   "capex_ttm": 125745000.0,
   "da_ttm": 363237000.0,
@@ -12,5 +12,5 @@
   "shares": 98185855,
   "rev_cagr": 0.0212,
   "latest_rev_yoy": 0.914,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "last_updated": "2026-08-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

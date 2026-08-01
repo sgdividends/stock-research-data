@@ -1,16 +1,16 @@
 {
   "ticker": "FTV",
-  "price": 60.62,
+  "price": 59.21,
   "beta": 0.977,
-  "market_cap": 18480674816,
-  "ocf_ttm": 1076300000.0,
-  "capex_ttm": 48000000.0,
-  "da_ttm": 443200000.0,
+  "market_cap": 17882429440,
+  "ocf_ttm": 1051300000.0,
+  "capex_ttm": 11300000.0,
+  "da_ttm": 447500000.0,
   "sbc_est": null,
-  "cash": 356100000,
-  "debt": 3582099968,
-  "shares": 304861021,
+  "cash": 374200000,
+  "debt": 3598099968,
+  "shares": 302017052,
   "rev_cagr": -0.1062,
-  "latest_rev_yoy": 0.077,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.079,
+  "last_updated": "2026-08-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

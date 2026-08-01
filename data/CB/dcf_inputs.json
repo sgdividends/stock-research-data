@@ -1,16 +1,16 @@
 {
   "ticker": "CB",
-  "price": 353.25,
+  "price": 350.68,
   "beta": 0.406,
-  "market_cap": 137011576832,
-  "ocf_ttm": 15197000000.0,
+  "market_cap": 135292297216,
+  "ocf_ttm": 15376000000.0,
   "capex_ttm": null,
   "da_ttm": 299000000.0,
   "sbc_est": null,
-  "cash": 2752999936,
-  "debt": 0,
-  "shares": 387860106,
+  "cash": 7968000000,
+  "debt": 25013999616,
+  "shares": 385799859,
   "rev_cagr": 0.1156,
-  "latest_rev_yoy": 0.06,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.061,
+  "last_updated": "2026-08-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

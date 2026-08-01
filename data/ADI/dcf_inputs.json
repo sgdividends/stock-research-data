@@ -1,16 +1,16 @@
 {
   "ticker": "ADI",
-  "price": 380.2,
+  "price": 367.41,
   "beta": 1.188,
-  "market_cap": 185190498304,
+  "market_cap": null,
   "ocf_ttm": 5106471000.0,
   "capex_ttm": 541321000.0,
   "da_ttm": 1964071000.0,
   "sbc_est": null,
   "cash": 3439308032,
   "debt": 8708730880,
-  "shares": 487087040,
+  "shares": null,
   "rev_cagr": -0.0284,
   "latest_rev_yoy": 0.372,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "last_updated": "2026-08-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

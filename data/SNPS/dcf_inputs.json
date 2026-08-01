@@ -1,8 +1,8 @@
 {
   "ticker": "SNPS",
-  "price": 373.52,
+  "price": 388.76,
   "beta": 1.222,
-  "market_cap": 71521353728,
+  "market_cap": 74439507968,
   "ocf_ttm": 2796464000.0,
   "capex_ttm": 162669000.0,
   "da_ttm": 1470769000.0,
@@ -12,5 +12,5 @@
   "shares": 191479325,
   "rev_cagr": 0.1519,
   "latest_rev_yoy": 0.419,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "last_updated": "2026-08-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

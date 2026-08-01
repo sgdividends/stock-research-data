@@ -1,16 +1,16 @@
 {
   "ticker": "CSX",
-  "price": 52.81,
-  "beta": null,
-  "market_cap": 97829199872,
+  "price": 50.4,
+  "beta": 1.211,
+  "market_cap": 93364740096,
   "ocf_ttm": 5322000000.0,
   "capex_ttm": 2526000000.0,
   "da_ttm": 1654000000.0,
   "sbc_est": null,
   "cash": 1390000000,
-  "debt": 19356999680,
+  "debt": 19451000832,
   "shares": 1852474917,
   "rev_cagr": -0.0174,
   "latest_rev_yoy": 0.101,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "last_updated": "2026-08-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

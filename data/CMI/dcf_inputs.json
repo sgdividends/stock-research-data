@@ -1,8 +1,8 @@
 {
   "ticker": "CMI",
-  "price": 665.03,
+  "price": 634.2,
   "beta": 1.222,
-  "market_cap": 91766874112,
+  "market_cap": 87512670208,
   "ocf_ttm": 3933000000.0,
   "capex_ttm": 1262000000.0,
   "da_ttm": 1118000000.0,
@@ -12,5 +12,5 @@
   "shares": 137989067,
   "rev_cagr": 0.0625,
   "latest_rev_yoy": 0.027,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
-}
+  "last_updated": "2026-08-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}}

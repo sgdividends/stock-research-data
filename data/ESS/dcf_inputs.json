@@ -1,16 +1,16 @@
 {
   "ticker": "ESS",
-  "price": 293.2,
+  "price": 284.14,
   "beta": 0.715,
-  "market_cap": 20209160192,
-  "ocf_ttm": 1080089000.0,
-  "capex_ttm": 132222000.0,
-  "da_ttm": 611150000.0,
+  "market_cap": 19584690176,
+  "ocf_ttm": 1118023000.0,
+  "capex_ttm": 127224000.0,
+  "da_ttm": 613722000.0,
   "sbc_est": null,
-  "cash": 41705000,
-  "debt": 6857027072,
+  "cash": 58327000,
+  "debt": 6748253184,
   "shares": 68926188,
   "rev_cagr": 0.0551,
-  "latest_rev_yoy": 0.064,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.031,
+  "last_updated": "2026-08-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

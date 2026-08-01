@@ -1,16 +1,16 @@
 {
   "ticker": "LH",
-  "price": 291.02,
+  "price": 309.2,
   "beta": 0.861,
-  "market_cap": null,
+  "market_cap": 25014280192,
   "ocf_ttm": 1813500000.0,
   "capex_ttm": 429500000.0,
   "da_ttm": 687600000.0,
   "sbc_est": null,
-  "cash": 981100032,
-  "debt": 7294400000,
-  "shares": null,
+  "cash": 141800000,
+  "debt": 6766099968,
+  "shares": 80900000,
   "rev_cagr": 0.0555,
   "latest_rev_yoy": 0.058,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "last_updated": "2026-08-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

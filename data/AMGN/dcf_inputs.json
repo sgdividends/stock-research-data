@@ -1,8 +1,8 @@
 {
   "ticker": "AMGN",
-  "price": 371.5,
+  "price": 385.16,
   "beta": 0.403,
-  "market_cap": 200501624832,
+  "market_cap": 207874048000,
   "ocf_ttm": 10756000000.0,
   "capex_ttm": 2159000000.0,
   "da_ttm": 4896000000.0,
@@ -12,5 +12,5 @@
   "shares": 539708274,
   "rev_cagr": 0.1177,
   "latest_rev_yoy": 0.058,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "last_updated": "2026-08-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

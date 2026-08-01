@@ -1,8 +1,8 @@
 {
   "ticker": "COST",
-  "price": 926.06,
+  "price": 951.89,
   "beta": 0.872,
-  "market_cap": 410687995904,
+  "market_cap": 422143066112,
   "ocf_ttm": 15000000000.0,
   "capex_ttm": 6194000000.0,
   "da_ttm": 2565000000.0,
@@ -12,5 +12,5 @@
   "shares": 443478804,
   "rev_cagr": 0.0664,
   "latest_rev_yoy": 0.215,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "last_updated": "2026-08-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

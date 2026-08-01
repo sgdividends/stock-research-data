@@ -1,16 +1,16 @@
 {
   "ticker": "YUM",
-  "price": 147.37,
+  "price": 153.28,
   "beta": 0.56,
-  "market_cap": 40618295296,
+  "market_cap": 41845440512,
   "ocf_ttm": 2022000000.0,
   "capex_ttm": 375000000.0,
   "da_ttm": 221000000.0,
   "sbc_est": null,
-  "cash": 689000000,
-  "debt": 13144000512,
-  "shares": 275621202,
+  "cash": 674000000,
+  "debt": 12275000320,
+  "shares": 273000000,
   "rev_cagr": 0.0628,
-  "latest_rev_yoy": 0.152,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.123,
+  "last_updated": "2026-08-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

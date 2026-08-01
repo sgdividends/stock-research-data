@@ -1,16 +1,16 @@
 {
   "ticker": "F",
-  "price": 14.15,
+  "price": 14.68,
   "beta": 1.828,
-  "market_cap": null,
-  "ocf_ttm": 18919000000.0,
-  "capex_ttm": 9373000000.0,
-  "da_ttm": 14176000000.0,
+  "market_cap": 58537906176,
+  "ocf_ttm": 16947000000.0,
+  "capex_ttm": 9667000000.0,
+  "da_ttm": 14174000000.0,
   "sbc_est": null,
-  "cash": 21778999296,
-  "debt": 159511003136,
-  "shares": null,
+  "cash": 22119999488,
+  "debt": 163296002048,
+  "shares": 3987595667,
   "rev_cagr": 0.0582,
-  "latest_rev_yoy": 0.064,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": -0.038,
+  "last_updated": "2026-08-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

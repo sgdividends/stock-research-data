@@ -1,16 +1,16 @@
 {
   "ticker": "VMC",
-  "price": 274.93,
+  "price": 268.57,
   "beta": 1.05,
-  "market_cap": 35673509888,
-  "ocf_ttm": 1802600000.0,
-  "capex_ttm": 686200000.0,
+  "market_cap": 34800963584,
+  "ocf_ttm": 1804400000.0,
+  "capex_ttm": 777200000.0,
   "da_ttm": 170300000.0,
   "sbc_est": null,
-  "cash": 140200000,
-  "debt": 5191300096,
-  "shares": 129754885,
+  "cash": 194200000,
+  "debt": 4942099968,
+  "shares": 129578739,
   "rev_cagr": 0.0277,
-  "latest_rev_yoy": 0.074,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.025,
+  "last_updated": "2026-08-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

@@ -1,8 +1,8 @@
 {
   "ticker": "LULU",
-  "price": 110.63,
+  "price": 118.87,
   "beta": 0.878,
-  "market_cap": 12562469888,
+  "market_cap": 13498155008,
   "ocf_ttm": 1935871000.0,
   "capex_ttm": 655919000.0,
   "da_ttm": 517034000.0,
@@ -12,5 +12,5 @@
   "shares": 113553918,
   "rev_cagr": 0.1103,
   "latest_rev_yoy": 0.043,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "last_updated": "2026-08-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

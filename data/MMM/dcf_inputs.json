@@ -1,8 +1,8 @@
 {
   "ticker": "MMM",
-  "price": 169.59,
+  "price": 176.28,
   "beta": 1.081,
-  "market_cap": 87461363712,
+  "market_cap": 90911547392,
   "ocf_ttm": 4899000000.0,
   "capex_ttm": 914000000.0,
   "da_ttm": 1389000000.0,
@@ -12,5 +12,5 @@
   "shares": 515722417,
   "rev_cagr": -0.0157,
   "latest_rev_yoy": 0.025,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "last_updated": "2026-08-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }
