@@ -1,7 +1,14 @@
 {
   "ticker": "BKR",
-  "generated_at": "2026-07-31T20:58:39.580837+00:00",
+  "generated_at": "2026-08-01T02:12:37.442609+00:00",
   "items": [
+    {
+      "title": "Basin rig count up two as prices decrease",
+      "summary": "The rig count in the Permian Basin was up two this week, the latest count Friday by Baker Hughes shows, with 260 rigs active in the region. A year ago, 259 rigs were active in the region. Nationally, the oil and gas rig count is up one from last week at 588 rigs. A year ago, 540 rigs were active. The count shows that 451 rigs sought oil, up one from the previous week, and 127 explored for ...",
+      "pub_date": "2026-08-01T00:01:00Z",
+      "source": "Odessa American, Texas",
+      "url": "https://finance.yahoo.com/energy/articles/basin-rig-count-two-prices-000100709.html"
+    },
     {
       "title": "US Oil Drillers Turn Cautious as WTI Holds Near $85 per Barrel",
       "summary": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, bringing the total rig count in the US to 588, up 48 from this same time last year.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-29T15:01:21Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/volatility-clustering-could-trigger-comeback-150121142.html"
-    },
-    {
-      "title": "Chart Industries, Inc. Q2 2026 Earnings Call Summary",
-      "summary": "Moby summary of Chart Industries, Inc.'s Q2 2026 earnings call",
-      "pub_date": "2026-07-29T12:30:00Z",
-      "source": "Moby",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/chart-industries-inc-q2-2026-123000772.html"
     }
   ]
 }

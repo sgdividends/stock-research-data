@@ -1,6 +1,6 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-07-31T20:59:02.400993+00:00",
+  "generated_at": "2026-08-01T02:13:07.411851+00:00",
   "items": [
     {
       "title": "Where Apple is diverging from rest of Mag 7 earnings",
@@ -8,6 +8,20 @@
       "pub_date": "2026-07-31T14:30:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/where-apple-diverging-rest-mag-143000980.html"
+    },
+    {
+      "title": "OMC Pays More Than A Treasury. And It Grows",
+      "summary": "The market sees a staid advertising giant, but the math suggests a cash-generating growth machine hiding in plain sight.",
+      "pub_date": "2026-07-31T20:59:26Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/omc-pays-more-treasury-grows-205926144.html"
+    },
+    {
+      "title": "IBM quietly cleared a quantum computing hurdle experts doubted",
+      "summary": "In 2019, Google said it had reached \u201cquantum supremacy.\u201d IBM disputed the claim almost immediately, arguing that a properly tuned supercomputer could nearly match the result within days rather than the ten thousand years Google projected, according to CBS News. The fight exposed the field\u2019s real ...",
+      "pub_date": "2026-07-31T20:07:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-quietly-cleared-quantum-computing-200700986.html"
     },
     {
       "title": "IBM's Enterprise AI Strategy Targets Security, Data Control and Trust",
@@ -43,20 +57,6 @@
       "pub_date": "2026-07-31T09:56:55Z",
       "source": "BeInCrypto",
       "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-437-billion-quantum-exposure-095655405.html"
-    },
-    {
-      "title": "ACN Got Cheaper. The Business Did Not Get Worse",
-      "summary": "A blue-chip consulting giant is trading at a deep discount after a punishing year, forcing investors to decide if the market is offering a bargain or simply pricing in the inevitable.",
-      "pub_date": "2026-07-30T21:59:35Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/acn-got-cheaper-business-did-215935132.html"
-    },
-    {
-      "title": "Stagwell Inc (STGW) (Q2 2026) Earnings Call Highlights: Record Revenue and AI-Driven Growth ...",
-      "summary": "Stagwell Inc (STGW) reports 10% organic revenue growth and record net new business of $171 million, driven by AI adoption and digital transformation.",
-      "pub_date": "2026-07-30T21:03:28Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/stagwell-inc-stgw-q2-2026-210328022.html"
     }
   ]
 }

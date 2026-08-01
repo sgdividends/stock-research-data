@@ -1,7 +1,14 @@
 {
   "ticker": "DIS",
-  "generated_at": "2026-07-31T20:58:48.845258+00:00",
+  "generated_at": "2026-08-01T02:12:50.145610+00:00",
   "items": [
+    {
+      "title": "El Ni\u00f1o Hits the Panama Canal",
+      "summary": "Two of the world\u2019s most important shipping lanes have been gummed-up by the Iran War.  The canal is poised to reduce its capacity because of the onset of El Ni\u00f1o, a weather pattern that can cause severe droughts and other extreme weather events in various parts of the world.  The canal authority has warned clients that the chances of a severe El Ni\u00f1o system had risen to 81% from 25%.",
+      "pub_date": "2026-07-31T23:10:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/el-nino-hits-the-panama-canal-a27222c3?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "S&P 500 Posts Weekly Gain Amid AI Monetization Optimism",
       "summary": "The Standard & Poor's 500 index rose 1.1% this week as hyperscalers showed the mega spend on the art",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-31T10:28:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/buy-disney-stock-aug-5-102800550.html"
-    },
-    {
-      "title": "Disney Reports Earnings Aug. 5. Here's How Much $25,000 Invested Pays Annually.",
-      "summary": "Positive figures from two key areas could send the stock higher.",
-      "pub_date": "2026-07-31T08:45:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/disney-reports-earnings-aug-5-084500089.html"
     }
   ]
 }

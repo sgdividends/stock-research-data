@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "generated_at": "2026-07-31T20:58:58.743764+00:00",
+  "generated_at": "2026-08-01T02:13:02.033764+00:00",
   "items": [
     {
       "title": "Yahoo Finance test drives the Corvette Grand Sport X hybrid",
@@ -8,6 +8,13 @@
       "pub_date": "2026-07-31T20:47:41Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/yahoo-finance-test-drives-corvette-204741503.html"
+    },
+    {
+      "title": "GM Is a \u2018Strong Buy,\u2019 Analyst Says. Plus, Caesars and 3 More Stocks.",
+      "summary": "Analysts also report on Cognizant Technology Solutions, SiriusXM Holdings, and Caesars Entertainment.",
+      "pub_date": "2026-07-31T22:55:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/gm-is-a-strong-buy-analyst-says-plus-caesars-and-3-more-stocks-79099af4?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Rivian Stock Reverses After Earnings. The R2 Rollout Is Paying Off.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-31T15:47:46Z",
       "source": "TechCrunch",
       "url": "https://finance.yahoo.com/technology/articles/gm-ford-talking-less-less-154746463.html"
-    },
-    {
-      "title": "Rivian Automotive Stock's Best Case Is Hiding In Its Cost Per Vehicle",
-      "summary": "The ramp costs weighing on its automotive gross profit are the same ones the company expects to fade as volume arrives.",
-      "pub_date": "2026-07-31T15:16:28Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rivian-automotive-stocks-best-case-151628628.html"
     }
   ]
 }

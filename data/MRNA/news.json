@@ -1,7 +1,14 @@
 {
   "ticker": "MRNA",
-  "generated_at": "2026-07-31T20:59:11.820323+00:00",
+  "generated_at": "2026-08-01T02:13:20.092745+00:00",
   "items": [
+    {
+      "title": "Health Care Roundup: Market Talk",
+      "summary": "Find insight on Moderna, AbbVie and more in the latest Market Talks covering the health care sector.",
+      "pub_date": "2026-07-31T21:08:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/health-care-roundup-market-talk-75d11c24?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Moderna Inc (MRNA) (Q2 2026) Earnings Call Highlights: Revenue Beat and Pipeline Progress Amid ...",
       "summary": "Moderna Inc (MRNA) exceeds Q2 revenue guidance and advances key vaccines, but faces delays in norovirus trial and oncology readouts.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-31T11:52:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/business/earnings/moderna-narrows-loss-says-new-norovirus-vaccine-didnt-meet-expectations-6b405151?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Stocks Rise Pre-Bell as Amazon Results Lift AI Trade Sentiment",
-      "summary": "The benchmark US stock measures were tracking in the green before the open Friday as Amazon's (AMZN)",
-      "pub_date": "2026-07-31T11:46:29Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-amazon-114629624.html"
     }
   ]
 }
