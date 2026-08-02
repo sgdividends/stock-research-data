@@ -1,13 +1,27 @@
 {
   "ticker": "MSFT",
-  "generated_at": "2026-08-01T20:43:30.718776+00:00",
+  "generated_at": "2026-08-02T02:09:57.342831+00:00",
   "items": [
+    {
+      "title": "Microsoft Stock Is Up 26% From Its 52-Week Low: Buy the Rally or Wait It Out?",
+      "summary": "This isn't the first rally we've seen in Microsoft's stock this year.",
+      "pub_date": "2026-08-01T23:20:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-26-52-week-232000438.html"
+    },
     {
       "title": "Microsoft (MSFT) Faces Consumer Probes Over Microsoft 365 And Copilot Changes",
       "summary": "UK, Australian, and Italian regulators have opened investigations into Microsoft (NasdaqGS:MSFT) regarding Microsoft 365 subscription changes and the integration of Copilot features. The probes focus on whether Microsoft clearly informed customers about product changes, Copilot rollout, and related pricing. Authorities are examining potential misleading practices and the impact on consumer rights in key international markets. Microsoft sits at the center of cloud software and productivity...",
       "pub_date": "2026-08-01T18:08:49Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-faces-consumer-probes-180849418.html"
+    },
+    {
+      "title": "Microsoft\u2019s AI Cybersecurity Push Could Become a Major Growth Driver for MSFT Stock",
+      "summary": "Microsoft is betting that AI-powered security tools can help organizations fight attacks faster.",
+      "pub_date": "2026-08-01T16:09:12Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ai-cybersecurity-push-could-160912618.html"
     },
     {
       "title": "Microsoft Just Announced Huge News for Nvidia Shareholders",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-01T12:00:00Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ai-isn-t-catch-trade-120000618.html"
-    },
-    {
-      "title": "Why Google, Microsoft, And Meta Are Building In West Texas? According To Galaxy Digital Executive",
-      "summary": "Galaxy has already repurposed its Helios site from Bitcoin mining to AI infrastructure, with the first 200 MW of an 800 MW deal being delivered to CoreWeave.",
-      "pub_date": "2026-08-01T10:42:32Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/technology/ai/articles/why-google-microsoft-meta-building-104232951.html"
-    },
-    {
-      "title": "Wall Street Thinks It Knows How Tech Giants Will Make AI Pay",
-      "summary": "Investors are coming around to the idea that Big Tech spending on AI can make sense\u2014as long as there is a cloud-computing business involved.",
-      "pub_date": "2026-08-01T09:30:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/tech/ai/wall-street-thinks-it-knows-how-tech-giants-will-make-ai-pay-96f76438?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
