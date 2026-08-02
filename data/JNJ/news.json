@@ -1,7 +1,14 @@
 {
   "ticker": "JNJ",
-  "generated_at": "2026-08-02T09:51:34.355967+00:00",
+  "generated_at": "2026-08-02T13:07:42.323632+00:00",
   "items": [
+    {
+      "title": "This Surgical Robot Could Transform the Operating Room",
+      "summary": "After spending years and hundreds of millions of dollars, Johnson and Johnson has won FDA approval for its new surgical robot Ottava. Can it challenge the dominance of competitors who entered the race years earlier, or is the market already spoken for?",
+      "pub_date": "2026-08-02T12:08:00Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/video/surgical-robot-could-transform-operating-120800483.html"
+    },
     {
       "title": "3 Dividend Stocks to Buy and Hold Forever",
       "summary": "They have a combined 181 years of consecutive payout increases.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-31T17:11:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/abbv-beats-q2-earnings-sales-171100640.html"
-    },
-    {
-      "title": "AbbVie Trims Full-Year Profit Outlook Due to Apogee Acquisition",
-      "summary": "AbbVie (ABBV) lowered its full-year earnings guidance on Friday to account for the expected dilution",
-      "pub_date": "2026-07-31T15:45:31Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/healthcare/articles/abbvie-trims-full-profit-outlook-154531860.html"
     }
   ]
 }

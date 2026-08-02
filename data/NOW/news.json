@@ -1,7 +1,14 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-08-02T09:51:43.151297+00:00",
+  "generated_at": "2026-08-02T13:07:51.781223+00:00",
   "items": [
+    {
+      "title": "MarketBeat Week in Review \u2013 07/27- 07/31",
+      "summary": "A weekly roundup covering Magnificent Seven earnings, Fed rate pauses, U.S.-Iran tensions, and MarketBeat analysts' takes on stocks including Microsoft, Alphabet, Broadcom, Tesla, and UnitedHealth.",
+      "pub_date": "2026-08-01T11:00:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-07-27-110000206.html"
+    },
     {
       "title": "ServiceNow cuts nearly 300 jobs in Silicon Valley",
       "summary": "Silicon Valley tech company ServiceNow has laid off almost 300 jobs.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-31T00:03:36Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/crm-upgraded-profit-engine-quietly-000336406.html"
-    },
-    {
-      "title": "Exclusive: ServiceNow to cut up to 1K jobs as part of planned rightsizing",
-      "summary": "Investing.com -- ServiceNow (NYSE: NOW) could cut up to 1,000 roles this year as part of a planned rightsizing following a string of acquisitions, people familiar with the matter told Investing.com.",
-      "pub_date": "2026-07-30T18:32:42Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/articles/exclusive-servicenow-cut-1k-jobs-183242920.html"
     }
   ]
 }

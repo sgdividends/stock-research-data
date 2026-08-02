@@ -1,7 +1,14 @@
 {
   "ticker": "CARR",
-  "generated_at": "2026-08-02T09:51:11.850288+00:00",
+  "generated_at": "2026-08-02T13:07:19.216399+00:00",
   "items": [
+    {
+      "title": "MarketBeat Week in Review \u2013 07/27- 07/31",
+      "summary": "A weekly roundup covering Magnificent Seven earnings, Fed rate pauses, U.S.-Iran tensions, and MarketBeat analysts' takes on stocks including Microsoft, Alphabet, Broadcom, Tesla, and UnitedHealth.",
+      "pub_date": "2026-08-01T11:00:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-07-27-110000206.html"
+    },
     {
       "title": "Carrier Growth Outlook Builds on HVAC Orders and Data Center Demand",
       "summary": "CARR's rising orders and data center demand lift its 2026 outlook, but can backlog and recurring service growth overcome ongoing margin pressure?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-29T20:13:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/vertiv-earnings-stock-price-8631d669?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Carrier Global Q2 Results Benefit From Residential HVAC Rebound, RBC Says",
-      "summary": "Carrier Global (CARR) reported \"solid\" Q2 results and raised its 2026 outlook as its Americas reside",
-      "pub_date": "2026-07-29T15:59:35Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/carrier-global-q2-results-benefit-155935319.html"
     }
   ]
 }
