@@ -1,7 +1,14 @@
 {
   "ticker": "TMO",
-  "generated_at": "2026-08-02T13:08:04.765960+00:00",
+  "generated_at": "2026-08-02T16:54:23.722475+00:00",
   "items": [
+    {
+      "title": "Security Flaw Placed 30 Years of DNA Evidence at Risk of Hacking",
+      "summary": "Researchers found that widely used lab machines produced digital DNA files that are vulnerable to tampering.",
+      "pub_date": "2026-08-02T14:35:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/cybersecurity/security-flaw-placed-30-years-of-dna-evidence-at-risk-of-hacking-1932775a?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Top Analyst Reports for Microsoft, Palo Alto Networks & American Express",
       "summary": "Microsoft rides AI, Copilot and Azure growth, but can expanding cloud demand and capacity challenges shape its next phase?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-28T12:50:38Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jefferies-global-best-ideas-list-125038998.html"
-    },
-    {
-      "title": "Beat the Market Like Zacks: Monster Beverage, Carpenter Tech, Usio in Focus",
-      "summary": "MNST, CRS and USIO highlight Zacks strategies that outperformed amid a volatile market.",
-      "pub_date": "2026-07-27T12:15:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/beat-market-zacks-monster-beverage-121500843.html"
     }
   ]
 }
