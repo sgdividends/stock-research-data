@@ -1,7 +1,21 @@
 {
   "ticker": "TER",
-  "generated_at": "2026-08-03T14:26:55.873211+00:00",
+  "generated_at": "2026-08-03T17:47:01.717276+00:00",
   "items": [
+    {
+      "title": "Serve Robotics Surges 13%, Ouster Climbs 6%, Symbotic Gains 4% as Robotics Stocks Rally",
+      "summary": "A broad risk-on wave is lifting robotics stocks Monday morning, but one battered delivery robot name is stealing the spotlight ahead of a high-stakes earnings call that could make or break its recovery narrative.",
+      "pub_date": "2026-08-03T15:35:12Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/serve-robotics-surges-13-ouster-153512086.html"
+    },
+    {
+      "title": "TER Q2 Earnings Call Centers on AI-Led Multiyear Growth",
+      "summary": "Teradyne's record Q2 results and broad AI exposure reinforce its outlook for multiyear growth, share gains and a larger test market.",
+      "pub_date": "2026-08-03T14:00:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ter-q2-earnings-call-centers-140000562.html"
+    },
     {
       "title": "Compared to Estimates, Teradyne (TER) Q2 Earnings: A Look at Key Metrics",
       "summary": "Although the revenue and EPS for Teradyne (TER) give a sense of how its business performed in the quarter ended June 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-07-30T14:41:15Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/strong-demand-custom-silicon-chips-144115715.html"
-    },
-    {
-      "title": "Teradyne (TER) Rose on Semiconductor Test Recovery and Rising Chip Complexity",
-      "summary": "Columbia Threadneedle Investments, an investment management company, released its \u201cColumbia Seligman Global Technology Fund\u201d second quarter 2026 investor letter. A copy of the letter can be downloaded here. During the quarter, the Fund\u2019s Institutional Class shares returned 50.34%, outperforming the MSCI World Information Technology Index\u2019s 33.65% gain. Stock selection in semiconductors, technology hardware and software, together [\u2026]",
-      "pub_date": "2026-07-30T12:57:35Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/teradyne-ter-rose-semiconductor-test-125735961.html"
-    },
-    {
-      "title": "Teradyne (TER) Beats Q2 Expectations As AI Chip Demand Lifts Q3 Outlook",
-      "summary": "Teradyne (NasdaqGS:TER) reported Q2 results that beat its own expectations, supported by demand for semiconductor test and robotics equipment. The company issued a strong Q3 revenue outlook, tied to increased testing needs for advanced AI chips in data centers and vehicles. Management highlighted rising investments in wafer fabrication and complex semiconductor testing as key drivers of current business trends. Teradyne sits at the heart of the chip supply chain, supplying test systems that...",
-      "pub_date": "2026-07-30T09:07:44Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/teradyne-ter-beats-q2-expectations-090744036.html"
     }
   ]
 }

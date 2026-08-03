@@ -1,7 +1,14 @@
 {
   "ticker": "EIX",
-  "generated_at": "2026-08-03T14:26:16.660228+00:00",
+  "generated_at": "2026-08-03T17:46:25.528069+00:00",
   "items": [
+    {
+      "title": "TELUS Q2 Earnings Fall Y/Y on Digital Weakness, Outlook Cut",
+      "summary": "TU cut its 2026 outlook and reset its dividend after weaker Digital results, lower revenues and a C$2.14B impairment drove a steep quarterly loss.",
+      "pub_date": "2026-08-03T14:03:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/telus-q2-earnings-fall-y-140300931.html"
+    },
     {
       "title": "Edison International (EIX) CEO Warns Wildfire Reform Delay Could Trigger Credit Downgrades",
       "summary": "Edison International CEO has warned that California utilities could face credit downgrades if wildfire liability reforms are not passed by the August 31 legislative deadline. The comments highlight that unresolved wildfire risk may affect financing conditions for NYSE:EIX and its peers. A change in credit ratings could influence borrowing costs and ultimately affect what ratepayers are charged. Edison International, traded as NYSE:EIX, is back in focus after the CEO\u2019s warning on potential...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-31T11:51:44Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/friday-top-wall-street-analyst-115144949.html"
-    },
-    {
-      "title": "Edison CEO: California utilities face credit downgrades without wildfire reforms",
-      "summary": "With four weeks left in the legislative session, CEO Pedro Pizarro acknowledged the possibility California lawmakers will not pass wildfire liability reforms this year.",
-      "pub_date": "2026-07-31T11:00:00Z",
-      "source": "Utility Dive",
-      "url": "https://finance.yahoo.com/energy/articles/california-utilities-face-credit-downgrades-110000970.html"
     }
   ]
 }

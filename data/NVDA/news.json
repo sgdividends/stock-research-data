@@ -1,14 +1,7 @@
 {
   "ticker": "NVDA",
-  "generated_at": "2026-08-03T14:26:42.750017+00:00",
+  "generated_at": "2026-08-03T17:46:49.956594+00:00",
   "items": [
-    {
-      "title": "Semiconductor stocks sink over fears of increased competition from China",
-      "summary": "Worries over increased competition from China sent semiconductor stocks lower on Monday.",
-      "pub_date": "2026-08-03T13:39:38Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/semiconductor-stocks-sink-over-fears-of-increased-competition-from-china-133938642.html"
-    },
     {
       "title": "Tech stocks today: Investors eye SpaceX's first earnings report",
       "summary": "Tech stocks coverage for the week of Aug. 3.",
@@ -17,46 +10,53 @@
       "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-investors-eye-spacexs-first-earnings-report-140419479.html"
     },
     {
-      "title": "These 3 ETFs Turn Market Fear Into Double Digit Monthly Income",
-      "summary": "Options sellers have quietly been harvesting the gap between investor fear and actual market volatility, and three ETFs package that trade into monthly paychecks using very different mechanics that make them far from interchangeable.",
-      "pub_date": "2026-08-03T14:06:04Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/options/articles/3-etfs-turn-market-fear-140604809.html"
+      "title": "This valuation signal shows how investors are rethinking tech stocks",
+      "summary": "Good to see a more rational set of valuations on the biggest companies.",
+      "pub_date": "2026-08-03T14:44:11Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/this-valuation-signal-shows-how-investors-are-rethinking-tech-stocks-144411798.html"
     },
     {
-      "title": "S&P Global Grew Revenue 10% and Still Missed on Earnings. Except, Maybe It Didn't.",
-      "summary": "The consensus bottom-line forecasts most investors were comparing its results to didn't appear to factor in changes stemming from a recent spinoff, or any one-time costs related to it.",
-      "pub_date": "2026-08-03T14:05:00Z",
+      "title": "Microsoft Just Proved that AI Spending Can Pay Off. Here's How the Company Separates Itself From Other AI Stocks.",
+      "summary": "Microsoft spent about $175 billion this year, mostly for AI. It just showed shareholders that it can make good on its AI investments.",
+      "pub_date": "2026-08-03T17:35:00Z",
       "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-global-grew-revenue-10-140500279.html"
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-just-proved-ai-spending-173500840.html"
     },
     {
-      "title": "The Market Is Missing a Huge Opportunity in NVIDIA, Micron, and Broadcom",
-      "summary": "NVIDIA, Micron, and Broadcom have powered some of the most explosive earnings in market history, yet each stock trades at a fraction of what its forward numbers could justify. Here is where the math points by 2027.",
-      "pub_date": "2026-08-03T14:00:20Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/market-missing-huge-opportunity-nvidia-140020311.html"
-    },
-    {
-      "title": "Seagate and Western Digital Dive 6%, SK Hynix and Micron Slide 5% as Memory Stocks Cool",
-      "summary": "Memory stocks are taking a sharp hit Monday after an extraordinary run, but Wall Street analysts and a major insider are already treating the selloff as something very different from what the price action suggests.",
-      "pub_date": "2026-08-03T14:00:19Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-western-digital-dive-6-140019837.html"
-    },
-    {
-      "title": "Amazon Gets Upgraded to the $3 Trillion Club",
-      "summary": "Amazon shares jumped 5% this morning, propelling the company to a $3.08 trillion market valuation. The gain comes on the heels of a 15% jump on Friday, when Amazon stock had its best day in years after investors liked what they saw in its latest report card.",
-      "pub_date": "2026-08-03T13:57:16Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-03-2026/card/amazon-gets-upgraded-to-the-3-trillion-club-wsjSIhtvN9DOjmrR3lQI?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Taiwan Semiconductor Just Reclaimed a $2 Trillion Market Cap. It Still Trades at About 20 Times Forward Earnings.",
-      "summary": "The chip foundry giant is back at a milestone valuation with a market-average multiple attached. That combination deserves a closer look.",
-      "pub_date": "2026-08-03T13:46:00Z",
+      "title": "Why Alphabet Stock Popped Today",
+      "summary": "Alphabet might remain free cash flow positive in 2026 -- but what about 2027?",
+      "pub_date": "2026-08-03T17:32:31Z",
       "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-just-reclaimed-2-134600639.html"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-alphabet-stock-popped-today-173231226.html"
+    },
+    {
+      "title": "Amazon Tops $3T, Meta Rallies 7% as AI Hyperscalers Ride Earnings Momentum",
+      "summary": "Blowout cloud earnings and a sudden geopolitical thaw sent the biggest AI names surging Monday, but the question investors are scrambling to answer is whether the rally signals a lasting regime change or just a relief bounce before the next round of capex anxiety.",
+      "pub_date": "2026-08-03T17:31:28Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-tops-3t-meta-rallies-173128017.html"
+    },
+    {
+      "title": "Wall Street Raises Amazon Targets After Its AWS Surge. Here\u2019s The Number.",
+      "summary": "AWS just posted its fastest cloud growth in 18 quarters, and Wall Street is still scrambling to price it in. Our conviction call on Amazon sits far above analyst consensus, and the gap reveals something most models are missing.",
+      "pub_date": "2026-08-03T17:30:23Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-raises-amazon-targets-173023964.html"
+    },
+    {
+      "title": "Why Micron Stock Is Under Pressure Today",
+      "summary": "Could Chinese memory chips crush Micron's pricing power?",
+      "pub_date": "2026-08-03T17:29:32Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-stock-under-pressure-172932606.html"
+    },
+    {
+      "title": "Better Small Modular Reactor Stock: NuScale Power vs. GE Vernova",
+      "summary": "Which of these SMR makers has a brighter future?",
+      "pub_date": "2026-08-03T17:25:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/better-small-modular-reactor-stock-172500349.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "GD",
-  "generated_at": "2026-08-03T14:26:22.691117+00:00",
+  "generated_at": "2026-08-03T17:46:31.443677+00:00",
   "items": [
+    {
+      "title": "The Production Ramp That Could Repower Boeing Stock",
+      "summary": "Boeing is delivering airplanes at a pace it has not managed in years, and almost none of the profit those airplanes will carry has shown up yet.",
+      "pub_date": "2026-08-03T15:00:30Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/production-ramp-could-repower-boeing-150030824.html"
+    },
     {
       "title": "This Is the Most Attractive Defense Stock Right Now",
       "summary": "Recent declines have left several stocks looking attractive, according to Wall Street. But one large defense contractor looks better than the others right now.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-30T03:03:58Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/markets/stocks/articles/general-dynamics-q2-earnings-call-030358919.html"
-    },
-    {
-      "title": "General Dynamics Corporation Q2 2026 Earnings Call Summary",
-      "summary": "Moby summary of General Dynamics Corporation's Q2 2026 earnings call",
-      "pub_date": "2026-07-30T00:30:30Z",
-      "source": "Moby",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/general-dynamics-corporation-q2-2026-003030743.html"
     }
   ]
 }

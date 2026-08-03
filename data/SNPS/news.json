@@ -1,7 +1,14 @@
 {
   "ticker": "SNPS",
-  "generated_at": "2026-08-03T14:26:52.537459+00:00",
+  "generated_at": "2026-08-03T17:46:58.592716+00:00",
   "items": [
+    {
+      "title": "Nvidia (NVDA) Uses Own Chips for Design, While AMD (AMD) Relies on Rivals",
+      "summary": "Nvidia (NASDAQ:NVDA) just closed a loop that sounds almost recursive. On July 26, the company said its Vera CPU is now being used inside the electronic design automation workflows that will produce Nvidia\u2019s own next-generation CPUs and GPUs, with early testing on Cadence and Synopsys tools showing up to 1.5x faster verification and simulation performance. [\u2026]",
+      "pub_date": "2026-08-03T16:54:45Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-uses-own-chips-165445053.html"
+    },
     {
       "title": "Why ADSK Stock Hands You So Much Cash Right Now",
       "summary": "The market is offering a hefty cash payout to own this software leader, but it comes with a story of major change and major risk.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-29T18:36:37Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/technology/ai/articles/synopsys-doubles-down-ai-chip-183637901.html"
-    },
-    {
-      "title": "Synopsys Just Solved a Bottleneck You Didn\u2019t Even Know Existed",
-      "summary": "Synopsys is using AI partnerships with Nvidia, AMD, Microsoft, and Intel to automate one of chip design\u2019s biggest bottlenecks, strengthening its position at the center of the AI semiconductor ecosystem.",
-      "pub_date": "2026-07-29T17:52:45Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/technology/ai/articles/synopsys-just-solved-bottleneck-didn-175245815.html"
     }
   ]
 }

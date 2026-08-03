@@ -1,7 +1,14 @@
 {
   "ticker": "AKAM",
-  "generated_at": "2026-08-03T14:25:56.884647+00:00",
+  "generated_at": "2026-08-03T17:46:06.080995+00:00",
   "items": [
+    {
+      "title": "BofA refuses to embrace cybersecurity darling ahead of earnings",
+      "summary": "Every investor has felt the itch to buy the one stock everyone else already owns. Fastly\u2019s chart this year has that kind of pull, a steady climb that turns skeptics into buyers with each new high. One of Wall Street\u2019s largest banks looked at that same chart and decided to stay out. BofA Global ...",
+      "pub_date": "2026-08-03T17:07:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-refuses-embrace-cybersecurity-darling-170700044.html"
+    },
     {
       "title": "Akamai (AKAM) Joins Tenzai To Bring Instant Vulnerability Mitigation To The Edge",
       "summary": "Tenzai has integrated its autonomous AI hacker platform with Akamai Technologies' Web Application Firewall for immediate vulnerability mitigation. The integration connects Tenzai's automated threat detection with Akamai's edge security infrastructure to trigger rapid defensive responses. This development positions Akamai Technologies as a core infrastructure partner for organizations pursuing machine speed cybersecurity workflows. Akamai Technologies, listed as NasdaqGS:AKAM, is drawing...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-21T22:15:02Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/akamai-technologies-akam-outperforms-broader-221502539.html"
-    },
-    {
-      "title": "Implied Volatility Surging for Akamai Stock Options",
-      "summary": "Investors need to pay close attention to AKAM stock based on the movements in the options market lately.",
-      "pub_date": "2026-07-20T12:48:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/options/articles/implied-volatility-surging-akamai-stock-124800624.html"
     }
   ]
 }

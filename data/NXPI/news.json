@@ -1,7 +1,21 @@
 {
   "ticker": "NXPI",
-  "generated_at": "2026-08-03T14:26:43.317339+00:00",
+  "generated_at": "2026-08-03T17:46:50.464461+00:00",
   "items": [
+    {
+      "title": "Nvidia Stock Retakes Key Level As Chip Stocks Waver",
+      "summary": "Chip stocks were a mixed bag on Monday as the Philadelphia semiconductor index, known as SOX, struggled to hold gains. However, Nvidia stock retook a key support level. In afternoon trades on the stock market today, the SOX rose a fraction.",
+      "pub_date": "2026-08-03T17:00:44Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/technology/nvidia-stock-up-chip-stocks-sox-index-wavers/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "NXP downgraded by UBS as China and AI risks cloud growth",
+      "summary": "NXP Semiconductor NV (NASDAQ:NXPI) was downgraded by UBS as the investment bank warned that a potential automotive inventory correction in China and limited exposure to artificial intelligence data centres could constrain growth. Its rating was cut to 'neutral' from 'buy', with the price...",
+      "pub_date": "2026-08-03T14:43:00Z",
+      "source": "Proactive",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-downgraded-ubs-china-ai-144300140.html"
+    },
     {
       "title": "UBS downgrades NXP to Neutral on China auto risks, trims PT to $270",
       "summary": "Investing.com -- UBS downgraded NXP Semiconductors to Neutral from Buy, arguing that while the analog semiconductor upcycle is gaining momentum, the company's growth outlook is becoming less compelling due to rising risks of a China automotive inventory correction and relatively limited exposure to AI infrastructure spending.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-07-31T19:58:14Z",
       "source": "InvestorsHub",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ambarella-stock-surges-reported-nxp-195814306.html"
-    },
-    {
-      "title": "Sector Update: Tech Stocks Mixed Late Afternoon",
-      "summary": "Tech stocks were mixed late Friday afternoon, with the State Street Technology Select Sector SPDR ET",
-      "pub_date": "2026-07-31T19:41:33Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-afternoon-194133265.html"
-    },
-    {
-      "title": "Ambarella reportedly in talks to be acquired by NXP Semiconductors, shares spike",
-      "summary": "Investing.com -- NXP Semiconductors is in discussions to acquire Ambarella, a chip designer focused on AI-enabled chips for camera technology in self-driving cars, the Financial Times reported on Friday.",
-      "pub_date": "2026-07-31T17:37:01Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ambarella-reportedly-talks-acquired-nxp-173701702.html"
     }
   ]
 }
