@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "generated_at": "2026-08-02T20:47:33.076861+00:00",
+  "generated_at": "2026-08-03T02:12:42.192816+00:00",
   "items": [
     {
       "title": "Earnings to watch this week: SpaceX's first earnings report, Disney, AMD, & McDonald's",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-02T18:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/earnings-watch-week-spacexs-first-180000072.html"
+    },
+    {
+      "title": "SpaceX vs. the \"Magnificent Seven\": How the New Nasdaq-100 Member Stacks Up",
+      "summary": "The IPO stock was fast-tracked into the tech index on July 7.",
+      "pub_date": "2026-08-02T21:39:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-vs-magnificent-seven-nasdaq-213900951.html"
     },
     {
       "title": "Why Morgan Stanley won\u2019t call Rivian a buy despite upgrade",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-02T02:07:49Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-explores-china-split-020749681.html"
-    },
-    {
-      "title": "Elon Musk's Tesla Delivered 480,126 Vehicles in Q2, a 25% Jump From a Year Ago",
-      "summary": "Tesla's sales jump was massive, and proves again that it is the dominant U.S. EV maker.",
-      "pub_date": "2026-08-02T01:35:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-tesla-delivered-480-013500790.html"
     }
   ]
 }

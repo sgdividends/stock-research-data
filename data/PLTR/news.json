@@ -1,13 +1,34 @@
 {
   "ticker": "PLTR",
-  "generated_at": "2026-08-02T20:47:21.204788+00:00",
+  "generated_at": "2026-08-03T02:12:29.085264+00:00",
   "items": [
+    {
+      "title": "Wall Street Can\u2019t Agree on Palantir Stock. Earnings Will Reveal Who\u2019s Right.",
+      "summary": "Palantir heads into earnings on Aug. 3 with Wall Street divided as bullish growth expectations clash with concerns over commercial demand.",
+      "pub_date": "2026-08-02T20:03:30Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-t-agree-palantir-200330042.html"
+    },
+    {
+      "title": "Palantir Is Set to Deliver Strong Q2. Analysts See 60% Upside Potential for PLTR Stock.",
+      "summary": "Palantir's revenue growth continues to accelerate, profit margins are expanding, and demand for Palantir's AI platform remains robust.",
+      "pub_date": "2026-08-02T19:30:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-set-deliver-strong-q2-193002334.html"
+    },
     {
       "title": "Jobs Report, Palantir, AMD, SpaceX, Eli Lilly, and More to Watch This Week",
       "summary": "In another heavy earnings week, we\u2019ll also see reports from McDonald\u2019s, Disney, Uber, Devon Energy, and more.",
       "pub_date": "2026-08-02T18:00:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/jobs-report-palantir-amd-spacex-eli-lilly-stocks-2348e94e?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Earnings, PMI and Other Key Things to Watch this Week",
+      "summary": "Markets enter an earnings-dominated week with a huge concentration of corporate results spanning technology, industrials, healthcare, consumer discretionary, and entertainment sectors. This will provide a critical assessment of economic health and corporate fundamentals amid persistent uncertainty about technology sector valuations and AI infrastructure spending.",
+      "pub_date": "2026-08-02T17:00:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-pmi-other-key-things-170002166.html"
     },
     {
       "title": "Stock Market Week Ahead: Citadel, SpaceX, Palantir And This Key Market Signal",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-01T11:00:00Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-07-27-110000206.html"
-    },
-    {
-      "title": "S&P 500 Posts Weekly Gain Amid AI Monetization Optimism",
-      "summary": "The Standard & Poor's 500 index rose 1.1% this week as hyperscalers showed the mega spend on the art",
-      "pub_date": "2026-07-31T20:45:14Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-gain-204514158.html"
-    },
-    {
-      "title": "Veteran Bank Sounds Alarm on Palantir Stock Ahead of Earnings",
-      "summary": "RBC Delivers Bearish Palantir Warning Ahead of High-Stakes Earnings Report",
-      "pub_date": "2026-07-31T20:18:46Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/veteran-bank-sounds-alarm-palantir-201846391.html"
-    },
-    {
-      "title": "Palantir CEO Takes Fresh Shot at AI Giants: 'They Sell Tokens'",
-      "summary": "Palantir CEO Takes Aim at AI Giants While Defending Anthropic's Amodei",
-      "pub_date": "2026-07-31T20:01:52Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/palantir-ceo-takes-fresh-shot-200152456.html"
     }
   ]
 }
