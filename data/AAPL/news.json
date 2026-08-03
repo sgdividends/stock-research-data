@@ -1,9 +1,30 @@
 {
   "ticker": "AAPL",
-  "generated_at": "2026-08-03T02:11:27.790308+00:00",
+  "generated_at": "2026-08-03T06:54:37.557994+00:00",
   "items": [
     {
-      "title": "Big Tech Earnings Are Sending Valuations in Wildly Different Directions",
+      "title": "Apple's Hardware Is Ready for On-Device AI and PrismML Just Delivered a Real Breakthrough",
+      "summary": "A small start-up just released a 27-billion-parameter AI model that can be run for free on an iPhone.",
+      "pub_date": "2026-08-03T04:50:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apples-hardware-ready-device-ai-045000917.html"
+    },
+    {
+      "title": "Morgan Stanley sends cautious Apple stock message after earnings",
+      "summary": "Apple's earnings reminded investors that the company is not immune to the challenges of the AI race. Shares of Apple (AAPL) tumbled 7.35% on July 31, even after the company beat Wall Street's expectations for both earnings and revenue for the fiscal third quarter. Apple reported adjusted earnings ...",
+      "pub_date": "2026-08-03T03:06:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sends-cautious-apple-030600758.html"
+    },
+    {
+      "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: AAPL, MSFT, AMZN, META, TSLA",
+      "summary": "Big Tech earnings showed AI spending faces a new test as investors weigh returns, cloud growth, and chip costs.",
+      "pub_date": "2026-08-03T02:00:38Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-retail-traders-couldn-t-020038446.html"
+    },
+    {
+      "title": "Big Tech Earnings Are Sending Valuations in Opposite Directions",
       "summary": "Reports from tech giants drove big gains and losses, while the Fed-fueled bond selloff adds to market pressures.",
       "pub_date": "2026-08-03T01:00:00Z",
       "source": "The Wall Street Journal",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-02T21:39:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-vs-magnificent-seven-nasdaq-213900951.html"
-    },
-    {
-      "title": "The global memory shortage hits the MacBook Air",
-      "summary": "The global memory chip shortage appears to be affecting the availability of Apple\u2019s most popular Mac.",
-      "pub_date": "2026-08-02T21:33:59Z",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/technology/articles/global-memory-shortage-hits-macbook-213359147.html"
-    },
-    {
-      "title": "Big Tech\u2019s $2 trillion AI shakeout just changed everything",
-      "summary": "Wall Street just drove a harsh line through the artificial intelligence trade. Amazon (AMZN), Microsoft (MSFT) and Alphabet (GOOGL)added nearly $1.5 trillion in combined market value during earnings week, according to CNBC. Microsoft gained more than $600 billion, while Amazon and Alphabet each ...",
-      "pub_date": "2026-08-02T18:33:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/ai/articles/big-tech-2-trillion-ai-183300493.html"
-    },
-    {
-      "title": "Bank of America doubles down on Apple stock for rest of 2026",
-      "summary": "Apple's June quarter produced numbers that looked solid on the surface but left investors with a question: Was September quarter guidance conservative, or was the business actually slowing? Bank of America published its answer on July 30. The firm says investors are misreading the results and that ...",
-      "pub_date": "2026-08-02T17:07:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-down-apple-170700925.html"
     }
   ]
 }

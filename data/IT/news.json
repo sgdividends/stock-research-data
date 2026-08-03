@@ -1,7 +1,14 @@
 {
   "ticker": "IT",
-  "generated_at": "2026-08-03T02:12:09.967764+00:00",
+  "generated_at": "2026-08-03T06:55:21.072260+00:00",
   "items": [
+    {
+      "title": "Gartner (IT) Q2 Earnings: What To Expect",
+      "summary": "Research and advisory firm Gartner (NYSE:IT) will be reporting results this Tuesday before market open. Here\u2019s what investors should know.",
+      "pub_date": "2026-08-03T03:01:22Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gartner-q2-earnings-expect-030122212.html"
+    },
     {
       "title": "Bloom Energy vs. the Grid: Why Data Centers Are Choosing Fuel Cells",
       "summary": "AI data centers face major power constraints, and Bloom Energy offers a quickly deployable solution with its fuel cell technology.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-28T14:00:04Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/gartner-reports-next-week-wall-140004135.html"
-    },
-    {
-      "title": "Gartner raises 2026 IT spending forecast on AI demand",
-      "summary": "The research firm now expects global technology spending to reach $6.37 trillion this year,\u00a0up 14.2% from 2025.",
-      "pub_date": "2026-07-28T07:00:00Z",
-      "source": "CFO Dive",
-      "url": "https://finance.yahoo.com/technology/ai/articles/gartner-raises-2026-spending-forecast-070000674.html"
     }
   ]
 }

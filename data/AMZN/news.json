@@ -1,9 +1,16 @@
 {
   "ticker": "AMZN",
-  "generated_at": "2026-08-03T02:11:32.683487+00:00",
+  "generated_at": "2026-08-03T06:54:42.677359+00:00",
   "items": [
     {
-      "title": "Big Tech Earnings Are Sending Valuations in Wildly Different Directions",
+      "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: AAPL, MSFT, AMZN, META, TSLA",
+      "summary": "Big Tech earnings showed AI spending faces a new test as investors weigh returns, cloud growth, and chip costs.",
+      "pub_date": "2026-08-03T02:00:38Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-retail-traders-couldn-t-020038446.html"
+    },
+    {
+      "title": "Big Tech Earnings Are Sending Valuations in Opposite Directions",
       "summary": "Reports from tech giants drove big gains and losses, while the Fed-fueled bond selloff adds to market pressures.",
       "pub_date": "2026-08-03T01:00:00Z",
       "source": "The Wall Street Journal",
@@ -45,18 +52,11 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-vs-magnificent-seven-nasdaq-213900951.html"
     },
     {
-      "title": "Big Tech\u2019s $2 trillion AI shakeout just changed everything",
-      "summary": "Wall Street just drove a harsh line through the artificial intelligence trade. Amazon (AMZN), Microsoft (MSFT) and Alphabet (GOOGL)added nearly $1.5 trillion in combined market value during earnings week, according to CNBC. Microsoft gained more than $600 billion, while Amazon and Alphabet each ...",
-      "pub_date": "2026-08-02T18:33:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/ai/articles/big-tech-2-trillion-ai-183300493.html"
-    },
-    {
-      "title": "Amazon Says AWS Could Become A $1 Trillion Business",
-      "summary": "Amazon.com Inc. has long viewed Amazon Web Services as its biggest growth engine, but CEO Andy Jassy now believes the cloud business could become much larger than the company previously imagined. During Amazon\u2019s second-quarter earnings call on Thursday, Jassy said...",
-      "pub_date": "2026-08-02T18:00:16Z",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/technology/articles/amazon-says-aws-could-become-180016333.html"
+      "title": "Wall Street Is Rewarding AI Results, Not Just AI Spending",
+      "summary": "The market is buying CEO Andy Jassy's spending plan for Amazon.",
+      "pub_date": "2026-08-02T21:19:26Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-rewarding-ai-results-211926642.html"
     }
   ]
 }
