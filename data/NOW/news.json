@@ -1,7 +1,14 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-08-03T11:22:22.097650+00:00",
+  "generated_at": "2026-08-03T14:26:41.983875+00:00",
   "items": [
+    {
+      "title": "Software catches a bid as investors rotate ahead of Palantir earnings",
+      "summary": "Investing.com -- The software sector is catching a major tailwind today, fueled by a noticeable rotation out of semiconductor stocks and into high-growth enterprise tech. Microsoft\u2019s (NASDAQ: MSFT) strong pre-market rally\u2014driven by a massive $90 billion Q4 print and 43% Azure growth\u2014has ignited a broader bid across the iShares Expanded Tech-Software Sector ETF.",
+      "pub_date": "2026-08-03T12:39:37Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/articles/software-catches-bid-investors-rotate-123937611.html"
+    },
     {
       "title": "Microsoft joins, Broadcom exits Goldman\u2019s top-stocks list",
       "summary": "Investing.com -- Goldman Sachs reshuffled its U.S. Conviction List in its August update, adding Microsoft and five other names while removing Broadcom and three others.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-31T17:42:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/ibms-enterprise-ai-strategy-targets-174200203.html"
-    },
-    {
-      "title": "What the Options Market Is Signaling About the Size of the Next Move in Salesforce Stock",
-      "summary": "If you hold shares in the software giant, you are already carrying exposure to a remarkably wide range of outcomes priced in for the coming year.",
-      "pub_date": "2026-07-31T13:45:05Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/options-market-signaling-size-next-134505594.html"
     }
   ]
 }

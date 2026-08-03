@@ -1,7 +1,14 @@
 {
   "ticker": "HOOD",
-  "generated_at": "2026-08-03T11:22:10.061905+00:00",
+  "generated_at": "2026-08-03T14:26:26.713182+00:00",
   "items": [
+    {
+      "title": "Robinhood Cleared for UK Crypto, But There Are Major Limits",
+      "summary": "Robinhood's UK crypto approval lets it pass orders to others, but it cannot hold customer coins or run an exchange.",
+      "pub_date": "2026-08-03T11:16:34Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/robinhood-cleared-uk-crypto-major-111634835.html"
+    },
     {
       "title": "The Mets Signed a Prediction Market Sponsor: What Are the Odds They Win the National League?",
       "summary": "The New York Mets named startup Novig their official prediction market partner Thursday, the first deal of its kind for an individual Major League Baseball club. A rival platform is less enthusiastic about the product on the field. Traders on...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-31T17:27:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-just-boosted-robinhood-price-172700221.html"
-    },
-    {
-      "title": "Crypto Slump vs. Trading Boom: What Lies Ahead for Robinhood Stock?",
-      "summary": "HOOD's record revenues show non-crypto trading can offset crypto weakness, but rising costs and a premium valuation cloud the outlook. Is the stock a buy?",
-      "pub_date": "2026-07-31T14:42:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/crypto-slump-vs-trading-boom-144200042.html"
     }
   ]
 }

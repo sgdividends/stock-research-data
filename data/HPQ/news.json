@@ -1,7 +1,14 @@
 {
   "ticker": "HPQ",
-  "generated_at": "2026-08-03T11:22:10.262611+00:00",
+  "generated_at": "2026-08-03T14:26:27.030870+00:00",
   "items": [
+    {
+      "title": "Apple's Record Quarter Ran Into A Memory Bill",
+      "summary": "Revenue, iPhone, and Mac all set June quarter records; what sent the stock down was the September quarter guide and an open-ended memory cost.",
+      "pub_date": "2026-08-03T12:39:34Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apples-record-quarter-ran-memory-123934120.html"
+    },
     {
       "title": "Dell Technologies Rides on Commercial PC Demand: What's Ahead?",
       "summary": "DELL rides on commercial PC refresh demand and AI upgrades, but memory shortages and margin pressure cloud the outlook.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-29T09:05:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-apple-090500244.html"
-    },
-    {
-      "title": "Buy, Sell or Hold Apple Stock? Key Tips Ahead of Q3 Earnings",
-      "summary": "AAPL heads into fiscal Q3 earnings with strong iPhone, Services and AI momentum, but supply constraints, rising costs and a rich valuation cloud the outlook.",
-      "pub_date": "2026-07-28T16:15:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-apple-stock-161500214.html"
     }
   ]
 }

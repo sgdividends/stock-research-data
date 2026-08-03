@@ -1,7 +1,14 @@
 {
   "ticker": "JCI",
-  "generated_at": "2026-08-03T11:22:13.569174+00:00",
+  "generated_at": "2026-08-03T14:26:31.039582+00:00",
   "items": [
+    {
+      "title": "MOD Q1 Earnings Top Estimates on Data Center Growth, Sales Miss",
+      "summary": "Modine's fiscal Q1 earnings beat estimates as data center sales surge 90%. However, revenues miss, and supply-chain pressure squeezes margins.",
+      "pub_date": "2026-08-03T12:11:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mod-q1-earnings-top-estimates-121100545.html"
+    },
     {
       "title": "Johnson Controls (JCI) Stock Looks Fairly Valued Despite Its 147% Run",
       "summary": "Johnson Controls International has delivered a very strong 147.0% return over the past three years, yet current valuation checks suggest the stock now sits closer to fair value than to a clear bargain based on intrinsic value and market multiples. The 147.0% three year return puts Johnson Controls International among the stronger performers in its peer group and raises the bar for what future cash flows need to justify. The push into data center cooling solutions for AI facilities, including...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-30T11:13:15Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/carrier-beat-estimates-raised-outlook-111315934.html"
-    },
-    {
-      "title": "Johnson Controls touts absorption chillers to cut data center energy demand",
-      "summary": "Lower energy demand means data centers can go into more locations, CEO Joakim Weidemanis said on the company\u2019s third-quarter earnings call.",
-      "pub_date": "2026-07-30T06:06:28Z",
-      "source": "Facilities Dive",
-      "url": "https://finance.yahoo.com/energy/articles/johnson-controls-touts-absorption-chillers-060628330.html"
     }
   ]
 }

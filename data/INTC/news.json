@@ -1,13 +1,27 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-08-03T11:22:11.783357+00:00",
+  "generated_at": "2026-08-03T14:26:29.193588+00:00",
   "items": [
     {
-      "title": "AMD to report Q2 earnings as chip stocks continue to waver",
-      "summary": "AMD will report its Q2 earnings Tuesday.",
-      "pub_date": "2026-08-03T11:00:00Z",
+      "title": "Semiconductor stocks sink over fears of increased competition from China",
+      "summary": "Worries over increased competition from China sent semiconductor stocks lower on Monday.",
+      "pub_date": "2026-08-03T13:39:38Z",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/article/amd-to-report-q2-earnings-as-chip-stocks-continue-to-waver-110000620.html"
+      "url": "https://finance.yahoo.com/markets/article/semiconductor-stocks-sink-over-fears-of-increased-competition-from-china-133938642.html"
+    },
+    {
+      "title": "New Month, Same Jitters: AI Anxiety Creeps Into August",
+      "summary": "Investors are kicking off a new trading month on an upbeat note. But that hasn\u2019t stopped one of July\u2019s most painful trends from carrying into August. Chip stocks and other companies tied to the AI trade are some of the biggest decliners today, with Micron Technology, Sandisk, Intel and Western Digital all down about 3% or more.",
+      "pub_date": "2026-08-03T13:37:32Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-03-2026/card/new-month-same-jitters-ai-anxiety-creeps-into-august-s70UPpDEuiXzJvZbMBgO?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "GlobalFoundries Stock Costs More Than The Market On Earnings And Less On Cash Flow",
+      "summary": "The chipmaker looks dear on profits and slightly cheap on cash, and what sits under that gap is a business that turns far more of each sales dollar into cash than into profit while it swaps a shrinking handset exposure for faster end markets in data centers and automotive.",
+      "pub_date": "2026-08-03T13:02:21Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/globalfoundries-stock-costs-more-market-130221967.html"
     },
     {
       "title": "1 Beaten-Down Semiconductor Stock That Could Make a Comeback",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-01T15:29:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-intel-posts-profitable-2028-152900414.html"
-    },
-    {
-      "title": "Jim Cramer Reveals Why Intel Corporation (NASDAQ:INTC) Is About More Than Just Selling Computer Chips",
-      "summary": "Intel Corporation (NASDAQ:INTC), over the past year, has remained one of Cramer\u2019s favorite stocks. The shares are up by 302% over the past year and by 107% year-to-date. Most of the CNBC TV host\u2019s optimism about the firm stems from its CEO, Lip-Bu Tan. He has continuously praised Tan\u2019s experience in the industry and remarked [\u2026]",
-      "pub_date": "2026-08-01T02:40:13Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-reveals-why-intel-024013757.html"
-    },
-    {
-      "title": "TSMC is quietly borrowing a page from Intel's playbook",
-      "summary": "Companies rarely name a secret internal project after a rival\u2019s product. Doing so hands over the story before it even becomes public: that the smaller competitor built something worth copying. That is essentially what just happened inside Taiwan Semiconductor Manufacturing. TSMC engineers are ...",
-      "pub_date": "2026-08-01T02:33:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/articles/tsmc-quietly-borrowing-page-intels-023300464.html"
     }
   ]
 }

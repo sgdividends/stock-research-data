@@ -1,7 +1,14 @@
 {
   "ticker": "QCOM",
-  "generated_at": "2026-08-03T11:22:27.653303+00:00",
+  "generated_at": "2026-08-03T14:26:49.296649+00:00",
   "items": [
+    {
+      "title": "Semiconductor stocks sink over fears of increased competition from China",
+      "summary": "Worries over increased competition from China sent semiconductor stocks lower on Monday.",
+      "pub_date": "2026-08-03T13:39:38Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/semiconductor-stocks-sink-over-fears-of-increased-competition-from-china-133938642.html"
+    },
     {
       "title": "Qualcomm (QCOM) Is Shaping 6G Around AI Native Networks",
       "summary": "QUALCOMM is working on 6G technology aimed at making future mobile networks AI-native. The company is focusing on features such as distributed compute and wide-area sensing as part of 6G development. This effort positions NasdaqGS:QCOM within early discussions on next-generation mobile and AI infrastructure. QUALCOMM sits at the center of mobile connectivity and chip design, and its work on 6G adds another layer to that role. The stock trades at $147.61, with a return of 29.7% over 3 years...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-31T15:10:18Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-down-44-data-151018644.html"
-    },
-    {
-      "title": "Broadcom No Longer Sells Itself As A Chip Cycle Story",
-      "summary": "The business management once framed around a cyclical bottom is still growing, but it now gets a paragraph while artificial intelligence gets the company.",
-      "pub_date": "2026-07-31T14:58:25Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-no-longer-sells-itself-145825165.html"
     }
   ]
 }
