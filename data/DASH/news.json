@@ -1,6 +1,6 @@
 {
   "ticker": "DASH",
-  "generated_at": "2026-08-03T17:46:21.186549+00:00",
+  "generated_at": "2026-08-03T20:58:03.227974+00:00",
   "items": [
     {
       "title": "CSCO, SPOT, DASH Stocks In Focus: Bank Of America Turns Bullish Ahead Of Earnings",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-03T17:28:08Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/stocks/articles/csco-spot-dash-stocks-focus-172808534.html"
+    },
+    {
+      "title": "DoorDash to Report Q2 Earnings: What's in Store for the Stock?",
+      "summary": "DASH is set to report Q2 results on Aug. 5. It has been witnessing strong demand, rising orders and grocery momentum, alongside competition and heavy investment costs.",
+      "pub_date": "2026-08-03T17:05:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/doordash-report-q2-earnings-whats-170500819.html"
     },
     {
       "title": "Microsoft, Amazon and Alphabet's are part of Zacks Earnings Preview",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-30T23:04:00Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-com-q2-earnings-call-230400197.html"
-    },
-    {
-      "title": "DoorDash Launches Drone Delivery Program as Nearly 70% of Americans Say They Are Worried About Drone Safety",
-      "summary": "DoorDash just secured federal clearance to fly its own delivery drones commercially, but a persistent trust gap with the American public may prove harder to clear than any regulatory hurdle.",
-      "pub_date": "2026-07-30T17:24:41Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/articles/doordash-launches-drone-delivery-program-172441123.html"
     }
   ]
 }

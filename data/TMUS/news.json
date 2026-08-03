@@ -1,7 +1,21 @@
 {
   "ticker": "TMUS",
-  "generated_at": "2026-08-03T17:47:02.661387+00:00",
+  "generated_at": "2026-08-03T20:58:48.492996+00:00",
   "items": [
+    {
+      "title": "T Mobile (TMUS) Joins Carrier Push For SIM Based Authentication To Curb AI Fraud",
+      "summary": "Major US carriers, including T-Mobile US, have jointly enabled a new SIM-anchored cryptographic authentication technology aimed at reducing AI-driven digital fraud. The rollout shifts verification closer to the mobile network level and moves away from traditional SMS-based authentication methods. The initiative positions carriers as more active participants in digital identity security for both consumers and enterprises. T-Mobile US, NasdaqGS:TMUS, is taking part in this carrier-level...",
+      "pub_date": "2026-08-03T20:08:34Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/t-mobile-tmus-joins-carrier-200834194.html"
+    },
+    {
+      "title": "AT&T (T) Teams Up With Verizon And T Mobile On Glide.id Security",
+      "summary": "AT&T (NYSE:T), T-Mobile, and Verizon have jointly enabled Glide.id's cryptographic authentication technology at the carrier network level. The collaboration targets rising AI-driven fraud by shifting from SMS-based logins to SIM-anchored cryptographic authentication. This move is intended to support passwordless authentication across services that rely on mobile identity verification. AT&T is one of the largest U.S. telecom companies, with its core business centered on wireless...",
+      "pub_date": "2026-08-03T20:07:53Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/articles/t-t-teams-verizon-t-200753237.html"
+    },
     {
       "title": "Jim Cramer Makes Big Prediction About T-Mobile US Inc. (NASDAQ:TMUS) Which Involves Apple",
       "summary": "As is the case with all mobile carriers, T-Mobile US Inc. (NASDAQ:TMUS)\u2019s story also revolves around the firm\u2019s subscriber base. More subscribers mean more revenue and happy investors. On this front, the firm\u2019s shares closed a strong 10.7% lower on July 23rd. The dip came after the firm\u2019s second quarter earnings report. Among other factors, [\u2026]",
@@ -43,20 +57,6 @@
       "pub_date": "2026-07-30T17:06:57Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/t-swapped-scoreboard-forecast-170657737.html"
-    },
-    {
-      "title": "The Number That Could Keep Verizon Communications Stock Climbing",
-      "summary": "A falling churn rate is quietly doing more for Verizon than any headline contract, and it is why management keeps raising its own guidance.",
-      "pub_date": "2026-07-30T15:27:16Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/number-could-keep-verizon-communications-152716512.html"
-    },
-    {
-      "title": "Does AT&T Stock Actually Diversify Your Portfolio?",
-      "summary": "Its five-year correlation to the index is low enough that most of its return has been its own story, and over the past year it has tended to move opposite the market.",
-      "pub_date": "2026-07-30T11:13:42Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-t-stock-actually-diversify-111342004.html"
     }
   ]
 }

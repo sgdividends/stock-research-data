@@ -1,14 +1,7 @@
 {
   "ticker": "AMGN",
-  "generated_at": "2026-08-03T17:46:07.435629+00:00",
+  "generated_at": "2026-08-03T20:57:48.473497+00:00",
   "items": [
-    {
-      "title": "Stock Market Today: Dow Jumps As Amazon Passes $3 Trillion Level; Defense Play Clears Entry (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index jumps as Microsoft rallies. Oil stocks lag after Trump move on Iran. Amazon stock clears a milestone.",
-      "pub_date": "2026-08-03T17:05:38Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-comments-oil-prices-plunge/?src=A00220&yptr=yahoo"
-    },
     {
       "title": "Amgen contends with data breach, exposing patient information",
       "summary": "Amgen is investigating the extent of this breach, as preliminary findings reveal that it has exposed private patient and proprietary information.",
@@ -57,6 +50,13 @@
       "pub_date": "2026-07-30T13:15:04Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-projections-key-metrics-reveal-131504282.html"
+    },
+    {
+      "title": "Are Wall Street Analysts Bullish on Amgen Stock?",
+      "summary": "Amgen has outperformed the broader market over the past year, and analysts are moderately optimistic about the stock\u2019s prospects.",
+      "pub_date": "2026-07-30T09:46:26Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-amgen-094626743.html"
     }
   ]
 }

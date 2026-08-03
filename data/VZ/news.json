@@ -1,7 +1,14 @@
 {
   "ticker": "VZ",
-  "generated_at": "2026-08-03T17:47:08.213218+00:00",
+  "generated_at": "2026-08-03T20:58:53.910665+00:00",
   "items": [
+    {
+      "title": "AT&T (T) Teams Up With Verizon And T Mobile On Glide.id Security",
+      "summary": "AT&T (NYSE:T), T-Mobile, and Verizon have jointly enabled Glide.id's cryptographic authentication technology at the carrier network level. The collaboration targets rising AI-driven fraud by shifting from SMS-based logins to SIM-anchored cryptographic authentication. This move is intended to support passwordless authentication across services that rely on mobile identity verification. AT&T is one of the largest U.S. telecom companies, with its core business centered on wireless...",
+      "pub_date": "2026-08-03T20:07:53Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/articles/t-t-teams-verizon-t-200753237.html"
+    },
     {
       "title": "Verizon hits a snag in attracting customers to a key service",
       "summary": "Verizon recently scored some wins in improving customer retention within its business; however, it is seeing an unexpected slowdown in demand for a service that has become a key battleground for major wireless carriers. In the second quarter of 2026, Verizon managed to turn around its ...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-31T12:55:35Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-value-stocks-questionable-fundamentals-125535894.html"
-    },
-    {
-      "title": "The Zacks Analyst Blog Highlights SpaceX, Verizon Communications and AT&T",
-      "summary": "SpaceX faces a key earnings test as investors weigh launch progress, AI-related deals and valuation after its recent public market debut.",
-      "pub_date": "2026-07-31T06:54:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-spacex-065400601.html"
     }
   ]
 }

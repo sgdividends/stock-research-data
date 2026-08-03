@@ -1,13 +1,20 @@
 {
   "ticker": "AMZN",
-  "generated_at": "2026-08-03T17:46:07.843146+00:00",
+  "generated_at": "2026-08-03T20:57:48.991380+00:00",
   "items": [
     {
-      "title": "Tech stocks today: Investors eye SpaceX's first earnings report",
+      "title": "Tech stocks today: Microsoft, Amazon jump after last week's strong earnings",
       "summary": "Tech stocks coverage for the week of Aug. 3.",
       "pub_date": "2026-08-03T14:04:19Z",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-investors-eye-spacexs-first-earnings-report-140419479.html"
+      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-microsoft-amazon-jump-after-last-weeks-strong-earnings-140419479.html"
+    },
+    {
+      "title": "The AI spending boom is hitting a key Wall Street metric: Chart of the Day",
+      "summary": "The AI spending boom is becoming so large so quickly that it's hitting an important metric watched by investors: free cash flow.",
+      "pub_date": "2026-08-03T18:11:57Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/article/the-ai-spending-boom-is-hitting-a-key-wall-street-metric-chart-of-the-day-181157588.html"
     },
     {
       "title": "Here's the single biggest reason the bull market is broadening",
@@ -17,46 +24,39 @@
       "url": "https://finance.yahoo.com/markets/article/heres-the-single-biggest-reason-the-bull-market-is-broadening-142744291.html"
     },
     {
-      "title": "Amazon Tops $3T, Meta Rallies 7% as AI Hyperscalers Ride Earnings Momentum",
-      "summary": "Blowout cloud earnings and a sudden geopolitical thaw sent the biggest AI names surging Monday, but the question investors are scrambling to answer is whether the rally signals a lasting regime change or just a relief bounce before the next round of capex anxiety.",
-      "pub_date": "2026-08-03T17:31:28Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-tops-3t-meta-rallies-173128017.html"
+      "title": "Amazon Stock Hits Record on Stunning Signal",
+      "summary": "The new valuation raises expectations for Amazon's AI returns",
+      "pub_date": "2026-08-03T20:44:27Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-hits-record-stunning-204427557.html"
     },
     {
-      "title": "Wall Street Raises Amazon Targets After Its AWS Surge. Here\u2019s The Number.",
-      "summary": "AWS just posted its fastest cloud growth in 18 quarters, and Wall Street is still scrambling to price it in. Our conviction call on Amazon sits far above analyst consensus, and the gap reveals something most models are missing.",
-      "pub_date": "2026-08-03T17:30:23Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-raises-amazon-targets-173023964.html"
+      "title": "Apple Stock Falls Again as Four-Day Loss Exceeds 10%",
+      "summary": "Supply shortages and below-consensus guidance continued separating Apple from the broader mega-cap technology rally.",
+      "pub_date": "2026-08-03T20:41:49Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-falls-again-four-204149277.html"
     },
     {
-      "title": "Amazon cloud chief says inference demand is surging",
-      "summary": "Investing.com -- Amazon.com Inc.'s cloud division is seeing customers move from training AI models to integrating them into business operations through a process called inference, according to the unit's chief executive.",
-      "pub_date": "2026-08-03T17:23:49Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-cloud-chief-says-inference-172349002.html"
+      "title": "Dow hits fresh record as oil prices tumble",
+      "summary": "Oil prices slumped and stocks mostly rose Monday after US President Donald Trump insisted negotiations with Iran were ongoing despite Tehran's denials.Crude futures slid more than four percent as markets brushed aside Iran's denials while Trump described the two sides as talking and Iran facing \"a last chance before decapitation.\"",
+      "pub_date": "2026-08-03T20:31:55Z",
+      "source": "AFP",
+      "url": "https://finance.yahoo.com/energy/articles/oil-prices-sink-middle-east-034305350.html"
     },
     {
-      "title": "Microsoft Races Ahead Of Google In The Cloud",
-      "summary": "The cloud war between Microsoft, Google, and Amazon is reshaping how AI gets built and deployed, and the gap between the three giants may surprise you. Hundreds of billions of dollars hinge on which platform corporations trust with their future.",
-      "pub_date": "2026-08-03T17:15:08Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/articles/microsoft-races-ahead-google-cloud-171508616.html"
-    },
-    {
-      "title": "The \u2018Nvidia Tax\u2019: Alphabet Mitigates It Better Than Amazon or Any Other Mag 7 Stock",
-      "summary": "Every hyperscaler pays NVIDIA a massive toll to compete at the AI frontier, but one Mag 7 giant has quietly built an escape route that the others lack. The answer comes down to who actually owns the silicon running their biggest bets.",
-      "pub_date": "2026-08-03T17:10:31Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-tax-alphabet-mitigates-better-171031503.html"
-    },
-    {
-      "title": "Stock Market Today: Dow Jumps As Amazon Passes $3 Trillion Level; Defense Play Clears Entry (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index jumps as Microsoft rallies. Oil stocks lag after Trump move on Iran. Amazon stock clears a milestone.",
-      "pub_date": "2026-08-03T17:05:38Z",
+      "title": "Amazon Stock Breaks Out To $3 Trillion Milestone. Why Cloud Giants Are Rallying.",
+      "summary": "Amazon stock soared Monday as investors digested a strong Q2 earnings season for cloud hyperscalers AWS, Google and Microsoft.",
+      "pub_date": "2026-08-03T20:04:01Z",
       "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-comments-oil-prices-plunge/?src=A00220&yptr=yahoo"
+      "url": "https://www.investors.com/news/technology/amazon-stock-ai-rally-hyperscalers-3-trillion/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Why Amazon Looks Better Than Microsoft After Each Jumped 15% Post Earnings",
+      "summary": "Both Amazon and Microsoft crushed earnings and surged on identical catalysts, but the businesses underneath those matching gains point in very different directions for what comes next.",
+      "pub_date": "2026-08-03T19:49:14Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-amazon-looks-better-microsoft-194914547.html"
     }
   ]
 }

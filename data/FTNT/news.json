@@ -1,7 +1,14 @@
 {
   "ticker": "FTNT",
-  "generated_at": "2026-08-03T17:46:31.175855+00:00",
+  "generated_at": "2026-08-03T20:58:14.035021+00:00",
   "items": [
+    {
+      "title": "This ETF, The IBD Stock Of The Day, Breaks Out As Cybersecurity Stocks Rebound",
+      "summary": "Cybersecurity stocks have shrugged off AI fears. The Amplify Cybersecurity ETF is a diversified way to play the sector.",
+      "pub_date": "2026-08-03T17:40:50Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/research/ibd-stock-of-the-day/cybersecurity-stocks-ai-competition-fears-hack-etf/?src=A00220&yptr=yahoo"
+    },
     {
       "title": "Unlocking Fortinet (FTNT) International Revenues: Trends, Surprises, and Prospects",
       "summary": "Explore how Fortinet's (FTNT) revenue from international markets is changing and the resulting impact on Wall Street's predictions and the stock's prospects.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-30T14:00:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/articles/ftnt-q2-earnings-call-highlights-140000937.html"
-    },
-    {
-      "title": "Fortinet Q2 Earnings & Revenues Beat Estimates, Increase Y/Y",
-      "summary": "FTNT tops Q2 earnings and revenue estimates as strong AI infrastructure, SASE and OT security demand lift results and prompt higher 2026 guidance.",
-      "pub_date": "2026-07-30T13:38:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fortinet-q2-earnings-revenues-beat-133800402.html"
     }
   ]
 }

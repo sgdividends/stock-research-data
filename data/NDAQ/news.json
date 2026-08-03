@@ -1,7 +1,21 @@
 {
   "ticker": "NDAQ",
-  "generated_at": "2026-08-03T17:46:48.255807+00:00",
+  "generated_at": "2026-08-03T20:58:33.211340+00:00",
   "items": [
+    {
+      "title": "Sector Update: Tech Stocks Rise Late Afternoon",
+      "summary": "Tech stocks were higher late Monday afternoon, with the State Street Technology Select Sector SPDR E",
+      "pub_date": "2026-08-03T19:37:31Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-193731647.html"
+    },
+    {
+      "title": "Update: D-Wave Quantum Shares Rise After Signing Deal With Nasdaq Verafin to Improve Financial Crime Detection",
+      "summary": "(Updates with D-Wave Quantum's latest stock move in the headline and in the first paragraph.) D-W",
+      "pub_date": "2026-08-03T18:36:41Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/technology/ai/articles/d-wave-quantum-shares-rise-183641620.html"
+    },
     {
       "title": "D-Wave, Nasdaq's Verafin Sign Deal to Improve Financial Crime Detection Using Quantum Computing",
       "summary": "D-Wave Quantum (QBTS) and Nasdaq's (NDAQ) financial crime management unit Nasdaq Verafin said Monday",
@@ -43,20 +57,6 @@
       "pub_date": "2026-07-28T22:45:02Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-financials-stocks-worth-investigating-224502260.html"
-    },
-    {
-      "title": "The Profit Engine That Could Power Netflix Stock's Next Rally",
-      "summary": "The stock has slid over the past year even as the company's margins reached a three-year peak and management guides them higher, and that gap is the upside case.",
-      "pub_date": "2026-07-28T19:07:37Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/profit-engine-could-power-netflix-190737554.html"
-    },
-    {
-      "title": "Zacks Industry Outlook Highlights CME Group, Intercontinental Exchange, Nasdaq and Cboe Global Markets",
-      "summary": "CME, ICE, NDAQ and CBOE could benefit from rising trading activity, recurring revenues and technology investments despite industry competition.",
-      "pub_date": "2026-07-28T08:54:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-cme-085400438.html"
     }
   ]
 }

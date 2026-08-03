@@ -1,13 +1,13 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-08-03T17:46:37.590421+00:00",
+  "generated_at": "2026-08-03T20:58:21.365473+00:00",
   "items": [
     {
-      "title": "Tech stocks today: Investors eye SpaceX's first earnings report",
+      "title": "Tech stocks today: Microsoft, Amazon jump after last week's strong earnings",
       "summary": "Tech stocks coverage for the week of Aug. 3.",
       "pub_date": "2026-08-03T14:04:19Z",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-investors-eye-spacexs-first-earnings-report-140419479.html"
+      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-microsoft-amazon-jump-after-last-weeks-strong-earnings-140419479.html"
     },
     {
       "title": "Buying Intel Over TSMC Isn\u2019t as Crazy as It Might Seem",
@@ -38,6 +38,13 @@
       "url": "https://finance.yahoo.com/economy/policy/articles/trump-admin-874m-equity-stakes-150000454.html"
     },
     {
+      "title": "AMD\u2019s Helios Is Coming for Nvidia\u2019s Rack, Not Just Its GPU",
+      "summary": "AMD's Helios rackscale AI platform marks the company's greatest challenge yet to Nvidia's dominance in integrated AI infrastructure.",
+      "pub_date": "2026-08-03T14:45:56Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-helios-coming-nvidia-rack-144556787.html"
+    },
+    {
       "title": "New Month, Same Jitters: AI Anxiety Creeps Into August",
       "summary": "Investors are kicking off a new trading month on an upbeat note. But that hasn\u2019t stopped one of July\u2019s most painful trends from carrying into August. Chip stocks and other companies tied to the AI trade are some of the biggest decliners today, with Micron Technology, Sandisk, Intel and Western Digital all down about 3% or more.",
       "pub_date": "2026-08-03T13:37:32Z",
@@ -45,18 +52,11 @@
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-03-2026/card/new-month-same-jitters-ai-anxiety-creeps-into-august-s70UPpDEuiXzJvZbMBgO?siteid=yhoof2&yptr=yahoo"
     },
     {
-      "title": "GlobalFoundries Stock Costs More Than The Market On Earnings And Less On Cash Flow",
-      "summary": "The chipmaker looks dear on profits and slightly cheap on cash, and what sits under that gap is a business that turns far more of each sales dollar into cash than into profit while it swaps a shrinking handset exposure for faster end markets in data centers and automotive.",
-      "pub_date": "2026-08-03T13:02:21Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/globalfoundries-stock-costs-more-market-130221967.html"
-    },
-    {
-      "title": "FTSE 100 Live: London lagging as AstraZeneca plunges and commodities slip",
-      "summary": "FTSE 100 down 30 points to 10,838 Housebuilders, airlines climb as oil and bonds fall AstraZeneca drops on reports of Bristol-Myers merger talks Shell sells UK and EU renewables p'folio to Total 4.14pm: AZ and commodities drag offsets oil optimism AstraZeneca is down 9.3% now, and...",
-      "pub_date": "2026-08-03T06:17:00Z",
-      "source": "Proactive",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/ftse-100-live-blue-chips-061700158.html"
+      "title": "AMD, NVDA, and INTC Forecasts \u2013 AI Profitability Worries Pull Tech Lower",
+      "summary": "Microchips struggle as South Korea shows more weakness in the semiconductor area. As the AI trade continues to struggle, this will be felt in multiple places.",
+      "pub_date": "2026-08-03T13:21:13Z",
+      "source": "FX Empire",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-nvda-intc-forecasts-ai-132113052.html"
     }
   ]
 }
