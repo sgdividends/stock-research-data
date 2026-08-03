@@ -1,7 +1,14 @@
 {
   "ticker": "DASH",
-  "generated_at": "2026-08-03T06:54:59.534439+00:00",
+  "generated_at": "2026-08-03T11:21:59.071854+00:00",
   "items": [
+    {
+      "title": "Microsoft, Amazon and Alphabet's are part of Zacks Earnings Preview",
+      "summary": "Microsoft, Amazon and Alphabet's have been highlighted in this Earnings Preview article.",
+      "pub_date": "2026-08-03T08:56:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-amazon-alphabets-part-zacks-085600250.html"
+    },
     {
       "title": "DoorDash (DASH) Just Won FAA Approval And Launched Its Own Drone Delivery Service",
       "summary": "DoorDash, ticker NasdaqGS:DASH, has received FAA Part 135 certification to operate commercial drone deliveries in the US. The company is launching DoorDash Air as an in house drone delivery program, expanding beyond prior third party drone partnerships. The new service is intended to support mid range deliveries and offer merchants and customers an additional fulfillment option. DoorDash is already a major player in app based food and convenience delivery, and DoorDash Air adds a new...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-29T19:11:18Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dash-stock-alert-know-faa-191118471.html"
-    },
-    {
-      "title": "DoorDash Gets FAA Approval to Fly Delivery Drones",
-      "summary": "Investors greeted the news with a shrug, a pop, and then a full refund of that pop",
-      "pub_date": "2026-07-29T18:34:39Z",
-      "source": "Moby",
-      "url": "https://finance.yahoo.com/technology/articles/doordash-gets-faa-approval-fly-183439963.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "SO",
-  "generated_at": "2026-08-03T06:55:47.809238+00:00",
+  "generated_at": "2026-08-03T11:22:30.307442+00:00",
   "items": [
+    {
+      "title": "Georgia Power starts construction on 1.5GW gas units at Plant Bowen",
+      "summary": "Georgia Power is also developing a 500MW BESS at Plant Bowen to support evolving electricity demand and grid flexibility.",
+      "pub_date": "2026-08-03T08:47:50Z",
+      "source": "Power Technology",
+      "url": "https://finance.yahoo.com/energy/articles/georgia-power-starts-construction-1-084750347.html"
+    },
     {
       "title": "Southern Q2 Earnings Call Highlights",
       "summary": "Southern (NYSE:SO) reported second-quarter 2026 adjusted earnings of $1.13 per share, up $0.21 from the prior-year period and $0.13 above the company\u2019s estimate, as higher electricity usage, customer growth and construction-related earnings supported results. Chief Financial Officer David Poroch sa",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-29T21:10:30Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/energy/articles/southern-completes-moody-battery-project-211030517.html"
-    },
-    {
-      "title": "Edison International to Release Q2 Earnings: What's in Store?",
-      "summary": "EIX's Q2 results are likely to reflect grid investments, rate-case support, rising demand and tighter cost controls.",
-      "pub_date": "2026-07-29T14:28:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/edison-international-release-q2-earnings-142800056.html"
     }
   ]
 }
