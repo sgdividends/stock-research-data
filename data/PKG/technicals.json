@@ -1,10 +1,10 @@
 {
   "ticker": "PKG",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:39.080335+00:00",
+  "generated_at": "2026-08-04T08:21:38.224640+00:00",
   "close": 245.84,
   "rsi_14": 59.89,
-  "rsi_14_pctile_1y": 71.4,
+  "rsi_14_pctile_1y": 72.2,
   "sma_20": 235.79,
   "sma_20_pct_from_price": 4.26,
   "sma_50": 230.47,
@@ -19,10 +19,10 @@
   "bb_mid": 235.79,
   "bb_lower": 215.1,
   "bb_pctb": 0.743,
-  "bb_pctb_pctile_1y": 63.8,
+  "bb_pctb_pctile_1y": 64.1,
   "atr_14": 7.46,
   "atr_pct": 3.04,
   "week52_high": 258.81,
-  "week52_low": 189.03,
+  "week52_low": 191.13,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

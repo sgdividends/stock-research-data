@@ -1,7 +1,7 @@
 {
   "ticker": "CI",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:11.202509+00:00",
+  "generated_at": "2026-08-04T08:21:21.567129+00:00",
   "close": 279.05,
   "rsi_14": 42.98,
   "rsi_14_pctile_1y": 13.9,
@@ -19,7 +19,7 @@
   "bb_mid": 290.25,
   "bb_lower": 275.97,
   "bb_pctb": 0.108,
-  "bb_pctb_pctile_1y": 9.9,
+  "bb_pctb_pctile_1y": 10.0,
   "atr_14": 8.83,
   "atr_pct": 3.16,
   "week52_high": 315.47,

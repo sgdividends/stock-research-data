@@ -1,10 +1,10 @@
 {
   "ticker": "GM",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:27.361446+00:00",
+  "generated_at": "2026-08-04T08:21:32.453100+00:00",
   "close": 88.86,
   "rsi_14": 68.22,
-  "rsi_14_pctile_1y": 73.1,
+  "rsi_14_pctile_1y": 73.4,
   "sma_20": 80.72,
   "sma_20_pct_from_price": 10.08,
   "sma_50": 80.5,
@@ -23,6 +23,6 @@
   "atr_14": 2.78,
   "atr_pct": 3.13,
   "week52_high": 91.85,
-  "week52_low": 51.88,
+  "week52_low": 52.09,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

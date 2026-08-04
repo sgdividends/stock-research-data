@@ -1,10 +1,10 @@
 {
   "ticker": "TJX",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:48.392436+00:00",
+  "generated_at": "2026-08-04T08:21:43.126203+00:00",
   "close": 157.34,
   "rsi_14": 52.38,
-  "rsi_14_pctile_1y": 37.0,
+  "rsi_14_pctile_1y": 37.6,
   "sma_20": 154.54,
   "sma_20_pct_from_price": 1.81,
   "sma_50": 157.57,
@@ -19,10 +19,10 @@
   "bb_mid": 154.54,
   "bb_lower": 148.06,
   "bb_pctb": 0.716,
-  "bb_pctb_pctile_1y": 60.8,
+  "bb_pctb_pctile_1y": 61.0,
   "atr_14": 3.51,
   "atr_pct": 2.23,
   "week52_high": 170.0,
-  "week52_low": 123.78,
+  "week52_low": 126.3,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

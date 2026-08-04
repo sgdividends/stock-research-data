@@ -1,10 +1,10 @@
 {
   "ticker": "GD",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:27.267032+00:00",
+  "generated_at": "2026-08-04T08:21:32.351701+00:00",
   "close": 383.42,
   "rsi_14": 60.78,
-  "rsi_14_pctile_1y": 75.2,
+  "rsi_14_pctile_1y": 75.9,
   "sma_20": 376.49,
   "sma_20_pct_from_price": 1.84,
   "sma_50": 359.75,
@@ -19,10 +19,10 @@
   "bb_mid": 376.49,
   "bb_lower": 361.58,
   "bb_pctb": 0.733,
-  "bb_pctb_pctile_1y": 68.1,
+  "bb_pctb_pctile_1y": 68.4,
   "atr_14": 8.68,
   "atr_pct": 2.26,
   "week52_high": 400.0,
-  "week52_low": 306.03,
+  "week52_low": 306.77,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

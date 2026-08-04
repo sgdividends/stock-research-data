@@ -1,10 +1,10 @@
 {
   "ticker": "AVGO",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:10.773039+00:00",
+  "generated_at": "2026-08-04T08:21:21.101665+00:00",
   "close": 389.28,
   "rsi_14": 51.46,
-  "rsi_14_pctile_1y": 49.6,
+  "rsi_14_pctile_1y": 51.9,
   "sma_20": 384.73,
   "sma_20_pct_from_price": 1.18,
   "sma_50": 395.31,
@@ -19,10 +19,10 @@
   "bb_mid": 384.73,
   "bb_lower": 366.01,
   "bb_pctb": 0.622,
-  "bb_pctb_pctile_1y": 61.2,
+  "bb_pctb_pctile_1y": 61.5,
   "atr_14": 16.57,
   "atr_pct": 4.26,
   "week52_high": 495.0,
-  "week52_low": 281.61,
+  "week52_low": 281.87,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

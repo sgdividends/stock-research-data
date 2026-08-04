@@ -1,10 +1,10 @@
 {
   "ticker": "MU",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:38.686559+00:00",
+  "generated_at": "2026-08-04T08:21:37.794054+00:00",
   "close": 823.03,
   "rsi_14": 43.58,
-  "rsi_14_pctile_1y": 5.0,
+  "rsi_14_pctile_1y": 5.1,
   "sma_20": 911.69,
   "sma_20_pct_from_price": -9.72,
   "sma_50": 964.85,
@@ -23,6 +23,6 @@
   "atr_14": 90.54,
   "atr_pct": 11.0,
   "week52_high": 1255.0,
-  "week52_low": 103.38,
+  "week52_low": 105.46,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

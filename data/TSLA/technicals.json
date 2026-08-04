@@ -1,7 +1,7 @@
 {
   "ticker": "TSLA",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:48.495913+00:00",
+  "generated_at": "2026-08-04T08:21:43.237635+00:00",
   "close": 311.21,
   "rsi_14": 31.7,
   "rsi_14_pctile_1y": 2.5,
@@ -19,7 +19,7 @@
   "bb_mid": 363.93,
   "bb_lower": 280.94,
   "bb_pctb": 0.182,
-  "bb_pctb_pctile_1y": 22.8,
+  "bb_pctb_pctile_1y": 22.9,
   "atr_14": 16.83,
   "atr_pct": 5.41,
   "week52_high": 498.83,

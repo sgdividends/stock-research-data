@@ -1,10 +1,10 @@
 {
   "ticker": "VRSK",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:48.719939+00:00",
+  "generated_at": "2026-08-04T08:21:43.481548+00:00",
   "close": 194.85,
   "rsi_14": 50.54,
-  "rsi_14_pctile_1y": 72.3,
+  "rsi_14_pctile_1y": 70.5,
   "sma_20": 196.58,
   "sma_20_pct_from_price": -0.88,
   "sma_50": 185.45,
@@ -19,10 +19,10 @@
   "bb_mid": 196.58,
   "bb_lower": 181.16,
   "bb_pctb": 0.444,
-  "bb_pctb_pctile_1y": 54.3,
+  "bb_pctb_pctile_1y": 54.1,
   "atr_14": 7.99,
   "atr_pct": 4.1,
-  "week52_high": 281.82,
+  "week52_high": 276.19,
   "week52_low": 155.94,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

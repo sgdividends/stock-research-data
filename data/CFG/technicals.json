@@ -1,10 +1,10 @@
 {
   "ticker": "CFG",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:11.165497+00:00",
+  "generated_at": "2026-08-04T08:21:21.526743+00:00",
   "close": 71.65,
   "rsi_14": 54.26,
-  "rsi_14_pctile_1y": 33.6,
+  "rsi_14_pctile_1y": 33.8,
   "sma_20": 71.48,
   "sma_20_pct_from_price": 0.24,
   "sma_50": 68.19,
@@ -19,10 +19,10 @@
   "bb_mid": 71.48,
   "bb_lower": 69.08,
   "bb_pctb": 0.535,
-  "bb_pctb_pctile_1y": 33.2,
+  "bb_pctb_pctile_1y": 33.3,
   "atr_14": 1.71,
   "atr_pct": 2.38,
   "week52_high": 74.7,
-  "week52_low": 45.9,
+  "week52_low": 46.53,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

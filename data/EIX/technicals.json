@@ -1,7 +1,7 @@
 {
   "ticker": "EIX",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:17.228255+00:00",
+  "generated_at": "2026-08-04T08:21:26.458128+00:00",
   "close": 73.37,
   "rsi_14": 39.39,
   "rsi_14_pctile_1y": 2.5,
@@ -23,6 +23,6 @@
   "atr_14": 2.15,
   "atr_pct": 2.93,
   "week52_high": 81.62,
-  "week52_low": 51.4,
+  "week52_low": 52.0,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

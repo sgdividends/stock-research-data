@@ -1,10 +1,10 @@
 {
   "ticker": "LMT",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:28.071189+00:00",
+  "generated_at": "2026-08-04T08:21:33.212598+00:00",
   "close": 582.74,
   "rsi_14": 67.65,
-  "rsi_14_pctile_1y": 69.7,
+  "rsi_14_pctile_1y": 70.9,
   "sma_20": 539.24,
   "sma_20_pct_from_price": 8.07,
   "sma_50": 528.69,
@@ -19,10 +19,10 @@
   "bb_mid": 539.24,
   "bb_lower": 481.46,
   "bb_pctb": 0.876,
-  "bb_pctb_pctile_1y": 77.2,
+  "bb_pctb_pctile_1y": 77.5,
   "atr_14": 16.61,
   "atr_pct": 2.85,
   "week52_high": 692.0,
-  "week52_low": 417.0,
+  "week52_low": 419.0,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

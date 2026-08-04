@@ -1,7 +1,7 @@
 {
   "ticker": "PAYX",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:38.977001+00:00",
+  "generated_at": "2026-08-04T08:21:38.112370+00:00",
   "close": 116.84,
   "rsi_14": 61.78,
   "rsi_14_pctile_1y": 91.6,
@@ -22,7 +22,7 @@
   "bb_pctb_pctile_1y": 78.4,
   "atr_14": 3.93,
   "atr_pct": 3.36,
-  "week52_high": 143.58,
+  "week52_high": 141.89,
   "week52_low": 85.45,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

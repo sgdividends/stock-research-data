@@ -1,10 +1,10 @@
 {
   "ticker": "EVRG",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:17.358705+00:00",
+  "generated_at": "2026-08-04T08:21:26.600411+00:00",
   "close": 83.01,
   "rsi_14": 39.34,
-  "rsi_14_pctile_1y": 7.1,
+  "rsi_14_pctile_1y": 11.0,
   "sma_20": 85.65,
   "sma_20_pct_from_price": -3.08,
   "sma_50": 84.53,
@@ -23,6 +23,6 @@
   "atr_14": 1.57,
   "atr_pct": 1.89,
   "week52_high": 88.62,
-  "week52_low": 70.37,
+  "week52_low": 70.42,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

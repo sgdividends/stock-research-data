@@ -1,10 +1,10 @@
 {
   "ticker": "SBAC",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:48.063879+00:00",
+  "generated_at": "2026-08-04T08:21:42.771706+00:00",
   "close": 180.98,
   "rsi_14": 47.0,
-  "rsi_14_pctile_1y": 57.1,
+  "rsi_14_pctile_1y": 57.0,
   "sma_20": 181.62,
   "sma_20_pct_from_price": -0.35,
   "sma_50": 190.31,
@@ -19,10 +19,10 @@
   "bb_mid": 181.62,
   "bb_lower": 171.72,
   "bb_pctb": 0.468,
-  "bb_pctb_pctile_1y": 59.5,
+  "bb_pctb_pctile_1y": 59.3,
   "atr_14": 6.22,
   "atr_pct": 3.44,
-  "week52_high": 234.64,
+  "week52_high": 231.34,
   "week52_low": 162.41,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

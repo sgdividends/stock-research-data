@@ -1,10 +1,10 @@
 {
   "ticker": "EXPE",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:17.405836+00:00",
+  "generated_at": "2026-08-04T08:21:26.651198+00:00",
   "close": 294.74,
   "rsi_14": 65.78,
-  "rsi_14_pctile_1y": 78.6,
+  "rsi_14_pctile_1y": 79.3,
   "sma_20": 272.45,
   "sma_20_pct_from_price": 8.18,
   "sma_50": 250.76,
@@ -19,10 +19,10 @@
   "bb_mid": 272.45,
   "bb_lower": 246.13,
   "bb_pctb": 0.923,
-  "bb_pctb_pctile_1y": 83.2,
+  "bb_pctb_pctile_1y": 83.1,
   "atr_14": 11.9,
   "atr_pct": 4.04,
   "week52_high": 312.4,
-  "week52_low": 174.05,
+  "week52_low": 179.61,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

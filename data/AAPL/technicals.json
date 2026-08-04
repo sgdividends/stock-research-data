@@ -1,10 +1,10 @@
 {
   "ticker": "AAPL",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:10.330795+00:00",
+  "generated_at": "2026-08-04T08:21:20.633434+00:00",
   "close": 308.91,
   "rsi_14": 43.24,
-  "rsi_14_pctile_1y": 14.7,
+  "rsi_14_pctile_1y": 14.8,
   "sma_20": 324.37,
   "sma_20_pct_from_price": -4.77,
   "sma_50": 309.5,
@@ -23,6 +23,6 @@
   "atr_14": 9.87,
   "atr_pct": 3.2,
   "week52_high": 344.57,
-  "week52_low": 201.5,
+  "week52_low": 201.68,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

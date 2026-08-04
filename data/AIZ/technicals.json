@@ -1,10 +1,10 @@
 {
   "ticker": "AIZ",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:10.512035+00:00",
+  "generated_at": "2026-08-04T08:21:20.817618+00:00",
   "close": 279.19,
   "rsi_14": 59.04,
-  "rsi_14_pctile_1y": 47.5,
+  "rsi_14_pctile_1y": 48.1,
   "sma_20": 277.82,
   "sma_20_pct_from_price": 0.49,
   "sma_50": 266.2,
@@ -19,10 +19,10 @@
   "bb_mid": 277.82,
   "bb_lower": 272.39,
   "bb_pctb": 0.626,
-  "bb_pctb_pctile_1y": 46.1,
+  "bb_pctb_pctile_1y": 46.3,
   "atr_14": 5.19,
   "atr_pct": 1.86,
   "week52_high": 284.64,
-  "week52_low": 185.04,
+  "week52_low": 186.98,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

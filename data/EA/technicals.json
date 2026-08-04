@@ -1,7 +1,7 @@
 {
   "ticker": "EA",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:17.162739+00:00",
+  "generated_at": "2026-08-04T08:21:26.387114+00:00",
   "close": 209.86,
   "rsi_14": 79.09,
   "rsi_14_pctile_1y": 97.5,
@@ -19,10 +19,10 @@
   "bb_mid": 207.86,
   "bb_lower": 204.74,
   "bb_pctb": 0.821,
-  "bb_pctb_pctile_1y": 71.1,
+  "bb_pctb_pctile_1y": 71.0,
   "atr_14": 0.74,
   "atr_pct": 0.35,
   "week52_high": 209.93,
-  "week52_low": 151.5,
+  "week52_low": 156.37,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

@@ -1,10 +1,10 @@
 {
   "ticker": "MAR",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:28.175913+00:00",
+  "generated_at": "2026-08-04T08:21:33.323482+00:00",
   "close": 372.83,
   "rsi_14": 48.29,
-  "rsi_14_pctile_1y": 23.5,
+  "rsi_14_pctile_1y": 24.5,
   "sma_20": 372.61,
   "sma_20_pct_from_price": 0.06,
   "sma_50": 378.93,
@@ -19,10 +19,10 @@
   "bb_mid": 372.61,
   "bb_lower": 359.86,
   "bb_pctb": 0.509,
-  "bb_pctb_pctile_1y": 40.5,
+  "bb_pctb_pctile_1y": 40.7,
   "atr_14": 8.51,
   "atr_pct": 2.28,
   "week52_high": 410.98,
-  "week52_low": 253.76,
+  "week52_low": 255.27,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

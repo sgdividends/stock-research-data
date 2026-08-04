@@ -1,7 +1,7 @@
 {
   "ticker": "DD",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:16.956600+00:00",
+  "generated_at": "2026-08-04T08:21:26.165048+00:00",
   "close": 137.0,
   "rsi_14": 46.95,
   "rsi_14_pctile_1y": 18.1,
@@ -19,10 +19,10 @@
   "bb_mid": 137.12,
   "bb_lower": 132.32,
   "bb_pctb": 0.488,
-  "bb_pctb_pctile_1y": 27.6,
+  "bb_pctb_pctile_1y": 27.7,
   "atr_14": 3.54,
   "atr_pct": 2.59,
   "week52_high": 157.98,
-  "week52_low": 86.59,
+  "week52_low": 87.26,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

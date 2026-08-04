@@ -1,10 +1,10 @@
 {
   "ticker": "GS",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:27.427791+00:00",
+  "generated_at": "2026-08-04T08:21:32.524008+00:00",
   "close": 1018.38,
   "rsi_14": 44.83,
-  "rsi_14_pctile_1y": 13.0,
+  "rsi_14_pctile_1y": 13.5,
   "sma_20": 1060.9,
   "sma_20_pct_from_price": -4.01,
   "sma_50": 1049.39,
@@ -19,10 +19,10 @@
   "bb_mid": 1060.9,
   "bb_lower": 983.35,
   "bb_pctb": 0.226,
-  "bb_pctb_pctile_1y": 15.5,
+  "bb_pctb_pctile_1y": 15.6,
   "atr_14": 39.03,
   "atr_pct": 3.83,
   "week52_high": 1153.99,
-  "week52_low": 694.05,
+  "week52_low": 705.55,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

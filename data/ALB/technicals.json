@@ -1,7 +1,7 @@
 {
   "ticker": "ALB",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:10.541048+00:00",
+  "generated_at": "2026-08-04T08:21:20.847955+00:00",
   "close": 117.64,
   "rsi_14": 34.56,
   "rsi_14_pctile_1y": 11.8,
@@ -19,10 +19,10 @@
   "bb_mid": 121.54,
   "bb_lower": 109.62,
   "bb_pctb": 0.336,
-  "bb_pctb_pctile_1y": 29.3,
+  "bb_pctb_pctile_1y": 29.4,
   "atr_14": 5.51,
   "atr_pct": 4.69,
   "week52_high": 221.0,
-  "week52_low": 64.95,
+  "week52_low": 66.67,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

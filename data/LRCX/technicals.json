@@ -1,10 +1,10 @@
 {
   "ticker": "LRCX",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:28.099881+00:00",
+  "generated_at": "2026-08-04T08:21:33.242506+00:00",
   "close": 293.02,
   "rsi_14": 43.56,
-  "rsi_14_pctile_1y": 6.7,
+  "rsi_14_pctile_1y": 6.8,
   "sma_20": 316.8,
   "sma_20_pct_from_price": -7.51,
   "sma_50": 337.92,
@@ -19,10 +19,10 @@
   "bb_mid": 316.8,
   "bb_lower": 264.75,
   "bb_pctb": 0.272,
-  "bb_pctb_pctile_1y": 14.2,
+  "bb_pctb_pctile_1y": 14.3,
   "atr_14": 27.6,
   "atr_pct": 9.42,
   "week52_high": 438.5,
-  "week52_low": 92.47,
+  "week52_low": 94.11,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

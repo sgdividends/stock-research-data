@@ -1,10 +1,10 @@
 {
   "ticker": "FDS",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:17.463237+00:00",
+  "generated_at": "2026-08-04T08:21:26.711869+00:00",
   "close": 263.2,
   "rsi_14": 54.96,
-  "rsi_14_pctile_1y": 72.7,
+  "rsi_14_pctile_1y": 72.6,
   "sma_20": 256.95,
   "sma_20_pct_from_price": 2.43,
   "sma_50": 245.14,
@@ -19,10 +19,10 @@
   "bb_mid": 256.95,
   "bb_lower": 234.69,
   "bb_pctb": 0.64,
-  "bb_pctb_pctile_1y": 62.9,
+  "bb_pctb_pctile_1y": 62.8,
   "atr_14": 12.99,
   "atr_pct": 4.94,
-  "week52_high": 404.09,
+  "week52_high": 398.5,
   "week52_low": 185.0,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

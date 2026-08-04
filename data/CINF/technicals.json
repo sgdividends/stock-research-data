@@ -1,10 +1,10 @@
 {
   "ticker": "CINF",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:11.220939+00:00",
+  "generated_at": "2026-08-04T08:21:21.587406+00:00",
   "close": 177.68,
   "rsi_14": 48.51,
-  "rsi_14_pctile_1y": 27.3,
+  "rsi_14_pctile_1y": 27.8,
   "sma_20": 180.5,
   "sma_20_pct_from_price": -1.56,
   "sma_50": 174.26,
@@ -19,10 +19,10 @@
   "bb_mid": 180.5,
   "bb_lower": 172.25,
   "bb_pctb": 0.329,
-  "bb_pctb_pctile_1y": 25.0,
+  "bb_pctb_pctile_1y": 25.1,
   "atr_14": 4.86,
   "atr_pct": 2.74,
   "week52_high": 194.81,
-  "week52_low": 143.87,
+  "week52_low": 146.52,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

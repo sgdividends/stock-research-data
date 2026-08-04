@@ -1,7 +1,7 @@
 {
   "ticker": "ROP",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:39.343364+00:00",
+  "generated_at": "2026-08-04T08:21:38.510326+00:00",
   "close": 391.97,
   "rsi_14": 62.75,
   "rsi_14_pctile_1y": 96.6,
@@ -22,7 +22,7 @@
   "bb_pctb_pctile_1y": 90.9,
   "atr_14": 15.02,
   "atr_pct": 3.83,
-  "week52_high": 551.11,
+  "week52_high": 549.24,
   "week52_low": 305.96,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

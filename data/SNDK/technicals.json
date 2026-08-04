@@ -1,7 +1,7 @@
 {
   "ticker": "SNDK",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:48.138011+00:00",
+  "generated_at": "2026-08-04T08:21:42.852595+00:00",
   "close": 1214.83,
   "rsi_14": 40.71,
   "rsi_14_pctile_1y": 2.5,
@@ -23,6 +23,6 @@
   "atr_14": 198.44,
   "atr_pct": 16.34,
   "week52_high": 2354.39,
-  "week52_low": 40.1,
+  "week52_low": 40.53,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

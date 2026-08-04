@@ -1,7 +1,7 @@
 {
   "ticker": "CRH",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:16.801284+00:00",
+  "generated_at": "2026-08-04T08:21:26.001120+00:00",
   "close": 95.01,
   "rsi_14": 34.4,
   "rsi_14_pctile_1y": 8.0,
@@ -23,6 +23,6 @@
   "atr_14": 3.46,
   "atr_pct": 3.64,
   "week52_high": 131.55,
-  "week52_low": 93.58,
+  "week52_low": 94.12,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

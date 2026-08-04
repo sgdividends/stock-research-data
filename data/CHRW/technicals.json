@@ -1,7 +1,7 @@
 {
   "ticker": "CHRW",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:11.183823+00:00",
+  "generated_at": "2026-08-04T08:21:21.546815+00:00",
   "close": 147.73,
   "rsi_14": 26.02,
   "rsi_14_pctile_1y": 0.4,
@@ -23,6 +23,6 @@
   "atr_14": 8.59,
   "atr_pct": 5.82,
   "week52_high": 210.33,
-  "week52_low": 111.74,
+  "week52_low": 113.4,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

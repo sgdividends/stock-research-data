@@ -1,10 +1,10 @@
 {
   "ticker": "FE",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:17.491567+00:00",
+  "generated_at": "2026-08-04T08:21:26.741893+00:00",
   "close": 48.31,
   "rsi_14": 48.74,
-  "rsi_14_pctile_1y": 32.4,
+  "rsi_14_pctile_1y": 38.0,
   "sma_20": 48.72,
   "sma_20_pct_from_price": -0.85,
   "sma_50": 47.5,
@@ -19,10 +19,10 @@
   "bb_mid": 48.72,
   "bb_lower": 47.46,
   "bb_pctb": 0.336,
-  "bb_pctb_pctile_1y": 25.4,
+  "bb_pctb_pctile_1y": 25.5,
   "atr_14": 0.91,
   "atr_pct": 1.89,
   "week52_high": 52.34,
-  "week52_low": 42.71,
+  "week52_low": 42.73,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

@@ -1,10 +1,10 @@
 {
   "ticker": "UNH",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:48.616845+00:00",
+  "generated_at": "2026-08-04T08:21:43.369643+00:00",
   "close": 414.4,
   "rsi_14": 46.95,
-  "rsi_14_pctile_1y": 28.6,
+  "rsi_14_pctile_1y": 28.7,
   "sma_20": 424.34,
   "sma_20_pct_from_price": -2.34,
   "sma_50": 410.16,
@@ -19,10 +19,10 @@
   "bb_mid": 424.34,
   "bb_lower": 413.64,
   "bb_pctb": 0.035,
-  "bb_pctb_pctile_1y": 6.0,
+  "bb_pctb_pctile_1y": 6.1,
   "atr_14": 12.17,
   "atr_pct": 2.94,
   "week52_high": 461.62,
-  "week52_low": 234.6,
+  "week52_low": 236.95,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

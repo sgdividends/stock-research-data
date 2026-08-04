@@ -1,10 +1,10 @@
 {
   "ticker": "MPWR",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:38.583757+00:00",
+  "generated_at": "2026-08-04T08:21:37.681629+00:00",
   "close": 1426.03,
   "rsi_14": 54.59,
-  "rsi_14_pctile_1y": 49.6,
+  "rsi_14_pctile_1y": 53.6,
   "sma_20": 1337.65,
   "sma_20_pct_from_price": 6.61,
   "sma_50": 1445.76,
@@ -19,10 +19,10 @@
   "bb_mid": 1337.65,
   "bb_lower": 1247.58,
   "bb_pctb": 0.991,
-  "bb_pctb_pctile_1y": 89.7,
+  "bb_pctb_pctile_1y": 89.6,
   "atr_14": 97.12,
   "atr_pct": 6.81,
   "week52_high": 1714.09,
-  "week52_low": 711.46,
+  "week52_low": 774.14,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

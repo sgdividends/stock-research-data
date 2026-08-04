@@ -1,10 +1,10 @@
 {
   "ticker": "AFL",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:10.492874+00:00",
+  "generated_at": "2026-08-04T08:21:20.797262+00:00",
   "close": 127.48,
   "rsi_14": 64.99,
-  "rsi_14_pctile_1y": 81.9,
+  "rsi_14_pctile_1y": 82.3,
   "sma_20": 124.11,
   "sma_20_pct_from_price": 2.71,
   "sma_50": 119.64,
@@ -19,10 +19,10 @@
   "bb_mid": 124.11,
   "bb_lower": 118.94,
   "bb_pctb": 0.826,
-  "bb_pctb_pctile_1y": 71.6,
+  "bb_pctb_pctile_1y": 71.4,
   "atr_14": 2.11,
   "atr_pct": 1.66,
   "week52_high": 130.22,
-  "week52_low": 96.95,
+  "week52_low": 97.47,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

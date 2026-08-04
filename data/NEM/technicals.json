@@ -1,10 +1,10 @@
 {
   "ticker": "NEM",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:38.733790+00:00",
+  "generated_at": "2026-08-04T08:21:37.846802+00:00",
   "close": 93.71,
   "rsi_14": 47.36,
-  "rsi_14_pctile_1y": 33.2,
+  "rsi_14_pctile_1y": 33.3,
   "sma_20": 93.56,
   "sma_20_pct_from_price": 0.15,
   "sma_50": 98.8,
@@ -19,10 +19,10 @@
   "bb_mid": 93.56,
   "bb_lower": 89.19,
   "bb_pctb": 0.517,
-  "bb_pctb_pctile_1y": 42.7,
+  "bb_pctb_pctile_1y": 42.9,
   "atr_14": 3.61,
   "atr_pct": 3.86,
   "week52_high": 134.88,
-  "week52_low": 61.83,
+  "week52_low": 63.13,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

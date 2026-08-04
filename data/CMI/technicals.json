@@ -1,10 +1,10 @@
 {
   "ticker": "CMI",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:11.276617+00:00",
+  "generated_at": "2026-08-04T08:21:21.647831+00:00",
   "close": 634.2,
   "rsi_14": 43.1,
-  "rsi_14_pctile_1y": 8.8,
+  "rsi_14_pctile_1y": 8.9,
   "sma_20": 656.31,
   "sma_20_pct_from_price": -3.37,
   "sma_50": 668.74,
@@ -23,6 +23,6 @@
   "atr_14": 26.21,
   "atr_pct": 4.13,
   "week52_high": 737.76,
-  "week52_low": 354.68,
+  "week52_low": 356.92,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

@@ -1,10 +1,10 @@
 {
   "ticker": "MRK",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:38.593166+00:00",
+  "generated_at": "2026-08-04T08:21:37.691855+00:00",
   "close": 130.2,
   "rsi_14": 58.58,
-  "rsi_14_pctile_1y": 52.5,
+  "rsi_14_pctile_1y": 53.2,
   "sma_20": 127.32,
   "sma_20_pct_from_price": 2.26,
   "sma_50": 122.86,
@@ -19,10 +19,10 @@
   "bb_mid": 127.32,
   "bb_lower": 121.31,
   "bb_pctb": 0.74,
-  "bb_pctb_pctile_1y": 61.6,
+  "bb_pctb_pctile_1y": 61.5,
   "atr_14": 3.28,
   "atr_pct": 2.52,
   "week52_high": 135.05,
-  "week52_low": 77.53,
+  "week52_low": 77.58,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

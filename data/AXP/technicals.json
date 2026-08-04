@@ -1,10 +1,10 @@
 {
   "ticker": "AXP",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:10.810170+00:00",
+  "generated_at": "2026-08-04T08:21:21.142103+00:00",
   "close": 336.25,
   "rsi_14": 46.55,
-  "rsi_14_pctile_1y": 31.9,
+  "rsi_14_pctile_1y": 32.1,
   "sma_20": 346.0,
   "sma_20_pct_from_price": -2.82,
   "sma_50": 333.55,
@@ -19,10 +19,10 @@
   "bb_mid": 346.0,
   "bb_lower": 326.36,
   "bb_pctb": 0.252,
-  "bb_pctb_pctile_1y": 24.6,
+  "bb_pctb_pctile_1y": 24.7,
   "atr_14": 8.48,
   "atr_pct": 2.52,
   "week52_high": 387.49,
-  "week52_low": 288.34,
+  "week52_low": 290.63,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

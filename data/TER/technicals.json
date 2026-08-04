@@ -1,10 +1,10 @@
 {
   "ticker": "TER",
   "as_of": "2026-07-31",
-  "generated_at": "2026-08-01T08:04:48.364265+00:00",
+  "generated_at": "2026-08-04T08:21:43.095430+00:00",
   "close": 367.69,
   "rsi_14": 51.14,
-  "rsi_14_pctile_1y": 21.0,
+  "rsi_14_pctile_1y": 21.9,
   "sma_20": 349.33,
   "sma_20_pct_from_price": 5.26,
   "sma_50": 380.45,
@@ -19,10 +19,10 @@
   "bb_mid": 349.33,
   "bb_lower": 311.34,
   "bb_pctb": 0.742,
-  "bb_pctb_pctile_1y": 52.2,
+  "bb_pctb_pctile_1y": 52.4,
   "atr_14": 33.72,
   "atr_pct": 9.17,
   "week52_high": 487.91,
-  "week52_low": 102.42,
+  "week52_low": 103.0,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }
