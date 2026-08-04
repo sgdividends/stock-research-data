@@ -1,13 +1,27 @@
 {
   "ticker": "KLAC",
-  "generated_at": "2026-08-04T10:31:54.714674+00:00",
+  "generated_at": "2026-08-04T13:56:38.179611+00:00",
   "items": [
+    {
+      "title": "BofA\u2019s $1.18T cloud forecast puts 3 chip stocks in focus",
+      "summary": "Applied Materials (AMAT), Lam Research (LRCX), and KLA (KLAC) sell machines used to manufacture and inspect processors and memory chips. Cloud providers purchase finished processors and memory for artificial intelligence data centers. Chip manufacturers may need more factory equipment when server ...",
+      "pub_date": "2026-08-04T13:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bofa-1-18t-cloud-forecast-130300715.html"
+    },
     {
       "title": "KLA Corporation Cratered 40% Over The Last 30 Days: The Next 12 Months Will Bring 75% Returns According to One Wall Street Pro",
       "summary": "KLA Corporation just cratered 40% from its highs despite beating earnings five quarters in a row, leaving Wall Street torn between a China-risk nightmare and a structural AI story that one analyst thinks is worth 78% more than today's price.",
       "pub_date": "2026-08-03T19:34:06Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/kla-corporation-cratered-40-over-193406241.html"
+    },
+    {
+      "title": "Bearish Pressure Is Building Around These 3 Stocks",
+      "summary": "Hims & Hers Health and QXO face heavy short interest amid dilution and loss concerns, while KLA has slid nearly 40% since June as AI-driven chip spending fears grip semiconductor stocks.",
+      "pub_date": "2026-08-03T12:35:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bearish-pressure-building-around-3-123500333.html"
     },
     {
       "title": "KLA (KLAC) Upgraded to Strong Buy: What Does It Mean for the Stock?",
@@ -43,20 +57,6 @@
       "pub_date": "2026-07-30T16:05:02Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/klac-q2-deep-dive-ai-160502811.html"
-    },
-    {
-      "title": "Why Lam Research Stock Is Having Its Best Day Since 1999",
-      "summary": "FEATURE   Lam Research stock was pacing toward its best day in 27 years on Thursday, drawing a stark contrast to an industry peer\u2019s post-earnings slide. Lam shares spiked 23% to $310.69, putting them on track for their largest same-day percentage increase since January 1999, according to Dow Jones Market Data.",
-      "pub_date": "2026-07-30T15:57:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/lam-research-earnings-stock-price-8b30e6e8?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Top Chip Analyst: Semiconductor Oversupply Is Nearly Impossible Before 2028. Why He\u2019s Bullish on Memory",
-      "summary": "A top Wall Street chip analyst says the semiconductor selloff gripping markets has almost nothing to do with actual supply and demand, and the real reason why comes down to a physical constraint most investors are overlooking.",
-      "pub_date": "2026-07-30T12:22:47Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/articles/top-chip-analyst-semiconductor-oversupply-122247883.html"
     }
   ]
 }

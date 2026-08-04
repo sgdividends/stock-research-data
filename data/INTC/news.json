@@ -1,13 +1,27 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-08-04T10:31:51.640952+00:00",
+  "generated_at": "2026-08-04T13:56:34.627313+00:00",
   "items": [
     {
-      "title": "AMD to report Q2 earnings as chip stocks continue to waver",
-      "summary": "AMD will report its Q2 earnings Tuesday.",
-      "pub_date": "2026-08-03T11:00:00Z",
+      "title": "Tech stocks today: SpaceX, AMD to report earnings after the bell",
+      "summary": "Tech stocks coverage for the week of Aug. 3.",
+      "pub_date": "2026-08-03T14:04:19Z",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/article/amd-to-report-q2-earnings-as-chip-stocks-continue-to-waver-110000620.html"
+      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-amd-to-report-earnings-after-the-bell-140419479.html"
+    },
+    {
+      "title": "Why Nvidia Stock Still Trades at a Heavy Discount to Chip Rivals",
+      "summary": "Nvidia stock has lagged behind the PHLX Semiconductor Index, which is up 61% this year so far through Monday\u2019s close.",
+      "pub_date": "2026-08-04T12:17:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/nvidia-stock-price-discount-chip-946426eb?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "How Patience Re-Prices Marvell Technology Stock",
+      "summary": "The sticker price on this AI chip designer looks steep, but the real question is what you are paying for the earnings that are still on their way.",
+      "pub_date": "2026-08-04T11:18:06Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/patience-prices-marvell-technology-stock-111806330.html"
     },
     {
       "title": "INTC Q2 Deep Dive: Data Center and AI Strength Offset Market Concerns Amid Supply Constraints",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-03T22:06:11Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/technology/ai/articles/own-ai-boom-nvidias-story-220611002.html"
-    },
-    {
-      "title": "Buying Intel Over TSMC Isn\u2019t as Crazy as It Might Seem",
-      "summary": "TSMC dominates on every traditional metric, yet one overlooked structural factor is quietly making its scrappier rival a more compelling bet for the next 24 months.",
-      "pub_date": "2026-08-03T16:06:51Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buying-intel-over-tsmc-isn-160651028.html"
-    },
-    {
-      "title": "AMD Fell: Here Are 3 Reasons I\u2019m Buying Without Fear",
-      "summary": "Every time AMD drops, the market hands out a discount on what may be the most strategically vital company in the AI infrastructure race, and three specific forces keep pulling this investor back to the buy button without hesitation.",
-      "pub_date": "2026-08-03T15:59:51Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-fell-3-reasons-m-155951051.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "MRNA",
-  "generated_at": "2026-08-04T10:32:00.420529+00:00",
+  "generated_at": "2026-08-04T13:56:44.446437+00:00",
   "items": [
+    {
+      "title": "Merck Stock Rises as Wall Street Looks Past Earnings Guidance Cut",
+      "summary": "The drugmaker posts a narrower-than-expected quarterly loss fueled by growth in its oncology segment.",
+      "pub_date": "2026-08-04T11:51:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/merck-earnings-stock-price-54071b63?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "MRNA, LNTH, BMY, CAPR, RARE Stocks In Focus \u2014 These FDA Decisions Could Shape August Trading",
       "summary": "Decisions are due by August 23 at the latest on therapies ranging from an mRNA flu vaccine to a gene therapy for a rare metabolic disorder, putting biotech investors on high alert.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-31T17:11:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/moderna-earnings-stock-price-20b461ae?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Moderna Q2 earnings beat estimates as norovirus vaccine stumbles",
-      "summary": "The company topped Wall Street loss estimates, but its norovirus vaccine missed a key trial goal, sending shares lower",
-      "pub_date": "2026-07-31T14:30:39Z",
-      "source": "Quartz",
-      "url": "https://finance.yahoo.com/healthcare/articles/moderna-q2-earnings-beat-estimates-143039344.html"
     }
   ]
 }

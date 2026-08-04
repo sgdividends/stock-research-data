@@ -1,27 +1,20 @@
 {
   "ticker": "AMZN",
-  "generated_at": "2026-08-04T10:31:24.386003+00:00",
+  "generated_at": "2026-08-04T13:56:04.949334+00:00",
   "items": [
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures coast higher as earnings roll in, Palantir stock soars",
-      "summary": "Markets are coming off a Big Tech rally, eyeing uncertainty in Middle East talks and  SpaceX earnings after the bell.",
-      "pub_date": "2026-08-04T10:01:40Z",
+      "title": "Tech stocks today: SpaceX, AMD to report earnings after the bell",
+      "summary": "Tech stocks coverage for the week of Aug. 3.",
+      "pub_date": "2026-08-03T14:04:19Z",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-4-dow-sp-500-nasdaq-100140227.html"
+      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-amd-to-report-earnings-after-the-bell-140419479.html"
     },
     {
-      "title": "Big Tech's cloud backlog just hit $2.3 trillion \u2014 and it's feeding AI capex plans",
-      "summary": "Investors who exited high-profile hyperscaler stocks because of surging AI capex may be overlooking an important point: Tech giants' cloud computing backlogs support their strong spending plans.",
-      "pub_date": "2026-08-03T18:14:59Z",
+      "title": "The AI spending boom is hitting a key Wall Street metric: Chart of the Day",
+      "summary": "The AI spending boom is becoming so large so quickly that it's hitting an important metric watched by investors: free cash flow.",
+      "pub_date": "2026-08-03T18:11:57Z",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/article/big-techs-cloud-backlog-just-hit-23-trillion--and-its-feeding-ai-capex-plans-181459457.html"
-    },
-    {
-      "title": "This valuation signal shows how investors are rethinking tech stocks",
-      "summary": "Good to see a more rational set of valuations on the biggest companies.",
-      "pub_date": "2026-08-03T14:44:11Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/this-valuation-signal-shows-how-investors-are-rethinking-tech-stocks-144411798.html"
+      "url": "https://finance.yahoo.com/technology/article/the-ai-spending-boom-is-hitting-a-key-wall-street-metric-chart-of-the-day-181157588.html"
     },
     {
       "title": "Here's the single biggest reason the bull market is broadening",
@@ -31,32 +24,39 @@
       "url": "https://finance.yahoo.com/markets/article/heres-the-single-biggest-reason-the-bull-market-is-broadening-142744291.html"
     },
     {
-      "title": "3 Stocks to Buy as AI Infrastructure Continues to Surge",
-      "summary": "With increased AI infrastructure spending, Nvidia, SK Hynix, and TSMC all look like good buys.",
-      "pub_date": "2026-08-04T09:50:00Z",
+      "title": "Jeff Bezos files to sell $4 billion in Amazon stock after record high",
+      "summary": "Bezos filed plans to sell 15 million shares through Morgan Stanley after Amazon stock hit an all-time high on Monday",
+      "pub_date": "2026-08-04T13:38:12Z",
+      "source": "Quartz",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jeff-bezos-files-sell-4-133812157.html"
+    },
+    {
+      "title": "Amazon Web Services' Q2 Was Good. Google Cloud's Was Better. Here's Why It Matters.",
+      "summary": "They're competitors, but they're decreasingly alike. This is going to make a difference sooner or later.",
+      "pub_date": "2026-08-04T13:20:00Z",
       "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-buy-ai-infrastructure-095000532.html"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-services-q2-good-google-132000376.html"
     },
     {
-      "title": "Superblocks, AWS sign multi-year deal for enterprise AI on Bedrock",
-      "summary": "AWS customers will be able to deploy Superblocks\u2019 generative AI platform within their own environments using AWS security and governance.",
-      "pub_date": "2026-08-04T09:22:56Z",
-      "source": "Verdict",
-      "url": "https://finance.yahoo.com/technology/ai/articles/superblocks-aws-sign-multi-deal-092256048.html"
+      "title": "Costco (COST) Pushes Further Into GLP 1 Weight Loss Prescriptions",
+      "summary": "Costco Wholesale is accelerating its entry into the weight loss drug market through GLP-1 prescriptions and related healthcare services. The company is moving alongside Walmart and Amazon as retailers compete to attract customers seeking access to these treatments. Industry cutbacks on employer drug coverage are pushing more patients toward direct-to-consumer fulfillment programs. This shift could influence how Costco uses its membership model and pharmacy network to engage customers and...",
+      "pub_date": "2026-08-04T13:11:55Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/healthcare/articles/costco-cost-pushes-further-glp-131155938.html"
     },
     {
-      "title": "Microsoft vs. Amazon: Which Stock Does Wall Street Think Is the Better Buy?",
-      "summary": "Both Microsoft and Amazon are coming off terrific earnings reports.",
-      "pub_date": "2026-08-04T09:20:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-vs-amazon-stock-does-092000594.html"
+      "title": "Stock Market Today: Dow Rallies As Caterpillar, Palantir Soar On Earnings; SpaceX Earnings Next (Live Coverage)",
+      "summary": "Stock Market Today: The Dow Jones index rallies Tuesday as Caterpillar and Palantir surge on earnings. SpaceX earnings are due late.",
+      "pub_date": "2026-08-04T13:03:42Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-caterpillar-palantir-spacex-earnings/?src=A00220&yptr=yahoo"
     },
     {
-      "title": "Nasdaq, S&P 500 Futures Climb As Wall Street Awaits AMD, SpaceX Earnings After Palantir Rally: Why SNAP, AMZN, SNDK, LCID, SLS, ASTS Are In Focus",
-      "summary": "Retail traders remain wary. Sentiment on Stocktwits shows they remain \u2018bearish\u2019 on SPY and QQQ.",
-      "pub_date": "2026-08-04T08:48:17Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-climb-084817291.html"
+      "title": "Bezos Plans to Sell $4 Billion After $3 Trillion Milestone",
+      "summary": "Filing landed as Amazon's market capitalization passed $3 trillion for the first time",
+      "pub_date": "2026-08-04T12:41:10Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bezos-plans-sell-4-billion-124110158.html"
     }
   ]
 }

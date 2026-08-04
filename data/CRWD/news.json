@@ -1,6 +1,6 @@
 {
   "ticker": "CRWD",
-  "generated_at": "2026-08-04T10:31:34.607268+00:00",
+  "generated_at": "2026-08-04T13:56:16.495722+00:00",
   "items": [
     {
       "title": "Why Palantir is the 'best' publicly traded tech company",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-03T20:44:16Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/why-palantir-best-publicly-traded-204416015.html"
+    },
+    {
+      "title": "131 Poisoned AI Packages Hit Microsoft\u2019s (MSFT) npm. CrowdStrike (CRWD) Couldn\u2019t Ask for a Better Sales Pitch",
+      "summary": "CrowdStrike Holdings, Inc. (NASDAQ:CRWD) said on August 3 that a North Korea-linked adversary injected a malicious dependency into at least 131 Mastra AI framework packages on npm (Node Package Manager). Microsoft Corporation (NASDAQ:MSFT) owns GitHub, which acquired npm in 2020 and operates the registry at the center of the attack chain. This was a developer-supply-chain [\u2026]",
+      "pub_date": "2026-08-04T12:30:42Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/131-poisoned-ai-packages-hit-123042550.html"
     },
     {
       "title": "Cerebras Systems: A Leading AI Semiconductor Company",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-31T19:52:46Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/much-crwd-really-betting-195246086.html"
-    },
-    {
-      "title": "AI Transforming Cybersecurity: Bugcrowd CEO David Gerry, Live at Nasdaq",
-      "summary": "Tech Edge hosted a fireside chat on July 27 at Nasdaq MarketSite with David Gerry, Chief Executive Officer of Bugcrowd. The in-person interview was joined by Editor-in-Chief John Jannarone and they discussed why AI is transforming cybersecurity by empowering both attackers and defenders, how the company combines AI with its global community of ethical hackers [\u2026] The post AI Transforming Cybersecurity: Bugcrowd CEO David Gerry, Live at Nasdaq appeared first on ExecEdge.",
-      "pub_date": "2026-07-31T15:18:51Z",
-      "source": "Exec Edge",
-      "url": "https://tech.yahoo.com/cybersecurity/articles/ai-transforming-cybersecurity-bugcrowd-ceo-151851983.html"
     }
   ]
 }

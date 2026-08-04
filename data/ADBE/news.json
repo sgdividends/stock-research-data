@@ -1,6 +1,6 @@
 {
   "ticker": "ADBE",
-  "generated_at": "2026-08-04T10:31:21.623235+00:00",
+  "generated_at": "2026-08-04T13:56:01.574662+00:00",
   "items": [
     {
       "title": "Why Palantir is the 'best' publicly traded tech company",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-03T20:44:16Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/why-palantir-best-publicly-traded-204416015.html"
+    },
+    {
+      "title": "Adobe President Anil Chakravarthy Sells 1,498 Shares for Tax Withholding",
+      "summary": "Insider retains 61,892 shares valued at $13.90 million following routine RSU vesting. Chakravarthy holds 15,826 additional derivative securities continuing to vest quarterly through January 2030.",
+      "pub_date": "2026-08-04T12:06:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-president-anil-chakravarthy-sells-120601426.html"
     },
     {
       "title": "Is Adobe (ADBE) Still Trading At A Discount After Its July Software Sector Rebound?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-31T17:44:26Z",
       "source": "Quartz",
       "url": "https://finance.yahoo.com/markets/stocks/articles/leopold-aschenbrenners-ai-hedge-fund-174426079.html"
-    },
-    {
-      "title": "What the Options Market Is Signaling About the Size of the Next Move in Salesforce Stock",
-      "summary": "If you hold shares in the software giant, you are already carrying exposure to a remarkably wide range of outcomes priced in for the coming year.",
-      "pub_date": "2026-07-31T13:45:05Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/options-market-signaling-size-next-134505594.html"
     }
   ]
 }
