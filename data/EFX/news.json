@@ -1,7 +1,14 @@
 {
   "ticker": "EFX",
-  "generated_at": "2026-08-04T17:39:48.486872+00:00",
+  "generated_at": "2026-08-04T21:05:40.412444+00:00",
   "items": [
+    {
+      "title": "Gartner Q2 Earnings Beat Estimates, '26 EPS Outlook Raised",
+      "summary": "IT beats second-quarter estimates, lifts 2026 profit and cash-flow guidance and posts stronger margins despite softer reported revenues.",
+      "pub_date": "2026-08-04T17:24:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gartner-q2-earnings-beat-estimates-172400389.html"
+    },
     {
       "title": "CLH Shares Decline 4.7% Since Second-Quarter 2026 Earnings Release",
       "summary": "Clean Harbors beats second-quarter estimates, raises 2026 guidance and secures a $600 million disposal contract, yet shares fall after the report.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-29T16:20:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/equifax-stock-attractive-steep-one-162000076.html"
-    },
-    {
-      "title": "How Equifax Is Using AI and Mortgage Demand to Drive Its Next Growth",
-      "summary": "EFX is using AI savings, rising mortgage scoring adoption and a Mexico acquisition to support growth, but execution and momentum risks remain.",
-      "pub_date": "2026-07-29T16:12:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/equifax-using-ai-mortgage-demand-161200741.html"
     }
   ]
 }

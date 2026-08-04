@@ -1,13 +1,48 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-08-04T17:39:58.901655+00:00",
+  "generated_at": "2026-08-04T21:05:53.820493+00:00",
   "items": [
+    {
+      "title": "Tech stocks today: SpaceX and AMD post quarterly results; investors weren't impressed.",
+      "summary": "Tech stocks coverage for the week of Aug. 3.",
+      "pub_date": "2026-08-03T14:04:19Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-and-amd-post-quarterly-results-investors-werent-impressed-140419479.html"
+    },
     {
       "title": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
       "summary": "Semiconductor stocks led the S&P 500 to all-time highs on Tuesday.",
       "pub_date": "2026-08-04T17:22:16Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/marvell-sandisk-sk-hynix-lead-semiconductor-stock-rally-as-sp-500-trades-at-record-highs-172216048.html"
+    },
+    {
+      "title": "Intel, AMD Lead Powerful Chip Stocks Rally on AI Optimism",
+      "summary": "Intel Stock Roars Back 10% as Investors Rush Into Chip Stocks",
+      "pub_date": "2026-08-04T20:27:13Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/articles/intel-amd-lead-powerful-chip-202713772.html"
+    },
+    {
+      "title": "Advanced Micro Devices vs. Intel: Which Technology Stock Is a Better Buy in 2026?",
+      "summary": "AMD is riding AI momentum with major partnerships and a 34% revenue surge, while Intel battles losses and restructuring.",
+      "pub_date": "2026-08-04T19:59:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-vs-intel-195901295.html"
+    },
+    {
+      "title": "Intel's Packaging Progress Points to Google",
+      "summary": "Improving EMIB yields may bring a long-rumored TPU partnership closer.",
+      "pub_date": "2026-08-04T19:53:22Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/intels-packaging-progress-points-google-195322309.html"
+    },
+    {
+      "title": "Why Nvidia Stock Still Trades at a Heavy Discount to Chip Rivals",
+      "summary": "Nvidia stock has lagged behind the PHLX Semiconductor Index, which is up 61% this year so far through Monday\u2019s close.",
+      "pub_date": "2026-08-04T18:05:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/nvidia-stock-price-discount-chip-946426eb?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Intel Soars 10%, AMD Jumps 8%, Broadcom Rises 6% as Chip Stocks Ride a Risk-On Rally",
@@ -22,41 +57,6 @@
       "pub_date": "2026-08-04T15:30:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-fell-35-153000621.html"
-    },
-    {
-      "title": "Why Nvidia Stock Still Trades at a Heavy Discount to Chip Rivals",
-      "summary": "Nvidia stock has lagged behind the PHLX Semiconductor Index, which is up 61% this year so far through Monday\u2019s close.",
-      "pub_date": "2026-08-04T14:12:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/nvidia-stock-price-discount-chip-946426eb?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Just How Wide Is the Potential Swing in Micron Stock?",
-      "summary": "For anyone holding shares, the market is pricing a future where the stock could either more than double or be cut in half, and that uncertainty is the risk you carry today.",
-      "pub_date": "2026-08-04T13:39:29Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/just-wide-potential-swing-micron-133929633.html"
-    },
-    {
-      "title": "How Patience Re-Prices Marvell Technology Stock",
-      "summary": "The sticker price on this AI chip designer looks steep, but the real question is what you are paying for the earnings that are still on their way.",
-      "pub_date": "2026-08-04T11:18:06Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/patience-prices-marvell-technology-stock-111806330.html"
-    },
-    {
-      "title": "INTC Q2 Deep Dive: Data Center and AI Strength Offset Market Concerns Amid Supply Constraints",
-      "summary": "Computer processor maker Intel (NASDAQ:INTC) announced better-than-expected revenue in Q2 CY2026, with sales up 25.4% year on year to $16.13 billion. On top of that, next quarter\u2019s revenue guidance ($16.3 billion at the midpoint) was surprisingly good and 7.8% above what analysts were expecting. Its non-GAAP profit of $0.42 per share was 93.1% above analysts\u2019 consensus estimates.",
-      "pub_date": "2026-08-04T08:37:22Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intc-q2-deep-dive-data-083722483.html"
-    },
-    {
-      "title": "Intel (INTC) Faces New AI And Packaging Pressure From China And TSMC",
-      "summary": "Chinese tech groups are accelerating work on open-weight AI models, with Alibaba releasing a powerful new system that could increase competition with Intel in AI infrastructure. TSMC is reportedly developing advanced chip packaging technology that resembles Intel's EMIB approach, which could narrow Intel's edge in high performance chip designs. These developments add fresh competitive risks for Intel's AI and packaging plans that have not been the focus of recent coverage. Intel, trading on...",
-      "pub_date": "2026-08-04T00:15:14Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-faces-ai-packaging-001514674.html"
     }
   ]
 }

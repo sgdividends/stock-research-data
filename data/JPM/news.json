@@ -1,7 +1,21 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-08-04T17:40:00.771905+00:00",
+  "generated_at": "2026-08-04T21:05:56.075716+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Rise Late Afternoon",
+      "summary": "Financial stocks were higher in late Tuesday afternoon trading, with the NYSE Financial Index rising",
+      "pub_date": "2026-08-04T19:51:28Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-rise-afternoon-195128226.html"
+    },
+    {
+      "title": "Sector Update: Financial Stocks Advance Tuesday Afternoon",
+      "summary": "Financial stocks were higher in Tuesday afternoon trading, with the NYSE Financial Index rising 0.5%",
+      "pub_date": "2026-08-04T17:51:56Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-advance-tuesday-175156550.html"
+    },
     {
       "title": "16 Investment Must Reads for This Week (Aug. 4, 2026)",
       "summary": "Asset managers are doing an about face on outsourcing, seeking to bring more functions in-house. A combo of factors has created an opportunity in muni bond investing. These are among investment must reads for financial advisors this week.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-04T12:05:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jamie-dimon-just-said-wouldnt-120500241.html"
-    },
-    {
-      "title": "4 Non-Tech Stocks to Grab as Dow Hits New Milestone Amid AI Sell-off",
-      "summary": "GS, JPM, TRV and JNJ stand out as Dow hits a new high amid an AI-driven tech sell-off, with these blue-chip stocks backed by strong earnings growth.",
-      "pub_date": "2026-08-04T11:54:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/4-non-tech-stocks-grab-115400652.html"
-    },
-    {
-      "title": "BlackRock Tokenizes $311B of European Money Market Funds With JP Morgan's Kinexys",
-      "summary": "Europe's largest cash management platform is now issuing tokens on Ethereum, in a launch restricted to professional investors.",
-      "pub_date": "2026-08-04T11:40:44Z",
-      "source": "decrypt",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/blackrock-tokenizes-311b-european-money-114044465.html"
     }
   ]
 }

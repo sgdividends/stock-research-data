@@ -1,7 +1,14 @@
 {
   "ticker": "MDT",
-  "generated_at": "2026-08-04T17:40:05.206992+00:00",
+  "generated_at": "2026-08-04T21:06:01.761320+00:00",
   "items": [
+    {
+      "title": "The $85 Billion Consolation Prize For JNJ Shareholders",
+      "summary": "The healthcare giant showered its owners with cash, yet the stock fell behind. Here is the accounting of what investors actually got and what the trade-off cost them.",
+      "pub_date": "2026-08-04T19:23:10Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/85-billion-consolation-prize-jnj-192310388.html"
+    },
     {
       "title": "Retirees: 3 High-Yielding Dividend Stocks to Buy for Long-Term Stability and Recurring Cash Flow",
       "summary": "These stocks pay between 3.4% and 6.1% in dividends.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-30T11:39:51Z",
       "source": "Medical Device Network",
       "url": "https://finance.yahoo.com/healthcare/articles/coremap-raises-37m-medtronic-led-113951868.html"
-    },
-    {
-      "title": "Medtronic leads $37M investment in ablation mapping startup CoreMap",
-      "summary": "Medtronic has backed CoreMap to address a critical unmet need in atrial fibrillation treatment.",
-      "pub_date": "2026-07-30T07:01:01Z",
-      "source": "MedTech Dive",
-      "url": "https://finance.yahoo.com/healthcare/articles/medtronic-leads-37m-investment-ablation-070101067.html"
     }
   ]
 }

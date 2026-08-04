@@ -1,7 +1,28 @@
 {
   "ticker": "BX",
-  "generated_at": "2026-08-04T17:39:38.779185+00:00",
+  "generated_at": "2026-08-04T21:05:28.926922+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Rise Late Afternoon",
+      "summary": "Financial stocks were higher in late Tuesday afternoon trading, with the NYSE Financial Index rising",
+      "pub_date": "2026-08-04T19:51:28Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-rise-afternoon-195128226.html"
+    },
+    {
+      "title": "Sector Update: Financial Stocks Advance Tuesday Afternoon",
+      "summary": "Financial stocks were higher in Tuesday afternoon trading, with the NYSE Financial Index rising 0.5%",
+      "pub_date": "2026-08-04T17:51:56Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-advance-tuesday-175156550.html"
+    },
+    {
+      "title": "Anthropic's Google Chip Procurement Could Lead To Another $36B Debt Financing Round",
+      "summary": "Blackstone Inc. has initiated preliminary talks with investors regarding a second major debt financing package to fund Anthropic PBC\u2019s use of Alphabet Inc.\u2019s Google chips.",
+      "pub_date": "2026-08-04T17:46:20Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropics-google-chip-procurement-could-174620108.html"
+    },
     {
       "title": "Top Midday Stories: Bessent Says US, Iran Could Soon Reach Hormuz Deal; Palantir Shares Soar on Strong Q2 Results, Guidance",
       "summary": "All three major US stock indexes were up in late-morning trading Tuesday, as investors grew more opt",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-04T09:30:00Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/technology/ai/articles/ai-power-demands-spur-builders-093000020.html"
-    },
-    {
-      "title": "XP or BX: Which Is the Better Value Stock Right Now?",
-      "summary": "XP vs. BX: Which Stock Is the Better Value Option?",
-      "pub_date": "2026-08-03T15:40:03Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/xp-bx-better-value-stock-154003604.html"
-    },
-    {
-      "title": "Blackstone Inc's Dividend Analysis",
-      "summary": "Blackstone Inc (NYSE:BX) recently announced a total dividend of $1.29 per share, with the ex-dividend date set for 2026-08-03.  This payment includes a $1.29 per share cash dividend, payable on 2026-08-10.  As investors look forward to this upcoming payment, the spotlight also shines on the company's dividend history, yield, and growth rates.",
-      "pub_date": "2026-08-03T11:01:03Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/blackstone-incs-dividend-analysis-110103469.html"
-    },
-    {
-      "title": "How to Play the Flood of AI Bonds",
-      "summary": "Recent earnings reports by the so-called hyperscalers have driven expectations even higher for their collective AI spending plans.  Goldman Sachs credit strategists estimate that approximately $400 billion in highly rated investment-grade bonds could be issued directly by hyperscalers globally in 2027.  A group of investment-grade hyperscalers tracked by Barclays credit strategists includes  Alphabet Amazon.com Meta Platforms Microsoft Oracle  and  SpaceX.  The spread offered by these companies\u2019 bonds over benchmark Treasurys has widened by almost a quarter percentage point over the past month through July 30, according to tracking by Barclays.",
-      "pub_date": "2026-08-03T09:30:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/investing/how-to-play-the-flood-of-ai-bonds-279f6ba5?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
