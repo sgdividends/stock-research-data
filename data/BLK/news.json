@@ -1,7 +1,21 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-08-04T13:56:09.224387+00:00",
+  "generated_at": "2026-08-04T17:39:37.816580+00:00",
   "items": [
+    {
+      "title": "Apollo Global Q2 Earnings Miss Estimates, Expenses Increase Y/Y",
+      "summary": "APO's Q2 results are affected by higher expenses as adjusted net income misses estimates. Higher AUM and revenue growth provide support.",
+      "pub_date": "2026-08-04T16:16:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apollo-global-q2-earnings-miss-161600357.html"
+    },
+    {
+      "title": "Ford, Google, and BlackRock Say America Needs Millions More Tradespeople. A 63-Year-Old Electrician Should Know the Overtime Catch.",
+      "summary": "Ford, BlackRock, and Google just pledged hundreds of millions to pull experienced tradespeople back into the workforce, and a 63-year-old electrician in Ohio is answering that call without realizing the bigger paychecks could trigger two separate federal penalties at once.",
+      "pub_date": "2026-08-04T14:02:27Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/small-business/articles/ford-google-blackrock-america-needs-140227717.html"
+    },
     {
       "title": "Italy\u2019s Largest Bank Cuts BlackRock Bitcoin ETF Stake 94%: Rotation to Ethereum?",
       "summary": "Intesa Sanpaolo cut its Bitcoin ETF stake 94% and tripled its staked Ethereum holdings. Are institutions ditching Bitcoin for Ethereum?",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-04T08:00:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bull-day-invesco-ivz-080000365.html"
-    },
-    {
-      "title": "BlackRock's new tokenized fund lands on Solana",
-      "summary": "BlackRock (NYSE: BLK), the world's largest asset manager, is pushing further into blockchain-based finance, and Solana is one of the blockchain networks carrying the move. Recently, BlackRock filed with the U.S. Securities and Exchange Commission (SEC) to launch the BlackRock Daily Reinvestment ...",
-      "pub_date": "2026-08-03T22:35:35Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/blackrocks-tokenized-fund-lands-solana-223535878.html"
-    },
-    {
-      "title": "BlackRock Launches Tokenized Money Market Funds on Solana, Ethereum",
-      "summary": "BlackRock launched a tokenized money market fund for stablecoin reserves that uses Solana alongside Ethereum.",
-      "pub_date": "2026-08-03T19:17:37Z",
-      "source": "decrypt",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/blackrock-launches-tokenized-money-market-191737769.html"
     }
   ]
 }

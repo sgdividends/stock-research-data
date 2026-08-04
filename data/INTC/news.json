@@ -1,20 +1,41 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-08-04T13:56:34.627313+00:00",
+  "generated_at": "2026-08-04T17:39:58.901655+00:00",
   "items": [
     {
-      "title": "Tech stocks today: SpaceX, AMD to report earnings after the bell",
-      "summary": "Tech stocks coverage for the week of Aug. 3.",
-      "pub_date": "2026-08-03T14:04:19Z",
+      "title": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
+      "summary": "Semiconductor stocks led the S&P 500 to all-time highs on Tuesday.",
+      "pub_date": "2026-08-04T17:22:16Z",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-amd-to-report-earnings-after-the-bell-140419479.html"
+      "url": "https://finance.yahoo.com/markets/article/marvell-sandisk-sk-hynix-lead-semiconductor-stock-rally-as-sp-500-trades-at-record-highs-172216048.html"
+    },
+    {
+      "title": "Intel Soars 10%, AMD Jumps 8%, Broadcom Rises 6% as Chip Stocks Ride a Risk-On Rally",
+      "summary": "Chip stocks are surging across the board, but the biggest winner today may be the one that fell 24% last month and still has no trailing earnings to justify the bounce. Here is what is actually driving the move.",
+      "pub_date": "2026-08-04T16:36:11Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-soars-10-amd-jumps-163611976.html"
+    },
+    {
+      "title": "Why Intel Stock Fell 35% Last Month",
+      "summary": "Investors are increasingly concerned that AI spending won't pay off.",
+      "pub_date": "2026-08-04T15:30:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-fell-35-153000621.html"
     },
     {
       "title": "Why Nvidia Stock Still Trades at a Heavy Discount to Chip Rivals",
       "summary": "Nvidia stock has lagged behind the PHLX Semiconductor Index, which is up 61% this year so far through Monday\u2019s close.",
-      "pub_date": "2026-08-04T12:17:00Z",
+      "pub_date": "2026-08-04T14:12:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/nvidia-stock-price-discount-chip-946426eb?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Just How Wide Is the Potential Swing in Micron Stock?",
+      "summary": "For anyone holding shares, the market is pricing a future where the stock could either more than double or be cut in half, and that uncertainty is the risk you carry today.",
+      "pub_date": "2026-08-04T13:39:29Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/just-wide-potential-swing-micron-133929633.html"
     },
     {
       "title": "How Patience Re-Prices Marvell Technology Stock",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-04T00:15:14Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-faces-ai-packaging-001514674.html"
-    },
-    {
-      "title": "Is Intel\u2019s AI PC and Advanced Packaging Ecosystem Shift Altering The Investment Case For Intel (INTC)?",
-      "summary": "In late July 2026, mimik Technology announced a collaboration with Intel to optimize its mimOE Agentix Operating Engine for Intel-powered AI PCs, while Lens Technology signed a non-binding memorandum of understanding with Intel to explore glass-based TGV advanced packaging and other AI hardware opportunities. Together with fresh earnings showing higher sales but a larger net loss of US$11.03 billion, these moves highlight Intel\u2019s push to link AI PCs, advanced packaging and foundry execution...",
-      "pub_date": "2026-08-03T23:15:29Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/intel-ai-pc-advanced-packaging-231529188.html"
-    },
-    {
-      "title": "For Micron Stock, The Growth That Justifies The Price Has To Arrive",
-      "summary": "The memory chip maker looks pricey today, but a steep discount appears on future earnings if you believe the AI-driven demand story.",
-      "pub_date": "2026-08-03T23:00:38Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-growth-justifies-price-230038188.html"
-    },
-    {
-      "title": "Own The AI Boom? NVIDIA's Story vs. Micron's Contracts",
-      "summary": "NVIDIA offers a bet on relentless innovation to justify its price, but Micron locked in its future with long-term contracts, creating a starkly different, and arguably safer, way to own the same demand.",
-      "pub_date": "2026-08-03T22:06:11Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/technology/ai/articles/own-ai-boom-nvidias-story-220611002.html"
     }
   ]
 }

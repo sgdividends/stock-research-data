@@ -1,10 +1,38 @@
 {
   "ticker": "COHR",
-  "generated_at": "2026-08-04T13:56:14.879066+00:00",
+  "generated_at": "2026-08-04T17:39:42.938875+00:00",
   "items": [
     {
+      "title": "Marvell Surges as China Ban Report Reignites Optical-Networking Stocks",
+      "summary": "Marvell stock rises along with Corning, Lumentum and Coherent following a report about plans to restrict Chinese data-center components.",
+      "pub_date": "2026-08-04T16:26:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/marvell-stock-price-corning-lumentum-china-ban-97074aa8?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Corning Dropped 25% Over a Month: A Major U.S. Bank Expects 66% Gains Over The Near Term",
+      "summary": "Corning just handed investors one of the steepest single-stock declines in its peer group, yet at least one major Wall Street bank is responding by raising its price target to levels that would shock most bears right now.",
+      "pub_date": "2026-08-04T15:14:16Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/corning-dropped-25-over-month-151416748.html"
+    },
+    {
+      "title": "Palantir, AMD, Coherent, SpaceX, Caterpillar, Wayfair, and More Stocks That Explain Today\u2019s Market",
+      "summary": "Palantir leads the S&P 500. Coherent and more AI names are rising sharply. SpaceX will issue its first earnings report after the closing bell Tuesday.",
+      "pub_date": "2026-08-04T14:37:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stock-movers-16b564b7?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Today's Trade Is to Buy Chips and Sell the Magnificent 7",
+      "summary": "The tech stock rally continued, extending yesterday's gains, but today's rise looks a little different. The tech-heavy Nasdaq Composite was up 1.1%. The tech sector led the S&P 500, up 3.1%. Unlike yesterday, it wasn't the Magnificent Seven stocks doing the heavy lifting.",
+      "pub_date": "2026-08-04T14:02:26Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-080426/card/today-s-trade-is-to-buy-chips-and-sell-the-magnificent-7-QKbYxrp4gyhqpkWffD0A?siteid=yhoof2&yptr=yahoo"
+    },
+    {
       "title": "Applied Optoelectronics Rockets 17%, Coherent Climbs 11%, Lumentum Gains 6% on Reported U.S. Ban of Chinese Optics",
-      "summary": "Shares of Applied Optoelectronics (NASDAQ:AAOI) are surging Tuesday morning, with the stock up 17% to $129.34 after a report that the U.S. government is drafting a ban on Chinese data center optical hardware. Coherent (NYSE:COHR) stock is trading higher by 11% to $319.80, and Lumentum (NASDAQ:LITE) shares are up 6% to $829.42. The rally caps ... Applied Optoelectronics Rockets 17%, Coherent Climbs 11%, Lumentum Gains 6% on Reported U.S. Ban of Chinese Optics",
+      "summary": "A reported U.S. ban on Chinese data center optical hardware sent a handful of domestic suppliers rocketing higher, but the proposal is still a draft and could be softened or dropped entirely before the year-end enforcement target.",
       "pub_date": "2026-08-04T13:46:42Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/applied-optoelectronics-rockets-17-coherent-134642674.html"
@@ -24,39 +52,11 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/coherent-stock-jumps-14-potential-122652666.html"
     },
     {
-      "title": "Coherent, Palantir, SpaceX, Caterpillar, Pfizer, and More Stocks That Explain Today\u2019s Market",
-      "summary": "Palantir and Coherent stocks are rising sharply. SpaceX will issue its first earnings report after the closing bell Tuesday.",
-      "pub_date": "2026-08-04T12:18:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-16b564b7?siteid=yhoof2&yptr=yahoo"
-    },
-    {
       "title": "Optical component stocks rally on proposed U.S. ban on Chinese tech",
       "summary": "U.S. optical component stocks surged following a Reuters report that the Trump administration is drafting a ban on U.S. imports of new Chinese data center hardware. Applied Optoelectronics jumped 16%, Coherent gained 13%, Lumentum rose 11%, and Corning climbed 8%. According to four sources familiar with the matter, the Federal Communications Commission (FCC) is preparing restrictions against new Chinese optical transceivers\u2014the critical hardware that routes data over fiber-optic cables inside AI",
       "pub_date": "2026-08-04T11:34:06Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/optical-component-stocks-rally-proposed-113406255.html"
-    },
-    {
-      "title": "COHR, LITE, POET, AAOI, MRVL Stocks Gain On Trump\u2019s Reported China Ban On Data Center Import Parts",
-      "summary": "According to a Reuters report, the move could benefit Coherent and Lumentum by shifting demand toward U.S.-made optical transceivers.",
-      "pub_date": "2026-08-04T11:18:17Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cohr-lite-poet-aaoi-mrvl-111817663.html"
-    },
-    {
-      "title": "Photonics: The Next Big AI Investment Opportunity?",
-      "summary": "As AI data centers push the limits of traditional networking, photonics is emerging as a key technology.",
-      "pub_date": "2026-08-03T20:44:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/photonics-next-big-ai-investment-204400941.html"
-    },
-    {
-      "title": "Nvidia Stock Retakes Key Level As Chip Stocks Waver",
-      "summary": "Chip stocks were a mixed bag on Monday as the Philadelphia semiconductor index, known as SOX, seesawed. However, Nvidia stock retook a key support level. On the stock market today, the SOX rose just over 1%.",
-      "pub_date": "2026-08-03T20:36:24Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/nvidia-stock-up-chip-stocks-sox-index-wavers/?src=A00220&yptr=yahoo"
     }
   ]
 }

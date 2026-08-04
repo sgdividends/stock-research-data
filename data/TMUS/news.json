@@ -1,7 +1,14 @@
 {
   "ticker": "TMUS",
-  "generated_at": "2026-08-04T13:57:01.666855+00:00",
+  "generated_at": "2026-08-04T17:40:20.260907+00:00",
   "items": [
+    {
+      "title": "Get Ready for These Stocks to Move, Too",
+      "summary": "If you're invested in telecoms, you need to put SpaceX's earnings report on your radar.  The disruption that SpaceX represents has been a stressor ever since June 12 -- SpaceX's IPO date--when company President Gwynne Shotwell told CNBC that the opportunity for Starlink Mobile was huge.  Shares bottomed out near $20 in early July, then recovered as SpaceX started to drop.",
+      "pub_date": "2026-08-04T15:47:11Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/spacex-earnings-stock-price-ipo-elon-musk/card/get-ready-for-these-stocks-to-move-too-MJrBIhL6DjM6Pj03VvGq?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "T Mobile (TMUS) Joins Carrier Push For SIM Based Authentication To Curb AI Fraud",
       "summary": "Major US carriers, including T-Mobile US, have jointly enabled a new SIM-anchored cryptographic authentication technology aimed at reducing AI-driven digital fraud. The rollout shifts verification closer to the mobile network level and moves away from traditional SMS-based authentication methods. The initiative positions carriers as more active participants in digital identity security for both consumers and enterprises. T-Mobile US, NasdaqGS:TMUS, is taking part in this carrier-level...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-31T17:31:31Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-afternoon-173131743.html"
-    },
-    {
-      "title": "AT&T Swapped Its Scoreboard For A Forecast",
-      "summary": "The company still reports the numbers it used to lead with, but the case out front now rests on a payoff much further away.",
-      "pub_date": "2026-07-30T17:06:57Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/t-swapped-scoreboard-forecast-170657737.html"
     }
   ]
 }

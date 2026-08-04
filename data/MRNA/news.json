@@ -1,11 +1,25 @@
 {
   "ticker": "MRNA",
-  "generated_at": "2026-08-04T13:56:44.446437+00:00",
+  "generated_at": "2026-08-04T17:40:06.801464+00:00",
   "items": [
     {
-      "title": "Merck Stock Rises as Wall Street Looks Past Earnings Guidance Cut",
+      "title": "Moderna Doses First Participants In Ebola Vaccine Trial Ahead Of Key FDA Decision On Flu Shot",
+      "summary": "Moderna began a Phase 1 clinical trial of its experimental vaccine mRNA-1469 targeting the Bundibugyo strain of Ebola virus.",
+      "pub_date": "2026-08-04T16:47:02Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/healthcare/articles/moderna-doses-first-participants-ebola-164702503.html"
+    },
+    {
+      "title": "Moderna Stock Jumps on Trial Launch for Breakthrough Ebola Vaccine",
+      "summary": "Moderna\u2019s vaccine candidate targets a species of ebolavirus behind a deadly outbreak in the Democratic Republic of the Congo.",
+      "pub_date": "2026-08-04T16:35:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/moderna-stock-ebola-vaccine-trial-7ca1852c?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Merck Stock Rises as Wall Street Looks Past Earnings Guidance Cut to Oncology Strength",
       "summary": "The drugmaker posts a narrower-than-expected quarterly loss fueled by growth in its oncology segment.",
-      "pub_date": "2026-08-04T11:51:00Z",
+      "pub_date": "2026-08-04T14:02:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/merck-earnings-stock-price-54071b63?siteid=yhoof2&yptr=yahoo"
     },
@@ -43,20 +57,6 @@
       "pub_date": "2026-07-31T19:00:54Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/healthcare/articles/moderna-inc-mrna-q2-2026-190054476.html"
-    },
-    {
-      "title": "MRNA Q2 Earnings Meet, Stock Down on Norovirus Vaccine Setback",
-      "summary": "Moderna's Q2 revenue tops estimates, but shares fall after its phase III norovirus vaccine study misses early success criteria.",
-      "pub_date": "2026-07-31T18:04:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/healthcare/articles/mrna-q2-earnings-meet-stock-180400939.html"
-    },
-    {
-      "title": "Moderna Stock Has Doubled This Year. Can Earnings Keep the Rally Alive?",
-      "summary": "Moderna  posted a narrower per-share loss in its latest quarter, but shares traded slightly lower as the company\u2019s earnings report highlighted the drugmaker\u2019s ongoing struggle to break away from its pandemic-driven business model.  Moderna  posted a loss of $1.97 a share, narrower than the loss of $2.01 Wall Street had anticipated, and slimmer than the per-share loss of $2.13 reported last year.  The drugmaker reiterated its full-year guidance of 10% revenue growth, evenly split between U.S. and international sales.",
-      "pub_date": "2026-07-31T17:11:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/moderna-earnings-stock-price-20b461ae?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

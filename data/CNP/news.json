@@ -1,7 +1,14 @@
 {
   "ticker": "CNP",
-  "generated_at": "2026-08-04T13:56:14.580413+00:00",
+  "generated_at": "2026-08-04T17:39:42.589228+00:00",
   "items": [
+    {
+      "title": "Duke Energy Q2 Earnings Beat Estimates, Revenues Increase Y/Y",
+      "summary": "DUK beats Q2 2026 earnings estimates as operating income rises and utility customer growth continues, even though revenues are below expectations.",
+      "pub_date": "2026-08-04T16:09:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/duke-energy-q2-earnings-beat-160900742.html"
+    },
     {
       "title": "Ameren Q2 Earnings Surpass Estimates, Revenues Decline Y/Y",
       "summary": "AEE tops earnings estimates as infrastructure investments and lower fuel costs lift profit, even as revenues decline and miss expectations.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-28T17:04:17Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/markets/stocks/articles/centerpoint-energy-q2-earnings-call-170417121.html"
-    },
-    {
-      "title": "CenterPoint Energy Q2 Earnings Beat Estimates, Revenues Improve Y/Y",
-      "summary": "CNP's Q2 adjusted earnings beat estimates as revenues rise 10.7% year over year and operating income climbs to $534 million.",
-      "pub_date": "2026-07-28T15:46:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/centerpoint-energy-q2-earnings-beat-154600846.html"
     }
   ]
 }

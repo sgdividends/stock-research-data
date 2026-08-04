@@ -1,6 +1,6 @@
 {
   "ticker": "TSN",
-  "generated_at": "2026-08-04T13:57:02.870124+00:00",
+  "generated_at": "2026-08-04T17:40:21.320885+00:00",
   "items": [
     {
       "title": "Tyson CEO: Reopening the Mexican border won't fully solve the US beef shortage",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-03T19:01:15Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/article/tyson-ceo-reopening-the-mexican-border-wont-fully-solve-the-us-beef-shortage-190115305.html"
+    },
+    {
+      "title": "Tyson suggests high beef prices face long recovery",
+      "summary": "The meat giant said the Trump administration's efforts to boost supply are unlikely to make a significant impact in the near-term.",
+      "pub_date": "2026-08-04T11:31:00Z",
+      "source": "Food Dive",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/tyson-suggests-high-beef-prices-113100828.html"
     },
     {
       "title": "Tyson Foods (TSN) Stock Could Be 35% Undervalued After Profit Forecast Cut",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-03T15:02:46Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/markets/stocks/articles/tyson-foods-q3-earnings-call-150246870.html"
-    },
-    {
-      "title": "Tyson Foods Is Relying on Chicken Sales to Drive Gains as Rising Prices Sink Beef Segment",
-      "summary": "The meat processor reports mixed fiscal third-quarter earnings as sales of beef tumble because of rising prices.",
-      "pub_date": "2026-08-03T14:45:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/tyson-foods-earnings-stock-price-63de0c10?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

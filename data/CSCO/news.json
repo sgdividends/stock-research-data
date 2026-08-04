@@ -1,6 +1,6 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-08-04T13:56:16.618199+00:00",
+  "generated_at": "2026-08-04T17:39:44.301954+00:00",
   "items": [
     {
       "title": "Tesla Trades at 140 Times Forward Earnings. Here's What Has to Go Right to Justify This Valuation",
@@ -15,6 +15,13 @@
       "pub_date": "2026-08-04T09:41:22Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-add-roster-094122002.html"
+    },
+    {
+      "title": "Are Wall Street Analysts Predicting Cisco Systems Stock Will Climb or Sink?",
+      "summary": "Cisco stock has outperformed the broader market over the past year, and analysts remain fairly bullish about its prospects.",
+      "pub_date": "2026-08-04T08:08:31Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-cisco-080831905.html"
     },
     {
       "title": "Cisco (CSCO) Stock May Trade At A Cash Flow Premium While Earnings Look Fair",
@@ -38,25 +45,18 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/csco-spot-dash-stocks-focus-172808534.html"
     },
     {
+      "title": "5 Tech Stocks Holding Their Ground Through the AI Trade Pullback",
+      "summary": "Amid the AI-driven Nasdaq correction, Datadog, HPE, Dell, NetApp, and Cisco have shown relative technical strength, with most trading near highs ahead of earnings due within six weeks.",
+      "pub_date": "2026-08-03T15:30:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-tech-stocks-holding-ground-153000436.html"
+    },
+    {
       "title": "Prediction: Up 50% YTD, Cisco Will End The Year at This Price",
       "summary": "Cisco has quietly transformed from a slow-growth networking dinosaur into one of 2026's biggest mega-cap winners, but the real question is whether the catalyst behind this rally signals a durable shift or a setup ripe for disappointment.",
       "pub_date": "2026-08-02T14:30:22Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-50-ytd-cisco-end-143022057.html"
-    },
-    {
-      "title": "The Calm Surface Of Arista Networks Stock Hides A Turbulent Forecast",
-      "summary": "If you hold shares in this AI networking leader, the options market says you're already signed up for a remarkably wide range of outcomes over the next year.",
-      "pub_date": "2026-08-01T15:37:40Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/calm-surface-arista-networks-stock-153740659.html"
-    },
-    {
-      "title": "Should You Buy, Sell, or Hold ALAB Stock Before Q2 Earnings Release?",
-      "summary": "Astera Labs Q2 earnings are likely to gain from strong AI connectivity momentum, but margin pressure, rich valuation, and rising competition could keep investors cautious.",
-      "pub_date": "2026-07-31T17:39:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-alab-stock-173900918.html"
     }
   ]
 }
