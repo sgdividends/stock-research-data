@@ -1,7 +1,21 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-08-03T20:57:50.854022+00:00",
+  "generated_at": "2026-08-04T01:57:08.949002+00:00",
   "items": [
+    {
+      "title": "1 Nasdaq 100 Stock to Target This Week and 2 We Question",
+      "summary": "The Nasdaq 100 (^NDX) is home to some of the biggest success stories in tech and growth investing. However, certain stocks in the index face challenges like profitability concerns, rising costs, or shifts in market trends.",
+      "pub_date": "2026-08-03T22:21:22Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-nasdaq-100-stock-target-222122065.html"
+    },
+    {
+      "title": "Own The AI Boom? NVIDIA's Story vs. Micron's Contracts",
+      "summary": "NVIDIA offers a bet on relentless innovation to justify its price, but Micron locked in its future with long-term contracts, creating a starkly different, and arguably safer, way to own the same demand.",
+      "pub_date": "2026-08-03T22:06:11Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/technology/ai/articles/own-ai-boom-nvidias-story-220611002.html"
+    },
     {
       "title": "Broadcom Stock Slips After Losing Major EU Antitrust Fight",
       "summary": "A European court rejected Broadcom's attempt to block regulators from demanding U.S.-based VMware legal documents.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-03T12:06:44Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-stark-message-ai-120644936.html"
-    },
-    {
-      "title": "This Week In AI Chips - Palomino's Strategic Acquisition Boosts AI Interconnect Market Expansion",
-      "summary": "Palomino Laboratories has completed its acquisition of Vega Links, positioning itself as a key player in the next-generation AI interconnect field. This strategic move significantly expands Palomino's addressable market to over $60 billion and accelerates its capabilities in AI infrastructure. With the integration of Vega Links\u2019 expertise in high-speed AI and memory connectivity, Palomino aims to enhance AI interconnect technologies that improve bandwidth, latency, and power efficiency...",
-      "pub_date": "2026-08-03T11:37:41Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/week-ai-chips-palominos-strategic-113741943.html"
-    },
-    {
-      "title": "Microsoft joins, Broadcom exits Goldman\u2019s top-stocks list",
-      "summary": "Investing.com -- Goldman Sachs reshuffled its U.S. Conviction List in its August update, adding Microsoft and five other names while removing Broadcom and three others.",
-      "pub_date": "2026-08-03T11:00:15Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-joins-broadcom-exits-goldman-110015714.html"
     }
   ]
 }

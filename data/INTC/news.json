@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-08-03T20:58:21.365473+00:00",
+  "generated_at": "2026-08-04T01:57:34.702596+00:00",
   "items": [
     {
       "title": "Tech stocks today: Microsoft, Amazon jump after last week's strong earnings",
@@ -8,6 +8,34 @@
       "pub_date": "2026-08-03T14:04:19Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-microsoft-amazon-jump-after-last-weeks-strong-earnings-140419479.html"
+    },
+    {
+      "title": "Intel (INTC) Faces New AI And Packaging Pressure From China And TSMC",
+      "summary": "Chinese tech groups are accelerating work on open-weight AI models, with Alibaba releasing a powerful new system that could increase competition with Intel in AI infrastructure. TSMC is reportedly developing advanced chip packaging technology that resembles Intel's EMIB approach, which could narrow Intel's edge in high performance chip designs. These developments add fresh competitive risks for Intel's AI and packaging plans that have not been the focus of recent coverage. Intel, trading on...",
+      "pub_date": "2026-08-04T00:15:14Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-faces-ai-packaging-001514674.html"
+    },
+    {
+      "title": "Is Intel\u2019s AI PC and Advanced Packaging Ecosystem Shift Altering The Investment Case For Intel (INTC)?",
+      "summary": "In late July 2026, mimik Technology announced a collaboration with Intel to optimize its mimOE Agentix Operating Engine for Intel-powered AI PCs, while Lens Technology signed a non-binding memorandum of understanding with Intel to explore glass-based TGV advanced packaging and other AI hardware opportunities. Together with fresh earnings showing higher sales but a larger net loss of US$11.03 billion, these moves highlight Intel\u2019s push to link AI PCs, advanced packaging and foundry execution...",
+      "pub_date": "2026-08-03T23:15:29Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/intel-ai-pc-advanced-packaging-231529188.html"
+    },
+    {
+      "title": "For Micron Stock, The Growth That Justifies The Price Has To Arrive",
+      "summary": "The memory chip maker looks pricey today, but a steep discount appears on future earnings if you believe the AI-driven demand story.",
+      "pub_date": "2026-08-03T23:00:38Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-growth-justifies-price-230038188.html"
+    },
+    {
+      "title": "Own The AI Boom? NVIDIA's Story vs. Micron's Contracts",
+      "summary": "NVIDIA offers a bet on relentless innovation to justify its price, but Micron locked in its future with long-term contracts, creating a starkly different, and arguably safer, way to own the same demand.",
+      "pub_date": "2026-08-03T22:06:11Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/technology/ai/articles/own-ai-boom-nvidias-story-220611002.html"
     },
     {
       "title": "Buying Intel Over TSMC Isn\u2019t as Crazy as It Might Seem",
@@ -29,34 +57,6 @@
       "pub_date": "2026-08-03T15:56:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/strong-data-center-revenues-boost-155600940.html"
-    },
-    {
-      "title": "Trump admin to take $874M in equity stakes in 7 chip companies \u2014 experts say it could set bad precedent",
-      "summary": "The U.S. government has owned stakes in private companies before \u2014 but only during times of emergency.",
-      "pub_date": "2026-08-03T15:00:00Z",
-      "source": "Moneywise",
-      "url": "https://finance.yahoo.com/economy/policy/articles/trump-admin-874m-equity-stakes-150000454.html"
-    },
-    {
-      "title": "AMD\u2019s Helios Is Coming for Nvidia\u2019s Rack, Not Just Its GPU",
-      "summary": "AMD's Helios rackscale AI platform marks the company's greatest challenge yet to Nvidia's dominance in integrated AI infrastructure.",
-      "pub_date": "2026-08-03T14:45:56Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-helios-coming-nvidia-rack-144556787.html"
-    },
-    {
-      "title": "New Month, Same Jitters: AI Anxiety Creeps Into August",
-      "summary": "Investors are kicking off a new trading month on an upbeat note. But that hasn\u2019t stopped one of July\u2019s most painful trends from carrying into August. Chip stocks and other companies tied to the AI trade are some of the biggest decliners today, with Micron Technology, Sandisk, Intel and Western Digital all down about 3% or more.",
-      "pub_date": "2026-08-03T13:37:32Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-03-2026/card/new-month-same-jitters-ai-anxiety-creeps-into-august-s70UPpDEuiXzJvZbMBgO?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "AMD, NVDA, and INTC Forecasts \u2013 AI Profitability Worries Pull Tech Lower",
-      "summary": "Microchips struggle as South Korea shows more weakness in the semiconductor area. As the AI trade continues to struggle, this will be felt in multiple places.",
-      "pub_date": "2026-08-03T13:21:13Z",
-      "source": "FX Empire",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-nvda-intc-forecasts-ai-132113052.html"
     }
   ]
 }

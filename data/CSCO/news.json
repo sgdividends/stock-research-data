@@ -1,7 +1,14 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-08-03T20:58:01.594613+00:00",
+  "generated_at": "2026-08-04T01:57:18.387982+00:00",
   "items": [
+    {
+      "title": "Cisco (CSCO) Stock May Trade At A Cash Flow Premium While Earnings Look Fair",
+      "summary": "Cisco Systems stock has delivered strong multi year gains, yet current valuation checks suggest the shares now sit close to an intrinsic value estimate rather than standing out as a bargain. The Discounted Cash Flow (DCF) intrinsic value and market based multiples both point to a price that looks about right given what the market knows today. Over the last 5 years Cisco Systems has returned roughly 140%, which puts fresh focus on whether the current share price already reflects much of that...",
+      "pub_date": "2026-08-03T21:08:54Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-csco-stock-may-trade-210854340.html"
+    },
     {
       "title": "This ETF, The IBD Stock Of The Day, Breaks Out As Cybersecurity Stocks Rebound",
       "summary": "Cybersecurity stocks have shrugged off AI fears. The Amplify Cybersecurity ETF is a diversified way to play the sector.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-30T16:01:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-q4-earnings-beat-estimates-160100382.html"
-    },
-    {
-      "title": "LRCX Q4 Earnings Beat on NAND and Customer Support Strength",
-      "summary": "Lam Research tops Q4 FY26 estimates as NAND revenues more than double sequentially and support sales hit a third straight record.",
-      "pub_date": "2026-07-30T15:54:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lrcx-q4-earnings-beat-nand-155400014.html"
     }
   ]
 }

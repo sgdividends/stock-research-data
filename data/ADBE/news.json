@@ -1,6 +1,6 @@
 {
   "ticker": "ADBE",
-  "generated_at": "2026-08-03T20:57:45.561369+00:00",
+  "generated_at": "2026-08-04T01:57:04.098370+00:00",
   "items": [
     {
       "title": "Why Palantir is the 'best' publicly traded tech company",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-03T20:44:16Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/why-palantir-best-publicly-traded-204416015.html"
+    },
+    {
+      "title": "Top Tech Analyst Says Hyperscalers Are the Clear AI Winners, but Beaten-Down Software Offers Value",
+      "summary": "Ray Wang sees the AI market splitting megacaps into two very different investment stories, and the beaten-down names Wall Street has abandoned may be hiding the more compelling opportunity.",
+      "pub_date": "2026-08-03T21:11:32Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/top-tech-analyst-says-hyperscalers-211132235.html"
     },
     {
       "title": "WDAY, ADBE, INTU, ADSK, CRM: Software Stocks Stage Sharp Rebound In July",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-31T10:56:08Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/24-old-45-billion-hedge-105608970.html"
-    },
-    {
-      "title": "CRM Upgraded Its Profit Engine. Quietly",
-      "summary": "Salesforce has quietly become a much more profitable company, but investors don't seem to have noticed the transformation.",
-      "pub_date": "2026-07-31T00:03:36Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/crm-upgraded-profit-engine-quietly-000336406.html"
     }
   ]
 }

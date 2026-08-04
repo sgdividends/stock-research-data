@@ -1,6 +1,6 @@
 {
   "ticker": "CRWD",
-  "generated_at": "2026-08-03T20:58:01.474213+00:00",
+  "generated_at": "2026-08-04T01:57:18.294737+00:00",
   "items": [
     {
       "title": "Why Palantir is the 'best' publicly traded tech company",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-03T20:44:16Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/why-palantir-best-publicly-traded-204416015.html"
+    },
+    {
+      "title": "Cerebras Systems: A Leading AI Semiconductor Company",
+      "summary": "As artificial intelligence shifts from training toward inference, Cerebras Systems is uniquely positioned to capture significant market share.",
+      "pub_date": "2026-08-03T19:54:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-systems-leading-ai-semiconductor-195400355.html"
     },
     {
       "title": "This ETF, The IBD Stock Of The Day, Breaks Out As Cybersecurity Stocks Rebound",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-31T15:18:51Z",
       "source": "Exec Edge",
       "url": "https://tech.yahoo.com/cybersecurity/articles/ai-transforming-cybersecurity-bugcrowd-ceo-151851983.html"
-    },
-    {
-      "title": "How AI\u2011Driven Falcon Demand and M&A Ambitions Could Reshape CrowdStrike Holdings\u2019 (CRWD) Investment Narrative",
-      "summary": "CrowdStrike Holdings recently reported fiscal Q1 2027 revenue of US$1.39 billion and ending annual recurring revenue of US$5.51 billion, while attracting growing institutional interest and highlighting plans to use stock and debt for acquisitions in AI-focused cybersecurity. The company is gaining momentum as customers consolidate multiple security tools onto its Falcon platform and as analysts highlight its AI, next-gen SIEM, and platform strengths amid heightened attention following recent...",
-      "pub_date": "2026-07-31T02:09:24Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-driven-falcon-demand-m-020924604.html"
     }
   ]
 }
