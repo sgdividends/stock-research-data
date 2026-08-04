@@ -1,20 +1,27 @@
 {
   "ticker": "AMZN",
-  "generated_at": "2026-08-04T06:22:26.222930+00:00",
+  "generated_at": "2026-08-04T10:31:24.386003+00:00",
   "items": [
     {
-      "title": "Tech stocks today: Microsoft, Amazon jump after last week's strong earnings",
-      "summary": "Tech stocks coverage for the week of Aug. 3.",
-      "pub_date": "2026-08-03T14:04:19Z",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures coast higher as earnings roll in, Palantir stock soars",
+      "summary": "Markets are coming off a Big Tech rally, eyeing uncertainty in Middle East talks and  SpaceX earnings after the bell.",
+      "pub_date": "2026-08-04T10:01:40Z",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-microsoft-amazon-jump-after-last-weeks-strong-earnings-140419479.html"
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-4-dow-sp-500-nasdaq-100140227.html"
     },
     {
-      "title": "The AI spending boom is hitting a key Wall Street metric: Chart of the Day",
-      "summary": "The AI spending boom is becoming so large so quickly that it's hitting an important metric watched by investors: free cash flow.",
-      "pub_date": "2026-08-03T18:11:57Z",
+      "title": "Big Tech's cloud backlog just hit $2.3 trillion \u2014 and it's feeding AI capex plans",
+      "summary": "Investors who exited high-profile hyperscaler stocks because of surging AI capex may be overlooking an important point: Tech giants' cloud computing backlogs support their strong spending plans.",
+      "pub_date": "2026-08-03T18:14:59Z",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/article/the-ai-spending-boom-is-hitting-a-key-wall-street-metric-chart-of-the-day-181157588.html"
+      "url": "https://finance.yahoo.com/technology/article/big-techs-cloud-backlog-just-hit-23-trillion--and-its-feeding-ai-capex-plans-181459457.html"
+    },
+    {
+      "title": "This valuation signal shows how investors are rethinking tech stocks",
+      "summary": "Good to see a more rational set of valuations on the biggest companies.",
+      "pub_date": "2026-08-03T14:44:11Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/this-valuation-signal-shows-how-investors-are-rethinking-tech-stocks-144411798.html"
     },
     {
       "title": "Here's the single biggest reason the bull market is broadening",
@@ -24,39 +31,32 @@
       "url": "https://finance.yahoo.com/markets/article/heres-the-single-biggest-reason-the-bull-market-is-broadening-142744291.html"
     },
     {
-      "title": "Jeff Bezos Plans to Sell $4.07 Billion Worth of Amazon Stock as Shares Shoot Up Over 20% After Earnings: Jim Cramer Calls it 'Buzzkill'",
-      "summary": "Amazon.com, Inc. (NASDAQ:AMZN) founder and executive chairman Jeff Bezos is planning to sell up to 15 million Amazon shares worth approximately $4.07 billion. Bezos\u2019 Amazon Stock Sale Is Tied to a Prearranged Trading Plan A Form 144 filing submitted to the Securities and Exchange Commission on Monday showed that Bezos intends to sell 15 million shares of Amazon common stock through Morgan Stanley Smith Barney LLC. The proposed transaction was valued at approximately $4.07 billion based on the ma",
-      "pub_date": "2026-08-04T04:04:42Z",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jeff-bezos-plans-sell-4-040442726.html"
+      "title": "3 Stocks to Buy as AI Infrastructure Continues to Surge",
+      "summary": "With increased AI infrastructure spending, Nvidia, SK Hynix, and TSMC all look like good buys.",
+      "pub_date": "2026-08-04T09:50:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-buy-ai-infrastructure-095000532.html"
     },
     {
-      "title": "Stocks mixed as Seoul stabilises, oil prices rise with eyes on Mideast",
-      "summary": "Stocks stabilised in Asia on Tuesday after last week's tech-led rollercoaster ride as investors tracked a record day on Wall Street, while oil prices edged up after their recent plunge with Donald Trump and Iran giving conflicting views on peace talks.Oil prices rose around one percent, having plunged five percent Monday, on hopes for a US-Iran deal to reopen the Strait of Hormuz.",
-      "pub_date": "2026-08-04T02:55:45Z",
-      "source": "AFP",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/stocks-mixed-seoul-stabilises-oil-025545782.html"
+      "title": "Superblocks, AWS sign multi-year deal for enterprise AI on Bedrock",
+      "summary": "AWS customers will be able to deploy Superblocks\u2019 generative AI platform within their own environments using AWS security and governance.",
+      "pub_date": "2026-08-04T09:22:56Z",
+      "source": "Verdict",
+      "url": "https://finance.yahoo.com/technology/ai/articles/superblocks-aws-sign-multi-deal-092256048.html"
     },
     {
-      "title": "AMZN Stock Dips Overnight After Breaching $3 Trillion Market Cap: Retail Gets Buzzing About Bezos\u2019 Share Sale",
-      "summary": "If the proposed sale is completed in full, Bezos\u2019 holding would decline from about 884 million shares to 869 million shares, or 8.1% of Amazon.",
-      "pub_date": "2026-08-04T02:21:21Z",
+      "title": "Microsoft vs. Amazon: Which Stock Does Wall Street Think Is the Better Buy?",
+      "summary": "Both Microsoft and Amazon are coming off terrific earnings reports.",
+      "pub_date": "2026-08-04T09:20:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-vs-amazon-stock-does-092000594.html"
+    },
+    {
+      "title": "Nasdaq, S&P 500 Futures Climb As Wall Street Awaits AMD, SpaceX Earnings After Palantir Rally: Why SNAP, AMZN, SNDK, LCID, SLS, ASTS Are In Focus",
+      "summary": "Retail traders remain wary. Sentiment on Stocktwits shows they remain \u2018bearish\u2019 on SPY and QQQ.",
+      "pub_date": "2026-08-04T08:48:17Z",
       "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amzn-stock-dips-overnight-breaching-022121493.html"
-    },
-    {
-      "title": "NYU Professor Says Watch Smaller AI Stocks When The Shakeout Hits",
-      "summary": "Aswath Damodaran warns smaller AI stocks face a shakeout as Big Tech's cash flow protects Magnificent Seven giants.",
-      "pub_date": "2026-08-04T02:13:56Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nyu-professor-says-watch-smaller-021356539.html"
-    },
-    {
-      "title": "Why Did AMZN, SNOW, BMY Stocks Surge To 52-Week Highs Today?",
-      "summary": "Amazon crossed a $3 trillion market value, Snowflake rose as investors showed more confidence in its AI business, and Bristol-Myers stock climbed on possible merger discussions.",
-      "pub_date": "2026-08-04T01:46:30Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-amzn-snow-bmy-014630955.html"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-climb-084817291.html"
     }
   ]
 }

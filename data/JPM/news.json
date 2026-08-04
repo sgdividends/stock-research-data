@@ -1,7 +1,14 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-08-04T06:22:52.358773+00:00",
+  "generated_at": "2026-08-04T10:31:53.865624+00:00",
   "items": [
+    {
+      "title": "JPMorganChase Commits $750B to US Affordable Housing Push",
+      "summary": "JPMorganChase will deploy $750B through its American Dream Initiative to finance 1M affordable housing units and boost homeownership by 2035.",
+      "pub_date": "2026-08-04T06:06:19Z",
+      "source": "CRE Daily",
+      "url": "https://finance.yahoo.com/real-estate/articles/jpmorganchase-commits-750b-us-affordable-060619636.html"
+    },
     {
       "title": "JPMorgan makes surprising S&P 500 call after inflation shock",
       "summary": "Wall Street\u2019s nervousness over inflation and higher rates derailing the stock market was already on the radar. Elevated oil prices threatened to lift consumer prices and stoke fears of a Fed rate hike while pressuring tech stocks that had powered the market to record highs. The Nasdaq 100\u2019s ...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-03T18:21:47Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/real-estate/articles/jpmorgan-makes-massive-push-american-182147548.html"
-    },
-    {
-      "title": "Sector Update: Financial Stocks Advance Monday Afternoon",
-      "summary": "Financial stocks were higher in Monday afternoon trading, with the NYSE Financial Index and the Stat",
-      "pub_date": "2026-08-03T17:44:25Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-advance-monday-174425791.html"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-08-04T06:22:50.531542+00:00",
+  "generated_at": "2026-08-04T10:31:51.640952+00:00",
   "items": [
     {
       "title": "AMD to report Q2 earnings as chip stocks continue to waver",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-03T11:00:00Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/technology/article/amd-to-report-q2-earnings-as-chip-stocks-continue-to-waver-110000620.html"
+    },
+    {
+      "title": "INTC Q2 Deep Dive: Data Center and AI Strength Offset Market Concerns Amid Supply Constraints",
+      "summary": "Computer processor maker Intel (NASDAQ:INTC) announced better-than-expected revenue in Q2 CY2026, with sales up 25.4% year on year to $16.13 billion. On top of that, next quarter\u2019s revenue guidance ($16.3 billion at the midpoint) was surprisingly good and 7.8% above what analysts were expecting. Its non-GAAP profit of $0.42 per share was 93.1% above analysts\u2019 consensus estimates.",
+      "pub_date": "2026-08-04T08:37:22Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intc-q2-deep-dive-data-083722483.html"
     },
     {
       "title": "Intel (INTC) Faces New AI And Packaging Pressure From China And TSMC",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-03T15:59:51Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/amd-fell-3-reasons-m-155951051.html"
-    },
-    {
-      "title": "Can Strong Data Center Revenues Boost AMD's Top Line in Q2 Earnings?",
-      "summary": "AMD's Q2 topline may get a lift from surging Data Center demand as EPYC CPUs, Instinct GPUs and cloud expansion drive expected growth.",
-      "pub_date": "2026-08-03T15:56:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/strong-data-center-revenues-boost-155600940.html"
     }
   ]
 }

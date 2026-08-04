@@ -1,6 +1,6 @@
 {
   "ticker": "ON",
-  "generated_at": "2026-08-04T06:23:01.407381+00:00",
+  "generated_at": "2026-08-04T10:32:04.830067+00:00",
   "items": [
     {
       "title": "Earnings live updates: Snap stock surges as World Cup ads boost revenue, Whirlpool falls",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-03T13:04:25Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-130425228.html"
+    },
+    {
+      "title": "Nasdaq futures underpinned by strong AI forecasts; focus on earnings, data",
+      "summary": "Aug 4 (Reuters) - Nasdaq futures rose on Tuesday after strong forecasts from Palantir and ON Semiconductor reassured investors about AI-driven demand, while Middle East developments and U.S. earnings",
+      "pub_date": "2026-08-04T09:40:41Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-underpinned-strong-ai-094041040.html"
     },
     {
       "title": "ON Semiconductor Corp (ON) (Q2 2026) Earnings Call Highlights: AI Data Center Demand Drives ...",
@@ -45,18 +52,11 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/onsemi-nasdaq-surprises-q2-sales-210845215.html"
     },
     {
-      "title": "Onsemi beats Q2 estimates, guides Q3 revenue above consensus",
-      "summary": "Investing.com -- Onsemi (NASDAQ:ON) reported second quarter results that exceeded analyst expectations, with adjusted earnings per share of $0.74 beating the consensus estimate of $0.71 by $0.03. Revenue reached $1.6 billion, surpassing the analyst estimate of $1.59 billion and representing a 9% increase YoY from $1.47 billion in the second quarter of 2025.",
+      "title": "Onsemi shares jump premarket after data-center demand lifts results",
+      "summary": "Investing.com - Onsemi (NASDAQ:ON) reported better-than-expected second-quarter results thanks to growing artificial intelligence data center demand, sending shares higher by more than 7% in premarket U.S. trading on Tuesday.",
       "pub_date": "2026-08-03T20:44:02Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/onsemi-beats-q2-estimates-guides-204402516.html"
-    },
-    {
-      "title": "ON Semiconductor Reports Higher Profit, Revenue on Growing AI Data Center Business",
-      "summary": "The chipmaker reported second-quarter net income of $226.8 million, up from $170.3 million a year earlier.",
-      "pub_date": "2026-08-03T20:44:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/on-semiconductor-reports-higher-profit-revenue-on-growing-ai-data-center-business-f3ba5bbe?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

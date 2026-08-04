@@ -1,7 +1,14 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-08-04T06:22:35.921868+00:00",
+  "generated_at": "2026-08-04T10:31:34.730205+00:00",
   "items": [
+    {
+      "title": "3 Growth Stocks to Add to Your Roster",
+      "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
+      "pub_date": "2026-08-04T09:41:22Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-add-roster-094122002.html"
+    },
     {
       "title": "Cisco (CSCO) Stock May Trade At A Cash Flow Premium While Earnings Look Fair",
       "summary": "Cisco Systems stock has delivered strong multi year gains, yet current valuation checks suggest the shares now sit close to an intrinsic value estimate rather than standing out as a bargain. The Discounted Cash Flow (DCF) intrinsic value and market based multiples both point to a price that looks about right given what the market knows today. Over the last 5 years Cisco Systems has returned roughly 140%, which puts fresh focus on whether the current share price already reflects much of that...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-30T20:33:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/worry-ai-cap-ex-boom-203300120.html"
-    },
-    {
-      "title": "Microsoft Q4 Earnings Beat Estimates as Cloud and AI Drive Results",
-      "summary": "MSFT beats Q4 estimates as cloud and AI demand lift revenues, earnings and Azure growth, while expanding AI infrastructure and raising investment plans.",
-      "pub_date": "2026-07-30T16:01:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-q4-earnings-beat-estimates-160100382.html"
     }
   ]
 }

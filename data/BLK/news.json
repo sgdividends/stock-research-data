@@ -1,7 +1,14 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-08-04T06:22:29.883340+00:00",
+  "generated_at": "2026-08-04T10:31:28.231382+00:00",
   "items": [
+    {
+      "title": "Bull of the Day: Invesco (IVZ)",
+      "summary": "Record inflows, expanding margins, stronger profitability, and continued balance sheet improvement have fueled Invesco (IVZ) stock.",
+      "pub_date": "2026-08-04T08:00:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bull-day-invesco-ivz-080000365.html"
+    },
     {
       "title": "BlackRock's new tokenized fund lands on Solana",
       "summary": "BlackRock (NYSE: BLK), the world's largest asset manager, is pushing further into blockchain-based finance, and Solana is one of the blockchain networks carrying the move. Recently, BlackRock filed with the U.S. Securities and Exchange Commission (SEC) to launch the BlackRock Daily Reinvestment ...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-03T15:45:02Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-blackrock-blk-top-dividend-154502522.html"
-    },
-    {
-      "title": "Ethereum Price to $4,000? BlackRock Clients 'Dump Bitcoin for ETH' as Coin Bureau Spots Bullish Shift",
-      "summary": "BlackRock clients withdrew approximately $60 million from IBIT and purchased more than $20 million of ETH early in the week. US Bitcoin ETFs lost $265.4 ...",
-      "pub_date": "2026-08-03T11:19:12Z",
-      "source": "CCN",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-4-000-blackrock-111912186.html"
     }
   ]
 }

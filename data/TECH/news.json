@@ -1,7 +1,14 @@
 {
   "ticker": "TECH",
-  "generated_at": "2026-08-04T06:23:10.211957+00:00",
+  "generated_at": "2026-08-04T10:32:14.696334+00:00",
   "items": [
+    {
+      "title": "2 S&P 500 Stocks to Keep an Eye On and 1 We Turn Down",
+      "summary": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials, or structural headwinds.",
+      "pub_date": "2026-08-04T09:49:22Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-keep-094922340.html"
+    },
     {
       "title": "1 Healthcare Stock Worth Your Attention and 2 We Question",
       "summary": "From novel pharmaceuticals to telemedicine, most healthcare companies are on a mission to drive better patient outcomes. Those leading the charge have not only realized strong financial performance but also propelled the broader industry\u2019s returns as healthcare stocks have gained 16.6% over the past six months while the S&P 500 was up 7.1%.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-06-26T17:28:30Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/11-billion-reason-tech-stock-172830884.html"
-    },
-    {
-      "title": "Merck KGaA to acquire Bio-Techne in $11.3 billion deal",
-      "summary": "The deal, Merck's largest since its Sigma-Aldrich buyout, expands its presence in proteins, spatial biology, and cell and gene therapy",
-      "pub_date": "2026-06-26T14:13:57Z",
-      "source": "Quartz",
-      "url": "https://finance.yahoo.com/healthcare/articles/merck-kgaa-acquire-bio-techne-141357297.html"
     }
   ]
 }

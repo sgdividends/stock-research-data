@@ -1,7 +1,14 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-08-04T06:22:27.670884+00:00",
+  "generated_at": "2026-08-04T10:31:26.125507+00:00",
   "items": [
+    {
+      "title": "Inside Google\u2019s $200bn Wall Street finance machine for Anthropic",
+      "summary": "Google has assembled one of the largest infrastructure financing programmes in history to sell more than $150bn of AI chips destined for Anthropic...",
+      "pub_date": "2026-08-04T04:00:16Z",
+      "source": "Financial Times",
+      "url": "https://finance.yahoo.com/technology/ai/articles/inside-google-200bn-wall-street-040016935.html"
+    },
     {
       "title": "1 Nasdaq 100 Stock to Target This Week and 2 We Question",
       "summary": "The Nasdaq 100 (^NDX) is home to some of the biggest success stories in tech and growth investing. However, certain stocks in the index face challenges like profitability concerns, rising costs, or shifts in market trends.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-03T14:00:20Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/market-missing-huge-opportunity-nvidia-140020311.html"
-    },
-    {
-      "title": "Goldman Sachs Has Stark Message for AI Stock Investors",
-      "summary": "Goldman Sachs Says Strong Earnings Could Rescue the AI Trade",
-      "pub_date": "2026-08-03T12:06:44Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-stark-message-ai-120644936.html"
     }
   ]
 }
