@@ -1,7 +1,21 @@
 {
   "ticker": "DELL",
-  "generated_at": "2026-08-05T17:24:09.793917+00:00",
+  "generated_at": "2026-08-05T21:02:04.722800+00:00",
   "items": [
+    {
+      "title": "The companies emerging as new leaders in this renewed AI rally",
+      "summary": "Yahoo Finance Markets and Data Editor Jared Blikre examines the comeback seen across the semiconductor landscape over the past five trading days, while also analyzing which companies are emerging as leaders in the renewed AI rally.",
+      "pub_date": "2026-08-05T19:15:36Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/companies-emerging-leaders-renewed-ai-191536658.html"
+    },
+    {
+      "title": "Penguin Stock Slides 15% in a Month: Should You Buy the Dip?",
+      "summary": "PENG stock's decline reflects margin concerns, yet its AI Factory Platform, partnerships and improving outlook support future growth.",
+      "pub_date": "2026-08-05T16:27:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/penguin-stock-slides-15-month-162700398.html"
+    },
     {
       "title": "HPE Surges 21% in a Month: Should You Buy, Sell or Hold the Stock?",
       "summary": "Hewlett Packard Enterprise surges 21% in a month, but can AI infrastructure demand, cloud momentum and a discounted valuation support further gains?",
@@ -38,25 +52,11 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/wednesday-top-wall-street-analyst-115931658.html"
     },
     {
-      "title": "History Says Software-as-a-Service (SaaS) Stocks Will Be the Ultimate AI Winners. 3 SaaS Stocks to Buy Now.",
-      "summary": "Palantir, Microsoft, and ServiceNow look like potential big AI SaaS winners.",
-      "pub_date": "2026-08-05T11:05:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/technology/ai/articles/history-says-software-saas-stocks-110500257.html"
-    },
-    {
-      "title": "Is Dell (DELL) Quietly Becoming the Backbone of AI Infrastructure Across Sectors?",
-      "summary": "In recent days, Texas A&M Engineering Experiment Station announced it selected Dell Technologies to design and build IGNITE, a new AI and high\u2011performance computing platform that will use Dell PowerRack systems with liquid\u2011cooled PowerEdge servers and AMD Instinct MI355X GPUs, deployed at an Equinix data center in Dallas. At the same time, Dell\u2019s role as a core technology partner in large AI infrastructure builds like IGNITE and Volta Infra Holdings\u2019 Nvidia\u2011backed cloud platform highlights...",
-      "pub_date": "2026-08-05T10:09:56Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/dell-dell-quietly-becoming-backbone-100956498.html"
-    },
-    {
-      "title": "AI Infrastructure Backlog: How Dell, HPE, SMCI, and GE Vernova Are Positioned",
-      "summary": "Soaring AI infrastructure demand is fueling a major backlog buildup, with billions of dollars of orders accumulating across AI servers, data-center equipment, networking and power infrastructure. The AI infrastructure boom is creating a powerful second-order opportunity for companies supplying the servers, racks, cooling systems, power equipment and grid infrastructure required to build AI data centers. [\u2026]",
-      "pub_date": "2026-08-05T08:22:49Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-backlog-dell-hpe-082249164.html"
+      "title": "Dell and Super Micro Are Both Growing Fast. The Market Is Telling You to Buy 1.",
+      "summary": "Despite benefiting from the same AI server boom, Dell and Super Micro have seen dramatically different reactions from investors.",
+      "pub_date": "2026-08-05T11:30:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-super-micro-both-growing-113002795.html"
     }
   ]
 }

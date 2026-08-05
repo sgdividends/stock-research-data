@@ -1,7 +1,14 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-08-05T17:24:25.409268+00:00",
+  "generated_at": "2026-08-05T21:02:19.482258+00:00",
   "items": [
+    {
+      "title": "Rigetti Expands Hybrid Quantum HPC Push With New NSF Project",
+      "summary": "RGTI joins HPE and PSC on a $5 million NSF-backed hybrid quantum-classical testbed set to begin construction in September 2026.",
+      "pub_date": "2026-08-05T17:44:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/articles/rigetti-expands-hybrid-quantum-hpc-174400386.html"
+    },
     {
       "title": "Palantir Is Signing Work Faster Than It Can Bill It",
       "summary": "The reported quarter was strong, yet management added far more to its full-year outlook than the quarter itself beat its own guidance by, and the contract book explains why.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-04T22:11:06Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ibm-ibm-stock-still-looks-221106885.html"
-    },
-    {
-      "title": "IBM\u2019s Arvind Krishna Predicts Quantum Computing Will Become a Meaningful Business by 2028: 'We Are Now Pretty Convinced...'",
-      "summary": "On Thursday, International Business Machines Corp CEO Arvind Krishna said quantum computing could begin making a measurable contribution to the company\u2019s revenue and profit by 2028 or 2029. IBM Sees Quantum Computing Driving Revenue and Profit Speaking on CNBC\u2019s \"Mad...",
-      "pub_date": "2026-08-04T21:31:22Z",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-arvind-krishna-predicts-quantum-213122983.html"
     }
   ]
 }

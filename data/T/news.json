@@ -1,7 +1,14 @@
 {
   "ticker": "T",
-  "generated_at": "2026-08-05T17:24:56.442722+00:00",
+  "generated_at": "2026-08-05T21:02:46.072085+00:00",
   "items": [
+    {
+      "title": "$58 billion In Payouts, A Lagging Stock: The T Trade-Off",
+      "summary": "The telecom giant showered shareholders with cash while the stock itself went nowhere, forcing a hard question about what all that money actually bought.",
+      "pub_date": "2026-08-05T17:04:15Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/58-billion-payouts-lagging-stock-170415240.html"
+    },
     {
       "title": "These Stocks Are Making Moves Today, Thanks to SpaceX",
       "summary": "SpaceX has designs to leverage its dominant position in the space business into a dominant position in AI and communications.  SpaceX stock, for starters, was down about 12% at $110.  Nvidia shares were up 3.1% partly because SpaceX is using their chips for its Starmind AI computing satellites.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-05T10:01:51Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/telecom-stocks-fall-spacex-signals-100151566.html"
-    },
-    {
-      "title": "Telecom Stocks Slip After SpaceX Takes Aim at Their Market Share",
-      "summary": "SpaceX is coming for large U.S. telecom providers. During the company\u2019s first earnings call, SpaceX President Gwynne Shotwell referenced the revenue that AT&T, Verizon Communications and T-Mobile US pull in, and said Starlink would take aim at their subscribers.",
-      "pub_date": "2026-08-05T09:26:45Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-05-2026/card/telecom-stocks-slip-after-spacex-takes-aim-at-their-market-share-zJseI4YNTsTgf0aqnX4H?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

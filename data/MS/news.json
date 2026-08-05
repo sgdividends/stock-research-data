@@ -1,7 +1,21 @@
 {
   "ticker": "MS",
-  "generated_at": "2026-08-05T17:24:38.563815+00:00",
+  "generated_at": "2026-08-05T21:02:30.302517+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Advance Late Afternoon",
+      "summary": "Financial stocks were higher in late Wednesday afternoon trading, with the NYSE Financial Index risi",
+      "pub_date": "2026-08-05T19:52:38Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-advance-afternoon-195238828.html"
+    },
+    {
+      "title": "Sector Update: Financial Stocks Rise in Afternoon Trading",
+      "summary": "Financial stocks were advancing in Wednesday afternoon trading, with the NYSE Financial Index rising",
+      "pub_date": "2026-08-05T18:01:05Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-rise-afternoon-180105908.html"
+    },
     {
       "title": "AMD Shows Strong Outlook, but Warrants Limit Potential, Morgan Stanley Says",
       "summary": "Advanced Micro Devices (AMD) is looking \"significantly\" better in 2027 after Q2 results, but its war",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-05T10:10:53Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/markets/crypto/articles/circle-revenue-misses-estimates-crypto-101053142.html"
-    },
-    {
-      "title": "Chambal Fertilisers And Chemicals (NSEI:CHAMBLFERT) Stock Fair Value Edges Lower On Margin Concerns",
-      "summary": "The fair value estimate for Chambal Fertilisers and Chemicals has been revised from \u20b9615.0 to \u20b9574.5. This resets the reference point many investors use when thinking about upside and downside. This shift reflects changing analyst views on how growth, profitability and execution risk fit together, and what that implies for the stock\u2019s valuation anchor. As you read on, you will see how to track this evolving narrative and what to watch next in the story around Chambal Fertilisers and...",
-      "pub_date": "2026-08-05T04:29:21Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/chambal-fertilisers-chemicals-nsei-chamblfert-042921382.html"
-    },
-    {
-      "title": "Morgan Stanley (MS) Stock May Be Slightly Overvalued Following New Crypto ETF Launch",
-      "summary": "Morgan Stanley stock has delivered a very strong 168.9% return over the past three years, and the current checks now point to a price that looks roughly in line with an intrinsic value estimate based on the Excess Returns model and with market based multiples that sit in the about right range. That combination leaves the stock looking less like an obvious bargain and more like one where recent gains and valuation are closely matched. The 168.9% three year return highlights how much value the...",
-      "pub_date": "2026-08-04T22:09:34Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-ms-stock-may-220934031.html"
     }
   ]
 }

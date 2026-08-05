@@ -1,7 +1,14 @@
 {
   "ticker": "GS",
-  "generated_at": "2026-08-05T17:24:22.334216+00:00",
+  "generated_at": "2026-08-05T21:02:16.515106+00:00",
   "items": [
+    {
+      "title": "Goldman Sachs stock doubles from 'Liberation Day' lows",
+      "summary": "Goldman Sachs stock has doubled off its \"Liberation Day\" lows, powered by equity trading, M&A, and blockbuster IPOs.",
+      "pub_date": "2026-08-05T18:05:48Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/goldman-sachs-stock-doubles-from-liberation-day-lows-180548528.html"
+    },
     {
       "title": "Goldman Sachs Names 2 European Stocks It Says Can More Than Double",
       "summary": "Goldman Sachs names 2 European stocks with more than 100% upside, led by Ceres Power at 168% and Rheinmetall at 102%.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-04T23:16:28Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/coupang-cpng-stock-fair-value-231628878.html"
-    },
-    {
-      "title": "Goldman's AI Strategy: Transforming Operations & Unlocking New Growth",
-      "summary": "GS is embedding AI across its business to boost productivity, expand fee-based revenues and reshape long-term growth through firmwide transformation.",
-      "pub_date": "2026-08-04T14:59:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/goldmans-ai-strategy-transforming-operations-145900408.html"
     }
   ]
 }

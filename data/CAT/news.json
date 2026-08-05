@@ -1,21 +1,7 @@
 {
   "ticker": "CAT",
-  "generated_at": "2026-08-05T17:24:00.868867+00:00",
+  "generated_at": "2026-08-05T21:01:56.082343+00:00",
   "items": [
-    {
-      "title": "Earnings live updates: Eli Lilly stock pops on upbeat guidance, Uber stock slides",
-      "summary": "Earnings continue to be the market's engine, and a series of results this week from Palantir, SpaceX, and AMD are set to rev up stocks again.",
-      "pub_date": "2026-08-03T13:04:25Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-130425228.html"
-    },
-    {
-      "title": "Stock market today: Dow and S&P 500 soar to record highs, Nasdaq rallies on hopes for a Hormuz deal",
-      "summary": "Markets are coming off a Big Tech rally, eyeing uncertainty in Middle East talks and  SpaceX earnings after the bell.",
-      "pub_date": "2026-08-04T10:01:40Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-4-dow-sp-500-nasdaq-100140227.html"
-    },
     {
       "title": "Michael Burry Sends Stark Warning on S&P 500 Crash",
       "summary": "Michael Burry sounds the alarm on a 1987-style selloff despite fresh market highs",
@@ -29,6 +15,13 @@
       "pub_date": "2026-08-05T16:57:52Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-drops-shocking-ai-165752178.html"
+    },
+    {
+      "title": "Why the Dow Is Outperforming Today",
+      "summary": "The Dow maintained gains in afternoon trading, while the S&P 500 and the Nasdaq slid.  The blue chip index was up 0.7%, or 461 points, despite sharing some of the same components dragging on the Nasdaq and the S&P 500.  The key to the Dow's resilience during Wednesday's session is its price-weighted structure.",
+      "pub_date": "2026-08-05T16:44:01Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-080526/card/why-the-dow-is-outperforming-today-o26nSWbUM6tJ5R8aXooF?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Caterpillar Stock Surges 12% as AI Demand Powers Huge Beat",
@@ -57,6 +50,13 @@
       "pub_date": "2026-08-05T12:12:51Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/livecoverage/stock-market-news-today-080526/card/s-p-500-dow-build-on-record-highs-amid-ai-and-iran-hope-0cEIdwfIGQW44wels53h?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Michael Burry warns of 1987-style crash, holds Nvidia shorts",
+      "summary": "The \"Big Short\" investor said all his short positions remain profitable except his bet against Nvidia stock",
+      "pub_date": "2026-08-05T11:37:11Z",
+      "source": "Quartz",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-warns-1987-style-113711394.html"
     }
   ]
 }

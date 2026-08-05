@@ -1,7 +1,14 @@
 {
   "ticker": "KMI",
-  "generated_at": "2026-08-05T17:24:30.241734+00:00",
+  "generated_at": "2026-08-05T21:02:23.781218+00:00",
   "items": [
+    {
+      "title": "Pembina Pipeline Q2 Earnings Miss Estimates, Revenues Increase Y/Y",
+      "summary": "PBA misses Q2 EPS estimates, but revenues rise 20% year over year as higher volumes and operational strength lift results across its business segments.",
+      "pub_date": "2026-08-05T17:10:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pembina-pipeline-q2-earnings-miss-171000023.html"
+    },
     {
       "title": "PARR Q2 Earnings Beat Estimates on Refining Margin Strength",
       "summary": "Par Pacific's Q2 earnings soared 555.8% and revenues jumped 56.8%, beating estimates as refining margins surged despite lower throughput and softer retail results.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-01T09:11:07Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/kinder-morgan-kmi-could-9-091107961.html"
-    },
-    {
-      "title": "CVX Q2 Earnings Beat on Higher Output & Strong Refining Margins",
-      "summary": "Chevron posts a strong Q2 as upstream output climbs, downstream margins improve and free cash flow jumps year over year.",
-      "pub_date": "2026-07-31T15:46:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/energy/articles/cvx-q2-earnings-beat-higher-154600388.html"
     }
   ]
 }
