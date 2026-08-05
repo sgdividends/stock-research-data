@@ -1,7 +1,14 @@
 {
   "ticker": "IBKR",
-  "generated_at": "2026-08-04T21:05:52.971380+00:00",
+  "generated_at": "2026-08-05T01:57:18.191037+00:00",
   "items": [
+    {
+      "title": "Interactive Brokers (IBKR) Expands AI Tools Through MCP For Smarter Client Research",
+      "summary": "Interactive Brokers Group expanded its AI integration to support more third-party tools via the Model Context Protocol. The update allows clients to connect their Interactive Brokers accounts with a wider range of AI tools for portfolio analysis, research, and natural language trade drafting. This development is intended to widen AI use cases for both retail and institutional clients using NasdaqGS:IBKR. Interactive Brokers Group, listed as NasdaqGS:IBKR, is adding this AI expansion at a...",
+      "pub_date": "2026-08-04T21:11:06Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/interactive-brokers-ibkr-expands-ai-211106534.html"
+    },
     {
       "title": "Interactive Brokers (IBKR) Stock Sees Fair Value Lift After Strong Earnings And Analyst Support",
       "summary": "The updated fair value estimate for Interactive Brokers Group has moved from US$88.27 to US$106.97, signaling a higher modeled price target in the latest valuation work. This shift lines up with broadly supportive Street commentary following Q2 2026 results, where analysts have focused on interest income, operating efficiency, and account growth while still acknowledging execution risks. As you read on, you will see how this changing price target fits into the evolving analyst narrative and...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-30T13:00:06Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/most-watched-stock-interactive-brokers-130006692.html"
-    },
-    {
-      "title": "South Korea\u2019s Leveraged ETF Debacle Is a Warning for Wall Street",
-      "summary": "Investors have been burned by big drops in single-stock funds tied to Samsung and SK Hynix. Leveraged ETFs are popular in the U.S. too.",
-      "pub_date": "2026-07-29T19:01:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/south-korea-etf-kospi-samsung-sk-hynix-2c242ea9?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

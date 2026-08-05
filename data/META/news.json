@@ -1,10 +1,38 @@
 {
   "ticker": "META",
-  "generated_at": "2026-08-04T21:06:02.010102+00:00",
+  "generated_at": "2026-08-05T01:57:29.803011+00:00",
   "items": [
     {
+      "title": "Tech stocks today: SpaceX and AMD post quarterly results; investors weren't impressed.",
+      "summary": "Tech stocks coverage for the week of Aug. 3.",
+      "pub_date": "2026-08-03T14:04:19Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-and-amd-post-quarterly-results-investors-werent-impressed-140419479.html"
+    },
+    {
+      "title": "White House AI Guidelines Exempt U.S. Open Models From Government Review",
+      "summary": "The new framework, completed in recent days, is seen as most likely to affect OpenAI, Anthropic and Google.",
+      "pub_date": "2026-08-04T23:07:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/ai/white-houses-ai-guidelines-exempt-u-s-open-models-from-government-review-74924eb8?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Microsoft is Soaring After Earnings While Meta Platforms Drops. Is The Market Giving Zuckerberg Too Little Credit?",
+      "summary": "On the latest episode of the AI Investor Podcast, 24/7 Wall St. Analyst Austin Smith opens with a puzzle: two companies are being treated in opposite ways for the same underlying behavior. Microsoft is up roughly 16% after Azure growth accelerated from 38% to 43%, with guidance pointing to 45\u201346%, vindicating a capex program the market had criticized. Meta, meanwhile, is down about 10% at roughly 20x earnings despite 28% top-line growth \u2014 and is being punished for the same infrastructure spending, even after Zuckerberg argued that Meta rents out compute at a markup over its cost. Co-host Eric Bleeker's answer is that both moves are likely overreactions, and that the real variable is what each company said versus what Wall Street wanted to hear. Microsoft delivered on message: Azure at a $124 billion run rate, 90% of cloud demand coming from outside the frontier labs, and no capex increase. He frames Microsoft's position as a prisoner's dilemma, since compute routed to Azure is compute unavailable for its own AI products, and argues Microsoft CEO Satya Nadella relented under pressure from prior quarters. He compares the market's discomfort with capex growth to Apple's mid-decade smartphone choppiness versus Google's steadier trajectory. Meta hit every wrong note: an EPS miss on one-time costs, decelerating guidance, Zuckerberg walking back the cloud-capacity revenue opportunity, and incremental compute directed toward Meta Superintelligence rather than the core ad business. Eric estimates the justified moves were only a few percent in either direction, with the rest attributable to PR and positioning. He credits Microsoft's software exposure as valuable diversification, but concludes the share-price gap doesn't reflect any real difference in business trajectory.",
+      "pub_date": "2026-08-04T22:38:51Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/video/microsoft-soaring-earnings-while-meta-223851729.html"
+    },
+    {
+      "title": "Pinterest Stock Falls Despite Earnings Beat",
+      "summary": "Pinterest expects current quarter revenue to be between $1.19 billion to $1.21 billion, roughly in line with Wall Street\u2019s estimate of $1.2 billion.",
+      "pub_date": "2026-08-04T20:40:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/pinterest-earnings-stock-price-a80a18b3?siteid=yhoof2&yptr=yahoo"
+    },
+    {
       "title": "Pinterest expects slower quarterly revenue growth as ad competition heats up",
-      "summary": "Image-sharing platform Pinterest forecast slower revenue growth for the third quarter on Tuesday, signaling tough competition for digital \u200cadvertising from bigger players including Meta's Instagram, sending its \u200cshares down 6% in extended trading. Pinterest has been expanding Performance+, its AI-powered suite for \u200badvertisers, to attract more marketers by helping them optimize and scale their campaigns with less manual effort. As Meta continues to improve its Advantage+ ad automation tools, Reddit launched a broadly similar product and with ads becoming \u200ca larger focus for \u2060OpenAI, competition is expected to increase further.",
+      "summary": "Image-sharing platform Pinterest forecast slower revenue growth for the third quarter on Tuesday, a sign of tough \u200ccompetition for digital advertising from bigger players including Meta's Instagram, sending its \u200cshares down 9% in extended trading. Pinterest has been expanding Performance+, its AI-powered suite for advertisers, \u200bto attract more marketers by helping them optimize and scale their campaigns with less manual effort. As Meta continues to improve its Advantage+ ad automation tools, Reddit launched a broadly similar product and with ads becoming a larger focus for OpenAI, competition \u200cis expected to increase further.",
       "pub_date": "2026-08-04T20:08:32Z",
       "source": "Reuters",
       "url": "https://finance.yahoo.com/media-advertising/articles/pinterest-expects-slower-quarterly-revenue-200832530.html"
@@ -17,46 +45,18 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/toughest-questions-amzn-faced-latest-200831095.html"
     },
     {
+      "title": "Meta Ads introduces stablecoin payment options",
+      "summary": "Following the demise of its ill-fated Libra experiment, the company is offering third-party cryptocurrency options for creators and advertisers.",
+      "pub_date": "2026-08-04T19:32:25Z",
+      "source": "Social Media Today",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/meta-ads-introduces-stablecoin-payment-193225671.html"
+    },
+    {
       "title": "Wall Street Short Sellers Piled Into Amazon and Microsoft at Historic Rates Before Earnings. Now They\u2019re Rallying.",
       "summary": "Short sellers piled into Microsoft and Amazon at historically stretched levels before earnings, and the beats that followed set off a covering scramble that has powered both stocks for weeks. Now the question is whether the rally has legs or whether the easiest gains are already gone.",
       "pub_date": "2026-08-04T19:14:03Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-short-sellers-piled-191403163.html"
-    },
-    {
-      "title": "Should You Buy Nvidia Stock Before Aug. 26? Here's What History Suggests.",
-      "summary": "Nvidia reports fiscal 2027 second-quarter earnings on Aug. 26.",
-      "pub_date": "2026-08-04T17:32:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-nvidia-stock-aug-26-173200031.html"
-    },
-    {
-      "title": "AI data-centre race builds $1 trillion lease burden for Big Tech",
-      "summary": "Microsoft Corp, Meta Platforms Inc, Oracle Corp, Amazon and Alphabet have committed about $1.09 trillion in future payments under leases that have not yet begun, mostly for data centres \u200cneeded to power the artificial intelligence boom.  The commitments show that a substantial part of Big Tech's \u200cAI spending spree has already been locked in, without yet appearing as debt-like lease liabilities on company balance sheets.  The total is nearly four times the roughly $285 billion of lease liabilities already recognised on the companies' balance sheets, according to company filings compiled by \u200cReuters.",
-      "pub_date": "2026-08-04T17:19:55Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-data-centre-race-builds-171955454.html"
-    },
-    {
-      "title": "Meta Platforms (META) Q2 Growth Puts AI Spending And Valuation Back In Focus",
-      "summary": "Meta Platforms (META) has moved back into focus after Q2 2026 earnings showed strong revenue growth alongside sharply higher AI infrastructure spending. Investors are weighing that combination against a lumpier share price over the past year. See our latest analysis for Meta Platforms. Meta Platforms' latest Q2 update and heavier AI data center spend have come after a choppy run for the stock. The share price is up 6.02% over one day but down 9.25% year to date, and the 1 year total...",
-      "pub_date": "2026-08-04T17:11:32Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-meta-q2-growth-171132506.html"
-    },
-    {
-      "title": "NVIDIA Facing 12-to-1 Demand to Supply for its Chips, Says Expert\u2014and It Might Be Time to Buy",
-      "summary": "Nvidia keeps smashing records while skeptics like Michael Burry stack up bearish bets against it, yet one top analyst sees a supply crunch so severe it could make the doubters regret sitting on the sidelines.",
-      "pub_date": "2026-08-04T16:38:48Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-facing-12-1-demand-163848657.html"
-    },
-    {
-      "title": "Pinterest Earnings Should Be Strong. Just Look at Reddit and Snap Results.",
-      "summary": "Pinterest is scheduled to report second-quarter financial results after the stock market closes on Tuesday.",
-      "pub_date": "2026-08-04T16:27:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/pinterest-earnings-stock-price-a80a18b3?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
