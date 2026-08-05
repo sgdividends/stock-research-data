@@ -1,7 +1,14 @@
 {
   "ticker": "META",
-  "generated_at": "2026-08-05T10:29:51.621387+00:00",
+  "generated_at": "2026-08-05T13:53:36.857414+00:00",
   "items": [
+    {
+      "title": "Tech stocks today: SpaceX, AMD top quarterly results, but fail to impress Wall Street. Shares sink",
+      "summary": "Tech stocks coverage for the week of Aug. 3.",
+      "pub_date": "2026-08-03T14:04:19Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-amd-top-quarterly-results-but-fail-to-impress-wall-street-shares-sink-140419479.html"
+    },
     {
       "title": "AI CapEx fears: Is big tech overspending?",
       "summary": "Host Kenny Polcari joins Man Group Chief Market Strategist Kristina Hooper and Legato Financial CIO Ryan Kelly to debate the risks of massive AI CapEx spending and how a hawkish Federal Reserve could impact markets ahead of the midterms.",
@@ -10,11 +17,25 @@
       "url": "https://finance.yahoo.com/video/ai-capex-fears-big-tech-100000522.html"
     },
     {
-      "title": "Tech stocks today: SpaceX and AMD post quarterly results; investors weren't impressed.",
-      "summary": "Tech stocks coverage for the week of Aug. 3.",
-      "pub_date": "2026-08-03T14:04:19Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-and-amd-post-quarterly-results-investors-werent-impressed-140419479.html"
+      "title": "Who Might Buy Snap If Its Founders Ever Decide to Sell",
+      "summary": "Snap's stock has cratered while nearly a billion users keep scrolling, and that gap between price and audience has a handful of tech giants quietly doing the math. The catch is a pair of founders who may have no intention of answering the phone.",
+      "pub_date": "2026-08-05T12:25:32Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/might-buy-snap-founders-ever-122532962.html"
+    },
+    {
+      "title": "Mark Zuckerberg Wrote That AI May Soon Deliver \"Personal Superintelligence to Everyone\" Just Before Meta's Free Cash Flow Cratered 91%. Do Investors Buy the Vision?",
+      "summary": "Superintelligence is a form of artificial intelligence that can surpass the cognitive abilities of humans.",
+      "pub_date": "2026-08-05T11:50:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mark-zuckerberg-wrote-ai-may-115000868.html"
+    },
+    {
+      "title": "Mark Zuckerberg's Meta Just Suffered an 11-Day Losing Streak That Erased $17.8 Billion From His Net Worth. Is the AI Bet Still Worth It?",
+      "summary": "Investors are increasingly concerned about Meta's AI spending and its impact on the company's cash flow.",
+      "pub_date": "2026-08-05T11:20:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerbergs-meta-just-suffered-112000185.html"
     },
     {
       "title": "Landowners Near Meta\u2019s New Data Center Struck Gold. Retirees Renting on Social Security Could Be Priced Out.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-05T07:37:43Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-partner-hon-hai-sales-073743931.html"
-    },
-    {
-      "title": "AMD's problem is not demand. It is where the demand comes from",
-      "summary": "Advanced Micro Devices Inc (NASDAQ:AMD, XETRA:AMD) delivered close to the quarter the bulls wanted, and the shares fell almost 9% anyway. Revenue of $11.5 billion was up 50% year on year and ahead of the $11.28 billion consensus, while adjusted earnings of $1.66 a share beat forecasts of...",
-      "pub_date": "2026-08-05T06:50:00Z",
-      "source": "Proactive",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amds-problem-not-demand-where-065000386.html"
-    },
-    {
-      "title": "Think Tech Is Spending Too Much? There\u2019s Trillions More to Come.",
-      "summary": "Tech investors hoping that a wave of AI spending will moderate in 2027 are likely to be disappointed.",
-      "pub_date": "2026-08-05T06:00:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/tech-stocks-ai-spending-capex-554475b7?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "I\u2019m Buying Broadcom Because It Sucks Up The Hyperscaler AI Capex That Doesn\u2019t Go To Nvidia",
-      "summary": "Every dollar hyperscalers spend building alternatives to Nvidia has to go somewhere, and one company keeps collecting it across custom silicon, switch fabric, and AI networking without most investors noticing.",
-      "pub_date": "2026-08-05T04:19:26Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/m-buying-broadcom-because-sucks-041926438.html"
     }
   ]
 }

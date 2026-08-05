@@ -1,7 +1,14 @@
 {
   "ticker": "IT",
-  "generated_at": "2026-08-05T10:29:44.809409+00:00",
+  "generated_at": "2026-08-05T13:53:29.415261+00:00",
   "items": [
+    {
+      "title": "Gartner (IT) Says Quantum Will Sit Out Enterprise AI Through 2028",
+      "summary": "Gartner forecasts that enterprise AI workloads at scale will not use quantum hardware through at least 2028. The company expects quantum AI to remain focused on research and development while classical accelerated AI continues to lead in production workloads. This guidance frames how large enterprises may plan AI and quantum computing budgets over the next several years. Gartner, traded as NYSE:IT, is highlighting a clear separation between research activity in quantum AI and what is likely...",
+      "pub_date": "2026-08-05T11:10:10Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/gartner-says-quantum-sit-enterprise-111010642.html"
+    },
     {
       "title": "Gartner Q2 Earnings Call Highlights",
       "summary": "Gartner (NYSE:IT) reported second-quarter results that exceeded its expectations, with revenue, adjusted EBITDA, adjusted earnings per share and free cash flow all ahead of plan. The company also raised its full-year outlook for EBITDA, adjusted EPS and free cash flow, citing revenue upside, expense",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-04T16:24:25Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-gartner-inc-stock-soaring-162425528.html"
-    },
-    {
-      "title": "Gartner (IT) Reports Q2 Earnings: What Key Metrics Have to Say",
-      "summary": "Although the revenue and EPS for Gartner (IT) give a sense of how its business performed in the quarter ended June 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
-      "pub_date": "2026-08-04T13:30:04Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gartner-reports-q2-earnings-key-133004083.html"
     }
   ]
 }

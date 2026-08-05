@@ -1,6 +1,6 @@
 {
   "ticker": "CBOE",
-  "generated_at": "2026-08-05T10:29:21.001435+00:00",
+  "generated_at": "2026-08-05T13:53:05.125988+00:00",
   "items": [
     {
       "title": "That Friday Payday Fund Has a Small-Cap Sibling Paying 44%, and Small Caps Are Finally Winning",
@@ -22,6 +22,13 @@
       "pub_date": "2026-08-03T18:09:58Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cboe-global-markets-cboe-stock-180958444.html"
+    },
+    {
+      "title": "Cboe Global Markets, Inc. Q2 2026 Earnings Call Summary",
+      "summary": "Moby summary of Cboe Global Markets, Inc.'s Q2 2026 earnings call",
+      "pub_date": "2026-08-01T12:30:00Z",
+      "source": "Moby",
+      "url": "https://finance.yahoo.com/markets/options/articles/cboe-global-markets-inc-q2-123000991.html"
     },
     {
       "title": "TMX Group Q2 Earnings Call Highlights",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-31T17:29:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/options/articles/cboe-q2-earnings-beat-options-172900149.html"
-    },
-    {
-      "title": "Wall Street Braces for Big Stock Moves That Could Roil Sleepy August Markets",
-      "summary": "The varied reactions to recent earnings reports underscore the market\u2019s broader indecision. That\u2019s worrying.",
-      "pub_date": "2026-07-31T17:16:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/wall-street-stock-market-volatility-2aa0c9b8?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

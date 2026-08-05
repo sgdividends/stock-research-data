@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "generated_at": "2026-08-05T10:29:09.909541+00:00",
+  "generated_at": "2026-08-05T13:52:53.926913+00:00",
   "items": [
     {
       "title": "AI CapEx fears: Is big tech overspending?",
@@ -10,11 +10,25 @@
       "url": "https://finance.yahoo.com/video/ai-capex-fears-big-tech-100000522.html"
     },
     {
+      "title": "Stock Market Today: Dow Rises After Surprise Jobs Data; AMD, SpaceX Plunge On Earnings (Live Coverage)",
+      "summary": "Stock Market Today: The Dow Jones index rises Wednesday after surprise jobs data. AMD stock and SpaceX plunge on earnings.",
+      "pub_date": "2026-08-05T13:00:30Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-data-amd-stock-spacex-earnings/?src=A00220&yptr=yahoo"
+    },
+    {
       "title": "Apple's Quarterly iPhone Sales Were Even Better Than They Seem",
       "summary": "The company's 2018 decision to stop reporting unit sales in 2019 means investors aren't seeing the full bullish story. Fortunately, IDC is still keeping score.",
       "pub_date": "2026-08-05T10:15:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/apples-quarterly-iphone-sales-were-101500717.html"
+    },
+    {
+      "title": "Tech Melt-Up Drives $3.5 Trillion Nasdaq 100 Gain in Four Days",
+      "summary": "(Bloomberg) -- A dramatic turnaround in technology stocks has powered a $3.5 trillion increase in the Nasdaq 100\u2019s market capitalization in just four days, driven by strong earnings that have emboldened investors about the AI outlook.Most Read from BloombergTrump Says Iran Talks Going Well as Hopes Rise for Hormuz DealTaco Bell Met With Michigan on Parasite Weeks Before RecallBeer Dynasty Families Sell \u20ac731 Million Stake in AB InBevChina\u2019s AI Blitz Creates \u2018Death Zone\u2019 for Rival US Model MakersS",
+      "pub_date": "2026-08-05T09:26:12Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tech-melt-drives-3-5-092612137.html"
     },
     {
       "title": "Corporate America got billions of dollars in tariff refunds. Where\u2019s your cut?",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-05T07:37:43Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-partner-hon-hai-sales-073743931.html"
-    },
-    {
-      "title": "3 Reasons to Buy Apple Stock on the Dip as CEO Tim Cook Steps Down",
-      "summary": "Apple is entering a new era, but it should remain a market-beater over the long run.",
-      "pub_date": "2026-08-04T23:08:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-buy-apple-stock-230800747.html"
-    },
-    {
-      "title": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
-      "summary": "The ChatGPT maker released emails and text messages it says expose factual errors in Apple's lawsuit and undercut claims that former Apple employees brought confidential information to the company.",
-      "pub_date": "2026-08-04T21:46:03Z",
-      "source": "decrypt",
-      "url": "https://finance.yahoo.com/technology/articles/openai-dumps-apple-employees-text-214603941.html"
     }
   ]
 }

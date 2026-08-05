@@ -1,7 +1,28 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-08-05T10:29:43.072913+00:00",
+  "generated_at": "2026-08-05T13:53:27.613900+00:00",
   "items": [
+    {
+      "title": "Morning Minute: Jim Cramer Sells His Bitcoin Over Quantum Fears",
+      "summary": "The last time he sold was in December 2022 with Bitcoin at $16,800. Will Jim's sales mark the bottom again?",
+      "pub_date": "2026-08-05T12:09:32Z",
+      "source": "decrypt",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/morning-minute-jim-cramer-sells-120932899.html"
+    },
+    {
+      "title": "History Says Software-as-a-Service (SaaS) Stocks Will Be the Ultimate AI Winners. 3 SaaS Stocks to Buy Now.",
+      "summary": "Palantir, Microsoft, and ServiceNow look like potential big AI SaaS winners.",
+      "pub_date": "2026-08-05T11:05:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/history-says-software-saas-stocks-110500257.html"
+    },
+    {
+      "title": "Circle Revenue Misses Estimates as Crypto Markets Mired in Rout",
+      "summary": "(Bloomberg) -- Circle Internet Group Inc. reported second-quarter revenue that missed Wall Street expectations after circulation of its stablecoin USDC fell from a peak amid a protracted slide in cryptocurrency markets. Most Read from BloombergTrump Says Iran Talks Going Well as Hopes Rise for Hormuz DealChina\u2019s AI Blitz Creates \u2018Death Zone\u2019 for Rival US Model MakersBeer Dynasty Families Sell \u20ac731 Million Stake in AB InBevTaco Bell Met With Michigan on Parasite Weeks Before RecallSpaceX\u2019s AI Spl",
+      "pub_date": "2026-08-05T10:10:53Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/circle-revenue-misses-estimates-crypto-101053142.html"
+    },
     {
       "title": "Jim Cramer To Sell Bitcoin After IBM Quantum Warning: Will Traders Fade Him?",
       "summary": "Jim Cramer says he will sell his Bitcoin after IBM's CEO warned quantum computers could crack crypto within four years.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-04T19:59:42Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/unusual-cash-offer-sitting-ibm-195942981.html"
-    },
-    {
-      "title": "The Hidden Turbulence Priced Into Accenture Stock",
-      "summary": "Beneath its blue-chip exterior, the market is pricing a remarkably wide range of outcomes for this consulting giant, and shareholders are carrying that full exposure.",
-      "pub_date": "2026-08-04T19:45:21Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/hidden-turbulence-priced-accenture-stock-194521008.html"
-    },
-    {
-      "title": "NetApp's Buyback Is Better Funded Than It Is Big",
-      "summary": "The margin behind its shareholder returns is earned in the stickiest corner of the business, but near the top of its one-year range it is the valuation, not the buyback, that you are underwriting.",
-      "pub_date": "2026-08-04T17:52:01Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netapps-buyback-better-funded-big-175201962.html"
-    },
-    {
-      "title": "Oracle's AI Build-Out Is Squeezing Gross Margin, Not Its Valuation",
-      "summary": "The earnings multiple has come all the way down to the market's, while the build-out behind the story keeps pushing gross margin lower.",
-      "pub_date": "2026-08-04T14:25:15Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oracles-ai-build-squeezing-gross-142515944.html"
     }
   ]
 }

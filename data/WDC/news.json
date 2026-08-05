@@ -1,7 +1,14 @@
 {
   "ticker": "WDC",
-  "generated_at": "2026-08-05T10:30:17.863570+00:00",
+  "generated_at": "2026-08-05T13:54:03.013593+00:00",
   "items": [
+    {
+      "title": "Dow Jones and S&P 500 set to notch new highs despite AMD and SpaceX falls",
+      "summary": "8.30am: ADP jobs softens US private-sector hiring slowed to 44,000 jobs in July from 98,000 in June, missing the 65,000 forecast and pointing to cooling labour demand. The softer reading could give the Federal Reserve more scope to cut rates, weighing on Treasury yields and the dollar...",
+      "pub_date": "2026-08-05T12:10:00Z",
+      "source": "Proactive",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-jones-p-500-set-121600314.html"
+    },
     {
       "title": "Jobs Report, Berkshire Earnings: What to Watch the Rest of the Week",
       "summary": "Today  Federal Reserve speakers: Fed governor Lisa Cook   Economic data: the Energy Information Administration\u2019s weekly petroleum status report, U.S. services PMI, global services PMI, ADP employment survey   Earnings (a.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-04T15:42:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-silicon-motion-fell-21-154200683.html"
-    },
-    {
-      "title": "Can AI Storage Demand Make SIMO a Long-Term Enterprise Winner?",
-      "summary": "SIMO is expanding into AI infrastructure and enterprise SSD controllers as commercial production ramps and new customer deployments broaden its growth opportunities.",
-      "pub_date": "2026-08-04T15:39:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-storage-demand-simo-long-153900137.html"
     }
   ]
 }

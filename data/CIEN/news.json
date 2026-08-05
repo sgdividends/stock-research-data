@@ -1,7 +1,21 @@
 {
   "ticker": "CIEN",
-  "generated_at": "2026-08-05T10:29:22.847357+00:00",
+  "generated_at": "2026-08-05T13:53:07.134862+00:00",
   "items": [
+    {
+      "title": "Ciena (CIEN) Is Up 17.3% After Quantum-Safe 1.6 Tb/s Networking Trial Success \u2013 Has The Bull Case Changed?",
+      "summary": "In early August 2026, Quantum Corridor Inc. reported a successful trial of high-speed quantum-safe networking on its live Midwest commercial network, using Ciena\u2019s WaveLogic 6 Extreme 1.6 Tb/s quantum-safe encryption and Toshiba\u2019s quantum key distribution technology alongside existing WaveLogic 5 Extreme 800G traffic. The trial highlights how Ciena\u2019s hybrid approach combining post-quantum cryptography with quantum key distribution can help operators secure current high-capacity networks...",
+      "pub_date": "2026-08-05T13:11:21Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ciena-cien-17-3-quantum-131121962.html"
+    },
+    {
+      "title": "Ciena (CIEN) Completes Quantum Safe Networking Trial With Toshiba And Quantum Corridor",
+      "summary": "Ciena (NYSE:CIEN) completed a trial of quantum-safe networking with Quantum Corridor Inc. and Toshiba International Corporation. The test combined Ciena's WaveLogic 6 Extreme platform with Toshiba's quantum key distribution encryption technology. The trial focused on providing quantum-safe data protection for enterprises and service providers facing rising cybersecurity risks. Ciena is best known for its optical networking and routing solutions that sit at the core of telecom and cloud...",
+      "pub_date": "2026-08-05T12:13:32Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/articles/ciena-cien-completes-quantum-safe-121332985.html"
+    },
     {
       "title": "Lumentum, Coherent Leads Networking Stocks Rally as Trump Considers Chinese Hardware Ban",
       "summary": "Lumentum, Coherent Leads Networking Stocks Rally as Trump Considers Chinese Hardware Ban",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-03T08:40:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ciena-boston-beer-highlighted-zacks-084000097.html"
-    },
-    {
-      "title": "Bull of the Day: Ciena (CIEN)",
-      "summary": "As hyperscalers scale out distributed AI factories, high-speed optical networking infrastructure becomes a vital link that prevents high-cost GPU clusters from going idle.",
-      "pub_date": "2026-08-03T08:00:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bull-day-ciena-cien-080000418.html"
-    },
-    {
-      "title": "The Calm Surface Of Arista Networks Stock Hides A Turbulent Forecast",
-      "summary": "If you hold shares in this AI networking leader, the options market says you're already signed up for a remarkably wide range of outcomes over the next year.",
-      "pub_date": "2026-08-01T15:37:40Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/calm-surface-arista-networks-stock-153740659.html"
     }
   ]
 }
