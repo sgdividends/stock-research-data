@@ -1,7 +1,14 @@
 {
   "ticker": "MCHP",
-  "generated_at": "2026-08-05T13:53:35.526499+00:00",
+  "generated_at": "2026-08-05T17:24:35.590687+00:00",
   "items": [
+    {
+      "title": "Price Prediction: ON Semiconductor Stock Looks Ready for Its Next Move",
+      "summary": "ON Semiconductor has pulled back sharply while its AI data center business accelerates toward a potential doubling, so the real question is whether the selloff created an opportunity or a warning sign worth heeding.",
+      "pub_date": "2026-08-05T15:30:13Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/price-prediction-semiconductor-stock-looks-153013498.html"
+    },
     {
       "title": "Micron (MU) Teams Up With Liqid And Microchip On AI Memory And Storage",
       "summary": "Micron Technology and Liqid are working together on a memory centric AI platform for the U.S. Department of Energy\u2019s Pacific Northwest National Laboratory. Micron Technology is supplying memory to support a large shared pool tailored for scientific and AI workloads. Micron Technology and Microchip Technology have shown a next generation PCIe Gen 6 storage architecture for high performance data center use. Micron Technology, traded as NasdaqGS:MU, is adding new real world projects to its AI...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-30T14:00:33Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/microchip-technology-mchp-earnings-expected-140033565.html"
-    },
-    {
-      "title": "Microchip's Hailo Buyout Strengthens Edge AI Ambitions: What's Ahead?",
-      "summary": "MCHP's Hailo acquisition expands its edge AI portfolio across robotics, vision and embedded systems while boosting software reach and growth prospects.",
-      "pub_date": "2026-07-28T16:52:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/microchips-hailo-buyout-strengthens-edge-165200336.html"
     }
   ]
 }

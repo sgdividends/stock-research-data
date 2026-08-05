@@ -1,7 +1,14 @@
 {
   "ticker": "GPN",
-  "generated_at": "2026-08-05T13:53:24.163793+00:00",
+  "generated_at": "2026-08-05T17:24:22.085247+00:00",
   "items": [
+    {
+      "title": "Circle Taps Visa, Mastercard and BlackRock as Validators for September Arc Launch",
+      "summary": "Circle's USDC distribution deal with Coinbase has been renewed on existing terms, and Arc's testnet has processed half a billion transactions.",
+      "pub_date": "2026-08-05T15:38:09Z",
+      "source": "decrypt",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/circle-taps-visa-mastercard-blackrock-153809360.html"
+    },
     {
       "title": "Stocks Rise Pre-Bell Amid Growing Hopes for Hormuz Deal; Traders Await More Corporate Earnings",
       "summary": "The benchmark US stock measures were trending higher in Wednesday's premarket activity amid growing",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-29T14:00:25Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/global-payments-gpn-reports-next-140025218.html"
-    },
-    {
-      "title": "How ISO consolidation persists",
-      "summary": "Global Payments and other processors have been gobbling up smaller firms for years, but payments professionals keep forming new ones.",
-      "pub_date": "2026-07-28T10:36:00Z",
-      "source": "Payments Dive",
-      "url": "https://finance.yahoo.com/small-business/articles/iso-consolidation-persists-103600908.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "EIX",
-  "generated_at": "2026-08-05T13:53:16.458896+00:00",
+  "generated_at": "2026-08-05T17:24:13.169931+00:00",
   "items": [
+    {
+      "title": "Spire's Q3 Loss Wider Than Estimates, Revenues Decrease Y/Y",
+      "summary": "SR posts a wider fiscal Q3 loss as higher operating and interest expenses offset utility gains, while revenues decline year over year.",
+      "pub_date": "2026-08-05T16:06:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spires-q3-loss-wider-estimates-160600709.html"
+    },
     {
       "title": "PEG Q2 Earnings Outpace Expectations, Revenues Decrease Y/Y",
       "summary": "PSEG beats Q2 earnings estimates as utility investments, higher realized prices and nuclear generation support results despite lower revenues.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-02T12:09:37Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/edison-international-eix-stock-still-120937546.html"
-    },
-    {
-      "title": "S&P 500 Posts Weekly Gain Amid AI Monetization Optimism",
-      "summary": "The Standard & Poor's 500 index rose 1.1% this week as hyperscalers showed the mega spend on the art",
-      "pub_date": "2026-07-31T20:45:14Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-gain-204514158.html"
     }
   ]
 }

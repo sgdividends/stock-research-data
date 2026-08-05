@@ -1,6 +1,6 @@
 {
   "ticker": "ON",
-  "generated_at": "2026-08-05T13:53:42.982248+00:00",
+  "generated_at": "2026-08-05T17:24:44.019813+00:00",
   "items": [
     {
       "title": "Earnings live updates: Eli Lilly stock pops on upbeat guidance, Uber stock slides",
@@ -8,6 +8,20 @@
       "pub_date": "2026-08-03T13:04:25Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-130425228.html"
+    },
+    {
+      "title": "ON Semiconductor Corp. (ON) Moves to Buy: Rationale Behind the Upgrade",
+      "summary": "ON Semiconductor Corp. (ON) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #2 (Buy).",
+      "pub_date": "2026-08-05T16:00:03Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-corp-moves-buy-rationale-160003063.html"
+    },
+    {
+      "title": "Price Prediction: ON Semiconductor Stock Looks Ready for Its Next Move",
+      "summary": "ON Semiconductor has pulled back sharply while its AI data center business accelerates toward a potential doubling, so the real question is whether the selloff created an opportunity or a warning sign worth heeding.",
+      "pub_date": "2026-08-05T15:30:13Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/price-prediction-semiconductor-stock-looks-153013498.html"
     },
     {
       "title": "ON Semiconductor stock jumps -- Analysts see a bigger AI opportunity ahead",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-04T15:12:13Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/strong-q2-results-ai-momentum-151213158.html"
-    },
-    {
-      "title": "ON Q2 Earnings Call Signals AI-Led Demand and Margin Lift",
-      "summary": "ON raises its 2026 AI data center outlook to more than double last year as tighter supply and higher factory utilization support Q3 revenue and margin growth.",
-      "pub_date": "2026-08-04T14:00:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/q2-earnings-call-signals-ai-140000671.html"
-    },
-    {
-      "title": "ON Semiconductor Q2 2026 earnings beat on AI data center growth",
-      "summary": "The chipmaker beat analyst estimates on both profit and revenue, and now expects its AI data center business to more than double in 2026",
-      "pub_date": "2026-08-04T12:15:19Z",
-      "source": "Quartz",
-      "url": "https://finance.yahoo.com/technology/ai/articles/semiconductor-q2-2026-earnings-beat-121519010.html"
     }
   ]
 }

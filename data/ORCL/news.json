@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-08-05T13:53:43.162158+00:00",
+  "generated_at": "2026-08-05T17:24:44.176384+00:00",
   "items": [
     {
       "title": "Tech stocks today: SpaceX, AMD top quarterly results, but fail to impress Wall Street. Shares sink",
@@ -8,6 +8,27 @@
       "pub_date": "2026-08-03T14:04:19Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-amd-top-quarterly-results-but-fail-to-impress-wall-street-shares-sink-140419479.html"
+    },
+    {
+      "title": "Larry Ellison Just Collected a $579 Million Dividend Check. Here\u2019s What $100,000 of Oracle Stock Would Pay You.",
+      "summary": "Oracle's latest dividend payment landed very differently depending on who was collecting it. The gap between the company's biggest shareholder and a serious retail investor reveals something striking about how wealth actually compounds at scale.",
+      "pub_date": "2026-08-05T16:33:26Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/larry-ellison-just-collected-579-163326607.html"
+    },
+    {
+      "title": "SpaceX Has Already Lost AI Race",
+      "summary": "SpaceX is pouring billions into AI while renting out its data centers to rivals, yet its models trail the competition and its consumer apps barely register. Something does not add up.",
+      "pub_date": "2026-08-05T14:53:54Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/spacex-already-lost-ai-race-145354737.html"
+    },
+    {
+      "title": "Microsoft Azure Fiscal 2026 Sales Exceed $100B: Hold the Stock Now?",
+      "summary": "MSFT's Azure tops $100B in annual revenues as AI and cloud growth accelerate, but can strong fundamentals outweigh valuation and spending concerns?",
+      "pub_date": "2026-08-05T14:30:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-azure-fiscal-2026-sales-143000852.html"
     },
     {
       "title": "Oracle Stock Tumbles as Debt Risk Just Hit a Record High",
@@ -31,32 +52,11 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-exits-msft-closes-085519882.html"
     },
     {
-      "title": "AMD's problem is not demand. It is where the demand comes from",
-      "summary": "Advanced Micro Devices Inc (NASDAQ:AMD, XETRA:AMD) delivered close to the quarter the bulls wanted, and the shares fell almost 9% anyway. Revenue of $11.5 billion was up 50% year on year and ahead of the $11.28 billion consensus, while adjusted earnings of $1.66 a share beat forecasts of...",
-      "pub_date": "2026-08-05T06:50:00Z",
-      "source": "Proactive",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amds-problem-not-demand-where-065000386.html"
-    },
-    {
-      "title": "Think Tech Is Spending Too Much? There\u2019s Trillions More to Come.",
-      "summary": "Tech investors hoping that a wave of AI spending will moderate in 2027 are likely to be disappointed.",
-      "pub_date": "2026-08-05T06:00:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/tech-stocks-ai-spending-capex-554475b7?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "The Hackett Group Q2 Earnings Call Highlights",
-      "summary": "The Hackett Group (NASDAQ:HCKT) reported second-quarter 2026 revenue before reimbursements of $68.3 million and adjusted diluted earnings per share of $0.34, as the consulting firm continued its transition toward an AI-enabled, platform-led sales and delivery model. Revenue before reimbursements in",
-      "pub_date": "2026-08-05T00:04:25Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hackett-group-q2-earnings-call-000425698.html"
-    },
-    {
-      "title": "Oracle (ORCL) Outpaces Stock Market Gains: What You Should Know",
-      "summary": "In the closing of the recent trading day, Oracle (ORCL) stood at $145.74, denoting a +2.74% move from the preceding trading day.",
-      "pub_date": "2026-08-04T21:45:03Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-outpaces-stock-market-214503464.html"
+      "title": "Do Wall Street Analysts Like Oracle Stock?",
+      "summary": "Oracle's disappointing stock performance over the past year has done little to dampen Wall Street's optimism, with analysts remaining firmly bullish on its outlook.",
+      "pub_date": "2026-08-05T08:53:48Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-oracle-stock-085348097.html"
     }
   ]
 }

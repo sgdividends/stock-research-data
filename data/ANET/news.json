@@ -1,13 +1,55 @@
 {
   "ticker": "ANET",
-  "generated_at": "2026-08-05T13:52:58.280785+00:00",
+  "generated_at": "2026-08-05T17:23:54.118816+00:00",
   "items": [
     {
-      "title": "Stock Market Today: Dow Rises After Surprise Jobs Data; AMD, SpaceX Plunge On Earnings (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index rises Wednesday after surprise jobs data. AMD stock and SpaceX plunge on earnings.",
-      "pub_date": "2026-08-05T13:00:30Z",
+      "title": "The companies defying macro uncertainty and raising guidance: AlphaCheck",
+      "summary": "Investors have plenty of reasons to be uncertain right now. But that has not wholly shaken companies' faith in their ability to deliver strong earnings growth this year.",
+      "pub_date": "2026-08-05T14:06:05Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/the-companies-defying-macro-uncertainty-and-raising-guidance-alphacheck-140605238.html"
+    },
+    {
+      "title": "Why Arista Networks Stock Rallied Today",
+      "summary": "The company defied the popular narrative of an AI-related spending slowdown.",
+      "pub_date": "2026-08-05T17:00:28Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-arista-networks-stock-rallied-170028444.html"
+    },
+    {
+      "title": "Stock Market Today: Dow Charges Higher In Mixed Trade; Disney Clears Key Level (Live Coverage)",
+      "summary": "Stock Market Today: The Dow Jones index rises Wednesday on further optimism about the Strait of Hormuz reopening. AMD stock and SpaceX fall.",
+      "pub_date": "2026-08-05T16:02:56Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-data-amd-stock-spacex-earnings/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "SpaceX, Nvidia, Micron, AMD, Uber, CVS, Lilly, and More Stocks That Explain Today\u2019s Market",
+      "summary": "SpaceX stock sinks after earnings. AMD drops after Elon Musk says his AI and space company will exclusively use Nvidia chips.",
+      "pub_date": "2026-08-05T16:02:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stock-movers-c5965517?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Arista Q2 Earnings Surpass Estimates on Solid Revenue Growth",
+      "summary": "ANET tops Q2 estimates as AI, cloud and enterprise networking demand fuel 37.7% revenue growth, with Q3 revenues projected at about $3.3 billion.",
+      "pub_date": "2026-08-05T14:03:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-q2-earnings-surpass-estimates-140300743.html"
+    },
+    {
+      "title": "ANET Q2 Earnings Call Centers on Supply Gains and 2026 Raise",
+      "summary": "Arista lifts its 2026 revenue outlook to $12.6B for a third time as supply gains unlock shipments across AI, data center, campus and routing.",
+      "pub_date": "2026-08-05T14:00:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anet-q2-earnings-call-centers-140000921.html"
+    },
+    {
+      "title": "Arista Networks Stock Surges as Earnings Prove AI Demand Is Real",
+      "summary": "Arista Networks  stock soared Wednesday after the network infrastructure company reported better-than-expected second-quarter earnings.  The results, late Tuesday, provided further evidence that demand for artificial-intelligence services is accelerating, with hardware suppliers like Arista among the main beneficiaries.  Arista reported adjusted earnings of $1.02 a share for the second quarter, up from 73 cents last year and above analysts\u2019 call for 89 cents, according to FactSet.",
+      "pub_date": "2026-08-05T13:56:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/arista-networks-earnings-stock-price-e421b3c3?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Arista Networks Just Delivered Its First $3 Billion Quarter. Here's What It Means for the AI Networking Trade.",
@@ -15,48 +57,6 @@
       "pub_date": "2026-08-05T12:34:53Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-just-delivered-first-123453558.html"
-    },
-    {
-      "title": "Dow Jones Futures Rise; SpaceX, AMD Dive As Arista, Eli Lilly Jump With S&P 500 At Highs",
-      "summary": "The Dow and S&P 500 hit new highs while the Nasdaq powered up again. SpaceX, AMD and Arista led earnings movers late.",
-      "pub_date": "2026-08-05T12:18:42Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-spacex-amd-arista-eli-lily-earnings/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "SpaceX, Nvidia, AMD, Eli Lilly, Uber, CVS, Disney, and More Stocks That Explain Today\u2019s Market",
-      "summary": "FEATURE  Stock futures rose Wednesday and both the and the were poised to again set record highs.   SpaceX dropped 11% after Elon Musk\u2019s rockets, telecom, and artificial-intelligence company beat analysts\u2019 second-quarter earnings targets but reported higher capital expenditure than Wall Street was expecting.",
-      "pub_date": "2026-08-05T12:18:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-c5965517?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Stocks Rise Pre-Bell Amid Growing Hopes for Hormuz Deal; Traders Await More Corporate Earnings",
-      "summary": "The benchmark US stock measures were trending higher in Wednesday's premarket activity amid growing",
-      "pub_date": "2026-08-05T12:15:58Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-pre-bell-amid-121558765.html"
-    },
-    {
-      "title": "Arista Earnings Beat. Cloud Networking Leader Hikes 2026 Sales Guidance.",
-      "summary": "Arista stock jumped as Q2 earnings and revenue handily beat estimates amid strong demand for AI cloud computing networking gear.",
-      "pub_date": "2026-08-05T11:30:46Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/arista-stock-anet-arista-earnings-q22026/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Persian Gulf Outlook, Tech Strength Hoist Wall Street Pre-Bell; Asia Up, Europe Flat",
-      "summary": "Wall Street futures pointed moderately higher pre-bell Wednesday on media reports of possible 60-day",
-      "pub_date": "2026-08-05T11:08:05Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/articles/persian-gulf-outlook-tech-strength-110805752.html"
-    },
-    {
-      "title": "Arista Networks Stock Surges as Earnings Prove AI Demand Is Real",
-      "summary": "Arista Networks  stock soared ahead of the open Wednesday after the network infrastructure company reported better-than-expected second-quarter earnings.  The results, late Tuesday, provided further evidence that demand for artificial-intelligence services is accelerating, with hardware suppliers like Arista among the main beneficiaries.  Arista reported adjusted earnings of $1.02 a share for the second quarter, up from 73 cents last year and above analysts\u2019 call for 89 cents, per FactSet.",
-      "pub_date": "2026-08-05T11:00:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/arista-networks-earnings-stock-price-e421b3c3?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

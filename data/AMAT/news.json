@@ -1,7 +1,49 @@
 {
   "ticker": "AMAT",
-  "generated_at": "2026-08-05T13:52:57.237099+00:00",
+  "generated_at": "2026-08-05T17:23:52.797257+00:00",
   "items": [
+    {
+      "title": "Michael Burry Sends Stark Warning on S&P 500 Crash",
+      "summary": "Michael Burry sounds the alarm on a 1987-style selloff despite fresh market highs",
+      "pub_date": "2026-08-05T17:19:31Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-sends-stark-warning-171931417.html"
+    },
+    {
+      "title": "Applied Materials (AMAT) Stock Faces Fresh Scrutiny After Michael Burry Short Bet",
+      "summary": "Michael Burry has warned of a potential stock market crash similar to 1987. He is reportedly shorting several large stocks, including Applied Materials (NasdaqGS:AMAT). The short positions highlight increased bearish sentiment toward major chip related companies. Applied Materials focuses on equipment, services, and software used in semiconductor manufacturing, putting the company at the center of chip industry spending. Investor attention on NasdaqGS:AMAT is already high given the...",
+      "pub_date": "2026-08-05T17:12:22Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-amat-stock-faces-171222760.html"
+    },
+    {
+      "title": "Michael Burry Drops Shocking Take on AI Stocks",
+      "summary": "Calm markets may be encouraging investors to take greater risks",
+      "pub_date": "2026-08-05T16:57:52Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-drops-shocking-ai-165752178.html"
+    },
+    {
+      "title": "APPS Tops Q1 Earnings & Revenue Estimates, Raises Fiscal 2027 Guidance",
+      "summary": "Digital Turbine tops Q1 fiscal 2027 earnings and revenue estimates, posts strong App Growth Platform gains and raises full-year revenue and EBITDA guidance.",
+      "pub_date": "2026-08-05T15:28:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apps-tops-q1-earnings-revenue-152800507.html"
+    },
+    {
+      "title": "Paylocity Q4 Earnings Beat Estimates, Revenues Increase Y/Y",
+      "summary": "PCTY tops fiscal Q4 earnings and revenue estimates as recurring revenues grow 12.4% year over year. See what fuels results and its fiscal 2027 outlook.",
+      "pub_date": "2026-08-05T14:33:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/paylocity-q4-earnings-beat-estimates-143300243.html"
+    },
+    {
+      "title": "Wall Street Analysts See Applied Materials (AMAT) as a Buy: Should You Invest?",
+      "summary": "Based on the average brokerage recommendation (ABR), Applied Materials (AMAT) should be added to one's portfolio. Wall Street analysts' overly optimistic recommendations cast doubt on the effectiveness of this highly sought-after metric. So, is the stock worth buying?",
+      "pub_date": "2026-08-05T13:30:03Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-see-applied-133003954.html"
+    },
     {
       "title": "Michael Burry warns of 1987-style crash, holds Nvidia shorts",
       "summary": "The \"Big Short\" investor said all his short positions remain profitable except his bet against Nvidia stock",
@@ -15,48 +57,6 @@
       "pub_date": "2026-08-05T11:10:01Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/possible-1987-type-fall-why-111001054.html"
-    },
-    {
-      "title": "Morning Bid: Semis fly again as AI capex shoots the moon",
-      "summary": "August 5 (Reuters) - A look at the day ahead in European and global markets from Wayne Cole.",
-      "pub_date": "2026-08-05T04:34:45Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morning-bid-semis-fly-again-043445622.html"
-    },
-    {
-      "title": "Chatham Lodging Trust Q2 2026 Earnings Call Summary",
-      "summary": "Moby summary of Chatham Lodging Trust's Q2 2026 earnings call",
-      "pub_date": "2026-08-04T21:14:05Z",
-      "source": "Moby",
-      "url": "https://finance.yahoo.com/real-estate/articles/chatham-lodging-trust-q2-2026-211405440.html"
-    },
-    {
-      "title": "Lam Research Plunges 16% in a Month: Should You Still Buy the Stock?",
-      "summary": "LRCX's 16% monthly fall contrasts with record revenues, strong AI equipment demand and rising earnings, strengthening the case for buying the stock.",
-      "pub_date": "2026-08-04T16:08:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-plunges-16-month-160800344.html"
-    },
-    {
-      "title": "Goldman Sachs Just Added Microsoft to Its Closely Watched \u2018Conviction List.\u2019 Broadcom and ServiceNow Were Removed.",
-      "summary": "Goldman Sachs just handed Microsoft its most coveted endorsement while cutting three other tech giants loose, and the reasoning behind that trade reveals exactly where Wall Street thinks the AI money flows next.",
-      "pub_date": "2026-08-04T15:34:04Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-just-added-microsoft-153404846.html"
-    },
-    {
-      "title": "ASE Technology Surges 82% in 6 Months: Buy, Sell or Hold the Stock?",
-      "summary": "ASX surges 82% in six months as strong AI packaging demand, rising LEAP sales and expanding margins support its growth outlook.",
-      "pub_date": "2026-08-04T14:38:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ase-technology-surges-82-6-143800073.html"
-    },
-    {
-      "title": "BofA\u2019s $1.18T cloud forecast puts 3 chip stocks in focus",
-      "summary": "Applied Materials (AMAT), Lam Research (LRCX), and KLA (KLAC) sell machines used to manufacture and inspect processors and memory chips. Cloud providers purchase finished processors and memory for artificial intelligence data centers. Chip manufacturers may need more factory equipment when server ...",
-      "pub_date": "2026-08-04T13:03:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/ai/articles/bofa-1-18t-cloud-forecast-130300715.html"
     }
   ]
 }

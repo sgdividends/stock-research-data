@@ -1,7 +1,14 @@
 {
   "ticker": "IT",
-  "generated_at": "2026-08-05T13:53:29.415261+00:00",
+  "generated_at": "2026-08-05T17:24:27.501319+00:00",
   "items": [
+    {
+      "title": "Gartner Beat Q2 Estimates Amid Sequentially Improved Selling Environment, Morgan Stanley Says",
+      "summary": "Gartner (IT) beat across the board in Q2, while the selling environment improved sequentially, with",
+      "pub_date": "2026-08-05T15:43:20Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/technology/ai/articles/gartner-beat-q2-estimates-amid-154320151.html"
+    },
     {
       "title": "Gartner (IT) Says Quantum Will Sit Out Enterprise AI Through 2028",
       "summary": "Gartner forecasts that enterprise AI workloads at scale will not use quantum hardware through at least 2028. The company expects quantum AI to remain focused on research and development while classical accelerated AI continues to lead in production workloads. This guidance frames how large enterprises may plan AI and quantum computing budgets over the next several years. Gartner, traded as NYSE:IT, is highlighting a clear separation between research activity in quantum AI and what is likely...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-04T17:24:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/gartner-q2-earnings-beat-estimates-172400389.html"
-    },
-    {
-      "title": "Why Gartner Inc. Stock Is Soaring Today",
-      "summary": "Sales came in lower than expected. Analysts don't seem to care at all.",
-      "pub_date": "2026-08-04T16:24:25Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-gartner-inc-stock-soaring-162425528.html"
     }
   ]
 }
