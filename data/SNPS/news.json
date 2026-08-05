@@ -1,5 +1,62 @@
 {
   "ticker": "SNPS",
-  "generated_at": "2026-08-05T06:23:16.150696+00:00",
-  "items": []
+  "generated_at": "2026-08-05T10:30:06.541181+00:00",
+  "items": [
+    {
+      "title": "Nvidia (NVDA) Uses Own Chips for Design, While AMD (AMD) Relies on Rivals",
+      "summary": "Nvidia (NASDAQ:NVDA) just closed a loop that sounds almost recursive. On July 26, the company said its Vera CPU is now being used inside the electronic design automation workflows that will produce Nvidia\u2019s own next-generation CPUs and GPUs, with early testing on Cadence and Synopsys tools showing up to 1.5x faster verification and simulation performance. [\u2026]",
+      "pub_date": "2026-08-03T16:54:45Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-uses-own-chips-165445053.html"
+    },
+    {
+      "title": "Why ADSK Stock Hands You So Much Cash Right Now",
+      "summary": "The market is offering a hefty cash payout to own this software leader, but it comes with a story of major change and major risk.",
+      "pub_date": "2026-08-01T16:22:53Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-adsk-stock-hands-much-162253889.html"
+    },
+    {
+      "title": "The Quiet Surface of Synopsys Stock Hides a Turbulent Forecast",
+      "summary": "If you hold Synopsys shares, the market is pricing a potential fifty percent swing over the next year, a two-sided risk you carry whether or not you ever touch an option.",
+      "pub_date": "2026-07-31T13:26:51Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/quiet-surface-synopsys-stock-hides-132651803.html"
+    },
+    {
+      "title": "Intel (INTC) Just Expanded Its Foundry Tool Kit For AI Chip Customers",
+      "summary": "Synopsys and Keysight Technologies have certified advanced EDA and electromagnetic simulation tools for Intel's latest 14A and 18A P foundry nodes. The certification expands Intel Foundry's design ecosystem for AI and high performance computing customers using these advanced manufacturing processes. The new tool support is intended to help reduce design risk and shorten time to market for chips built on NasdaqGS:INTC process technology. Intel is working to position its foundry business as a...",
+      "pub_date": "2026-07-30T22:11:01Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-just-expanded-foundry-221101344.html"
+    },
+    {
+      "title": "Prediction: Synopsys Could Become the Next $150 Billion Software Giant",
+      "summary": "Synopsys has cratered over 40% in the past year while its underlying business just posted 42% revenue growth, and that contradiction is exactly where a generational buying opportunity tends to hide.",
+      "pub_date": "2026-07-30T16:00:11Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-synopsys-could-become-next-160011404.html"
+    },
+    {
+      "title": "Here's Why Synopsys (SNPS) Fell More Than Broader Market",
+      "summary": "Synopsys (SNPS) closed the most recent trading day at $373.65, moving 2.65% from the previous trading session.",
+      "pub_date": "2026-07-29T21:45:05Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-synopsys-snps-fell-214505743.html"
+    },
+    {
+      "title": "Agentic AI Is Coming to Chip Design. Here Is Why Synopsys Stock Could Be the Biggest Beneficiary.",
+      "summary": "Synopsys partners with Nvidia on agentic AI after partnering with Intel last week.",
+      "pub_date": "2026-07-29T19:28:30Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/technology/ai/articles/agentic-ai-coming-chip-design-192830292.html"
+    },
+    {
+      "title": "Synopsys Doubles Down on AI Chip Design With Microsoft and AMD. How to Play SNPS Stock Here.",
+      "summary": "Synopsys unveiled autonomous AI chip design workflows with Microsoft and AMD while analysts continue to see substantial upside despite the stock's recent decline.",
+      "pub_date": "2026-07-29T18:36:37Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/technology/ai/articles/synopsys-doubles-down-ai-chip-183637901.html"
+    }
+  ]
 }

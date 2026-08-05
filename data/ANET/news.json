@@ -1,7 +1,14 @@
 {
   "ticker": "ANET",
-  "generated_at": "2026-08-05T06:22:25.769127+00:00",
+  "generated_at": "2026-08-05T10:29:14.427409+00:00",
   "items": [
+    {
+      "title": "Stocks to Watch: SpaceX, AMD, Disney",
+      "summary": "\u2198\ufe0f Space Exploration Technologies (SPCX): Elon Musk\u2019s space company said its capital expenditures hit $18.4 billion in its most recent quarter. Shares fell 9% in premarket trading. \u2198\ufe0f Advanced Micro Devices (AMD): The chip maker's stock tumbled premarket following Musk's comments that SpaceX would no longer buy AMD chips.",
+      "pub_date": "2026-08-05T09:17:59Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-05-2026/card/stocks-to-watch-spacex-amd-disney-w3GBHAZkVcr5PMkm8tTD?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Arista Networks Inc (ANET) (Q2 2026) Earnings Call Highlights: Record $3 Billion Quarter and ...",
       "summary": "Arista Networks Inc (ANET) delivers a stellar Q2 with revenue up 37.7% year-over-year, driven by robust AI fabric adoption and international growth, while navigating supply chain headwinds.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-04T21:03:00Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/technology/arista-stock-anet-arista-earnings-q22026/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Arista Networks Stock Surges as Earnings Prove AI Demand Is Real",
-      "summary": "Arista Networks  stock soared Tuesday after the network infrastructure company reported better-than-expected second-quarter earnings.  The results provided further evidence that demand for artificial-intelligence services is accelerating, with hardware suppliers like Arista among the main beneficiaries.  Arista reported adjusted earnings of $1.02 a share for the second quarter, up from 73 cents last year and above analysts\u2019 call for 89 cents, per FactSet.",
-      "pub_date": "2026-08-04T20:55:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/arista-networks-earnings-stock-price-e421b3c3?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

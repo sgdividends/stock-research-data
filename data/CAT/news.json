@@ -1,6 +1,6 @@
 {
   "ticker": "CAT",
-  "generated_at": "2026-08-05T06:22:31.940936+00:00",
+  "generated_at": "2026-08-05T10:29:20.758616+00:00",
   "items": [
     {
       "title": "Earnings live updates: SpaceX stock slides despite Starlink-driven revenue beat, Paramount stock slips",
@@ -8,6 +8,20 @@
       "pub_date": "2026-08-03T13:04:25Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-130425228.html"
+    },
+    {
+      "title": "S&P 500, Dow Build on Record Highs Amid AI and Iran Hope",
+      "summary": "Stocks were on track to break more records on Wednesday, as the AI trade and hopes of an Iran peace deal continued to power the broader market higher.  S&P 500 futures rose 0.3%.  Dow Jones Industrial Average futures added 130 points, or 0.2%.",
+      "pub_date": "2026-08-05T08:47:20Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-080526/card/s-p-500-dow-build-on-record-highs-amid-ai-and-iran-hope-0cEIdwfIGQW44wels53h?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Caterpillar Now Makes Almost as Much Selling Power as It Does Selling Construction Equipment",
+      "summary": "The power business now earns more profit than the famous yellow machines do.",
+      "pub_date": "2026-08-05T07:54:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-now-makes-almost-much-075400785.html"
     },
     {
       "title": "Dow Jones Futures Rise; SpaceX, AMD, Arista Lead Earnings Movers After S&P 500 Jumps To High",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-04T21:21:20Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-4-212120108.html"
-    },
-    {
-      "title": "Update: S&P 500, Dow Scale New Peaks Amid Strong Earnings Flow, Strait of Hormuz Reopening Optimism",
-      "summary": "(Updates with index/price moves and macroeconomic data from the first paragraph.) US equity index",
-      "pub_date": "2026-08-04T21:18:08Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-scale-peaks-211808769.html"
-    },
-    {
-      "title": "Caterpillar Inc (CAT) (Q2 2026) Earnings Call Highlights: Record $20. ...",
-      "summary": "CAT delivers historic Q2 with 73% adjusted EPS growth, driven by surging data center demand and broad-based strength across all segments.",
-      "pub_date": "2026-08-04T21:04:38Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-inc-cat-q2-2026-210438046.html"
     }
   ]
 }

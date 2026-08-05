@@ -1,7 +1,21 @@
 {
   "ticker": "LITE",
-  "generated_at": "2026-08-05T06:22:59.231379+00:00",
+  "generated_at": "2026-08-05T10:29:48.588543+00:00",
   "items": [
+    {
+      "title": "New report warns China transceiver ban would hurt U.S. AI giants",
+      "summary": "Investing.com - Chinese optical module makers control roughly two-thirds of global transceiver supply, and no Western alternative can absorb that volume within the next one to two years, Counterpoint Research warned \u2014 a finding that casts doubt on whether a proposed U.S. import ban can be executed without damaging the AI infrastructure buildout it is meant to protect.",
+      "pub_date": "2026-08-05T09:39:46Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/report-warns-china-transceiver-ban-093946021.html"
+    },
+    {
+      "title": "US Ban on Chinese Optical Parts Hurts Hyperscalers, Report Says",
+      "summary": "(Bloomberg) -- A potential ban on the import of Chinese optical transceiver modules into the US would inflict collateral damage on US hyperscalers, exacerbating a supply bottleneck that no American firm can ease, research firm Counterpoint warned on Wednesday.Most Read from BloombergTrump Says Iran Talks Going Well as Hopes Rise for Hormuz DealTaco Bell Met With Michigan on Parasite Weeks Before RecallBeer Dynasty Families Sell \u20ac731 Million Stake in AB InBevChina\u2019s AI Blitz Creates \u2018Death Zone\u2019",
+      "pub_date": "2026-08-05T08:23:07Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/us-ban-chinese-optical-parts-082307752.html"
+    },
     {
       "title": "Lumentum, Coherent Leads Networking Stocks Rally as Trump Considers Chinese Hardware Ban",
       "summary": "Lumentum, Coherent Leads Networking Stocks Rally as Trump Considers Chinese Hardware Ban",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-04T12:26:52Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/coherent-stock-jumps-14-potential-122652666.html"
-    },
-    {
-      "title": "COHR, LITE, POET, AAOI, MRVL Stocks Gain On Trump\u2019s Reported China Ban On Data Center Import Parts",
-      "summary": "According to a Reuters report, the move could benefit Coherent and Lumentum by shifting demand toward U.S.-made optical transceivers.",
-      "pub_date": "2026-08-04T11:18:17Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cohr-lite-poet-aaoi-mrvl-111817663.html"
-    },
-    {
-      "title": "Corning Stock Sank 46% in July. Why Wall Street Says It Could Be a Buy Right Now.",
-      "summary": "Shares of  Corning  had a tough July but a Truist analyst team believes the stock now has a \u201cmore reasonable entry point.\u201d  Shares of the optical networking company gained 6.5% to $147.30 on Monday after ending Friday up 2.2%.  Corning and other optical networking names have become a major part of the artificial-intelligence trade.",
-      "pub_date": "2026-08-03T18:45:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/corning-stock-buy-upgrade-76fdef81?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

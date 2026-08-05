@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-08-05T06:22:54.394117+00:00",
+  "generated_at": "2026-08-05T10:29:43.795531+00:00",
   "items": [
     {
       "title": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-04T17:22:16Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/marvell-sandisk-sk-hynix-lead-semiconductor-stock-rally-as-sp-500-trades-at-record-highs-172216048.html"
+    },
+    {
+      "title": "AMD falls as investors seek bigger AI payoff",
+      "summary": "Advanced Micro Devices shares declined before the bell on Wednesday as the chipmaker's stronger-than-expected revenue forecast \u200cfell short of lofty expectations and investors sought clearer \u200csigns that a multibillion-dollar AI spending boom will translate into faster growth.  The move underscores elevated expectations facing AMD as it aims to challenge Nvidia's dominance amid intensifying competition with Intel racing to \u200cregain technology leadership after \u2060strong results.  \"We suspect expectations had moved higher following Intel's results a couple of weeks ago, and the \u2060buyside already has a fairly bullish outlook,\" said Stacy Rasgon, analyst at Bernstein.",
+      "pub_date": "2026-08-05T08:27:09Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-falls-as-investors-seek-bigger-ai-payoff-082709887.html"
     },
     {
       "title": "What Alphabet\u2019s Stock Drop Tells Us About the Market Today",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-04T19:53:22Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/intels-packaging-progress-points-google-195322309.html"
-    },
-    {
-      "title": "Why Nvidia Stock Still Trades at a Heavy Discount to Chip Rivals",
-      "summary": "Nvidia stock has lagged behind the PHLX Semiconductor Index, which is up 61% this year so far through Monday\u2019s close.",
-      "pub_date": "2026-08-04T18:05:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/nvidia-stock-price-discount-chip-946426eb?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
