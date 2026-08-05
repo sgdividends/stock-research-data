@@ -1,6 +1,6 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-08-05T01:56:45.387314+00:00",
+  "generated_at": "2026-08-05T06:22:27.365389+00:00",
   "items": [
     {
       "title": "Marvell, Sandisk, SK Hynix lead semiconductor stock rally as S&P 500 trades at record highs",
@@ -8,6 +8,20 @@
       "pub_date": "2026-08-04T17:22:16Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/marvell-sandisk-sk-hynix-lead-semiconductor-stock-rally-as-sp-500-trades-at-record-highs-172216048.html"
+    },
+    {
+      "title": "I\u2019m Buying Broadcom Because It Sucks Up The Hyperscaler AI Capex That Doesn\u2019t Go To Nvidia",
+      "summary": "Every dollar hyperscalers spend building alternatives to Nvidia has to go somewhere, and one company keeps collecting it across custom silicon, switch fabric, and AI networking without most investors noticing.",
+      "pub_date": "2026-08-05T04:19:26Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/m-buying-broadcom-because-sucks-041926438.html"
+    },
+    {
+      "title": "AMD Vs. Broadcom: Why Broadcom is Actually Nvidia\u2019s Biggest Problem",
+      "summary": "AMD just posted data center revenue that more than doubled, yet one rival may pose a far greater existential threat to Nvidia without ever competing directly for a single GPU sale.",
+      "pub_date": "2026-08-05T04:16:31Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-vs-broadcom-why-broadcom-041631995.html"
     },
     {
       "title": "Marvell Technology Stock Is On Sale, But Is It A Bargain?",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-04T17:46:20Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/technology/ai/articles/anthropics-google-chip-procurement-could-174620108.html"
-    },
-    {
-      "title": "Why Broadcom Stock Rallied Today",
-      "summary": "The semiconductor and networking specialist is gaining ground thanks to strong results from another major AI player.",
-      "pub_date": "2026-08-04T17:12:02Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-stock-rallied-today-171202528.html"
-    },
-    {
-      "title": "Intel Soars 10%, AMD Jumps 8%, Broadcom Rises 6% as Chip Stocks Ride a Risk-On Rally",
-      "summary": "Chip stocks are surging across the board, but the biggest winner today may be the one that fell 24% last month and still has no trailing earnings to justify the bounce. Here is what is actually driving the move.",
-      "pub_date": "2026-08-04T16:36:11Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-soars-10-amd-jumps-163611976.html"
     }
   ]
 }

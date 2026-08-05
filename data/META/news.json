@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "generated_at": "2026-08-05T01:57:29.803011+00:00",
+  "generated_at": "2026-08-05T06:23:01.968198+00:00",
   "items": [
     {
       "title": "Tech stocks today: SpaceX and AMD post quarterly results; investors weren't impressed.",
@@ -8,6 +8,20 @@
       "pub_date": "2026-08-03T14:04:19Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-and-amd-post-quarterly-results-investors-werent-impressed-140419479.html"
+    },
+    {
+      "title": "I\u2019m Buying Broadcom Because It Sucks Up The Hyperscaler AI Capex That Doesn\u2019t Go To Nvidia",
+      "summary": "Every dollar hyperscalers spend building alternatives to Nvidia has to go somewhere, and one company keeps collecting it across custom silicon, switch fabric, and AI networking without most investors noticing.",
+      "pub_date": "2026-08-05T04:19:26Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/m-buying-broadcom-because-sucks-041926438.html"
+    },
+    {
+      "title": "Chamath Palihapitiya Says AI May Have Entered a Recursive Self-Improvement Loop: 'The Next 18 Months Will Be Wild'",
+      "summary": "Venture capitalist Chamath Palihapitiya said artificial intelligence (AI) may have entered a self-improvement cycle that could accelerate AI capabilities rapidly, predicting breakthroughs and falling model costs over the next 18 months. Chamath Sees AI Feedback Loop On Sunday, Palihapitiya, founder...",
+      "pub_date": "2026-08-05T02:31:04Z",
+      "source": "Benzinga",
+      "url": "https://tech.yahoo.com/ai/articles/chamath-palihapitiya-says-ai-may-023104321.html"
     },
     {
       "title": "White House AI Guidelines Exempt U.S. Open Models From Government Review",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-04T20:08:31Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/toughest-questions-amzn-faced-latest-200831095.html"
-    },
-    {
-      "title": "Meta Ads introduces stablecoin payment options",
-      "summary": "Following the demise of its ill-fated Libra experiment, the company is offering third-party cryptocurrency options for creators and advertisers.",
-      "pub_date": "2026-08-04T19:32:25Z",
-      "source": "Social Media Today",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/meta-ads-introduces-stablecoin-payment-193225671.html"
-    },
-    {
-      "title": "Wall Street Short Sellers Piled Into Amazon and Microsoft at Historic Rates Before Earnings. Now They\u2019re Rallying.",
-      "summary": "Short sellers piled into Microsoft and Amazon at historically stretched levels before earnings, and the beats that followed set off a covering scramble that has powered both stocks for weeks. Now the question is whether the rally has legs or whether the easiest gains are already gone.",
-      "pub_date": "2026-08-04T19:14:03Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-short-sellers-piled-191403163.html"
     }
   ]
 }

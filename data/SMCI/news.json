@@ -1,6 +1,6 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-08-05T01:57:46.824243+00:00",
+  "generated_at": "2026-08-05T06:23:15.678939+00:00",
   "items": [
     {
       "title": "Analyst Makes Bold Dell Call Ahead of Earnings",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-04T20:10:11Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/articles/analyst-makes-bold-dell-call-201011330.html"
+    },
+    {
+      "title": "This Analyst Just Cut His Price Target on Dell Stock. Here's Why.",
+      "summary": "GF Securities has lowered its price target on Dell stock. Here\u2019s why analyst Evan Lee recommends unloading DELL shares at current levels.",
+      "pub_date": "2026-08-04T19:56:41Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-just-cut-price-target-195641225.html"
     },
     {
       "title": "Dell and Super Micro Rally 10%, Hewlett Packard Enterprise Climbs 6% as AI Server Stocks Surge",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-31T08:54:30Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-rise-085430130.html"
-    },
-    {
-      "title": "Palantir Holds the Edge Ahead of Earnings",
-      "summary": "Analysts favor Palantir ahead of earnings.",
-      "pub_date": "2026-07-30T20:03:21Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/palantir-holds-edge-ahead-earnings-200321010.html"
     }
   ]
 }

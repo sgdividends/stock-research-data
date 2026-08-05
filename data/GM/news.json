@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "generated_at": "2026-08-05T01:57:13.723152+00:00",
+  "generated_at": "2026-08-05T06:22:49.297733+00:00",
   "items": [
     {
       "title": "Toyota boosts guidance, announces $6 billion share buyback as fiscal Q1 results shine",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-03T17:04:31Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/article/toyota-boosts-guidance-announces-6-billion-share-buyback-as-fiscal-q1-results-shine-170431398.html"
+    },
+    {
+      "title": "General Motors says it's extending its China partnership for 20 years",
+      "summary": "GM has taken on considerable cost in recent years to reorganize its China business and facilitate new vehicle launches in the country.",
+      "pub_date": "2026-08-05T02:30:36Z",
+      "source": "Detroit Free Press",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/general-motors-says-extending-china-023036441.html"
     },
     {
       "title": "PHINIA Q2 Earnings Miss Estimates on Higher Employee Costs",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-04T12:28:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ford-stock-buy-q2-earnings-122800216.html"
-    },
-    {
-      "title": "Toyota plans $6.3bn buyback as weak yen boosts outlook",
-      "summary": "Toyota will launch a \u00a51tn ($6.3bn) share buyback as the world\u2019s biggest carmaker raised its annual outlook on the back of the weak yen and strong...",
-      "pub_date": "2026-08-04T06:17:26Z",
-      "source": "Financial Times",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/toyota-plans-6-3bn-buyback-061726397.html"
     }
   ]
 }
