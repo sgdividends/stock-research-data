@@ -1,6 +1,6 @@
 {
   "ticker": "F",
-  "generated_at": "2026-08-06T02:00:49.645681+00:00",
+  "generated_at": "2026-08-06T06:25:14.483939+00:00",
   "items": [
     {
       "title": "Blue Bird Q3 Earnings Call Highlights",
@@ -22,6 +22,13 @@
       "pub_date": "2026-08-05T15:57:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cvna-q2-earnings-meet-estimates-155700237.html"
+    },
+    {
+      "title": "Uber robotaxis set for London debut after getting minicab licences",
+      "summary": "Robotaxis are set to debut on the streets of London after Wayve was granted minicab licences by\u00a0Transport for London (TfL).  A number of autonomous pure electric Ford Mustang Mach-E vehicles were approved for private hire vehicle (PHV) licences by Transport for London (TfL), Wayve said on Wednesday.",
+      "pub_date": "2026-08-05T15:50:00Z",
+      "source": "Sky News",
+      "url": "https://finance.yahoo.com/news/uber-robotaxis-set-london-debut-155000871.html"
     },
     {
       "title": "LCID Q2 Earnings Miss on Inventory Charges, Revenues Beat Estimates",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-05T14:35:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/pivotal-q2-profits-show-stellantis-143500163.html"
-    },
-    {
-      "title": "Self-driving Ubers to be launched in London within weeks",
-      "summary": "Self-driving Ubers will be picking up passengers in London within weeks after Transport for London (TfL) awarded them a licence.",
-      "pub_date": "2026-08-05T12:57:55Z",
-      "source": "The Telegraph",
-      "url": "https://finance.yahoo.com/news/self-driving-ubers-pick-londoners-125755466.html"
     }
   ]
 }

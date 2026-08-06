@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "generated_at": "2026-08-06T02:01:07.050272+00:00",
+  "generated_at": "2026-08-06T06:25:30.075431+00:00",
   "items": [
     {
       "title": "Meta debuts Muse Spark 1.2  and first coding agent as it ramps up competition with OpenAI, Anthropic",
@@ -17,6 +17,34 @@
       "url": "https://finance.yahoo.com/video/ai-capex-fears-big-tech-100000522.html"
     },
     {
+      "title": "Meta\u2019s Superintelligence Labs Ships Its First Product \u2014 and the Contributor Tier Is the Real Strategy",
+      "summary": "The Product-Arm Ships Meta Superintelligence Labs has moved beyond research. On August 5, 2026, the unit Alexandr Wang built after Meta\u2019s ~$14.3 billion acquihire of Scale AI shipped its first commercial product: Muse Code, a terminal-based coding agent powered by the Muse Spark 1.2 model. The launch is less about the agent itself than about [\u2026]",
+      "pub_date": "2026-08-06T05:59:08Z",
+      "source": "Forkast News",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-superintelligence-labs-ships-first-055908514.html"
+    },
+    {
+      "title": "As AI spend continues to soar, when will investors start to be rewarded?",
+      "summary": "The main \u2018big tech\u2019 names recently reported quarterly financial results. We look at what is being signalled to investors.",
+      "pub_date": "2026-08-06T04:00:00Z",
+      "source": "Moneyweek",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-spend-continues-soar-investors-040000003.html"
+    },
+    {
+      "title": "News Q4 Earnings Call Highlights",
+      "summary": "News (NASDAQ:NWS) reported record fourth-quarter profitability for fiscal 2026, with revenue rising 11% year over year to $2.3 billion and total segment EBITDA increasing 31% to $423 million. Net income from continuing operations climbed 167% to $230 million, while reported earnings per share rose t",
+      "pub_date": "2026-08-06T03:03:58Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/media-advertising/articles/news-q4-earnings-call-highlights-030358375.html"
+    },
+    {
+      "title": "Meta Joins OpenAI and Anthropic in AI Cybersecurity Scare After Model Hacks Third Party: 'We Are Currently Investigating\u2026'",
+      "summary": "Meta Platforms, Inc. (NASDAQ:META) has joined OpenAI and Anthropic in facing fresh AI safety concerns after one of its models gained unintended internet access during cybersecurity testing and exploited a security vulnerability involving another company. Meta AI Model Exploits Security Flaw During Testing On Wednesday, Meta said that a configuration error by Irregular, an independent company that conducts cybersecurity evaluations for Meta, inadvertently gave one of its AI models access to the o",
+      "pub_date": "2026-08-06T02:10:55Z",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-joins-openai-anthropic-ai-021055968.html"
+    },
+    {
       "title": "Elon Musk\u2019s Controversial X Staffer Steps Back After Nearly 30 Products",
       "summary": "Nikita Bier steps back as X product chief. His 30-product claim meets falling downloads and user data.",
       "pub_date": "2026-08-05T22:43:33Z",
@@ -29,34 +57,6 @@
       "pub_date": "2026-08-05T22:26:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ai-trailblazers-nvidia-palantir-alphabet-222600522.html"
-    },
-    {
-      "title": "Asian Stocks Set for Declines as AI Rally Cools: Markets Wrap",
-      "summary": "(Bloomberg) -- Stocks in Asia were poised to ease Thursday as investors digested gains in technology shares while watching for fresh signs of progress toward a deal to reopen the Strait of Hormuz.Most Read from BloombergIran Says Agreement on Hormuz Shipping Reached With OmanSpaceX\u2019s AI Splurge Puts a Damper on First Earnings After IPOTrump Says Iran Talks Going Well as Hopes Rise for Hormuz DealChina\u2019s AI Blitz Creates \u2018Death Zone\u2019 for Rival US Model MakersTaco Bell Met With Michigan on Parasit",
-      "pub_date": "2026-08-05T22:06:50Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/asian-stocks-set-declines-ai-220650572.html"
-    },
-    {
-      "title": "SNDK Stock Dips After-Hours As Sandisk's Q1 FY27 Outlook Misses Expectations Despite Memory-Driven Q4 Profit",
-      "summary": "Sandisk shattered Wall Street estimates for its fiscal fourth quarter as relentless hyperscaler demand for AI data storage triggered severe capacity bottlenecks and surging memory chip prices.",
-      "pub_date": "2026-08-05T21:47:39Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sndk-stock-dips-hours-sandisks-214739843.html"
-    },
-    {
-      "title": "Meta launches new AI coding tool powered by Muse Spark 1.2",
-      "summary": "Meta Platforms on Wednesday launched Muse Code, a coding tool powered by \u200cits latest AI model, Muse Spark 1.2, designed \u200cto help developers write and debug software.  Muse Code can \u200cwrite code and \u2060verify results, and has been trained to handle long, complex coding projects while also \u2060running multiple sub-agents simultaneously to speed up difficult tasks, the company said.  Meta also said it trained Muse \u200bSpark 1.2 \u200band Muse Code together \u200bto operate smoothly as \u200ca pair.",
-      "pub_date": "2026-08-05T21:29:44Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/ai/articles/meta-launches-ai-coding-tool-212944291.html"
-    },
-    {
-      "title": "The Toughest Questions AMZN Faced On Its Latest Call",
-      "summary": "Amazon's cloud business is growing at a historic pace, but its plan to spend a fortune on new data centers was the only thing analysts wanted to talk about.",
-      "pub_date": "2026-08-05T21:11:20Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/toughest-questions-amzn-faced-latest-211120443.html"
     }
   ]
 }
