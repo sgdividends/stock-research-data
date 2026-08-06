@@ -1,6 +1,6 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-08-06T06:24:59.709776+00:00",
+  "generated_at": "2026-08-06T10:33:16.891734+00:00",
   "items": [
     {
       "title": "Wall Street expected to see bonus increases amid major dealmaking",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-05T20:15:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/wall-street-expected-see-bonus-201500779.html"
+    },
+    {
+      "title": "Zacks Industry Outlook BlackRock, Ameriprise, and Invesco",
+      "summary": "BlackRock, Ameriprise, and Invesco have been highlighted in this Industry Outlook article.",
+      "pub_date": "2026-08-06T08:43:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-blackrock-ameriprise-084300880.html"
     },
     {
       "title": "Wall Street just killed its first spot Bitcoin ETF and for a known reason",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-05T14:24:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-investment-management-stocks-buy-142400512.html"
-    },
-    {
-      "title": "Circle Internet Group Posts Mixed Financial Results",
-      "summary": "The stock of Circle Internet Group (NYSE: $CRCL) is down 5% after the stablecoin issuer reported mixed financial re...",
-      "pub_date": "2026-08-05T13:54:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/circle-internet-group-posts-mixed-135400653.html"
     }
   ]
 }

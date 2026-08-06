@@ -1,7 +1,21 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-08-06T06:25:35.352689+00:00",
+  "generated_at": "2026-08-06T10:33:48.728864+00:00",
   "items": [
+    {
+      "title": "Larry Ellison Just Collected a $579 Million Dividend Check. Here\u2019s What $100,000 of Oracle Stock Would Pay You.",
+      "summary": "Oracle just sent out its latest dividend checks, and the gap between what its largest shareholder collected and what a serious retail investor pocketed reveals something striking about how the same stock can deliver radically different financial realities.",
+      "pub_date": "2026-08-06T10:05:30Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/larry-ellison-just-collected-579-100530751.html"
+    },
+    {
+      "title": "Retiring Soon? Good News\u2014the Market Is Cooperating.",
+      "summary": "\u201cThis is like the best of all worlds for retirees,\u201d says one investment specialist. Thank rising yields on bonds and strong stock performance.",
+      "pub_date": "2026-08-06T06:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/retiring-soon-market-cooperating-good-news-c37f3fb2?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Can CRM Stock Compound Its Way Higher?",
       "summary": "At $190.99, Salesforce (CRM) looks set up for roughly 24% of upside over the next three years under a conservative scenario. Not a big number, and most of what the business is doing is already in the price. The question is whether even this modest move is defensible. Revenue compounding does all the work; the multiple is asked to do nothing. Here is the operational reality the math is built on.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-05T17:31:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/tech-stocks-ai-spending-capex-554475b7?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Larry Ellison Just Collected a $579 Million Dividend Check. Here\u2019s What $100,000 of Oracle Stock Would Pay You.",
-      "summary": "Oracle's latest dividend payment landed very differently depending on who was collecting it. The gap between the company's biggest shareholder and a serious retail investor reveals something striking about how wealth actually compounds at scale.",
-      "pub_date": "2026-08-05T16:33:26Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/larry-ellison-just-collected-579-163326607.html"
-    },
-    {
-      "title": "SpaceX Has Already Lost AI Race",
-      "summary": "SpaceX is pouring billions into AI while renting out its data centers to rivals, yet its models trail the competition and its consumer apps barely register. Something does not add up.",
-      "pub_date": "2026-08-05T14:53:54Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/spacex-already-lost-ai-race-145354737.html"
     }
   ]
 }

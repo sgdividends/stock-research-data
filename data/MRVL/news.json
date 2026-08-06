@@ -1,6 +1,6 @@
 {
   "ticker": "MRVL",
-  "generated_at": "2026-08-06T06:25:31.609091+00:00",
+  "generated_at": "2026-08-06T10:33:44.771055+00:00",
   "items": [
     {
       "title": "The companies emerging as new leaders in this renewed AI rally",
@@ -8,6 +8,20 @@
       "pub_date": "2026-08-05T19:15:36Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/companies-emerging-leaders-renewed-ai-191536658.html"
+    },
+    {
+      "title": "Why Marvell (MRVL) Is Up 29.1% After Launching Its New AI Memory Infrastructure Portfolio",
+      "summary": "In early August 2026, Marvell Technology, Inc. unveiled a broad AI memory infrastructure portfolio spanning Bravera SC6 PCIe 6.0 SSD controllers, Structera X CXL-based memory expansion, and Photonic Fabric optical shared-memory solutions to help hyperscalers decouple and scale memory independently from compute for agentic AI inference. By targeting KV cache offload, rack-scale memory pooling, and optical shared memory across racks, Marvell is positioning itself as a key enabler of more...",
+      "pub_date": "2026-08-06T10:14:17Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/why-marvell-mrvl-29-1-101417474.html"
+    },
+    {
+      "title": "S&P 500, Dow futures steady as MidEast deal in focus; chips stumble",
+      "summary": "Aug 6 (Reuters) - S&P 500 and Dow futures were steady on Thursday after this week's record-breaking rally as investors awaited details on a Middle East peace deal, while Nasdaq futures slipped as",
+      "pub_date": "2026-08-06T09:45:18Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-steady-094518940.html"
     },
     {
       "title": "Marvell Is Positioned to Absorb a Disproportionate Amount of This AI Capex Surge, So I Keep Buying",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-05T15:00:06Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ultimate-bull-case-nvidia-powerful-150006701.html"
-    },
-    {
-      "title": "Marvell Unveils AI Memory Strategy to Boost Server Efficiency. What That Means for MRVL Stock.",
-      "summary": "Marvell unveils new AI memory chips and optical tech to address server bottlenecks, as its data center business continues to grow rapidly.",
-      "pub_date": "2026-08-05T14:15:20Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/technology/ai/articles/marvell-unveils-ai-memory-strategy-141520156.html"
-    },
-    {
-      "title": "Amazon\u2019s AWS CEO Just Sent Shivers Down the Spines of AI Bears. Supply is Mostly \u2018Spoken For\u2019 Through 2028.",
-      "summary": "AWS chief Matt Garman just posted something on X that stopped AI skeptics cold, and the suppliers quietly sitting on his order books are already feeling it in their stock prices.",
-      "pub_date": "2026-08-05T12:11:18Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-aws-ceo-just-sent-121118385.html"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-08-06T06:25:22.816666+00:00",
+  "generated_at": "2026-08-06T10:33:36.870946+00:00",
   "items": [
     {
       "title": "The companies defying macro uncertainty and raising guidance: AlphaCheck",
@@ -8,6 +8,20 @@
       "pub_date": "2026-08-05T14:06:05Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/the-companies-defying-macro-uncertainty-and-raising-guidance-alphacheck-140605238.html"
+    },
+    {
+      "title": "S&P 500, Dow futures steady as MidEast deal in focus; chips stumble",
+      "summary": "Aug 6 (Reuters) - S&P 500 and Dow futures were steady on Thursday after this week's record-breaking rally as investors awaited details on a Middle East peace deal, while Nasdaq futures slipped as",
+      "pub_date": "2026-08-06T09:45:18Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-steady-094518940.html"
+    },
+    {
+      "title": "Intel and ByteDance stakes help SoftBank beat expectations",
+      "summary": "SoftBank\u2019s net income fell 18 per cent in the first quarter but the rising valuations of its Intel and ByteDance stakes still helped Masayoshi...",
+      "pub_date": "2026-08-06T07:39:43Z",
+      "source": "Financial Times",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-bytedance-stakes-help-softbank-073943546.html"
     },
     {
       "title": "Tech, Media & Telecom Roundup: Market Talk",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-05T16:13:54Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-amplifies-market-already-161354086.html"
-    },
-    {
-      "title": "AMD\u2019s Data Center Business Doubled and Our Price Target Shows Why",
-      "summary": "AMD's data center sales exploded while the stock slipped, and retail investors are scratching their heads. Here is why the math behind the confusion points to a very specific price target.",
-      "pub_date": "2026-08-05T16:00:59Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-data-center-business-doubled-160059317.html"
-    },
-    {
-      "title": "Wall Street Sold Off Intel After Its Earnings. But the Company Is Setting Up a Monster 2027.",
-      "summary": "In this segment of the AI Investor Podcast from 24/7 Wall St., co-hosts Eric Bleeker and Austin Smith work through Intel's quarter and the whipsaw price action around it. Bleeker opens with the trading pattern as a microcosm of the month: Intel rose 10% after hours on the report, then fell roughly 30% over the following days, leaving it down 34% on the month at the end of last week. Yet, zoomed out, the stock is up 134% year to date and still more than double its post-February level, while most momentum names have given back their post-February gains entirely. He reads that as evidence Intel remains a structural winner. Bleeker credits two calls made earlier. The first was the rise of CPUs, which he says is playing out more forcefully than expected, with Intel's CPU prices up 48%. The second, and the one that matters more long term, is the foundry business. Intel guided 14A to volume production in 2028, which Bleeker takes as on track. Wall Street's disappointment centered on Intel declining to name customers, but Bleeker argues that silence is rational: a company shifting volume away from Taiwan Semiconductor has no interest in publicizing it and risking its existing allocation. What Intel needs, he notes, is wafer customers rather than packaging work, and he sees potential majors like Google drifting toward it. Smith agrees the non-disclosure is sensible and adds that these are not phantom customers. He points to reporting on xAI and the widely covered Apple arrangement as reasonably well established, meaning Intel gains little by confirming them publicly.",
-      "pub_date": "2026-08-05T14:53:26Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/video/wall-street-sold-off-intel-145326780.html"
     }
   ]
 }
