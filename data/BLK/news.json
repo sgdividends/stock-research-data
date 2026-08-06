@@ -1,6 +1,6 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-08-05T21:01:54.264809+00:00",
+  "generated_at": "2026-08-06T02:00:33.331740+00:00",
   "items": [
     {
       "title": "Wall Street expected to see bonus increases amid major dealmaking",
@@ -8,6 +8,20 @@
       "pub_date": "2026-08-05T20:15:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/wall-street-expected-see-bonus-201500779.html"
+    },
+    {
+      "title": "Wall Street just killed its first spot Bitcoin ETF and for a known reason",
+      "summary": "When the SEC approved spot Bitcoin ETFs in January 2024, it felt like a turning point. Roughly a dozen funds launched into a market hungry for regulated Bitcoin exposure. BlackRock, Fidelity, Invesco, Hashdex \u2014 the names were credible, the timing felt historic. On August 3, the Hashdex Bitcoin ETF ...",
+      "pub_date": "2026-08-05T21:42:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/wall-street-just-killed-first-214200877.html"
+    },
+    {
+      "title": "Bitcoin Is Down 44%, and BlackRock Just Launched a Fund That Pays You to Wait",
+      "summary": "Bitcoin has spent a year punishing patient holders with nothing but losses and silence. BlackRock just launched a fund that flips that equation, and the structure of the trade reveals something most IBIT investors have not yet considered.",
+      "pub_date": "2026-08-05T21:33:29Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-down-44-blackrock-just-213329522.html"
     },
     {
       "title": "Circle Internet Stock Angles Higher as Earnings Beat Overcomes the Crypto Slump",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-05T13:54:00Z",
       "source": "CryptoProwl",
       "url": "https://finance.yahoo.com/markets/crypto/articles/circle-internet-group-posts-mixed-135400653.html"
-    },
-    {
-      "title": "First US Bitcoin ETF to be Delisted from NYSE After Just 2 Years",
-      "summary": "Hashdex is closing DEFI, the first US spot Bitcoin ETF to shut down. Fees fell to $6,453 a quarter. What holders need to know.",
-      "pub_date": "2026-08-05T13:45:34Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/first-us-bitcoin-etf-to-be-delisted-from-nyse-after-just-2-years-134534175.html"
-    },
-    {
-      "title": "Circle shares climb after Q2 results, federal bank charter approval and higher guidance",
-      "summary": "Circle Internet Group (NYSE:CRCL) shares rose around 7% in pre-market trading after the stablecoin issuer reported second-quarter results in line with expectations, secured the first federal bank charter granted to a stablecoin company and raised parts of its full-year outlook. The company also announced that BlackRock, Visa and Mastercard will serve as validators for its upcoming blockchain network.",
-      "pub_date": "2026-08-05T12:58:24Z",
-      "source": "InvestorsHub",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/circle-shares-climb-q2-results-125824739.html"
     }
   ]
 }

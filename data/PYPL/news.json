@@ -1,7 +1,14 @@
 {
   "ticker": "PYPL",
-  "generated_at": "2026-08-05T21:02:39.799925+00:00",
+  "generated_at": "2026-08-06T02:01:17.875074+00:00",
   "items": [
+    {
+      "title": "PYPL's Historical Floor Is Back, But Is The Business The Same?",
+      "summary": "PayPal's stock has returned to a price zone that has historically launched powerful rallies, after trading well below it as recently as last month.",
+      "pub_date": "2026-08-05T22:00:06Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pypls-historical-floor-back-business-220006612.html"
+    },
     {
       "title": "Sector Update: Financial Stocks Advance Late Afternoon",
       "summary": "Financial stocks were higher in late Wednesday afternoon trading, with the NYSE Financial Index risi",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-04T04:35:13Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/stocks/articles/pypl-stock-clocked-best-month-043513459.html"
-    },
-    {
-      "title": "The Magnificent Seven Start Burning Cash (for Real)",
-      "summary": "Earnings season is in full swing, and one common theme that spooked investors: cash burn.",
-      "pub_date": "2026-08-03T21:48:34Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/magnificent-seven-start-burning-cash-214834773.html"
     }
   ]
 }

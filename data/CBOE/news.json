@@ -1,7 +1,14 @@
 {
   "ticker": "CBOE",
-  "generated_at": "2026-08-05T21:01:56.381569+00:00",
+  "generated_at": "2026-08-06T02:00:35.511056+00:00",
   "items": [
+    {
+      "title": "U.S. Stocks Mixed as Tech Wobbles Offset Hormuz Hopes",
+      "summary": "U.S. stocks finished mixed as optimism about the reopening of the Strait of Hormuz was offset by more volatility in artificial-intelligence wagers.",
+      "pub_date": "2026-08-05T21:07:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-mixed-as-tech-wobbles-offset-hormuz-hopes-cbd55893?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "That Friday Payday Fund Has a Small-Cap Sibling Paying 44%, and Small Caps Are Finally Winning",
       "summary": "QDTE built a loyal following with its Friday payday structure, but Roundhill quietly runs the same covered-call machine on a different index that is leaving the original in the dust this year.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-31T18:36:06Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-down-45-month-memory-183606326.html"
-    },
-    {
-      "title": "CBOE Q2 Earnings Beat on Options Strength, Revenue Outlook Raised",
-      "summary": "CBOE's Q2 earnings beat estimates. Record Options revenues, broad-based growth and stronger margins drove a raised 2026 revenue outlook.",
-      "pub_date": "2026-07-31T17:29:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/options/articles/cboe-q2-earnings-beat-options-172900149.html"
     }
   ]
 }
