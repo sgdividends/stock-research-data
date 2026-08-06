@@ -1,20 +1,27 @@
 {
   "ticker": "MRK",
-  "generated_at": "2026-08-06T10:33:44.474291+00:00",
+  "generated_at": "2026-08-06T13:51:21.094978+00:00",
   "items": [
+    {
+      "title": "Germany\u2019s Merck KGaA Raises Outlook as Lab Tools, Chip Demand Lift Results",
+      "summary": "The group pointed to stronger demand in the life-science and electronics markets and resilience in its healthcare operations.",
+      "pub_date": "2026-08-06T11:33:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/earnings/germanys-merck-kgaa-raises-outlook-on-robust-results-easing-currency-headwinds-f7338359?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "MSD and Gilead scrap Phase III Trodelvy-Keytruda study on lacklustre interim data",
+      "summary": "This study miss marks a setback for Gilead\u2019s Trodelvy expansion plans, which include both mono and combination therapy approaches.",
+      "pub_date": "2026-08-06T11:04:32Z",
+      "source": "Clinical Trials Arena",
+      "url": "https://finance.yahoo.com/healthcare/articles/msd-gilead-scrap-phase-iii-110432404.html"
+    },
     {
       "title": "Merck KGaA Q2 adjusted profit rises 9%, hikes FY outlook",
       "summary": "Investing.com-- Merck clocked a stronger second-quarter adjusted profit on Tuesday, aided by strong performances in its life science and electronics divisions, with the company also raising its annual profit outlook.",
       "pub_date": "2026-08-06T06:01:04Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/healthcare/articles/merck-kgaa-q2-adjusted-profit-060104116.html"
-    },
-    {
-      "title": "Germany\u2019s Merck KGaA Raises Outlook on Robust Results, Easing Currency Headwinds",
-      "summary": "The group pointed to stronger demand in the life-science and electronics markets and resilience in its healthcare operations.",
-      "pub_date": "2026-08-06T05:46:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/germanys-merck-kgaa-raises-outlook-on-robust-results-easing-currency-headwinds-f7338359?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Why PFE Stock Hands You So Much Cash Right Now",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-05T14:00:26Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-abbvie-end-price-140026979.html"
-    },
-    {
-      "title": "MRK Q2 Earnings Call Puts Pipeline Progress in Focus",
-      "summary": "Merck raised its 2026 sales outlook as pipeline gains, new launches and post-KEYTRUDA plans took focus despite acquisition-driven losses.",
-      "pub_date": "2026-08-05T14:00:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/healthcare/articles/mrk-q2-earnings-call-puts-140000988.html"
     }
   ]
 }

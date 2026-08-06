@@ -1,7 +1,14 @@
 {
   "ticker": "PCAR",
-  "generated_at": "2026-08-06T10:33:49.371619+00:00",
+  "generated_at": "2026-08-06T13:51:26.872427+00:00",
   "items": [
+    {
+      "title": "Company Insider Sells $6.8 Million Worth of PACCAR Stock",
+      "summary": "Feight exercised 50,975 options at $71.95 and immediately sold them, retaining a $37.99 million equity position after the transaction.",
+      "pub_date": "2026-08-06T13:10:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/company-insider-sells-6-8-131001014.html"
+    },
     {
       "title": "PACCAR Stock: Is Wall Street Bullish or Bearish?",
       "summary": "Despite its strong outperformance over the past year, analysts remain moderately optimistic about PACCAR's future growth prospects.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-30T08:40:00Z",
       "source": "Trucking Dive",
       "url": "https://finance.yahoo.com/economy/policy/articles/paccar-expects-epa-emissions-proposal-084000294.html"
-    },
-    {
-      "title": "How a $600,000 Covered Call Portfolio Can Generate $6,000 a Month (and What You Give Up to Get It)",
-      "summary": "A $600,000 portfolio paying $6,000 a month sounds like the finish line, but the real price of that 12% yield shows up years later in ways the income calculator never displays.",
-      "pub_date": "2026-07-30T01:05:22Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/options/articles/600-000-covered-call-portfolio-010522205.html"
     }
   ]
 }

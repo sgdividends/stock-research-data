@@ -1,7 +1,28 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-08-06T10:33:14.639388+00:00",
+  "generated_at": "2026-08-06T13:50:41.761249+00:00",
   "items": [
+    {
+      "title": "High Beta Runners Up: Why AMD and Marvell Technology Now Command Attention",
+      "summary": "AMD and Marvell have both crushed earnings while lapping NVIDIA and Broadcom on year-to-date returns, but their strategies for capturing AI infrastructure spending point in completely opposite directions, and only one of them fits every type of investor.",
+      "pub_date": "2026-08-06T12:51:31Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/high-beta-runners-why-amd-125131083.html"
+    },
+    {
+      "title": "Should You Really Invest in a Semiconductor ETF Right Now? Here's My Honest Take.",
+      "summary": "It feels like you're missing out. In reality, most of the industry's biggest gains driven by the advent of AI are probably in the rearview mirror.",
+      "pub_date": "2026-08-06T12:20:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/really-invest-semiconductor-etf-now-122000869.html"
+    },
+    {
+      "title": "How Large Does Your Portfolio Need to Be to Generate $30,000 a Month?",
+      "summary": "Replacing a six-figure income with portfolio yield sounds straightforward until you realize the required capital swings by millions depending on which yield tier you choose, and the tier that looks cheapest today often costs the most over 20 years.",
+      "pub_date": "2026-08-06T11:34:28Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/options/articles/large-does-portfolio-generate-30-113428375.html"
+    },
     {
       "title": "Broadcom Is Down 20% From Its All-Time High. Here's Why It's a Screaming Bargain.",
       "summary": "Broadcom stock looks like a screaming deal at these prices.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-05T20:15:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-broadcom-coca-201500234.html"
-    },
-    {
-      "title": "Can Microchip's Micron Alliance Help it Challenge AVGO & ALAB?",
-      "summary": "MCHP's Micron alliance combines PCIe Gen 6 switches and SSDs to boost AI data-center reach and challenge Broadcom and Astera Labs.",
-      "pub_date": "2026-08-05T18:15:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/articles/microchips-micron-alliance-help-challenge-181500152.html"
-    },
-    {
-      "title": "QRVO Earnings Beat Highlights a Changing Profitability Story",
-      "summary": "QRVO beat earnings estimates as stronger margins and cost discipline offset weaker smartphone demand, highlighting a profitability story driven by execution.",
-      "pub_date": "2026-08-05T16:49:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qrvo-earnings-beat-highlights-changing-164900240.html"
-    },
-    {
-      "title": "Should Investors Buy QRVO or Wait for More Visibility?",
-      "summary": "QRVO is improving profitability through stronger execution and diversification, but smartphone exposure and transaction uncertainty still cloud the outlook.",
-      "pub_date": "2026-08-05T16:47:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-buy-qrvo-wait-more-164700346.html"
     }
   ]
 }

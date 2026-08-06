@@ -1,6 +1,6 @@
 {
   "ticker": "MRVL",
-  "generated_at": "2026-08-06T10:33:44.771055+00:00",
+  "generated_at": "2026-08-06T13:51:21.462534+00:00",
   "items": [
     {
       "title": "The companies emerging as new leaders in this renewed AI rally",
@@ -10,18 +10,32 @@
       "url": "https://finance.yahoo.com/video/companies-emerging-leaders-renewed-ai-191536658.html"
     },
     {
+      "title": "MU, WDC, SKHY, AMD \u2014 VanEck\u2019s Nicholas Frasse Downplays Volatility In Semiconductor Stocks, Says Chip Trade Is Still Very Strong",
+      "summary": "During an interview with CNBC, Frasse said that the current downturn and volatility in chip and memory stocks is just a reversion to the mean more than anything else.",
+      "pub_date": "2026-08-06T12:59:34Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mu-wdc-skhy-amd-vaneck-125934125.html"
+    },
+    {
+      "title": "High Beta Runners Up: Why AMD and Marvell Technology Now Command Attention",
+      "summary": "AMD and Marvell have both crushed earnings while lapping NVIDIA and Broadcom on year-to-date returns, but their strategies for capturing AI infrastructure spending point in completely opposite directions, and only one of them fits every type of investor.",
+      "pub_date": "2026-08-06T12:51:31Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/high-beta-runners-why-amd-125131083.html"
+    },
+    {
+      "title": "Why Marvell Technology Stock Fell 37% in July",
+      "summary": "Semiconductor stocks took the brunt of AI spending skepticism.",
+      "pub_date": "2026-08-06T12:50:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-technology-stock-fell-125000052.html"
+    },
+    {
       "title": "Why Marvell (MRVL) Is Up 29.1% After Launching Its New AI Memory Infrastructure Portfolio",
       "summary": "In early August 2026, Marvell Technology, Inc. unveiled a broad AI memory infrastructure portfolio spanning Bravera SC6 PCIe 6.0 SSD controllers, Structera X CXL-based memory expansion, and Photonic Fabric optical shared-memory solutions to help hyperscalers decouple and scale memory independently from compute for agentic AI inference. By targeting KV cache offload, rack-scale memory pooling, and optical shared memory across racks, Marvell is positioning itself as a key enabler of more...",
       "pub_date": "2026-08-06T10:14:17Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/why-marvell-mrvl-29-1-101417474.html"
-    },
-    {
-      "title": "S&P 500, Dow futures steady as MidEast deal in focus; chips stumble",
-      "summary": "Aug 6 (Reuters) - S&P 500 and Dow futures were steady on Thursday after this week's record-breaking rally as investors awaited details on a Middle East peace deal, while Nasdaq futures slipped as",
-      "pub_date": "2026-08-06T09:45:18Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-steady-094518940.html"
     },
     {
       "title": "Marvell Is Positioned to Absorb a Disproportionate Amount of This AI Capex Surge, So I Keep Buying",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-05T16:13:54Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-amplifies-market-already-161354086.html"
-    },
-    {
-      "title": "Can MRVL's Communications Recovery Drive Broad-Based Growth?",
-      "summary": "Marvell Technology's communications business is rebounding as AI networking demand accelerates, but can that momentum offset margin pressure and uneven recovery trends?",
-      "pub_date": "2026-08-05T15:52:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mrvls-communications-recovery-drive-broad-155200097.html"
-    },
-    {
-      "title": "The Ultimate Bull Case for NVIDIA Is Here: Their Powerful B200 Systems Are Sold Out",
-      "summary": "NVIDIA just delivered its loudest quarter of the AI era, yet shares sit nearly 30% below their peak while B200 systems vanish from shelves faster than they ship. The bull case for a run to $300 hinges on three things that still need to break right.",
-      "pub_date": "2026-08-05T15:00:06Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ultimate-bull-case-nvidia-powerful-150006701.html"
     }
   ]
 }

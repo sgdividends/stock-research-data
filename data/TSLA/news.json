@@ -1,5 +1,62 @@
 {
   "ticker": "TSLA",
-  "generated_at": "2026-08-06T10:33:59.120955+00:00",
-  "items": []
+  "generated_at": "2026-08-06T13:51:39.911304+00:00",
+  "items": [
+    {
+      "title": "Ford's new Fathom is its cheap EV pickup, starting at $28,350",
+      "summary": "Ford on Thursday revealed the name of its all-new affordable midsize electric pickup and the first model to roll off its new Universal Electric Vehicle (UEV) platform: the Fathom.",
+      "pub_date": "2026-08-06T13:00:00Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/fords-new-fathom-is-its-cheap-ev-pickup-starting-at-28350-130000587.html"
+    },
+    {
+      "title": "Uber stock drops as bookings guidance disappoints; CEO bets on robotaxi push to grow overall business",
+      "summary": "Uber reported second-quarter results on Wednesday that beat on bookings and profit, but shares fell as the ride-hailing giant's bookings guidance missed analyst projections. Uber says its robotaxi push is still well underway, with investments set to grow.",
+      "pub_date": "2026-08-05T15:07:29Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/uber-stock-drops-as-bookings-guidance-disappoints-ceo-bets-on-robotaxi-push-to-grow-overall-business-150729446.html"
+    },
+    {
+      "title": "Base Power CEO on $1B funding, AI's soaring energy demand, and taking on Tesla",
+      "summary": "Base Power founder & CEO Zach Dell joins Yahoo Finance Executive Editor Brian Sozzi on Opening Bid to discuss how the AI boom is reshaping energy demand and what differentiates Base Power from competitors, including Tesla (TSLA). This following company's $1 billion Series D funding round, which values the company at $13 billion post-money.",
+      "pub_date": "2026-08-05T14:22:00Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/power-ceo-1b-funding-ais-142200900.html"
+    },
+    {
+      "title": "Is Wall Street Getting Uber Wrong? Bill Ackman Backs Bull Case That Robotaxi Fears Are Overblown",
+      "summary": "Oguz Erkan, founder and writer of Capitalist-Letters, said the capital-intensive nature of robotaxi fleets makes large-scale platform operators like Uber well positioned to benefit as adoption grows.",
+      "pub_date": "2026-08-06T13:14:30Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-getting-uber-wrong-131430997.html"
+    },
+    {
+      "title": "Ford's new EV truck Fathom to be priced starting at about $28,000",
+      "summary": "DETROIT, Aug 6 (Reuters) - Ford Motor said on Thursday that its upcoming midsize electric pickup truck would \u200cbe priced starting at about $28,000 and named Fathom, as the \u200cMichigan automaker looks to offer an affordable model in a market full of \u200bpricey EVs. \u2022 Ford has approached development and manufacturing of this vehicle from the ground up, assembling a specialized team in California aimed at competing with rivals like Tesla and China's BYD.",
+      "pub_date": "2026-08-06T13:02:17Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/fords-ev-truck-fathom-priced-130217742.html"
+    },
+    {
+      "title": "Pressured by Tesla, European regulators keep 'Full Self-Driving' safety data secret",
+      "summary": "Aug 6 () - Four months ago, the Netherlands approved Tesla\u2019s Full Self-Driving (FSD) system and has since then advocated for its adoption across the EU. But Dutch road regulator RDW won\u2019t tell the public why it concluded the driver-assistance system is safe or how it evaluated the technology, which for years has faced regulatory investigations and lawsuits over FSD-involved crashes in the United States.",
+      "pub_date": "2026-08-06T12:38:20Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/pressured-tesla-european-regulators-keep-100413623.html"
+    },
+    {
+      "title": "Elon Musk's Tesla Suffered Its Worst Week Since 2022, Wiping Out $130 Billion of His Fortune. Is the Stock Still a Buy?",
+      "summary": "Tesla stock hit a 52-week low but has since jumped 6%.",
+      "pub_date": "2026-08-06T12:06:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-tesla-suffered-worst-120600745.html"
+    },
+    {
+      "title": "Tesla Stock Rises as It Seeks to Tap Massive Self-Driving Market",
+      "summary": "Tesla  stock rose modestly early Thursday as it continues to work toward European approval for its Full Self-Driving driver-assistance product, which could unlock a new stream of earnings for the car maker.  The move comes after Reuters reported that the Netherlands is keeping secret the data it used to approve FSD in the country, which could pose an issue for wider adoption in the European Union.  FSD is Tesla\u2019s highest-level driver assistance product that can do most of the driving most of the time.",
+      "pub_date": "2026-08-06T11:29:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/tesla-stock-price-today-self-driving-0eba060b?siteid=yhoof2&yptr=yahoo"
+    }
+  ]
 }
