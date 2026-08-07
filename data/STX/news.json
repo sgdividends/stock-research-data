@@ -1,7 +1,21 @@
 {
   "ticker": "STX",
-  "generated_at": "2026-08-07T12:50:03.350566+00:00",
+  "generated_at": "2026-08-07T16:47:39.749588+00:00",
   "items": [
+    {
+      "title": "SK Hynix Drops 5% After Approving $38B in New Memory Fabs; Seagate Falls 7%, Micron Barely Dips",
+      "summary": "SK Hynix just committed to one of the biggest fab investments in memory history, and its stock immediately sold off. Whether that reaction signals panic over capital spending or a buying opportunity depends on a structural argument about 2027 that not everyone buys.",
+      "pub_date": "2026-08-07T16:31:22Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-drops-5-approving-163122357.html"
+    },
+    {
+      "title": "Tech Stocks Shake Off Another Memory Stock Slide",
+      "summary": "Three of its top holdings, flash memory/data storage companies Seagate, Western Digital, and Sandisk, were among the biggest losers in the S&P 500 Friday.  The stocks continued to slide following Western Digital's earnings late Wednesday, which were merely good as opposed to mind-blowingly fantastic.  The memory ETF was being dragged down even more by Micron Technology and South Korean rival SK Hynix.",
+      "pub_date": "2026-08-07T15:47:30Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-080726/card/tech-stocks-shake-off-another-memory-stock-slide-cQMqtTM5B7r8Q9hdJsit?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Dow Jones Futures Rise As Cloudflare Leads Big Software Winners; Jobs Report On Tap",
       "summary": "Dow Jones futures: The market pauses, but what happens next? Don't buy these AI stocks yet. Cloudflare, Sezzle lead big earnings movers late.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-06T17:01:46Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/sandisks-outlook-just-shook-entire-170146630.html"
-    },
-    {
-      "title": "Sandisk's Weak Guidance Sends AI Chip Stocks Tumbling",
-      "summary": "Sandisk Triggers AI Chip Selloff With Weak Outlook",
-      "pub_date": "2026-08-06T16:13:18Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/sandisks-weak-guidance-sends-ai-161318227.html"
-    },
-    {
-      "title": "Western Digital Stock Tanks. An Earnings Beat Isn\u2019t Enough These Days.",
-      "summary": "The hard-drive maker reported better-than-expected earnings for its fiscal fourth quarter, but guidance disappointed.",
-      "pub_date": "2026-08-06T16:11:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/western-digital-wdc-earnings-stock-price-2ecd5ae3?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

@@ -1,13 +1,27 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-08-07T12:49:22.867951+00:00",
+  "generated_at": "2026-08-07T16:46:56.170435+00:00",
   "items": [
     {
-      "title": "Software stocks sink, led by declines from Figma, Datadog",
-      "summary": "The software sector slumped on Thursday after quarterly results from Datadog, HubSpot, and Figma.",
-      "pub_date": "2026-08-06T14:41:04Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/software-stocks-sink-led-by-declines-from-figma-datadog-144104020.html"
+      "title": "Microsoft Stock's Peak Margin And Its Azure Bill Are The Same Story",
+      "summary": "The risk to Microsoft stock is not demand but what serving that demand now costs, and the company's own outlook already points margins lower.",
+      "pub_date": "2026-08-07T15:07:21Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stocks-peak-margin-azure-150721516.html"
+    },
+    {
+      "title": "Oracle Stock Fell While Its Operating Margin Climbed For A Third Straight Year",
+      "summary": "The build-out that dented gross margin has not stopped the operating line from widening, and that is the number the selling appears to discount.",
+      "pub_date": "2026-08-07T14:51:44Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-fell-while-operating-145144040.html"
+    },
+    {
+      "title": "DoD Authorizes Salesforce Agentforce 360 at Impact Level 5",
+      "summary": "The defense sector is done experimenting with agentic AI. On August 5, the Department of Defense granted Impact Level 5 authorization to Salesforce\u2019s Agentforce 360 platform \u2014 a production-grade clearance that lets the system handle Controlled Unclassified Information and certain unclassified National Security Systems data. This is not a sandbox. It is the security clearance [\u2026]",
+      "pub_date": "2026-08-07T14:50:27Z",
+      "source": "Forkast News",
+      "url": "https://finance.yahoo.com/technology/ai/articles/dod-authorizes-salesforce-agentforce-360-145027277.html"
     },
     {
       "title": "Just How Wide Is the Risk Priced Into Adobe Stock?",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-06T15:51:23Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/livecoverage/stock-market-news-today-080626/card/stock-market-leadership-just-flipped-now-the-nasdaq-is-leading--aLszN7qwD0LGMfk1e8iW?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Software Stocks Fall As Datadog, HubSpot Earnings Raise Questions Over AI Pricing",
-      "summary": "Software stocks, including Salesforce and Snowflake, sold off amid disappointing Q2 earnings reports and guidance from Datadog and HubSpot.",
-      "pub_date": "2026-08-06T14:20:08Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/software-stocks-fall-as-datadog-hubspot-earnings-raise-questions-over-ai-pricing/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Salesforce (CRM) Declined as Market Questions SaaS Resilience",
-      "summary": "Antipodes Partners published its \u201cAntipodes Global Strategy\u201d second-quarter 2026 investor letter, highlighting the key performance stocks, portfolio changes, and the market outlook. A copy of the letter can be downloaded here. The second quarter of 2026 delivered one of the strongest equity market recoveries in recent history, as global equities gained 14.9% in US dollar terms. Renewed [\u2026]",
-      "pub_date": "2026-08-06T12:24:53Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-declined-market-questions-122453256.html"
     }
   ]
 }

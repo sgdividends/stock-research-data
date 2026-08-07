@@ -1,7 +1,14 @@
 {
   "ticker": "SNPS",
-  "generated_at": "2026-08-07T12:50:02.087952+00:00",
+  "generated_at": "2026-08-07T16:47:38.429471+00:00",
   "items": [
+    {
+      "title": "GlobalFoundries drives Q2 revenue to $1.79B, completes Synopsys deal",
+      "summary": "Revenue exceeded the high end of guidance ranges, driven in part by 60% year-over-year growth in the communications infrastructure and data center end market.",
+      "pub_date": "2026-08-07T10:00:00Z",
+      "source": "Manufacturing Dive",
+      "url": "https://finance.yahoo.com/technology/articles/globalfoundries-drives-q2-revenue-1-100000892.html"
+    },
     {
       "title": "Synopsys (SNPS) Increases Despite Market Slip: Here's What You Need to Know",
       "summary": "Synopsys (SNPS) concluded the recent trading session at $405.98, signifying a +1.29% move from its prior day's close.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-29T21:45:05Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-synopsys-snps-fell-214505743.html"
-    },
-    {
-      "title": "Agentic AI Is Coming to Chip Design. Here Is Why Synopsys Stock Could Be the Biggest Beneficiary.",
-      "summary": "Synopsys partners with Nvidia on agentic AI after partnering with Intel last week.",
-      "pub_date": "2026-07-29T19:28:30Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/technology/ai/articles/agentic-ai-coming-chip-design-192830292.html"
     }
   ]
 }

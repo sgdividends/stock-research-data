@@ -1,7 +1,14 @@
 {
   "ticker": "NTAP",
-  "generated_at": "2026-08-07T12:49:52.481690+00:00",
+  "generated_at": "2026-08-07T16:47:28.721421+00:00",
   "items": [
+    {
+      "title": "Two AI Names Bounce From Chip Sell-Off; Three More IBD 50 Stocks On Watch",
+      "summary": "Teradyne and Credo Technology are in bases on Thursday. Skyward Specialty Insurance and NetApp also on watch.",
+      "pub_date": "2026-08-07T15:11:55Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/stock-lists/ibd-50/stock-market-ai-memory-teradyne-ter-stock-credo-crdo/?src=A00220&yptr=yahoo"
+    },
     {
       "title": "NetApp (NTAP) Acquires Software Firm To Deepen AI Era Data Protection",
       "summary": "NetApp (NasdaqGS: NTAP) announced the acquisition of JetStream Software to expand its data protection and cyber resilience offerings for AI workloads and VMware environments. The deal brings JetStream Software's disaster recovery, application protection, and cloud migration technology into NetApp's portfolio for enterprise clients. NetApp aims to use JetStream Software's capabilities to support customers modernizing infrastructure for AI driven applications and hybrid cloud setups. For...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-01T15:22:10Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/ge-aerospace-ai-play-netapp-lead-5-stocks-near-buy-points/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "NetApp (NTAP) Exceeds Market Returns: Some Facts to Consider",
-      "summary": "In the most recent trading session, NetApp (NTAP) closed at $178.5, indicating a +2.6% shift from the previous trading day.",
-      "pub_date": "2026-07-31T21:50:01Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netapp-ntap-exceeds-market-returns-215001632.html"
     }
   ]
 }

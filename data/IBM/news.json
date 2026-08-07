@@ -1,7 +1,14 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-08-07T12:49:39.234923+00:00",
+  "generated_at": "2026-08-07T16:47:14.452731+00:00",
   "items": [
+    {
+      "title": "Oracle Stock Fell While Its Operating Margin Climbed For A Third Straight Year",
+      "summary": "The build-out that dented gross margin has not stopped the operating line from widening, and that is the number the selling appears to discount.",
+      "pub_date": "2026-08-07T14:51:44Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-fell-while-operating-145144040.html"
+    },
     {
       "title": "IBM previews Apptio AI Value & ROI to track AI spend and results",
       "summary": "The new tool aims to link AI spending, including token costs, to business outcomes for clearer ROI measurement.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-06T09:22:54Z",
       "source": "CCN",
       "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-100k-jim-cramer-plans-092254041.html"
-    },
-    {
-      "title": "Kyndryl Holdings, Inc. Q1 2027 Earnings Call Summary",
-      "summary": "Moby summary of Kyndryl Holdings, Inc.'s Q1 2027 earnings call",
-      "pub_date": "2026-08-06T01:45:29Z",
-      "source": "Moby",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/kyndryl-holdings-inc-q1-2027-014529608.html"
     }
   ]
 }

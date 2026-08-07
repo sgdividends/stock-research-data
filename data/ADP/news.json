@@ -1,7 +1,14 @@
 {
   "ticker": "ADP",
-  "generated_at": "2026-08-07T12:49:08.803595+00:00",
+  "generated_at": "2026-08-07T16:46:41.784422+00:00",
   "items": [
+    {
+      "title": "July jobs report: Manufacturing sector is 'treading water' but still strong",
+      "summary": "The US economy shed 23,000 non-farm payroll jobs in July, according to the latest report from the US Bureau of Labor Statistics (BLS), which was far below economists' estimates of 80,000. UBS Global Wealth Management head of taxable fixed income strategy Leslie Falconio and Annex Wealth Management chief economist and strategist Brian Jacobsen react to the jobs data and assess how the Federal Reserve may act on interest rates based on this data.",
+      "pub_date": "2026-08-07T12:58:14Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/july-jobs-report-manufacturing-sector-125814419.html"
+    },
     {
       "title": "US economy shed 23,000 jobs in July, economists forecasted gain of 80K",
       "summary": "The US economy shrank by 23,000 non-farm payroll jobs in July, according to the latest report from the US Bureau of Labor Statistics (BLS). This was far below economists' forecasts of a gain of 80,000, while the employment rate fell to 4.1%.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-05T20:38:46Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dow-hits-high-p-500-203846437.html"
-    },
-    {
-      "title": "Daily Roundup of Key US Economic Data for Aug. 5",
-      "summary": "ADP private payrolls rose by 44,000 in July after a downwardly-revised 95,000 jobs gain in June, bel",
-      "pub_date": "2026-08-05T18:24:03Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/economy/articles/daily-roundup-key-us-economic-182403787.html"
     }
   ]
 }

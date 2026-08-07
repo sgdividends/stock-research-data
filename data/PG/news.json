@@ -1,7 +1,14 @@
 {
   "ticker": "PG",
-  "generated_at": "2026-08-07T12:49:55.842545+00:00",
+  "generated_at": "2026-08-07T16:47:32.242921+00:00",
   "items": [
+    {
+      "title": "SpaceX upgraded, Trade Desk downgraded: Wall Street's top analyst calls",
+      "summary": "SpaceX upgraded, Trade Desk downgraded: Wall Street's top analyst calls",
+      "pub_date": "2026-08-07T13:45:22Z",
+      "source": "The Fly",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-initiation-apple-downgrade-among-133025602.html"
+    },
     {
       "title": "SoFi and Visa Earnings Point to Consumer Confidence",
       "summary": "Earnings season is showing that consumers are still spending and paying their bills, as indicated by SoFi and Visa.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-04T22:10:07Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/healthcare/articles/procter-gamble-pg-agrees-buy-221007357.html"
-    },
-    {
-      "title": "Procter & Gamble to Acquire Thorne for $3.8B, Expanding Personal Health Care Portfolio",
-      "summary": "The acquisition bolsters P&G's presence in the premium wellness space.",
-      "pub_date": "2026-08-04T18:04:27Z",
-      "source": "WWD",
-      "url": "https://finance.yahoo.com/healthcare/articles/procter-gamble-acquire-thorne-3-180427437.html"
     }
   ]
 }

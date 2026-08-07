@@ -1,7 +1,21 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-08-07T12:49:21.537150+00:00",
+  "generated_at": "2026-08-07T16:46:54.859749+00:00",
   "items": [
+    {
+      "title": "Senate Delays Clarity Act Vote. Crypto\u2019s Priority Is Now a Hail Mary.",
+      "summary": "Democrats and Republicans are still at odds over the bill, which includes putting most crypto trading outside the control of the SEC.",
+      "pub_date": "2026-08-07T15:55:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/clarity-act-senate-vote-crypto-81afd430?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "MSTR, CRCL, BMNR Stocks Rally After Bitcoin Reclaims $65K Despite CLARITY Delay",
+      "summary": "Bitcoin climbed above $65,000 for the first time in August, lifting crypto-linked stocks.",
+      "pub_date": "2026-08-07T14:26:40Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/mstr-crcl-bmnr-stocks-rally-142640149.html"
+    },
     {
       "title": "The Senate Just Shelved the CLARITY Act, And JPMorgan Says Crypto\u2019s Tokenization Boom Could Slip Away to Wall Street",
       "summary": "Bitcoin traded near $64,600 as the U.S. Senate shelved the CLARITY Act ahead of its August recess, leaving the market-structure bill without a floor vote. JPMorgan had described the legislation as a significant potential catalyst, while its latest analysis said declining odds of passage this year were a headwind for ...",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-06T19:11:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/crypto-bill-coinbase-stock-clarity-act-8a6746d4?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Cathie Wood's Ark Invest Makes SpaceX, Circle Top Holdings After Latest Buying Spree",
-      "summary": "SpaceX and Circle rank among the 10 largest positions in Ark's flagship innovation fund after the firm continued buying both companies following their second-quarter earnings.",
-      "pub_date": "2026-08-06T17:20:54Z",
-      "source": "decrypt",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-invest-makes-172054405.html"
-    },
-    {
-      "title": "The $667.7 Million Question: What Happens When Stablecoin Reserve Income Gets Competed Away",
-      "summary": "Circle renewed its revenue-sharing agreement with Coinbase on August 5, locking in a distribution model that cost the issuer approximately $908 million in fiscal year 2024. The following day, CoinShares published a research note identifying the Open USD (OUSD) consortium as an existential threat to Circle\u2019s business model. The friction point is structural. In its [\u2026]",
-      "pub_date": "2026-08-06T14:45:12Z",
-      "source": "Forkast News",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/667-7-million-happens-stablecoin-144512479.html"
     }
   ]
 }
