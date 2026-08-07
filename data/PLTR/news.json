@@ -1,7 +1,21 @@
 {
   "ticker": "PLTR",
-  "generated_at": "2026-08-07T00:52:30.703689+00:00",
+  "generated_at": "2026-08-07T05:31:44.888622+00:00",
   "items": [
+    {
+      "title": "Cathie Wood sells $17 million of popular AI stock",
+      "summary": "Cathie Wood, head of Ark Investment Management, often trades around earnings, taking advantage of sharp moves in some of her favorite tech stocks. That's exactly what she's doing with Palantir, trimming her position after the stock rallied following its latest earnings report. In 2025, the flagship ...",
+      "pub_date": "2026-08-07T04:06:38Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sells-17-million-040638393.html"
+    },
+    {
+      "title": "Innodata Q2 Earnings Call Highlights",
+      "summary": "Innodata (NASDAQ:INOD) reported record second-quarter results for 2026, with revenue, adjusted gross profit, adjusted EBITDA and cash reaching new highs as the company continued to expand its work with AI model developers and large technology customers. Revenue for the quarter was $92.1 million, up",
+      "pub_date": "2026-08-07T03:03:54Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/technology/ai/articles/innodata-q2-earnings-call-highlights-030354381.html"
+    },
     {
       "title": "USA Today Co Inc (TDAY) (Q2 2026) Earnings Call Highlights: AI Partnerships and Record ARPU ...",
       "summary": "Despite a dip in total revenue, USA Today Co Inc (TDAY) posts its second consecutive profitable quarter, fueled by surging digital subscription ARPU and a transformative Palantir partnership.",
@@ -24,6 +38,13 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/peter-thiel-still-owns-roughly-192500562.html"
     },
     {
+      "title": "Palantir's Risk-Reward Ratio Is Not Attractive. Here's Why.",
+      "summary": "The high valuation of PLTR stock, competition concerns, and a potential threat to revenue all make shares unattractive.",
+      "pub_date": "2026-08-06T18:48:42Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palantirs-risk-reward-ratio-not-184842292.html"
+    },
+    {
       "title": "Cathie Wood's Ark Invest Makes SpaceX, Circle Top Holdings After Latest Buying Spree",
       "summary": "SpaceX and Circle rank among the 10 largest positions in Ark's flagship innovation fund after the firm continued buying both companies following their second-quarter earnings.",
       "pub_date": "2026-08-06T17:20:54Z",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-06T17:12:19Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-invests-17-6-171219191.html"
-    },
-    {
-      "title": "Is Michael Burry Wrong About Everything?",
-      "summary": "Michael Burry called the 2008 housing collapse and became a legend, but his string of bearish bets against AI and the current market rally raises a question he keeps dodging: what does his actual track record look like when you demand proof?",
-      "pub_date": "2026-08-06T15:16:03Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-wrong-everything-151603565.html"
-    },
-    {
-      "title": "Palantir Diversifies Your Portfolio, But It Will Not Calm It",
-      "summary": "Its correlation to the index leaves real room for its own story, and its up-day and down-day readings show what that story costs in swings.",
-      "pub_date": "2026-08-06T14:43:49Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-diversifies-portfolio-not-calm-144349232.html"
-    },
-    {
-      "title": "Steve Eisman Pushes Back on Michael Burry's Market Top Call: 'I Think It's Premature'",
-      "summary": "Two investors who called the 2008 housing collapse agree the artificial intelligence trade has a dangerous weak spot. They disagree on whether it is time to bet against it. Michael Burry said Tuesday he is maintaining bearish positions against Nvidia...",
-      "pub_date": "2026-08-06T14:01:32Z",
-      "source": "Benzinga Prediction Markets",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/steve-eisman-pushes-back-michael-140132823.html"
     }
   ]
 }
