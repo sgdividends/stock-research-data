@@ -1,20 +1,13 @@
 {
   "ticker": "ADP",
-  "generated_at": "2026-08-07T08:51:38.443694+00:00",
+  "generated_at": "2026-08-07T12:49:08.803595+00:00",
   "items": [
     {
-      "title": "Jobs report preview: Payrolls expected to grow by 80,000, unemployment seen holding steady",
-      "summary": "Figures coming Friday from the Labor Department will be the arbiter of whether the job market remained stable in July.",
-      "pub_date": "2026-08-06T17:07:15Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/article/jobs-report-preview-payrolls-expected-to-grow-by-80000-unemployment-seen-holding-steady-170715590.html"
-    },
-    {
-      "title": "Silver prices today, Thursday, August 6, 2026: Silver opens at highest price since June",
-      "summary": "Silver (SI=F) September futures opened at $62.20 per ounce on Thursday, August 6, 2026, down 0.1% from Wednesday's closing price, but up over 4% from yesterday\u2019s opening pice. Silver prices moved lower this morning, reaching $61.73 as of 9:12 a.m. ET.",
-      "pub_date": "2026-08-06T13:22:42Z",
-      "source": "Yahoo Personal Finance",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-august-6-2026-silver-opens-at-highest-price-since-june-132242385.html"
+      "title": "US economy shed 23,000 jobs in July, economists forecasted gain of 80K",
+      "summary": "The US economy shrank by 23,000 non-farm payroll jobs in July, according to the latest report from the US Bureau of Labor Statistics (BLS). This was far below economists' forecasts of a gain of 80,000, while the employment rate fell to 4.1%.",
+      "pub_date": "2026-08-07T12:39:56Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/us-economy-shed-23-000-123956175.html"
     },
     {
       "title": "US Stock Market Today S&P 500 Futures Edge Higher On Mixed Growth Signals",
@@ -57,6 +50,13 @@
       "pub_date": "2026-08-05T20:38:46Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dow-hits-high-p-500-203846437.html"
+    },
+    {
+      "title": "Daily Roundup of Key US Economic Data for Aug. 5",
+      "summary": "ADP private payrolls rose by 44,000 in July after a downwardly-revised 95,000 jobs gain in June, bel",
+      "pub_date": "2026-08-05T18:24:03Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/economy/articles/daily-roundup-key-us-economic-182403787.html"
     }
   ]
 }

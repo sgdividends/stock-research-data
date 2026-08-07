@@ -1,7 +1,14 @@
 {
   "ticker": "NTAP",
-  "generated_at": "2026-08-07T08:52:32.605360+00:00",
+  "generated_at": "2026-08-07T12:49:52.481690+00:00",
   "items": [
+    {
+      "title": "NetApp (NTAP) Acquires Software Firm To Deepen AI Era Data Protection",
+      "summary": "NetApp (NasdaqGS: NTAP) announced the acquisition of JetStream Software to expand its data protection and cyber resilience offerings for AI workloads and VMware environments. The deal brings JetStream Software's disaster recovery, application protection, and cloud migration technology into NetApp's portfolio for enterprise clients. NetApp aims to use JetStream Software's capabilities to support customers modernizing infrastructure for AI driven applications and hybrid cloud setups. For...",
+      "pub_date": "2026-08-07T12:15:28Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/netapp-ntap-acquires-software-firm-121528850.html"
+    },
     {
       "title": "NetApp (NTAP) Increases Despite Market Slip: Here's What You Need to Know",
       "summary": "NetApp (NTAP) closed at $191.48 in the latest trading session, marking a +2.62% move from the prior day.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-31T21:50:01Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/netapp-ntap-exceeds-market-returns-215001632.html"
-    },
-    {
-      "title": "Here is What to Know Beyond Why NetApp, Inc. (NTAP) is a Trending Stock",
-      "summary": "NetApp (NTAP) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-      "pub_date": "2026-07-30T13:00:04Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-netapp-inc-130004672.html"
     }
   ]
 }

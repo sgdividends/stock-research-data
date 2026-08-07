@@ -1,7 +1,14 @@
 {
   "ticker": "CRWD",
-  "generated_at": "2026-08-07T08:51:55.575505+00:00",
+  "generated_at": "2026-08-07T12:49:23.021061+00:00",
   "items": [
+    {
+      "title": "Bad AI Vs. Good AI: Why Cybersecurity Became A Crucial Tech Battlefield",
+      "summary": "Cybersecurity faces a new era as hackers automate attacks. The troubling trend brings serious implications for AI stocks.",
+      "pub_date": "2026-08-07T12:01:18Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/technology/ai-stocks-cybersecurity-artificial-intelligence-battlefield/?src=A00220&yptr=yahoo"
+    },
     {
       "title": "CrowdStrike Holdings (CRWD) Suffers a Larger Drop Than the General Market: Key Insights",
       "summary": "In the closing of the recent trading day, CrowdStrike Holdings (CRWD) stood at $207.45, denoting a -1.15% move from the preceding trading day.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-04T12:55:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/articles/zscalers-large-deal-activity-surges-125500260.html"
-    },
-    {
-      "title": "131 Poisoned AI Packages Hit Microsoft\u2019s (MSFT) npm. CrowdStrike (CRWD) Couldn\u2019t Ask for a Better Sales Pitch",
-      "summary": "CrowdStrike Holdings, Inc. (NASDAQ:CRWD) said on August 3 that a North Korea-linked adversary injected a malicious dependency into at least 131 Mastra AI framework packages on npm (Node Package Manager). Microsoft Corporation (NASDAQ:MSFT) owns GitHub, which acquired npm in 2020 and operates the registry at the center of the attack chain. This was a developer-supply-chain [\u2026]",
-      "pub_date": "2026-08-04T12:30:42Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/131-poisoned-ai-packages-hit-123042550.html"
     }
   ]
 }

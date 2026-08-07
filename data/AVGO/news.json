@@ -1,7 +1,14 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-08-07T08:51:44.254990+00:00",
+  "generated_at": "2026-08-07T12:49:13.380208+00:00",
   "items": [
+    {
+      "title": "AI Chips Update - AMD Advances AI Strategy With Taalas Acquisition",
+      "summary": "Advanced Micro Devices (AMD) has announced a definitive agreement to acquire Taalas, a specialist in AI inference silicon, aiming to enhance its compute solutions in the dynamic AI inference market. Taalas\u2019 technology, which optimizes inference dataflows to reduce compute and memory bottlenecks, is set to bolster AMD\u2019s AI roadmap by improving inference performance and efficiency. The acquisition will enable AMD to integrate Taalas\u2019 solutions with its existing hardware and software platforms,...",
+      "pub_date": "2026-08-07T11:39:23Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-chips-amd-advances-ai-113923975.html"
+    },
     {
       "title": "Is Broadcom the Best Chip Stock to Own Now? Maybe",
       "summary": "Broadcom sits at a tollbooth on the AI buildout, and one look at its order book raises a question worth asking: why are so many chip investors still looking elsewhere?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-06T18:09:35Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomms-largest-revenue-line-shrinking-180935138.html"
-    },
-    {
-      "title": "AMD's Record Quarter Landed With A Margin Guide That Did Not Move",
-      "summary": "The next leg of growth runs through AI accelerators, and that is the piece management says carries a gross margin slightly below the company average.",
-      "pub_date": "2026-08-06T17:54:19Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amds-record-quarter-landed-margin-175419558.html"
     }
   ]
 }

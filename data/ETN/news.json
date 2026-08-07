@@ -1,7 +1,14 @@
 {
   "ticker": "ETN",
-  "generated_at": "2026-08-07T08:52:03.797842+00:00",
+  "generated_at": "2026-08-07T12:49:30.275716+00:00",
   "items": [
+    {
+      "title": "Dana Incorporated Q2 2026 Earnings Call Summary",
+      "summary": "Moby summary of Dana Incorporated's Q2 2026 earnings call",
+      "pub_date": "2026-08-07T04:00:20Z",
+      "source": "Moby",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dana-incorporated-q2-2026-earnings-040020847.html"
+    },
     {
       "title": "What Does Eaton (ETN) Winning An Air Force Quantum Grid Contract Mean?",
       "summary": "Eaton (NYSE:ETN) received a U.S. Air Force Research Laboratory contract to apply quantum computing and machine learning for power grid resilience. The project focuses on advanced security solutions for critical infrastructure, extending beyond Eaton's existing electrification and data center work. Eaton will work with Infleqtion and Pennsylvania State University to develop and test the new grid protection capabilities. For readers tracking how AI and advanced computing are reshaping...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-06T04:11:28Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/vertiv-becoming-pure-play-digital-041128325.html"
-    },
-    {
-      "title": "Who Will Benefit Most From Amazon and Microsoft\u2019s Hyperscaler Leading AI Capex This Quarter?",
-      "summary": "Amazon and Microsoft are burning through roughly $100 billion a quarter on AI infrastructure, and two companies sit directly in that cash flow's path. One just tripled its free cash flow and rallied hard. The other beat on every line and still dropped 12 percent.",
-      "pub_date": "2026-08-06T04:08:17Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/benefit-most-amazon-microsoft-hyperscaler-040817312.html"
     }
   ]
 }

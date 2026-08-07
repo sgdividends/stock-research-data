@@ -1,7 +1,35 @@
 {
   "ticker": "MU",
-  "generated_at": "2026-08-07T08:52:29.743729+00:00",
+  "generated_at": "2026-08-07T12:49:50.775007+00:00",
   "items": [
+    {
+      "title": "The Overlooked Chip Stock Poised to Lead the AI Memory Boom",
+      "summary": "Silicon Motion Technology operates in a little-known but important part of memory chip infrastructure.",
+      "pub_date": "2026-08-07T12:05:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/overlooked-chip-stock-poised-lead-120500640.html"
+    },
+    {
+      "title": "AI Chips Update - AMD Advances AI Strategy With Taalas Acquisition",
+      "summary": "Advanced Micro Devices (AMD) has announced a definitive agreement to acquire Taalas, a specialist in AI inference silicon, aiming to enhance its compute solutions in the dynamic AI inference market. Taalas\u2019 technology, which optimizes inference dataflows to reduce compute and memory bottlenecks, is set to bolster AMD\u2019s AI roadmap by improving inference performance and efficiency. The acquisition will enable AMD to integrate Taalas\u2019 solutions with its existing hardware and software platforms,...",
+      "pub_date": "2026-08-07T11:39:23Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-chips-amd-advances-ai-113923975.html"
+    },
+    {
+      "title": "Steve Eisman Pushes Back on Michael Burry's Market Top Call: 'I Think It's Premature'",
+      "summary": "Two investors who called the 2008 housing collapse agree the artificial intelligence trade has a dangerous weak spot. They disagree on whether it is time to bet against it. Michael Burry said Tuesday he is maintaining bearish positions against Nvidia...",
+      "pub_date": "2026-08-07T09:45:29Z",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/steve-eisman-pushes-back-michael-094529986.html"
+    },
+    {
+      "title": "Amazon CEO Andy Jassy Just Gave Investors 220 Billion Reasons to Buy Micron Stock",
+      "summary": "Amazon just raised its artificial intelligence (AI) budget to $220 billion, up from a prior estimate of $200 billion.",
+      "pub_date": "2026-08-07T09:20:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-ceo-andy-jassy-just-092000123.html"
+    },
     {
       "title": "SNDK Stock Edges Up Overnight: Jefferies Slashes Price Target By Nearly 50% On Memory Growth Concerns",
       "summary": "SanDisk and Western Digital stocks inched higher overnight after two days of sharp losses, but analysts say moderating growth is beginning to raise red flags.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-08-06T19:00:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/micron-2-profitable-stocks-smart-190000410.html"
-    },
-    {
-      "title": "NVDA Reportedly Weighs Lower-Memory Rubin Ultra GPU Designs To Ease HBM Bottleneck \u2014 Why Retail Is Watching Micron",
-      "summary": "Nvidia is reportedly testing at least three Rubin Ultra variants with reduced HBM capacity.",
-      "pub_date": "2026-08-06T18:21:31Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvda-reportedly-weighs-lower-memory-182131317.html"
-    },
-    {
-      "title": "SpaceX, Honeywell Aerospace, Sandisk, D-Wave, Datadog, and More Stocks That Explain Today\u2019s Market",
-      "summary": "Up to 911.5 million shares of SpaceX that are held by insiders and early investors are available to trade beginning Thursday.",
-      "pub_date": "2026-08-06T17:59:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-58e0a18d?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Buy 5 Top-Ranked Growth Stocks for August to Tap Market Rally",
-      "summary": "MU, STX, FIX, VRT and CLS are growth stocks for August, with AI-driven demand highlighting opportunities in the ongoing market rally.",
-      "pub_date": "2026-08-06T17:42:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-5-top-ranked-growth-174200038.html"
-    },
-    {
-      "title": "Sandisk's Outlook Just Shook the Entire AI Memory Trade",
-      "summary": "Western Digital, Micron, SK Hynix and Samsung also moved lower.",
-      "pub_date": "2026-08-06T17:01:46Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/sandisks-outlook-just-shook-entire-170146630.html"
     }
   ]
 }

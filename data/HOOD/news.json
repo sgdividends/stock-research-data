@@ -1,7 +1,14 @@
 {
   "ticker": "HOOD",
-  "generated_at": "2026-08-07T08:52:13.076966+00:00",
+  "generated_at": "2026-08-07T12:49:37.790741+00:00",
   "items": [
+    {
+      "title": "Morning Minute: MetaMask Hands AI Agents a Wallet",
+      "summary": "MetaMask's Agent Wallet lets AI agents trade crypto on their own. Plus, Bitcoin reclaims $65k despite the Clarity Act facing a new delay.",
+      "pub_date": "2026-08-07T12:00:35Z",
+      "source": "decrypt",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/morning-minute-metamask-hands-ai-120035346.html"
+    },
     {
       "title": "Jim Cramer makes bold call on controversial fintech stock",
       "summary": "Robinhood is one of those stocks that inspires strong opinions in both directions. The retail trading crowd loves it. Institutional investors have historically been suspicious of it. Critics have called it a glorified gambling app. Supporters also argue that it is democratizing finance in ways ...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-05T16:23:08Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/why-spacex-stock-may-keep-tanking-if-history-is-any-indication-162308673.html"
-    },
-    {
-      "title": "Robinhood's UK Crypto Push: Growth Catalyst or Competitive Challenge?",
-      "summary": "HOOD's UK crypto registration expands its reach, but limited permissions, fierce competition and regulatory hurdles may temper near-term gains.",
-      "pub_date": "2026-08-05T13:32:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/robinhoods-uk-crypto-push-growth-133200946.html"
     }
   ]
 }

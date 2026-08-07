@@ -1,27 +1,48 @@
 {
   "ticker": "FDS",
-  "generated_at": "2026-08-07T08:52:05.808674+00:00",
+  "generated_at": "2026-08-07T12:49:31.855981+00:00",
   "items": [
+    {
+      "title": "Lyft Q2 2026 earnings: record bookings, profit miss",
+      "summary": "Gross bookings rose 23% to $5.5 billion in the second quarter, but net income of $50.3 million fell short of analyst estimates",
+      "pub_date": "2026-08-07T11:32:32Z",
+      "source": "Quartz",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lyft-q2-2026-earnings-record-113232603.html"
+    },
+    {
+      "title": "Trade Desk Stock Tumbles as Things Go From Bad to Worse",
+      "summary": "Trade Desk stock slumped 28% in premarket trading after the advertising technology company reported second-quarter revenue that fell short of expectations.  The company reported adjusted earnings of 34 cents a share and revenue of $715 million, up 3% from a year ago.  Analysts tracked by FactSet expected adjusted earnings of 18 cents a share and revenue of $752.6 million.",
+      "pub_date": "2026-08-07T10:19:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/trade-desk-earnings-stock-price-7e6d0eec?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Atlassian Stock Surges 30% After Earnings. So Much for the Software Slump.",
+      "summary": "Atlassian  shares soared around 30% in premarket trading Friday after the collaborative software maker reported better-than-expected fiscal fourth-quarter results and issued optimistic guidance.  Atlassian reported quarterly earnings of $1.87 a share and revenue of $1.77 billion, up 28% from a year ago, late Thursday.",
+      "pub_date": "2026-08-07T09:44:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/atlassian-earnings-stock-price-7f418d02?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "FactSet (FDS) Stock Sees Modest Fair Value Lift As Analysts Debate AI And Margins",
+      "summary": "FactSet Research Systems now carries a slightly higher implied fair value, moving from US$247.50 to US$255.06 per share based on updated analyst assumptions. That shift lines up with recent research in which analysts are recalibrating price targets while debating how much of the AI story, margin pressures, and long term terminal value are already in the stock. As you read on, you will see how these moving targets fit into the broader narrative and how to keep track as it continues to...",
+      "pub_date": "2026-08-07T09:13:20Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/factset-fds-stock-sees-modest-091320840.html"
+    },
+    {
+      "title": "Update: Cloudflare Shares Surge Pre-Bell After Q2 Beat, Upgraded 2026 Guidance",
+      "summary": "(Updates with the stock move in the headline and the first paragraph.) Cloudflare (NET) shares we",
+      "pub_date": "2026-08-07T09:07:04Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-shares-surge-pre-bell-090704969.html"
+    },
     {
       "title": "Consolidated Edison Reports Higher Profit, Revenue",
       "summary": "The New York-based utility company posted a second-quarter profit of $308 million, up from $246 million a year earlier.",
       "pub_date": "2026-08-06T22:56:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/business/earnings/consolidated-edison-reports-higher-profit-revenue-7724646d?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Trade Desk Stock Slumps After Revenue Misses Forecasts",
-      "summary": "Shares of  Trade Desk  slumped 24% in after hours trading after the advertising technology company reported second quarter revenue that fell short of expectations.  The company reported adjusted earnings of 34 cents a share and revenue of $715 million, up 3% from a year ago.  Analysts tracked by FactSet expected adjusted earnings of 18 cents a share and revenue of $752.6 million.",
-      "pub_date": "2026-08-06T21:37:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/the-trade-desk-earnings-stock-price-7e6d0eec?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Atlassian Stock Jumps on Positive Outlook After Earnings Beat",
-      "summary": "Atlassian  shares soared more than 35% in after-hours trading after the collaborative software maker reported better-than-expected fiscal fourth-quarter results and issued optimistic guidance.  Atlassian reported quarterly earnings of $1.87 a share and revenue of $1.77 billion, up 28% from a year ago.",
-      "pub_date": "2026-08-06T21:32:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/atlassian-earnings-stock-price-7f418d02?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Sweetgreen Cuts Outlook as Lettuce Scare Derails Sales Recovery",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-06T20:54:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/business/earnings/sweetgreen-lowers-full-year-outlook-due-to-cyclosporiasis-outbreak-as-loss-widens-a5097e6d?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "DraftKings Second-Quarter Revenue Falls, Hurt by Promotions",
-      "summary": "The online sports betting company posted a loss of $67.6 million for the second quarter, compared with a profit of $157.9 million a year earlier.",
-      "pub_date": "2026-08-06T20:54:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/draftkings-second-quarter-revenue-falls-hurt-by-promotions-708731e8?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Gen Digital Fiscal Q1 Adjusted Earnings, Revenue Rise; Guides Q2, Lifts 2027 Outlook",
-      "summary": "Gen Digital (GEN) reported fiscal Q1 adjusted earnings late Thursday of $0.71 per diluted share, up",
-      "pub_date": "2026-08-06T20:48:17Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gen-digital-fiscal-q1-adjusted-204817507.html"
-    },
-    {
-      "title": "Instacart Shares Rise on Higher Revenue, Strong Outlook",
-      "summary": "The company reported revenue increased to $1.04 billion from $914 million. Wall Street expected $1.03 billion.",
-      "pub_date": "2026-08-06T20:41:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/retail/instacart-revenue-gains-as-gross-transaction-value-orders-increase-8f27cfe7?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

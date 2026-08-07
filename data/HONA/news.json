@@ -1,7 +1,14 @@
 {
   "ticker": "HONA",
-  "generated_at": "2026-08-07T08:52:12.920084+00:00",
+  "generated_at": "2026-08-07T12:49:37.664554+00:00",
   "items": [
+    {
+      "title": "Stock Market News for Aug 7, 2026",
+      "summary": "Wall Street closed lower on Thursday as market participants waited for a permanent settlement of the Middle East geopolitical conflicts.",
+      "pub_date": "2026-08-07T10:35:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-aug-7-103500039.html"
+    },
     {
       "title": "US Stock Market Today S&P 500 Futures Edge Higher On Mixed Growth Signals",
       "summary": "The Morning Bull - US Market Morning Update Friday, Aug, 7 2026 US stock futures are slightly higher this morning, with E mini S&P 500 contracts up about 0.2%, as investors weigh strong services activity against softer hiring and shifting interest rate expectations. The composite PMI for July sits at 54.5, which is a broad scorecard showing private sector growth at a nine month high. However, input costs are at a 14 month high, so the cost of doing business is still rising. At the same time,...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-06T02:04:01Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/markets/stocks/articles/honeywell-aerospace-q2-earnings-call-020401856.html"
-    },
-    {
-      "title": "Honeywell Aerospace Cuts Full-Year Growth Guidance as Supply Constraints Dampen Second-Quarter Sales",
-      "summary": "The company now expects organic growth of 4% to 5% for the full year, down from its prior forecast of 7% to 9%.",
-      "pub_date": "2026-08-05T20:22:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/honeywell-aerospace-cuts-full-year-growth-guidance-as-supply-constraints-dampen-second-quarter-sales-c45776ad?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

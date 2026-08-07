@@ -1,7 +1,14 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-08-07T08:52:14.929386+00:00",
+  "generated_at": "2026-08-07T12:49:39.234923+00:00",
   "items": [
+    {
+      "title": "IBM previews Apptio AI Value & ROI to track AI spend and results",
+      "summary": "The new tool aims to link AI spending, including token costs, to business outcomes for clearer ROI measurement.",
+      "pub_date": "2026-08-07T11:00:59Z",
+      "source": "Verdict",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-previews-apptio-ai-value-110059340.html"
+    },
     {
       "title": "IBM\u2019s Post-Collapse Rebound: A Complex Risk Reward Profile Today at $233",
       "summary": "IBM has bounced sharply off its post-earnings collapse, but a securities fraud inquiry and crumbling mainframe sales are pulling against a software business growing at record pace. The question is whether that rebound is a buying opportunity or a trap investors cannot yet see clearly.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-06T01:45:29Z",
       "source": "Moby",
       "url": "https://finance.yahoo.com/markets/stocks/articles/kyndryl-holdings-inc-q1-2027-014529608.html"
-    },
-    {
-      "title": "Betting On AI Servers? Dell's Order Book Deserves A Look",
-      "summary": "Both hardware giants are riding the AI boom, but one has a dramatically larger backlog and a surprisingly cheaper valuation, making it the cleaner bet on the industry's future.",
-      "pub_date": "2026-08-05T22:27:34Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/technology/ai/articles/betting-ai-servers-dells-order-222734363.html"
     }
   ]
 }

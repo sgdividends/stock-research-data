@@ -1,7 +1,21 @@
 {
   "ticker": "WDC",
-  "generated_at": "2026-08-07T08:52:56.430285+00:00",
+  "generated_at": "2026-08-07T12:50:12.186805+00:00",
   "items": [
+    {
+      "title": "Earnings live updates: The Trade Desk stock plummets on earnings miss, Wendy's cuts outlook",
+      "summary": "Earnings continue to be the market's engine, and a series of results this week from Palantir, SpaceX, and AMD are set to rev up stocks again.",
+      "pub_date": "2026-08-03T13:04:25Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-130425228.html"
+    },
+    {
+      "title": "US Jobs Report in Focus as Middle East Tensions and Corporate News Shape Markets: Dow Jones, S&P, Nasdaq, Wall Street Futures",
+      "summary": "US stock futures traded close to unchanged on Friday as investors awaited the latest employment data, a key release that could influence the Federal Reserve\u2019s next interest rate decision. Markets were also monitoring renewed geopolitical tensions in the Middle East following a fresh Houthi attack on Saudi Arabia, while reports suggested Iran and Oman are nearing an agreement over shipping through the Strait of Hormuz.",
+      "pub_date": "2026-08-07T08:35:36Z",
+      "source": "InvestorsHub",
+      "url": "https://finance.yahoo.com/economy/policy/articles/us-jobs-report-focus-middle-083536543.html"
+    },
     {
       "title": "SNDK, WDC Rout Tests Chip Rally \u2014 Roundhill CEO Says \u2018Beat And Raise Is Not Enough\u2019 As Investors Return To NVDA",
       "summary": "Roundhill CEO Dave Mazza called the memory pullback a leverage-driven \u201cshakeout and repositioning,\u201d even as DRAM attracted fresh inflows.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-06T21:07:07Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-06-2026/card/stocks-to-watch-western-digital-sandisk-warner-bros-discovery-ralph-lauren-5swe90QLrnjQAkDnczXG?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Micron Pares Most of Its Losses Even as Other Memory Stocks Reel",
-      "summary": "Shares dipped and then recovered after Sandisk and Western Digital failed to deliver the sort of knockout guidance investors are used to.",
-      "pub_date": "2026-08-06T20:59:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/micron-stock-memory-chip-73cdf24e?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Stock Market Today: Dow Sinks 464 Points, But Chip Firm Surges; Microsoft Surpasses Buy Zone (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index ends lower Thursday, as does the Nasdaq composite. Sandisk and Western Digital slump.",
-      "pub_date": "2026-08-06T20:58:05Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-ai-stocks-sandisk-western-digital/?src=A00220&yptr=yahoo"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-08-07T08:51:55.380647+00:00",
+  "generated_at": "2026-08-07T12:49:22.867951+00:00",
   "items": [
     {
       "title": "Software stocks sink, led by declines from Figma, Datadog",
@@ -10,11 +10,25 @@
       "url": "https://finance.yahoo.com/markets/article/software-stocks-sink-led-by-declines-from-figma-datadog-144104020.html"
     },
     {
+      "title": "Just How Wide Is the Risk Priced Into Adobe Stock?",
+      "summary": "The options market is pricing a vast range of outcomes for the creative software giant, and if you hold the shares, you are already exposed to the full ride.",
+      "pub_date": "2026-08-07T12:22:23Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/just-wide-risk-priced-adobe-122223397.html"
+    },
+    {
       "title": "What Microsoft Stock's Thin Earnings Premium Is Actually Buying",
       "summary": "A modest earnings premium sits on top of one exceptional margin, and the AI build-out is now pressing on that margin.",
       "pub_date": "2026-08-06T18:36:36Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stocks-thin-earnings-premium-183636004.html"
+    },
+    {
+      "title": "Airtable\u2019s cut-price sale is just the start for software also-rans",
+      "summary": "In medieval Europe, the grim reaper evolved as a personification of impending doom. For technology companies, the modern equivalent is Bending...",
+      "pub_date": "2026-08-06T17:13:25Z",
+      "source": "Financial Times",
+      "url": "https://finance.yahoo.com/technology/articles/airtable-cut-price-sale-just-171325527.html"
     },
     {
       "title": "Marc Benioff Says Wall Street's Fears That AI Will Kill Salesforce Are \"Dead Wrong\" Even as CRM Stock Has Fallen Over 30% in 2026. Should Investors Bet on His Conviction?",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-06T12:24:53Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-declined-market-questions-122453256.html"
-    },
-    {
-      "title": "First Advantage (FA) Q2 Earnings and Revenues Beat Estimates",
-      "summary": "First Advantage (FA) delivered earnings and revenue surprises of +20.69% and +7.60%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?",
-      "pub_date": "2026-08-06T11:35:03Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/first-advantage-fa-q2-earnings-113503532.html"
-    },
-    {
-      "title": "Why Is Salesforce (CRM) Deploying IL5 AI Agents In A Major Government Role?",
-      "summary": "Salesforce (NYSE:CRM) has deployed IL5-authorized Agentforce 360 AI agents to the U.S. Army Human Resources Command under Missionforce National Security. The rollout introduces autonomous, always-on AI support for millions of Soldiers, Veterans, and families across routine HR processes. The deployment is described as the first use of IL5-authorized AI agents within the Department of War for mission-critical human resources workloads. The system is intended to automate standard tasks and free...",
-      "pub_date": "2026-08-06T10:13:10Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/why-salesforce-crm-deploying-il5-101310128.html"
     }
   ]
 }
