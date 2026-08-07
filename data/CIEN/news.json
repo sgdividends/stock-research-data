@@ -1,7 +1,21 @@
 {
   "ticker": "CIEN",
-  "generated_at": "2026-08-06T13:50:49.575507+00:00",
+  "generated_at": "2026-08-07T00:51:44.726653+00:00",
   "items": [
+    {
+      "title": "Arista Networks Stock Followed Its Chip Orders, Not Its Headlines",
+      "summary": "The case for the run sat in chip commitments and unrecognized product revenue quarters before Arista Networks stock caught up.",
+      "pub_date": "2026-08-06T20:15:00Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-stock-followed-chip-201500950.html"
+    },
+    {
+      "title": "Is Arista Networks (ANET) Outperforming Other Computer and Technology Stocks This Year?",
+      "summary": "Here is how Arista Networks (ANET) and Ciena (CIEN) have performed compared to their sector so far this year.",
+      "pub_date": "2026-08-06T13:40:02Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-anet-outperforming-other-134002277.html"
+    },
     {
       "title": "The Trump Administration Just Gave Ciena Stock a Huge Boost. What to Know.",
       "summary": "Networking stocks surge as Trump drafts a ban on a vital Chinese data center component.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-05T15:04:23Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/markets/stocks/articles/extreme-networks-q4-earnings-call-150423179.html"
-    },
-    {
-      "title": "Ciena (CIEN) Is Up 17.3% After Quantum-Safe 1.6 Tb/s Networking Trial Success \u2013 Has The Bull Case Changed?",
-      "summary": "In early August 2026, Quantum Corridor Inc. reported a successful trial of high-speed quantum-safe networking on its live Midwest commercial network, using Ciena\u2019s WaveLogic 6 Extreme 1.6 Tb/s quantum-safe encryption and Toshiba\u2019s quantum key distribution technology alongside existing WaveLogic 5 Extreme 800G traffic. The trial highlights how Ciena\u2019s hybrid approach combining post-quantum cryptography with quantum key distribution can help operators secure current high-capacity networks...",
-      "pub_date": "2026-08-05T13:11:21Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ciena-cien-17-3-quantum-131121962.html"
-    },
-    {
-      "title": "Ciena (CIEN) Completes Quantum Safe Networking Trial With Toshiba And Quantum Corridor",
-      "summary": "Ciena (NYSE:CIEN) completed a trial of quantum-safe networking with Quantum Corridor Inc. and Toshiba International Corporation. The test combined Ciena's WaveLogic 6 Extreme platform with Toshiba's quantum key distribution encryption technology. The trial focused on providing quantum-safe data protection for enterprises and service providers facing rising cybersecurity risks. Ciena is best known for its optical networking and routing solutions that sit at the core of telecom and cloud...",
-      "pub_date": "2026-08-05T12:13:32Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/articles/ciena-cien-completes-quantum-safe-121332985.html"
     }
   ]
 }

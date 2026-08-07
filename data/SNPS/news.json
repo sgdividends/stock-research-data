@@ -1,7 +1,14 @@
 {
   "ticker": "SNPS",
-  "generated_at": "2026-08-06T13:51:34.943786+00:00",
+  "generated_at": "2026-08-07T00:52:37.202562+00:00",
   "items": [
+    {
+      "title": "Synopsys (SNPS) Increases Despite Market Slip: Here's What You Need to Know",
+      "summary": "Synopsys (SNPS) concluded the recent trading session at $405.98, signifying a +1.29% move from its prior day's close.",
+      "pub_date": "2026-08-06T21:45:02Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/synopsys-snps-increases-despite-market-214502353.html"
+    },
     {
       "title": "Nvidia (NVDA) Uses Own Chips for Design, While AMD (AMD) Relies on Rivals",
       "summary": "Nvidia (NASDAQ:NVDA) just closed a loop that sounds almost recursive. On July 26, the company said its Vera CPU is now being used inside the electronic design automation workflows that will produce Nvidia\u2019s own next-generation CPUs and GPUs, with early testing on Cadence and Synopsys tools showing up to 1.5x faster verification and simulation performance. [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-29T19:28:30Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/technology/ai/articles/agentic-ai-coming-chip-design-192830292.html"
-    },
-    {
-      "title": "Synopsys Doubles Down on AI Chip Design With Microsoft and AMD. How to Play SNPS Stock Here.",
-      "summary": "Synopsys unveiled autonomous AI chip design workflows with Microsoft and AMD while analysts continue to see substantial upside despite the stock's recent decline.",
-      "pub_date": "2026-07-29T18:36:37Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/technology/ai/articles/synopsys-doubles-down-ai-chip-183637901.html"
     }
   ]
 }

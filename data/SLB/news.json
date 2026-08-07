@@ -1,7 +1,14 @@
 {
   "ticker": "SLB",
-  "generated_at": "2026-08-06T13:51:34.427335+00:00",
+  "generated_at": "2026-08-07T00:52:36.585687+00:00",
   "items": [
+    {
+      "title": "Sector Update: Energy Stocks Gain Late Afternoon",
+      "summary": "Energy stocks were higher late Thursday afternoon, with the NYSE Energy Sector Index rising 1.6% and",
+      "pub_date": "2026-08-06T19:59:03Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-195903141.html"
+    },
     {
       "title": "How Baker Hughes' Chart Deal Could Reshape Its Growth and Risk Profile",
       "summary": "BKR's Chart acquisition broadens its industrial reach and recurring revenues, but higher debt makes integration and deleveraging the key tests.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-30T11:44:37Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-slb-stock-114437664.html"
-    },
-    {
-      "title": "SLB (SLB) Stock Looks Reasonable Despite Its 93% Five Year Run",
-      "summary": "SLB has almost doubled investors' money over the past five years, yet its latest intrinsic value work using a Discounted Cash Flow (DCF) approach still points to a sizeable gap between the current share price and what the cash flows imply. SLB has returned 93.0% over the last five years, which puts recent valuation questions in the context of a stock that has already rewarded patient holders. Growth expectations around SLB's energy services and data center infrastructure efforts can support...",
-      "pub_date": "2026-07-29T17:09:44Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/slb-slb-stock-looks-reasonable-170944013.html"
     }
   ]
 }

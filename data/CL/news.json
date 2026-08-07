@@ -1,7 +1,14 @@
 {
   "ticker": "CL",
-  "generated_at": "2026-08-06T13:50:49.892527+00:00",
+  "generated_at": "2026-08-07T00:51:45.122818+00:00",
   "items": [
+    {
+      "title": "US oil imports from Saudi Arabia at zero in July, first time in 40 years",
+      "summary": "Investing.com -- US imports of Saudi Arabian oil fell to zero in July, marking the first time an entire month passed without such shipments since 1985, preliminary government data showed.",
+      "pub_date": "2026-08-06T18:33:50Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/energy/articles/us-oil-imports-saudi-arabia-183350172.html"
+    },
     {
       "title": "Gulf oil exports steady in July despite fighting, still below pre-war levels",
       "summary": "Investing.com -- Crude oil and condensate exports from Gulf countries remained largely unchanged in July, staying approximately 40% below pre-war levels, according to shipping data. The stability in export volumes has helped reduce concerns about more severe supply disruptions.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-01T05:49:06Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/economy/policy/articles/iran-war-pushes-companies-raise-054906683.html"
-    },
-    {
-      "title": "U.S. embassies issue evacuation warnings across Middle East amid Iran strikes",
-      "summary": "Investing.com -- U.S. embassies in Baghdad, Jerusalem, Amman and the U.S. Mission to the UAE all issued emergency security alerts on Saturday urging Americans to consider departing the region and prepare for flight cancellations and airspace closures.",
-      "pub_date": "2026-07-31T23:12:00Z",
-      "source": "Investing.com",
-      "url": "https://www.yahoo.com/news/politics/articles/trump-approves-iran-strikes-could-231200408.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "IBKR",
-  "generated_at": "2026-08-06T13:51:10.155179+00:00",
+  "generated_at": "2026-08-07T00:52:09.167076+00:00",
   "items": [
+    {
+      "title": "SNEX Q3 Earnings Top on Commercial and Institutional Gains, Stock Dips",
+      "summary": "StoneX's fiscal Q3 earnings and revenues beat estimates as Commercial and Institutional gains offset Retail weakness, though shares slipped after hours.",
+      "pub_date": "2026-08-06T13:15:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/snex-q3-earnings-top-commercial-131500148.html"
+    },
     {
       "title": "Interactive Brokers (IBKR) Stock Could Be 43% Above Fair Value Despite AI Connectivity News",
       "summary": "Interactive Brokers Group has delivered very strong share price gains over the last five years, yet both its intrinsic value estimate from the Excess Returns model and its market multiples currently point to the stock trading at a premium to those fundamentals. Interactive Brokers Group has returned about 471.1% over the last five years, which sets a very high bar for any further upside to be supported by the underlying valuation. The recent move to open client connectivity to a wide range...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-03T14:08:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stonex-set-report-q3-earnings-140800408.html"
-    },
-    {
-      "title": "Coinbase Due After Robinhood Earnings Soar On Record Trading Volumes",
-      "summary": "Coinbase earnings are on deck after the market close on Thursday and after Robinhood earnings smashed expectations on Wednesday.  For the second quarter, Robinhood reported records in trading volumes and Gold subscribers.  Coinbase is on deck late Thursday.",
-      "pub_date": "2026-07-30T19:50:10Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/robinhood-earnings-q2-robinhood-stock-coinbase/?src=A00220&yptr=yahoo"
     }
   ]
 }

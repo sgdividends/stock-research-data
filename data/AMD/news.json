@@ -1,62 +1,62 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-08-06T13:50:39.288826+00:00",
+  "generated_at": "2026-08-07T00:51:34.118554+00:00",
   "items": [
     {
-      "title": "Tech stocks today: SpaceX lockup ends, Google faces AI leadership shakeup",
-      "summary": "Tech stocks coverage for the week of Aug. 3.",
-      "pub_date": "2026-08-03T14:04:19Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-spacex-lockup-ends-google-faces-ai-leadership-shakeup-140419479.html"
-    },
-    {
-      "title": "The companies defying macro uncertainty and raising guidance: AlphaCheck",
-      "summary": "Investors have plenty of reasons to be uncertain right now. But that has not wholly shaken companies' faith in their ability to deliver strong earnings growth this year.",
-      "pub_date": "2026-08-05T14:06:05Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/the-companies-defying-macro-uncertainty-and-raising-guidance-alphacheck-140605238.html"
-    },
-    {
-      "title": "Nvidia at $212: The No-Brainer Reason to Take Advantage of Nvidia Right Now",
-      "summary": "Nvidia's earnings are compounding at triple-digit rates while its forward multiple sits in the low 20s, a mismatch that rarely lasts long. Here is what the numbers reveal about whether the current price represents a window or a warning.",
-      "pub_date": "2026-08-06T13:27:57Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-212-no-brainer-reason-132757685.html"
-    },
-    {
-      "title": "MU, WDC, SKHY, AMD \u2014 VanEck\u2019s Nicholas Frasse Downplays Volatility In Semiconductor Stocks, Says Chip Trade Is Still Very Strong",
-      "summary": "During an interview with CNBC, Frasse said that the current downturn and volatility in chip and memory stocks is just a reversion to the mean more than anything else.",
-      "pub_date": "2026-08-06T12:59:34Z",
+      "title": "AMD Buys Toronto AI Chip Startup Taalas \u2014 Retail Says It\u2019s A Move To \u2018Compete More Directly With Nvidia\u2019",
+      "summary": "The acquisition adds specialized AI inference technology to AMD\u2019s roadmap as the chipmaker expands its full-stack AI platform beyond GPUs.",
+      "pub_date": "2026-08-06T23:25:52Z",
       "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mu-wdc-skhy-amd-vaneck-125934125.html"
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-buys-toronto-ai-chip-232552419.html"
     },
     {
-      "title": "High Beta Runners Up: Why AMD and Marvell Technology Now Command Attention",
-      "summary": "AMD and Marvell have both crushed earnings while lapping NVIDIA and Broadcom on year-to-date returns, but their strategies for capturing AI infrastructure spending point in completely opposite directions, and only one of them fits every type of investor.",
-      "pub_date": "2026-08-06T12:51:31Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/high-beta-runners-why-amd-125131083.html"
+      "title": "Nvidia dominates AI chips, but BofA sees AMD closing in",
+      "summary": "Twenty years ago, Advanced Micro Devices Inc. (AMD) spent the better part of a decade selling processors into a market Intel dominated, waiting for the moment Intel could not keep pace with demand on its own. That moment eventually arrived, and AMD converted patience into real share of the server ...",
+      "pub_date": "2026-08-06T22:33:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-dominates-ai-chips-bofa-223300866.html"
     },
     {
-      "title": "Dow Jones Futures Rise But Techs Fall As Sandisk, Western Digital, Datadog Lead Earnings Losers",
-      "summary": "The Dow Jones hit a new high thanks to Nvidia, but Google, SpaceX and AMD weighed on the Nasdaq. Sandisk, Western Digital fell late.",
-      "pub_date": "2026-08-06T12:04:49Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-google-spacex-skid-sandisk-western-digital-earnings/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Wall Street set for mixed open after sentiment rebounds in European trading",
-      "summary": "By Elizabeth Howcroft PARIS, Aug 6 (Reuters) - Investor sentiment rebounded during European trading on Thursday, helped by optimism about company earnings, but Wall Street was set for a mixed opening,",
-      "pub_date": "2026-08-06T11:53:29Z",
+      "title": "AMD deepens AI inference bet with Taalas deal as chip race heats up",
+      "summary": "Advanced Micro Devices said on Thursday it would buy chip startup Taalas for an undisclosed amount, \u200cstrengthening its technology as it taps into the rapidly growing \u200cmarket for AI inference workloads. Toronto-based Taalas develops specialized silicon designed to reduce computing \u200band memory bottlenecks in AI inference, the process of running trained AI models to generate responses or predictions. Specialized inference chips have become a critical focus for semiconductor makers as AI shifts from training to real-time, \u200chigh-volume deployment, and companies \u2060race to cut computing costs.",
+      "pub_date": "2026-08-06T21:27:23Z",
       "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-shares-ease-tech-pullback-012838047.html"
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-deepens-ai-inference-bet-212723775.html"
     },
     {
-      "title": "Load Up On AMD Because Its High Beta Will Reward You Now",
-      "summary": "AMD's brutal 2.49 beta has punished shareholders for years, but at this stage of the AI capex cycle, that same volatility becomes a weapon. The question is whether the current entry point captures the upside before the next catalyst or hands you a painful lesson in timing.",
-      "pub_date": "2026-08-06T11:47:32Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/load-amd-because-high-beta-114732171.html"
+      "title": "Nvidia (NVDA) Bets on Design Tools While AMD (AMD) Scales the Hardware Stack",
+      "summary": "Nvidia Corporation (NASDAQ:NVDA) already sells the chips that train and run the world\u2019s AI models. On July 26, the company made a case for owning a lot more of the design process too, expanding NVIDIA Agent Toolkit for engineering with the PhysicsNeMo and CUDA-X libraries that let software agents run physics simulations, solvers, and even [\u2026]",
+      "pub_date": "2026-08-06T21:17:28Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-bets-design-tools-211728491.html"
+    },
+    {
+      "title": "Nvidia, Microsoft Partner Tests Breakout. Three Clues Bode Well.",
+      "summary": "A fresh breakout into buy range is just one reason to watch Dell stock. Robust demand and alliances with Nvidia, AMD and Microsoft fuel more.",
+      "pub_date": "2026-08-06T20:00:17Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/research/ibd-stock-analysis/dell-stock-rises-ai-collaboration-with-nvidia-microsoft-amd/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Advanced Micro Devices vs. Sandisk: Comparing the Latest Quarterly Revenue Trends as AI Demand Spikes Sales",
+      "summary": "Sandisk's revenue has accelerated sharply in recent quarters, while AMD has grown more steadily\u2014a divergence that narrows the historical gap between these chip-sector heavyweights.",
+      "pub_date": "2026-08-06T19:54:38Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-vs-sandisk-195438199.html"
+    },
+    {
+      "title": "AI Workloads Drive CPU Demand as AMD Discusses Longer-Term China Deals",
+      "summary": "Advanced Micro Devices, Inc. (NASDAQ:AMD) is poised to benefit from the next phase of the AI infrastructure boom. This comes as chip demand expands beyond graphics processing units (GPUs) into central processing units (CPUs) and other data center products. According to a Reuters report on July 23, AMD and Intel Corp (NASDAQ:INTC) are negotiating longer-term [\u2026]",
+      "pub_date": "2026-08-06T18:20:55Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-workloads-drive-cpu-demand-182055034.html"
+    },
+    {
+      "title": "Qualcomm's Largest Revenue Line Is Shrinking From Both Sides",
+      "summary": "The handset chip business still supplies most of Qualcomm's revenue, and it is now shrinking year over year on the Android side and stepping down on the Apple side at the same time.",
+      "pub_date": "2026-08-06T18:09:35Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomms-largest-revenue-line-shrinking-180935138.html"
     }
   ]
 }

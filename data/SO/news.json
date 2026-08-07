@@ -1,7 +1,14 @@
 {
   "ticker": "SO",
-  "generated_at": "2026-08-06T13:51:35.062092+00:00",
+  "generated_at": "2026-08-07T00:52:37.349799+00:00",
   "items": [
+    {
+      "title": "What Are Wall Street Analysts' Target Price for Southern Company Stock?",
+      "summary": "Despite Southern Company's lackluster share price performance over the past year, Wall Street remains cautiously optimistic about the utility's long-term prospects.",
+      "pub_date": "2026-08-06T10:16:23Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-101623353.html"
+    },
     {
       "title": "Top Analyst Reports for Broadcom, Coca-Cola & Palantir",
       "summary": "Broadcom's AI momentum, Coca-Cola's resilient growth and Palantir's expanding AI strategy headline today's top analyst reports.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-03T16:57:00Z",
       "source": "CorpGov.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/vinson-elkins-adds-cross-border-165700789.html"
-    },
-    {
-      "title": "Georgia Power starts construction on 1.5GW gas units at Plant Bowen",
-      "summary": "Georgia Power is also developing a 500MW BESS at Plant Bowen to support evolving electricity demand and grid flexibility.",
-      "pub_date": "2026-08-03T08:47:50Z",
-      "source": "Power Technology",
-      "url": "https://finance.yahoo.com/energy/articles/georgia-power-starts-construction-1-084750347.html"
     }
   ]
 }

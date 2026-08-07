@@ -1,7 +1,14 @@
 {
   "ticker": "ADP",
-  "generated_at": "2026-08-06T13:50:36.378159+00:00",
+  "generated_at": "2026-08-07T00:51:31.626946+00:00",
   "items": [
+    {
+      "title": "Jobs report preview: Payrolls expected to grow by 80,000, unemployment seen holding steady",
+      "summary": "Figures coming Friday from the Labor Department will be the arbiter of whether the job market remained stable in July.",
+      "pub_date": "2026-08-06T17:07:15Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/article/jobs-report-preview-payrolls-expected-to-grow-by-80000-unemployment-seen-holding-steady-170715590.html"
+    },
     {
       "title": "Silver prices today, Thursday, August 6, 2026: Silver opens at highest price since June",
       "summary": "Silver (SI=F) September futures opened at $62.20 per ounce on Thursday, August 6, 2026, down 0.1% from Wednesday's closing price, but up over 4% from yesterday\u2019s opening pice. Silver prices moved lower this morning, reaching $61.73 as of 9:12 a.m. ET.",
@@ -10,11 +17,11 @@
       "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-august-6-2026-silver-opens-at-highest-price-since-june-132242385.html"
     },
     {
-      "title": "Jobs data live updates: Tech sector responsible for nearly a third of job-cut plans, Challenger data shows",
-      "summary": "Friday's jobs report will shed light on the state of the labor market, with the federal government's payroll figures for July expected to show an improvement from the month prior.\u00a0",
-      "pub_date": "2026-08-06T11:36:47Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/economy/live/jobs-data-live-updates-tech-sector-responsible-for-nearly-a-third-of-job-cut-plans-challenger-data-shows-113647147.html"
+      "title": "Microsoft vs. Automatic Data Processing: Scale vs. Seasonality in Revenue",
+      "summary": "Microsoft's revenue has grown every quarter in the past two years, while ADP swings between peaks and troughs -- a divergence that reveals starkly different business models.",
+      "pub_date": "2026-08-06T20:31:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-vs-automatic-data-processing-203101390.html"
     },
     {
       "title": "Stocks Mostly Up Pre-Bell as Investors Weigh Potential Iran-Oman Hormuz Deal, Await More Earnings",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-05T18:24:03Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/economy/articles/daily-roundup-key-us-economic-182403787.html"
-    },
-    {
-      "title": "GLD Sees Biggest Single-Day Gains Since February \u2013 But YTD Returns Still Remain In Negative Territory",
-      "summary": "At the time of writing, spot gold was trading more than 4.3% higher at $4,252 an ounce, its highest level since June 18.",
-      "pub_date": "2026-08-05T18:05:24Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gld-sees-biggest-single-day-180524654.html"
     }
   ]
 }

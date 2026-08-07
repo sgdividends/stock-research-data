@@ -1,7 +1,14 @@
 {
   "ticker": "TTWO",
-  "generated_at": "2026-08-06T13:51:40.469055+00:00",
+  "generated_at": "2026-08-07T00:52:43.779588+00:00",
   "items": [
+    {
+      "title": "Correction: S&P 500 Posts Weekly Gain Amid AI Monetization Optimism",
+      "summary": "(Corrects to remove detailed Microsoft information as story published July 31 included Q3 data.)",
+      "pub_date": "2026-08-06T13:56:22Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/correction-p-500-posts-weekly-135622152.html"
+    },
     {
       "title": "Take-Two Set to Report Q1 Earnings: What's in the Cards for the Stock?",
       "summary": "TTWO prepares for Q1 results as GTA VI marketing, strong bookings and mobile growth shape expectations ahead of earnings.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-31T15:11:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sirius-xm-q2-earnings-miss-151100859.html"
-    },
-    {
-      "title": "ASML and 21 More Stocks to Consider Buying Out of the AI Wreckage",
-      "summary": "It\u2019s a vibes market and it doesn\u2019t matter how good earnings or guidance is for many companies, writes Mizuho analyst Jordan Klein.",
-      "pub_date": "2026-07-30T21:25:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/asml-ai-stocks-buy-now-fd120464?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
