@@ -1,7 +1,14 @@
 {
   "ticker": "BA",
-  "generated_at": "2026-08-07T05:31:01.158551+00:00",
+  "generated_at": "2026-08-07T08:51:45.234696+00:00",
   "items": [
+    {
+      "title": "FAA Orders Inspections of Over 400 Boeing 737 Max Jets for Possible Cracks",
+      "summary": "The Federal Aviation Administration has ordered the inspections of Boeing 737 Max jets for cracks of a component that could affect the structural integrity of the planes.",
+      "pub_date": "2026-08-07T04:13:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/airlines/faa-orders-inspections-of-over-400-boeing-737-max-jets-for-possible-cracks-c41ec557?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Why Joby Aviation Stock Flew Higher Today",
       "summary": "The company is making great progress in developing its transportation-as-a-service business.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-05T13:31:10Z",
       "source": "Benzinga",
       "url": "https://finance.yahoo.com/technology/articles/boeing-smallest-737-max-finally-133110456.html"
-    },
-    {
-      "title": "As airlines struggle, their suppliers are flying high",
-      "summary": "It is a great time to be in the business of air travel \u2014 provided you are not actually an airline. Companies that supply and maintain aircraft...",
-      "pub_date": "2026-08-05T11:19:15Z",
-      "source": "Financial Times",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/airlines-struggle-suppliers-flying-high-111915194.html"
     }
   ]
 }

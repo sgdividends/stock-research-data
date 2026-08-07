@@ -1,7 +1,14 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-08-07T05:30:57.495634+00:00",
+  "generated_at": "2026-08-07T08:51:41.036289+00:00",
   "items": [
+    {
+      "title": "AMD to acquire Taalas for specialised AI inference silicon",
+      "summary": "The deal will see AMD integrate Taalas\u2019 technology into its accelerator roadmap and develop system-level solutions with Instinct GPUs.",
+      "pub_date": "2026-08-07T08:36:57Z",
+      "source": "Verdict",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-acquire-taalas-specialised-ai-083657301.html"
+    },
     {
       "title": "Is Broadcom the Best Chip Stock to Own Now? Maybe",
       "summary": "Broadcom sits at a tollbooth on the AI buildout, and one look at its order book raises a question worth asking: why are so many chip investors still looking elsewhere?",
@@ -15,6 +22,13 @@
       "pub_date": "2026-08-07T04:53:52Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/amd-focused-correctly-continue-loading-045352115.html"
+    },
+    {
+      "title": "Earnings Have Been Excellent. Why Stocks Aren\u2019t Showing It.",
+      "summary": "A mix of high expectations, profit-taking, and a slight dip in valuations has sent S&P 500 stocks sputtering even after solid earnings reports.",
+      "pub_date": "2026-08-07T04:30:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/earnings-report-stock-price-sp500-643a3249?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Chinese AI Chipmakers Poised to Gain From Beijing\u2019s Tech Push",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-06T22:33:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-dominates-ai-chips-bofa-223300866.html"
-    },
-    {
-      "title": "AMD deepens AI inference bet with Taalas deal as chip race heats up",
-      "summary": "Advanced Micro Devices said on Thursday it would buy chip startup Taalas for an undisclosed amount, \u200cstrengthening its technology as it taps into the rapidly growing \u200cmarket for AI inference workloads. Toronto-based Taalas develops specialized silicon designed to reduce computing \u200band memory bottlenecks in AI inference, the process of running trained AI models to generate responses or predictions. Specialized inference chips have become a critical focus for semiconductor makers as AI shifts from training to real-time, \u200chigh-volume deployment, and companies \u2060race to cut computing costs.",
-      "pub_date": "2026-08-06T21:27:23Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amd-deepens-ai-inference-bet-212723775.html"
-    },
-    {
-      "title": "Nvidia (NVDA) Bets on Design Tools While AMD (AMD) Scales the Hardware Stack",
-      "summary": "Nvidia Corporation (NASDAQ:NVDA) already sells the chips that train and run the world\u2019s AI models. On July 26, the company made a case for owning a lot more of the design process too, expanding NVIDIA Agent Toolkit for engineering with the PhysicsNeMo and CUDA-X libraries that let software agents run physics simulations, solvers, and even [\u2026]",
-      "pub_date": "2026-08-06T21:17:28Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-bets-design-tools-211728491.html"
     }
   ]
 }

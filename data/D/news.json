@@ -1,7 +1,14 @@
 {
   "ticker": "D",
-  "generated_at": "2026-08-07T05:31:11.466985+00:00",
+  "generated_at": "2026-08-07T08:51:57.123139+00:00",
   "items": [
+    {
+      "title": "Dominion Energy (D) Starts Requiring Bank Guarantees For AI Data Center Power Deals",
+      "summary": "Dominion Energy (NYSE:D) is asking AI data center developers to provide bank letters of credit to secure large power commitments. The utility is using financial guarantees to screen speculative projects tied to rapid AI related power demand. The shift is intended to limit potential financial risk for Dominion Energy and its customer base as grid investment needs grow. Rising power needs from AI data centers are reshaping grid investment plans, so it can be useful to look at other companies...",
+      "pub_date": "2026-08-07T06:12:34Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/energy/articles/dominion-energy-d-starts-requiring-061234176.html"
+    },
     {
       "title": "Spanberger intervenes in case to decide fate of Dominion-NextEra merger",
       "summary": "Gov. Abigail Spanberger announced Thursday that she will formally become a party in the case before the State Corporation Commission that is weighing whether to allow a proposed merger between Dominion Energy and Florida-based NextEra. By intervening \u2014 requesting to become a formal party in the case \u2014 the governor\u2019s office would be able to ask discovery questions, file expert testimony, put ...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-05T12:08:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/southern-company-stock-worth-buying-120800908.html"
-    },
-    {
-      "title": "AI Power Demands Spur Builders to Seek Billions in Bank Pledges",
-      "summary": "(Bloomberg) -- Power utilities across the US are already strained from AI data centers. But they\u2019re increasingly facing an even bigger threat: that developers will be forced to walk away from projects, leaving households on the hook for massive infrastructure bills.Most Read from BloombergBeer Dynasty Families Sell \u20ac731 Million Stake in AB InBevApple\u2019s New CEO Taps Retired Hardware Executive for Management TeamTaco Bell Met With Michigan on Parasite Weeks Before RecallMamdani Dismisses Business",
-      "pub_date": "2026-08-04T09:30:00Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-power-demands-spur-builders-093000020.html"
     }
   ]
 }

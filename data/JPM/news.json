@@ -1,7 +1,14 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-08-07T05:31:30.680969+00:00",
+  "generated_at": "2026-08-07T08:52:19.050360+00:00",
   "items": [
+    {
+      "title": "The New Wild West: Texas Experiments With Raw Capitalism",
+      "summary": "The state\u2019s light requlation and low taxes are luring dozens of big companies. It\u2019s also setting up a water crisis and a \u201crace to the bottom\u201d in shareholder protections.",
+      "pub_date": "2026-08-07T05:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/texas-capitalism-regulation-taxes-18860b3e?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Jane Street Looks to Rework $11 Billion Debt Into Private Credit",
       "summary": "(Bloomberg) -- Jane Street is negotiating with a group of investors in a private-credit deal that would rework the firm\u2019s $11 billion debt load and limit its financial disclosures to market participants, according to people with knowledge of the matter.Most Read from BloombergIran Says Agreement on Hormuz Shipping Reached With OmanGoogle AI Veterans Depart During Seismic Leadership ShiftWhy Do Data Centers Use So Much Fresh Water?Ishbia\u2019s Mortgage Firm Suffers Record Drop on Dividend HaltTrump M",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-06T17:46:25Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-issued-quiet-warning-exchange-174625106.html"
-    },
-    {
-      "title": "SoftBank Deepens High-Stakes OpenAI Gamble",
-      "summary": "One bold AI bet is reshaping SoftBank's risk profile",
-      "pub_date": "2026-08-06T17:08:19Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/softbank-deepens-high-stakes-openai-170819870.html"
     }
   ]
 }
