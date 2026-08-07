@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-08-07T16:47:15.285320+00:00",
+  "generated_at": "2026-08-07T20:34:54.522360+00:00",
   "items": [
     {
       "title": "SpaceX's influence ripples across markets: AlphaCheck",
@@ -8,6 +8,41 @@
       "pub_date": "2026-08-07T14:42:05Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/spacexs-influence-ripples-across-markets-alphacheck-144205821.html"
+    },
+    {
+      "title": "SoftBank Stock Drops 6.1% as AI Funding Pressure Intensifies",
+      "summary": "Lower profit and additional investment commitments renewed scrutiny of the group's increasingly concentrated artificial-intelligence strategy.",
+      "pub_date": "2026-08-07T19:50:54Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/softbank-stock-drops-6-1-195054327.html"
+    },
+    {
+      "title": "The Toughest Questions AMD Faced On Its Latest Call",
+      "summary": "Advanced Micro Devices just posted huge growth forecasts, but on its earnings call, analysts zeroed in on whether the company can actually build it all without the success eating its own margins.",
+      "pub_date": "2026-08-07T17:58:49Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/toughest-questions-amd-faced-latest-175849599.html"
+    },
+    {
+      "title": "How To Earn 11% On NVDA Stock And Set A 30% Safety Net",
+      "summary": "Get paid a healthy income now for a chance to own the AI leader at a price well below today's, an income you keep whether the stock soars or sinks.",
+      "pub_date": "2026-08-07T17:44:30Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/earn-11-nvda-stock-set-174430115.html"
+    },
+    {
+      "title": "AMD Drops 6% Post Q2 Earnings: Is the Stock a Buy on the Dip?",
+      "summary": "AMD's post-earnings dip highlights near-term PC and gaming weakness, but surging Data Center demand and AI deployments support long-term growth prospects.",
+      "pub_date": "2026-08-07T17:15:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-drops-6-post-q2-171500161.html"
+    },
+    {
+      "title": "Should You Buy NVIDIA Stock After Its 11% Rally in a Month?",
+      "summary": "NVIDIA's 11% monthly gain is backed by surging AI demand, strong cash flow and a forward P/E below the tech sector average.",
+      "pub_date": "2026-08-07T15:38:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-nvidia-stock-11-rally-153800151.html"
     },
     {
       "title": "Can MU Stock Compound Its Way Higher?",
@@ -22,41 +57,6 @@
       "pub_date": "2026-08-07T10:27:44Z",
       "source": "Forkast News",
       "url": "https://finance.yahoo.com/technology/ai/articles/spacex-tesla-building-own-119-102744643.html"
-    },
-    {
-      "title": "AMD Is Focused Correctly So I Continue Loading Up",
-      "summary": "Training a frontier AI model is a one-time event, but running it in production is a recurring bill that never stops, and one chipmaker is quietly positioning itself to own that side of the ledger.",
-      "pub_date": "2026-08-07T04:53:52Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amd-focused-correctly-continue-loading-045352115.html"
-    },
-    {
-      "title": "How Will Intel Really Be Able to Beat TSMC in The Next Year?",
-      "summary": "TSMC and Intel both reported blowout quarters riding the same AI wave, yet one walks away with a 67% gross margin while the other bleeds billions from its foundry. Whether Intel can close that gap in the next year comes down to a single unresolved bet.",
-      "pub_date": "2026-08-07T04:46:53Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/articles/intel-really-able-beat-tsmc-044653110.html"
-    },
-    {
-      "title": "Earn 14% On MRVL Stock Now, Or Own It 60% Cheaper Later",
-      "summary": "Here is a way to collect an attractive income stream on an AI chip powerhouse now, which you keep no matter what, while lining up a chance to buy the stock at a serious discount if it ever stumbles.",
-      "pub_date": "2026-08-07T01:48:35Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/earn-14-mrvl-stock-now-014835622.html"
-    },
-    {
-      "title": "Nvidia dominates AI chips, but BofA sees AMD closing in",
-      "summary": "Twenty years ago, Advanced Micro Devices Inc. (AMD) spent the better part of a decade selling processors into a market Intel dominated, waiting for the moment Intel could not keep pace with demand on its own. That moment eventually arrived, and AMD converted patience into real share of the server ...",
-      "pub_date": "2026-08-06T22:33:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-dominates-ai-chips-bofa-223300866.html"
-    },
-    {
-      "title": "AI Workloads Drive CPU Demand as AMD Discusses Longer-Term China Deals",
-      "summary": "Advanced Micro Devices, Inc. (NASDAQ:AMD) is poised to benefit from the next phase of the AI infrastructure boom. This comes as chip demand expands beyond graphics processing units (GPUs) into central processing units (CPUs) and other data center products. According to a Reuters report on July 23, AMD and Intel Corp (NASDAQ:INTC) are negotiating longer-term [\u2026]",
-      "pub_date": "2026-08-06T18:20:55Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-workloads-drive-cpu-demand-182055034.html"
     }
   ]
 }

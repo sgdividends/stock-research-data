@@ -1,7 +1,14 @@
 {
   "ticker": "PYPL",
-  "generated_at": "2026-08-07T16:47:35.127572+00:00",
+  "generated_at": "2026-08-07T20:35:17.989781+00:00",
   "items": [
+    {
+      "title": "Reading Between The Lines Of V's Latest Call",
+      "summary": "Visa's headline numbers looked spectacular, but analysts on its latest call kept poking at the same soft spot, revealing where the real risks to the growth story lie.",
+      "pub_date": "2026-08-07T18:18:03Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/reading-between-lines-vs-latest-181803288.html"
+    },
     {
       "title": "Zacks Industry Outlook Visa, Mastercard, PayPal, Fidelity   and WEX",
       "summary": "Visa, Mastercard, PayPal, Fidelity and WEX have been highlighted in this Industry Outlook article.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-05T19:48:42Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/market-really-expecting-shop-stock-194842025.html"
-    },
-    {
-      "title": "PayPal to Stripe: The Offer Is Too Low",
-      "summary": "Even though PayPal never directly addressed Stripe's recent buyout offer in its earnings report, the message was clear: It's too low.",
-      "pub_date": "2026-08-05T19:45:21Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-stripe-offer-too-low-194521221.html"
     }
   ]
 }

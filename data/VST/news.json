@@ -1,6 +1,6 @@
 {
   "ticker": "VST",
-  "generated_at": "2026-08-07T16:47:47.696496+00:00",
+  "generated_at": "2026-08-07T20:35:32.395867+00:00",
   "items": [
     {
       "title": "Earnings live updates: The Trade Desk stock plummets on earnings miss, Oklo jumps on 'criticality' milestone",
@@ -8,6 +8,27 @@
       "pub_date": "2026-08-03T13:04:25Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-130425228.html"
+    },
+    {
+      "title": "Sector Update: Energy Stocks Fall Late Afternoon",
+      "summary": "Energy stocks were lower late Friday afternoon, with the NYSE Energy Sector Index falling 1.1% and t",
+      "pub_date": "2026-08-07T19:58:12Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-195812887.html"
+    },
+    {
+      "title": "Sector Update: Energy Stocks Decline Friday Afternoon",
+      "summary": "Energy stocks were lower Friday afternoon, with the NYSE Energy Sector Index decreasing 0.5% and the",
+      "pub_date": "2026-08-07T17:46:24Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-friday-174624121.html"
+    },
+    {
+      "title": "This Power Stock Could Be a Big Winner From the Data Center Boom",
+      "summary": "Vistra is quietly powering the AI data center boom, and it still looks surprisingly cheap.",
+      "pub_date": "2026-08-07T17:25:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/energy/articles/power-stock-could-big-winner-172500956.html"
     },
     {
       "title": "Vistra Shares Slip After Revenue Miss Despite Strong EBITDA Growth",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-07T11:55:12Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-115512326.html"
-    },
-    {
-      "title": "Stock to Watch: Trade Desk, Atlassian, Airbnb, Under Armour",
-      "summary": "\u2198\ufe0f Trade Desk (TTD): Shares in the advertising technology company fell 27% after it reported lower-than-expected quarterly revenue. \u2197\ufe0f Atlassian (TEAM): Shares in the software company behind Jira and Confluence shot up 31% premarket following a revenue beat powered by accelerated growth in its cloud business.",
-      "pub_date": "2026-08-07T09:11:53Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/july-jobs-report-stock-market-08-07-2026/card/stock-to-watch-trade-desk-atlassian-airbnb-under-armour-EelGff6t2A1oe6gWnVpR?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "MDU Resources Q2 Earnings Beat Estimates, Revenues Increase Y/Y",
-      "summary": "MDU's Q2 earnings rise 28.6% and beat estimates as revenues increase and key infrastructure projects advance.",
-      "pub_date": "2026-08-06T18:51:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mdu-resources-q2-earnings-beat-185100074.html"
-    },
-    {
-      "title": "UGI Q3 Earnings Beat Estimates, Revenues Miss on LPG Weakness",
-      "summary": "UGI narrows its fiscal Q3 loss and raises 2026 earnings guidance, even as revenues fall on weaker propane volumes across key operations.",
-      "pub_date": "2026-08-06T18:28:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ugi-q3-earnings-beat-estimates-182800449.html"
     }
   ]
 }

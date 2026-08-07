@@ -1,7 +1,14 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-08-07T16:47:17.533812+00:00",
+  "generated_at": "2026-08-07T20:34:56.844833+00:00",
   "items": [
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "summary": "Find insight on Munich Re, Oversea-Chinese Banking Corp., Assicurazioni Generali and more in the latest Market Talks covering financial services.",
+      "pub_date": "2026-08-07T16:24:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/financial-services-roundup-market-talk-78c77f4f?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Portman Ridge Finance Q2 Earnings Call Highlights",
       "summary": "BCP Investment Corporation reported second-quarter results marked by lower net asset value, continued deleveraging and an improvement in its non-accrual portfolio. Management also detailed a post-quarter-end amendment and expansion of its KeyBank credit facility, which was used to repay and terminat",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-07T10:26:43Z",
       "source": "World Construction Network",
       "url": "https://finance.yahoo.com/energy/articles/construction-begins-420mw-solar-bess-102643216.html"
-    },
-    {
-      "title": "AI Debt Indigestion Forces Wall Street to Rethink Bond Sales",
-      "summary": "(Bloomberg) -- When BlackRock Inc. sought to raise billions in debt financing for a Meta Platforms Inc. data center, there was one type of investor the asset management giant wanted to avoid: those looking for a quick profit.Most Read from BloombergOpenAI\u2019s New Device Will Be Hockey Puck-Sized and Cost Over $300Iran Wants to Bar US, Israeli Ships From Hormuz in Peace AccordIran Says Agreement on Hormuz Shipping Reached With OmanTrump Administration Considers Order on Autism and VaccinesIshbia\u2019s",
-      "pub_date": "2026-08-07T10:00:00Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/markets/options/articles/ai-debt-indigestion-forces-wall-100000208.html"
     }
   ]
 }

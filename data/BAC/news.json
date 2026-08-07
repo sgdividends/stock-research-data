@@ -1,13 +1,48 @@
 {
   "ticker": "BAC",
-  "generated_at": "2026-08-07T16:46:47.496415+00:00",
+  "generated_at": "2026-08-07T20:34:19.032536+00:00",
   "items": [
+    {
+      "title": "Three Banks Hit New Highs And Trade Near Buy Points",
+      "summary": "Three bank stocks, Bank of America, U.S. Bancorp and PNC Financial are hitting new highs while they also hover near buy points.",
+      "pub_date": "2026-08-07T19:09:19Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/stock-lists/new-highs/bank-of-america-bac-stock/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Palantir Surges 10%, UiPath Rises 7%, C3.ai Gains 5% as Agentic AI Stocks Rally Together",
+      "summary": "Agentic AI stocks are moving in lockstep this Friday, and the gap in valuations between the leaders tells a very different story about what investors are actually betting on.",
+      "pub_date": "2026-08-07T18:12:34Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-surges-10-uipath-rises-181234941.html"
+    },
+    {
+      "title": "Bank of America spends $250M yearly on GLP-1s for workers, CEO says",
+      "summary": "Bank of America's CEO said the company spends more than $250 million a year on GLP-1 drugs for employees, calling the growing cost a worthwhile investment.",
+      "pub_date": "2026-08-07T17:44:57Z",
+      "source": "USA TODAY",
+      "url": "https://finance.yahoo.com/healthcare/articles/bank-america-spends-250m-yearly-174457100.html"
+    },
+    {
+      "title": "S&P 500 Hits Record Highs \u2014 But BofA Warns Bullish Sentiment Has Gone Too Far",
+      "summary": "Bank of America says investor optimism has reached its most extreme level since 2021.",
+      "pub_date": "2026-08-07T17:08:21Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-hits-record-highs-170821280.html"
+    },
     {
       "title": "Here's Why Tower Semiconductor Stock Is Rocketing Higher Today",
       "summary": "This semiconductor stock has doubled in 2026 -- and the climb may not be ending anytime soon.",
       "pub_date": "2026-08-07T15:38:47Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-tower-semiconductor-stock-153847297.html"
+    },
+    {
+      "title": "Bank of America is splashing out $250 million a year on weight loss drugs for its staff: \u2018We see a great impact on employees,\u2019 CEO says",
+      "summary": "Weight-loss drugs are becoming a popular perk, with almost a third of workers saying they\u2019d even switch jobs for it. Bank of America has them covered.",
+      "pub_date": "2026-08-07T15:06:01Z",
+      "source": "Fortune",
+      "url": "https://finance.yahoo.com/healthcare/articles/bank-america-splashing-250-million-150601109.html"
     },
     {
       "title": "TEAM Stock On Track For 7-Month High \u2013 BofA Says Atlassian Is An \u2018AI Beneficiary Rather Than An AI Victim\u2019",
@@ -22,41 +57,6 @@
       "pub_date": "2026-08-07T10:00:18Z",
       "source": "Benzinga",
       "url": "https://finance.yahoo.com/healthcare/articles/bank-america-spends-250-million-100018182.html"
-    },
-    {
-      "title": "BofA Sentiment Gauge Hits Most Extreme Bullish Level Since 2021",
-      "summary": "(Bloomberg) -- Investor bullishness has become so extreme that it\u2019s time to start reducing exposure to risky assets, according to Bank of America Corp. strategists. Most Read from BloombergOpenAI\u2019s New Device Will Be Hockey Puck-Sized and Cost Over $300Iran Wants to Bar US, Israeli Ships From Hormuz in Peace AccordIran Says Agreement on Hormuz Shipping Reached With OmanTrump Administration Considers Order on Autism and VaccinesIshbia\u2019s Mortgage Firm Suffers Record Drop on Dividend HaltThe bank\u2019s",
-      "pub_date": "2026-08-07T08:19:36Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-sentiment-gauge-hits-most-081936421.html"
-    },
-    {
-      "title": "Bank Of America (BAC) Flags AML Penalty Risk, Is The Stock Still A Bargain?",
-      "summary": "Why a fresh regulatory risk is back in focus for Bank of America stock Bank of America (BAC) has put regulatory risk back on your radar after disclosing it may face monetary penalties tied to deficiencies in its anti money laundering program, with a potential resolution with the OCC approaching. This shift from earlier messaging about limited financial impact has sharpened attention on what any penalty and related compliance steps could mean for Bank of America stock. See our latest analysis...",
-      "pub_date": "2026-08-07T02:13:46Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-bac-flags-aml-021346087.html"
-    },
-    {
-      "title": "Bank of America doubles down on SpaceX after earnings",
-      "summary": "SpaceX (SPCX) stock investors are still reeling from a post-earnings sell-off, digesting a quarter dominated by soaring CapEx and growing questions over cash generation. Before the report, Wall Street was looking for strong headline numbers but remained mostly skeptical of its ability to expand AI, ...",
-      "pub_date": "2026-08-07T01:47:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-down-spacex-014700765.html"
-    },
-    {
-      "title": "Nvidia dominates AI chips, but BofA sees AMD closing in",
-      "summary": "Twenty years ago, Advanced Micro Devices Inc. (AMD) spent the better part of a decade selling processors into a market Intel dominated, waiting for the moment Intel could not keep pace with demand on its own. That moment eventually arrived, and AMD converted patience into real share of the server ...",
-      "pub_date": "2026-08-06T22:33:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-dominates-ai-chips-bofa-223300866.html"
-    },
-    {
-      "title": "Uber price target lowered by Bank of America despite higher earnings outlook",
-      "summary": "Uber Technologies Inc (NYSE:UBER, XETRA:UT8) saw its price target lowered to $101 from $103 by Bank of America, which maintained a \u2018Buy\u2019 rating following the company\u2019s second quarter results, with the analysts citing a lower valuation multiple despite raising their earnings estimates. Shares...",
-      "pub_date": "2026-08-06T19:33:00Z",
-      "source": "Proactive",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/uber-price-target-lowered-bank-193300572.html"
     }
   ]
 }

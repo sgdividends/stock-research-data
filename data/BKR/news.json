@@ -1,7 +1,28 @@
 {
   "ticker": "BKR",
-  "generated_at": "2026-08-07T16:46:48.939843+00:00",
+  "generated_at": "2026-08-07T20:34:20.309636+00:00",
   "items": [
+    {
+      "title": "Sector Update: Energy Stocks Decline Friday Afternoon",
+      "summary": "Energy stocks were lower Friday afternoon, with the NYSE Energy Sector Index decreasing 0.5% and the",
+      "pub_date": "2026-08-07T17:46:24Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-friday-174624121.html"
+    },
+    {
+      "title": "Is Cactus Worth Buying as Growth Accelerates but Valuation Stretches?",
+      "summary": "WHD's faster earnings growth, international expansion and strong liquidity support its outlook, though premium valuation and execution risks remain.",
+      "pub_date": "2026-08-07T17:44:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cactus-worth-buying-growth-accelerates-174400748.html"
+    },
+    {
+      "title": "US Oil Drillers Add Rigs",
+      "summary": "The number of active oil rigs rose by 3, reaching 454 during the latest reporting period, according to the data.",
+      "pub_date": "2026-08-07T17:14:00Z",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/us-oil-drillers-add-rigs-171400610.html"
+    },
     {
       "title": "Here Are Friday\u2019s Top Wall Street Analyst Research Calls: Baker Hughes, Etsy, HubSpot, Instacart, JetBlue, Roku, SpaceX, Tower Semiconductor, Trade Desk, and More",
       "summary": "Wall Street analysts reshuffled their ratings on Friday with some bold calls that could move money fast, including a dramatic target cut on Trade Desk and a fresh Buy on SpaceX as markets brace for next week's inflation data.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-04T17:39:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/energy/articles/baker-hughes-chart-deal-could-173900015.html"
-    },
-    {
-      "title": "The Top 5 Analyst Questions From Baker Hughes\u2019s Q2 Earnings Call",
-      "summary": "Baker Hughes delivered a second quarter that was well received by the market, as results surpassed Wall Street expectations despite a modest decline in revenue. Management pointed to strong order momentum in its Industrial & Energy Technology (IET) segment, successful navigation of Middle East headwinds, and robust execution in upstream energy and energy infrastructure. CEO Lorenzo Simonelli cited \u201csolid seasonal recovery across broader markets,\u201d and emphasized that resilience in the Middle East",
-      "pub_date": "2026-08-03T17:09:22Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/top-5-analyst-questions-baker-170922094.html"
-    },
-    {
-      "title": "Basin rig count up two as prices decrease",
-      "summary": "The rig count in the Permian Basin was up two this week, the latest count Friday by Baker Hughes shows, with 260 rigs active in the region. A year ago, 259 rigs were active in the region. Nationally, the oil and gas rig count is up one from last week at 588 rigs. A year ago, 540 rigs were active. The count shows that 451 rigs sought oil, up one from the previous week, and 127 explored for ...",
-      "pub_date": "2026-08-01T00:01:00Z",
-      "source": "Odessa American, Texas",
-      "url": "https://finance.yahoo.com/energy/articles/basin-rig-count-two-prices-000100709.html"
-    },
-    {
-      "title": "US Oil Drillers Turn Cautious as WTI Holds Near $85 per Barrel",
-      "summary": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday, bringing the total rig count in the US to 588, up 48 from this same time last year.",
-      "pub_date": "2026-07-31T17:20:31Z",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/energy/articles/us-oil-drillers-turn-cautious-172031190.html"
     }
   ]
 }

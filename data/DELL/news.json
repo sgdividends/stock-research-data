@@ -1,6 +1,6 @@
 {
   "ticker": "DELL",
-  "generated_at": "2026-08-07T16:46:58.777689+00:00",
+  "generated_at": "2026-08-07T20:34:33.953252+00:00",
   "items": [
     {
       "title": "SpaceX's influence ripples across markets: AlphaCheck",
@@ -12,9 +12,23 @@
     {
       "title": "Nvidia, Microsoft Partner Tests Breakout. Three Clues Bode Well.",
       "summary": "A fresh breakout into buy range is just one reason to watch Dell stock. Robust demand and alliances with Nvidia, AMD and Microsoft fuel more.",
-      "pub_date": "2026-08-07T13:57:47Z",
+      "pub_date": "2026-08-07T20:01:06Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/research/ibd-stock-analysis/dell-stock-rises-ai-collaboration-with-nvidia-microsoft-amd/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "SERV Q2 Loss Wider Than Expected, Revenues Increase Y/Y, Stock Down",
+      "summary": "Serve Robotics' Q2 loss widens as costs surge and revenues miss estimates, prompting a 14.1% after-hours drop and a cut to 2026 sales guidance.",
+      "pub_date": "2026-08-07T16:41:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/serv-q2-loss-wider-expected-164100582.html"
+    },
+    {
+      "title": "QVC Group Emerges From Bankruptcy With Reduced Debt, New Financing",
+      "summary": "Mike George, who led QVC for 16 years, has returned to the business as interim chief executive officer and chairman.",
+      "pub_date": "2026-08-07T14:05:34Z",
+      "source": "WWD",
+      "url": "https://finance.yahoo.com/small-business/articles/qvc-group-emerges-bankruptcy-reduced-140534787.html"
     },
     {
       "title": "Apple Stock Surged On An Upgrade Cycle Its Own Reports Flagged Early",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-06T21:45:02Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-dips-more-214502493.html"
-    },
-    {
-      "title": "Arista Networks Stock Followed Its Chip Orders, Not Its Headlines",
-      "summary": "The case for the run sat in chip commitments and unrecognized product revenue quarters before Arista Networks stock caught up.",
-      "pub_date": "2026-08-06T20:15:00Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-stock-followed-chip-201500950.html"
-    },
-    {
-      "title": "Bitdeer Secures $4.7 Billion A.I. Data Centre Lease",
-      "summary": "Bitdeer Technologies (NASDAQ: $BTDR) has secured a $4.7 billion U.S. artificial intelligence (A.I.) data centre lea...",
-      "pub_date": "2026-08-06T19:38:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/technology/ai/articles/bitdeer-secures-4-7-billion-193800107.html"
     }
   ]
 }

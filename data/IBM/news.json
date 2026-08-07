@@ -1,13 +1,27 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-08-07T16:47:14.452731+00:00",
+  "generated_at": "2026-08-07T20:34:53.728366+00:00",
   "items": [
+    {
+      "title": "IBM Apptio helps CFOs connect AI spend to business value",
+      "summary": "\u201cCompanies are pouring money into AI, and they don\u2019t always know what they\u2019re getting out of it,\u201d\u00a0Apptio\u2019s Bill Lobig said.",
+      "pub_date": "2026-08-07T15:24:19Z",
+      "source": "CFO Dive",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-apptio-helps-cfos-connect-152419441.html"
+    },
     {
       "title": "Oracle Stock Fell While Its Operating Margin Climbed For A Third Straight Year",
       "summary": "The build-out that dented gross margin has not stopped the operating line from widening, and that is the number the selling appears to discount.",
       "pub_date": "2026-08-07T14:51:44Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-fell-while-operating-145144040.html"
+    },
+    {
+      "title": "International Business Machines Stock Outlook: Is Wall Street Bullish or Bearish?",
+      "summary": "International Business Machines has underperformed the broader market over the past year, but analysts are cautiously optimistic about the stock\u2019s prospects.",
+      "pub_date": "2026-08-07T12:34:33Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/international-business-machines-stock-outlook-123433642.html"
     },
     {
       "title": "IBM previews Apptio AI Value & ROI to track AI spend and results",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-06T14:43:49Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-diversifies-portfolio-not-calm-144349232.html"
-    },
-    {
-      "title": "IBM (IBM) Secures FedRAMP Moderate Authorization For Maximo",
-      "summary": "International Business Machines (NYSE: IBM) received FedRAMP Moderate Authorization for its Maximo Application Suite SaaS offering, making it available for use by US federal agencies. The authorization covers cloud based asset management tools designed for regulated government environments. IBM and Red Hat launched the Lightwell program, which provides free open source security fixes and tools to universities and non governmental organizations. Together, these initiatives expand IBM's role...",
-      "pub_date": "2026-08-06T14:17:32Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/articles/ibm-ibm-secures-fedramp-moderate-141732635.html"
-    },
-    {
-      "title": "Bitcoin to $100K? Jim Cramer Plans to Sell All His BTC as Hunter Horsley Says 'Price Lags Fundamentals'",
-      "summary": "Key Takeaways Jim Cramer said he plans to sell his Bitcoin after IBM CEO Arvind Krishna warned that quantum computing could threaten modern cryptography within ...",
-      "pub_date": "2026-08-06T09:22:54Z",
-      "source": "CCN",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-100k-jim-cramer-plans-092254041.html"
     }
   ]
 }
