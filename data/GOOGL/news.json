@@ -1,6 +1,6 @@
 {
   "ticker": "GOOGL",
-  "generated_at": "2026-08-08T04:51:25.249058+00:00",
+  "generated_at": "2026-08-08T08:33:53.888250+00:00",
   "items": [
     {
       "title": "Tech stocks today: Shares climb after rocky week",
@@ -15,6 +15,13 @@
       "pub_date": "2026-08-07T10:00:00Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/big-tech-is-borrowing-its-way-through-the-ai-boom-chart-of-the-day-100000605.html"
+    },
+    {
+      "title": "Alphabet Just Posted a Jaw-Dropping $112 Billion Profit. Here's the Catch.",
+      "summary": "Alphabet's quarter was boosted by huge SpaceX gains.",
+      "pub_date": "2026-08-08T05:20:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-just-posted-jaw-dropping-052000821.html"
     },
     {
       "title": "Banks Lead a Bonus Boom",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-07T20:59:39Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/ai/articles/google-cloud-taiwan-launch-hints-205939823.html"
-    },
-    {
-      "title": "META Stock Returns To Familiar Ground",
-      "summary": "After a sharp pullback, Meta Platforms is testing a price floor that has held strong on seven prior occasions. The business arriving this time is different, setting up a classic standoff between history and today's reality.",
-      "pub_date": "2026-08-07T20:54:10Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-returns-familiar-ground-205410001.html"
     }
   ]
 }

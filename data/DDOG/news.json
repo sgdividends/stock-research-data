@@ -1,7 +1,14 @@
 {
   "ticker": "DDOG",
-  "generated_at": "2026-08-08T04:51:11.906421+00:00",
+  "generated_at": "2026-08-08T08:33:40.852751+00:00",
   "items": [
+    {
+      "title": "Dynatrace Q1 Earnings Call Highlights",
+      "summary": "Dynatrace (NYSE:DT) said its first-quarter fiscal 2027 results exceeded the high end of its guidance, supported by record new-logo growth, expanding platform consumption and continued demand for observability tools as enterprises deploy more artificial intelligence workloads. Total annual recurring",
+      "pub_date": "2026-08-08T05:03:48Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dynatrace-q1-earnings-call-highlights-050348489.html"
+    },
     {
       "title": "Datadog\u2019s largest customer renews deal but cuts usage",
       "summary": "Datadog (DDOG) sells software that helps companies monitor the performance and security of cloud applications. Its tools track servers, applications, software logs, and other systems behind cloud and artificial intelligence products. Datadog reported second-quarter revenue of $1.12 billion, up 36% ...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-07T15:34:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/datadog-q2-earnings-revenues-surpass-153400969.html"
-    },
-    {
-      "title": "2 Stocks Positioned for the Rise as AI Self\u2011Healing Systems Move From Concept to Core Infrastructure",
-      "summary": "AI agents are already breaching systems and unlocking enterprise value at a pace few expected, and the next leap toward self-healing infrastructure could reshape entire industries overnight. Two software names are quietly positioning themselves to own that future before most investors even know the race has started.",
-      "pub_date": "2026-08-07T15:32:48Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/2-stocks-positioned-rise-ai-153248101.html"
     }
   ]
 }

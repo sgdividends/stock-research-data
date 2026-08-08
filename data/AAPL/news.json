@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "generated_at": "2026-08-08T04:50:51.902970+00:00",
+  "generated_at": "2026-08-08T08:33:19.346210+00:00",
   "items": [
     {
       "title": "OpenAI developing $300+ AI speaker to challenge Amazon Alexa",
@@ -31,6 +31,13 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-tops-10-billion-011329749.html"
     },
     {
+      "title": "Intel Quashed Its Dividend in 2024. Now the Stock's Up 389% and Investors Want It Back.",
+      "summary": "Intel suspended its dividend in 2024 after a brutal stretch. Now the stock is up 389% over the past year, a real turnaround, and investors are asking whether the payout is finally coming back.",
+      "pub_date": "2026-08-07T23:00:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-quashed-dividend-2024-now-230002940.html"
+    },
+    {
       "title": "MP Earnings Show Chinese Rare-Earth Monopoly Is Fading. The Stock Is Up.",
       "summary": "Thursday evening, MP Materials reported second-quarter Ebitda of $28.5 million, Wall Street was looking for $27.1 million.",
       "pub_date": "2026-08-07T20:43:00Z",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-07T20:38:10Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-apple-10-drop-fails-203810284.html"
-    },
-    {
-      "title": "Tougher Google Antitrust Penalties Would Threaten Firefox, Mozilla Warns",
-      "summary": "Firefox developer Mozilla is warning that it could be forced to \"exit the browser and browser engine markets\" if it can no longer receive payment from Google for distributing its search engine.",
-      "pub_date": "2026-08-07T20:13:15Z",
-      "source": "MediaPost",
-      "url": "https://finance.yahoo.com/technology/articles/tougher-google-antitrust-penalties-threaten-201315333.html"
     }
   ]
 }
