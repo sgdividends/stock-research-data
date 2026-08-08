@@ -1,6 +1,6 @@
 {
   "ticker": "SNDK",
-  "generated_at": "2026-08-08T01:09:13.285668+00:00",
+  "generated_at": "2026-08-08T04:51:57.247869+00:00",
   "items": [
     {
       "title": "What the vicious Sandisk bears are forgetting",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-07T13:29:27Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/what-the-vicious-sandisk-bears-are-forgetting-132927678.html"
+    },
+    {
+      "title": "What Does Sandisk (SNDK) Mean For AI Storage With Its New QLC Flash?",
+      "summary": "SanDisk (NasdaqGS:SNDK) and Kioxia announced a new Quad-Level-Cell QLC 3D flash memory platform that sets fresh efficiency and density benchmarks for the sector. The next generation QLC 3D memory targets higher bit density, read and write bandwidth, and power efficiency for AI workloads and large scale cloud infrastructure. The companies position the technology as a way to support data center scaling as AI training and inference requirements expand. For readers looking to turn this kind of...",
+      "pub_date": "2026-08-08T03:18:10Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/does-sandisk-sndk-mean-ai-031810985.html"
     },
     {
       "title": "Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-07T16:35:07Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/stock-market-rally-powers-ahead-spacex-palantir-sandisk-are-key-earnings-movers-weekly-review/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "SK Hynix Drops 5% After Approving $38B in New Memory Fabs; Seagate Falls 7%, Micron Barely Dips",
-      "summary": "SK Hynix just committed to one of the biggest fab investments in memory history, and its stock immediately sold off. Whether that reaction signals panic over capital spending or a buying opportunity depends on a structural argument about 2027 that not everyone buys.",
-      "pub_date": "2026-08-07T16:31:22Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-drops-5-approving-163122357.html"
     }
   ]
 }

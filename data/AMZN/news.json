@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "generated_at": "2026-08-08T01:08:10.192174+00:00",
+  "generated_at": "2026-08-08T04:50:56.673199+00:00",
   "items": [
     {
       "title": "OpenAI developing $300+ AI speaker to challenge Amazon Alexa",
@@ -8,6 +8,20 @@
       "pub_date": "2026-08-07T20:20:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/openai-developing-300-ai-speaker-202000842.html"
+    },
+    {
+      "title": "Amazon behind massive private gas plant for new data centers",
+      "summary": "Amazon confirmed Friday it is financing a massive, private gas power plant in Texas that could become the single largest source of greenhouse gas emissions in the United States.While less polluting than coal, gas plants are still significant sources of planet-warming emissions, and their operations, particularly upstream, also leak methane, the main component of natural gas and itself a powerful greenhouse gas.",
+      "pub_date": "2026-08-08T02:01:28Z",
+      "source": "AFP",
+      "url": "https://finance.yahoo.com/energy/articles/amazon-behind-massive-private-gas-210211828.html"
+    },
+    {
+      "title": "Amazon (AMZN) Q2 2026 Earnings Call Transcript",
+      "summary": "AWS revenue surged 36.7% as AI demand and custom chips drove triple-digit growth.",
+      "pub_date": "2026-08-08T01:30:19Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-q2-2026-earnings-013019156.html"
     },
     {
       "title": "Q2 Earnings: Robust Results and Positive Estimate Revisions Validate Market Fundamentals",
@@ -31,13 +45,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-vs-celsius-consumer-stock-210501030.html"
     },
     {
-      "title": "Amazon behind massive private gas plant for new data centers",
-      "summary": "Amazon confirmed Friday it is financially backing a massive, private gas power plant in Texas that could become the single largest source of greenhouse gas emissions in the United States.While less polluting than coal, gas plants are still significant sources of planet-warming emissions, and their operations, particularly upstream, also leak methane, the main component of natural gas and itself a powerful greenhouse gas.",
-      "pub_date": "2026-08-07T21:02:11Z",
-      "source": "AFP",
-      "url": "https://finance.yahoo.com/energy/articles/amazon-behind-massive-private-gas-210211828.html"
-    },
-    {
       "title": "META Stock Returns To Familiar Ground",
       "summary": "After a sharp pullback, Meta Platforms is testing a price floor that has held strong on seven prior occasions. The business arriving this time is different, setting up a classic standoff between history and today's reality.",
       "pub_date": "2026-08-07T20:54:10Z",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-07T19:57:19Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/markets/crypto/articles/solana-wants-netflix-finance-195719286.html"
-    },
-    {
-      "title": "Beyond NVIDIA and GPUs: The Next AI & Quantum Winners Leading 2026",
-      "summary": "Beyond GPUs, AI's next winners may emerge across networking, software and quantum as investment broadens and governments boost next-gen computing.",
-      "pub_date": "2026-08-07T19:00:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/beyond-nvidia-gpus-next-ai-190000472.html"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "generated_at": "2026-08-08T01:08:05.155940+00:00",
+  "generated_at": "2026-08-08T04:50:51.902970+00:00",
   "items": [
     {
       "title": "OpenAI developing $300+ AI speaker to challenge Amazon Alexa",
@@ -15,6 +15,20 @@
       "pub_date": "2026-08-07T14:02:47Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/know-openais-upcoming-handheld-device-140247594.html"
+    },
+    {
+      "title": "Apple (AAPL) Q3 2026 Earnings Call Transcript",
+      "summary": "iPhone revenue surged 22% as Apple navigates supply constraints and memory cost inflation.",
+      "pub_date": "2026-08-08T01:30:18Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-q3-2026-earnings-013018032.html"
+    },
+    {
+      "title": "Apple (AAPL) Tops $10 Billion in India Sales, But Wall Street\u2019s Focus Is on Supply Constraints and Margins",
+      "summary": "Apple Inc. (NASDAQ:AAPL) has reached a major milestone in India. The company generated $10 billion in annual sales for the first time while continuing to deliver double-digit growth and expand its retail presence in one of its fastest-growing markets. The achievement underscores Apple\u2019s long-term opportunity in the region. Despite that progress, the market\u2019s attention has [\u2026]",
+      "pub_date": "2026-08-08T01:13:29Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-aapl-tops-10-billion-011329749.html"
     },
     {
       "title": "MP Earnings Show Chinese Rare-Earth Monopoly Is Fading. The Stock Is Up.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-07T20:13:15Z",
       "source": "MediaPost",
       "url": "https://finance.yahoo.com/technology/articles/tougher-google-antitrust-penalties-threaten-201315333.html"
-    },
-    {
-      "title": "Canaccord Genuity Shareholders Back Board as Revenue Tops CAD 2 Billion",
-      "summary": "Canaccord Genuity Group (TSE:CF) shareholders approved all matters presented at the company\u2019s fiscal 2026 annual general meeting, including the election of six directors, the appointment of Ernst & Young LLP as auditor and an advisory vote on the company\u2019s executive compensation approach. Dan D",
-      "pub_date": "2026-08-07T19:04:21Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/canaccord-genuity-shareholders-back-board-190421829.html"
-    },
-    {
-      "title": "\u2018Your refund: $0\u2019: Companies claim billions in tariff refunds, months after Trump floated $2,000 checks",
-      "summary": "Walmart gets $2.4 billion, Apple $2.2 billion. And you? Nothing.",
-      "pub_date": "2026-08-07T18:50:00Z",
-      "source": "Moneywise",
-      "url": "https://finance.yahoo.com/economy/policy/articles/refund-0-companies-claim-billions-185000374.html"
     }
   ]
 }
