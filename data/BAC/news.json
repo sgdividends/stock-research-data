@@ -1,7 +1,14 @@
 {
   "ticker": "BAC",
-  "generated_at": "2026-08-08T16:25:31.691142+00:00",
+  "generated_at": "2026-08-08T20:22:05.112329+00:00",
   "items": [
+    {
+      "title": "BofA points to the Eli Lilly market that could outsize the U.S.",
+      "summary": "Eli Lilly (LLY) posted a second-quarter result strong enough to shift the debate around its stock. For months, the debate centered on one worry: a slow start for its new obesity pill. That worry did not disappear in the second quarter, but it stopped driving the conversation. Bank of America came ...",
+      "pub_date": "2026-08-08T18:33:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/healthcare/articles/bofa-points-eli-lilly-market-183300957.html"
+    },
     {
       "title": "Bank of America revamps Apple stock price target after earnings",
       "summary": "ChatGPT went from generating roughly $10 million a month on Apple's App Store in Jan. 2024 to more than $275 million in July 2026. Apple did not build ChatGPT. It does not train it, run it, or market it. But every time someone subscribes, Apple collects a commission. That dynamic is playing out ...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-07T21:23:00Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/markets/stocks/articles/data-center-firm-switch-file-212300578.html"
-    },
-    {
-      "title": "Stock Market Today, Aug. 7: Palantir Surges on Bank of America Upbeat View After Strong Earnings",
-      "summary": "Post-earnings momentum accelerated today as analyst enthusiasm fueled a 10% rally, signaling investor confidence in commercial AI demand, today, Aug. 7, 2026.",
-      "pub_date": "2026-08-07T21:05:16Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-7-210516298.html"
     }
   ]
 }
