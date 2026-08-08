@@ -1,13 +1,34 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-08-07T20:34:20.596170+00:00",
+  "generated_at": "2026-08-08T01:08:15.706248+00:00",
   "items": [
+    {
+      "title": "Weekly Wrap: Bitcoin Hit By Coldcard Hack And Clarity Act Disappointment",
+      "summary": "Bitcoin was trading right around $65,000 U.S. on Aug. 7 to end a difficult week for the crypto market. ...",
+      "pub_date": "2026-08-07T22:11:00Z",
+      "source": "CryptoProwl",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-hit-coldcard-221100213.html"
+    },
+    {
+      "title": "Circle Internet Group vs. Salesforce: Which Technology Stock Is a Better Buy in 2026?",
+      "summary": "Circle trades at a 45x forward P/E versus Salesforce's 13x, but profitability and cash generation tell starkly different stories.",
+      "pub_date": "2026-08-07T21:45:37Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/circle-internet-group-vs-salesforce-214537773.html"
+    },
     {
       "title": "BlackRock (BLK) Launches Tokenized Cash Funds, Is The 14% Discount Still Compelling?",
       "summary": "BlackRock (BLK) has expanded its cash management line with two tokenized money market products, BSTBL and BRSRV, that apply blockchain infrastructure to regulated funds while aiming to preserve liquidity and principal stability. See our latest analysis for BlackRock. BlackRock\u2019s recent push into tokenized cash management comes as the stock shows stronger momentum over the past month, with an 11.88% 30 day share price return and a 73.58% three year total shareholder return, indicating that...",
       "pub_date": "2026-08-07T17:20:56Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/blackrock-blk-launches-tokenized-cash-172056637.html"
+    },
+    {
+      "title": "At a Conference Where CEOs Manage $15 Trillion, Michael Milken Did the Math Out Loud: A Single $10,800 Deposit Becomes $1 Million \u2014 But Only if You Hit 1 Number",
+      "summary": "Compound interest is still king and the real key to wealth, but maintaining a consistent rate of return is much harder said than done in reality.",
+      "pub_date": "2026-08-07T15:54:07Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/conference-where-ceos-manage-15-155407609.html"
     },
     {
       "title": "BlackRock's Rick Rieder Sees Rate Hike Unlikely",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-07T10:20:01Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-russell-2000-value-etf-102001369.html"
-    },
-    {
-      "title": "US Selling Euros for Yen Spurs Geopolitical Risk, BlackRock Says",
-      "summary": "(Bloomberg) -- The US\u2019s decision to sell euros to support Japan\u2019s currency without warning European policymakers is adding to geopolitical risks and further dimming the appeal of longer-maturity government bonds, according to BlackRock Inc. Most Read from BloombergOpenAI\u2019s New Device Will Be Hockey Puck-Sized and Cost Over $300Iran Wants to Bar US, Israeli Ships From Hormuz in Peace AccordIran Says Agreement on Hormuz Shipping Reached With OmanTrump Administration Considers Order on Autism and V",
-      "pub_date": "2026-08-07T10:04:22Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/us-selling-euros-yen-spurs-100422952.html"
-    },
-    {
-      "title": "AI Debt Indigestion Forces Wall Street to Rethink Bond Sales",
-      "summary": "(Bloomberg) -- When BlackRock Inc. sought to raise billions in debt financing for a Meta Platforms Inc. data center, there was one type of investor the asset management giant wanted to avoid: those looking for a quick profit.Most Read from BloombergOpenAI\u2019s New Device Will Be Hockey Puck-Sized and Cost Over $300Iran Wants to Bar US, Israeli Ships From Hormuz in Peace AccordIran Says Agreement on Hormuz Shipping Reached With OmanTrump Administration Considers Order on Autism and VaccinesIshbia\u2019s",
-      "pub_date": "2026-08-07T10:00:00Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/markets/options/articles/ai-debt-indigestion-forces-wall-100000208.html"
-    },
-    {
-      "title": "Wintermute Lands US Broker License and a 5-Year Plan to Rival Citadel",
-      "summary": "Wintermute broker license clears Wall Street market making, with ETF issuers signed and Citadel in its sights.",
-      "pub_date": "2026-08-06T20:26:39Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/wintermute-lands-us-broker-license-202639944.html"
     }
   ]
 }

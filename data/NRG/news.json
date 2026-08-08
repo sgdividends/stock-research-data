@@ -1,7 +1,14 @@
 {
   "ticker": "NRG",
-  "generated_at": "2026-08-07T20:35:11.426649+00:00",
+  "generated_at": "2026-08-08T01:09:01.250334+00:00",
   "items": [
+    {
+      "title": "S&P 500 Posts Weekly Gain as Tech Giants Surge",
+      "summary": "The Standard & Poor's 500 index rose 3.6% this week after technology heavyweights jumped and optimis",
+      "pub_date": "2026-08-07T20:53:41Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-weekly-gain-205341016.html"
+    },
     {
       "title": "Why Shares of NRG Energy Are Crashing This Week",
       "summary": "August is off to a rocky start for this utility stock.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-05T08:13:39Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081339990.html"
-    },
-    {
-      "title": "NRG Energy, Inc. Q2 2026 Earnings Call Summary",
-      "summary": "Moby summary of NRG Energy, Inc.'s Q2 2026 earnings call",
-      "pub_date": "2026-08-04T22:46:00Z",
-      "source": "Moby",
-      "url": "https://finance.yahoo.com/energy/articles/nrg-energy-inc-q2-2026-224600976.html"
     }
   ]
 }
