@@ -1,6 +1,6 @@
 {
   "ticker": "MU",
-  "generated_at": "2026-08-08T12:35:09.554935+00:00",
+  "generated_at": "2026-08-08T16:26:18.570621+00:00",
   "items": [
     {
       "title": "SK Hynix invests $38B in new plants amid AI memory shortages",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-07T20:08:56Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/sk-hynix-invests-38b-plants-200856730.html"
+    },
+    {
+      "title": "AI\u2019s Biggest Opportunity by 2027: NVIDIA vs. Micron",
+      "summary": "NVIDIA and Micron both just shattered expectations, but they are winning the AI race in completely different ways. Which one belongs in your portfolio heading into 2027 depends entirely on what kind of risk you are willing to carry.",
+      "pub_date": "2026-08-08T14:30:00Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-biggest-opportunity-2027-nvidia-143000927.html"
     },
     {
       "title": "Forget the Artificial Intelligence (AI) Capex Bubble: SpaceX CEO Elon Musk Says the Memory Shortage Will Drive Costs Even Higher",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-07T20:16:43Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/citi-revamps-micron-target-target-201643714.html"
-    },
-    {
-      "title": "Micron Stock Falls After Citi Slashes Price Target on Memory Risks",
-      "summary": "Micron, SanDisk Stocks Tumble on Cooling Memory Market Warning",
-      "pub_date": "2026-08-07T19:51:33Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-falls-citi-slashes-195133579.html"
     }
   ]
 }

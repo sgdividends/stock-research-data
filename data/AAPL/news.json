@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "generated_at": "2026-08-08T12:34:27.440239+00:00",
+  "generated_at": "2026-08-08T16:25:23.219176+00:00",
   "items": [
     {
       "title": "OpenAI developing $300+ AI speaker to challenge Amazon Alexa",
@@ -10,11 +10,18 @@
       "url": "https://finance.yahoo.com/video/openai-developing-300-ai-speaker-202000842.html"
     },
     {
-      "title": "What we know about OpenAI's upcoming handheld device: Bloomberg",
-      "summary": "Details are emerging on OpenAI's (OPAI.PVT) upcoming AI device, according to Bloomberg. Morning Brief Host Julie Hyman is joined by Yahoo Breaking News Reporter Jake Conley and Monetary Matters Network co-founder Jack Farley take a closer look.",
-      "pub_date": "2026-08-07T14:02:47Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/know-openais-upcoming-handheld-device-140247594.html"
+      "title": "Bank of America revamps Apple stock price target after earnings",
+      "summary": "ChatGPT went from generating roughly $10 million a month on Apple's App Store in Jan. 2024 to more than $275 million in July 2026. Apple did not build ChatGPT. It does not train it, run it, or market it. But every time someone subscribes, Apple collects a commission. That dynamic is playing out ...",
+      "pub_date": "2026-08-08T15:17:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-revamps-apple-stock-151700799.html"
+    },
+    {
+      "title": "Apple says Mac users in China can connect to Alibaba's Qwen AI service",
+      "summary": "Apple has published a guide explaining how eligible Mac users in mainland China can connect Alibaba's Qwen artificial-intelligence service to \u200cthe U.S. tech giant's Siri digital assistant and Writing Tools feature.  The Mac-specific arrangement \u200ccould help Apple compete in China's AI PC market, where it has been losing market share as domestic \u200bmanufacturers such as Lenovo have promoted locally developed AI features.  \u2022 Qwen is Chinese ecommerce giant Alibaba's family of generative-AI models, which can create text and images and analyse documents, photos and other material in response to user prompts.",
+      "pub_date": "2026-08-08T12:34:58Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-says-mac-users-china-123458419.html"
     },
     {
       "title": "Dan Ives Says We're in the \"3rd Inning\" of the AI Revolution. Is Nvidia Stock Still a Buy After the Pullback?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-07T20:43:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/mp-materials-earnings-stock-price-269904ba?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Apple and OpenAI escalate legal battle over devices",
-      "summary": "A legal battle between Apple and OpenAI over the ChatGPT-maker's secretive device project escalated this week when the artificial intelligence (AI) developer called the iPhone-maker's allegations \"baseless\" and asked for the lawsuit's dismissal.\u00a0\u00a0Apple sued OpenAI last month in San Jose, California, accusing the AI company of orchestrating a campaign to steal the iPhone maker's trade secrets via former employees as it tries to develop its own consumer hardware device.",
-      "pub_date": "2026-08-07T20:39:00Z",
-      "source": "AFP",
-      "url": "https://finance.yahoo.com/technology/ai/articles/apple-openai-escalate-legal-battle-203900524.html"
     }
   ]
 }
