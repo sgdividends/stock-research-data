@@ -1,7 +1,14 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-08-09T08:35:53.615501+00:00",
+  "generated_at": "2026-08-09T12:38:34.078839+00:00",
   "items": [
+    {
+      "title": "Super Micro Computer Landed $60 Billion in Orders Last Quarter, but Trades at Just $30",
+      "summary": "Concerns over order quality, stock dilution, and ongoing investigations are keeping Supermicro stock under pressure.",
+      "pub_date": "2026-08-09T09:50:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-landed-60-095000547.html"
+    },
     {
       "title": "Stock Market Wraps Best Week Since April. Now the Focus Is on Inflation.",
       "summary": "The stock market cruised higher on Friday to wrap up its best week since April in the wake of the July jobs report.  The yield on the 2-year Treasury note fell 4.2%, marking its biggest one-week decline since June.  Bond prices move inversely to yields, so the stock market was following the bond market\u2019s rally after the Labor Department said the U.S. economy subtracted 23,000 nonfarm jobs.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-06T18:12:00Z",
       "source": "CryptoProwl",
       "url": "https://finance.yahoo.com/markets/crypto/articles/pancakeswap-expands-tokenized-equity-offerings-181200594.html"
-    },
-    {
-      "title": "Can HPE's NVDA Alliance Help it Challenge SMCI and DELL?",
-      "summary": "Hewlett Packard Enterprise and NVIDIA deepen their AI alliance in various domains as HPE competes with Dell Technologies and Super Micro Computer.",
-      "pub_date": "2026-08-06T16:01:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/hpes-nvda-alliance-help-challenge-160100215.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "PLTR",
-  "generated_at": "2026-08-09T08:35:48.141905+00:00",
+  "generated_at": "2026-08-09T12:38:28.548451+00:00",
   "items": [
+    {
+      "title": "USA Today Q2 Earnings Call Highlights",
+      "summary": "USA Today (NYSE:TDAY) reported second-quarter 2026 revenue of $536.3 million, down 8.3% from a year earlier, as lower digital advertising revenue and quarter-to-quarter variability in content licensing offset gains in digital-only subscriptions and other digital revenue streams. The company generat",
+      "pub_date": "2026-08-09T09:03:54Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/media-advertising/articles/usa-today-q2-earnings-call-090354910.html"
+    },
     {
       "title": "Earnings beats ease concerns over record U.S. stock rally - WSJ",
       "summary": "Investing.com -- Strong second-quarter earnings from major U.S. companies have pushed stock indexes to fresh highs and eased concerns that the rally relies too heavily on a small group of artificial intelligence companies, the Wall Street Journal reported.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-08T01:05:41Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/options/articles/plty-holders-left-60-000-010541290.html"
-    },
-    {
-      "title": "S&P 500 Ends At Record High, Clocks Strongest Week Since April As Poor Jobs Data Calms Rate Hike Fear \u2014 SEZL, SPCX, RDW, PLTR, TTD In Focus",
-      "summary": "Nonfarm payrolls fell 23,000 last month, following substantial downward revisions to the prior two months, Bureau of Labor Statistics data showed on Friday.",
-      "pub_date": "2026-08-07T21:24:45Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-ends-record-high-212445692.html"
     }
   ]
 }
