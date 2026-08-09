@@ -1,7 +1,14 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-08-09T16:27:54.374773+00:00",
+  "generated_at": "2026-08-09T20:25:26.516987+00:00",
   "items": [
+    {
+      "title": "Inflation Data, Super Micro, Cisco, Rocket Lab, Tapestry, and More to Watch This Week",
+      "summary": "Economic news this week will include data on consumer and producer prices, existing-home sales, and small-business optimism. As earnings season winds down, we\u2019ll see results from Simon Property, Applied Materials, Cava, and more.",
+      "pub_date": "2026-08-09T18:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/inflation-data-super-micro-cisco-rocket-lab-tapestry-and-more-to-watch-this-week-14826711?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Super Micro Computer Landed $60 Billion in Orders Last Quarter, but Trades at Just $30",
       "summary": "Concerns over order quality, stock dilution, and ongoing investigations are keeping Supermicro stock under pressure.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-07T12:24:14Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-q4-earnings-preview-122414694.html"
-    },
-    {
-      "title": "PancakeSwap Expands Tokenized Equity Offerings with 10 New 'bStocks' on BNB Chain",
-      "summary": "Decentralized crypto exchange PancakeSwap (CRYPTO: $CAKE) expanded its tokenized equities offering on Thursday, lis...",
-      "pub_date": "2026-08-06T18:12:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/pancakeswap-expands-tokenized-equity-offerings-181200594.html"
     }
   ]
 }

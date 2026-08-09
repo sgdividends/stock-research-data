@@ -1,7 +1,14 @@
 {
   "ticker": "DDOG",
-  "generated_at": "2026-08-09T16:27:08.999795+00:00",
+  "generated_at": "2026-08-09T20:24:48.295060+00:00",
   "items": [
+    {
+      "title": "Datadog coverage update: BofA stays bullish on weakness",
+      "summary": "Datadog Inc. (DDOG) spent last summer defending itself against one accusation: that its biggest customer was quietly building its way out the door. In July 2025, Guggenheim downgraded the stock to sell, warning that OpenAI was developing in-house monitoring tools that could carve a $150 million ...",
+      "pub_date": "2026-08-09T16:47:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/datadog-coverage-bofa-stays-bullish-164700611.html"
+    },
     {
       "title": "Dynatrace Q1 Earnings Call Highlights",
       "summary": "Dynatrace (NYSE:DT) said its first-quarter fiscal 2027 results exceeded the high end of its guidance, supported by record new-logo growth, expanding platform consumption and continued demand for observability tools as enterprises deploy more artificial intelligence workloads. Total annual recurring",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-07T16:30:51Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/technology/ai/articles/datadog-posts-q2-beat-observability-163051334.html"
-    },
-    {
-      "title": "Datadog Q2 Earnings and Revenues Surpass Estimates, Rise Y/Y",
-      "summary": "DDOG tops Q2 earnings and revenue guidance as sales rise 36%, customer expansion continues, and full-year outlook reflects a major customer's lower usage.",
-      "pub_date": "2026-08-07T15:34:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/datadog-q2-earnings-revenues-surpass-153400969.html"
     }
   ]
 }

@@ -1,7 +1,21 @@
 {
   "ticker": "SNDK",
-  "generated_at": "2026-08-09T16:27:54.654680+00:00",
+  "generated_at": "2026-08-09T20:25:26.729970+00:00",
   "items": [
+    {
+      "title": "Wall Street Punishes Sandisk's Outlook: What Investors Are Missing",
+      "summary": "Sandisk stock has been a huge winner over the past year, but more recently has seen its share sink.",
+      "pub_date": "2026-08-09T18:36:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-punishes-sandisks-outlook-183600655.html"
+    },
+    {
+      "title": "Opinion: The Best AI Memory Stock to Buy Isn't Micron or Sandisk -- It's This Korean Giant",
+      "summary": "Hyperscalers are spending more than $700 billion on AI infrastructure in 2026 alone, fueling a surge in specialized memory chips.",
+      "pub_date": "2026-08-09T17:43:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/opinion-best-ai-memory-stock-174300599.html"
+    },
     {
       "title": "SanDisk CEO David Goeckeler Expects PC and Smartphone Sales to Decline in 2026, But Sees NAND Recovery Ahead: Here's Why",
       "summary": "SanDisk Corp. expects PC and smartphone shipments to decline sharply in 2026, but CEO David Goeckeler said rising storage capacity and market stabilization next year could support renewed NAND demand. SanDisk Sees PC and Smartphone Shipments Falling On Wednesday, during...",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-08T10:03:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-sandisk-better-ai-100300904.html"
-    },
-    {
-      "title": "What Does Sandisk (SNDK) Mean For AI Storage With Its New QLC Flash?",
-      "summary": "SanDisk (NasdaqGS:SNDK) and Kioxia announced a new Quad-Level-Cell QLC 3D flash memory platform that sets fresh efficiency and density benchmarks for the sector. The next generation QLC 3D memory targets higher bit density, read and write bandwidth, and power efficiency for AI workloads and large scale cloud infrastructure. The companies position the technology as a way to support data center scaling as AI training and inference requirements expand. For readers looking to turn this kind of...",
-      "pub_date": "2026-08-08T03:18:10Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/does-sandisk-sndk-mean-ai-031810985.html"
-    },
-    {
-      "title": "Situational Awareness Bets $400 Million on Stealth Chip Startup After Crash",
-      "summary": "AI-battered hedge fund Situational Awareness made a big bet this week in Source Foundry, a private company aiming to reinvent the way chips are manufactured, according to people familiar with the matter.",
-      "pub_date": "2026-08-07T22:36:21Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/july-jobs-report-stock-market-08-07-2026/card/situational-awareness-bets-400-million-on-stealth-chip-startup-after-crash-Gc2dffMgSDSRpRvPvOb0?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
