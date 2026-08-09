@@ -1,7 +1,14 @@
 {
   "ticker": "GOOG",
-  "generated_at": "2026-08-09T01:13:27.006731+00:00",
+  "generated_at": "2026-08-09T04:59:10.357911+00:00",
   "items": [
+    {
+      "title": "Jensen Huang Says AI Will Kill Tasks, Not Jobs. Here's What That Means for Stocks Riding the AI Trade.",
+      "summary": "This prediction addresses a major risk of the AI build-out.",
+      "pub_date": "2026-08-09T04:20:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-says-ai-kill-042000227.html"
+    },
     {
       "title": "What Does Oracle (ORCL) Gain From Bringing New AI Models Into Its Apps?",
       "summary": "Oracle (NYSE: ORCL) and Google Cloud are expanding their partnership to bring Google's Gemini AI models into Oracle's enterprise applications. The collaboration will make Gemini's multimodal AI tools available across Oracle's cloud and business software stack. Enterprise customers are expected to gain more options for building AI powered workflows and analytics on Oracle's platforms. Oracle is far from the only stock tied to the build out of AI capabilities across software and...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-08T15:50:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-ceo-sundar-pichai-just-155000736.html"
-    },
-    {
-      "title": "Google shutting down a popular feature after 10 years",
-      "summary": "More than a year after announcing plans to phase it out, Google is finally moving ahead with a major change that will affect millions of consumers. The familiar tool has been part of people's daily routines for years, helping with everything from simple questions and reminders to controlling ...",
-      "pub_date": "2026-08-08T15:33:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/ai/articles/google-shutting-down-popular-feature-153300754.html"
     }
   ]
 }
