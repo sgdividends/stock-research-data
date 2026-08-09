@@ -1,7 +1,21 @@
 {
   "ticker": "AMZN",
-  "generated_at": "2026-08-08T20:22:02.143471+00:00",
+  "generated_at": "2026-08-09T01:13:01.581001+00:00",
   "items": [
+    {
+      "title": "NiSource Q2 Earnings Call Highlights",
+      "summary": "NiSource (NYSE:NI) reported second-quarter 2026 adjusted earnings of $0.16 per share, compared with $0.22 per share a year earlier, while reaffirming its full-year earnings outlook and long-term growth targets. Year-to-date adjusted earnings rose to $1.22 per share, up $0.03 from the same period in",
+      "pub_date": "2026-08-08T21:03:52Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/energy/articles/nisource-q2-earnings-call-highlights-210352310.html"
+    },
+    {
+      "title": "SentinelOne (S) Deepens AWS Ties As Growth Accelerates",
+      "summary": "On August 4, SentinelOne (NYSE:S) expanded its work with Amazon Web Services, folding its AI security tools into a single governance layer for Amazon Bedrock. The news arrives as the cybersecurity company\u2019s revenue growth is speeding up and its losses are shrinking, even as two of its top executives cashed out stock in the same [\u2026]",
+      "pub_date": "2026-08-08T20:09:54Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/sentinelone-deepens-aws-ties-growth-200954951.html"
+    },
     {
       "title": "Even Without Alphabet and Amazon, the S&P 500 Just Posted Its Biggest Earnings Beat Ever",
       "summary": "S&P 500 earnings just shattered a record that has stood since 2008, but two tech giants are responsible for a distortion that changes everything investors think they know about this earnings season.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-08T09:20:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/amazons-stock-just-soared-15-092000796.html"
-    },
-    {
-      "title": "Bull of the Day: Amazon.com (AMZN)",
-      "summary": "Amazon.com shares have broken out to new record highs as growth accelerates.",
-      "pub_date": "2026-08-08T08:30:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bull-day-amazon-com-amzn-083000400.html"
-    },
-    {
-      "title": "Amazon behind massive private gas plant for new data centers",
-      "summary": "Amazon confirmed Friday it is financing a massive, private gas power plant in Texas that could become the single largest source of greenhouse gas emissions in the United States.While less polluting than coal, gas plants are still significant sources of planet-warming emissions, and their operations, particularly upstream, also leak methane, the main component of natural gas and itself a powerful greenhouse gas.",
-      "pub_date": "2026-08-08T02:01:28Z",
-      "source": "AFP",
-      "url": "https://finance.yahoo.com/energy/articles/amazon-behind-massive-private-gas-210211828.html"
     }
   ]
 }
