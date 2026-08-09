@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "generated_at": "2026-08-09T12:38:19.495058+00:00",
+  "generated_at": "2026-08-09T16:27:38.292007+00:00",
   "items": [
     {
       "title": "'Very little to like': Wall Street assesses surprise July jobs report as stocks jump",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-09T11:35:29Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/very-little-to-like-wall-street-assesses-surprise-july-jobs-report-as-stocks-jump-113529334.html"
+    },
+    {
+      "title": "Forget VFIAX: Vanguard Sells You the Same S&P 500 Fund Without the $3,000 Toll, or the $75 Fee Fidelity Charges to Buy It",
+      "summary": "VFIAX is one of the most popular ways Americans own the S&P 500, but two hidden costs quietly make it the wrong choice for millions of investors, and Vanguard already sells the fix.",
+      "pub_date": "2026-08-09T16:04:46Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/forget-vfiax-vanguard-sells-same-160446900.html"
     },
     {
       "title": "SpaceX vs. Meta Platforms: Which Will Reach the $2 Trillion Club First?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-08T21:01:02Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-shows-magnificent-seven-ai-210102010.html"
-    },
-    {
-      "title": "Does Broadcom (AVGO) Now Lead The Biggest AI Infrastructure Spend Outside GPUs?",
-      "summary": "Broadcom (NasdaqGS:AVGO) has become a dominant supplier for hyperscale AI clusters used by major cloud and AI providers such as Anthropic, OpenAI, and Meta. Multi-year commitments from these customers are channeling significant capital expenditure into Broadcom's AI infrastructure hardware, even as some of that spend bypasses GPU market leader Nvidia. The agreements increase Broadcom's visibility on future AI related revenue tied to large scale data center buildouts. Broadcom is one of...",
-      "pub_date": "2026-08-08T14:11:16Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/does-broadcom-avgo-now-lead-141116363.html"
     }
   ]
 }

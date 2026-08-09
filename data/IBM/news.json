@@ -1,7 +1,14 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-08-09T12:38:09.393378+00:00",
+  "generated_at": "2026-08-09T16:27:26.663268+00:00",
   "items": [
+    {
+      "title": "Turbulent Month Leaves Stock Funds Up 10.6% So Far in 2026",
+      "summary": "Tech stocks zip about on the latest AI expectations. Plus: A Financial Flashback to 55 years ago, when Nixon dropped the gold standard.",
+      "pub_date": "2026-08-09T13:00:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/investing/stock-funds-increase-year-to-date-4085a35d?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Kyndryl Q1 Earnings Call Highlights",
       "summary": "Kyndryl (NYSE:KD) reported fiscal first-quarter revenue of $3.6 billion, down 3% from a year earlier on both a reported and constant-currency basis, while maintaining its full-year outlook as it pursues growth in consulting, hyperscaler partnerships and AI-led modernization services. For the quarte",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-07T12:34:33Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/international-business-machines-stock-outlook-123433642.html"
-    },
-    {
-      "title": "IBM previews Apptio AI Value & ROI to track AI spend and results",
-      "summary": "The new tool aims to link AI spending, including token costs, to business outcomes for clearer ROI measurement.",
-      "pub_date": "2026-08-07T11:00:59Z",
-      "source": "Verdict",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-previews-apptio-ai-value-110059340.html"
     }
   ]
 }
