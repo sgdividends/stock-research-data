@@ -1,7 +1,14 @@
 {
   "ticker": "TMO",
-  "generated_at": "2026-08-10T12:55:37.323395+00:00",
+  "generated_at": "2026-08-10T16:48:45.072980+00:00",
   "items": [
+    {
+      "title": "Beat the Market Like Zacks: Aveanna, FactSet, Shopify in Focus",
+      "summary": "AVAH, FDS and SHOP lead Zacks' recent standouts, with several picks posting strong gains versus the S&P 500.",
+      "pub_date": "2026-08-10T12:34:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/beat-market-zacks-aveanna-factset-123400629.html"
+    },
     {
       "title": "Thermo Fisher eyes 15%-20% India customer growth on biopharma research, manufacturing boost",
       "summary": "By Rishika Sadam HYDERABAD, Aug 10 (Reuters) - Thermo Fisher Scientific is eyeing a 15%-20% increase in its customer base in India over the next five years, betting on the growing biopharma research",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-03T13:15:03Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/unlocking-thermo-fisher-tmo-international-131503247.html"
-    },
-    {
-      "title": "Security Flaw Placed 30 Years of DNA Evidence at Risk of Hacking",
-      "summary": "Researchers found that widely used lab machines produced digital DNA files that are vulnerable to tampering.",
-      "pub_date": "2026-08-02T14:35:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/tech/cybersecurity/security-flaw-placed-30-years-of-dna-evidence-at-risk-of-hacking-1932775a?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

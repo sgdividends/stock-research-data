@@ -1,7 +1,14 @@
 {
   "ticker": "SNPS",
-  "generated_at": "2026-08-10T12:55:33.035832+00:00",
+  "generated_at": "2026-08-10T16:48:40.461220+00:00",
   "items": [
+    {
+      "title": "Synopsys (SNPS) Unleashes Agentic AI Chip Design Tools Backed by Microsoft, AMD",
+      "summary": "Synopsys (NASDAQ:SNPS) just handed AMD (NASDAQ:AMD) and Microsoft (NASDAQ:MSFT) a new way to design chips: let AI agents do more of the work. On July 27, Synopsys unveiled autonomous agentic AI workflows built with Microsoft and already being evaluated by AMD, aimed at cutting the time it takes to turn a chip specification into working [\u2026]",
+      "pub_date": "2026-08-10T14:39:45Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/synopsys-snps-unleashes-agentic-ai-143945738.html"
+    },
     {
       "title": "GlobalFoundries drives Q2 revenue to $1.79B, completes Synopsys deal",
       "summary": "Revenue exceeded the high end of guidance ranges, driven in part by 60% year-over-year growth in the communications infrastructure and data center end market.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-30T16:00:11Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-synopsys-could-become-next-160011404.html"
-    },
-    {
-      "title": "Here's Why Synopsys (SNPS) Fell More Than Broader Market",
-      "summary": "Synopsys (SNPS) closed the most recent trading day at $373.65, moving 2.65% from the previous trading session.",
-      "pub_date": "2026-07-29T21:45:05Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-synopsys-snps-fell-214505743.html"
     }
   ]
 }

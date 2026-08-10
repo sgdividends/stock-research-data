@@ -1,7 +1,21 @@
 {
   "ticker": "AKAM",
-  "generated_at": "2026-08-10T12:54:38.925808+00:00",
+  "generated_at": "2026-08-10T16:47:35.155018+00:00",
   "items": [
+    {
+      "title": "HSBC downgrades Akamai to hold, cuts target price to $123",
+      "summary": "Investing.com -- HSBC downgraded Akamai Technologies to Hold from Buy and cut its target price to $123 from $171, citing weaker cloud infrastructure margins and slower long-term growth. The new target implies 3.8% upside from the $118.55 share price as of Aug. 6.",
+      "pub_date": "2026-08-10T13:58:08Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-downgrades-akamai-hold-cuts-135808171.html"
+    },
+    {
+      "title": "Apple downgraded, HPE upgraded: Wall Street's top analyst calls",
+      "summary": "Apple downgraded, HPE upgraded: Wall Street's top analyst calls",
+      "pub_date": "2026-08-10T13:39:34Z",
+      "source": "The Fly",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-downgraded-hpe-upgraded-wall-133934661.html"
+    },
     {
       "title": "AKAM Q2 Deep Dive: Cloud Infrastructure Commitments Drive Revenue, Margin Pressures Emerge",
       "summary": "Cloud technology company Akamai Technologies (NASDAQ:AKAM) reported revenue ahead of Wall Street\u2019s expectations in Q2 CY2026, with sales up 5.4% year on year to $1.1 billion. On the other hand, next quarter\u2019s revenue guidance of $1.12 billion was less impressive, coming in 1.4% below analysts\u2019 estimates. Its non-GAAP profit of $1.59 per share was 0.8% above analysts\u2019 consensus estimates.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-07T11:14:52Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/articles/jobs-report-persian-gulf-views-111452033.html"
-    },
-    {
-      "title": "Akamai Technologies Inc (AKAM) (Q2 2026) Earnings Call Highlights: Record Cloud Infrastructure ...",
-      "summary": "Akamai secures $2.8 billion in multi-year commitments, driving accelerated growth and a strategic pivot toward AI-powered edge computing.",
-      "pub_date": "2026-08-07T05:11:52Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/akamai-technologies-inc-akam-q2-051152539.html"
-    },
-    {
-      "title": "Akamai Technologies (AKAM) Debuts Workforce Protector For Enterprise AI Security",
-      "summary": "Akamai Technologies (NasdaqGS:AKAM) announced Workforce Protector, a security product for managing AI powered workforce interactions. The company released a new State of the Internet security report detailing large scale shadow AI usage and AI native cyber threats that bypass traditional defenses. Both moves focus on giving enterprises more visibility and control over how employees use generative AI tools. For investors looking beyond Akamai to the wider build out of AI security and...",
-      "pub_date": "2026-08-07T04:28:54Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/akamai-technologies-akam-debuts-workforce-042854752.html"
     }
   ]
 }
