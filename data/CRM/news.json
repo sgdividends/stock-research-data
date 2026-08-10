@@ -1,7 +1,21 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-08-10T16:47:51.997335+00:00",
+  "generated_at": "2026-08-10T20:35:44.357620+00:00",
   "items": [
+    {
+      "title": "Stock Market Today: Dow Dips, Nvidia Falls On This Report; Energy Play Clears Entry As Oil Pops (Live Coverage)",
+      "summary": "Stock Market Today: The Dow Jones index falls Monday as oil prices spike. SpaceX stock skids. Nvidia slides amid AI funding news.",
+      "pub_date": "2026-08-10T19:44:03Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-us-iran-spacex-stock-spcx/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "The Options Market Says Adobe Stock Can Fall Over A Third Or Rise More Than Half",
+      "summary": "Adobe has deliberately traded near-term recurring revenue for free users, and the option chain is charging for the uncertainty that leaves behind.",
+      "pub_date": "2026-08-10T16:30:11Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/options-market-says-adobe-stock-163011369.html"
+    },
     {
       "title": "Salesforce Declines 17% Over the Past Year: How to Play CRM Stock?",
       "summary": "Salesforce's 17% drop reflects broader software pressure, but resilient growth, rising AI ARR and a lower valuation offer reasons to hold CRM.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-07T21:45:37Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/circle-internet-group-vs-salesforce-214537773.html"
-    },
-    {
-      "title": "Is SOUN Worth Buying as Growth Collides With a Premium Valuation?",
-      "summary": "SoundHound pairs 37.9% projected 2026 revenue growth with OASYS expansion, but premium valuation, losses and cash burn raise execution risk.",
-      "pub_date": "2026-08-07T18:27:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/soun-worth-buying-growth-collides-182700598.html"
-    },
-    {
-      "title": "Microsoft Stock's Peak Margin And Its Azure Bill Are The Same Story",
-      "summary": "The risk to Microsoft stock is not demand but what serving that demand now costs, and the company's own outlook already points margins lower.",
-      "pub_date": "2026-08-07T15:07:21Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stocks-peak-margin-azure-150721516.html"
     }
   ]
 }

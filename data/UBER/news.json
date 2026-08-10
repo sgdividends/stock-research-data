@@ -1,7 +1,28 @@
 {
   "ticker": "UBER",
-  "generated_at": "2026-08-10T16:48:47.942795+00:00",
+  "generated_at": "2026-08-10T20:36:40.583505+00:00",
   "items": [
+    {
+      "title": "Can Joby's Texas Air Taxi Flights Unlock Its Next Commercial Phase?",
+      "summary": "Joby Aviation's September eIPP flights in Texas could test operational readiness as FAA certification, production and passenger-launch efforts advance.",
+      "pub_date": "2026-08-10T17:20:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/articles/jobys-texas-air-taxi-flights-172000428.html"
+    },
+    {
+      "title": "Is JOBY Worth Buying as Commercial Progress Meets Execution Risk?",
+      "summary": "Joby Aviation is nearing air-taxi commercialization as certification and revenue advance, but steep losses, cash burn and a rich valuation keep execution risks high.",
+      "pub_date": "2026-08-10T17:17:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/joby-worth-buying-commercial-progress-171700848.html"
+    },
+    {
+      "title": "Should You Bet on UBER Stock Following Its Q2 Earnings Beat?",
+      "summary": "Uber's Q2 earnings beat and strong bookings outlook highlight growth, but a soft EPS view and weak stock performance temper the near-term picture.",
+      "pub_date": "2026-08-10T16:36:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bet-uber-stock-following-q2-163600887.html"
+    },
     {
       "title": "Serve Q2 Earnings Call Centers on Uber Reset and Lower Outlook",
       "summary": "SERV resets its Uber relationship and 2026 outlook in Q2, cutting revenue guidance while prioritizing utilization, recurring revenues and direct access.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-10T11:58:00Z",
       "source": "SmartCities Dive",
       "url": "https://finance.yahoo.com/technology/articles/uber-waymo-robotaxi-partners-competitors-115800309.html"
-    },
-    {
-      "title": "Uber Technologies Q2 Earnings Call Highlights",
-      "summary": "Uber Technologies (NYSE:UBER) said second-quarter gross bookings rose 22% year over year to more than $58 billion, exceeding the high end of its guidance range and marking its fourth consecutive quarter of growth above 20%. Chief Executive Officer Dara Khosrowshahi said the company also produced 35%",
-      "pub_date": "2026-08-09T12:04:05Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/uber-technologies-q2-earnings-call-120405712.html"
-    },
-    {
-      "title": "Uber Technologies (UBER) Lands Licensed Autonomous Rides In London With 100,000 Sign Ups",
-      "summary": "Uber Technologies (NYSE:UBER) plans to launch licensed autonomous rides in London in partnership with AI startup Wayve, marking its first such deployment in a major global city. The London service will use a hybrid model that pairs AI-driven vehicles with safety certified human drivers to meet local regulatory requirements. More than 100,000 London residents have joined a sign-up list for the service, highlighting strong public interest in Uber's autonomous offering. The move positions Uber...",
-      "pub_date": "2026-08-08T08:14:40Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/uber-technologies-uber-lands-licensed-081440726.html"
-    },
-    {
-      "title": "Uber CTO Says Thousands of Engineers Now Use Advanced AI Tools as Company Cuts Cost Per Token: 'The Next Phase' Is About Using Tokens More Efficiently",
-      "summary": "Uber Technologies Inc. says the next phase of AI will focus less on consuming more tokens and more on improving efficiency, reducing costs and maximizing value. Uber Lowers AI Cost Per Token On Wednesday, Uber CTO Praveen Neppalli said the...",
-      "pub_date": "2026-08-07T23:30:19Z",
-      "source": "Benzinga",
-      "url": "https://tech.yahoo.com/ai/articles/uber-cto-says-thousands-engineers-233019454.html"
     }
   ]
 }

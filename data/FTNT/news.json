@@ -1,7 +1,14 @@
 {
   "ticker": "FTNT",
-  "generated_at": "2026-08-10T16:48:05.841773+00:00",
+  "generated_at": "2026-08-10T20:35:57.603892+00:00",
   "items": [
+    {
+      "title": "Stocks Pressured as Higher Crude Price Boosts T-Note Yields",
+      "summary": "The S&P 500 Index ($SPX ) (SPY ) today is down -0.04%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.14%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.15%. September E-mini S&P futures (ESU26 ) are down -0.04%, and September E-mini Nasdaq futures...",
+      "pub_date": "2026-08-10T14:04:42Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-pressured-higher-crude-price-140442483.html"
+    },
     {
       "title": "Is Zscaler's Discounted Valuation a Buying Opportunity or a Value Trap?",
       "summary": "ZS' discounted valuation may look tempting, but slowing growth, higher spending and execution risks raise concerns for investors.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-07T14:39:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/crwd-stock-rises-106-6-143900933.html"
-    },
-    {
-      "title": "How AI Is Making Cybersecurity A Critical Tech Battlefield",
-      "summary": "Cybersecurity faces a new era as hackers automate attacks. The troubling trend brings serious implications for AI stocks.",
-      "pub_date": "2026-08-07T14:38:18Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/ai-stocks-cybersecurity-artificial-intelligence-battlefield/?src=A00220&yptr=yahoo"
     }
   ]
 }

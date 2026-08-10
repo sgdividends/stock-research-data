@@ -1,7 +1,14 @@
 {
   "ticker": "NDAQ",
-  "generated_at": "2026-08-10T16:48:27.021493+00:00",
+  "generated_at": "2026-08-10T20:36:19.361884+00:00",
   "items": [
+    {
+      "title": "Do Wall Street Analysts Like Nasdaq Stock?",
+      "summary": "Nasdaq has lagged behind the broader market over the past year, yet analysts remain highly bullish about the stock\u2019s prospects.",
+      "pub_date": "2026-08-10T13:02:06Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-nasdaq-stock-130206629.html"
+    },
     {
       "title": "Kalshi Taps Nasdaq Surveillance Tech as Prediction Markets Face Insider Trading Scrutiny",
       "summary": "Prediction markets operator Kalshi on Monday said it has partnered with Nasdaq (NASDAQ:NDAQ) to deploy the exchange operator\u2019s market surveillance technology, seeking to strengthen oversight of trading activity on its platform. The multi-year partnership comes as prediction markets face growing...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-02T19:07:54Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-ndaq-could-14-undervalued-190754628.html"
-    },
-    {
-      "title": "Nasdaq (NDAQ) Ends Its Patent Fight With Miami And Clears A Long Legal Overhang",
-      "summary": "NasdaqGS:NDAQ and Miami International Holdings resolved a multi year patent dispute that began in 2017. A court dismissed all related claims and confirmed that Miami International Holdings can operate and develop exchanges without restriction. The outcome addresses questions around technology rights and market access between the two exchange groups. Nasdaq sits at the center of global capital markets as a major exchange operator and technology provider for trading, market data and related...",
-      "pub_date": "2026-08-02T13:09:51Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-ndaq-ends-patent-fight-130951234.html"
     }
   ]
 }

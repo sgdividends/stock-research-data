@@ -1,7 +1,14 @@
 {
   "ticker": "GEHC",
-  "generated_at": "2026-08-10T16:48:06.617082+00:00",
+  "generated_at": "2026-08-10T20:35:58.316963+00:00",
   "items": [
+    {
+      "title": "1 Large-Cap Stock with Solid Fundamentals and 2 Facing Challenges",
+      "summary": "Large-cap stocks usually command their industries because they have the scale to drive market trends. The flip side though is that their sheer size can limit growth as expanding further becomes an increasingly challenging task.",
+      "pub_date": "2026-08-10T17:17:22Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-large-cap-stock-solid-171722855.html"
+    },
     {
       "title": "Are Wall Street Analysts Predicting GE HealthCare Stock Will Climb or Sink?",
       "summary": "GE HealthCare has lagged the broader market despite strong earnings, while analysts remain moderately optimistic about its future prospects.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-30T16:26:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/business/earnings/ge-healthcare-posts-higher-profit-revenue-on-increased-orders-d24249fe?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "GE HealthCare (GEHC) Stock Looks Reasonable On Earnings But Stretched On Fair Value",
-      "summary": "GE HealthCare Technologies stock has climbed 17.1% over the past week, yet the latest valuation work still points to a sizeable gap between the current share price and an intrinsic value estimate based on a Discounted Cash Flow (DCF) model. The 17.1% gain over the past week suggests sentiment has turned quickly, even though the longer term share performance has been far more muted. The recently announced long term Care Alliance with Catholic Health can support expectations for recurring...",
-      "pub_date": "2026-07-30T15:09:37Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/healthcare/articles/ge-healthcare-gehc-stock-looks-150937494.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "GL",
-  "generated_at": "2026-08-10T16:48:07.366332+00:00",
+  "generated_at": "2026-08-10T20:35:59.134382+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Mixed Monday Afternoon",
+      "summary": "Financial stocks were mixed in Monday afternoon trading, with the NYSE Financial Index decreasing 0.",
+      "pub_date": "2026-08-10T17:46:36Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-mixed-monday-174636834.html"
+    },
     {
       "title": "Aflac Misses Q2 EPS Estimates Despite Solid US Sales Growth",
       "summary": "Aflac's Q2 adjusted EPS misses estimates as lower investment income and FX weigh, but U.S. sales, policy persistency and capital returns offer support.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-25T22:11:39Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/globe-life-gl-down-6-221139812.html"
-    },
-    {
-      "title": "Howmet Aerospace Stock And The Sound Of One Hand Clapping",
-      "summary": "Management raised its full-year profit forecast by double digits, but the market seems to be waiting for a second opinion.",
-      "pub_date": "2026-07-24T12:10:49Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/howmet-aerospace-stock-sound-one-121049879.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "YUM",
-  "generated_at": "2026-08-10T16:48:55.104100+00:00",
+  "generated_at": "2026-08-10T20:36:47.475544+00:00",
   "items": [
+    {
+      "title": "Wendy's has a massive problem: It's closing restaurants left and right",
+      "summary": "It's been a brutal run for Wendy's.",
+      "pub_date": "2026-08-10T17:11:31Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/wendys-has-a-massive-problem-its-closing-restaurants-left-and-right-171131528.html"
+    },
     {
       "title": "Yum China completes $1.2bn acquisition of Pizza Hut brand in China",
       "summary": "The deal will transfer ownership of the Pizza Hut brand to Yum China, which has been operating the chain locally for 36 years.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-07T14:31:00Z",
       "source": "MarketWatch",
       "url": "https://www.yahoo.com/news/us/articles/michigan-says-ok-start-eating-143100827.html"
-    },
-    {
-      "title": "Yum! Brands Completes Sale of Pizza Hut China to Yum China Holdings",
-      "summary": "Yum! Brands, Inc. announced the completion of the sale of Pizza Hut in Mainland China (\u201cPizza Hut China\u201d) to Yum China Holdings, Inc., for $1.2 billion. The transaction with Yum China represents one of two previously announced definitive agreements to sell Pizza Hut for $2.7 billion in the aggregate, subject to certain purchase price adjustments [\u2026]",
-      "pub_date": "2026-08-07T11:00:14Z",
-      "source": "QSR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/yum-brands-completes-sale-pizza-110014700.html"
     }
   ]
 }

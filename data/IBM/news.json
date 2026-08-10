@@ -1,7 +1,21 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-08-10T16:48:12.593203+00:00",
+  "generated_at": "2026-08-10T20:36:04.617950+00:00",
   "items": [
+    {
+      "title": "IBM Stock Options Price A Band Half Above Today's Price And A Third Below",
+      "summary": "The useful question for a holder is not which way this breaks, but how much of the position the priced band puts in play.",
+      "pub_date": "2026-08-10T17:43:33Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/ibm-stock-options-price-band-174333113.html"
+    },
+    {
+      "title": "Broadcom Boosts VCF Security: Can it Fend Off Nutanix and IBM?",
+      "summary": "AVGO expands VCF security with faster vDefend deployment, on-prem malware sandboxing and API protection as rivals intensify competition.",
+      "pub_date": "2026-08-10T16:19:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/articles/broadcom-boosts-vcf-security-fend-161900110.html"
+    },
     {
       "title": "Following IonQ and D-Wave Earnings, Don\u2019t Count Out These Smaller Quantum Stocks",
       "summary": "Earnings reports from Horizon Quantum and Xanadu Quantum Technologies show the companies have a chance to compete with bigger names\u2014if they can secure capital.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-09T13:00:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/investing/stock-funds-increase-year-to-date-4085a35d?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Kyndryl Q1 Earnings Call Highlights",
-      "summary": "Kyndryl (NYSE:KD) reported fiscal first-quarter revenue of $3.6 billion, down 3% from a year earlier on both a reported and constant-currency basis, while maintaining its full-year outlook as it pursues growth in consulting, hyperscaler partnerships and AI-led modernization services. For the quarte",
-      "pub_date": "2026-08-08T15:03:56Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/kyndryl-q1-earnings-call-highlights-150356801.html"
-    },
-    {
-      "title": "Inside the Trump administration\u2019s $2 billion push to build the world\u2019s first useful quantum computer",
-      "summary": "The White House Quantum Summit brought industry experts together to solve a tough problem before an aggressive 2028 deadline.",
-      "pub_date": "2026-08-08T08:00:00Z",
-      "source": "FastCompany",
-      "url": "https://finance.yahoo.com/technology/ai/articles/inside-trump-administration-2-billion-080000477.html"
     }
   ]
 }

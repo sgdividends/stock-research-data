@@ -1,7 +1,14 @@
 {
   "ticker": "IT",
-  "generated_at": "2026-08-10T16:48:14.887446+00:00",
+  "generated_at": "2026-08-10T20:36:07.329824+00:00",
   "items": [
+    {
+      "title": "AI infrastructure spending soars in latest sign of deployment maturity",
+      "summary": "Enterprises are now spending more on infrastructure to operate the technology at scale rather than on training models, according to Gartner.",
+      "pub_date": "2026-08-10T15:16:32Z",
+      "source": "CIO Dive",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-spending-soars-latest-151632604.html"
+    },
     {
       "title": "Why Gartner Stock Skyrocketed This Week",
       "summary": "Gartner's latest quarterly report has investors reassessing the stock.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-05T15:43:20Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/technology/ai/articles/gartner-beat-q2-estimates-amid-154320151.html"
-    },
-    {
-      "title": "Gartner (IT) Says Quantum Will Sit Out Enterprise AI Through 2028",
-      "summary": "Gartner forecasts that enterprise AI workloads at scale will not use quantum hardware through at least 2028. The company expects quantum AI to remain focused on research and development while classical accelerated AI continues to lead in production workloads. This guidance frames how large enterprises may plan AI and quantum computing budgets over the next several years. Gartner, traded as NYSE:IT, is highlighting a clear separation between research activity in quantum AI and what is likely...",
-      "pub_date": "2026-08-05T11:10:10Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/gartner-says-quantum-sit-enterprise-111010642.html"
     }
   ]
 }
