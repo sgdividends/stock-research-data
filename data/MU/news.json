@@ -1,7 +1,28 @@
 {
   "ticker": "MU",
-  "generated_at": "2026-08-10T05:21:08.503839+00:00",
+  "generated_at": "2026-08-10T09:13:37.211070+00:00",
   "items": [
+    {
+      "title": "Micron Stock Gains Even as Apple Looks to China for Memory-Chip Supply",
+      "summary": "Micron stock was rising despite news that Apple has tested memory chips from China\u2019s ChangXin Memory Technologies.",
+      "pub_date": "2026-08-10T08:30:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/micron-stock-price-apple-memory-chips-china-cxmt-74e95bbb?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "S&P 500, Nasdaq, Dow Futures Mixed As Hormuz Uncertainty Weighs: Why AAPL, TSM, MU, SPCX, ASTS, SLS Stocks Are In Focus",
+      "summary": "Retail sentiment on Stocktwits was split, with traders \u2018bullish\u2019 on SPY and \u2018bearish\u2019 on QQQ.",
+      "pub_date": "2026-08-10T08:24:48Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-dow-futures-082448759.html"
+    },
+    {
+      "title": "Market Chatter: Apple Testing CXMT Memory Chips Amid Global Supply Crunch",
+      "summary": "Apple (AAPL) has been testing memory chips from China's CXMT for use in iPhones, MacBooks and other",
+      "pub_date": "2026-08-10T08:18:57Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/technology/articles/market-chatter-apple-testing-cxmt-081857078.html"
+    },
     {
       "title": "Why Micron is Decisively Better Positioned Than Intel Now",
       "summary": "Both Micron and Intel posted blowout quarters, but the businesses underneath those headlines are moving in opposite directions. One is riding an AI pricing wave in real time while the other is still paying for a multi-year rebuild.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-09T21:06:37Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/apples-favorite-bullying-tactic-just-210637752.html"
-    },
-    {
-      "title": "Unpacking the Latest Pullback in Micron Stock",
-      "summary": "AI spending worries spread like wildfire.",
-      "pub_date": "2026-08-09T20:20:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/unpacking-latest-pullback-micron-stock-202000029.html"
-    },
-    {
-      "title": "Micron Has Surged 207% This Year. Brace for a Steep Pullback.",
-      "summary": "Micron's business is booming, but slowing memory price gains could quickly test investor expectations.",
-      "pub_date": "2026-08-09T17:45:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-surged-207-brace-steep-174500170.html"
-    },
-    {
-      "title": "Opinion: The Best AI Memory Stock to Buy Isn't Micron or Sandisk -- It's This Korean Giant",
-      "summary": "Hyperscalers are spending more than $700 billion on AI infrastructure in 2026 alone, fueling a surge in specialized memory chips.",
-      "pub_date": "2026-08-09T17:43:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/technology/ai/articles/opinion-best-ai-memory-stock-174300599.html"
     }
   ]
 }

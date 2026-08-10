@@ -1,7 +1,14 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-08-10T05:20:32.682096+00:00",
+  "generated_at": "2026-08-10T09:12:57.001514+00:00",
   "items": [
+    {
+      "title": "Nvidia, Eli Lilly, and Disney Show It\u2019s Time to Back the Top Dogs",
+      "summary": "Investors are still skittish enough that they only want to buy proven winners, so backing the favorite is a smart strategy right now.",
+      "pub_date": "2026-08-10T05:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/nvidia-stock-eli-lilly-disney-0133194f?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "US Export Control Meant to Cripple China\u2019s AI. But They Created Its Most Valuable Company",
       "summary": "US chip export controls were meant to weaken China's AI. CXMT's 466% debut shows the strategy may have backfired.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-09T10:26:14Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/ai/articles/amd-amd-buys-inference-chip-102614063.html"
-    },
-    {
-      "title": "AMD just made bold move to challenge Nvidia",
-      "summary": "Advanced Micro Devices (AMD) has spent 2026 proving it can compete with Nvidia in the artificial intelligence race. Its stock has more than doubled this year, and its data center business is growing fast. Now AMD is trying something different. The company just bought a small Toronto startup ...",
-      "pub_date": "2026-08-08T22:07:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amd-just-made-bold-move-220700266.html"
     }
   ]
 }
