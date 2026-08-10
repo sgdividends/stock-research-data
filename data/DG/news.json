@@ -1,7 +1,14 @@
 {
   "ticker": "DG",
-  "generated_at": "2026-08-09T20:24:48.779525+00:00",
+  "generated_at": "2026-08-10T01:15:27.506296+00:00",
   "items": [
+    {
+      "title": "3 S&P 500 Stocks We Approach with Caution",
+      "summary": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials, or structural headwinds.",
+      "pub_date": "2026-08-09T21:57:22Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-approach-215722192.html"
+    },
     {
       "title": "Is Dollar General (DG) Still Trading At A Discount To Fair Value?",
       "summary": "Dollar General stock has recovered over the past year but is still well below its level of five years ago, while both intrinsic value estimates and market multiples currently point to it trading at a discount to what the business may be worth. Recent earnings and management changes have put fresh attention on whether that discount is still justified. Over the past 5 years, Dollar General shares have declined 41.9%, which leaves long term holders under pressure even after the more recent...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-27T11:28:24Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-q2-2027-earnings-112824025.html"
-    },
-    {
-      "title": "Why Premium Grocers Skew CMBS Delinquency Rankings",
-      "summary": "Premium grocers like Whole Foods show high CMBS delinquency rates, but property risk\u2014not tenant health\u2014drives the headline numbers.",
-      "pub_date": "2026-07-27T06:43:40Z",
-      "source": "CRE Daily",
-      "url": "https://finance.yahoo.com/real-estate/articles/why-premium-grocers-skew-cmbs-064340580.html"
     }
   ]
 }

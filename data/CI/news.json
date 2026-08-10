@@ -1,7 +1,14 @@
 {
   "ticker": "CI",
-  "generated_at": "2026-08-09T20:24:42.751466+00:00",
+  "generated_at": "2026-08-10T01:15:21.498005+00:00",
   "items": [
+    {
+      "title": "1 S&P 500 Stock with Promising Prospects and 2 That Underwhelm",
+      "summary": "The S&P 500 (^GSPC) is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are created equal - some are struggling with slowing growth, declining margins, or increased competition.",
+      "pub_date": "2026-08-09T22:37:22Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-promising-223722554.html"
+    },
     {
       "title": "Cigna (CI) Stock Still Looks Cheap Following Raised 2026 Outlook",
       "summary": "Cigna Group stock has delivered a 47.1% total return over the past 5 years, yet current valuation checks still lean toward the shares looking inexpensive rather than fully priced in. In light of recent earnings news and a steady long term track record, investors are weighing whether the recent price of US$282.49 already reflects this progress. Over 5 years, a 47.1% return suggests Cigna Group has rewarded patient shareholders while still inviting a closer look at whether the current price...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-05T15:50:15Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/healthcare/articles/case-unitedhealth-stock-margin-not-155015893.html"
-    },
-    {
-      "title": "CVS Stock Slides On 2027 Outlook Despite Hearty Earnings Beat",
-      "summary": "CVS Health earnings surged past tepid forecasts as health benefit costs fell as a share of premiums.  CVS stock initially jumped but reversed sharply lower.  Management's 2027 outlook shared on the earnings call may have been the trigger.",
-      "pub_date": "2026-08-05T14:37:29Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/cvs-stock-q2-earnings/?src=A00220&yptr=yahoo"
     }
   ]
 }
