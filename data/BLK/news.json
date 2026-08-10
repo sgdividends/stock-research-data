@@ -1,7 +1,14 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-08-10T01:15:17.151866+00:00",
+  "generated_at": "2026-08-10T05:20:37.158763+00:00",
   "items": [
+    {
+      "title": "Dear Circle Stock Fans, Mark Your Calendars for September 16",
+      "summary": "Management has revealed that Arc Mainnet will be launched next month.",
+      "pub_date": "2026-08-09T19:30:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/dear-circle-stock-fans-mark-193002443.html"
+    },
     {
       "title": "Billionaire Larry Fink Warns Keeping Your Savings in a Bank Account Is 'One Of The Worst Financial Decisions Of A Lifetime' \u2014 But Mark Cuban Told People To Do the Opposite",
       "summary": "Larry Fink says it's a bad idea for people to keep their money in banks, earning nothing.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-09T09:21:48Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-slips-below-65-000-092148126.html"
-    },
-    {
-      "title": "SharpLink CEO Warns Against New Ethereum Network Proposal EIP-8363",
-      "summary": "SharpLink's Joseph Chalom opposes Ethereum's EIP-8363, but analysts say the reward burn is unlikely to pass.",
-      "pub_date": "2026-08-08T19:04:30Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/sharplink-ceo-warns-against-ethereum-190430981.html"
     }
   ]
 }

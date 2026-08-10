@@ -1,7 +1,14 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-08-10T01:15:12.333455+00:00",
+  "generated_at": "2026-08-10T05:20:32.682096+00:00",
   "items": [
+    {
+      "title": "US Export Control Meant to Cripple China\u2019s AI. But They Created Its Most Valuable Company",
+      "summary": "US chip export controls were meant to weaken China's AI. CXMT's 466% debut shows the strategy may have backfired.",
+      "pub_date": "2026-08-10T03:43:00Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/technology/ai/articles/us-export-control-meant-cripple-034300067.html"
+    },
     {
       "title": "5-star analyst resets AMD stock price target",
       "summary": "Advanced Micro Devices just got a fresh vote of confidence from one of Wall Street's most accurate stock pickers, even as the chip giant's shares took a beating after earnings. JPMorgan analyst Harlan Sur raised his price target on AMD (AMD) to $550 from $385 recently, according to a research note ...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-08T22:07:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/technology/ai/articles/amd-just-made-bold-move-220700266.html"
-    },
-    {
-      "title": "AMD (AMD) Buys Taalas: Is AI Inference the Next Battleground With Nvidia?",
-      "summary": "Advanced Micro Devices, Inc. (NASDAQ:AMD) just announced an acquisition that could give major competition to NVIDIA Corporation (NASDAQ:NVDA) in AI-inference. On August 6, AMD said it has agreed to buy chip startup Taalas as specialized inference chips become a critical area of focus for semiconductor makers. The financial terms of the deal have not been [\u2026]",
-      "pub_date": "2026-08-08T19:46:09Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amd-amd-buys-taalas-ai-194609482.html"
     }
   ]
 }
