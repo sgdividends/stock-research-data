@@ -1,7 +1,21 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-08-10T09:12:59.312272+00:00",
+  "generated_at": "2026-08-10T12:54:42.600250+00:00",
   "items": [
+    {
+      "title": "TSMC Sales Jumps 45% as Nvidia-Driven AI Boom Powers Chip Demand",
+      "summary": "TSMC Sales Soar to $14.5 Billion as AI Spending Keeps Accelerating",
+      "pub_date": "2026-08-10T12:18:36Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/articles/tsmc-sales-jumps-45-nvidia-121836175.html"
+    },
+    {
+      "title": "Chip Stocks Face a Long Climb Back to Their Peak Despite Recent Rally",
+      "summary": "The PHLX Semiconductor Index has roared back to life, climbing more than 18% from its recent low on July 29. Yet it still has a long way to go to reclaim its summertime highs. Following last month's sharp decline, the index\u2014consisting of names like Nvidia, Micron Technology, and Broadcom\u2014needs an additional 18.",
+      "pub_date": "2026-08-10T10:22:31Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-10-2026/card/chip-stocks-face-a-long-climb-back-to-their-peak-despite-recent-rally-VMPs0LjGUDijwjmC7pbF?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "A $10,000 Investment in Taiwan Semiconductor Today Will Be Worth This Much by 2028",
       "summary": "Taiwan Semiconductor is a fantastic stock pick.",
@@ -15,6 +29,13 @@
       "pub_date": "2026-08-09T18:19:31Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-vs-avgo-nvda-181931790.html"
+    },
+    {
+      "title": "10 Shady Things Amazon Doesn't Want You To Know",
+      "summary": "Convenience has helped turn one online retailer into a global powerhouse, but controversial practices behind the experience have repeatedly drawn scrutiny.",
+      "pub_date": "2026-08-09T17:15:00Z",
+      "source": "Money Digest",
+      "url": "https://finance.yahoo.com/small-business/articles/10-shady-things-amazon-doesnt-171500697.html"
     },
     {
       "title": "Top Semiconductor Stock Outpacing Nvidia With a 36% Gain Over 6 Months",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-08T20:42:34Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-pairs-ai-chip-204234966.html"
-    },
-    {
-      "title": "Nvidia, Micron or Broadcom: What Would Raymond Dalio Do?",
-      "summary": "Ray Dalio built Bridgewater on one principle: never let a great story override the math. Applied to NVIDIA, Micron, and Broadcom right now, that principle points somewhere most investors are not looking.",
-      "pub_date": "2026-08-08T17:30:39Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-micron-broadcom-raymond-dalio-173039456.html"
-    },
-    {
-      "title": "Alphabet CEO Sundar Pichai Just Made a Decision That Could Move Nvidia and Broadcom Stock",
-      "summary": "Alphabet's growth opportunities look like an embarrassment of riches.",
-      "pub_date": "2026-08-08T15:50:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-ceo-sundar-pichai-just-155000736.html"
-    },
-    {
-      "title": "Does Broadcom (AVGO) Now Lead The Biggest AI Infrastructure Spend Outside GPUs?",
-      "summary": "Broadcom (NasdaqGS:AVGO) has become a dominant supplier for hyperscale AI clusters used by major cloud and AI providers such as Anthropic, OpenAI, and Meta. Multi-year commitments from these customers are channeling significant capital expenditure into Broadcom's AI infrastructure hardware, even as some of that spend bypasses GPU market leader Nvidia. The agreements increase Broadcom's visibility on future AI related revenue tied to large scale data center buildouts. Broadcom is one of...",
-      "pub_date": "2026-08-08T14:11:16Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/does-broadcom-avgo-now-lead-141116363.html"
     }
   ]
 }

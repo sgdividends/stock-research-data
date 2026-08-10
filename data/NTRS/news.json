@@ -1,7 +1,14 @@
 {
   "ticker": "NTRS",
-  "generated_at": "2026-08-10T09:13:38.969457+00:00",
+  "generated_at": "2026-08-10T12:55:23.016175+00:00",
   "items": [
+    {
+      "title": "1 Profitable Stock on Our Buy List and 2 We Find Risky",
+      "summary": "While profitability is essential, it doesn\u2019t guarantee long-term success. Some companies that rest on their margins will lose ground as competition intensifies \u2014 as Jeff Bezos said, \u201cYour margin is my opportunity\u201d.",
+      "pub_date": "2026-08-10T11:17:22Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-buy-list-111722216.html"
+    },
     {
       "title": "What Is Northern Trust (NTRS) Revealing With Its New Real Time Banking APIs?",
       "summary": "Northern Trust (NasdaqGS:NTRS) has launched real time banking APIs for institutional clients, integrating account data and payment capabilities into client workflows. NAV Fund Services is the first client to move these APIs into production, using them to connect fund administration operations directly to Northern Trust. The rollout is aimed at improving operational efficiency, data accessibility and risk management for institutional users of Northern Trust's banking platform. For investors...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-27T15:40:02Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/usb-vs-ntrs-stock-better-154002529.html"
-    },
-    {
-      "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Monday as Oil Prices Fall",
-      "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.9%, and the actively tra",
-      "pub_date": "2026-07-27T13:05:12Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-130512818.html"
     }
   ]
 }

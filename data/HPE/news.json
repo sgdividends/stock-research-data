@@ -1,7 +1,35 @@
 {
   "ticker": "HPE",
-  "generated_at": "2026-08-10T09:13:24.634873+00:00",
+  "generated_at": "2026-08-10T12:55:07.514332+00:00",
   "items": [
+    {
+      "title": "Analyst turns more bullish on hardware stocks as \u2018chipflation\u2019 accelerates demand",
+      "summary": "Investing.com -- Morgan Stanley has turned more constructive on IT hardware, upgrading its industry view as it argued that memory \"chipflation\" is accelerating infrastructure demand rather than delaying it.",
+      "pub_date": "2026-08-10T12:09:27Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-turns-more-bullish-hardware-120927617.html"
+    },
+    {
+      "title": "HPE Stock Jumps After Morgan Stanley Upgrade \u2014 Analyst Admits \u2018We\u2019ve Been On The Wrong Side\u2019 Of The Enterprise Hardware Trade",
+      "summary": "Morgan Stanley also upgraded its broader U.S. IT Hardware industry view to In-Line from Cautious, citing evidence that the current hardware cycle is being driven by refreshes, pull-forwards and AI demand.",
+      "pub_date": "2026-08-10T11:51:38Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hpe-stock-jumps-morgan-stanley-115138767.html"
+    },
+    {
+      "title": "HPE stock surges 5% as Morgan Stanley upgrades, pointing to ~30% upside",
+      "summary": "Investing.com -- Shares of HP Enterprise (NYSE: HPE) caught a major tailwind in Monday\u2019s pre-market session, jumping 5% after Morgan Stanley upgraded the stock from \"Equalweight\" to \"Overweight.\"",
+      "pub_date": "2026-08-10T11:49:26Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hpe-stock-surges-5-morgan-114926232.html"
+    },
+    {
+      "title": "Super Micro Computer Continues Its 3-Month Fall: One Wall Street Bull\u2019s Thesis Predicts 55% Upside From Here",
+      "summary": "SMCI has shed a third of its value over the past year while AI server peers rip to record highs, yet one Wall Street bull is doubling down with a target that implies massive recovery. Here is what has to go right, and what could go very wrong.",
+      "pub_date": "2026-08-10T11:35:15Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-continues-3-113515356.html"
+    },
     {
       "title": "Cisco Stock Is Finally Pricing In A New Growth Story",
       "summary": "Management put a much higher number on its future, and the stock has been on a tear ever since. But is this a fleeting AI boom or a fundamental rewiring of the business.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-08-06T20:15:00Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-stock-followed-chip-201500950.html"
-    },
-    {
-      "title": "Can HPE's NVDA Alliance Help it Challenge SMCI and DELL?",
-      "summary": "Hewlett Packard Enterprise and NVIDIA deepen their AI alliance in various domains as HPE competes with Dell Technologies and Super Micro Computer.",
-      "pub_date": "2026-08-06T16:01:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/hpes-nvda-alliance-help-challenge-160100215.html"
-    },
-    {
-      "title": "Is HPE (HPE) Using Quantum Partnerships To Deepen Its AI Infrastructure Moat?",
-      "summary": "In late July 2026, Rigetti Computing announced it would partner with Hewlett Packard Enterprise and the Pittsburgh Supercomputing Center to build TangleLab, a hybrid quantum-classical supercomputing testbed funded by a US$5.00 million National Science Foundation grant and slated to begin construction in September 2026. HPE\u2019s involvement in TangleLab, alongside its recent focus on AI systems and networking, underscores how the company is positioning itself at the intersection of quantum...",
-      "pub_date": "2026-08-06T07:14:03Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/hpe-hpe-using-quantum-partnerships-071403278.html"
-    },
-    {
-      "title": "Betting On AI Servers? Dell's Order Book Deserves A Look",
-      "summary": "Both hardware giants are riding the AI boom, but one has a dramatically larger backlog and a surprisingly cheaper valuation, making it the cleaner bet on the industry's future.",
-      "pub_date": "2026-08-05T22:27:34Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/technology/ai/articles/betting-ai-servers-dells-order-222734363.html"
-    },
-    {
-      "title": "HPE, IBD Stock Of The Day, Tests Buy Point As AI Drives Growth",
-      "summary": "The AI infrastructure boom, Juniper acquisition, and Elliott Management's growing role at the company have been driving gains for HPE stock.",
-      "pub_date": "2026-08-05T20:59:52Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/research/ibd-stock-of-the-day/hpe-stock-elliott-juniper-ai-infrastructure-boom/?src=A00220&yptr=yahoo"
     }
   ]
 }

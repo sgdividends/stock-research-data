@@ -1,7 +1,28 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-08-10T09:12:57.001514+00:00",
+  "generated_at": "2026-08-10T12:54:40.036374+00:00",
   "items": [
+    {
+      "title": "What TSMC Sales Growth Means for Apple and Nvidia Stocks",
+      "summary": "Taiwan Semiconductor Manufacturing reported monthly sales which were ahead of its annual growth forecast.",
+      "pub_date": "2026-08-10T12:19:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/tsmc-stock-sales-apple-ai-3491573c?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Who Really Benefits as Sovereign AI Infrastructure Spending Explodes?",
+      "summary": "Governments are pouring billions into national AI compute capacity, and the race is minting winners across silicon, real estate, and power infrastructure. But the benefits are not spread evenly, and knowing which layer captures the biggest dollar share changes the investment calculus entirely.",
+      "pub_date": "2026-08-10T11:55:43Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/really-benefits-sovereign-ai-infrastructure-115543024.html"
+    },
+    {
+      "title": "Why Is TSM Stock Rising Premarket?",
+      "summary": "TSMC kicked off the fresh quarter with strong topline growth.",
+      "pub_date": "2026-08-10T08:49:48Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-tsm-stock-rising-premarket-084948571.html"
+    },
     {
       "title": "Nvidia, Eli Lilly, and Disney Show It\u2019s Time to Back the Top Dogs",
       "summary": "Investors are still skittish enough that they only want to buy proven winners, so backing the favorite is a smart strategy right now.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-09T19:50:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/10-000-investment-taiwan-semiconductor-195000867.html"
-    },
-    {
-      "title": "Advanced Micro Devices Dips on Lower FCF, But Short Put Plays Attract Value Investors",
-      "summary": "Advanced Micro Devices reported strong Q2 revenue and earnings growth, but its free cash flow dipped below Q1 levels. But, AMD is undervalued, and a 10% lower short put play yields 3.5% for 1 month.",
-      "pub_date": "2026-08-09T14:00:02Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-dips-lower-140002117.html"
-    },
-    {
-      "title": "Advanced Micro Devices Reported Record Revenue. AMD Stock Sank Anyway.",
-      "summary": "AMD\u2019s shares sank after its Q2 results despite better-than-expected earnings.",
-      "pub_date": "2026-08-09T13:15:02Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-reported-record-131502549.html"
-    },
-    {
-      "title": "AMD (AMD) Buys Inference Chip Startup Taalas To Sharpen Its AI Edge",
-      "summary": "Advanced Micro Devices (NASDAQ:AMD) is trying to solve two problems at once: proving its AI hardware can keep growing as fast as Street expects, and making a case for why that growth alone should justify the stock\u2019s price. On August 6, AMD confirmed a deal to buy Taalas, a Toronto-based startup building specialized silicon for [\u2026]",
-      "pub_date": "2026-08-09T10:26:14Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amd-amd-buys-inference-chip-102614063.html"
     }
   ]
 }

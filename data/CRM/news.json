@@ -1,7 +1,14 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-08-10T09:13:09.718013+00:00",
+  "generated_at": "2026-08-10T12:54:52.035585+00:00",
   "items": [
+    {
+      "title": "Stock Market News for Aug 10, 2026",
+      "summary": "Wall Street closed higher on Friday as weak jobs data for July raised hope that the Federal Reserve may hold interest rates steady for longer.",
+      "pub_date": "2026-08-10T08:54:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-aug-10-085400959.html"
+    },
     {
       "title": "Zeta Global Holdings (ZETA) Refreshes Its Leadership Team With Two Senior Roles",
       "summary": "Zeta Global Holdings (NYSE:ZETA) appointed Leah Pope as Chief Marketing Officer, bringing experience from firms such as Salesforce and Adobe. The company promoted Candace Dean to Chief Communications Officer, expanding her remit over corporate and stakeholder messaging. These leadership moves highlight a focus on brand, market positioning, and communication at a time when prior updates have centered on earnings, guidance, and valuation. This kind of leadership shift is not unique to Zeta...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-07T14:50:27Z",
       "source": "Forkast News",
       "url": "https://finance.yahoo.com/technology/ai/articles/dod-authorizes-salesforce-agentforce-360-145027277.html"
-    },
-    {
-      "title": "Just How Wide Is the Risk Priced Into Adobe Stock?",
-      "summary": "The options market is pricing a vast range of outcomes for the creative software giant, and if you hold the shares, you are already exposed to the full ride.",
-      "pub_date": "2026-08-07T12:22:23Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/just-wide-risk-priced-adobe-122223397.html"
     }
   ]
 }
