@@ -1,7 +1,14 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-08-11T01:13:46.957223+00:00",
+  "generated_at": "2026-08-11T05:01:23.924484+00:00",
   "items": [
+    {
+      "title": "NIO Stock Slides Overnight: BlackRock Slashes Stake Even As ES9 Deliveries Smash Premium EV Record",
+      "summary": "BlackRock also trimmed XPeng, while increasing its Lucid and Rivian holdings to record levels.",
+      "pub_date": "2026-08-11T03:19:41Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nio-stock-slides-overnight-blackrock-031941768.html"
+    },
     {
       "title": "Nvidia, Wall Street Firms Strike AI Financing Deal Targeting $500 Billion",
       "summary": "Nvidia  reached deals with some of Wall Street\u2019s largest firms aimed at raising massive amounts of capital to help the chipmaker\u2019s customers finance the cost of computing power.  The chip-maker has signed agreements to partner with  Apollo Global Management Blackstone BlackRock Brookfield Asset Management Goldman Sachs  and  KKR  to establish  \u201ccompute financing platforms,\u201d the companies announced Monday.  The firms said the platforms will create pools of capital at \u201cattractive rates\u201d for Nvidia customers.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-10T19:54:00Z",
       "source": "CryptoProwl",
       "url": "https://finance.yahoo.com/markets/crypto/articles/blackrock-canada-launches-etf-combines-195400668.html"
-    },
-    {
-      "title": "Sector Update: Financial Stocks Mixed Monday Afternoon",
-      "summary": "Financial stocks were mixed in Monday afternoon trading, with the NYSE Financial Index decreasing 0.",
-      "pub_date": "2026-08-10T17:46:36Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-mixed-monday-174636834.html"
     }
   ]
 }
