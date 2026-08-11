@@ -1,7 +1,14 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-08-11T08:48:30.013459+00:00",
+  "generated_at": "2026-08-11T12:51:36.041424+00:00",
   "items": [
+    {
+      "title": "Cloud AI Today - Novo Nordisk Partners With AWS For AI-Driven Drug Discovery",
+      "summary": "Novo Nordisk has entered a strategic partnership with Amazon Web Services (AWS) to enhance drug discovery using artificial intelligence and cloud technologies. This collaboration includes establishing a co-innovation hub in London, which brings together AWS engineers, AI specialists, and Novo Nordisk's research and development teams to streamline the process of bringing new medicines to market. As part of this agreement, AWS becomes Novo Nordisk's preferred cloud provider and strategic AI...",
+      "pub_date": "2026-08-11T12:38:02Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/healthcare/articles/cloud-ai-today-novo-nordisk-123802779.html"
+    },
     {
       "title": "RXO, BrightView, SiteOne, ServiceNow, and Rocket Lab Shares Are Soaring, What You Need To Know",
       "summary": "A number of stocks jumped in the afternoon session after the July jobs report showed an unexpected loss of 23,000 jobs, signaling a cooling labor market. Economists had forecast a gain of around 80,000 nonfarm payrolls.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-06T15:09:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/accentures-ai-focused-deal-indias-150900696.html"
-    },
-    {
-      "title": "Software stocks sink, led by declines from Figma, Datadog",
-      "summary": "The software sector slumped on Thursday after quarterly results from Datadog, HubSpot, and Figma.",
-      "pub_date": "2026-08-06T14:41:04Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/software-stocks-sink-led-by-declines-from-figma-datadog-144104020.html"
     }
   ]
 }

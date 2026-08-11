@@ -1,7 +1,14 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-08-11T08:48:01.421896+00:00",
+  "generated_at": "2026-08-11T12:51:09.662757+00:00",
   "items": [
+    {
+      "title": "Coinbase Opens UK Derivatives Trading With Up to 50x Leverage",
+      "summary": "Futures, perpetuals and options spanning crypto, commodities, equities and FX, limited to clients who qualify as professional investors.",
+      "pub_date": "2026-08-11T09:58:44Z",
+      "source": "decrypt",
+      "url": "https://finance.yahoo.com/markets/options/articles/coinbase-opens-uk-derivatives-trading-095844102.html"
+    },
     {
       "title": "Corning, Sunrun, Coinbase, Builders FirstSource, and Blue Bird Shares Skyrocket, What You Need To Know",
       "summary": "A number of stocks jumped in the afternoon session after the July jobs report showed an unexpected loss of 23,000 jobs, signaling a cooling labor market.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-07T22:39:09Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/markets/crypto/articles/judge-rejects-coinbase-bid-block-223909777.html"
-    },
-    {
-      "title": "Weekly Wrap: Bitcoin Hit By Coldcard Hack And Clarity Act Disappointment",
-      "summary": "Bitcoin was trading right around $65,000 U.S. on Aug. 7 to end a difficult week for the crypto market. ...",
-      "pub_date": "2026-08-07T22:11:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-hit-coldcard-221100213.html"
     }
   ]
 }

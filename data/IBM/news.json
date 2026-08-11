@@ -1,7 +1,14 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-08-11T08:48:18.199940+00:00",
+  "generated_at": "2026-08-11T12:51:25.118610+00:00",
   "items": [
+    {
+      "title": "IBM, Together AI ink $240 million deal for Nvidia-powered AI inference cluster",
+      "summary": "IBM and startup Together AI have signed a $240 million multi-year \u200cagreement to build a large-scale artificial intelligence \u200ccluster on IBM Cloud using Nvidia systems, the companies \u200bsaid on Tuesday. The cluster will provide inference for open-source AI models, which have gained traction as businesses seek to rein in AI costs \u200cand weigh concerns \u2060about cybersecurity incidents involving models from Anthropic, OpenAI and Meta. Inference, the process \u2060of running trained AI models to generate responses, has become one of the largest drivers \u200bof \u200bdemand for computing capacity, \u200bprompting cloud providers \u200cand chipmakers to spend billions of dollars expanding AI infrastructure.",
+      "pub_date": "2026-08-11T12:02:37Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-together-ai-ink-240-120237670.html"
+    },
     {
       "title": "ACN: Priced Like A Decline, Paying Like A Machine",
       "summary": "The market has punished this consulting giant as if its business model is failing, yet the company's cash machine continues to run smoothly.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-10T13:25:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/silicon-motion-rides-solid-revenue-132500635.html"
-    },
-    {
-      "title": "International Business Machines Corp's Dividend Analysis",
-      "summary": "International Business Machines Corp (NYSE:IBM) recently announced a total dividend of $1.69 per share, with the ex-dividend date set for 2026-08-10.  This includes a $1.69 per share cash dividend payable on 2026-09-10.  As investors look forward to this upcoming payment, the spotlight also shines on the company's dividend history, yield, and growth rates.",
-      "pub_date": "2026-08-10T11:00:30Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/international-business-machines-corps-dividend-110030055.html"
     }
   ]
 }

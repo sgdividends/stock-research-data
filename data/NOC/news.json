@@ -1,7 +1,14 @@
 {
   "ticker": "NOC",
-  "generated_at": "2026-08-11T08:48:29.902617+00:00",
+  "generated_at": "2026-08-11T12:51:35.939283+00:00",
   "items": [
+    {
+      "title": "Joby builds defense muscle with $500M buy of Resonant Sciences",
+      "summary": "Joby Aviation is buying defense contractor Resonant Sciences in a $500 million deal.",
+      "pub_date": "2026-08-11T12:00:06Z",
+      "source": "Axios",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/joby-builds-defense-muscle-500m-120006984.html"
+    },
     {
       "title": "GE Stock Keeps Climbing. Should You Climb On?",
       "summary": "This jet engine powerhouse is flying high on real business strength, forcing investors to ask a disciplined question: is the engine's power already reflected in the ticket price.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-06T18:23:33Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-buys-different-182333652.html"
-    },
-    {
-      "title": "GE Aerospace Talks Less About The Shortage It Still Has",
-      "summary": "The constraint management once pointed to for a fall in shop visit volume now sits inside the growth case, and the raised guidance now rests on working through it.",
-      "pub_date": "2026-08-05T15:27:34Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospace-talks-less-shortage-152734664.html"
     }
   ]
 }

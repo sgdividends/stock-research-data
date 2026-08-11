@@ -1,7 +1,14 @@
 {
   "ticker": "MSCI",
-  "generated_at": "2026-08-11T08:48:28.094688+00:00",
+  "generated_at": "2026-08-11T12:51:34.000920+00:00",
   "items": [
+    {
+      "title": "Climate risk is changing the economics of retail property",
+      "summary": "Rising climate risks are increasing insurance costs for retailers and reshaping decisions on resilience, business continuity and store investment.",
+      "pub_date": "2026-08-11T09:08:18Z",
+      "source": "Retail Insight Network",
+      "url": "https://finance.yahoo.com/real-estate/articles/climate-risk-changing-economics-retail-090818984.html"
+    },
     {
       "title": "1 S&P 500 Stock with Promising Prospects and 2 That Underwhelm",
       "summary": "The S&P 500 (^GSPC) is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are created equal - some are struggling with slowing growth, declining margins, or increased competition.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-23T12:47:34Z",
       "source": "Moneyweek",
       "url": "https://finance.yahoo.com/technology/articles/six-technology-innovation-investment-trusts-124734692.html"
-    },
-    {
-      "title": "Is MSCI's (MSCI) AI Push Changing the Tradeoff Between Growth Investment and Capital Returns?",
-      "summary": "MSCI Inc. has already reported its second\u2011quarter 2026 results, with revenue rising to US$867 million and net income to US$342 million, while also affirming a quarterly dividend of US$2.05 per share and continuing share repurchases under its existing buyback program. Alongside these figures, MSCI agreed a partnership with UBS Group AG to enhance transparency in private markets via an AI\u2011powered platform, at the same time an academic study raised questions about how its ESG ratings balance...",
-      "pub_date": "2026-07-23T12:10:38Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mscis-msci-ai-push-changing-121038440.html"
     }
   ]
 }
