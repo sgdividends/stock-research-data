@@ -1,7 +1,14 @@
 {
   "ticker": "DDOG",
-  "generated_at": "2026-08-10T20:35:46.922183+00:00",
+  "generated_at": "2026-08-11T01:13:56.163199+00:00",
   "items": [
+    {
+      "title": "Review & Preview: The S&P 500 Pulls Back",
+      "summary": "REVIEW PREVIEW NEWSLETTER Losing Momentum. With the S&P 500 hovering near record levels, the stock markets rally hit a wall on Monday. The Dow Jones Industrial Average fell 61 points, or 0.2%. The S&P 500 dipped 0.",
+      "pub_date": "2026-08-10T23:55:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stockstoday-s-and-p-500-pulls-back-d9fc5a53?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Datadog (DDOG) Grows Fast, Then Gets Punished For Slowing Down",
       "summary": "Datadog (NASDAQ:DDOG) just posted one of its strongest quarters in years on July 22, and the stock fell 19% anyway. Earlier on July 16, the company also launched its platform on the AWS Europe (London) Region, giving UK customers a local option for storing observability and security data. That expansion lands at an odd moment. [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-10T01:09:22Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ddog-q2-deep-dive-market-010922675.html"
-    },
-    {
-      "title": "Datadog coverage update: BofA stays bullish on weakness",
-      "summary": "Datadog Inc. (DDOG) spent last summer defending itself against one accusation: that its biggest customer was quietly building its way out the door. In July 2025, Guggenheim downgraded the stock to sell, warning that OpenAI was developing in-house monitoring tools that could carve a $150 million ...",
-      "pub_date": "2026-08-09T16:47:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/datadog-coverage-bofa-stays-bullish-164700611.html"
     }
   ]
 }

@@ -1,14 +1,7 @@
 {
   "ticker": "CAT",
-  "generated_at": "2026-08-10T20:35:38.012339+00:00",
+  "generated_at": "2026-08-11T01:13:49.045884+00:00",
   "items": [
-    {
-      "title": "Stock Market Today: Dow Dips, Nvidia Falls On This Report; Energy Play Clears Entry As Oil Pops (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index falls Monday as oil prices spike. SpaceX stock skids. Nvidia slides amid AI funding news.",
-      "pub_date": "2026-08-10T19:44:03Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-us-iran-spacex-stock-spcx/?src=A00220&yptr=yahoo"
-    },
     {
       "title": "Zacks Market Edge Highlights: Caterpillar, MasTec and United Rentals",
       "summary": "AI infrastructure spending is boosting \"HALO\" stocks, putting Caterpillar, MasTec and United Rentals in focus for investors.",
@@ -57,6 +50,13 @@
       "pub_date": "2026-08-07T20:12:32Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-could-13-undervalued-201232624.html"
+    },
+    {
+      "title": "Michael Burry issues blunt warning as he bets against 2 AI favorites",
+      "summary": "Michael Burry has been building short-semiconductor-book lately. I covered his Micron short, his Caterpillar bet, and his SOXX position. His pattern has been consistent. He first identifies a narrative the market treats as infallible, finds the structural vulnerability underneath it, and waits. ...",
+      "pub_date": "2026-08-07T19:37:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/michael-burry-issues-blunt-warning-193700059.html"
     }
   ]
 }

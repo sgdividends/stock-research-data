@@ -1,7 +1,35 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-08-10T20:36:23.348287+00:00",
+  "generated_at": "2026-08-11T01:14:26.863982+00:00",
   "items": [
+    {
+      "title": "CRM Stock Has Bounced From This Price Before. Now What?",
+      "summary": "Salesforce stock has fallen to a price floor that has launched powerful rallies before, forcing investors to decide if the company's booming AI business can overcome its current challenges.",
+      "pub_date": "2026-08-10T22:39:08Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/crm-stock-bounced-price-now-223908334.html"
+    },
+    {
+      "title": "Microsoft Stock Runs One Of The Market's Biggest Cash-Return Machines",
+      "summary": "Microsoft showered investors with one of the largest cash returns on the market, but the real story is what that spending says about the tech giant's future.",
+      "pub_date": "2026-08-10T22:19:15Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-runs-one-markets-221915149.html"
+    },
+    {
+      "title": "Why the Market Dipped But Oracle (ORCL) Gained Today",
+      "summary": "Oracle (ORCL) reached $151.05 at the closing of the latest trading day, reflecting a +2.74% change compared to its last close.",
+      "pub_date": "2026-08-10T21:45:03Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-market-dipped-oracle-orcl-214503850.html"
+    },
+    {
+      "title": "Market expert 'cautious' on AI trade, likes healthcare, energy stocks",
+      "summary": "<body><p>STORY: \"We think the fundamentals are positive,\" on healthcare companies, Isherwood said. \"We also think AI tools have potential to help drug development accelerate.\"</p><p>But the AI trade itself is \"concerning,\" he said.</p><p>\"We've watched, actually the credit markets where we've seen Oracle CDS (credit default swaps) blow to levels consistent with where they were last in the financial crisis,\" Isherwood explained. \"We've also seen Nvidia's tick up past 50 basis points, which we consider the market starting to show a little bit of stress, and warning that some of these players may not be able to pay their bills in future years.\"</p></body>",
+      "pub_date": "2026-08-10T21:20:36Z",
+      "source": "Reuters Videos",
+      "url": "https://finance.yahoo.com/video/market-expert-cautious-ai-trade-212036260.html"
+    },
     {
       "title": "Nvidia Stock Falls. A $3 Billion AI Infrastructure Bet Could Be Next",
       "summary": "Nvidia Bets Billions on AI Power: Chip Giant Eyes $3 Billion Lancium Deal",
@@ -24,39 +52,11 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-still-software-business-bought-182804553.html"
     },
     {
-      "title": "IBM Stock Options Price A Band Half Above Today's Price And A Third Below",
-      "summary": "The useful question for a holder is not which way this breaks, but how much of the position the priced band puts in play.",
-      "pub_date": "2026-08-10T17:43:33Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/ibm-stock-options-price-band-174333113.html"
-    },
-    {
-      "title": "The Options Market Says Adobe Stock Can Fall Over A Third Or Rise More Than Half",
-      "summary": "Adobe has deliberately traded near-term recurring revenue for free users, and the option chain is charging for the uncertainty that leaves behind.",
-      "pub_date": "2026-08-10T16:30:11Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/options-market-says-adobe-stock-163011369.html"
-    },
-    {
-      "title": "Intel Stock Drops After $15 Billion Share Sale. Is AI Spending Getting Too Expensive?",
-      "summary": "Intel just chose to sell $15 billion worth of its own stock rather than borrow more money, and shareholders are already paying the price. The question hanging over the entire AI infrastructure boom is whether anyone building it will ever generate enough cash to justify the cost.",
-      "pub_date": "2026-08-10T16:18:50Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-drops-15-billion-161850287.html"
-    },
-    {
-      "title": "CoreWeave Stock Rallied Ahead Of Its Own Numbers, Not On Them",
-      "summary": "The only fresh operating news of the week does not come online for another two years.",
-      "pub_date": "2026-08-10T15:39:28Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-stock-rallied-ahead-own-153928980.html"
-    },
-    {
-      "title": "Semis Surge, Michael Burry\u2019s Shorts Feel the Pressure \u2014 But Don\u2019t Expect Him to Run for Cover After His Latest \u201c1987-Style\u201d Crash Warning",
-      "summary": "Michael Burry just doubled down on his bearish AI bets even as semiconductors roar back, but one short in his portfolio stands out as a head-scratcher that may reveal a flaw in his entire thesis.",
-      "pub_date": "2026-08-10T14:38:18Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/semis-surge-michael-burry-shorts-143818400.html"
+      "title": "Michael Burry vs. Nvidia: What to Know as Burry Bets Against Nvidia-Backed Nebius Stock",
+      "summary": "Michael Burry is betting against Nebius over its massive AI infrastructure spending, but strong customer commitments and surging demand could make the short thesis harder to justify.",
+      "pub_date": "2026-08-10T18:01:07Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-vs-nvidia-know-180107287.html"
     }
   ]
 }

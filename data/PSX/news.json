@@ -1,6 +1,6 @@
 {
   "ticker": "PSX",
-  "generated_at": "2026-08-10T20:36:28.054521+00:00",
+  "generated_at": "2026-08-11T01:14:31.048681+00:00",
   "items": [
     {
       "title": "Sector Update: Energy Stocks Rise Late Afternoon",
@@ -15,13 +15,6 @@
       "pub_date": "2026-08-10T14:23:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/mpc-jumps-18-1-3-142300620.html"
-    },
-    {
-      "title": "Stocks Pressured as Higher Crude Price Boosts T-Note Yields",
-      "summary": "The S&P 500 Index ($SPX ) (SPY ) today is down -0.04%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.14%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.15%. September E-mini S&P futures (ESU26 ) are down -0.04%, and September E-mini Nasdaq futures...",
-      "pub_date": "2026-08-10T14:04:42Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-pressured-higher-crude-price-140442483.html"
     },
     {
       "title": "Phillips 66 Q2 Earnings Call Highlights",
@@ -57,6 +50,13 @@
       "pub_date": "2026-08-07T00:27:18Z",
       "source": "Oilprice.com",
       "url": "https://finance.yahoo.com/energy/articles/conocophillips-names-andy-o-brien-002718626.html"
+    },
+    {
+      "title": "US oil imports from Saudi Arabia at zero in July, first time in 40 years",
+      "summary": "Investing.com -- US imports of Saudi Arabian oil fell to zero in July, marking the first time an entire month passed without such shipments since 1985, preliminary government data showed.",
+      "pub_date": "2026-08-06T18:33:50Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/energy/articles/us-oil-imports-saudi-arabia-183350172.html"
     }
   ]
 }
