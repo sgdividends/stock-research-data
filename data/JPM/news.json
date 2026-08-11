@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-08-11T05:01:48.394919+00:00",
+  "generated_at": "2026-08-11T08:48:20.898830+00:00",
   "items": [
     {
       "title": "Memory chip supply crunch will last 2 more years, JPMorgan warns",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-10T13:07:33Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/memory-chip-supply-crunch-will-last-2-more-years-jpmorgan-warns-130733703.html"
+    },
+    {
+      "title": "Global Gas Turbine Orders Hit Record High as Power Demand Surges",
+      "summary": "Global gas turbine orders reached a record 38 GW in the second quarter as surging electricity demand, particularly from U.S. data centers, intensified competition for limited manufacturing capacity.",
+      "pub_date": "2026-08-11T07:45:00Z",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/global-gas-turbine-orders-hit-074500051.html"
     },
     {
       "title": "Klarna Group (KLAR) Following J.P. Morgan Payments Tie Up Faces A Valuation Split",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-10T15:00:00Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-leads-441-million-debt-150000863.html"
-    },
-    {
-      "title": "You might not need a Roth IRA for a secure retirement \u2014 despite what online \u2018experts\u2019 say. Here\u2019s why",
-      "summary": "Roth IRAs offer several benefits, but they\u2019re not ideal for everyone. Here\u2019s how you can figure out if this is a good fit for you.",
-      "pub_date": "2026-08-10T14:45:00Z",
-      "source": "Moneywise",
-      "url": "https://finance.yahoo.com/markets/articles/might-not-roth-ira-secure-144500938.html"
     }
   ]
 }
