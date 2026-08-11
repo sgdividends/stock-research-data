@@ -1,7 +1,14 @@
 {
   "ticker": "CI",
-  "generated_at": "2026-08-11T16:52:49.017771+00:00",
+  "generated_at": "2026-08-11T20:37:45.435797+00:00",
   "items": [
+    {
+      "title": "Are Wall Street Analysts Bullish on Cigna Group Stock?",
+      "summary": "Cigna Group has lagged the broader market despite consistent earnings performance, while analysts remain moderately optimistic about its future prospects.",
+      "pub_date": "2026-08-11T12:16:05Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-cigna-121605571.html"
+    },
     {
       "title": "1 S&P 500 Stock with Promising Prospects and 2 That Underwhelm",
       "summary": "The S&P 500 (^GSPC) is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are created equal - some are struggling with slowing growth, declining margins, or increased competition.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-05T20:34:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/healthcare-stocks-eli-lilly-mckesson-humana-a11231dc?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "The Case For UnitedHealth Stock Is Margin, Not Growth",
-      "summary": "UnitedHealth's revenue held up; the operating margin on it did not, and closing that gap is the whole upside case.",
-      "pub_date": "2026-08-05T15:50:15Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/healthcare/articles/case-unitedhealth-stock-margin-not-155015893.html"
     }
   ]
 }

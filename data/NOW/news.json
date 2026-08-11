@@ -1,7 +1,21 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-08-11T16:53:21.385829+00:00",
+  "generated_at": "2026-08-11T20:38:18.893059+00:00",
   "items": [
+    {
+      "title": "The Palantir Bull Case Is Getting Harder to Ignore",
+      "summary": "Palantir just delivered a quarter that broke every model, and even skeptics are struggling to explain away what the numbers show. Here is why the stock may have further to run than almost anyone predicted.",
+      "pub_date": "2026-08-11T17:30:17Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-bull-case-getting-harder-173017394.html"
+    },
+    {
+      "title": "Jim Cramer Compares Enterprise Software Dynamics in Workday and ServiceNow",
+      "summary": "During Mad Money\u2019s episode aired on August 3, host Jim Cramer spotlighted Workday, Inc. (NASDAQ:WDAY) after the enterprise software firm surged 31% in July, placing it among the top four gainers in the S&P 500 for the month. Cramer highlighted how Workday began reclaiming ground after extended selling pressure tied to artificial intelligence concerns. He [\u2026]",
+      "pub_date": "2026-08-11T16:52:34Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/articles/jim-cramer-compares-enterprise-software-165234767.html"
+    },
     {
       "title": "Cloud AI Today - Novo Nordisk Partners With AWS For AI-Driven Drug Discovery",
       "summary": "Novo Nordisk has entered a strategic partnership with Amazon Web Services (AWS) to enhance drug discovery using artificial intelligence and cloud technologies. This collaboration includes establishing a co-innovation hub in London, which brings together AWS engineers, AI specialists, and Novo Nordisk's research and development teams to streamline the process of bringing new medicines to market. As part of this agreement, AWS becomes Novo Nordisk's preferred cloud provider and strategic AI...",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-09T19:11:05Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-now-unveils-autonomous-security-191105328.html"
-    },
-    {
-      "title": "Cloud AI Update - Fortude Revolutionizes ERP with AI-Driven Delivery Model",
-      "summary": "Fortude has launched an innovative AI-driven delivery model for ERP implementations using Infor CloudSuite. This model integrates industry accelerators with AI agents and human oversight to streamline and expedite the ERP implementation process, reducing costs and enhancing efficiency. By utilizing AI to automate repetitive tasks and organized project knowledge, Fortude aims to provide faster and more affordable ERP solutions, thereby allowing businesses to concentrate on data, automation,...",
-      "pub_date": "2026-08-07T12:40:36Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cloud-ai-fortude-revolutionizes-erp-124036380.html"
-    },
-    {
-      "title": "Is Accenture's AI-Focused Deal With India's Dabur a Growth Catalyst?",
-      "summary": "ACN's multi-year Dabur deal embeds AI across data, operations and decision-making to drive efficiency, agility and profitable long-term growth.",
-      "pub_date": "2026-08-06T15:09:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/accentures-ai-focused-deal-indias-150900696.html"
     }
   ]
 }

@@ -1,7 +1,28 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-08-11T16:52:52.282588+00:00",
+  "generated_at": "2026-08-11T20:37:48.820302+00:00",
   "items": [
+    {
+      "title": "Arista Networks Stock Is Waiting On Parts, Not Orders",
+      "summary": "Arista keeps raising its revenue outlook as it locks up components, which makes its supply agreements the real driver of the upside case.",
+      "pub_date": "2026-08-11T19:58:40Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-stock-waiting-parts-195840562.html"
+    },
+    {
+      "title": "Is Cisco Systems Stock Poised for New Highs as Q4 Earnings Approach?",
+      "summary": "Cisco Systems (CSCO) is set to report its fiscal fourth-quarter results after the closing bell on Wednesday, Aug. 12, putting the networking giant back in the spotlight as investors assess whether its impressive momentum can continue.",
+      "pub_date": "2026-08-11T17:46:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-stock-poised-highs-174600731.html"
+    },
+    {
+      "title": "Palo Alto Networks Stock Ran On A Threat That Management Had Already Named",
+      "summary": "Palo Alto Networks had described the AI attack problem, raised its long-term target and bought an observability platform before the stock repriced.",
+      "pub_date": "2026-08-11T17:22:04Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-stock-ran-172204061.html"
+    },
     {
       "title": "Cisco (CSCO) Puts 90,000 Workers On Personalized AI Agents With New Revenue Targets",
       "summary": "Cisco Systems (NasdaqGS: CSCO) is rolling out personalized AI agents to its entire 90,000-person workforce as part of a broad internal transformation. The company is pairing the deployment with major infrastructure investment and company-wide model routing to manage AI workloads across teams and functions. Cisco is setting defined AI-driven revenue targets, tying the internal rollout to measurable business outcomes and new income streams. The move signals a push to use standardized agentic...",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-11T07:31:32Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-11-2026/card/inflation-figures-earnings-what-to-watch-the-rest-of-the-week-R63wYloRcFPC1mzP3n3A?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "A 14% Yield On ANET Stock, And A Shot At Buying It 40% Lower",
-      "summary": "Get paid a significant income stream now for agreeing to buy this AI networking star at a discount later, an attractive proposition you keep whether the stock soars or stalls.",
-      "pub_date": "2026-08-11T01:24:41Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/14-yield-anet-stock-shot-012441981.html"
-    },
-    {
-      "title": "Update: S&P 500 Retreats From Record, Oil Jumps as Hormuz Reopening Hopes Fade",
-      "summary": "(Updates with market moves at the end of the day, and other changes, if any.) US equity benchmark",
-      "pub_date": "2026-08-10T20:57:08Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-retreats-record-oil-205708697.html"
-    },
-    {
-      "title": "Oil prices jump, Wall Street under pressure with Hormuz, inflation in focus",
-      "summary": "By Chris Prentice and Harry Robertson NEW YORK/LONDON, Aug 10 (Reuters) - Wall Street indexes retreated and oil prices rallied over 4% on Monday, with markets focused on the outlook for Federal",
-      "pub_date": "2026-08-10T18:25:52Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/news/asia-stocks-edge-higher-oil-002532883.html"
     }
   ]
 }

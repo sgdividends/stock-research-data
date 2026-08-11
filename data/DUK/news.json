@@ -1,7 +1,14 @@
 {
   "ticker": "DUK",
-  "generated_at": "2026-08-11T16:52:56.207122+00:00",
+  "generated_at": "2026-08-11T20:37:52.977711+00:00",
   "items": [
+    {
+      "title": "Sector Update: Energy Stocks Gain Late Afternoon",
+      "summary": "Energy stocks were higher late Tuesday afternoon, with the NYSE Energy Sector Index rising 0.7% and",
+      "pub_date": "2026-08-11T19:58:51Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-195851020.html"
+    },
     {
       "title": "America's $4 Billion Wind Retreat Is a Bet on Permanently Cheap Gas",
       "summary": "Natural gas is a valuable source of dispatchable power, but it already supplies roughly 41% of U.S. electricity. Deliberately increasing that dependence leaves consumers and industry more exposed to fuel-price volatility.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-06T08:00:00Z",
       "source": "Utility Dive",
       "url": "https://finance.yahoo.com/energy/articles/duke-energy-issue-10b-equity-080000195.html"
-    },
-    {
-      "title": "DUK Q2 Earnings Call Centers on Large-Load Capital Upside",
-      "summary": "Duke Energy links contracted data-center demand to up to $10B in capital upside as new loads begin taking power from late 2027.",
-      "pub_date": "2026-08-05T14:00:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/energy/articles/duk-q2-earnings-call-centers-140000580.html"
     }
   ]
 }

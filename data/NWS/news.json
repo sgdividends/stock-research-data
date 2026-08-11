@@ -1,7 +1,14 @@
 {
   "ticker": "NWS",
-  "generated_at": "2026-08-11T16:53:22.466657+00:00",
+  "generated_at": "2026-08-11T20:38:20.185063+00:00",
   "items": [
+    {
+      "title": "Are Wall Street Analysts Bullish on News Corporation Stock?",
+      "summary": "Despite trailing the broader market over the past year, News Corp continues to command strong Wall Street conviction, with analysts largely bullish on the stock\u2019s growth prospects.",
+      "pub_date": "2026-08-11T11:46:44Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-news-114644603.html"
+    },
     {
       "title": "With SEO Rizz Fading, Brands Compete For Chatbot Love",
       "summary": "Users who encounter an AI summary click on an actual link to a third-party site just 8% of the time, according to a recent Pew Research study.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-05T22:30:03Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/news-corp-nwsa-reports-q4-223003659.html"
-    },
-    {
-      "title": "News Corp Revenue Rises, With Growth Across All Segments",
-      "summary": "Digital-only subscriptions to The Wall Street Journal averaged nearly 4.5 million in the quarter, compared with 4.33 million in the prior quarter.",
-      "pub_date": "2026-08-05T22:04:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/media/news-corp-revenue-rises-with-growth-across-all-segments-d5313004?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

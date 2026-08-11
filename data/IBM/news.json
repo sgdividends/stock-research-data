@@ -1,13 +1,27 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-08-11T16:53:08.688485+00:00",
+  "generated_at": "2026-08-11T20:38:06.453273+00:00",
   "items": [
     {
-      "title": "Stock Market Today: Dow Falls, Oil Rises Despite Iran Claim; Roger Federer Play Dives On This (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index gives up gains as oil rises. SpaceX rival Rocket Lab falls on earnings. A Roger Federer play dives.",
-      "pub_date": "2026-08-11T15:53:58Z",
+      "title": "Stock Market Today: Dow Falls, Oil Rises As Iran Says This On Hormuz; Equity Sees 22% Gain Fade (Live Coverage)",
+      "summary": "Stock Market Today: The Dow Jones index gives up gains and oil rises after an Iranian official speaks on Hormuz. A Roger Federer play dives.",
+      "pub_date": "2026-08-11T19:56:06Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-us-iran-spacex-rocket-lab-rklb/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "IBM Lands a $240 Million AI Inference Deal",
+      "summary": "Together AI will use IBM Cloud and Nvidia Blackwell systems to build a large-scale cluster for open-source models.",
+      "pub_date": "2026-08-11T19:10:47Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-lands-240-million-ai-191047046.html"
+    },
+    {
+      "title": "Inside IBM\u2019s $240 Million AI Bet to Build Out Its Cloud Capabilities",
+      "summary": "IBM and Together AI are building a cluster on IBM\u2019s cloud that will power the start-up\u2019s open-source model inference.",
+      "pub_date": "2026-08-11T18:26:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/ibm-together-ai-cloud-deal-ea60e818?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "The Next AI Surge: Top Quantum ETFs to Buy Amid Washington's Funding Push",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-11T13:23:14Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/palantirs-sovereign-ai-boom-almost-132314536.html"
-    },
-    {
-      "title": "IBM's $240M Together AI Deal For Nvidia Systems Puts It In The Neocloud Business",
-      "summary": "The cluster will use Nvidia HGX B300 systems and Spectrum-X Ethernet networking and is expected to come online in Q1 2027.",
-      "pub_date": "2026-08-11T13:04:23Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ibms-240m-together-ai-deal-130423231.html"
-    },
-    {
-      "title": "IBM, Together AI ink $240 million deal for Nvidia-powered AI inference cluster",
-      "summary": "IBM and startup Together AI have signed a $240 million multi-year \u200cagreement to build a large-scale artificial intelligence \u200ccluster on IBM Cloud using Nvidia systems, the companies \u200bsaid on Tuesday. The cluster will provide inference for open-source AI models, which have gained traction as businesses seek to rein in AI costs \u200cand weigh concerns \u2060about cybersecurity incidents involving models from Anthropic, OpenAI and Meta. Inference, the process \u2060of running trained AI models to generate responses, has become one of the largest drivers \u200bof \u200bdemand for computing capacity, \u200bprompting cloud providers \u200cand chipmakers to spend billions of dollars expanding AI infrastructure.",
-      "pub_date": "2026-08-11T12:02:37Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-together-ai-ink-240-120237670.html"
     }
   ]
 }
