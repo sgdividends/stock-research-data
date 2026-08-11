@@ -1,7 +1,14 @@
 {
   "ticker": "BMY",
-  "generated_at": "2026-08-11T12:51:05.126390+00:00",
+  "generated_at": "2026-08-11T16:52:45.582590+00:00",
   "items": [
+    {
+      "title": "BMS Plans $2.3B Houston Manufacturing Campus",
+      "summary": "BMS will invest $2.3 billion in a 600,000-square-foot Houston manufacturing campus at Generation Park in Houston, Texas.",
+      "pub_date": "2026-08-11T16:03:22Z",
+      "source": "CRE Daily",
+      "url": "https://finance.yahoo.com/healthcare/articles/bms-plans-2-3b-houston-160322841.html"
+    },
     {
       "title": "BMS banks on Texas for $2.3bn multi-modal manufacturing facility",
       "summary": "This will establish BMS\u2019 in-house manufacturing presence in Texas, adding to its ongoing outlicensing and research partnerships in the state.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-10T15:41:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/healthcare/articles/imcr-worth-buying-kimmtrak-growth-154100947.html"
-    },
-    {
-      "title": "IMCR Q2 Revenues Climb 18.3% as Kimmtrak Demand Helps Offset EPS Miss",
-      "summary": "Immunocore's Q2 revenue beat reflects strong Kimmtrak demand, but an EPS miss and distributor stocking headwind cloud the near-term outlook.",
-      "pub_date": "2026-08-10T15:39:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/healthcare/articles/imcr-q2-revenues-climb-18-153900256.html"
     }
   ]
 }

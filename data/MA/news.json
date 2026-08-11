@@ -1,6 +1,6 @@
 {
   "ticker": "MA",
-  "generated_at": "2026-08-11T12:51:31.111045+00:00",
+  "generated_at": "2026-08-11T16:53:15.662734+00:00",
   "items": [
     {
       "title": "How Mastercard is boosting stablecoin infrastructure",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-11T12:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/mastercard-boosting-stablecoin-infrastructure-120000059.html"
+    },
+    {
+      "title": "Visa's Cheaper Multiple Rests On A Margin Assumption",
+      "summary": "The forward numbers make the stock look reasonable, but they assume profitability keeps climbing at a company currently spending to grow.",
+      "pub_date": "2026-08-11T13:46:35Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/visas-cheaper-multiple-rests-margin-134635549.html"
     },
     {
       "title": "Cloudflare Wants to Control the Identity and Money Layer for Agent Commerce",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-08T08:13:28Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-fiserv-fisv-weaker-081328470.html"
-    },
-    {
-      "title": "Circle Internet Group (CRCL) Launches Arc As Its Growth Story Moves Beyond USDC",
-      "summary": "Circle Internet Group (NYSE:CRCL) launched its Arc blockchain in September, expanding its focus beyond USDC. Arc is being positioned as core infrastructure for institutional blockchain use, with an emphasis on compliance and integration with traditional finance. Founding validators on Arc include BlackRock, DTCC, Mastercard, Visa, ICE, and Standard Chartered. Circle's CEO has described Arc as a potentially larger long term opportunity than USDC, signaling an evolving strategy toward broader...",
-      "pub_date": "2026-08-08T04:19:23Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/circle-internet-group-crcl-launches-041923139.html"
     }
   ]
 }

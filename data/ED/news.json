@@ -1,7 +1,14 @@
 {
   "ticker": "ED",
-  "generated_at": "2026-08-11T12:51:15.609063+00:00",
+  "generated_at": "2026-08-11T16:52:57.320833+00:00",
   "items": [
+    {
+      "title": "Do Wall Street Analysts Like Consolidated Edison Stock?",
+      "summary": "Consolidated Edison has underperformed the broader market over the past year, and analysts remain skeptical about the stock\u2019s prospects.",
+      "pub_date": "2026-08-11T10:21:39Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-consolidated-edison-102139930.html"
+    },
     {
       "title": "Consolidated Edison Q2 Earnings Top Estimates, Revenues Rise Y/Y",
       "summary": "ED tops Q2 earnings and revenue estimates as higher electric and gas rate bases lift results, while reaffirming 2026 earnings guidance and investment plans.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-05T18:00:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ogs-q2-earnings-surpass-estimates-180000581.html"
-    },
-    {
-      "title": "Pinnacle West Q2 Earnings Miss Estimates, Revenues Increase Y/Y",
-      "summary": "PNW's Q2 earnings fall short as rising fuel, power and interest costs offset 7.1% revenue growth, while 2026 guidance remains intact.",
-      "pub_date": "2026-08-04T18:54:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/pinnacle-west-q2-earnings-miss-185400724.html"
     }
   ]
 }

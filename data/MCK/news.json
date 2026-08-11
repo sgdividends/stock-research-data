@@ -1,7 +1,14 @@
 {
   "ticker": "MCK",
-  "generated_at": "2026-08-11T12:51:31.781216+00:00",
+  "generated_at": "2026-08-11T16:53:16.386335+00:00",
   "items": [
+    {
+      "title": "S&P 500 Medical Stocks: Three Trade Near Buy Points; One Rallies Despite Mixed Results",
+      "summary": "S&P 500 drug distributor Cardinal Health easily topped fiscal fourth-quarter earnings forecasts despite a revenue shortfall.  Rival McKesson, which whipsawed after its earnings report last week, has climbed back near a buy point.  Cencora, another big S&P 500 drug distributor, also is near a buy point, but MCK stock may be the strongest of the three.",
+      "pub_date": "2026-08-11T13:16:16Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/sp-500-medical-stocks-cardinal-health-earnings-mck-cor/?src=A00220&yptr=yahoo"
+    },
     {
       "title": "QDEL Q2 Earnings & Revenues Beat Estimates, 2026 Guidance Lowered",
       "summary": "QuidelOrtho beats Q2 earnings and revenue estimates, but cuts its 2026 outlook on persistent China weakness and a softer respiratory testing environment.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-07T17:57:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/healthcare/articles/10x-genomics-q2-earnings-revenues-175700399.html"
-    },
-    {
-      "title": "Rigetti Q2 Earnings Miss Estimates on Higher Costs, Revenue Beat",
-      "summary": "RGTI's Q2 revenues surge 185.3% and beat estimates, but widening losses and higher R&D and SG&A costs continue to pressure profitability.",
-      "pub_date": "2026-08-07T17:55:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rigetti-q2-earnings-miss-estimates-175500672.html"
     }
   ]
 }
