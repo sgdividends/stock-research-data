@@ -1,10 +1,10 @@
 {
   "ticker": "PSX",
   "as_of": "2026-08-10",
-  "generated_at": "2026-08-11T06:48:50.215864+00:00",
+  "generated_at": "2026-08-12T07:09:18.373527+00:00",
   "close": 215.52,
   "rsi_14": 66.77,
-  "rsi_14_pctile_1y": 77.3,
+  "rsi_14_pctile_1y": 77.6,
   "sma_20": 206.72,
   "sma_20_pct_from_price": 4.26,
   "sma_50": 189.41,
@@ -23,6 +23,6 @@
   "atr_14": 6.94,
   "atr_pct": 3.22,
   "week52_high": 216.08,
-  "week52_low": 118.07,
+  "week52_low": 118.64,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

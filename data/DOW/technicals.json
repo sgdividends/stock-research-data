@@ -1,10 +1,10 @@
 {
   "ticker": "DOW",
   "as_of": "2026-08-10",
-  "generated_at": "2026-08-11T06:48:35.180869+00:00",
+  "generated_at": "2026-08-12T07:08:59.650830+00:00",
   "close": 30.58,
   "rsi_14": 52.27,
-  "rsi_14_pctile_1y": 51.7,
+  "rsi_14_pctile_1y": 52.7,
   "sma_20": 30.03,
   "sma_20_pct_from_price": 1.83,
   "sma_50": 30.78,
@@ -19,10 +19,10 @@
   "bb_mid": 30.03,
   "bb_lower": 28.79,
   "bb_pctb": 0.722,
-  "bb_pctb_pctile_1y": 69.0,
+  "bb_pctb_pctile_1y": 68.8,
   "atr_14": 1.23,
   "atr_pct": 4.03,
   "week52_high": 42.74,
-  "week52_low": 20.4,
+  "week52_low": 20.65,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }
