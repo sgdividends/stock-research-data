@@ -1,6 +1,6 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-08-12T05:27:06.161529+00:00",
+  "generated_at": "2026-08-12T09:07:02.301573+00:00",
   "items": [
     {
       "title": "CPI, Cisco earnings, and more: What investors need to watch Wednesday",
@@ -8,6 +8,20 @@
       "pub_date": "2026-08-11T23:05:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/cpi-cisco-earnings-more-investors-230500912.html"
+    },
+    {
+      "title": "Stocks to Watch Wednesday: CoreWeave, Super Micro, Cisco",
+      "summary": "\u2197\ufe0f CoreWeave (CRWV): Shares jumped over 15% in premarket trading after the cloud-computing company posted its fifth straight quarter of record revenue, fueled by sustained AI demand. \u2197\ufe0f Super Micro Computer (SMCI): Shares jumped more than 7% premarket after the company reported a surging profit and sales nearly doubling in its fourth quarter.",
+      "pub_date": "2026-08-12T08:41:19Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-08-12-2026/card/stocks-to-watch-wednesday-coreweave-super-micro-cisco-5yWXl9pdmSJkXBPzjbew?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Inflation Figures, Earnings: What to Watch the Rest of the Week",
+      "summary": "Today Inflation data: Consumer price index for July, 8:30 a.m. ET Other data: EIA petroleum status report, Treasury budget  Bond auctions: 10-year Treasury note Earnings: Cisco Systems, Stubhub, Coherent, Air Canada Thursday Economic data: Producer price index for July, Jobless claims, EIA natural-gas storage report Earnings: Applied Materials, Tapestry Federal Reserve speakers: Cleveland Fed President Beth Hammack, one of three Fed regional bank heads to dissent from last month\u2019s rate decision.",
+      "pub_date": "2026-08-12T08:21:11Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-08-12-2026/card/inflation-figures-earnings-what-to-watch-the-rest-of-the-week-Gy4tcY71XzsNuKgurVAl?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Seeking AI Exposure? Use This Zacks Tool",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-11T17:22:04Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-stock-ran-172204061.html"
-    },
-    {
-      "title": "Cisco (CSCO) Puts 90,000 Workers On Personalized AI Agents With New Revenue Targets",
-      "summary": "Cisco Systems (NasdaqGS: CSCO) is rolling out personalized AI agents to its entire 90,000-person workforce as part of a broad internal transformation. The company is pairing the deployment with major infrastructure investment and company-wide model routing to manage AI workloads across teams and functions. Cisco is setting defined AI-driven revenue targets, tying the internal rollout to measurable business outcomes and new income streams. The move signals a push to use standardized agentic...",
-      "pub_date": "2026-08-11T15:13:28Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-puts-90-000-151328425.html"
-    },
-    {
-      "title": "Cisco or Coherent: Which Stock Is Poised to Soar After Earnings?",
-      "summary": "Cisco and Coherent both report earnings the same afternoon, putting two very different AI networking bets head to head. One carries a 93% crowd-backed beat probability while the other just shed 14% in a single session, and only one belongs in a retirement portfolio.",
-      "pub_date": "2026-08-11T12:05:29Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-coherent-stock-poised-soar-120529991.html"
     }
   ]
 }
