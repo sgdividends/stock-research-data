@@ -1,6 +1,6 @@
 {
   "ticker": "GOOG",
-  "generated_at": "2026-08-12T01:22:06.936937+00:00",
+  "generated_at": "2026-08-12T05:27:17.401330+00:00",
   "items": [
     {
       "title": "CoreWeave jumps 10% following Q2 earnings",
@@ -15,6 +15,20 @@
       "pub_date": "2026-08-11T14:49:12Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/spacex-really-reach-100b-annual-144912928.html"
+    },
+    {
+      "title": "3 Cash-Producing Stocks We Approach with Caution",
+      "summary": "Generating cash is essential for any business, but not all cash-rich companies are great investments. Some produce plenty of cash but fail to allocate it effectively, leading to missed opportunities.",
+      "pub_date": "2026-08-12T02:21:22Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-cash-producing-stocks-approach-022122208.html"
+    },
+    {
+      "title": "Why Wall Street and Nvidia Are Building an Exotic Money Pipeline for the AI Boom",
+      "summary": "Executives involved are hailing it as a new asset class, but critics have concerns about using chips as collateral.",
+      "pub_date": "2026-08-12T01:17:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/ai/why-wall-street-and-nvidia-are-building-an-exotic-money-pipeline-for-the-ai-boom-346ba482?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "AvePoint (AVPT) Unveiled Kinetic Classification For Cloud Data Protection",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-11T22:19:47Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-inc-googl-vs-meta-221947259.html"
-    },
-    {
-      "title": "The Wreckage And The Cash Register At ADBE",
-      "summary": "The market has punished this software giant\u2019s stock as if its business model were cracking, yet its financial engine continues to run with remarkable efficiency.",
-      "pub_date": "2026-08-11T22:18:26Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wreckage-cash-register-adbe-221826316.html"
-    },
-    {
-      "title": "What Could Push AMZN Stock Higher From Here?",
-      "summary": "Beyond the familiar retail storefront, a massive custom silicon operation is quietly compounding. This internal chips business now has an annual revenue run rate of over twenty-five billion dollars. The company's AI services have also crossed this threshold, creating two new growth engines inside the larger machine.",
-      "pub_date": "2026-08-11T22:10:05Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/could-push-amzn-stock-higher-221005244.html"
     }
   ]
 }
