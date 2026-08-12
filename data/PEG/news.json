@@ -1,7 +1,14 @@
 {
   "ticker": "PEG",
-  "generated_at": "2026-08-12T16:53:06.877955+00:00",
+  "generated_at": "2026-08-12T20:38:08.445433+00:00",
   "items": [
+    {
+      "title": "Do Wall Street Analysts Like Public Service Enterprise Stock?",
+      "summary": "Public Service Enterprise has underperformed the broader market over the past year, but analysts are cautiously optimistic about the stock\u2019s prospects.",
+      "pub_date": "2026-08-12T11:36:31Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-public-enterprise-113631318.html"
+    },
     {
       "title": "PSEG (PEG) Q2 2026 Earnings Call Transcript",
       "summary": "Higher power prices and infrastructure investments supported earnings growth.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-04T22:50:31Z",
       "source": "Moby",
       "url": "https://finance.yahoo.com/energy/articles/public-enterprise-group-incorporated-q2-225031727.html"
-    },
-    {
-      "title": "PEG Q2 Earnings Outpace Expectations, Revenues Decrease Y/Y",
-      "summary": "PSEG beats Q2 earnings estimates as utility investments, higher realized prices and nuclear generation support results despite lower revenues.",
-      "pub_date": "2026-08-04T15:26:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/peg-q2-earnings-outpace-expectations-152600102.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "GILD",
-  "generated_at": "2026-08-12T16:52:38.850571+00:00",
+  "generated_at": "2026-08-12T20:37:46.122359+00:00",
   "items": [
+    {
+      "title": "Gilead Sciences (GILD) Expands ADC Research With AI Tissue Analytics",
+      "summary": "Gilead Sciences (NasdaqGS:GILD) announced a partnership with Nucleai to use AI-powered tissue analytics in its global antibody drug conjugate programs. The collaboration focuses on translational research to speed up biomarker discovery and support precision oncology development. The AI tools are intended to help standardize and accelerate analysis of tumor samples across Gilead\u2019s oncology pipeline. Gilead is not the only company leaning into AI to reshape drug discovery and development, so...",
+      "pub_date": "2026-08-12T18:13:50Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/healthcare/articles/gilead-sciences-gild-expands-adc-181350587.html"
+    },
     {
       "title": "TNGX Stock Dips 5% as Q2 Earnings Miss Estimates on Higher Expenses",
       "summary": "Tango Therapeutics stock falls 5% on a wider-than-expected Q2 loss, reflecting higher operating expenses, while pipeline progress remains in focus.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-06T18:52:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/healthcare/articles/kymr-q2-earnings-revenues-top-185200957.html"
-    },
-    {
-      "title": "MSD and Gilead scrap Phase III Trodelvy-Keytruda study on lacklustre interim data",
-      "summary": "This study miss marks a setback for Gilead\u2019s Trodelvy expansion plans, which include both mono and combination therapy approaches.",
-      "pub_date": "2026-08-06T11:04:32Z",
-      "source": "Clinical Trials Arena",
-      "url": "https://finance.yahoo.com/healthcare/articles/msd-gilead-scrap-phase-iii-110432404.html"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "CIEN",
-  "generated_at": "2026-08-12T16:52:17.773713+00:00",
+  "generated_at": "2026-08-12T20:37:28.725043+00:00",
   "items": [
     {
       "title": "AI infrastructure stocks surge after strong earnings from CoreWeave, Supermicro",
@@ -8,6 +8,20 @@
       "pub_date": "2026-08-12T14:23:04Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/ai-infrastructure-stocks-surge-after-strong-earnings-from-coreweave-supermicro-142304399.html"
+    },
+    {
+      "title": "How Far Can Arista Stock Move Without Anything Going Wrong?",
+      "summary": "The band the options market prices for the next ten months runs from just under the low this stock has set over the past year to a level far above today's price, and the volatility behind it is close to what the stock has actually been doing.",
+      "pub_date": "2026-08-12T18:37:44Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/far-arista-stock-move-without-183744818.html"
+    },
+    {
+      "title": "Lumentum Rockets 15% on Blowout Earnings, Coherent Climbs 9%, Corning Gains 5% on Optics Earnings and CoreWeave, Super Micro Read-Through",
+      "summary": "Lumentum just torched Wall Street expectations and sent shockwaves through the entire AI optics complex, pulling peers like Coherent, Corning, and Ciena sharply higher as analysts scramble to figure out whether the rally has legs or has already outrun reality.",
+      "pub_date": "2026-08-12T17:22:27Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lumentum-rockets-15-blowout-earnings-172227881.html"
     },
     {
       "title": "Arista Networks Stock Is Waiting On Parts, Not Orders",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-07T17:16:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/lumentum-stock-portfolio-pre-q4-171600793.html"
-    },
-    {
-      "title": "NETGEAR Q2 Earnings Beat Estimates, Revenues Decline Y/Y",
-      "summary": "NTGR's Q2 earnings beat estimates as Enterprise growth and wider margins offset Consumer weakness amid memory-cost headwinds.",
-      "pub_date": "2026-08-07T15:43:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netgear-q2-earnings-beat-estimates-154300208.html"
-    },
-    {
-      "title": "Arista Networks Stock Followed Its Chip Orders, Not Its Headlines",
-      "summary": "The case for the run sat in chip commitments and unrecognized product revenue quarters before Arista Networks stock caught up.",
-      "pub_date": "2026-08-06T20:15:00Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-stock-followed-chip-201500950.html"
     }
   ]
 }

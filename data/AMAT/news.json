@@ -1,7 +1,14 @@
 {
   "ticker": "AMAT",
-  "generated_at": "2026-08-12T16:52:04.548352+00:00",
+  "generated_at": "2026-08-12T20:37:18.762716+00:00",
   "items": [
+    {
+      "title": "Earnings live updates: Cisco and Cerebras earnings point to strong AI demand, but their stocks are falling anyway",
+      "summary": "The second quarter earnings season is beginning to wind down, with nearly 90% of S&P 500 (^GSPC) companies having already reported.",
+      "pub_date": "2026-08-10T20:23:02Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-cisco-and-cerebras-earnings-point-to-strong-ai-demand-but-their-stocks-are-falling-anyway-202302733.html"
+    },
     {
       "title": "Super Micro Computer Q4 Earnings Beat Estimates, Revenues Rise Y/Y",
       "summary": "SMCI posts a 315% earnings jump and 93% revenue growth, fueled by AI demand, record orders and a strong fiscal 2027 outlook.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-11T20:27:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/intel-stock-offering-price-766da245?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Lam Research Enters Panel-Level Packaging: Is This a Growth Catalyst?",
-      "summary": "LRCX expands into PLP as larger AI chips drive demand, targeting a fast-growing advanced-packaging opportunity.",
-      "pub_date": "2026-08-11T13:05:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/articles/lam-research-enters-panel-level-130500459.html"
     }
   ]
 }

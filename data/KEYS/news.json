@@ -1,7 +1,14 @@
 {
   "ticker": "KEYS",
-  "generated_at": "2026-08-12T16:52:49.593529+00:00",
+  "generated_at": "2026-08-12T20:37:54.755971+00:00",
   "items": [
+    {
+      "title": "Amgen Stock And The Price Of A Promise",
+      "summary": "Management raised its full-year forecast, but the market seems to be asking for more than a higher target.",
+      "pub_date": "2026-08-12T19:17:31Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amgen-stock-price-promise-191731572.html"
+    },
     {
       "title": "Can SNPS Leverage AI to Accelerate Chip Design and Drive Growth?",
       "summary": "Synopsys is leveraging AI across chip design, verification and simulation, driving productivity gains and strengthening its position in the AI semiconductor value chain.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-10T17:23:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ad-q2-earnings-beat-estimates-172300141.html"
-    },
-    {
-      "title": "TDS Q2 Earnings Beat Estimates on Spectrum Gains, Fiber Growth",
-      "summary": "TDS' Q2 earnings surged on spectrum sales, while fiber growth acceleratesd as itand liftsed its full-year address target to 250,000-300,000.",
-      "pub_date": "2026-08-10T17:07:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tds-q2-earnings-beat-estimates-170700239.html"
     }
   ]
 }

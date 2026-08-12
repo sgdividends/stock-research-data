@@ -1,7 +1,14 @@
 {
   "ticker": "EIX",
-  "generated_at": "2026-08-12T16:52:30.368688+00:00",
+  "generated_at": "2026-08-12T20:37:38.997824+00:00",
   "items": [
+    {
+      "title": "Sector Update: Energy Stocks Mixed Wednesday Afternoon",
+      "summary": "Energy stocks were mixed Wednesday afternoon, with the NYSE Energy Sector Index 0.1% higher and the",
+      "pub_date": "2026-08-12T17:53:07Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-wednesday-175307314.html"
+    },
     {
       "title": "Update: Market Chatter: Edison International's SCE Tentatively Not Held Liable for Eaton Fire",
       "summary": "(Adds company's comment in fourth paragraph) Edison International's (EIX) Southern California Edi",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-04T15:26:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/peg-q2-earnings-outpace-expectations-152600102.html"
-    },
-    {
-      "title": "NRG Energy Q2 Earnings Lag Estimates, Revenues Increase Y/Y",
-      "summary": "NRG's Q2 earnings miss estimates, but revenues climb 11% as lower operating costs and shareholder returns support performance.",
-      "pub_date": "2026-08-04T15:19:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-q2-earnings-lag-151900357.html"
     }
   ]
 }
