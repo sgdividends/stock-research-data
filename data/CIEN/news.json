@@ -1,7 +1,14 @@
 {
   "ticker": "CIEN",
-  "generated_at": "2026-08-12T12:55:10.739707+00:00",
+  "generated_at": "2026-08-12T16:52:17.773713+00:00",
   "items": [
+    {
+      "title": "AI infrastructure stocks surge after strong earnings from CoreWeave, Supermicro",
+      "summary": "AI infrastructure stocks jumped, with shares of AI server makers, optical-products companies, and neocloud providers moving higher.",
+      "pub_date": "2026-08-12T14:23:04Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/ai-infrastructure-stocks-surge-after-strong-earnings-from-coreweave-supermicro-142304399.html"
+    },
     {
       "title": "Arista Networks Stock Is Waiting On Parts, Not Orders",
       "summary": "Arista keeps raising its revenue outlook as it locks up components, which makes its supply agreements the real driver of the upside case.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-06T20:15:00Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-stock-followed-chip-201500950.html"
-    },
-    {
-      "title": "Is Arista Networks (ANET) Outperforming Other Computer and Technology Stocks This Year?",
-      "summary": "Here is how Arista Networks (ANET) and Ciena (CIEN) have performed compared to their sector so far this year.",
-      "pub_date": "2026-08-06T13:40:02Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-anet-outperforming-other-134002277.html"
     }
   ]
 }

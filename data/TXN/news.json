@@ -1,7 +1,21 @@
 {
   "ticker": "TXN",
-  "generated_at": "2026-08-12T12:55:52.433423+00:00",
+  "generated_at": "2026-08-12T16:53:23.541748+00:00",
   "items": [
+    {
+      "title": "The Zacks Analyst Blog Highlights Meta Platforms, Texas Instruments, CrowdStrike and Weyco",
+      "summary": "Meta's AI investments face monetization uncertainty, while Texas Instruments and CrowdStrike benefit from strong demand and Weyco gains sales momentum.",
+      "pub_date": "2026-08-12T14:10:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-meta-141000887.html"
+    },
+    {
+      "title": "4 Semiconductor Stocks to Buy Amid Top Hyperscalers' $745B AI CapEx Bet",
+      "summary": "Hyperscalers' $720B-$745B AI Capex plans are likely to fuel demand for Micron, FormFactor, Texas Instruments and NVIDIA across the chip supply chain.",
+      "pub_date": "2026-08-12T13:16:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/4-semiconductor-stocks-buy-amid-131600083.html"
+    },
     {
       "title": "Where Analysts Pushed Back On NXPI's Latest Call",
       "summary": "NXP Semiconductors says its auto business is a unique growth story, but on its latest earnings call, analysts kept asking why it looks so different from its peers.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-11T15:51:48Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/globalfoundries-stock-keeps-swinging-because-155148215.html"
-    },
-    {
-      "title": "This Wall Street Pro Makes a Compelling Argument for 70% Gains on NXP Semiconductors Which Cratered Last Month",
-      "summary": "A top Wall Street analyst slapped a Street-high price target on NXP Semiconductors just as the stock cratered 20% in a single month, and the gap between his conviction and the market's fear has rarely looked this wide in large-cap chips.",
-      "pub_date": "2026-08-11T11:36:37Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-pro-makes-compelling-113637315.html"
-    },
-    {
-      "title": "GE Appliances deepens Texas Instruments sourcing for resilience",
-      "summary": "The appliance manufacturer aims to maintain continuity of supply by boosting spend with the semiconductor firm, an executive told Supply Chain Dive.",
-      "pub_date": "2026-08-11T11:13:24Z",
-      "source": "Supply Chain Dive",
-      "url": "https://finance.yahoo.com/technology/articles/ge-appliances-deepens-texas-instruments-111324782.html"
     }
   ]
 }

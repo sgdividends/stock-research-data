@@ -1,7 +1,14 @@
 {
   "ticker": "ED",
-  "generated_at": "2026-08-12T12:55:17.801946+00:00",
+  "generated_at": "2026-08-12T16:52:29.748280+00:00",
   "items": [
+    {
+      "title": "ConEd plans 28 new substations by 2035",
+      "summary": "The New York-based utility company is pursuing growth through electrification, in alignment with city and state climate policies, it said last week.",
+      "pub_date": "2026-08-12T11:46:32Z",
+      "source": "Utility Dive",
+      "url": "https://finance.yahoo.com/energy/articles/coned-plans-28-substations-2035-114632462.html"
+    },
     {
       "title": "Can Consolidated Edison (ED) Still Trade At A Discount?",
       "summary": "Consolidated Edison stock has delivered a 64.1% total return over the past 5 years, and today the Dividend Discount Model (DDM) intrinsic value estimate sits very close to the current share price, while earnings-based multiples still screen the stock as somewhat undervalued. That mix, along with a mid-range valuation score, suggests the share price may be roughly in line with intrinsic value but without a clear margin of safety. Over 5 years, Consolidated Edison has returned 64.1%, which...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-06T22:56:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/business/earnings/consolidated-edison-reports-higher-profit-revenue-7724646d?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Southwest Gas Q2 Earnings Miss Estimates, Revenues Decline Y/Y",
-      "summary": "SWX misses Q2 earnings and revenue estimates, but lower costs lift operating income as it advances a major Great Basin expansion.",
-      "pub_date": "2026-08-05T18:15:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/southwest-gas-q2-earnings-miss-181500812.html"
     }
   ]
 }

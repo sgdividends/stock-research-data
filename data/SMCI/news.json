@@ -1,7 +1,21 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-08-12T12:55:47.445056+00:00",
+  "generated_at": "2026-08-12T16:53:15.198702+00:00",
   "items": [
+    {
+      "title": "AI infrastructure stocks surge after strong earnings from CoreWeave, Supermicro",
+      "summary": "AI infrastructure stocks jumped, with shares of AI server makers, optical-products companies, and neocloud providers moving higher.",
+      "pub_date": "2026-08-12T14:23:04Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/ai-infrastructure-stocks-surge-after-strong-earnings-from-coreweave-supermicro-142304399.html"
+    },
+    {
+      "title": "Tech leads sectors higher in early trading as chip stocks gain: AlphaCheck",
+      "summary": "Stocks traded higher on Wednesday after the Consumer Price Index report showed inflation moderated in July amid volatile oil price moves during the month.",
+      "pub_date": "2026-08-12T13:44:43Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/tech-leads-sectors-higher-in-early-trading-as-chip-stocks-gain-alphacheck-134443200.html"
+    },
     {
       "title": "Super Micro stock jumps on upbeat outlook",
       "summary": "Yahoo Finance Tech Editor Dan Howley joins Josh Lipton on Asking for a Trend to break down Super Micro's (SMCI) latest results and upbeat outlook, as strong demand for AI infrastructure continues to drive the company\u2019s growth.",
@@ -10,53 +24,39 @@
       "url": "https://finance.yahoo.com/video/super-micro-stock-jumps-upbeat-205900245.html"
     },
     {
-      "title": "Super Micro Stock Jumps After Earnings Beat -- Revenue Soars 93%",
-      "summary": "Super Micro Shares Rally on Big Earnings Beat and $72 Billion Revenue Target",
-      "pub_date": "2026-08-12T12:53:57Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-stock-jumps-earnings-125357763.html"
-    },
-    {
-      "title": "Supermicro Stock Rises 9% on a Margin Recovery and Big Guidance",
-      "summary": "The company guided to as much as $72 billion in fiscal 2027 sales",
-      "pub_date": "2026-08-12T12:46:56Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/supermicro-stock-rises-9-margin-124656420.html"
-    },
-    {
-      "title": "Super Micro Jumps 9% on $72 Billion Revenue Target",
-      "summary": "The AI server maker is targeting another major growth year after receiving more than $60 billion in new orders.",
-      "pub_date": "2026-08-12T12:34:00Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-jumps-9-72-123400960.html"
-    },
-    {
-      "title": "CoreWeave Jumps 18% as AI Capacity Sells Out",
-      "summary": "Super Micro and Nebius also rallied as strong forecasts reinforced demand for AI infrastructure.",
-      "pub_date": "2026-08-12T12:24:29Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-jumps-18-ai-capacity-122429424.html"
-    },
-    {
-      "title": "Dow Jones Futures Rise With CPI Inflation Due; AI Stocks Rally As 3 Nvidia Partners Lead Earnings Movers",
-      "summary": "Futures rose ahead of CPI inflation data. Nvidia partners Lumentum, CoreWeave, Super Micro jumped on earnings, lifting AI stocks.",
-      "pub_date": "2026-08-12T12:06:56Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cpi-inflation-nvidia-partners-super-micro-earnings/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Equity Futures Rise Pre-Bell Ahead of Consumer Inflation Data",
-      "summary": "The main US equity benchmarks were trending higher in Wednesday's premarket activity as traders awai",
-      "pub_date": "2026-08-12T11:56:53Z",
+      "title": "Update: US Equity Indexes Mixed After Annual Inflation Eases, Iran Geopolitics Worsens",
+      "summary": "(Updates with index/price moves, macroeconomic data and geopolitical news from the first paragraph.)",
+      "pub_date": "2026-08-12T16:41:16Z",
       "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/equity-futures-rise-pre-bell-115653284.html"
+      "url": "https://finance.yahoo.com/economy/articles/us-equity-indexes-mixed-annual-164116435.html"
     },
     {
-      "title": "SMCI Stock Eyes 1-Month High As Analysts Lift Targets After Earnings, But Caution AI Server Margins 'Not Sustainable'",
-      "summary": "SMCI stock surged in pre-market trade to levels not seen since late June.",
-      "pub_date": "2026-08-12T11:32:46Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/smci-stock-eyes-1-month-113246044.html"
+      "title": "Supermicro Soars On Report. Why Nvidia Is Also Rallying.",
+      "summary": "Super Micro Computer's upbeat second-quarter earnings report provided a positive read-through for partner Nvidia.",
+      "pub_date": "2026-08-12T16:39:33Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/technology/supermicro-stock-analysts-cautious-nvidia-positive-news/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Why Super Micro Computer Stock Popped Today",
+      "summary": "Wall Street expects Super Micro to keep burning cash for another year. Should you buy it anyway?",
+      "pub_date": "2026-08-12T15:51:48Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-super-micro-computer-stock-155148442.html"
+    },
+    {
+      "title": "Super Micro Computer beats on earnings as margins surge",
+      "summary": "Super Micro Computer Inc (NASDAQ:SMCI) reported a sharp increase in fourth quarter profit as margins improved, while revenue came in slightly below analysts\u2019 expectations. The company's shares were up about 14% at about $36 on the report. For the quarter ended June 30, Supermicro...",
+      "pub_date": "2026-08-12T15:42:00Z",
+      "source": "Proactive",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-beats-earnings-154200428.html"
+    },
+    {
+      "title": "Cava Rises on Sales; CoreWeave Sores on AI Outlook | Stock Movers",
+      "summary": "On this episode of Stock Movers: - Cava (CAVA) is also rising this morning as sales jumped with Americans flocking to Pita Chips, Salmon, and other Mediterranean-diet oriented foods. - Super Micro (SMCI) is giving a sales outlook that topped even the rosiest projections. That along with Coreweave's report is sending markets higher. - CoreWeave (CRWV) is soaring after booming AI demand bolstered the company's revenue outlook. Nebius (NBIS) is also up this morning with earnings coming out.",
+      "pub_date": "2026-08-12T15:25:28Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/video/cava-rises-sales-coreweave-sores-152528222.html"
     }
   ]
 }

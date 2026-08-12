@@ -1,13 +1,27 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-08-12T12:55:13.483457+00:00",
+  "generated_at": "2026-08-12T16:52:22.457575+00:00",
   "items": [
     {
-      "title": "Palantir and These Software Stocks Slide in Seesaw With Chip Giants",
-      "summary": "Palantir slid 1.3% and Microsoft dipped 0.7% in the premarket.  Salesforce ServiceNow  and  Workday  were among the other software stocks trading in the red.  The moves came as shares of chip and optical networking companies rallied, following a strong batch of earnings reports that signaled to the market that demand for AI remains robust.",
-      "pub_date": "2026-08-12T12:29:00Z",
+      "title": "Wall Street May Be Sleeping on This AI Growth Story, The Stock Has 97% Upside",
+      "summary": "ServiceNow just delivered one of enterprise software's strongest quarters on record, yet the stock sits 25% below its 52-week high. Something in that disconnect is driving a bold call from our analysts, and the reasoning behind it challenges the market's entire read on AI monetization.",
+      "pub_date": "2026-08-12T15:30:48Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-may-sleeping-ai-153048065.html"
+    },
+    {
+      "title": "Palantir and Microsoft Drop. Why the AI Revival Is Hitting Software Stocks.",
+      "summary": "Palantir slid 1.2% and Microsoft dipped 1.1%.  Salesforce ServiceNow  and  Workday  were among the other software stocks trading in the red.  The moves came as shares of chip and optical networking companies rallied, following a strong batch of earnings reports that signaled to the market that demand for AI remains robust.",
+      "pub_date": "2026-08-12T13:53:00Z",
       "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/palantir-software-stocks-chip-81e21d89?siteid=yhoof2&yptr=yahoo"
+      "url": "https://www.barrons.com/articles/palantir-stock-microsoft-ai-software-81e21d89?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "TEAM Trades at Premium Valuation: Time to Hold or Fold the Stock?",
+      "summary": "Atlassian's AI investments, slower ARR growth and strong competition pressure on profitability, while its premium valuation adds risk.",
+      "pub_date": "2026-08-12T13:41:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/team-trades-premium-valuation-time-134100306.html"
     },
     {
       "title": "Marc Benioff says experts are wrong about tech job deaths to AI, but backs startup replacing workers with AI",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-11T18:50:42Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/technology/ai/articles/c3-ai-vs-salesforce-software-185042842.html"
-    },
-    {
-      "title": "Salesforce (CRM): Do Leadership Shifts Cloud Its Positioning in Sensitive Government AI Workloads?",
-      "summary": "In early August 2026, Salesforce announced that President and Chief Engineering and Customer Success Officer Srini Tallapragada had stepped down, moving into a one-year Special Advisor role to support product, technology, business development, and customer transitions while his existing equity awards continue to vest. Around the same time, U.S. Army Human Resources Command chose Missionforce National Security to deploy AI agents powered by Salesforce\u2019s IL5-authorized Agentforce platform,...",
-      "pub_date": "2026-08-11T18:15:33Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-leadership-shifts-cloud-181533019.html"
-    },
-    {
-      "title": "AvePoint Sees AI Governance Demand Surge as AgentPulse Tackles Shadow AI",
-      "summary": "AvePoint (NASDAQ:AVPT) is positioning its cloud data management, governance and security platform as an \u201cAI trust layer\u201d for enterprises as organizations seek to control the risks, costs and data-access issues associated with artificial intelligence deployments. Speaking at Oppenheimer\u2019s 29th Annua",
-      "pub_date": "2026-08-11T18:05:14Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/technology/ai/articles/avepoint-sees-ai-governance-demand-180514323.html"
     }
   ]
 }

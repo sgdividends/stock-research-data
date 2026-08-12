@@ -1,7 +1,21 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-08-12T12:55:27.642943+00:00",
+  "generated_at": "2026-08-12T16:52:45.081170+00:00",
   "items": [
+    {
+      "title": "The Zacks Analyst Blog Highlights Quantinuum, IonQ, NVIDIA, IBM, QTUM, ARQQ, WQTM and CHPX",
+      "summary": "Quantum ETFs are gaining momentum as AI strains classical computing, with federal funding and breakthroughs fueling the sector's growth.",
+      "pub_date": "2026-08-12T14:18:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/zacks-analyst-blog-highlights-quantinuum-141800204.html"
+    },
+    {
+      "title": "Palantir Stock's Premium Sits On One Country's Demand",
+      "summary": "Growth and margins settle the quality question, so what a buyer is really underwriting is how long U.S. demand for sovereign AI lasts.",
+      "pub_date": "2026-08-12T13:48:55Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stocks-premium-sits-one-134855851.html"
+    },
     {
       "title": "IBM and Together AI sign $240m multi-year cloud agreement",
       "summary": "Together AI will run open-source inference workloads on the IBM Cloud cluster, which is due in early 2027.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-11T14:12:27Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/international-business-machines-ibm-driving-141227692.html"
-    },
-    {
-      "title": "IBM\u2019s CEO Just Did the Math on AI Spending \u2014 and the Numbers Don\u2019t Add Up",
-      "summary": "A 35-year IBM veteran just ran the numbers on Big Tech's AI infrastructure binge and landed on a conclusion that should make every capex bull uncomfortable. His math starts with gigawatts and ends somewhere the market clearly hasn't priced in.",
-      "pub_date": "2026-08-11T14:01:42Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-ceo-just-did-math-140142891.html"
-    },
-    {
-      "title": "IBM and Together AI sign $240 million AI inference deal",
-      "summary": "The multi-year agreement will put Nvidia HGX B300 systems on IBM Cloud, with availability expected in the first quarter of 2027",
-      "pub_date": "2026-08-11T13:43:24Z",
-      "source": "Quartz",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-together-ai-sign-240-134324558.html"
     }
   ]
 }
