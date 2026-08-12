@@ -1,7 +1,14 @@
 {
   "ticker": "CRWD",
-  "generated_at": "2026-08-11T20:37:48.702752+00:00",
+  "generated_at": "2026-08-12T01:21:49.715805+00:00",
   "items": [
+    {
+      "title": "Top Research Reports for Meta, Texas Instruments & CrowdStrike",
+      "summary": "Meta's AI expansion across apps faces margin pressure and uncertain monetization, while WhatsApp and AI glasses add new avenues.",
+      "pub_date": "2026-08-11T20:31:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-meta-texas-203100631.html"
+    },
     {
       "title": "Cerebras Stock Gets a Boost. Wedbush Sees More Upside Ahead of Earnings",
       "summary": "Cerebras Stock Gets a Fresh Boost as Wedbush Eyes $280 Target",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-10T20:25:24Z",
       "source": "Investopedia",
       "url": "https://finance.yahoo.com/technology/ai/articles/cybersecurity-stocks-surge-palo-alto-202524523.html"
-    },
-    {
-      "title": "CrowdStrike, Palo Alto Networks stocks hit new highs after Black Hat",
-      "summary": "Analysts at BTIG said AI agents have fundamentally changed the threat landscape, lifting price targets on both cybersecurity companies",
-      "pub_date": "2026-08-10T18:20:40Z",
-      "source": "Quartz",
-      "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-palo-alto-networks-stocks-182040520.html"
     }
   ]
 }

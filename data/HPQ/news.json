@@ -1,7 +1,21 @@
 {
   "ticker": "HPQ",
-  "generated_at": "2026-08-11T20:38:05.118919+00:00",
+  "generated_at": "2026-08-12T01:22:10.469645+00:00",
   "items": [
+    {
+      "title": "Here's Why HP (HPQ) Fell More Than Broader Market",
+      "summary": "The latest trading day saw HP (HPQ) settling at $29.07, representing a -2.45% change from its previous close.",
+      "pub_date": "2026-08-11T22:00:02Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-hp-hpq-fell-220002532.html"
+    },
+    {
+      "title": "HP Inc. Has Unusual Put Option Activity - A 7.4% Short-Put Yield - But Is It a Trap?",
+      "summary": "Investors are trading out-of-the-money HP Inc. put options expiring in 2 months in heavy volume. That allows short-put HPQ investors to earn a 7.4% yield. But could this be a yield trap?",
+      "pub_date": "2026-08-11T17:30:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/options/articles/hp-inc-unusual-put-option-173002037.html"
+    },
     {
       "title": "DELL is Overvalued at 21.92X P/E: Should You Still Buy the Stock?",
       "summary": "Dell Technologies' AI server surge, record backlog and server refresh demand fuel growth, even as shares trade at a premium valuation.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-07T13:43:42Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-surged-upgrade-cycle-134342018.html"
-    },
-    {
-      "title": "Betting On AI Servers? Dell's Order Book Deserves A Look",
-      "summary": "Both hardware giants are riding the AI boom, but one has a dramatically larger backlog and a surprisingly cheaper valuation, making it the cleaner bet on the industry's future.",
-      "pub_date": "2026-08-05T22:27:34Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/technology/ai/articles/betting-ai-servers-dells-order-222734363.html"
-    },
-    {
-      "title": "Here's Why HP (HPQ) Fell More Than Broader Market",
-      "summary": "In the latest trading session, HP (HPQ) closed at $28.52, marking a -1.04% move from the previous day.",
-      "pub_date": "2026-08-05T22:00:03Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-hp-hpq-fell-220003076.html"
     }
   ]
 }

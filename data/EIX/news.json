@@ -1,7 +1,14 @@
 {
   "ticker": "EIX",
-  "generated_at": "2026-08-11T20:37:54.859314+00:00",
+  "generated_at": "2026-08-12T01:21:57.698802+00:00",
   "items": [
+    {
+      "title": "Update: Market Chatter: Edison International's SCE Tentatively Not Held Liable for Eaton Fire",
+      "summary": "(Adds company's comment in fourth paragraph) Edison International's (EIX) Southern California Edi",
+      "pub_date": "2026-08-11T22:26:18Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-edison-international-apos-222618702.html"
+    },
     {
       "title": "Market Chatter: Edison International's SCE Tentatively Not Held Liable for Eaton Fire",
       "summary": "Edison International's (EIX) Southern California Edison was not found legally responsible for a 2025",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-04T15:19:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-q2-earnings-lag-151900357.html"
-    },
-    {
-      "title": "WIX Q2 Earnings Beat Expectations, Revenue Rises Y/Y on Base44 Strength",
-      "summary": "Wix beat second-quarter earnings and revenue estimates as Base44 fueled growth, while heavier AI spending pressured margins and shaped the outlook.",
-      "pub_date": "2026-08-04T14:07:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wix-q2-earnings-beat-expectations-140700400.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "SNPS",
-  "generated_at": "2026-08-11T20:38:29.874264+00:00",
+  "generated_at": "2026-08-12T01:22:42.378240+00:00",
   "items": [
+    {
+      "title": "Synopsys (SNPS) Bets Big On Agentic AI: Can The Stock Follow?",
+      "summary": "Synopsys (NASDAQ:SNPS) just showed off some of the most ambitious autonomous engineering software on the market, built alongside Nvidia (NASDAQ:NVDA), at the DAC Chips to Systems Conference on July 26. Yet the stock carries a roughly 12% year-to-date decline even as the company keeps gaining ground in the tools that design nearly every AI chip. [\u2026]",
+      "pub_date": "2026-08-11T20:30:42Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/synopsys-snps-bets-big-agentic-203042059.html"
+    },
     {
       "title": "Synopsys (SNPS) Just Locked Into Intel\u2019s (INTC) Next Chip Node. What\u2019s The Payoff?",
       "summary": "Synopsys (NASDAQ:SNPS) just extended its grip on the leading edge of chipmaking. On July 27, at the DAC Chips to Systems Conference, the company said it has certified its AI-powered design software for Intel\u2019s (NASDAQ:INTC) upcoming 14A manufacturing process, building on flows it already runs in production on Intel\u2019s 18A and 18A-P nodes. Bull Case: [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-31T13:26:51Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/quiet-surface-synopsys-stock-hides-132651803.html"
-    },
-    {
-      "title": "Intel (INTC) Just Expanded Its Foundry Tool Kit For AI Chip Customers",
-      "summary": "Synopsys and Keysight Technologies have certified advanced EDA and electromagnetic simulation tools for Intel's latest 14A and 18A P foundry nodes. The certification expands Intel Foundry's design ecosystem for AI and high performance computing customers using these advanced manufacturing processes. The new tool support is intended to help reduce design risk and shorten time to market for chips built on NasdaqGS:INTC process technology. Intel is working to position its foundry business as a...",
-      "pub_date": "2026-07-30T22:11:01Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-just-expanded-foundry-221101344.html"
     }
   ]
 }
