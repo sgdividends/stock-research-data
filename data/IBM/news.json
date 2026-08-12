@@ -1,7 +1,14 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-08-12T09:07:16.585868+00:00",
+  "generated_at": "2026-08-12T12:55:27.642943+00:00",
   "items": [
+    {
+      "title": "IBM and Together AI sign $240m multi-year cloud agreement",
+      "summary": "Together AI will run open-source inference workloads on the IBM Cloud cluster, which is due in early 2027.",
+      "pub_date": "2026-08-12T10:46:46Z",
+      "source": "Verdict",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-together-ai-sign-240m-104646490.html"
+    },
     {
       "title": "How AI's \"Jurassic Park\" Moment Sent Cybersecurity Stocks Soaring",
       "summary": "We examine the investment opportunity in cybersecurity stocks and highlight three ETFs.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-11T13:43:24Z",
       "source": "Quartz",
       "url": "https://finance.yahoo.com/technology/ai/articles/ibm-together-ai-sign-240-134324558.html"
-    },
-    {
-      "title": "Palantir's Sovereign AI Boom Is Almost Entirely In America",
-      "summary": "The quarter that repriced the stock was made overwhelmingly at home, and the segment lines say so.",
-      "pub_date": "2026-08-11T13:23:14Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palantirs-sovereign-ai-boom-almost-132314536.html"
     }
   ]
 }

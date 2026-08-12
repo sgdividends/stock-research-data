@@ -1,7 +1,14 @@
 {
   "ticker": "CAH",
-  "generated_at": "2026-08-12T09:06:57.042994+00:00",
+  "generated_at": "2026-08-12T12:55:08.717298+00:00",
   "items": [
+    {
+      "title": "Company News for Aug 12, 2026",
+      "summary": "Companies In The Article Are:FRMI,CAH,PLUG and ARMK",
+      "pub_date": "2026-08-12T11:22:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/company-news-aug-12-2026-112200806.html"
+    },
     {
       "title": "Cardinal Health Inc (CAH) (Q4 2026) Earnings Call Highlights: Record EPS Growth and Robust ...",
       "summary": "Cardinal Health Inc (CAH) delivered a stellar Q4 with 40% EPS growth, driven by strong segment performance and a $5 billion free cash flow year.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-11T16:21:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/healthcare/articles/cah-q4-earnings-beat-pharma-162100894.html"
-    },
-    {
-      "title": "RDNT Q2 Earnings & Sales Beat on Advanced Imaging, Guidance Raised",
-      "summary": "RadNet tops Q2 estimates as advanced imaging and Digital Health growth accelerate, prompting a higher 2026 Imaging Center outlook.",
-      "pub_date": "2026-08-11T15:20:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/healthcare/articles/rdnt-q2-earnings-sales-beat-152000898.html"
     }
   ]
 }

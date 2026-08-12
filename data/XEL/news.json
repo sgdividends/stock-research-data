@@ -1,7 +1,14 @@
 {
   "ticker": "XEL",
-  "generated_at": "2026-08-12T09:07:44.362768+00:00",
+  "generated_at": "2026-08-12T12:55:57.684359+00:00",
   "items": [
+    {
+      "title": "Energy Startup Raises $750 Million for Rust-Powered Batteries",
+      "summary": "Form Energy\u2019s fundraising has surpassed $2 billion for batteries that can continuously run for 100 hours.",
+      "pub_date": "2026-08-12T10:00:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/energy-oil/energy-startup-raises-750-million-for-rust-powered-batteries-e2354154?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Xcel Energy Stock Outlook: Is Wall Street Bullish or Bearish?",
       "summary": "Despite underperforming the S&P 500 over the past year, Xcel Energy continues to earn strong support from Wall Street.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-30T21:06:23Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/energy/articles/xcel-energy-inc-xel-q2-210623332.html"
-    },
-    {
-      "title": "Xcel Energy Q2 Earnings Call Highlights",
-      "summary": "Xcel Energy (NASDAQ:XEL) reported second-quarter 2026 earnings of $0.93 per share, up from $0.75 per share a year earlier, as higher electric revenues, allowance for funds used during construction (AFUDC), and lower depreciation and amortization more than offset increased financing costs. The utili",
-      "pub_date": "2026-07-30T21:03:58Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/energy/articles/xcel-energy-q2-earnings-call-210358679.html"
     }
   ]
 }

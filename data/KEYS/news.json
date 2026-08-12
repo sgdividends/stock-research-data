@@ -1,7 +1,14 @@
 {
   "ticker": "KEYS",
-  "generated_at": "2026-08-12T09:07:19.512951+00:00",
+  "generated_at": "2026-08-12T12:55:30.545492+00:00",
   "items": [
+    {
+      "title": "Lockheed Martin demonstrates AI-powered drone detection system using 5G networks",
+      "summary": "Lockheed Martin (NYSE:LMT), Verizon (NYSE:VZ), Keysight Technologies (NYSE:KEYS), ODC and Astris AI completed a live demonstration of the NetSense Airspace Awareness-as-a-Service platform in the Miami area in July, showcasing technology designed to detect and monitor drones using existing 5G infrastructure. The system combines Verizon\u2019s 5G network spectrum with ODC\u2019s AI-native Radio Access Network software, Nvidia\u2019s AI Aerial platform and Keysight\u2019s radio-frequency simulation technology to ident",
+      "pub_date": "2026-08-12T11:30:44Z",
+      "source": "InvestorsHub",
+      "url": "https://finance.yahoo.com/technology/ai/articles/lockheed-martin-demonstrates-ai-powered-113044665.html"
+    },
     {
       "title": "Should You Hold or Fold SNPS Stock After a 20% Decline in 3 Months?",
       "summary": "Synopsys' AI infrastructure exposure, recurring revenues and Ansys acquisition support growth despite the stock's recent 20% decline.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-09T01:10:45Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/articles/why-keysight-technologies-keys-6-011045642.html"
-    },
-    {
-      "title": "Akamai Q2 Earnings Beat Estimates, Revenues Up Y/Y on Solid Demand",
-      "summary": "AKAM tops Q2 2026 estimates as AI cloud and cybersecurity demand lift revenues, but higher infrastructure investments pressure earnings.",
-      "pub_date": "2026-08-07T14:28:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/akamai-q2-earnings-beat-estimates-142800598.html"
     }
   ]
 }

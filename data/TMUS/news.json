@@ -1,7 +1,14 @@
 {
   "ticker": "TMUS",
-  "generated_at": "2026-08-12T09:07:38.933345+00:00",
+  "generated_at": "2026-08-12T12:55:50.953777+00:00",
   "items": [
+    {
+      "title": "T-Mobile's CEO just dismantled SpaceX and Starlink's big goal",
+      "summary": "SpaceX's first earnings call put the wireless industry on notice. SpaceX CEO Elon Musk and COO Gwynne Shotwell said Starlink was coming for Verizon, AT&T, and T-Mobile. They cited a $600 billion U.S. wireless market and said they expected to take customers from all three. Wall Street took it ...",
+      "pub_date": "2026-08-12T09:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/articles/t-mobiles-ceo-just-dismantled-090300633.html"
+    },
     {
       "title": "Array Digital Infrastructure Q2 Earnings Call Highlights",
       "summary": "TDS reported second-quarter progress in its fiber expansion and tower infrastructure operations, while updating 2026 guidance for both TDS Telecom and Array Digital Infrastructure (NYSE:AD). Management also said it would not provide further updates or take questions regarding TDS\u2019s pending proposal",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-10T00:31:02Z",
       "source": "Benzinga",
       "url": "https://finance.yahoo.com/technology/articles/t-mobiles-ceo-just-dismantled-003102806.html"
-    },
-    {
-      "title": "Telephone and Data Systems Q2 Earnings Call Highlights",
-      "summary": "Telephone and Data Systems (NYSE:TDS) reported second-quarter progress in its fiber expansion and tower operations, while lowering revenue expectations for its telecom business amid continued pressure from legacy copper and cable services. The company also said Array Digital Infrastructure completed",
-      "pub_date": "2026-08-09T09:03:55Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/telephone-data-systems-q2-earnings-090355416.html"
     }
   ]
 }

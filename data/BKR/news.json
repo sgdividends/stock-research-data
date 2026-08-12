@@ -1,7 +1,14 @@
 {
   "ticker": "BKR",
-  "generated_at": "2026-08-12T09:06:55.614266+00:00",
+  "generated_at": "2026-08-12T12:55:07.205488+00:00",
   "items": [
+    {
+      "title": "Baker Hughes wins KOC contract for Ahmadi Innovation Valley project",
+      "summary": "Under the contract, Baker Hughes will set up a research and technology development centre in the Ahmadi Innovation Valley.",
+      "pub_date": "2026-08-12T09:26:36Z",
+      "source": "Offshore Technology",
+      "url": "https://finance.yahoo.com/energy/articles/baker-hughes-wins-koc-contract-092636018.html"
+    },
     {
       "title": "Sector Update: Energy Stocks Gain Late Afternoon",
       "summary": "Energy stocks were higher late Tuesday afternoon, with the NYSE Energy Sector Index rising 0.7% and",
@@ -15,6 +22,13 @@
       "pub_date": "2026-08-11T17:49:42Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-tuesday-174942057.html"
+    },
+    {
+      "title": "North America Breaks Rig Addition Streak",
+      "summary": "North America dropped three rigs week on week, according to Baker Hughes' latest North America rotary rig count.",
+      "pub_date": "2026-08-11T17:48:15Z",
+      "source": "Rigzone.com",
+      "url": "https://finance.yahoo.com/energy/articles/north-america-breaks-rig-addition-174815019.html"
     },
     {
       "title": "AI Data Center Boom Drives Record Gas Turbine Orders; GE Vernova, Caterpillar Among Leaders",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-09T02:07:07Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/energy/articles/baker-hughes-bkr-secures-lng-020707736.html"
-    },
-    {
-      "title": "Kodiak Gas Services Q2 Earnings Call Highlights",
-      "summary": "Kodiak Gas Services (NYSE:KGS) reported record second-quarter adjusted EBITDA and raised portions of its 2026 outlook, as its contract compression business delivered higher pricing and margins and the company advanced plans to build a larger behind-the-meter power generation platform. The company r",
-      "pub_date": "2026-08-08T15:03:57Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/energy/articles/kodiak-gas-services-q2-earnings-150357982.html"
-    },
-    {
-      "title": "Basin rig count up three as prices drop",
-      "summary": "The rig count in the Permian Basin was up three this week, the latest count Friday by Baker Hughes shows, with 263 rigs active in the region. A year ago, 256 rigs were active in the region. Nationally, the oil and gas rig count is unchanged from last week at 588 rigs. A year ago, 539 rigs were active. The count shows that 454 rigs sought oil, up three from the previous week, and 124 explored ...",
-      "pub_date": "2026-08-08T00:01:00Z",
-      "source": "Odessa American, Texas",
-      "url": "https://finance.yahoo.com/energy/articles/basin-rig-count-three-prices-000100445.html"
     }
   ]
 }

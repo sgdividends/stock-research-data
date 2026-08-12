@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-08-12T09:07:29.101660+00:00",
+  "generated_at": "2026-08-12T12:55:41.323916+00:00",
   "items": [
     {
       "title": "Quantum trade moves beyond science fiction: AlphaCheck",
@@ -11,10 +11,17 @@
     },
     {
       "title": "Quantinuum Posts First Earnings Since IPO; Strikes Oracle Quantum Deal",
-      "summary": "Quantinuum  topped analysts\u2019 estimates in its first quarterly report as a public company, though investors barely blinked.  As an early-stage company,  Quantinuum\u2019s  revenue is heavily tied to individual contracts and milestone deliveries.  Shares rose 0.2% in premarket trading Wednesday.",
-      "pub_date": "2026-08-12T08:48:00Z",
+      "summary": "Quantinuum  topped analysts\u2019 estimates in its first quarterly report as a public company, though investors barely blinked.  As an early-stage company,  Quantinuum\u2019s  revenue is heavily tied to individual contracts and milestone deliveries.  Shares advanced 1.5% in premarket trading Wednesday, outpacing  futures, which rose 0.7%.",
+      "pub_date": "2026-08-12T11:27:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/quantinuum-earnings-stock-price-84df4562?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Nvidia's plan for Wall Street could add fresh fuel \u2014 and risk \u2014 to the AI boom",
+      "summary": "A plan for Wall Street to underwrite data center debt partially backed by Nvidia could add fresh fuel \u2014 and risk \u2014 to the AI boom.",
+      "pub_date": "2026-08-12T11:20:06Z",
+      "source": "Axios",
+      "url": "https://finance.yahoo.com/technology/ai/articles/backstopping-ai-boom-112006192.html"
     },
     {
       "title": "ORCL Stock Inches Higher Overnight: Is Another Round Of Layoffs Coming?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-11T22:52:04Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-adds-nvda-pltr-225204374.html"
-    },
-    {
-      "title": "MSFT Vs Its Peers: The Return Does Not Match The Rank",
-      "summary": "Microsoft's business is firing on all cylinders, yet its stock has lagged its peers. The market is either seeing a problem ahead or offering a rare opportunity.",
-      "pub_date": "2026-08-11T22:27:42Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/msft-vs-peers-return-does-222742787.html"
     }
   ]
 }

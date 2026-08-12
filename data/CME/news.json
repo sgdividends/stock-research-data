@@ -1,7 +1,14 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-08-12T09:07:00.084999+00:00",
+  "generated_at": "2026-08-12T12:55:11.348688+00:00",
   "items": [
+    {
+      "title": "The currency of the AI age",
+      "summary": "There's an effort underway to create a futures market for AI compute \u2014 the processing capacity needed to train and run AI models \u2014 akin to how investors buy and sell commodities like oil or grain.",
+      "pub_date": "2026-08-12T11:10:11Z",
+      "source": "Axios",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/currency-ai-age-111011231.html"
+    },
     {
       "title": "StoneX Q3 Earnings Surge as R.J. O'Brien Synergies Move Toward $50M",
       "summary": "StoneX posted sharp Q3 earnings growth as R.J. O'Brien synergies reached $38M, with further gains expected despite retail weakness and rising costs.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-08T20:09:24Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/options/articles/jim-cramer-praises-exchange-duopoly-200924789.html"
-    },
-    {
-      "title": "Is CME Group (CME) A Bargain On New Retail Futures And Strong Currency Volume?",
-      "summary": "CME Group (CME) has put product expansion and client reach in focus, with a fresh dividend decision and new smaller-sized futures contracts drawing investor attention to how the stock reflects these business moves. See our latest analysis for CME Group. CME Group\u2019s share price has been choppy in recent months, with the stock down over the year to date despite an 8.47% 1 month share price return, while multi year total shareholder returns remain firmly positive. If these product launches have...",
-      "pub_date": "2026-08-07T23:14:10Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cme-group-cme-bargain-retail-231410782.html"
     }
   ]
 }
