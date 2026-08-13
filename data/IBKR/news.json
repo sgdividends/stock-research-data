@@ -1,7 +1,14 @@
 {
   "ticker": "IBKR",
-  "generated_at": "2026-08-13T16:51:20.976093+00:00",
+  "generated_at": "2026-08-13T20:36:09.207708+00:00",
   "items": [
+    {
+      "title": "Are Derivatives and Tokenization Coinbase's Next Growth Engine?",
+      "summary": "Coinbase is expanding beyond spot crypto trading with derivatives, global institutional products and tokenization infrastructure to fuel long-term growth.",
+      "pub_date": "2026-08-13T18:04:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/derivatives-tokenization-coinbases-next-growth-180400106.html"
+    },
     {
       "title": "StoneX Q3 Earnings Surge as R.J. O'Brien Synergies Move Toward $50M",
       "summary": "StoneX posted sharp Q3 earnings growth as R.J. O'Brien synergies reached $38M, with further gains expected despite retail weakness and rising costs.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-06T13:15:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/snex-q3-earnings-top-commercial-131500148.html"
-    },
-    {
-      "title": "Interactive Brokers (IBKR) Stock Could Be 43% Above Fair Value Despite AI Connectivity News",
-      "summary": "Interactive Brokers Group has delivered very strong share price gains over the last five years, yet both its intrinsic value estimate from the Excess Returns model and its market multiples currently point to the stock trading at a premium to those fundamentals. Interactive Brokers Group has returned about 471.1% over the last five years, which sets a very high bar for any further upside to be supported by the underlying valuation. The recent move to open client connectivity to a wide range...",
-      "pub_date": "2026-08-05T02:48:57Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-ibkr-stock-could-024857996.html"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-08-13T16:50:51.471996+00:00",
+  "generated_at": "2026-08-13T20:35:39.341167+00:00",
   "items": [
     {
       "title": "Goldman Sachs wants to turn bitcoin into a yield machine",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-13T16:20:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/goldman-sachs-wants-turn-bitcoin-162000621.html"
+    },
+    {
+      "title": "How Nvidia\u2019s $500 Billion AI Infrastructure Financing Push Could Impact NVIDIA (NVDA) Investors",
+      "summary": "Nvidia recently unveiled memorandums of understanding with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR to create independent compute financing platforms intended to mobilize over US$500.00 billion of third\u2011party capital for global AI infrastructure buildouts across data centers and \u201cAI factories.\u201d This move effectively recasts Nvidia GPUs and systems as long\u2011lived, financeable infrastructure assets, widening access to its platforms while raising fresh questions about...",
+      "pub_date": "2026-08-13T18:15:11Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-500-billion-ai-infrastructure-181511541.html"
     },
     {
       "title": "Nvidia\u2019s new $500B plan is risky but brilliant, especially for aging GPUs",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-13T13:19:02Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-broadcom-deepen-ai-financing-131902271.html"
-    },
-    {
-      "title": "Goldman Sachs Makes $2.25B Crypto Power Move With Bitcoin and Ethereum ETF Deal",
-      "summary": "Goldman Sachs will acquire Neos Investments for up to $2.25 billion, adding more than $30 billion in assets across 19 options-based ETFs. The deal ...",
-      "pub_date": "2026-08-13T13:17:26Z",
-      "source": "CCN",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-makes-2-25b-131726134.html"
     }
   ]
 }

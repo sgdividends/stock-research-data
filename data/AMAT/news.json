@@ -1,20 +1,55 @@
 {
   "ticker": "AMAT",
-  "generated_at": "2026-08-13T16:50:44.449404+00:00",
+  "generated_at": "2026-08-13T20:35:32.658724+00:00",
   "items": [
     {
-      "title": "Stock market today: S&P 500 and Nasdaq gain on soft inflation data, Dow dips",
+      "title": "Stock market today: S&P 500 notches record high, Nasdaq rallies after soft inflation data",
       "summary": "Investors are watching for another inflation reading after Wednesday's release of the Consumer Price Index showed inflation easing in July.",
       "pub_date": "2026-08-13T10:01:45Z",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-and-nasdaq-gain-on-soft-inflation-data-dow-dips-100145282.html"
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-13-sp-500-record-high-nasdaq-dow-inflation-100145282.html"
     },
     {
-      "title": "Earnings live updates: Cisco and Cerebras earnings point to strong AI demand, but their stocks are falling anyway",
-      "summary": "The second quarter earnings season is beginning to wind down, with nearly 90% of S&P 500 (^GSPC) companies having already reported.",
-      "pub_date": "2026-08-10T20:23:02Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-cisco-and-cerebras-earnings-point-to-strong-ai-demand-but-their-stocks-are-falling-anyway-202302733.html"
+      "title": "Applied Materials (NASDAQ:AMAT) Surprises With Q2 Sales But Stock Drops",
+      "summary": "Semiconductor machinery manufacturer Applied Materials (NASDAQ:AMAT) announced better-than-expected revenue in Q2 CY2026, with sales up 24.8% year on year to $9.12 billion. On top of that, next quarter\u2019s revenue guidance ($10.25 billion at the midpoint) was surprisingly good and 6.1% above what analysts were expecting. Its non-GAAP profit of $3.50 per share was 3.1% above analysts\u2019 consensus estimates.",
+      "pub_date": "2026-08-13T20:28:11Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-nasdaq-amat-surprises-202811364.html"
+    },
+    {
+      "title": "Applied Materials (NASDAQ:AMAT) Posts Better-Than-Expected Sales In Q2",
+      "summary": "Semiconductor machinery manufacturer Applied Materials (NASDAQ:AMAT) reported Q2 CY2026 results beating Wall Street\u2019s revenue expectations, with sales up 24.8% year on year to $9.12 billion. On top of that, next quarter\u2019s revenue guidance ($10.25 billion at the midpoint) was surprisingly good and 6.1% above what analysts were expecting. Its non-GAAP profit of $4.02 per share was 18.4% above analysts\u2019 consensus estimates.",
+      "pub_date": "2026-08-13T20:13:50Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-nasdaq-amat-posts-201350284.html"
+    },
+    {
+      "title": "Applied Materials Edges Above Views With Fiscal Q3 Results, Outlook",
+      "summary": "Applied Materials beat analyst estimates for its fiscal third quarter and with its guidance for fiscal Q4. But AMAT stock slid.",
+      "pub_date": "2026-08-13T20:13:16Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/technology/applied-materials-amat-stock-fiscal-q3-2026-earnings/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Applied Materials sees revenue above estimates, shares fall on high expectations",
+      "summary": "Applied Materials forecast fourth-quarter revenue above Wall Street expectations on Thursday, betting \u200cthat unabated demand for advanced AI chips \u200cwill continue to fuel robust spending on its semiconductor manufacturing \u200bequipment. Yet, its shares fell 5% in extended trading on high investor expectations heading into the results. The stock has more than doubled this year.",
+      "pub_date": "2026-08-13T20:05:00Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/technology/ai/articles/applied-materials-forecasts-quarterly-revenue-200500160.html"
+    },
+    {
+      "title": "Cerebras Plummets 13% After Earnings. But Intel & AMD Barrel Ahead with Strong Gains.",
+      "summary": "Cerebras is getting crushed after earnings while nearly every other AI chip and infrastructure name surges to fresh highs. What one company's bad day reveals about where this trade is actually headed matters more than the headline loss.",
+      "pub_date": "2026-08-13T17:35:40Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-plummets-13-earnings-intel-173540063.html"
+    },
+    {
+      "title": "Update: Equity Markets Mostly Higher Intraday Following Wholesale Inflation Report",
+      "summary": "(Updates with latest market prices and developments.) US benchmark equity indexes were mostly hig",
+      "pub_date": "2026-08-13T17:34:36Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equity-markets-mostly-higher-intraday-173436485.html"
     },
     {
       "title": "Lam Research, Applied Materials, and Camtek Rise After SanDisk Issues Bullish Financial Targets",
@@ -22,41 +57,6 @@
       "pub_date": "2026-08-13T16:29:13Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-applied-materials-camtek-162913705.html"
-    },
-    {
-      "title": "Applied Materials Stock Nearly Tripled On Orders It Cannot Ship Fast Enough",
-      "summary": "The stock is priced on a multi-year fab build-out whose pace is set by supply chains rather than by demand.",
-      "pub_date": "2026-08-13T15:19:57Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-stock-nearly-tripled-151957249.html"
-    },
-    {
-      "title": "Stocks to Watch: Lenovo, Applied Materials, StubHub, Cisco",
-      "summary": "\u2197\ufe0f Lenovo Group (HK:992): Shares rose 20% in Hong Kong after the company posted record-high revenue driven by AI infrastructure demand. \u2198\ufe0f StubHub (STUB): Shares in the ticket seller pulled back more than 10% in morning trading after the company failed to turn a profit in the second quarter because of climbing costs, despite surging revenue from the World Cup.",
-      "pub_date": "2026-08-13T13:59:07Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-13-2026/card/stocks-to-watch-thursday-lenovo-applied-materials-stubhub-cisco-N2wojACpWBthwfpL86Qm?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "The Biggest Chip Stocks All Yield Under 1%. Here's Where the Cash Actually Goes.",
-      "summary": "The most profitable corner of the technology market pays income investors a pittance -- and each of these four companies has a different reason.",
-      "pub_date": "2026-08-13T13:32:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/biggest-chip-stocks-yield-under-133200550.html"
-    },
-    {
-      "title": "Zacks Model Flashes Green for Applied Materials Ahead of Earnings",
-      "summary": "Our proven model predicts another earnings beat, and the company's track record supports the setup.",
-      "pub_date": "2026-08-13T13:26:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-model-flashes-green-applied-132600517.html"
-    },
-    {
-      "title": "How Investors Are Reacting To Applied Materials (AMAT) Expanding Its AI Chip R&D With UC Berkeley Collaboration",
-      "summary": "Applied Materials\u2019 recent OCP APAC Summit presentations in Taipei and its newly announced research collaboration with UC Berkeley at the EPIC Center underscore the company\u2019s focus on accelerating semiconductor materials and process innovation for AI computing in a manufacturing-relevant setting. By giving UC Berkeley researchers access to industry-scale tools inside what Applied Materials calls the largest-ever U.S. investment in advanced semiconductor equipment R&D, the EPIC Center is...",
-      "pub_date": "2026-08-13T13:14:33Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/investors-reacting-applied-materials-amat-131433478.html"
     }
   ]
 }

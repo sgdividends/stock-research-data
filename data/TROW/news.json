@@ -1,20 +1,27 @@
 {
   "ticker": "TROW",
-  "generated_at": "2026-08-13T16:51:54.855365+00:00",
+  "generated_at": "2026-08-13T20:36:44.581574+00:00",
   "items": [
+    {
+      "title": "Comex Gold Settles 1.03% Lower at $4363.60",
+      "summary": "Gold settled 1% lower, snapping a four-session winning streak, while silver also fell 1%, down two of the past three sessions.",
+      "pub_date": "2026-08-13T17:48:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-gains-on-reduced-fed-rate-hike-expectations-4497e55a?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "TROW's July AUM Slips on Outflows: Can Diversification Support Growth?",
+      "summary": "Can T. Rowe Price's diversified asset base and expanding alternatives platform offset equity outflows and support AUM growth? Let us discuss.",
+      "pub_date": "2026-08-13T17:29:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trows-july-aum-slips-outflows-172900108.html"
+    },
     {
       "title": "Form Energy raises $750m to expand iron-air battery production",
       "summary": "The funds will expand manufacturing in West Virginia and support commercial rollout of Form Energy\u2019s iron-air battery systems.",
       "pub_date": "2026-08-13T11:30:00Z",
       "source": "Energy Monitor",
       "url": "https://finance.yahoo.com/energy/articles/form-energy-raises-750m-expand-113000112.html"
-    },
-    {
-      "title": "Gold Gains on Reduced Fed Rate-Hike Expectations",
-      "summary": "Gold prices eased after rising in the previous session, as U.S. inflation data came in line with expectations, reinforcing bets that the Fed will keep rates on hold in September.",
-      "pub_date": "2026-08-13T07:57:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-gains-on-reduced-fed-rate-hike-expectations-4497e55a?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "The Next Phase of Crypto Is Bigger Than You Think",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-10T00:45:22Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/5-insightful-analyst-questions-t-004522343.html"
-    },
-    {
-      "title": "T. Rowe Price (TROW) Q2 2026 Earnings Call Transcript",
-      "summary": "Record $1.89 trillion AUM offset by equity outflows and fee pressure.",
-      "pub_date": "2026-08-08T02:32:56Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-trow-q2-023256684.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-08-13T16:51:21.133985+00:00",
+  "generated_at": "2026-08-13T20:36:09.356551+00:00",
   "items": [
+    {
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "pub_date": "2026-08-13T19:19:49Z",
+      "source": "TechCrunch",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-partners-openai-bolster-enterprise-191949046.html"
+    },
     {
       "title": "Can IBM's Together AI Cloud Deal Boost Its Growth Prospects?",
       "summary": "IBM's $240 million Together AI deal is set to expand AI cloud infrastructure with NVIDIA systems, targeting high-performance inference and long-term growth.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-12T18:25:19Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/accenture-stock-trades-discount-while-182519265.html"
-    },
-    {
-      "title": "What Does IBM (IBM) Gain From Its $240 Million AI Infrastructure Deal?",
-      "summary": "International Business Machines (NYSE: IBM) agreed a multi year partnership with Together AI to build a US$240 million Nvidia powered AI inference cluster on IBM Cloud. The cluster will use Nvidia HGX B300 systems with Blackwell processors and is planned to be IBM Cloud's first dedicated large scale AI inference platform. The infrastructure is expected to be operational by Q1 2027 and is aimed at enterprise customers seeking cost efficient, open source AI capabilities. This kind of AI...",
-      "pub_date": "2026-08-12T17:09:32Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/does-ibm-ibm-gain-240-170932038.html"
     }
   ]
 }

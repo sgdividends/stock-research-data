@@ -1,7 +1,28 @@
 {
   "ticker": "ICE",
-  "generated_at": "2026-08-13T16:51:21.336509+00:00",
+  "generated_at": "2026-08-13T20:36:09.521553+00:00",
   "items": [
+    {
+      "title": "Bill Ackman Buys Back Into Netflix Four Years After Selling at a Loss",
+      "summary": "Ackman adds six new holdings across his funds, the biggest overhaul in years",
+      "pub_date": "2026-08-13T19:10:39Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-buys-back-netflix-191039109.html"
+    },
+    {
+      "title": "ICE Stock Gains as Ackman Backs Brent-Futures Fortress",
+      "summary": "Pershing Square's new position centers on an exchange operation generating nearly 70% of earnings and controlling the leading Brent contract.",
+      "pub_date": "2026-08-13T18:41:39Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ice-stock-gains-ackman-backs-184139425.html"
+    },
+    {
+      "title": "Top AI Reporter: NVIDIA\u2019s $500 Billion AI Compute Deal \u201cIsn\u2019t Even Enough\u201d According to Some Investors",
+      "summary": "Wall Street is racing to turn raw compute power into a tradable asset class, but some investors warn that even the most ambitious financing package on record may leave the AI industry dangerously short of what it needs.",
+      "pub_date": "2026-08-13T18:20:32Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/top-ai-reporter-nvidia-500-182032938.html"
+    },
     {
       "title": "Cboe Global Stock Falls 22% in 3 Months: Time to Buy the Dip?",
       "summary": "Cboe Global's 22% slide contrasts with stronger growth prospects, recurring revenues and an affordable valuation, supporting the case to buy the dip.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-09T16:13:56Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/intercontinental-exchange-ice-volume-growth-161356428.html"
-    },
-    {
-      "title": "Intercontinental Exchange (ICE) Stock Looks Above Fair Value After Mixed Valuation Checks",
-      "summary": "Intercontinental Exchange stock has delivered a 37.3% gain over the past five years, yet today the Excess Returns intrinsic value estimate sits close to the current market price while traditional valuation multiples lean on the expensive side. That mix leaves Intercontinental Exchange looking closer to fairly priced than clearly cheap or clearly overvalued. A 37.3% return over five years suggests Intercontinental Exchange has rewarded patient shareholders, which makes the current pricing...",
-      "pub_date": "2026-08-09T12:10:56Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intercontinental-exchange-ice-stock-looks-121056112.html"
-    },
-    {
-      "title": "Do Wall Street Analysts Like Intercontinental Exchange Stock?",
-      "summary": "While Intercontinental Exchange has significantly underperformed the broader market over the past year, analysts remain optimistic about its growth prospects.",
-      "pub_date": "2026-08-05T09:04:42Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-intercontinental-exchange-090442588.html"
-    },
-    {
-      "title": "Polymarket Chases $20 Billion Valuation as Exclusive ATP Streaming Deal Targets the Kalshi Gap",
-      "summary": "Shayne Coplan\u2019s Polymarket is seeking to raise about $1 billion at a valuation above $20 billion, more than double its price tag from October, according to a Bloomberg report. The talks are preliminary, Bloomberg reported Tuesday, citing people familiar with...",
-      "pub_date": "2026-08-04T16:55:11Z",
-      "source": "Benzinga Prediction Markets",
-      "url": "https://finance.yahoo.com/media-advertising/articles/polymarket-chases-20-billion-valuation-165511159.html"
     }
   ]
 }
