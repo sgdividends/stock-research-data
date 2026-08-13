@@ -1,7 +1,14 @@
 {
   "ticker": "KEYS",
-  "generated_at": "2026-08-13T01:23:55.387697+00:00",
+  "generated_at": "2026-08-13T05:30:42.587039+00:00",
   "items": [
+    {
+      "title": "Verizon Teams Up With Nvidia, Lockheed Martin To Turn 5G Into A Drone-Tracking System",
+      "summary": "Verizon will utilize its existing 5G infrastructure alongside an AI-enabled system to identify, track, and monitor unmanned aircraft systems for a new Lockheed Martin drone detection system.",
+      "pub_date": "2026-08-13T01:33:09Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/technology/articles/verizon-teams-nvidia-lockheed-martin-013309771.html"
+    },
     {
       "title": "Amgen Stock And The Price Of A Promise",
       "summary": "Management raised its full-year forecast, but the market seems to be asking for more than a higher target.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-10T18:45:22Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/2-industrials-stocks-research-further-184522957.html"
-    },
-    {
-      "title": "AD Q2 Earnings Beat Estimates on Strong Site Rental Growth",
-      "summary": "Array Digital Infrastructure beat Q2 estimates as site rental revenues surge 95%, while spectrum sales boost gains and 2026 guidance.",
-      "pub_date": "2026-08-10T17:23:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ad-q2-earnings-beat-estimates-172300141.html"
     }
   ]
 }

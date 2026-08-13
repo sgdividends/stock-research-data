@@ -1,6 +1,6 @@
 {
   "ticker": "GS",
-  "generated_at": "2026-08-13T01:23:46.496694+00:00",
+  "generated_at": "2026-08-13T05:30:35.762618+00:00",
   "items": [
     {
       "title": "What's going on with the state of consumer prices?",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-12T13:58:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/whats-going-state-consumer-prices-135800763.html"
+    },
+    {
+      "title": "SPCX, ASTS, RKLB And FLY On Watch: Goldman Sachs Sees $1.8 Trillion Space Economy And Rising M&A Wave",
+      "summary": "Companies controlling launch and orbital infrastructure could capture \u201cdisproportionate value,\u201d the research firm said.",
+      "pub_date": "2026-08-13T04:19:06Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spcx-asts-rklb-fly-watch-041906406.html"
     },
     {
       "title": "Goldman Sachs Bets Again on Options ETFs With NEOS Deal",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-12T18:58:26Z",
       "source": "decrypt",
       "url": "https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-2-25b-neos-185826212.html"
-    },
-    {
-      "title": "Goldman Sachs to Acquire NEOS Investments in Deal Worth Up to $2.25B, Expanding Options-Based ETF Lineup",
-      "summary": "<p>Goldman Sachs will acquire NEOS Investments in a deal worth up to $2.25 billion, adding $30 billion in options-based income ETFs and vaulting Goldman Sachs Asset Management into the ranks of top-eight active ETF issuers.</p>",
-      "pub_date": "2026-08-12T18:35:32Z",
-      "source": "etf.com",
-      "url": "https://finance.yahoo.com/markets/options/articles/goldman-sachs-acquire-neos-investments-183532423.html"
     }
   ]
 }

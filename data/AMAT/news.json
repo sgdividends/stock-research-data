@@ -1,6 +1,6 @@
 {
   "ticker": "AMAT",
-  "generated_at": "2026-08-13T01:23:13.227171+00:00",
+  "generated_at": "2026-08-13T05:30:09.364973+00:00",
   "items": [
     {
       "title": "Earnings live updates: Cisco and Cerebras earnings point to strong AI demand, but their stocks are falling anyway",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-10T20:23:02Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-cisco-and-cerebras-earnings-point-to-strong-ai-demand-but-their-stocks-are-falling-anyway-202302733.html"
+    },
+    {
+      "title": "Ahead of Applied Materials Earnings, Here's What Barchart Data Says Comes Next for AMAT Stock",
+      "summary": "Options pricing suggests Applied Materials shares will sink after Q2 earnings on Aug. 13. Here\u2019s why the derivatives market recommends caution on AMAT stock.",
+      "pub_date": "2026-08-12T20:14:19Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ahead-applied-materials-earnings-heres-201419558.html"
     },
     {
       "title": "Super Micro Computer Q4 Earnings Beat Estimates, Revenues Rise Y/Y",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-11T20:27:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/intel-stock-offering-price-766da245?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Lam Research Enters Panel-Level Packaging: Is This a Growth Catalyst?",
-      "summary": "LRCX expands into PLP as larger AI chips drive demand, targeting a fast-growing advanced-packaging opportunity.",
-      "pub_date": "2026-08-11T13:05:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/articles/lam-research-enters-panel-level-130500459.html"
     }
   ]
 }

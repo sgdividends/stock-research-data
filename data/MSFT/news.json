@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "generated_at": "2026-08-13T01:24:15.142402+00:00",
+  "generated_at": "2026-08-13T05:30:50.146599+00:00",
   "items": [
     {
       "title": "Tech just got cheaper - what it means for the bull market",
@@ -8,6 +8,20 @@
       "pub_date": "2026-08-12T15:41:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/tech-just-got-cheaper-means-154100291.html"
+    },
+    {
+      "title": "Nvidia\u2019s biggest risk may be coming from inside its customer base",
+      "summary": "Nvidia (NVDA) sold its most valuable chips to the world\u2019s biggest tech businesses in the AI boom. What is disconcerting is that some of those same consumers now are paying big to establish alternatives. Microsoft (MSFT) might be poised to demonstrate just how serious that threat has gotten. The ...",
+      "pub_date": "2026-08-13T02:37:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-biggest-risk-may-coming-023700599.html"
+    },
+    {
+      "title": "How Could Blackbaud (BLKB) Change Fundraising Work With Its New AI Integration?",
+      "summary": "Blackbaud (NasdaqGS: BLKB) has integrated Microsoft 365 Copilot with Raiser's Edge NXT, bringing AI-driven fundraising insights directly into Microsoft 365 tools. The integration is designed to surface real-time donor and campaign intelligence inside familiar workflows for fundraising professionals. Blackbaud positions the move as part of its focus on secure, workflow-native AI tailored specifically to nonprofit organizations. AI moving deeper into everyday productivity tools is a wider...",
+      "pub_date": "2026-08-13T02:11:39Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/could-blackbaud-blkb-change-fundraising-021139550.html"
     },
     {
       "title": "The Mega Backdoor Roth: How Tech Workers Add $34,000 Annually to a 401(k) Tax-Free",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-12T21:27:53Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/technology/articles/applied-digital-vs-microsoft-technology-212753700.html"
-    },
-    {
-      "title": "Expert urges investors to spread bets across the 'AI universe'",
-      "summary": "<body><p>STORY: Mussio also noted that \"investors are right to concern themselves\" with companies' capital expenditures on AI buildout.</p><p>\"The market is rewarding those businesses that can finance the CapEx still within the guise of their cash flow from operations,\" Mussio said. \"It's the businesses that are then using all of that cash flow, and then borrowing in the market on the debt side, those are the companies that have a much more difficult time. So Microsoft, Amazon, okay. Meta, a little less okay.... Oracle, even less so, less so ok.\"</p></body>",
-      "pub_date": "2026-08-12T21:14:23Z",
-      "source": "Reuters Videos",
-      "url": "https://finance.yahoo.com/video/expert-urges-investors-spread-bets-211423212.html"
-    },
-    {
-      "title": "Palantir and Microsoft Drop. Why the AI Revival Is Hitting Software Stocks.",
-      "summary": "Palantir slid 2.2% and Microsoft dipped 2.3%.  Salesforce ServiceNow  and  Workday  were among the other software stocks trading in the red.  The moves came as shares of chip and optical networking companies rallied, following a strong batch of earnings reports that signaled to the market that demand for AI remains robust.",
-      "pub_date": "2026-08-12T20:45:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/palantir-stock-microsoft-ai-software-81e21d89?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
