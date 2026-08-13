@@ -1,6 +1,6 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-08-13T09:06:45.570994+00:00",
+  "generated_at": "2026-08-13T12:57:13.382000+00:00",
   "items": [
     {
       "title": "Earnings live updates: Cisco and Cerebras earnings point to strong AI demand, but their stocks are falling anyway",
@@ -17,6 +17,34 @@
       "url": "https://finance.yahoo.com/video/coreweave-super-micro-earnings-quieting-141401252.html"
     },
     {
+      "title": "Supermicro stock jumps on Q4 results, strong Q1 outlook",
+      "summary": "Supermicro reported its Q4 results after the bell on Tuesday.",
+      "pub_date": "2026-08-10T21:00:04Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/article/supermicro-stock-jumps-on-q4-results-strong-q1-outlook-210004983.html"
+    },
+    {
+      "title": "Dow Jones Futures: Cisco, Coherent Are Earnings Losers After Nebius, Lumentum, CoreWeave Lead AI Rally",
+      "summary": "AI stocks led the market Wednesday, fueled by Nebius, Lumentum, CoreWeave and Super Micro. Cisco and Coherent were earnings movers late.",
+      "pub_date": "2026-08-13T12:13:33Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cisco-coherent-earnings-movers-nebius-lumentum-coreweave-ai-rally/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Korea\u2019s Stock Market Surges Another 3.5% Overnight. Intel, Coherent, and Micron Among Most Active Premarket Stocks in US Trading.",
+      "summary": "South Korean memory stocks just posted their biggest surge in months while U.S. premarket tells a far more complicated story, with Coherent falling despite a beat and Micron moving in the opposite direction from its Asian peers.",
+      "pub_date": "2026-08-13T11:17:58Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/korea-stock-market-surges-another-111758592.html"
+    },
+    {
+      "title": "Cisco Networking Sales Surge on AI Demand. Why the Stock Is Down.",
+      "summary": "Cisco Systems  is the latest tech hardware company to report strong financial results driven by ongoing artificial-intelligence demand.  On Wednesday,  \u00a0 Cisco  reported adjusted earnings of $1.22 a share on revenue of $17.3 billion for the fiscal fourth quarter ended on July 25.  Cisco\u2019s networking segment\u2014which includes gear used in AI data centers\u2014has grown as enterprise demand for AI infrastructure continues to rise.",
+      "pub_date": "2026-08-13T10:05:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/cisco-systems-earnings-stock-price-ec1ea4f5?siteid=yhoof2&yptr=yahoo"
+    },
+    {
       "title": "Super Micro Guided Fiscal 2027 Revenue $16 Billion Above Wall Street and Missed the Quarter Anyway",
       "summary": "The AI server maker's fourth quarter came in light. The year it says comes next is what the market is paying for.",
       "pub_date": "2026-08-13T03:39:00Z",
@@ -24,39 +52,11 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-guided-fiscal-2027-033900964.html"
     },
     {
-      "title": "Dow Jones Futures: Cisco, Coherent Are Earnings Losers After Nebius, Lumentum, CoreWeave Lead AI Rally",
-      "summary": "AI stocks led the market Wednesday, fueled by Nebius, Lumentum, CoreWeave and Super Micro. Cisco and Coherent were earnings movers late.",
-      "pub_date": "2026-08-13T03:09:24Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cisco-coherent-earnings-movers-nebius-lumentum-coreweave-ai-rally/?src=A00220&yptr=yahoo"
-    },
-    {
       "title": "Nano Nuclear Energy Q3 Earnings Call Highlights",
       "summary": "Nano Nuclear Energy (NASDAQ:NNE) said its third-quarter progress centered on advancing the licensing and engineering of its Kronos microreactor, expanding its nuclear fuel-cycle capabilities through acquisitions, and pursuing potential commercial deployments for data centers, industrial users and go",
       "pub_date": "2026-08-13T01:04:08Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/energy/articles/nano-nuclear-energy-q3-earnings-010408733.html"
-    },
-    {
-      "title": "Review & Preview: Hold Please?",
-      "summary": "A softer inflation report that was in line with expectations helped boost stocks today, but overall, it was another fairly uneventful session after a quiet start to the week.  The tech-heavy Nasdaq Composite finished up 0.5% today.  Outside of the cooler inflation reading this morning, artificial intelligence stocks like\u00a0Super Micro Computer and Lumentum helped drive stocks higher today, particularly in the Nasdaq, after turning in earnings performances that smashed expectations.",
-      "pub_date": "2026-08-12T23:55:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stocks-today-softer-inflation-report-boosts-stocks-indexes-steady-14b7f226?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "AMD, Intel, and NVIDIA All Rally Wednesday After Series of Blockbuster AI Earnings Reports",
-      "summary": "A blowout earnings report from deep inside the AI server supply chain sent shockwaves through the chip sector Wednesday, lifting three of the biggest names in logic silicon and raising the stakes for what could be an even bigger catalyst on the horizon.",
-      "pub_date": "2026-08-12T22:21:27Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amd-intel-nvidia-rally-wednesday-222127920.html"
-    },
-    {
-      "title": "Stocks to Watch Wednesday Recap: CoreWeave, Super Micro, Cava",
-      "summary": "\u2197\ufe0f CoreWeave (CRWV): Shares jumped more than 19% after the cloud-computing company posted its fifth straight quarter of record revenue, fueled by sustained AI demand. \u2197\ufe0f Super Micro Computer (SMCI): Shares closed 19% higher after the company reported surging profit and sales that nearly doubled in its fourth quarter.",
-      "pub_date": "2026-08-12T21:43:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-08-12-2026/card/stocks-to-watch-wednesday-coreweave-super-micro-cisco-5yWXl9pdmSJkXBPzjbew?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

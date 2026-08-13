@@ -1,7 +1,14 @@
 {
   "ticker": "LMT",
-  "generated_at": "2026-08-13T09:06:30.291417+00:00",
+  "generated_at": "2026-08-13T12:56:56.074577+00:00",
   "items": [
+    {
+      "title": "SpaceX Supplier Tumbles After First Earnings Report Since IPO",
+      "summary": "Applied Aerospace & Defense fell about 10% on Wednesday after its first earnings report since going public in June.",
+      "pub_date": "2026-08-13T11:07:33Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/spacex-applied-aerospace-defense-space-industry-earnings/?src=A00220&yptr=yahoo"
+    },
     {
       "title": "Firefly Aerospace (FLY) Is Up 16.2% After Record Q2 Sales And New Lockheed Launch Deal - Has The Bull Case Changed?",
       "summary": "In the second quarter of 2026, Firefly Aerospace reported record sales of US$117.68 million but widened its net loss to US$92.32 million, alongside a two-year extension of its multi-launch agreement with Lockheed Martin for up to 25 Alpha Block II rocket missions through 2031 and a US$93.7 million U.S. Space Force radar contract. These results highlight a business rapidly scaling revenue and securing long-horizon government and defense contracts, while still contending with substantial...",
@@ -15,13 +22,6 @@
       "pub_date": "2026-08-13T01:33:09Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/technology/articles/verizon-teams-nvidia-lockheed-martin-013309771.html"
-    },
-    {
-      "title": "SpaceX Supplier Tumbles After First Earnings Report Since IPO",
-      "summary": "Applied Aerospace & Defense fell about 10% on Wednesday after its first earnings report since going public in June.",
-      "pub_date": "2026-08-12T20:01:10Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/spacex-applied-aerospace-defense-space-industry-earnings/?src=A00220&yptr=yahoo"
     },
     {
       "title": "Defense ETFs to Buy as Pentagon Pushes to Boost Missile Stockpiles",
@@ -45,18 +45,18 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-stock-rises-7-4-130200131.html"
     },
     {
+      "title": "Firefly Aerospace Inc. Q2 2026 Earnings Call Summary",
+      "summary": "Moby summary of Firefly Aerospace Inc.'s Q2 2026 earnings call",
+      "pub_date": "2026-08-12T12:30:00Z",
+      "source": "Moby",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-inc-q2-2026-123000481.html"
+    },
+    {
       "title": "Palantir Just Crushed Earnings Again. These 2 Legacy Defense Stocks Are the Cheaper Way to Play the Same Budget.",
       "summary": "The defense spending supercycle has only just begun.",
       "pub_date": "2026-08-12T12:22:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-just-crushed-earnings-again-122200247.html"
-    },
-    {
-      "title": "Lockheed Martin demonstrates AI-powered drone detection system using 5G networks",
-      "summary": "Lockheed Martin (NYSE:LMT), Verizon (NYSE:VZ), Keysight Technologies (NYSE:KEYS), ODC and Astris AI completed a live demonstration of the NetSense Airspace Awareness-as-a-Service platform in the Miami area in July, showcasing technology designed to detect and monitor drones using existing 5G infrastructure. The system combines Verizon\u2019s 5G network spectrum with ODC\u2019s AI-native Radio Access Network software, Nvidia\u2019s AI Aerial platform and Keysight\u2019s radio-frequency simulation technology to ident",
-      "pub_date": "2026-08-12T11:30:44Z",
-      "source": "InvestorsHub",
-      "url": "https://finance.yahoo.com/technology/ai/articles/lockheed-martin-demonstrates-ai-powered-113044665.html"
     }
   ]
 }

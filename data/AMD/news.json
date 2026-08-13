@@ -1,7 +1,28 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-08-13T09:05:57.216308+00:00",
+  "generated_at": "2026-08-13T12:56:20.187925+00:00",
   "items": [
+    {
+      "title": "BofA lifts server CPU TAM to $210bn+ on the rise of AI agents",
+      "summary": "Investing.com -- Bank of America raised its forecast for the server CPU market, saying the rise of AI agents is expanding the opportunity for central processing units in data centers.",
+      "pub_date": "2026-08-13T12:01:33Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bofa-lifts-server-cpu-tam-120133825.html"
+    },
+    {
+      "title": "I\u2019m Buying More and More Nvidia Because Of One Massive AI Transition Underway",
+      "summary": "Agentic AI is quietly multiplying compute demands at a scale most investors have not priced in, and one company sits at the only viable toll booth on that road. Here is why the buy button keeps getting pressed.",
+      "pub_date": "2026-08-13T11:05:13Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/m-buying-more-more-nvidia-110513790.html"
+    },
+    {
+      "title": "Cerebras Stock Plummets 17% Despite Solid Earnings",
+      "summary": "Cerebras Systems stock has had a wild ride in a crowded field. Its stock was down despite a strong earnings report.",
+      "pub_date": "2026-08-13T08:49:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/cerebras-systems-earnings-stock-price-fac4c486?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "The 5 Most Interesting Analyst Questions From AMD\u2019s Q2 Earnings Call",
       "summary": "AMD\u2019s second quarter saw revenue and non-GAAP profit both exceed Wall Street expectations, yet the market reacted negatively. Management attributed the quarter\u2019s results to robust adoption of its EPYC server CPUs and Instinct accelerators, particularly within the data center segment, which now makes up nearly 60% of total revenue. CEO Lisa Su highlighted \u201crecord server CPU revenue\u201d and noted that sales were powered by cloud and enterprise demand, as well as broader adoption across industries ran",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-12T22:01:37Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/options/articles/amdl-doubles-amd-bet-doubles-220137057.html"
-    },
-    {
-      "title": "Advanced Micro Devices vs. AppLovin: Which Technology Stock Is a Better Buy in 2026?",
-      "summary": "AMD boasts superior margins and lower leverage, while AppLovin trades at a fraction of the valuation multiple despite explosive growth.",
-      "pub_date": "2026-08-12T21:45:53Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-vs-applovin-214553275.html"
-    },
-    {
-      "title": "You Skipped the AI Rally Because Retirement Felt Too Close. These 3 ETFs Get You In Without Betting Your Nest Egg",
-      "summary": "Watching the AI rally from the sidelines felt responsible when retirement loomed, but playing it safe has a price tag too. Three ETFs now offer a way to get back in the game without handing your future to a single stock.",
-      "pub_date": "2026-08-12T21:35:22Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/skipped-ai-rally-because-retirement-213522102.html"
-    },
-    {
-      "title": "Cerebras Systems Reports Solid Earnings. The Stock Is Plunging.",
-      "summary": "Cerebras Systems stock has had a wild ride in a crowded field. Its stock was down despite a strong earnings report.",
-      "pub_date": "2026-08-12T21:20:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/cerebras-systems-earnings-stock-price-fac4c486?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
