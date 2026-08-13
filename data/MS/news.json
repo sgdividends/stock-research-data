@@ -1,7 +1,49 @@
 {
   "ticker": "MS",
-  "generated_at": "2026-08-13T12:57:00.879368+00:00",
+  "generated_at": "2026-08-13T16:51:34.439084+00:00",
   "items": [
+    {
+      "title": "AMD to Raise as Much as $5 Billion From Debt Offering",
+      "summary": "Advanced Micro Devices Inc. is planning to raise as much $5 billion in what could be the chipmaker\u2019s biggest-ever investment-grade bond sale, adding to a wave of debt tied to the artificial intelligence boom.",
+      "pub_date": "2026-08-13T15:14:16Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-raise-much-5-billion-151416792.html"
+    },
+    {
+      "title": "Morgan Stanley doubles down on SpaceX stock for investors",
+      "summary": "There is a number making the rounds on Wall Street right now that would have seemed disconnected from reality 12 months ago: a $600 price target for a company that went public at $135 in June and briefly fell below that listing price within weeks of trading. That kind of number does not get ...",
+      "pub_date": "2026-08-13T15:07:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-doubles-down-spacex-150700734.html"
+    },
+    {
+      "title": "Cursor Might Be SpaceX\u2019s Ticket to $600 Per Share",
+      "summary": "SpaceX just dropped $60 billion on an AI coding firm, and analysts are starting to wonder if that single acquisition rewrites the entire bull case for the stock. The space story is real, but the bigger opportunity hiding inside SpaceX has nothing to do with rockets.",
+      "pub_date": "2026-08-13T14:56:37Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cursor-might-spacex-ticket-600-145637648.html"
+    },
+    {
+      "title": "Zerohash Fails To Secure U.S. Trust Bank Charter",
+      "summary": "Zerohash has fallen short in its quest to secure a U.S. Trust Bank Charter.",
+      "pub_date": "2026-08-13T14:08:00Z",
+      "source": "CryptoProwl",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/zerohash-fails-secure-u-trust-140800122.html"
+    },
+    {
+      "title": "How Is Morgan Stanley Strengthening Its Position in Digital Assets?",
+      "summary": "MS is expanding its crypto strategy with Ethereum and Solana ETPs, adding staking and broadening its digital-asset platform.",
+      "pub_date": "2026-08-13T14:06:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-strengthening-position-digital-140600016.html"
+    },
+    {
+      "title": "Will GS's Push Into Options-Based ETFs Enhance Its Competitive Edge?",
+      "summary": "Goldman's NEOS deal adds $30B in options-based ETFs, strengthening its push into fast-growing active ETF and income strategies.",
+      "pub_date": "2026-08-13T14:06:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/options/articles/gss-push-options-based-etfs-140600896.html"
+    },
     {
       "title": "Morgan Stanley Sees Sea's Spending Building Earnings Power",
       "summary": "Overweight maintained as the broker calls the margin ramp increasingly credible",
@@ -10,53 +52,11 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sees-seas-spending-124759179.html"
     },
     {
-      "title": "Wealth managers cut fees to win AI\u2019s paper millionaires",
-      "summary": "Wealth managers are cutting fees and hiring staff around Silicon Valley in a rush to win over workers at OpenAI and Anthropic before their initial...",
-      "pub_date": "2026-08-13T04:00:04Z",
-      "source": "Financial Times",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wealth-managers-cut-fees-win-040004781.html"
-    },
-    {
-      "title": "Shein Is Said to Consider Aug. 28 for Hong Kong Trading Debut",
-      "summary": "Shein Global Holdings Ltd. plans to start taking investor orders for its long-awaited Hong Kong initial public offering as soon as Aug. 20 and debut in the city around Aug. 28, according to people familiar with the matter.",
-      "pub_date": "2026-08-13T03:34:18Z",
+      "title": "Risk-On Momentum in Bank Stocks Echoes Aftermath of Dot-Com Bust",
+      "summary": "The recent weakness in artificial intelligence high-flyers has investors rotating into the less glamorous corner of the market: financial stocks.",
+      "pub_date": "2026-08-13T12:03:55Z",
       "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/shein-said-consider-aug-28-033418370.html"
-    },
-    {
-      "title": "SpaceX Just Joined the Hyperscaler Club. AI Capex Spending Could Hit $1.15 Trillion",
-      "summary": "SpaceX just joined the hyperscaler club, helping push projected 2027 AI capex to $1.15 trillion. That could fuel another wave of demand for chips, memory, power, and cooling.",
-      "pub_date": "2026-08-12T21:11:40Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/technology/ai/articles/spacex-just-joined-hyperscaler-club-211140255.html"
-    },
-    {
-      "title": "Why Lumentum Holdings Stock Is Soaring Today",
-      "summary": "Lumentum stock surges after 109% revenue growth and bullish outlook",
-      "pub_date": "2026-08-12T17:11:54Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-lumentum-holdings-stock-soaring-171154351.html"
-    },
-    {
-      "title": "Why Hewlett Packard Enterprise (HPE) Stock Is Trading Up Today",
-      "summary": "Shares of enterprise technology company Hewlett Packard Enterprise (NYSE:HPE) jumped 3.9% in the morning session after Morgan Stanley upgraded the stock to Overweight from Equal Weight and set a $69 price target. The firm said it had been \u201con the wrong side\u201d of the enterprise hardware trade and now sees a stronger setup for HPE\u2019s server business. Morgan Stanley\u2019s shift rests on pricing and order strength. Hardware refresh cycles, customers pulling spending forward, and AI-related demand are supp",
-      "pub_date": "2026-08-12T16:13:22Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-hewlett-packard-enterprise-hpe-161322437.html"
-    },
-    {
-      "title": "Bank of America's Cybersecurity Investment: A Strategic Move",
-      "summary": "BAC plans to acquire MDSec to strengthen cybersecurity, adding 65 specialists as AI and digital banking raise cyber risks.",
-      "pub_date": "2026-08-12T13:03:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/articles/bank-americas-cybersecurity-investment-strategic-130300954.html"
-    },
-    {
-      "title": "Bank of America Pledges $250 Billion for Critical Infrastructure, AI",
-      "summary": "Bank of America, Morgan Stanley, and JPMorgan Chase have pledged billions to invest in critical infrastructure including AI hardware.",
-      "pub_date": "2026-08-12T12:29:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/bank-of-america-250b-ai-infrastructure-investment-49dc2fac?siteid=yhoof2&yptr=yahoo"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/risk-momentum-bank-stocks-echoes-120355474.html"
     }
   ]
 }

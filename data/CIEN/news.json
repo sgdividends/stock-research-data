@@ -1,6 +1,6 @@
 {
   "ticker": "CIEN",
-  "generated_at": "2026-08-13T12:56:29.426625+00:00",
+  "generated_at": "2026-08-13T16:50:56.805234+00:00",
   "items": [
     {
       "title": "AI infrastructure stocks surge after strong earnings from CoreWeave, Supermicro",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-12T14:23:04Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/ai-infrastructure-stocks-surge-after-strong-earnings-from-coreweave-supermicro-142304399.html"
+    },
+    {
+      "title": "Cisco Drops 7% on Gross Margin Fears: Five Firms Raise CSCO Price Target Anyway",
+      "summary": "Cisco beat earnings, crushed revenue estimates, and racked up billions in AI orders, yet the stock cratered 7% anyway. Five analyst firms still raised their price targets, but the spread between the most bearish and most bullish tells a story of deep Wall Street disagreement about where Cisco goes from here.",
+      "pub_date": "2026-08-13T14:31:27Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-drops-7-gross-margin-143127630.html"
     },
     {
       "title": "Lumentum Still Down Over 90 Days: A Respected Analyst Sees 22% Gains Ahead Following Sharp Upturn",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-12T21:49:12Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nokia-celestica-applied-optoelectronics-rally-214912678.html"
-    },
-    {
-      "title": "How Far Can Arista Stock Move Without Anything Going Wrong?",
-      "summary": "The band the options market prices for the next ten months runs from just under the low this stock has set over the past year to a level far above today's price, and the volatility behind it is close to what the stock has actually been doing.",
-      "pub_date": "2026-08-12T18:37:44Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/far-arista-stock-move-without-183744818.html"
     }
   ]
 }

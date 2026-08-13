@@ -1,13 +1,48 @@
 {
   "ticker": "BAC",
-  "generated_at": "2026-08-13T12:56:23.730299+00:00",
+  "generated_at": "2026-08-13T16:50:49.612557+00:00",
   "items": [
+    {
+      "title": "New Study Reveals Strongest State Economies, Only 1 State Was Better Than Texas",
+      "summary": "CNBC's 20th annual state business rankings handed the overall crown to Ohio for the first time ever, but in the critical economy sub-category it was a two-state race: North Carolina led the nation and Texas came in second, even as the Lone Star State carries more foreign investment than any other top-10 economy in the country.",
+      "pub_date": "2026-08-13T15:35:35Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/economy/articles/study-reveals-strongest-state-economies-181834728.html"
+    },
+    {
+      "title": "AMD to Raise as Much as $5 Billion From Debt Offering",
+      "summary": "Advanced Micro Devices Inc. is planning to raise as much $5 billion in what could be the chipmaker\u2019s biggest-ever investment-grade bond sale, adding to a wave of debt tied to the artificial intelligence boom.",
+      "pub_date": "2026-08-13T15:14:16Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-raise-much-5-billion-151416792.html"
+    },
+    {
+      "title": "Cisco stock falls despite Street-beating guidance as networking and AI orders accelerate",
+      "summary": "Cisco Systems Inc (NASDAQ:CSCO, XETRA:CIS) reported fiscal fourth-quarter revenue of $17.3 billion, up 18% year-over-year and above the $16.82 billion analyst estimate, as networking demand and artificial intelligence orders drove growth. Non-GAAP earnings per share came in at $1.22, up 23%...",
+      "pub_date": "2026-08-13T14:38:00Z",
+      "source": "Proactive",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-falls-despite-street-143800674.html"
+    },
+    {
+      "title": "3 Hyped Up  Stocks That Fall Short",
+      "summary": "Each stock in this article is trading near its 52-week high. These elevated prices usually indicate some degree of investor confidence, business improvements, or favorable market conditions.",
+      "pub_date": "2026-08-13T13:09:00Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-hyped-stocks-fall-short-130900738.html"
+    },
     {
       "title": "BofA Issues Urgent Message for Intel Stock After $20 Billion Offering",
       "summary": "Intel stock rebounds after dilution fears. BofA sees foundry upside",
       "pub_date": "2026-08-13T12:23:14Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-issues-urgent-message-intel-122314246.html"
+    },
+    {
+      "title": "Bank of America to buy up to 49.9% stake in Jio Credit for $1.9B",
+      "summary": "\u201cIndia is one of the world's most important growth markets, and this investment reflects our confidence in its future, a market we know well and have supported for decades,\u201d Bank of America CEO Brian Moynihan said on the deal.",
+      "pub_date": "2026-08-13T12:16:55Z",
+      "source": "Banking Dive",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-buy-49-9-121655617.html"
     },
     {
       "title": "BofA lifts server CPU TAM to $210bn+ on the rise of AI agents",
@@ -22,41 +57,6 @@
       "pub_date": "2026-08-13T11:53:34Z",
       "source": "Retail Banker International",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-acquire-49-9-115334859.html"
-    },
-    {
-      "title": "Shuttered Colleges Are Selling The Only Asset They Have Left: Their Campuses",
-      "summary": "Vast swaths of land and buildings are on the market, with more to come as financially distressed schools close around the country.",
-      "pub_date": "2026-08-13T11:30:09Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/real-estate/articles/shuttered-colleges-selling-only-asset-113009535.html"
-    },
-    {
-      "title": "Bank of America (BAC) Stock Still Looks Like A Bargain Following Its 139% Run",
-      "summary": "Bank of America stock has delivered a 138.5% return over the past three years, yet current valuation checks indicate the shares still sit below an intrinsic value estimate from the Excess Returns model and also screen as undervalued on earnings based multiples. A 138.5% three year return puts Bank of America among the stronger performers in large cap financials, which raises the bar for what counts as an attractive entry price now. The joint venture with Jio Financial Services in India and...",
-      "pub_date": "2026-08-13T08:08:47Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-bac-stock-still-080847018.html"
-    },
-    {
-      "title": "BofA Exec Still Calls For 3 Fed Rate Hikes After July CPI",
-      "summary": "BofA's Aditya Bhave defends the bank's three-hike Fed forecast after July's CPI report, saying tightening remains incomplete.",
-      "pub_date": "2026-08-12T23:13:00Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/economy/policy/articles/bofa-exec-still-calls-3-231300419.html"
-    },
-    {
-      "title": "Sector Update: Financial Stocks Rise Late Afternoon",
-      "summary": "Financial stocks were higher in late Wednesday afternoon trading, with the NYSE Financial Index up 0",
-      "pub_date": "2026-08-12T19:56:56Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-rise-afternoon-195656737.html"
-    },
-    {
-      "title": "Intel: BofA sees $20B raise fueling foundry and server CPU growth",
-      "summary": "Intel Corp (NASDAQ:INTC, XETRA:INL) priced roughly $20 billion in new equity this week, a move analysts at BofA Securities said reflects growing confidence in the chipmaker's foundry business rather than a defensive balance-sheet play. The bank estimates the offering, which includes a 15%...",
-      "pub_date": "2026-08-12T19:33:00Z",
-      "source": "Proactive",
-      "url": "https://finance.yahoo.com/technology/articles/intel-bofa-sees-20b-raise-193300648.html"
     }
   ]
 }

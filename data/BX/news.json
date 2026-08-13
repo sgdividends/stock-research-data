@@ -1,7 +1,21 @@
 {
   "ticker": "BX",
-  "generated_at": "2026-08-13T12:56:26.502538+00:00",
+  "generated_at": "2026-08-13T16:50:52.593155+00:00",
   "items": [
+    {
+      "title": "Databricks Raises $5 Billion at a $190 Billion Valuation",
+      "summary": "Databricks Inc. has secured $5 billion in funding at a valuation of $190 billion, the second round of financing this year for a fast-growing software firm that competes with Snowflake Inc. and Alphabet Inc.",
+      "pub_date": "2026-08-13T14:40:33Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/articles/databricks-raises-5-billion-190-144033565.html"
+    },
+    {
+      "title": "Nvidia and Broadcom Deepen AI Financing Push \u2014 But Wolfe Sees Long-Term Risks",
+      "summary": "NVIDIA Corporation (NASDAQ:NVDA) and Broadcom Inc. (NASDAQ:AVGO), two of the world\u2019s largest chipmakers, are tapping debt and private capital markets to fund the AI infrastructure boom. These massive financial commitments coming from some of the biggest names in the market signal exceptionally-strong AI compute demand. However, one Wall Street firm, Wolfe Research, believes the same [\u2026]",
+      "pub_date": "2026-08-13T13:19:02Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-broadcom-deepen-ai-financing-131902271.html"
+    },
     {
       "title": "Blackstone (BX) Joins Global AI Infrastructure Funding Alliance With Major Financial Firms",
       "summary": "Blackstone (NYSE:BX) has entered a new partnership with NVIDIA and major financial institutions to fund global AI infrastructure platforms. The alliance is focused on creating large scale compute financing platforms to support growing demand for AI focused data centers and related infrastructure. The collaboration is intended to mobilize substantial capital and could open new long term revenue sources linked to AI infrastructure financing. For readers looking beyond Blackstone to other...",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-12T17:46:08Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-mixed-wednesday-174608110.html"
-    },
-    {
-      "title": "NVIDIA Stock Jumps 2.5% Today as $500 Billion AI Funding Opens",
-      "summary": "Independent financing platforms could broaden access to NVIDIA systems without requiring the chipmaker to supply all the capital itself.",
-      "pub_date": "2026-08-12T17:30:22Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-jumps-2-5-173022032.html"
-    },
-    {
-      "title": "Nvidia's $500 Billion AI Gamble Raises the Stakes for NVDA Stock",
-      "summary": "Nvidia Builds a $500 Billion AI War Chest With Goldman, BlackRock and Blackstone",
-      "pub_date": "2026-08-12T17:28:23Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-500-billion-ai-gamble-172823585.html"
     }
   ]
 }

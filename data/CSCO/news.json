@@ -1,13 +1,20 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-08-13T12:56:32.679714+00:00",
+  "generated_at": "2026-08-13T16:51:00.874550+00:00",
   "items": [
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq trending higher on rate hike bets, earnings",
+      "title": "Stock market today: S&P 500 and Nasdaq gain on soft inflation data, Dow dips",
       "summary": "Investors are watching for another inflation reading after Wednesday's release of the Consumer Price Index showed inflation easing in July.",
       "pub_date": "2026-08-13T10:01:45Z",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-trending-higher-on-rate-hike-bets-earnings-100145282.html"
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-sp-500-and-nasdaq-gain-on-soft-inflation-data-dow-dips-100145282.html"
+    },
+    {
+      "title": "Stocks rise on broad sector strength: AlphaCheck",
+      "summary": "Stocks opened in the green on Thursday after another inflation reading led traders to pare back bets of a Federal Reserve rate hike in September.",
+      "pub_date": "2026-08-13T13:55:45Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/stocks-rise-on-broad-sector-strength-alphacheck-135545759.html"
     },
     {
       "title": "Earnings live updates: Cisco and Cerebras earnings point to strong AI demand, but their stocks are falling anyway",
@@ -17,46 +24,39 @@
       "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-cisco-and-cerebras-earnings-point-to-strong-ai-demand-but-their-stocks-are-falling-anyway-202302733.html"
     },
     {
-      "title": "Cisco Stock Fell 6% as Margins Slipped",
-      "summary": "Product gross margin fell 270 basis points",
-      "pub_date": "2026-08-13T12:50:46Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-fell-6-margins-125046656.html"
+      "title": "Jim Cramer Told Club Members to Check Their Inbox for \u201cMultiple Moves\u201d: What Retail Investors Should Know",
+      "summary": "Jim Cramer sent paying subscribers a flurry of trade alerts on August 11 while publicly dropping enough clues about AI infrastructure plays to keep retail investors guessing. Here is what his free commentary actually reveals about where he thinks the sector is headed.",
+      "pub_date": "2026-08-13T16:12:02Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-told-club-members-161202097.html"
     },
     {
-      "title": "Stock Market Today: Dow Rises On Surprise Inflation Data; Cisco, AI Name Cerebras Plunge On Earnings (Live Coverage)",
+      "title": "Top Midday Stories: Accelerant to be Taken Private by Thoma Bravo in $4 Billion Deal; Cisco Shares Fall Despite Strong Earnings, Guidance",
+      "summary": "The S&P 500 and Nasdaq Composite were up in late-morning trading Thursday, while the Dow Jones Indus",
+      "pub_date": "2026-08-13T16:00:19Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-accelerant-taken-160019493.html"
+    },
+    {
+      "title": "Cisco Earnings Beat, But Shares Are Tumbling. Here's Why.",
+      "summary": "Cisco stock rose amid fiscal Q4 earnings and revenue that topped estimates while the company's fiscal 2027 sales outlook came in above views.",
+      "pub_date": "2026-08-13T15:52:06Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/technology/cisco-stock-csco-cisco-earnings-q22026/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "AI Demand Is Booming. So Why Are CBRS and CSCO Sinking?",
+      "summary": "Cerebras Systems Inc. (NASDAQ:CBRS) and Cisco Systems Inc. (NASDAQ:CSCO) were sinking Thursday despite both companies delivering fresh evidence that the AI infrastructure boom is alive and well. The problem may not be demand. It\u2019s what investors now expect companies to...",
+      "pub_date": "2026-08-13T15:41:45Z",
+      "source": "Benzinga Prediction Markets",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-demand-booming-why-cbrs-154145363.html"
+    },
+    {
+      "title": "Stock Market Today: Dow's Gain Vanishes; Credo Technology Approaches New Entry (Live Coverage)",
       "summary": "Stock Market Today: The Dow Jones index rises Thursday after surprise key inflation data. Cisco and AI stock Cerebras plunge on earnings.",
-      "pub_date": "2026-08-13T12:45:25Z",
+      "pub_date": "2026-08-13T15:24:53Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-cisco-cerebras-earnings/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Cisco Stock Rises After Record $63 Billion Revenue Year",
-      "summary": "Cisco Stock Gains as Company Forecasts Up to $73.4 Billion in FY2027 Revenue",
-      "pub_date": "2026-08-13T12:29:05Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-rises-record-63-122905086.html"
-    },
-    {
-      "title": "US Equity Futures Rise Slightly Pre-Bell as Traders Await Further Inflation Data",
-      "summary": "US equity futures were edging slightly higher pre-bell Thursday as traders awaited another key infla",
-      "pub_date": "2026-08-13T12:18:50Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/economy/articles/us-equity-futures-rise-slightly-121850148.html"
-    },
-    {
-      "title": "Cerebras slumps as mixed quarterly results test AI growth narrative",
-      "summary": "Cerebras Systems slumped over 18% premarket on Thursday after it missed key estimates despite soaring cloud revenue, raising \u200cdoubts about the ability of its AI chips to challenge Nvidia. Expectations \u200cwere high for AI-linked companies including Cerebras and networking equipment maker Cisco, given the strong \u200brun-up in shares driven by Big Tech's ballooning spending, set to cross more than $740 billion for this year. Here are some details: \u2022 Cerebras, in its second earnings report as a public company, offered a mixed picture as it \u200cincreasingly derived revenue from cloud \u2060computing rather than its AI chips.",
-      "pub_date": "2026-08-13T12:16:07Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-slumps-mixed-quarterly-results-121607873.html"
-    },
-    {
-      "title": "Dow Jones Futures: Cisco, Coherent Are Earnings Losers After Nebius, Lumentum, CoreWeave Lead AI Rally",
-      "summary": "AI stocks led the market Wednesday, fueled by Nebius, Lumentum, CoreWeave and Super Micro. Cisco and Coherent were earnings movers late.",
-      "pub_date": "2026-08-13T12:13:33Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-cisco-coherent-earnings-movers-nebius-lumentum-coreweave-ai-rally/?src=A00220&yptr=yahoo"
     }
   ]
 }

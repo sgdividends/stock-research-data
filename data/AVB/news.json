@@ -1,7 +1,14 @@
 {
   "ticker": "AVB",
-  "generated_at": "2026-08-13T12:56:22.750021+00:00",
+  "generated_at": "2026-08-13T16:50:48.230557+00:00",
   "items": [
+    {
+      "title": "AvalonBay, Equity Residential merger approved by shareholders",
+      "summary": "After investors voted to endorse AVB\u2019s acquisition of EQR, the REITs expect to close the mammoth transaction in August.",
+      "pub_date": "2026-08-13T09:18:27Z",
+      "source": "Multifamily Dive",
+      "url": "https://finance.yahoo.com/real-estate/articles/shareholders-approve-avb-eqr-merger-091827147.html"
+    },
     {
       "title": "Apartment REITs Signal Recovery, but Lease Pricing Lags",
       "summary": "Apartment REITs show recovery, but new lease pricing stays uneven as coastal markets continue outperforming Sun Belt peers.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-30T16:22:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/real-estate/articles/ess-q2-ffo-beats-estimates-162200276.html"
-    },
-    {
-      "title": "UDR Q2 FFO & Revenues Beat Estimates on Leasing Strength, '26 View Up",
-      "summary": "UDR outpaces Q2 FFO estimates, delivers stronger leasing and same-store growth, and raises its 2026 FFO outlook as occupancy and resident retention remain strong.",
-      "pub_date": "2026-07-28T13:21:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/real-estate/articles/udr-q2-ffo-revenues-beat-132100877.html"
     }
   ]
 }
