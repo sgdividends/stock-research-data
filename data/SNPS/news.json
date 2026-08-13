@@ -1,7 +1,14 @@
 {
   "ticker": "SNPS",
-  "generated_at": "2026-08-12T20:38:15.566942+00:00",
+  "generated_at": "2026-08-13T01:24:36.210202+00:00",
   "items": [
+    {
+      "title": "OptimizeRx Corp. (OPRX) Q2 Earnings and Revenues Top Estimates",
+      "summary": "OptimizeRx (OPRX) delivered earnings and revenue surprises of +45.46% and +0.11%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?",
+      "pub_date": "2026-08-12T21:40:04Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/optimizerx-corp-oprx-q2-earnings-214004727.html"
+    },
     {
       "title": "Can SNPS Leverage AI to Accelerate Chip Design and Drive Growth?",
       "summary": "Synopsys is leveraging AI across chip design, verification and simulation, driving productivity gains and strengthening its position in the AI semiconductor value chain.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-06T21:45:02Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/synopsys-snps-increases-despite-market-214502353.html"
-    },
-    {
-      "title": "Nvidia (NVDA) Uses Own Chips for Design, While AMD (AMD) Relies on Rivals",
-      "summary": "Nvidia (NASDAQ:NVDA) just closed a loop that sounds almost recursive. On July 26, the company said its Vera CPU is now being used inside the electronic design automation workflows that will produce Nvidia\u2019s own next-generation CPUs and GPUs, with early testing on Cadence and Synopsys tools showing up to 1.5x faster verification and simulation performance. [\u2026]",
-      "pub_date": "2026-08-03T16:54:45Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-uses-own-chips-165445053.html"
     }
   ]
 }

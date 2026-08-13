@@ -1,7 +1,14 @@
 {
   "ticker": "GM",
-  "generated_at": "2026-08-12T20:37:46.833777+00:00",
+  "generated_at": "2026-08-13T01:23:45.084623+00:00",
   "items": [
+    {
+      "title": "Dear GM Stock Fans, Here's What General Motors' $4.5 Billion Parts Deal Means for You",
+      "summary": "General Motors has reached a supply chain agreement with Procura Auto Parts worth $4.5 billion, led by JPMorgan Chase and Banco Santander.",
+      "pub_date": "2026-08-12T18:24:22Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-gm-stock-fans-heres-182422139.html"
+    },
     {
       "title": "The Best Value Stocks to Buy",
       "summary": "Value stocks can be defined differently depending on who you ask. Here, we look at ways to measure valuation and how investors can find the best value stocks.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-12T13:20:50Z",
       "source": "Quartz",
       "url": "https://finance.yahoo.com/economy/policy/articles/gm-sets-4-5-billion-132050435.html"
-    },
-    {
-      "title": "GM locks in $4.5bn facility to secure auto parts supply",
-      "summary": "Procura Auto Parts, a firm specialising in inventory management and component sourcing, will serve as paying agent under the deal.",
-      "pub_date": "2026-08-12T11:34:10Z",
-      "source": "Just Auto",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gm-locks-4-5bn-facility-113410628.html"
     }
   ]
 }

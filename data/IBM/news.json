@@ -1,6 +1,6 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-08-12T20:37:51.239909+00:00",
+  "generated_at": "2026-08-13T01:23:50.816540+00:00",
   "items": [
     {
       "title": "IBM Landed A $240M AI Deal. Is That Enough?",
@@ -22,6 +22,13 @@
       "pub_date": "2026-08-12T17:09:32Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/does-ibm-ibm-gain-240-170932038.html"
+    },
+    {
+      "title": "Why IBM Stock Looks Like a Very Promising Long-Term Pick",
+      "summary": "The tech giant has multiple, highly promising initiatives and a winning CEO.",
+      "pub_date": "2026-08-12T15:33:45Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-ibm-stock-looks-very-153345039.html"
     },
     {
       "title": "The Zacks Analyst Blog Highlights Quantinuum, IonQ, NVIDIA, IBM, QTUM, ARQQ, WQTM and CHPX",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-11T21:20:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/ais-jurassic-park-moment-sent-212000661.html"
-    },
-    {
-      "title": "IBM Lands a $240 Million AI Inference Deal",
-      "summary": "Together AI will use IBM Cloud and Nvidia Blackwell systems to build a large-scale cluster for open-source models.",
-      "pub_date": "2026-08-11T19:10:47Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-lands-240-million-ai-191047046.html"
     }
   ]
 }

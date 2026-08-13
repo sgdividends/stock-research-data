@@ -1,7 +1,14 @@
 {
   "ticker": "STX",
-  "generated_at": "2026-08-12T20:38:17.234180+00:00",
+  "generated_at": "2026-08-13T01:24:37.940694+00:00",
   "items": [
+    {
+      "title": "Memory Stocks Rally Wednesday: SK Hynix, SanDisk, Micron All Jump. Here\u2019s Why",
+      "summary": "A neocloud earnings report landed before the bell Wednesday and sent shockwaves through the entire memory sector, lifting SanDisk, Micron, and SK Hynix in unison. Here is what the move reveals about where AI infrastructure spending is actually heading.",
+      "pub_date": "2026-08-12T22:06:38Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/memory-stocks-rally-wednesday-sk-220638033.html"
+    },
     {
       "title": "Freshworks\u2019s Q2 Earnings Call: Our Top 5 Analyst Questions",
       "summary": "Freshworks\u2019 Q2 results topped Wall Street\u2019s revenue and non-GAAP profit expectations, fueled by continued momentum in its employee experience (EX) platform and robust adoption of AI-powered solutions. Management highlighted large enterprise wins and strong growth in cross-selling advanced IT asset management and incident response modules. CEO Dennis Woodside credited this performance to the company\u2019s ability to displace legacy providers, with customers like Seagate and American Oncology Network",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-11T14:50:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/seagate-technology-gains-ai-boom-145000642.html"
-    },
-    {
-      "title": "Can Silicon Motion's New MonTitan SSD Solution Drive Growth?",
-      "summary": "SIMO's MonTitan SSD RDK targets AI infrastructure with predictable latency, sustained data processing and storage for demanding Agentic AI workloads",
-      "pub_date": "2026-08-11T14:47:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/silicon-motions-montitan-ssd-solution-144700563.html"
     }
   ]
 }

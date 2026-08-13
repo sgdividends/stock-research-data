@@ -1,7 +1,14 @@
 {
   "ticker": "MA",
-  "generated_at": "2026-08-12T20:37:58.898662+00:00",
+  "generated_at": "2026-08-13T01:24:06.024613+00:00",
   "items": [
+    {
+      "title": "Bill Ackman Unveils Six New Stock Picks",
+      "summary": "Bill Ackman\u2019s Pershing Square made investments in six new public companies since the end of March:  Visa   Mastercard   Netflix   S&P Global   Intercontinental Exchange   Alcon   The additions were disclosed in a letter to shareholders that accompanied Pershing Square\u2019s quarterly earnings release, the firm\u2019s first since it went public in April.",
+      "pub_date": "2026-08-12T21:17:43Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-cpi-inflation-08-12-2026/card/bill-ackman-unveils-six-new-stock-picks-xWZANQ99eEW0Bonz2RKj?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Circle Lines Up Major Financial Institutions For Its New Arc Blockchain. Here's Why Circle Stock is Now a Buy.",
       "summary": "The new blockchain expands its ecosystem and widens its moat.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-11T19:25:16Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/crypto/articles/circle-internet-still-down-10-192516342.html"
-    },
-    {
-      "title": "Mastercard Stock Rises as Services Revenue Jumps 20%",
-      "summary": "Cybersecurity, authentication and customer-engagement products grew twice as quickly as Mastercard's traditional payment-network revenue.",
-      "pub_date": "2026-08-11T19:14:37Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-stock-rises-services-revenue-191437142.html"
     }
   ]
 }

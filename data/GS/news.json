@@ -1,6 +1,6 @@
 {
   "ticker": "GS",
-  "generated_at": "2026-08-12T20:37:47.913830+00:00",
+  "generated_at": "2026-08-13T01:23:46.496694+00:00",
   "items": [
     {
       "title": "What's going on with the state of consumer prices?",
@@ -10,11 +10,25 @@
       "url": "https://finance.yahoo.com/video/whats-going-state-consumer-prices-135800763.html"
     },
     {
+      "title": "Goldman Sachs Bets Again on Options ETFs With NEOS Deal",
+      "summary": "<p>The bank will pay up to $2.25 billion for NEOS.</p>",
+      "pub_date": "2026-08-13T01:18:27Z",
+      "source": "etf.com",
+      "url": "https://finance.yahoo.com/markets/options/articles/goldman-sachs-bets-again-options-011827707.html"
+    },
+    {
       "title": "Michael Burry Drops Stark Take on Nvidia Stock",
       "summary": "A massive financing machine is drawing uncomfortable comparisons",
       "pub_date": "2026-08-12T20:20:59Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-drops-stark-nvidia-202059624.html"
+    },
+    {
+      "title": "Goldman Sachs Is Doubling Down on Investor Hunger for \u2018Boomer Candy\u2019",
+      "summary": "Investors can\u2019t get enough of ETFs, which use derivatives to get stocklike returns while limiting the downside.",
+      "pub_date": "2026-08-12T20:16:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/investing/goldman-sachs-is-doubling-down-on-investor-hunger-for-boomer-candy-923783e8?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "The Goldman Sachs Group (GS)\u2019s $2.3 Billion ETF Bet: How Does It Compare With JPMorgan?",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-12T18:35:32Z",
       "source": "etf.com",
       "url": "https://finance.yahoo.com/markets/options/articles/goldman-sachs-acquire-neos-investments-183532423.html"
-    },
-    {
-      "title": "Sector Update: Financial Stocks Mixed Wednesday Afternoon",
-      "summary": "Financial stocks were mixed in Wednesday afternoon trading, with the NYSE Financial Index up 0.3% an",
-      "pub_date": "2026-08-12T17:46:08Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-mixed-wednesday-174608110.html"
-    },
-    {
-      "title": "NVIDIA Stock Jumps 2.5% Today as $500 Billion AI Funding Opens",
-      "summary": "Independent financing platforms could broaden access to NVIDIA systems without requiring the chipmaker to supply all the capital itself.",
-      "pub_date": "2026-08-12T17:30:22Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-jumps-2-5-173022032.html"
     }
   ]
 }

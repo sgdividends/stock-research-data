@@ -1,7 +1,21 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-08-12T20:37:21.875045+00:00",
+  "generated_at": "2026-08-13T01:23:16.798430+00:00",
   "items": [
+    {
+      "title": "Cathie Wood buys $16.2 million of popular semiconductor stock",
+      "summary": "Cathie Wood, head of Ark Investment Management, often makes moves in some of her favorite tech stocks around earnings season. That's exactly what she's doing with Broadcom (AVGO), adding shares of the chipmaker ahead of its upcoming earnings report. Last year, the flagship Ark Innovation ETF gained ...",
+      "pub_date": "2026-08-12T22:07:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/articles/cathie-wood-buys-16-2-220700896.html"
+    },
+    {
+      "title": "You Skipped the AI Rally Because Retirement Felt Too Close. These 3 ETFs Get You In Without Betting Your Nest Egg",
+      "summary": "Watching the AI rally from the sidelines felt responsible when retirement loomed, but playing it safe has a price tag too. Three ETFs now offer a way to get back in the game without handing your future to a single stock.",
+      "pub_date": "2026-08-12T21:35:22Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/skipped-ai-rally-because-retirement-213522102.html"
+    },
     {
       "title": "Intel Is Up 176% This Year. Is It Time to Take Profits on INTC, AMD, Broadcom, and NVIDIA?",
       "summary": "Intel's stunning 176% run has the semiconductor sector buzzing, but with AMD trading at a jaw-dropping 123x earnings and a fresh dilution event on the table, figuring out where to hold and where to fold across chip stocks has never been more consequential.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-12T13:22:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-500b-funding-push-unlock-132200572.html"
-    },
-    {
-      "title": "Why Broadcom Is The Low-Beta AI Play To Buy",
-      "summary": "Broadcom controls two chokepoints inside every major AI cluster, and hyperscalers have already signed the contracts to prove it. The question is whether that grip justifies buying the stock today or waiting for a setup with more margin for error.",
-      "pub_date": "2026-08-12T12:19:23Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-low-beta-ai-121923911.html"
-    },
-    {
-      "title": "Latest News In AI Chips - Advanced Chip Packaging Sparks Market Growth Shift",
-      "summary": "Recent developments in the AI chip market highlight a significant shift towards advanced chip packaging technologies. According to BCC Research, this market is expected to grow substantially, from $38.6 billion in 2024 to $87.6 billion by 2030, driven by increasing demand for AI and high-performance computing applications. This growth is largely influenced by the need for improved data throughput, reduced latency, and greater interconnect density, surpassing what traditional packaging can...",
-      "pub_date": "2026-08-12T11:37:31Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/latest-news-ai-chips-advanced-113731294.html"
     }
   ]
 }
