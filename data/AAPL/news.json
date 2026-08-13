@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "generated_at": "2026-08-13T05:30:06.175015+00:00",
+  "generated_at": "2026-08-13T09:05:53.944832+00:00",
   "items": [
     {
       "title": "Google\u2019s Pixel 11 isn\u2019t the story; Gemini AI is",
@@ -15,6 +15,20 @@
       "pub_date": "2026-08-12T10:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/forget-big-tech-real-ai-100000112.html"
+    },
+    {
+      "title": "Market Chatter: Apple Seeks Deals With News Publishers to Improve Siri",
+      "summary": "Apple (AAPL) is discussing fresh arrangements with news organization to use their content to improve",
+      "pub_date": "2026-08-13T07:53:11Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-apple-seeks-deals-075311426.html"
+    },
+    {
+      "title": "The Hidden Red Flag in Wall Street\u2019s Price Targets",
+      "summary": "Nvidia and other tech stocks have a wide \u201cdispersion\u201d of price targets. Why that could be a problem for investors.",
+      "pub_date": "2026-08-13T06:30:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/wall-street-stock-price-targets-2aa8879e?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Tim Cook Warned of a \"100-Year Flood\" in Memory Chip Pricing on His Last Earnings Call. Should Apple Investors Be Worried About Margins?",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-13T00:01:57Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/technology/ai/articles/apple-reportedly-negotiates-deals-publishers-000157509.html"
-    },
-    {
-      "title": "Apple in Talks to Pay Publishers to Improve AI-Powered Siri",
-      "summary": "The content deals could provide the tech company\u2019s voice assistant with current news and information.",
-      "pub_date": "2026-08-12T22:30:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/media/apple-in-talks-to-pay-publishers-to-improve-ai-powered-siri-0641f64b?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Your Newborn\u2019s Trump Account Auto-Buys This S&P 500 ETF: The Hidden Costs Parents Never See",
-      "summary": "The government seeds your newborn's investment account with what looks like a nearly free S&P 500 ETF, but the fund fee is the smallest number on the bill. The real costs are buried in decisions the account made for you before your child took a first breath.",
-      "pub_date": "2026-08-12T22:05:25Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/newborn-trump-account-auto-buys-220525485.html"
     }
   ]
 }
