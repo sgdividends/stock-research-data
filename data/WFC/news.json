@@ -1,7 +1,14 @@
 {
   "ticker": "WFC",
-  "generated_at": "2026-08-14T09:04:00.825097+00:00",
+  "generated_at": "2026-08-14T12:53:12.189768+00:00",
   "items": [
+    {
+      "title": "Trump Supporters Imperil $4 Billion Aluminum Plant Central to His Industrial Push",
+      "summary": "Oklahoma residents fear toxic emissions, threatening an effort to restore US industrial might.",
+      "pub_date": "2026-08-14T10:00:19Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/economy/policy/articles/trump-supporters-imperil-4-billion-100019066.html"
+    },
     {
       "title": "Wells Fargo resets Microsoft stock price target for 2026",
       "summary": "Microsoft spent most of this year being punished for spending too much. The stock fell more than 20%. Analysts cut targets. The narrative shifted from AI winner to AI victim. Wells Fargo was part of that story. In mid-July, it trimmed its own target to $625 from $650, nervous about how much capital ...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-13T00:18:17Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-tokenized-deposit-push-001817838.html"
-    },
-    {
-      "title": "Wells Fargo Has Fresh Message for Microsoft Investors",
-      "summary": "Falling AI costs may favor companies with massive distribution",
-      "pub_date": "2026-08-12T20:15:51Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/wells-fargo-fresh-message-microsoft-201551159.html"
     }
   ]
 }

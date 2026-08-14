@@ -1,6 +1,6 @@
 {
   "ticker": "DELL",
-  "generated_at": "2026-08-14T09:03:05.945494+00:00",
+  "generated_at": "2026-08-14T12:52:11.682537+00:00",
   "items": [
     {
       "title": "Stocks rise on broad sector strength: AlphaCheck",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-13T13:55:45Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/stocks-rise-on-broad-sector-strength-alphacheck-135545759.html"
+    },
+    {
+      "title": "3 AI Infrastructure Stocks Powering the Data Center Boom in August",
+      "summary": "Three companies sit at the physical heart of the AI factory buildout, and each has posted explosive growth while raising guidance heading into fall. The question is whether their fundamentals justify the momentum or set the stage for a painful reset.",
+      "pub_date": "2026-08-14T11:00:47Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-powering-110047527.html"
     },
     {
       "title": "Arista Networks Stock Is Priced For Its Peak Margin",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-13T18:40:35Z",
       "source": "Benzinga Prediction Markets",
       "url": "https://finance.yahoo.com/technology/ai/articles/dell-rallies-2-lenovos-ai-184035262.html"
-    },
-    {
-      "title": "Super Micro Stock Extends Rally After Blockbuster Earnings",
-      "summary": "Super Micro shares jump as $60 billion AI backlog powers stock rally",
-      "pub_date": "2026-08-13T17:49:59Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-stock-extends-rally-174959770.html"
     }
   ]
 }

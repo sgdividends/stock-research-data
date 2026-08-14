@@ -1,7 +1,14 @@
 {
   "ticker": "ALL",
-  "generated_at": "2026-08-14T09:02:48.416242+00:00",
+  "generated_at": "2026-08-14T12:51:53.028081+00:00",
   "items": [
+    {
+      "title": "Businesses Are Spending Big on Quantum",
+      "summary": "Many companies are pouring millions into quantum computing programs to gain a competitive edge and prepare for future encryption threats.",
+      "pub_date": "2026-08-14T11:00:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/cio-journal/businesses-are-spending-big-on-quantum-c73060ad?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Allstate\u2019s Q2 Earnings Call: Our Top 5 Analyst Questions",
       "summary": "Allstate\u2019s second quarter was marked by a positive market response as the company surpassed Wall Street\u2019s revenue and non-GAAP profit expectations. Management cited operational excellence in auto and homeowners insurance, emphasizing precise pricing and disciplined underwriting as major factors behind improved margins. CEO Thomas Wilson highlighted that \u201ctotal revenues grew 11.8% year-over-year,\u201d driven by gains in both auto and homeowners policies, effective risk selection, and a robust reinsur",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-11T12:02:06Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/tuesday-top-wall-street-analyst-120206169.html"
-    },
-    {
-      "title": "Allstate Q2 Earnings Call Highlights",
-      "summary": "Allstate (NYSE:ALL) reported higher second-quarter revenue, underwriting income and investment income as the insurer continued to expand policies across its auto, homeowners and protection-services businesses. Total revenue rose 11.8% from a year earlier to $18.6 billion, while net premiums written",
-      "pub_date": "2026-08-07T21:04:20Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/allstate-q2-earnings-call-highlights-210420758.html"
     }
   ]
 }

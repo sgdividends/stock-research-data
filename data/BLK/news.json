@@ -1,6 +1,6 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-08-14T09:02:54.715770+00:00",
+  "generated_at": "2026-08-14T12:52:00.417604+00:00",
   "items": [
     {
       "title": "Goldman Sachs wants to turn bitcoin into a yield machine",
@@ -8,6 +8,20 @@
       "pub_date": "2026-08-13T16:20:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/goldman-sachs-wants-turn-bitcoin-162000621.html"
+    },
+    {
+      "title": "AI will make the biggest companies bigger and the smallest more powerful. Hotels show who gets squeezed",
+      "summary": "The next technology wave will produce a barbell: scaled platforms at one end, focused operators renting their capabilities at the other.",
+      "pub_date": "2026-08-14T10:00:00Z",
+      "source": "Fortune",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-biggest-companies-bigger-smallest-100000295.html"
+    },
+    {
+      "title": "Larry Fink's BlackRock Just Crossed $15.3 Trillion in Assets. Here's What That Scale Actually Earns.",
+      "summary": "With its massive scale and focus on high-margin products, BlackRock stands out as a top financial stock for long-term investors right now.",
+      "pub_date": "2026-08-14T09:52:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/larry-finks-blackrock-just-crossed-095200277.html"
     },
     {
       "title": "Bitcoin Price Risks Another Drop Below $63K as Futures Rally Lacks Spot Demand",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-14T01:03:34Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/options/articles/64-moved-401-k-away-010334546.html"
-    },
-    {
-      "title": "How Nvidia\u2019s $500 Billion AI Infrastructure Financing Push Could Impact NVIDIA (NVDA) Investors",
-      "summary": "Nvidia recently unveiled memorandums of understanding with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR to create independent compute financing platforms intended to mobilize over US$500.00 billion of third\u2011party capital for global AI infrastructure buildouts across data centers and \u201cAI factories.\u201d This move effectively recasts Nvidia GPUs and systems as long\u2011lived, financeable infrastructure assets, widening access to its platforms while raising fresh questions about...",
-      "pub_date": "2026-08-13T18:15:11Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-500-billion-ai-infrastructure-181511541.html"
-    },
-    {
-      "title": "Coreweave Rallies on Upbeat Q2 Results. How to Trade CRWV Stock Here.",
-      "summary": "The company more than doubled revenues and narrowed losses in the quarter.",
-      "pub_date": "2026-08-13T17:56:02Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-rallies-upbeat-q2-results-175602745.html"
     }
   ]
 }

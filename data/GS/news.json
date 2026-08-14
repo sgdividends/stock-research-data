@@ -1,6 +1,6 @@
 {
   "ticker": "GS",
-  "generated_at": "2026-08-14T09:03:19.250506+00:00",
+  "generated_at": "2026-08-14T12:52:25.845119+00:00",
   "items": [
     {
       "title": "Goldman in talks with investors on Nvidia financing deal after landing prized role, sources say",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-14T04:03:52Z",
       "source": "Reuters",
       "url": "https://finance.yahoo.com/technology/ai/articles/goldman-talks-investors-nvidia-financing-040352701.html"
+    },
+    {
+      "title": "China Tech Earnings Renew Focus on Hardware Stocks Over Internet",
+      "summary": "Chinese tech firms\u2019 early earnings are giving hardware stocks renewed momentum, while internet platforms still struggle to show a full consumer\u2011demand recovery.",
+      "pub_date": "2026-08-14T03:54:06Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/china-tech-earnings-renew-focus-035406451.html"
     },
     {
       "title": "Is the Goldman Sachs Gold ETF or the abrdn Silver ETF a Better Inflation Hedge?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-13T14:06:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/options/articles/gss-push-options-based-etfs-140600896.html"
-    },
-    {
-      "title": "Goldman Sachs Makes $2.25B Crypto Power Move With Bitcoin and Ethereum ETF Deal",
-      "summary": "Goldman Sachs will acquire Neos Investments for up to $2.25 billion, adding more than $30 billion in assets across 19 options-based ETFs. The deal ...",
-      "pub_date": "2026-08-13T13:17:26Z",
-      "source": "CCN",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-makes-2-25b-131726134.html"
     }
   ]
 }

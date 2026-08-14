@@ -1,7 +1,14 @@
 {
   "ticker": "SPGI",
-  "generated_at": "2026-08-14T09:03:49.549892+00:00",
+  "generated_at": "2026-08-14T12:52:59.882371+00:00",
   "items": [
+    {
+      "title": "S&P Closes at New Record \u2014 Thursday Recap",
+      "summary": "Stocks hit new highs. The S&P 500 gained 0.65% to a new all-time high. The Nasdaq ended up 0.8% and the Dow rose 69.7 points, or 0.1%. Another inflation reading came in cool. The producer-price index, which measures wholesale prices, was flat in July after falling by 0.",
+      "pub_date": "2026-08-14T08:10:06Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-14-2026/card/s-p-closes-at-new-record-thursday-recap-nEkLl6em0MPOtmDl1kBS?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "UiPath Stock Carries A Market Multiple On Earnings And A Premium On Sales",
       "summary": "Its operating margin is a fraction of the market's while its net margin sits above the market's, which is where the earnings comparison stops being about the business.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-13T16:48:57Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/forget-nvidia-michael-burry-bill-164857627.html"
-    },
-    {
-      "title": "VZ Paid Holders $59 Billion While The Stock Trailed The Market",
-      "summary": "The telecom giant sent a torrent of cash to its owners, yet the stock went nowhere. Here is the accounting of what that trade-off bought, and what it means now.",
-      "pub_date": "2026-08-13T13:55:56Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/vz-paid-holders-59-billion-135556008.html"
     }
   ]
 }

@@ -1,13 +1,27 @@
 {
   "ticker": "STX",
-  "generated_at": "2026-08-14T09:03:50.266384+00:00",
+  "generated_at": "2026-08-14T12:53:00.747347+00:00",
   "items": [
     {
-      "title": "Dow Jones Futures: S&P 500 Hits High On Workday, Sandisk, Oil Prices; Applied Materials Earnings Late",
+      "title": "Dow Jones Futures: Sandisk, Memory Stocks Extend Gains; Applied Materials Tumbles",
       "summary": "The S&P 500 hits a new high after a constructive pause. Workday and Sandisk lifted software and memory plays. Applied Materials fell late on earnings.",
-      "pub_date": "2026-08-14T03:05:31Z",
+      "pub_date": "2026-08-14T12:20:22Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-high-workday-sandisk-oil-prices-applied-materials-earnings/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "U.S. Futures Steady After Closing Higher",
+      "summary": "U.S. futures were flat lower after climbing in the previous session on soft inflation data.",
+      "pub_date": "2026-08-14T11:11:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/u-futures-steady-closing-higher-111100706.html"
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights Seagate Technology and NVIDIA",
+      "summary": "Seagate's AI-driven storage boom is fueling sharp revenue and margin growth, with strong fiscal 2027 guidance pointing to more momentum ahead.",
+      "pub_date": "2026-08-14T09:21:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-seagate-092100251.html"
     },
     {
       "title": "Sandisk Stock Jumps On Bullish Outlook, Leads Memory Names Higher",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-13T19:11:49Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/memory-stocks-stay-strong-sandisk-191149116.html"
-    },
-    {
-      "title": "The AI Stock Nobody Is Talking About - but Could Be a Big Winner",
-      "summary": "Seagate's AI-driven storage demand, rising margins and strong cash flow could make it the next big AI infrastructure winner.",
-      "pub_date": "2026-08-13T19:00:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-nobody-talking-could-190000300.html"
-    },
-    {
-      "title": "Surging Earnings Estimates Signal Upside for Seagate (STX) Stock",
-      "summary": "Seagate (STX) shares have started gaining and might continue moving higher in the near term, as indicated by solid earnings estimate revisions.",
-      "pub_date": "2026-08-13T16:20:03Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/surging-earnings-estimates-signal-upside-162003075.html"
     }
   ]
 }

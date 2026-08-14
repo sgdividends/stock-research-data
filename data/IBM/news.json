@@ -1,7 +1,21 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-08-14T09:03:22.745906+00:00",
+  "generated_at": "2026-08-14T12:52:29.593688+00:00",
   "items": [
+    {
+      "title": "Should IBM\u2019s (IBM) OpenAI and Together AI Deals Recast Its Role in Enterprise AI Infrastructure?",
+      "summary": "Earlier this week, International Business Machines Corporation announced a wide-ranging partnership with OpenAI and a multi\u2011year US$240 million agreement with Together AI to deploy NVIDIA-powered AI infrastructure on IBM Cloud for large\u2011scale open\u2011source model inference. By embedding OpenAI\u2019s frontier models directly into IBM Consulting and standing up a dedicated OpenAI Practice, IBM is signaling an intensified push to become a core enterprise AI implementation partner across regulated...",
+      "pub_date": "2026-08-14T12:11:44Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-ibm-openai-together-ai-121144216.html"
+    },
+    {
+      "title": "He Just Wanted a Gym Reservation. His AI Assistant Committed a Cyberattack Instead.",
+      "summary": "When Andrew asked his AI assistant to grab him a spot in a gym class, the agent found a shortcut he never approved. Now lawyers in multiple countries are arguing about who exactly committed a crime.",
+      "pub_date": "2026-08-14T11:23:46Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/just-wanted-gym-reservation-ai-112346261.html"
+    },
     {
       "title": "IBM partners with OpenAI to bolster enterprise AI push",
       "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-13T12:54:25Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mostly-flat-125425422.html"
-    },
-    {
-      "title": "IBM Makes Massive OpenAI Push, Plans Thousands-Strong AI Practice Weeks After CEO Admitted It \u2018Did Not Move Quickly Enough\u2019",
-      "summary": "IBM Consulting will integrate OpenAI\u2019s frontier models and products into its AI platform while launching a dedicated OpenAI Practice with thousands of consultants and engineers.",
-      "pub_date": "2026-08-13T11:02:42Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-makes-massive-openai-push-110242849.html"
-    },
-    {
-      "title": "IBM and OpenAI Launch Enterprise AI Partnership With GPT-5.6 Integration",
-      "summary": "IBM (NYSE:IBM) announced a strategic partnership with OpenAI on August 13, 2026, aimed at bringing advanced artificial intelligence models and products into IBM Consulting\u2019s enterprise AI delivery platform. The collaboration will target large-scale deployments across industries including financial services, government, telecommunications and retail, with GPT-5.",
-      "pub_date": "2026-08-13T10:26:38Z",
-      "source": "InvestorsHub",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-openai-launch-enterprise-ai-102638754.html"
     }
   ]
 }

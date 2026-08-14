@@ -1,6 +1,6 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-08-14T09:03:03.457091+00:00",
+  "generated_at": "2026-08-14T12:52:09.125092+00:00",
   "items": [
     {
       "title": "Stock market today: S&P 500 notches record high, Nasdaq rallies after soft inflation data",
@@ -17,6 +17,20 @@
       "url": "https://finance.yahoo.com/markets/article/stocks-rise-on-broad-sector-strength-alphacheck-135545759.html"
     },
     {
+      "title": "Dow Jones Futures: Sandisk, Memory Stocks Extend Gains; Applied Materials Tumbles",
+      "summary": "The S&P 500 hits a new high after a constructive pause. Workday and Sandisk lifted software and memory plays. Applied Materials fell late on earnings.",
+      "pub_date": "2026-08-14T12:20:22Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-high-workday-sandisk-oil-prices-applied-materials-earnings/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "S&P 500, Nasdaq Futures Pause Near Record Highs: Why SPCX, AMAT, SNDK, CSCO, CAPR, SLS, ONDS Stocks Are In Focus",
+      "summary": "Retail sentiment on Stocktwits remained improved to \u2018bullish\u2019 on SPY and remained \u2018bearish\u2019 on QQQ.",
+      "pub_date": "2026-08-14T08:49:21Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-futures-pause-084921844.html"
+    },
+    {
       "title": "CSCO Stock In Focus: Wall Street Sees More Upside As AI Demand Fuels Cisco\u2019s \u2018Networking Supercycle\u2019",
       "summary": "Cisco Systems gains Wall Street confidence as Truist, UBS and Rosenblatt raise price targets, citing strong results, AI demand, and networking growth.",
       "pub_date": "2026-08-14T05:23:38Z",
@@ -31,13 +45,6 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/chuck-robbins-says-ai-fueling-031300596.html"
     },
     {
-      "title": "Dow Jones Futures: S&P 500 Hits High On Workday, Sandisk, Oil Prices; Applied Materials Earnings Late",
-      "summary": "The S&P 500 hits a new high after a constructive pause. Workday and Sandisk lifted software and memory plays. Applied Materials fell late on earnings.",
-      "pub_date": "2026-08-14T03:05:31Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-high-workday-sandisk-oil-prices-applied-materials-earnings/?src=A00220&yptr=yahoo"
-    },
-    {
       "title": "Why Coherent Stock Jumped Before Its Own Results Landed",
       "summary": "The gain was set before the results crossed, and its optical peers rose with it.",
       "pub_date": "2026-08-14T01:23:38Z",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-13T23:58:44Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-stock-priced-peak-235844356.html"
-    },
-    {
-      "title": "The Number Cisco Stopped Leading With Explains What You Now Own",
-      "summary": "The recurring-revenue share management once put front and center has slipped while hyperscaler orders became the story.",
-      "pub_date": "2026-08-13T23:29:12Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/number-cisco-stopped-leading-explains-232912762.html"
     }
   ]
 }
