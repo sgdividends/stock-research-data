@@ -1,7 +1,14 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-08-14T01:23:09.276013+00:00",
+  "generated_at": "2026-08-14T05:28:45.608047+00:00",
   "items": [
+    {
+      "title": "'Big Short' Michael Burry takes aim at surging AI stock",
+      "summary": "Betting against AI still looks like a dangerous game. In particular, one fast-growing AI neocloud stock has surged more than 200% in 2026, as investors continue to pour money into companies facilitating the AI boom. Demand looked relentless, and the market\u2019s been pricing in plenty more ...",
+      "pub_date": "2026-08-14T02:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/big-short-michael-burry-takes-020300848.html"
+    },
     {
       "title": "CoreWeave Is Winning On Price And Racing Its Own Interest Bill",
       "summary": "What changed against expectations was pricing power rather than the revenue line, and the open question is how fast scale turns into margin against the cost of the debt behind the build.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-13T17:27:24Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/technology/ai/articles/quantinuum-cloud-deal-oracle-sends-172724678.html"
-    },
-    {
-      "title": "What Is Oracle (ORCL) Building With Its New AI And Quantum Deals?",
-      "summary": "Oracle (NYSE: ORCL) extended its long term collaboration with Amazon Web Services to help enterprises run Oracle AI Database workloads on AWS. The companies aim to accelerate cloud adoption for large enterprise customers by making Oracle services more accessible on AWS infrastructure. Quantinuum entered a partnership with Oracle to deliver hybrid quantum computing services through Oracle Cloud Infrastructure. The Quantinuum collaboration is intended to add quantum capabilities to Oracle...",
-      "pub_date": "2026-08-13T16:10:43Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-building-ai-quantum-161043534.html"
     }
   ]
 }

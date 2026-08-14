@@ -1,13 +1,20 @@
 {
   "ticker": "MU",
-  "generated_at": "2026-08-14T01:23:04.948994+00:00",
+  "generated_at": "2026-08-14T05:28:41.423366+00:00",
   "items": [
     {
       "title": "Dow Jones Futures: S&P 500 Hits High On Workday, Sandisk, Oil Prices; Applied Materials Earnings Late",
-      "summary": "The S&P 500 hit a new high amid lower oil prices. Workday and Sandisk lifted software and memory plays. Applied Materials fell late on earnings.",
-      "pub_date": "2026-08-14T01:16:41Z",
+      "summary": "The S&P 500 hits a new high after a constructive pause. Workday and Sandisk lifted software and memory plays. Applied Materials fell late on earnings.",
+      "pub_date": "2026-08-14T03:05:31Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-high-workday-sandisk-oil-prices-applied-materials-earnings/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "'Big Short' Michael Burry takes aim at surging AI stock",
+      "summary": "Betting against AI still looks like a dangerous game. In particular, one fast-growing AI neocloud stock has surged more than 200% in 2026, as investors continue to pour money into companies facilitating the AI boom. Demand looked relentless, and the market\u2019s been pricing in plenty more ...",
+      "pub_date": "2026-08-14T02:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/big-short-michael-burry-takes-020300848.html"
     },
     {
       "title": "Sandisk Stock Jumps On Bullish Outlook, Leads Memory Names Higher",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-13T20:13:07Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/options/articles/michael-burry-loads-qqq-puts-201307885.html"
-    },
-    {
-      "title": "Micron Stock Keeps Rallying. Watch Out for This New Memory-Chip Rival.",
-      "summary": "Despite Thursday\u2019s surge, the company fell behind in the second quarter among suppliers of NAND memory chips.",
-      "pub_date": "2026-08-13T20:08:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/micron-stock-chinese-memory-chip-threat-5e35bf6e?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

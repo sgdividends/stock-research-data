@@ -1,6 +1,6 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-08-14T01:22:28.339796+00:00",
+  "generated_at": "2026-08-14T05:28:05.583998+00:00",
   "items": [
     {
       "title": "Stock market today: S&P 500 notches record high, Nasdaq rallies after soft inflation data",
@@ -17,11 +17,25 @@
       "url": "https://finance.yahoo.com/markets/article/stocks-rise-on-broad-sector-strength-alphacheck-135545759.html"
     },
     {
+      "title": "Chuck Robbins Says AI Is Fueling a \"Networking Supercycle.\" Cisco's Guide Puts a $7.5 Billion Number on It.",
+      "summary": "The networking giant's new outlook calls for 15% growth -- so why did shares drop more than 8%?",
+      "pub_date": "2026-08-14T03:13:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/chuck-robbins-says-ai-fueling-031300596.html"
+    },
+    {
       "title": "Dow Jones Futures: S&P 500 Hits High On Workday, Sandisk, Oil Prices; Applied Materials Earnings Late",
-      "summary": "The S&P 500 hit a new high amid lower oil prices. Workday and Sandisk lifted software and memory plays. Applied Materials fell late on earnings.",
-      "pub_date": "2026-08-14T01:16:41Z",
+      "summary": "The S&P 500 hits a new high after a constructive pause. Workday and Sandisk lifted software and memory plays. Applied Materials fell late on earnings.",
+      "pub_date": "2026-08-14T03:05:31Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-high-workday-sandisk-oil-prices-applied-materials-earnings/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Why Coherent Stock Jumped Before Its Own Results Landed",
+      "summary": "The gain was set before the results crossed, and its optical peers rose with it.",
+      "pub_date": "2026-08-14T01:23:38Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-coherent-stock-jumped-own-012338236.html"
     },
     {
       "title": "Arista Networks Stock Is Priced For Its Peak Margin",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-13T23:13:44Z",
       "source": "Reuters Videos",
       "url": "https://finance.yahoo.com/video/p-500-notches-record-high-231344253.html"
-    },
-    {
-      "title": "Stock Market Today, Aug. 13: Cisco Falls on Margin Concerns Despite Record Revenue and AI Demand",
-      "summary": "Today, Aug. 13, 2026, the networking giant's stock tumbled 8.4% after earnings, as investors weighed hyperscaler AI orders against gross margin headwinds.",
-      "pub_date": "2026-08-13T21:18:32Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-13-211832586.html"
-    },
-    {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "summary": "Find insight on Cisco, Cerebras Systems and more in the latest Market Talks covering technology, media and telecom.",
-      "pub_date": "2026-08-13T21:13:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-87c2e936?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

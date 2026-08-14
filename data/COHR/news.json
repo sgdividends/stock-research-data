@@ -1,13 +1,20 @@
 {
   "ticker": "COHR",
-  "generated_at": "2026-08-14T01:22:26.256786+00:00",
+  "generated_at": "2026-08-14T05:28:03.445616+00:00",
   "items": [
     {
       "title": "Dow Jones Futures: S&P 500 Hits High On Workday, Sandisk, Oil Prices; Applied Materials Earnings Late",
-      "summary": "The S&P 500 hit a new high amid lower oil prices. Workday and Sandisk lifted software and memory plays. Applied Materials fell late on earnings.",
-      "pub_date": "2026-08-14T01:16:41Z",
+      "summary": "The S&P 500 hits a new high after a constructive pause. Workday and Sandisk lifted software and memory plays. Applied Materials fell late on earnings.",
+      "pub_date": "2026-08-14T03:05:31Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-high-workday-sandisk-oil-prices-applied-materials-earnings/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Why Coherent Stock Jumped Before Its Own Results Landed",
+      "summary": "The gain was set before the results crossed, and its optical peers rose with it.",
+      "pub_date": "2026-08-14T01:23:38Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-coherent-stock-jumped-own-012338236.html"
     },
     {
       "title": "Sandisk, Cisco, Micron, Ondas, Coherent, Cerebras, and More Stocks That Explain Today\u2019s Market",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-13T16:54:59Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-coherent-stock-falling-thursday-165459079.html"
-    },
-    {
-      "title": "Understand How Coherent and Lumentum Bypass an AI Bottleneck With Optics",
-      "summary": "Copper cables are choking AI clusters, and two optical companies just reported blowout quarters solving that problem in completely opposite ways. One bets on owning every layer of the stack, the other retreats to the single ingredient nobody else can replicate.",
-      "pub_date": "2026-08-13T16:51:42Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/understand-coherent-lumentum-bypass-ai-165142376.html"
     }
   ]
 }

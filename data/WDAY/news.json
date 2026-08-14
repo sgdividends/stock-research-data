@@ -1,11 +1,18 @@
 {
   "ticker": "WDAY",
-  "generated_at": "2026-08-14T01:23:33.817450+00:00",
+  "generated_at": "2026-08-14T05:29:07.718416+00:00",
   "items": [
     {
+      "title": "Workday stock surges on report of acquisition talks with Silver Lake",
+      "summary": "Workday stock surged after a report of a possible takeover by private equity firm Silver Lake.",
+      "pub_date": "2026-08-13T19:37:28Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/workday-stock-surges-on-report-of-acquisition-talks-with-silver-lake-193728087.html"
+    },
+    {
       "title": "Dow Jones Futures: S&P 500 Hits High On Workday, Sandisk, Oil Prices; Applied Materials Earnings Late",
-      "summary": "The S&P 500 hit a new high amid lower oil prices. Workday and Sandisk lifted software and memory plays. Applied Materials fell late on earnings.",
-      "pub_date": "2026-08-14T01:16:41Z",
+      "summary": "The S&P 500 hits a new high after a constructive pause. Workday and Sandisk lifted software and memory plays. Applied Materials fell late on earnings.",
+      "pub_date": "2026-08-14T03:05:31Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-high-workday-sandisk-oil-prices-applied-materials-earnings/?src=A00220&yptr=yahoo"
     },
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-13T20:07:58Z",
       "source": "Kiplinger",
       "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-hits-high-sandisk-200758145.html"
-    },
-    {
-      "title": "S&P 500 Rides AI Stock Rally to Fresh Record High",
-      "summary": "The S&P 500 cruised through the latest round of earnings reports and inflation data to close at a record high on Thursday.  The Nasdaq Composite was up 0.8%.  Artificial intelligence stocks were once again at the vanguard, but a broad collection of S&P 500 stocks closed higher.",
-      "pub_date": "2026-08-13T20:01:33Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-081326/card/s-p-500-rides-ai-stock-rally-to-fresh-record-high-RdlwEhtwK7D37Wrf6MDB?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
