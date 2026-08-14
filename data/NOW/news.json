@@ -1,7 +1,21 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-08-14T12:52:47.349796+00:00",
+  "generated_at": "2026-08-14T16:49:46.282395+00:00",
   "items": [
+    {
+      "title": "JPMorgan Turns Bullish on Salesforce as the Stock Runs Three Straight Weeks",
+      "summary": "Salesforce spent most of 2026 in freefall while the broader market rewarded every AI story except its own, but something shifted recently and now one major Wall Street bank is changing its tune in a big way.",
+      "pub_date": "2026-08-14T15:30:45Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-turns-bullish-salesforce-stock-153045939.html"
+    },
+    {
+      "title": "ServiceNow CFO: Trillions are being spent on AI initiatives. Are companies asking these 3 key questions?",
+      "summary": "Businesses are under pressure to move fast and stay agile as they decide where to focus investments. Urgent decisions have to be made under uncertainty.",
+      "pub_date": "2026-08-14T12:30:00Z",
+      "source": "Fortune",
+      "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-cfo-trillions-being-spent-123000082.html"
+    },
     {
       "title": "UiPath Stock Carries A Market Multiple On Earnings And A Premium On Sales",
       "summary": "Its operating margin is a fraction of the market's while its net margin sits above the market's, which is where the earnings comparison stops being about the business.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-12T20:15:51Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/wells-fargo-fresh-message-microsoft-201551159.html"
-    },
-    {
-      "title": "What\u2019s Going On With ServiceNow (NOW)?",
-      "summary": "ServiceNow (NOW) is back in focus after a beat and raise second quarter, where revenue and profitability came in ahead of company guidance and annual subscription revenue expectations were lifted. See our latest analysis for ServiceNow. Recent moves in ServiceNow\u2019s share price suggest momentum has picked up again, with a 30 day share price return of 18.41% and a 90 day return of 46.51%, even though the year to date share price return is still down 13.50% and the 1 year total shareholder...",
-      "pub_date": "2026-08-12T20:09:32Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/going-servicenow-now-200932943.html"
-    },
-    {
-      "title": "Wall Street May Be Sleeping on This AI Growth Story, The Stock Has 97% Upside",
-      "summary": "ServiceNow just delivered one of enterprise software's strongest quarters on record, yet the stock sits 25% below its 52-week high. Something in that disconnect is driving a bold call from our analysts, and the reasoning behind it challenges the market's entire read on AI monetization.",
-      "pub_date": "2026-08-12T15:30:48Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-may-sleeping-ai-153048065.html"
     }
   ]
 }

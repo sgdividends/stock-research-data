@@ -1,7 +1,14 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-08-14T12:52:05.806820+00:00",
+  "generated_at": "2026-08-14T16:49:04.635462+00:00",
   "items": [
+    {
+      "title": "Billionaire Investor Makes Huge Bet on Two AI Stocks",
+      "summary": "Baupost is leaning harder into a costly AI buildout",
+      "pub_date": "2026-08-14T16:03:30Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-investor-makes-huge-bet-160330451.html"
+    },
     {
       "title": "Bleeding-Edge AI Meets Cutting-Edge Finance. Is This Peak AI?",
       "summary": "These new futures contracts would allow investors to hedge and speculate on the cost of renting chips that machines need to train and run AI models.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-13T11:15:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/stocks/u-s-futures-edge-higher-after-subdued-inflation-data-74bd7dc4?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "CME Group Averaged a Record 27 Million Contracts a Day in July. Here's Why an Unsettled Fed Is Its Best Customer.",
-      "summary": "CME stock is up 10% over the past month.",
-      "pub_date": "2026-08-12T23:25:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/options/articles/cme-group-averaged-record-27-232500574.html"
     }
   ]
 }

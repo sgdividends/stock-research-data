@@ -1,11 +1,32 @@
 {
   "ticker": "UNH",
-  "generated_at": "2026-08-14T12:53:07.615715+00:00",
+  "generated_at": "2026-08-14T16:50:09.025900+00:00",
   "items": [
+    {
+      "title": "Luigi Mangione Pleads Guilty to Federal Charges in Killing of Insurance Executive",
+      "summary": "He admitted in court to killing UnitedHealthcare leader Brian Thompson, but a state murder trial still looms.",
+      "pub_date": "2026-08-14T16:15:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/us-news/luigi-mangione-pleads-guilty-to-federal-charges-in-killing-of-insurance-executive-7a7f4272?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Can CVS Sustain Its 2026 Recovery After Raising Earnings Guidance?",
+      "summary": "CVS Health is rebuilding momentum as Aetna drives stronger profits and higher 2026 guidance, but medical costs and PBM changes could test the recovery.",
+      "pub_date": "2026-08-14T15:01:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/healthcare/articles/cvs-sustain-2026-recovery-raising-150100845.html"
+    },
+    {
+      "title": "How CVS Is Building on Its Consumer-Health Care Technology Push",
+      "summary": "CVS Health advances its $20 billion technology push with AI tools, Health100 and automation aimed at simplifying care and improving engagement.",
+      "pub_date": "2026-08-14T14:39:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/healthcare/articles/cvs-building-consumer-health-care-143900575.html"
+    },
     {
       "title": "\u2018I didn\u2019t know what else to do\u2019: Patients take their health-insurance battles to Facebook and LinkedIn",
       "summary": "Pushed to their limits, patients are turning to social media to plead for help getting their medical care covered.",
-      "pub_date": "2026-08-14T12:28:00Z",
+      "pub_date": "2026-08-14T14:13:00Z",
       "source": "MarketWatch",
       "url": "https://www.yahoo.com/news/us/articles/didn-t-know-else-patients-211400539.html"
     },
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-12T18:33:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/healthcare/articles/unhs-lower-medical-costs-sustain-183300996.html"
-    },
-    {
-      "title": "Mark Cuban Urges Investors to Pressure Health Insurers Over Healthcare Costs: \u2018You Can Make a Difference\u2019",
-      "summary": "Mark Cuban on Monday urged investors to pressure major U.S. health insurers to address healthcare costs, calling on funds that hold shares in the industry to consider divesting their positions unless insurers change their practices. Shareholders in the Spotlight The...",
-      "pub_date": "2026-08-12T13:31:05Z",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/healthcare/articles/mark-cuban-urges-investors-pressure-133105638.html"
-    },
-    {
-      "title": "This Buffett Oil Stock Is Quietly Outperforming Chevron Under Greg Abel. Is It Worth Buying Now?",
-      "summary": "Occidental Petroleum has outperformed even Berkshire's other top energy investment, but the future hinges on another crude oil price spike.",
-      "pub_date": "2026-08-11T19:25:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buffett-oil-stock-quietly-outperforming-192500911.html"
-    },
-    {
-      "title": "Is UnitedHealth's Margin Going Back To What It Was?",
-      "summary": "UnitedHealth's operating margin has dropped well below its own long-run level, and by the company's own account the repair in its commercial business is a multi-year job rather than a finished one.",
-      "pub_date": "2026-08-11T19:23:07Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/healthcare/articles/unitedhealths-margin-going-back-192307730.html"
     }
   ]
 }
