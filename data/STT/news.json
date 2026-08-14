@@ -1,7 +1,14 @@
 {
   "ticker": "STT",
-  "generated_at": "2026-08-14T16:50:01.653515+00:00",
+  "generated_at": "2026-08-14T20:26:08.617724+00:00",
   "items": [
+    {
+      "title": "SEC Prepares to Ease Rule on Wall Street Political Donations",
+      "summary": "The US Securities and Exchange Commission is proposing to ease a rule that restricts investment advisers from working for public pension funds if they\u2019ve made political donations to state and local elected officials.",
+      "pub_date": "2026-08-14T16:02:39Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/economy/policy/articles/sec-prepares-ease-rule-wall-160239601.html"
+    },
     {
       "title": "Which Aviation ETF Is the Better Buy: State Street's Defense-Focused XAR or U.S. Global's Airline-Centric JETS?",
       "summary": "State Street's aerospace fund turned $1,000 into $2,346 over five years, while the airline-focused competitor lagged with a steeper drawdown.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-12T11:14:18Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/markets/currencies/articles/world-beating-rand-carry-lures-111418092.html"
-    },
-    {
-      "title": "Private Market ETFs May Have an Institutional Problem",
-      "summary": "Funds designed to democratize private markets are attracting plenty of big-money buyers.",
-      "pub_date": "2026-08-12T04:02:00Z",
-      "source": "The Daily Upside",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/private-market-etfs-may-institutional-040200647.html"
     }
   ]
 }

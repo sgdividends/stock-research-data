@@ -1,7 +1,14 @@
 {
   "ticker": "BKR",
-  "generated_at": "2026-08-14T16:48:57.857349+00:00",
+  "generated_at": "2026-08-14T20:25:14.720663+00:00",
   "items": [
+    {
+      "title": "US Oil Drillers Add Even More Rigs As Oil Prices Stay Higher",
+      "summary": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday",
+      "pub_date": "2026-08-14T17:07:38Z",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/us-oil-drillers-add-even-170738055.html"
+    },
     {
       "title": "5 LNG Megaprojects Poised to Power the Next Gas Boom",
       "summary": "Qatar, the U.S. and Argentina are driving the next LNG wave, with major projects targeting Asia and Europe as energy security concerns grow.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-11T13:47:42Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/energy/articles/baker-hughes-company-bkr-posted-134742057.html"
-    },
-    {
-      "title": "Baker Hughes wins contract for Kutei Northern Hub subsea systems",
-      "summary": "The company will provide 17 deepwater horizontal tree systems, along with manifolds, connections, and control and distribution systems.",
-      "pub_date": "2026-08-11T09:02:22Z",
-      "source": "Offshore Technology",
-      "url": "https://finance.yahoo.com/energy/articles/baker-hughes-wins-contract-kutei-090222973.html"
     }
   ]
 }

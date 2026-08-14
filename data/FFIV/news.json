@@ -1,7 +1,14 @@
 {
   "ticker": "FFIV",
-  "generated_at": "2026-08-14T16:49:21.530847+00:00",
+  "generated_at": "2026-08-14T20:25:34.277374+00:00",
   "items": [
+    {
+      "title": "1 Profitable Stock to Consider Right Now and 2 We Turn Down",
+      "summary": "Even if a company is profitable, it doesn\u2019t always mean it\u2019s a great investment. Some struggle to maintain growth, face looming threats, or fail to reinvest wisely, limiting their future potential.",
+      "pub_date": "2026-08-14T18:29:00Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-consider-now-182900549.html"
+    },
     {
       "title": "Cisco Drops 7% on Gross Margin Fears: Five Firms Raise CSCO Price Target Anyway",
       "summary": "Cisco beat earnings, crushed revenue estimates, and racked up billions in AI orders, yet the stock cratered 7% anyway. Five analyst firms still raised their price targets, but the spread between the most bearish and most bullish tells a story of deep Wall Street disagreement about where Cisco goes from here.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-07-29T14:05:09Z",
       "source": "FX Empire",
       "url": "https://finance.yahoo.com/markets/stocks/articles/f5-rises-ai-demand-turns-140509166.html"
-    },
-    {
-      "title": "F5 (FFIV) Launches AI Fleet Management To Speed BIG IP Security Fixes",
-      "summary": "F5 (NasdaqGS:FFIV) has introduced AI driven fleet management capabilities in F5 Insight for ADSP. The new features are designed to help enterprises address security vulnerabilities in BIG-IP environments more quickly. The update focuses on AI automation, governance and auditability for large scale application security deployments. F5 is deepening its focus on security centric infrastructure management at a time when enterprises are rethinking how they handle application traffic and...",
-      "pub_date": "2026-07-29T09:09:58Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/f5-ffiv-launches-ai-fleet-090958095.html"
     }
   ]
 }

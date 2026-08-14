@@ -1,7 +1,14 @@
 {
   "ticker": "MCHP",
-  "generated_at": "2026-08-14T16:49:40.333751+00:00",
+  "generated_at": "2026-08-14T20:25:51.584475+00:00",
   "items": [
+    {
+      "title": "Is Microchip Technology (MCHP) Fully Valued After Strong AI Led Growth?",
+      "summary": "Microchip Technology stock has delivered a 20.9% gain over the past year, yet the latest valuation work suggests the shares now trade at a premium, with both the market multiple checks and a Discounted Cash Flow (DCF) intrinsic value estimate pointing to an overvalued picture. Over the last 12 months, Microchip Technology is up 20.9%, which puts recent buyers in profit while raising the question of how much upside is already reflected in the price. Recent demand for chips used in AI data...",
+      "pub_date": "2026-08-14T19:09:14Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microchip-technology-mchp-fully-valued-190914847.html"
+    },
     {
       "title": "Microchip Technology (MCHP) Unveiled A Space Atomic Clock For Satellites",
       "summary": "Microchip Technology (NasdaqGS:MCHP) announced a new radiation tolerant Space CSAC SA65 atomic clock for satellite systems, aimed at compact and energy efficient timing in orbit. The company also introduced a major upgrade to its PolarFire FPGA Ethernet Sensor Bridge to support AI driven edge sensor connectivity for cameras. The updated sensor bridge targets robotics, medical and industrial uses that rely on NVIDIA based platforms and tighter latency control at the edge. These launches...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-12T16:06:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/investors-buy-mpwr-ai-growth-160600762.html"
-    },
-    {
-      "title": "MPWR Raises 2026 Enterprise Data Growth Floor as AI Demand Surges",
-      "summary": "MPWR lifts its 2026 Enterprise Data growth floor to 130% as AI and server demand surge, while new data-center products widen its growth opportunity.",
-      "pub_date": "2026-08-12T16:05:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mpwr-raises-2026-enterprise-data-160500435.html"
     }
   ]
 }

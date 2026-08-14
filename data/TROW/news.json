@@ -1,7 +1,14 @@
 {
   "ticker": "TROW",
-  "generated_at": "2026-08-14T16:50:06.397636+00:00",
+  "generated_at": "2026-08-14T20:26:12.179167+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Edge Lower Late Afternoon",
+      "summary": "Financial stocks were slightly lower in late Friday afternoon trading, with the NYSE Financial Index",
+      "pub_date": "2026-08-14T19:56:59Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-edge-lower-195659801.html"
+    },
     {
       "title": "Comex Gold Settles 1.03% Lower at $4363.60",
       "summary": "Gold settled 1% lower, snapping a four-session winning streak, while silver also fell 1%, down two of the past three sessions.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-10T13:20:00Z",
       "source": "CryptoProwl",
       "url": "https://finance.yahoo.com/markets/crypto/articles/t-rowe-price-defends-meme-132000495.html"
-    },
-    {
-      "title": "5 Insightful Analyst Questions From T. Rowe Price\u2019s Q2 Earnings Call",
-      "summary": "T. Rowe Price\u2019s second quarter results were met with a negative reaction from the market, reflecting concerns about persistent outflows in active equity products and ongoing fee pressure. Management acknowledged that although certain areas like integrated strategies and active ETFs saw net positive inflows, the company continues to face headwinds from client migration toward lower-fee vehicles and muted demand in traditional mutual funds. CEO Rob Sharps described the active equity environment as",
-      "pub_date": "2026-08-10T00:45:22Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/5-insightful-analyst-questions-t-004522343.html"
     }
   ]
 }

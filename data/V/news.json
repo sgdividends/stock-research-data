@@ -1,7 +1,21 @@
 {
   "ticker": "V",
-  "generated_at": "2026-08-14T16:50:09.833000+00:00",
+  "generated_at": "2026-08-14T20:26:15.481579+00:00",
   "items": [
+    {
+      "title": "Solana is about to cut transaction finality by nearly 99%",
+      "summary": "Solana is about to get significantly faster. A major upgrade expected to land in September will cut transaction finality from 12.8 seconds to approximately 150 milliseconds, a reduction of nearly 99% that developers say will make the network feel almost instantaneous for end users. The ...",
+      "pub_date": "2026-08-14T17:03:50Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/solana-cut-transaction-finality-nearly-170350732.html"
+    },
+    {
+      "title": "PayPal Stock Surged On A Profit Shift Management Had Already Spelled Out",
+      "summary": "The businesses that produced this recovery were named in the company's own reports well before the shares moved.",
+      "pub_date": "2026-08-14T16:43:44Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-stock-surged-profit-shift-164344144.html"
+    },
     {
       "title": "Bill Ackman Moves Stocks. These 5 Prove It.",
       "summary": "Netflix, Visa and other stocks rose on the news that Bill Ackman was investing in them. The billionaire focuses on buying what he views as high-quality growth companies.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-13T19:47:00Z",
       "source": "CryptoProwl",
       "url": "https://finance.yahoo.com/markets/crypto/articles/chime-financial-considers-adding-stablecoins-194700898.html"
-    },
-    {
-      "title": "Mastercard Stock Rises as Ackman Targets Agentic Commerce",
-      "summary": "Mastercard's faster-growing services business could capture additional economics as AI agents initiate and authenticate more commercial transactions.",
-      "pub_date": "2026-08-13T19:11:28Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-stock-rises-ackman-targets-191128954.html"
-    },
-    {
-      "title": "Bill Ackman Buys Back Into Netflix Four Years After Selling at a Loss",
-      "summary": "Ackman adds six new holdings across his funds, the biggest overhaul in years",
-      "pub_date": "2026-08-13T19:10:39Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-buys-back-netflix-191039109.html"
     }
   ]
 }

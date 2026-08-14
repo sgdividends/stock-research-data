@@ -1,7 +1,14 @@
 {
   "ticker": "MS",
-  "generated_at": "2026-08-14T16:49:43.574117+00:00",
+  "generated_at": "2026-08-14T20:25:54.713735+00:00",
   "items": [
+    {
+      "title": "Nvidia\u2019s $500 Billion Plan Envelops Wall Street in Its AI Frenzy",
+      "summary": "Goldman Sachs Group Inc., Blackstone Inc. and Apollo Global Management Inc. had been working tirelessly for months to draw up debt deals that would help developers of artificial intelligence systems pay for chips from Nvidia Corp.",
+      "pub_date": "2026-08-14T16:42:09Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-500-billion-plan-envelops-164209178.html"
+    },
     {
       "title": "Morgan Stanley, JPMorgan Increase Crypto ETF Holdings in Q2",
       "summary": "Major US banks Morgan Stanley (NYSE: $MS) and JPMorgan (NYSE: $JPM) increased their holdings of cryptoinvestment pr...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-13T15:14:16Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/technology/ai/articles/amd-raise-much-5-billion-151416792.html"
-    },
-    {
-      "title": "Morgan Stanley doubles down on SpaceX stock for investors",
-      "summary": "There is a number making the rounds on Wall Street right now that would have seemed disconnected from reality 12 months ago: a $600 price target for a company that went public at $135 in June and briefly fell below that listing price within weeks of trading. That kind of number does not get ...",
-      "pub_date": "2026-08-13T15:07:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-doubles-down-spacex-150700734.html"
     }
   ]
 }

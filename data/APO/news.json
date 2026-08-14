@@ -1,7 +1,28 @@
 {
   "ticker": "APO",
-  "generated_at": "2026-08-14T16:48:53.563950+00:00",
+  "generated_at": "2026-08-14T20:25:10.628288+00:00",
   "items": [
+    {
+      "title": "NVIDIA Stock Holds Flat as $500 Billion AI Plan Takes Shape",
+      "summary": "Six major financial institutions intend to create dedicated capital pools that could help NVIDIA customers finance computing infrastructure.",
+      "pub_date": "2026-08-14T19:12:01Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-holds-flat-500-191201034.html"
+    },
+    {
+      "title": "Broadcom Sinks 6% as BofA Flags $370B in AI Debt, AMD Climbs 4% on Baird\u2019s $1,250 Call",
+      "summary": "Two AI chip giants moved in opposite directions Friday as Wall Street put a massive dollar figure on a financing structure that Broadcom and Nvidia both use, raising questions about which companies benefit from AI's debt-fueled buildout and which carry the hidden risk.",
+      "pub_date": "2026-08-14T18:07:38Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-sinks-6-bofa-flags-180738180.html"
+    },
+    {
+      "title": "Nvidia\u2019s $500 Billion Plan Envelops Wall Street in Its AI Frenzy",
+      "summary": "Goldman Sachs Group Inc., Blackstone Inc. and Apollo Global Management Inc. had been working tirelessly for months to draw up debt deals that would help developers of artificial intelligence systems pay for chips from Nvidia Corp.",
+      "pub_date": "2026-08-14T16:42:09Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-500-billion-plan-envelops-164209178.html"
+    },
     {
       "title": "Michael Burry Calls Nvidia\u2019s $500 Billion AI Financing Push a \u2018Wall Street Stunt\u2019: \u2018Meet the New Boss\u2026'",
       "summary": "Famed investor Michael Burry has targeted Nvidia Corp.\u2019s push to unlock over $500 billion in artificial intelligence infrastructure financing, calling the initiative a \u201cWall Street stunt\u201d that relies on opaque private credit arrangements. Inside Nvidia\u2019s Deal Structure Nvidia recently signed...",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-12T22:36:53Z",
       "source": "Pitchbook",
       "url": "https://finance.yahoo.com/markets/stocks/articles/youve-bought-asset-manager-people-223653941.html"
-    },
-    {
-      "title": "NVIDIA's Jensen Huang Says AI Isn\u2019t Just Tech Anymore \u2014 It\u2019s Infrastructure, and Wall Street Is Financing It",
-      "summary": "NVIDIA Corp. stock gained nearly 1% in Tuesday\u2019s premarket trading as investors weighed fresh efforts to finance large-scale AI infrastructure and GPU deployments. The world\u2019s most valuable chipmaker is seeking to turn AI infrastructure into a major financing opportunity as...",
-      "pub_date": "2026-08-12T21:31:09Z",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-jensen-huang-says-ai-213109451.html"
-    },
-    {
-      "title": "Michael Burry Drops Stark Take on Nvidia Stock",
-      "summary": "A massive financing machine is drawing uncomfortable comparisons",
-      "pub_date": "2026-08-12T20:20:59Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-drops-stark-nvidia-202059624.html"
-    },
-    {
-      "title": "Nvidia (NVDA) Stock Trades Down, Here Is Why",
-      "summary": "Shares of leading designer of graphics chips Nvidia (NASDAQ:NVDA) fell 2.1% in the afternoon session after investors grew concerned about a massive $500 billion financing plan for AI infrastructure and rising competition from major customers.",
-      "pub_date": "2026-08-12T18:05:22Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-nvda-stock-trades-down-180522894.html"
     }
   ]
 }

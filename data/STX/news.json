@@ -1,13 +1,41 @@
 {
   "ticker": "STX",
-  "generated_at": "2026-08-14T16:50:01.835796+00:00",
+  "generated_at": "2026-08-14T20:26:08.765071+00:00",
   "items": [
     {
-      "title": "SpaceX, Sandisk, Micron, Workday, Applied Materials, Reddit, Unusual Machines, and More Stocks That Explain Today\u2019s Market",
-      "summary": "Sandisk trades higher with several Wall Street firms responding positively to the company\u2019s long-term revenue growth plan.",
-      "pub_date": "2026-08-14T16:09:00Z",
+      "title": "Entegris, Penguin Solutions, Seagate, Applied Materials, and KLA Corporation Shares Are Soaring, What You Need To Know",
+      "summary": "A number of stocks jumped in the afternoon session after a wave of upbeat earnings reports and bullish forecasts from key industry players signaled robust and sustained demand for artificial intelligence technology.",
+      "pub_date": "2026-08-14T19:49:00Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/entegris-penguin-solutions-seagate-applied-194900566.html"
+    },
+    {
+      "title": "The AI Stock Everyone Knows - But Few See Becoming a Future Winner",
+      "summary": "Seagate's AI-driven storage demand, expanding margins and strong cash flow point to further growth, despite concerns over storage cyclicality.",
+      "pub_date": "2026-08-14T19:00:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-everyone-knows-few-190000637.html"
+    },
+    {
+      "title": "SanDisk Has Delivered A Return The Index Cannot, And The Swings That Come With It",
+      "summary": "Its correlation to the market is only moderate, so much of what it does is genuinely its own, but the stock has moved several times as far as the index in both directions.",
+      "pub_date": "2026-08-14T18:56:52Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-delivered-return-index-cannot-185652233.html"
+    },
+    {
+      "title": "Sandisk Stock Tops the S&P 500 Today as Analysts Rally Behind Its AI Expansion",
+      "summary": "J.P. Morgan resumes coverage of Sandisk stock while Citi doubles down on its bullish call on the heels of the storage provider\u2019s investor day.",
+      "pub_date": "2026-08-14T17:08:00Z",
       "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-0ed39f6f?siteid=yhoof2&yptr=yahoo"
+      "url": "https://www.barrons.com/articles/sandisk-stock-buy-ai-9c3b7580?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "S&P Slips Back From Records",
+      "summary": "Stocks were slipping, but the S 500 was still on track to end the week near records after a boost from slowing inflation and some AI-related stocks.",
+      "pub_date": "2026-08-14T16:44:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/u-futures-steady-closing-higher-111100706.html"
     },
     {
       "title": "Seagate Technology Holdings (STX) Following Strong FY2026 Results Looks Undervalued By The Narrative",
@@ -15,13 +43,6 @@
       "pub_date": "2026-08-14T14:12:20Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-technology-holdings-stx-following-141220142.html"
-    },
-    {
-      "title": "S&P Steady After Record Close",
-      "summary": "Stocks moved higher with the S 500 on track to end the week at a record high after a boost from slowing inflation and some AI-related stocks.",
-      "pub_date": "2026-08-14T13:49:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/u-futures-steady-closing-higher-111100706.html"
     },
     {
       "title": "Sandisk Jumps 7%, Western Digital Gains 4%, Micron Climbs 3% as the Kospi Returns to a Bull Market",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-14T12:20:22Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-high-workday-sandisk-oil-prices-applied-materials-earnings/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "The Zacks Analyst Blog Highlights Seagate Technology and NVIDIA",
-      "summary": "Seagate's AI-driven storage boom is fueling sharp revenue and margin growth, with strong fiscal 2027 guidance pointing to more momentum ahead.",
-      "pub_date": "2026-08-14T09:21:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-seagate-092100251.html"
-    },
-    {
-      "title": "Sandisk Stock Jumps On Bullish Outlook, Leads Memory Names Higher",
-      "summary": "Sandisk stock jumped after the memory-chip maker gave an upbeat presentation at an analyst meeting in New York City.",
-      "pub_date": "2026-08-13T22:39:33Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/sandisk-stock-jumps-bullish-outlook-memory-names-follow/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Stock Market Today: Nasdaq 100 Leads Upside; Cerebras Smashed On Earnings, Yet Up For Week (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index rises Thursday after surprise key inflation data. Cisco and AI stock Cerebras plunge on earnings.",
-      "pub_date": "2026-08-13T20:51:23Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-cisco-cerebras-earnings/?src=A00220&yptr=yahoo"
     }
   ]
 }

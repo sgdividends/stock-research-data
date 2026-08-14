@@ -1,7 +1,28 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-08-14T16:49:49.165542+00:00",
+  "generated_at": "2026-08-14T20:25:59.101328+00:00",
   "items": [
+    {
+      "title": "Oracle Stock Drops While $40 Billion Funding Need Looms",
+      "summary": "Oracle's enormous cloud backlog provides demand visibility, but data-center construction continues requiring substantial external capital.",
+      "pub_date": "2026-08-14T19:52:08Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-drops-while-40-195208041.html"
+    },
+    {
+      "title": "Oracle junk bond fears, debt surge sound alarms for investors",
+      "summary": "Oracle'sstock chart looks like a horror movie right now, and the plot keeps getting scarier. Shares of Oracle (ORCL) have fallen almost 50% from its September 2025 peak and are down 20% year-to-date. The recent sell-off is driven by a credit downgrade, a spike in bond insurance costs, and ...",
+      "pub_date": "2026-08-14T17:33:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-junk-bond-fears-debt-173300814.html"
+    },
+    {
+      "title": "Intuit's Options Price A Floor Below Anything The Stock Has Touched In A Year",
+      "summary": "What the options market has priced into Intuit is not a direction but a range wide enough to change how big a position should be.",
+      "pub_date": "2026-08-14T16:33:00Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/intuits-options-price-floor-below-163300472.html"
+    },
     {
       "title": "CoreWeave Is A Diversifier That Does Not Calm The Ride",
       "summary": "A low correlation to the index says the return is genuinely its own, while its behavior on the market's down days says it has not softened them.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-14T14:40:07Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-ramped-bets-against-144007557.html"
-    },
-    {
-      "title": "Michael Burry Doubles Down on Oracle, Micron Nebius Shorts After Saying It's Like 'Shooting Fish in a Barrel'",
-      "summary": "\u201cBig Short\u201d investor Michael Burry is doubling down on his bet against the AI infrastructure boom, adding to short positions in Oracle Corp. (NYSE:ORCL), Micron Technology Inc. (NASDAQ:MU) and Nebius Group (NASDAQ:NBIS) as he predicts an AI compute glut in...",
-      "pub_date": "2026-08-14T14:02:23Z",
-      "source": "Benzinga Prediction Markets",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-doubles-down-oracle-140223032.html"
-    },
-    {
-      "title": "Why Soaring Profit Margins Might Not Be So Sweet",
-      "summary": "Some companies deserve the praise and attention that investors are giving them. Ones whose growing margins come from cutting their labor force don\u2019t, Amir Goren writes.",
-      "pub_date": "2026-08-14T12:47:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/why-soaring-profit-margins-might-not-be-so-sweet-c9de25ea?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Cloud AI Update - AI Re-Architecture: Navigating Modern Data Infrastructure Challenges",
-      "summary": "A recent Cloudera report highlights significant challenges enterprises face in implementing AI projects, with 95% having delayed or canceled initiatives due to infrastructure limitations. The survey findings, from over 1,500 IT architects, indicate a widespread need for overhauling legacy data architectures to support scalable and secure AI across hybrid environments. This shift, termed \"The Great AI Re-Architecture,\" underscores the increasing complexity of data governance and the ongoing...",
-      "pub_date": "2026-08-14T12:38:24Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cloud-ai-ai-architecture-navigating-123824078.html"
     }
   ]
 }
