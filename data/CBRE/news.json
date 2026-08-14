@@ -1,7 +1,14 @@
 {
   "ticker": "CBRE",
-  "generated_at": "2026-08-14T05:27:59.343790+00:00",
+  "generated_at": "2026-08-14T09:02:57.586417+00:00",
   "items": [
+    {
+      "title": "CBRE H1 2026 Cap Rate Survey Finds Sentiment Split",
+      "summary": "CBRE says cap rates held flat in H1 2026 despite volatile Treasury yields, signaling growing uncertainty in CRE pricing.",
+      "pub_date": "2026-08-14T05:50:07Z",
+      "source": "CRE Daily",
+      "url": "https://finance.yahoo.com/real-estate/articles/cbre-h1-2026-cap-rate-055007513.html"
+    },
     {
       "title": "Manhattan Office Rents Rise as Quality Space Tightens",
       "summary": "Manhattan office rents are rising as demand for high-quality space outpaces shrinking supply across prime markets.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-04T06:45:22Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/real-estate/articles/cbre-q2-deep-dive-data-064522645.html"
-    },
-    {
-      "title": "Jones Lang Q2 Earnings Beat Estimates on Leasing & Capital Markets",
-      "summary": "JLL's Q2 earnings beat estimates as Leasing and Capital Markets surge, while it raises 2026 EPS outlook.",
-      "pub_date": "2026-07-31T18:40:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/real-estate/articles/jones-lang-q2-earnings-beat-184000794.html"
     }
   ]
 }

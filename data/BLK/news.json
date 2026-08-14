@@ -1,6 +1,6 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-08-14T05:27:56.485830+00:00",
+  "generated_at": "2026-08-14T09:02:54.715770+00:00",
   "items": [
     {
       "title": "Goldman Sachs wants to turn bitcoin into a yield machine",
@@ -8,6 +8,20 @@
       "pub_date": "2026-08-13T16:20:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/goldman-sachs-wants-turn-bitcoin-162000621.html"
+    },
+    {
+      "title": "Bitcoin Price Risks Another Drop Below $63K as Futures Rally Lacks Spot Demand",
+      "summary": "Bitcoin is hovering near $63,000, with CryptoQuant data showing spot demand weakening while futures demand remains positive. The gap raises the risk that recent BTC ...",
+      "pub_date": "2026-08-14T08:31:54Z",
+      "source": "CCN",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-risks-another-drop-083154040.html"
+    },
+    {
+      "title": "Securitize Q2 Earnings Call Highlights",
+      "summary": "Securitize (NYSE:SECZ) reported second-quarter 2026 revenue of $14.4 million, down 5% from a year earlier, as lower tokenization revenue offset continued growth in asset-servicing revenue. The company, which recently became publicly traded, also reduced its full-year revenue outlook to $70 million t",
+      "pub_date": "2026-08-14T06:04:23Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/securitize-q2-earnings-call-highlights-060423749.html"
     },
     {
       "title": "Fast Money Bets on November RBA Hike in Fight Against Inflation",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-13T17:56:02Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-rallies-upbeat-q2-results-175602745.html"
-    },
-    {
-      "title": "Nvidia\u2019s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts.",
-      "pub_date": "2026-08-13T15:08:00Z",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-500b-plan-risky-brilliant-150800745.html"
-    },
-    {
-      "title": "Are Stablecoins Making XRP Unnecessary?",
-      "summary": "Ripple closed ten major deals in 2026 and not one of them settled in XRP, which raises a question the coin's supporters have struggled to answer about what the token actually does now.",
-      "pub_date": "2026-08-13T14:35:35Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/stablecoins-making-xrp-unnecessary-143535283.html"
     }
   ]
 }

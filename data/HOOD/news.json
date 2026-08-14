@@ -1,6 +1,6 @@
 {
   "ticker": "HOOD",
-  "generated_at": "2026-08-14T05:28:24.662637+00:00",
+  "generated_at": "2026-08-14T09:03:21.174198+00:00",
   "items": [
     {
       "title": "Robinhood's co-founder wants to build AI data centers in space, not in people's backyards",
@@ -15,6 +15,13 @@
       "pub_date": "2026-08-13T10:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/robinhood-co-founders-plans-over-100000790.html"
+    },
+    {
+      "title": "Tom Lee Is Bullish on Stocks, But Braced for a Margin Debt Drop",
+      "summary": "Tom Lee reiterated his S&P 500 target of 8,000 but named a few risks that could still trigger a long awaited pullback.",
+      "pub_date": "2026-08-14T07:47:41Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tom-lee-bullish-stocks-braced-074741114.html"
     },
     {
       "title": "Sector Update: Financial Stocks Rise Late Afternoon",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-13T17:48:39Z",
       "source": "CoinDesk",
       "url": "https://finance.yahoo.com/video/want-invest-yc-startups-robinhood-174839642.html"
-    },
-    {
-      "title": "Robinhood Plans to Speed Up Debuts for Publicly Traded Funds",
-      "summary": "Robinhood cut the time from fund inception to launch from less than a year to six months, with plans to continue accelerating the pace.",
-      "pub_date": "2026-08-13T15:45:09Z",
-      "source": "Wealth Management",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-plans-speed-debuts-publicly-154509280.html"
     }
   ]
 }

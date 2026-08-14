@@ -1,7 +1,14 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-08-14T05:28:45.608047+00:00",
+  "generated_at": "2026-08-14T09:03:40.317240+00:00",
   "items": [
+    {
+      "title": "The Bulls and Bears Are at Each Other\u2019s Throats. Why the Bulls Have an Advantage.",
+      "summary": "Both the yeas and the nays agree that earnings growth has been stellar. But what underpins that strength is a matter of debate.",
+      "pub_date": "2026-08-14T05:30:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stock-market-bulls-c0d2fe25?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "'Big Short' Michael Burry takes aim at surging AI stock",
       "summary": "Betting against AI still looks like a dangerous game. In particular, one fast-growing AI neocloud stock has surged more than 200% in 2026, as investors continue to pour money into companies facilitating the AI boom. Demand looked relentless, and the market\u2019s been pricing in plenty more ...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-13T18:13:15Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/oracle-expands-ai-database-reach-181315882.html"
-    },
-    {
-      "title": "Quantinuum\u2019s Cloud Deal With Oracle Sends Clear Message on Hybrid AI",
-      "summary": "Quantinuum is putting its Helios quantum computer inside Oracle Cloud, pairing quantum power with AI as revenue and bookings surge in Q2.",
-      "pub_date": "2026-08-13T17:27:24Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/technology/ai/articles/quantinuum-cloud-deal-oracle-sends-172724678.html"
     }
   ]
 }
