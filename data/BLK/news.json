@@ -1,6 +1,6 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-08-13T20:35:39.341167+00:00",
+  "generated_at": "2026-08-14T01:22:19.109288+00:00",
   "items": [
     {
       "title": "Goldman Sachs wants to turn bitcoin into a yield machine",
@@ -10,11 +10,25 @@
       "url": "https://finance.yahoo.com/video/goldman-sachs-wants-turn-bitcoin-162000621.html"
     },
     {
+      "title": "At 64, He Moved His 401(k) Away From Stocks. Wall Street May Bring AI Risk Back Through the Bond Side.",
+      "summary": "Wall Street is packaging AI infrastructure debt into products that could quietly enter the conservative sleeve of your retirement portfolio, and the fund label on that side of your account may not tell you what you actually own.",
+      "pub_date": "2026-08-14T01:03:34Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/options/articles/64-moved-401-k-away-010334546.html"
+    },
+    {
       "title": "How Nvidia\u2019s $500 Billion AI Infrastructure Financing Push Could Impact NVIDIA (NVDA) Investors",
       "summary": "Nvidia recently unveiled memorandums of understanding with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, and KKR to create independent compute financing platforms intended to mobilize over US$500.00 billion of third\u2011party capital for global AI infrastructure buildouts across data centers and \u201cAI factories.\u201d This move effectively recasts Nvidia GPUs and systems as long\u2011lived, financeable infrastructure assets, widening access to its platforms while raising fresh questions about...",
       "pub_date": "2026-08-13T18:15:11Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-500-billion-ai-infrastructure-181511541.html"
+    },
+    {
+      "title": "Coreweave Rallies on Upbeat Q2 Results. How to Trade CRWV Stock Here.",
+      "summary": "The company more than doubled revenues and narrowed losses in the quarter.",
+      "pub_date": "2026-08-13T17:56:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-rallies-upbeat-q2-results-175602745.html"
     },
     {
       "title": "Nvidia\u2019s new $500B plan is risky but brilliant, especially for aging GPUs",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-13T14:07:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-sends-strong-signal-140700090.html"
-    },
-    {
-      "title": "How Is Morgan Stanley Strengthening Its Position in Digital Assets?",
-      "summary": "MS is expanding its crypto strategy with Ethereum and Solana ETPs, adding staking and broadening its digital-asset platform.",
-      "pub_date": "2026-08-13T14:06:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-strengthening-position-digital-140600016.html"
-    },
-    {
-      "title": "Nvidia and Broadcom Deepen AI Financing Push \u2014 But Wolfe Sees Long-Term Risks",
-      "summary": "NVIDIA Corporation (NASDAQ:NVDA) and Broadcom Inc. (NASDAQ:AVGO), two of the world\u2019s largest chipmakers, are tapping debt and private capital markets to fund the AI infrastructure boom. These massive financial commitments coming from some of the biggest names in the market signal exceptionally-strong AI compute demand. However, one Wall Street firm, Wolfe Research, believes the same [\u2026]",
-      "pub_date": "2026-08-13T13:19:02Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-broadcom-deepen-ai-financing-131902271.html"
     }
   ]
 }

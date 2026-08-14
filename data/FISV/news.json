@@ -1,7 +1,14 @@
 {
   "ticker": "FISV",
-  "generated_at": "2026-08-13T20:36:01.226148+00:00",
+  "generated_at": "2026-08-14T01:22:41.327639+00:00",
   "items": [
+    {
+      "title": "Hacking group claims mass data theft from Shell, Philips, GE, Fiserv and dozens of others",
+      "summary": "A prolific hacking group known for exploiting software vulnerabilities to attack multiple targets simultaneously claimed it had stolen large volumes of data from nearly \u200c50 companies worldwide, including Philips, Shell, Fiserv and GE, according to a posting on the \u200cgroup's website.  Philips said it had been targeted by Cl0p while Shell said it was aware of a recent \"possible incident\", confirming an \u200bearlier report on Thursday by Dutch media outlet BNR.  \"We are working with our security teams and relevant experts to investigate the situation,\" a Shell spokesperson said.",
+      "pub_date": "2026-08-13T16:06:30Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/technology/articles/philips-shell-targeted-hacking-group-160630644.html"
+    },
     {
       "title": "Fiserv (FISV) Q2 2026 Earnings Call Transcript",
       "summary": "Argentina headwinds and delayed implementations prompt full-year guidance cut.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-10T15:44:21Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-fiserv-154421694.html"
-    },
-    {
-      "title": "Is Fiserv Worth Buying Now After Earnings Cuts and a Deep Valuation?",
-      "summary": "FISV's deep valuation offers appeal, but weaker earnings, falling revenues and margin pressure keep the rebound case tied to stabilization.",
-      "pub_date": "2026-08-10T14:30:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fiserv-worth-buying-now-earnings-143000051.html"
     }
   ]
 }

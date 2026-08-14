@@ -1,6 +1,6 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-08-13T20:36:09.356551+00:00",
+  "generated_at": "2026-08-14T01:22:49.869402+00:00",
   "items": [
     {
       "title": "IBM partners with OpenAI to bolster enterprise AI push",
@@ -10,11 +10,25 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/ibm-partners-openai-bolster-enterprise-191949046.html"
     },
     {
+      "title": "Cisco security revenue jumps 14% as agentic AI sharpens cyberattacks",
+      "summary": "AI agents are driving demand for cybersecurity tools as companies confront increasingly sophisticated threats,\u00a0CEO Chuck Robbins said.",
+      "pub_date": "2026-08-13T15:45:32Z",
+      "source": "CFO Dive",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-security-revenue-jumps-14-154532685.html"
+    },
+    {
       "title": "Can IBM's Together AI Cloud Deal Boost Its Growth Prospects?",
       "summary": "IBM's $240 million Together AI deal is set to expand AI cloud infrastructure with NVIDIA systems, targeting high-performance inference and long-term growth.",
       "pub_date": "2026-08-13T15:15:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/ibms-together-ai-cloud-deal-151500675.html"
+    },
+    {
+      "title": "IBM, OpenAI strike deal to deploy AI services",
+      "summary": "The two firms will launch a set of industry-specific offerings as enterprises work through key AI deployment obstacles.",
+      "pub_date": "2026-08-13T14:50:05Z",
+      "source": "CIO Dive",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-openai-strike-deal-deploy-145005350.html"
     },
     {
       "title": "The Gap Between ACN Stock And Its Own Numbers",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-13T10:26:38Z",
       "source": "InvestorsHub",
       "url": "https://finance.yahoo.com/technology/ai/articles/ibm-openai-launch-enterprise-ai-102638754.html"
-    },
-    {
-      "title": "IBM Landed A $240M AI Deal. Is That Enough?",
-      "summary": "IBM (NYSE:IBM) just signed a $240 million deal with Together AI to build an Nvidia (NASDAQ:NVDA)-powered AI inference cluster on IBM Cloud, announced August 11. Together AI\u2019s chief revenue officer Kai Mak says demand is so strong the cluster will sell out two to three months before it even goes live. That kind of confidence [\u2026]",
-      "pub_date": "2026-08-12T18:46:20Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-landed-240m-ai-deal-184620463.html"
-    },
-    {
-      "title": "Accenture Stock Trades At A Discount While The Company Buys Its Growth",
-      "summary": "What the market is paying less for in Accenture stock, and what the company is spending nine billion dollars to change.",
-      "pub_date": "2026-08-12T18:25:19Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/accenture-stock-trades-discount-while-182519265.html"
     }
   ]
 }

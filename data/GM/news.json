@@ -1,7 +1,14 @@
 {
   "ticker": "GM",
-  "generated_at": "2026-08-13T20:36:04.605870+00:00",
+  "generated_at": "2026-08-14T01:22:44.682173+00:00",
   "items": [
+    {
+      "title": "American auto retreat from China accelerates",
+      "summary": "The U.S. auto industry's retreat from China is accelerating, while Chinese carmakers are inching closer to the American market despite attempts to keep them out .",
+      "pub_date": "2026-08-13T21:15:15Z",
+      "source": "Axios",
+      "url": "https://finance.yahoo.com/economy/policy/articles/american-auto-retreat-china-accelerates-211515521.html"
+    },
     {
       "title": "3 Reasons to Sell GM and 1 Stock to Buy Instead",
       "summary": "General Motors trades at $87.75 and has moved in lockstep with the market. Its shares have returned 9.9% over the last six months while the S&P 500 has gained 11.7%.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-12T15:50:24Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-china-numbers-show-road-155024392.html"
-    },
-    {
-      "title": "Why Is General Motors Exiting Its Indiana Battery Joint Venture?",
-      "summary": "GM is exiting its Indiana battery JV with Samsung SDI as weaker EV demand prompts a pullback in battery investments.",
-      "pub_date": "2026-08-12T14:52:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-general-motors-exiting-indiana-145200443.html"
     }
   ]
 }

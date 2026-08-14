@@ -1,13 +1,20 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-08-13T20:36:38.502654+00:00",
+  "generated_at": "2026-08-14T01:23:19.352715+00:00",
   "items": [
     {
-      "title": "Tech stocks today: Shares climb higher with AI trade back on",
-      "summary": "Tech stock news for the week of Aug. 10",
-      "pub_date": "2026-08-10T13:56:05Z",
+      "title": "Earnings live updates: Applied Materials stock falls after solid earnings fail to impress",
+      "summary": "The second quarter earnings season is beginning to wind down, with nearly 90% of S&P 500 (^GSPC) companies having already reported.",
+      "pub_date": "2026-08-10T20:23:02Z",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-shares-climb-higher-with-ai-trade-back-on-135605566.html"
+      "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-applied-materials-stock-falls-after-solid-earnings-fail-to-impress-202302733.html"
+    },
+    {
+      "title": "Things are looking up for AI infrastructure companies, for now",
+      "summary": "AI infrastructure companies got a major boost on earnings, sending shares soaring.",
+      "pub_date": "2026-08-13T15:07:30Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/article/things-are-looking-up-for-ai-infrastructure-companies-for-now-150730483.html"
     },
     {
       "title": "Mad Money\u2019s Jim Cramer Says These 6 AI Stocks are Primed to Surge",
@@ -45,18 +52,11 @@
       "url": "https://www.barrons.com/articles/super-micro-computer-cisco-stock-earnings-ai-3356e2b1?siteid=yhoof2&yptr=yahoo"
     },
     {
-      "title": "Super Micro Stock Extends Rally After Blockbuster Earnings",
-      "summary": "Super Micro shares jump as $60 billion AI backlog powers stock rally",
-      "pub_date": "2026-08-13T17:49:59Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-stock-extends-rally-174959770.html"
-    },
-    {
-      "title": "Cerebras Plummets 13% After Earnings. But Intel & AMD Barrel Ahead with Strong Gains.",
-      "summary": "Cerebras is getting crushed after earnings while nearly every other AI chip and infrastructure name surges to fresh highs. What one company's bad day reveals about where this trade is actually headed matters more than the headline loss.",
-      "pub_date": "2026-08-13T17:35:40Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-plummets-13-earnings-intel-173540063.html"
+      "title": "Coreweave Rallies on Upbeat Q2 Results. How to Trade CRWV Stock Here.",
+      "summary": "The company more than doubled revenues and narrowed losses in the quarter.",
+      "pub_date": "2026-08-13T17:56:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-rallies-upbeat-q2-results-175602745.html"
     }
   ]
 }
