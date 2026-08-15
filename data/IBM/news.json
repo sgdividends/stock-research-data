@@ -1,7 +1,21 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-08-14T20:25:42.148968+00:00",
+  "generated_at": "2026-08-15T00:54:16.303413+00:00",
   "items": [
+    {
+      "title": "Dell Stock Is Daring You To Believe Its Numbers",
+      "summary": "Management put a number on the board so big it forces a question, and the market is paying up as if it's a sure thing.",
+      "pub_date": "2026-08-14T22:24:55Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-daring-believe-numbers-222455359.html"
+    },
+    {
+      "title": "Quantum Computing Earnings Offered a Reality Check. What Comes Next.",
+      "summary": "IonQ, Quantinuum, and other notable names in the quantum sector have reported earnings, which broadly showed that traction continues to grow.",
+      "pub_date": "2026-08-14T20:57:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/quantum-computing-earnings-stocks-b4e8ce2d?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "The Best House On The Block Costs The Most: PLTR",
       "summary": "This data-software powerhouse is delivering leading growth, but the market is already charging a leading price for the privilege.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-14T12:11:44Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/ibm-ibm-openai-together-ai-121144216.html"
-    },
-    {
-      "title": "He Just Wanted a Gym Reservation. His AI Assistant Committed a Cyberattack Instead.",
-      "summary": "When Andrew asked his AI assistant to grab him a spot in a gym class, the agent found a shortcut he never approved. Now lawyers in multiple countries are arguing about who exactly committed a crime.",
-      "pub_date": "2026-08-14T11:23:46Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/just-wanted-gym-reservation-ai-112346261.html"
-    },
-    {
-      "title": "IBM partners with OpenAI to bolster enterprise AI push",
-      "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
-      "pub_date": "2026-08-13T19:19:49Z",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-partners-openai-bolster-enterprise-191949046.html"
     }
   ]
 }

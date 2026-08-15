@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-08-14T20:25:45.542038+00:00",
+  "generated_at": "2026-08-15T00:54:19.700584+00:00",
   "items": [
     {
       "title": "The AI build-out has a problem that $1 trillion in cash can't fix",
@@ -8,6 +8,20 @@
       "pub_date": "2026-08-14T13:41:14Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/technology/article/the-ai-build-out-has-a-problem-that-1-trillion-in-cash-cant-fix-134114624.html"
+    },
+    {
+      "title": "Anthropic Revenue Surges to Over $11.5 Billion in Second Quarter",
+      "summary": "Anthropic PBC is telling prospective investors its second-quarter revenue jumped at least 14-fold versus the same period a year ago, according to documents seen by Bloomberg News.",
+      "pub_date": "2026-08-14T21:08:57Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-revenue-surges-over-11-210857853.html"
+    },
+    {
+      "title": "Weekly Wrap: Bitcoin Treads Water As Summer Doldrums Grip Markets",
+      "summary": "Bitcoin\u2019s (CRYPTO: $BTC) price was trading at $62,800 U.S. on Aug. 14 as the market finds itself in the midst...",
+      "pub_date": "2026-08-14T20:15:00Z",
+      "source": "CryptoProwl",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-treads-water-201500006.html"
     },
     {
       "title": "Sector Update: Financial Stocks Edge Lower Late Afternoon",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-14T18:37:08Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-14-2026/card/jpmorgan-ended-banking-relationship-with-polymarket-over-regulatory-concerns-DvUIduxPV2eLuTSP3wE2?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Salesforce Stock Drops 2.8% as JPMorgan AI Bounce Vanishes",
-      "summary": "JPMorgan argues that Agentforce can turn artificial intelligence into a growth engine, but investors remain divided over software disruption.",
-      "pub_date": "2026-08-14T18:27:48Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-stock-drops-2-8-182748477.html"
-    },
-    {
-      "title": "Sector Update: Financial Stocks Softer Friday Afternoon",
-      "summary": "Financial stocks were lower in Friday afternoon trading, with the NYSE Financial Index down 0.1% and",
-      "pub_date": "2026-08-14T17:53:49Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-softer-friday-175349047.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "SRE",
-  "generated_at": "2026-08-14T20:26:08.236962+00:00",
+  "generated_at": "2026-08-15T00:54:39.485496+00:00",
   "items": [
+    {
+      "title": "PCG Passed Our Value-Trap Test. Now What?",
+      "summary": "A major California utility is trading at a steep discount to the market, forcing investors to decide if the price reflects a temporary fear or a permanent flaw.",
+      "pub_date": "2026-08-14T21:46:30Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pcg-passed-value-trap-test-214630909.html"
+    },
     {
       "title": "Texas Data Center Moratorium: Key Meeting Next Week; Watch These S&P 500 Stocks",
       "summary": "Texas Gov. Greg Abbott went from being one of the biggest boosters of data centers to becoming the second governor to impose a data center moratorium, on Aug. 3.  Last November, Abbott announced a $40 billion investment by Google parent Alphabet that would make Texas the \"epicenter of AI development.\"  Recent polls show a close race for governor against state Democratic Rep. Gina Hinojosa, who has seized on public opposition to data centers.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-07T08:00:00Z",
       "source": "Utility Dive",
       "url": "https://finance.yahoo.com/energy/articles/oncor-weighs-impact-texas-data-080000626.html"
-    },
-    {
-      "title": "Sempra's Q2 Earnings Outpace Estimates, Revenues Fall Y/Y",
-      "summary": "SRE tops Q2 earnings estimates as utility and infrastructure profits surge, but revenues dip and miss forecasts despite stronger operating cash flow.",
-      "pub_date": "2026-08-06T14:54:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sempras-q2-earnings-outpace-estimates-145400564.html"
     }
   ]
 }

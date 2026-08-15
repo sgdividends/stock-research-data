@@ -1,7 +1,14 @@
 {
   "ticker": "SO",
-  "generated_at": "2026-08-14T20:26:07.493081+00:00",
+  "generated_at": "2026-08-15T00:54:38.885552+00:00",
   "items": [
+    {
+      "title": "PCG Passed Our Value-Trap Test. Now What?",
+      "summary": "A major California utility is trading at a steep discount to the market, forcing investors to decide if the price reflects a temporary fear or a permanent flaw.",
+      "pub_date": "2026-08-14T21:46:30Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pcg-passed-value-trap-test-214630909.html"
+    },
     {
       "title": "Utility ETFs to Buy as Rapid AI Buildout Sparks Energy Crisis",
       "summary": "AI's power surge is creating a major growth opportunity for utilities, and ETFs like IDU offer diversified exposure to the trend.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-05T20:15:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-broadcom-coca-201500234.html"
-    },
-    {
-      "title": "Southern Q2 Earnings Beat on Customer Growth, Revenues Miss",
-      "summary": "SO beats Q2 earnings estimates as data center demand jumps 55% and management now expects full-year earnings near the top of guidance.",
-      "pub_date": "2026-08-05T12:17:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/southern-q2-earnings-beat-customer-121700056.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "XYZ",
-  "generated_at": "2026-08-14T20:26:20.599459+00:00",
+  "generated_at": "2026-08-15T00:54:51.487047+00:00",
   "items": [
+    {
+      "title": "The Engine Behind XYZ Stock Has Real Parts",
+      "summary": "This payment processor's stock is on a tear, fueled by real business success, but investors now face the classic question of whether the next leg of growth is already built into the price.",
+      "pub_date": "2026-08-14T21:12:58Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/engine-behind-xyz-stock-real-211258796.html"
+    },
     {
       "title": "PayPal Cost Savings: Will $1.5B Plan Reshape Profitability?",
       "summary": "PYPL's $1.5B cost savings plan aims to boost profitability through AI, operational changes and a simpler structure while funding future growth.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-12T18:25:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/paypals-venmo-monetization-sustain-mid-182500076.html"
-    },
-    {
-      "title": "Block Expands Square's Reach: Can Its Financial Strategy Pay Off?",
-      "summary": "XYZ's refreshed Square Credit Card and upgraded Bill Pay help sellers manage expenses, earn rewards and preserve cash flow in one ecosystem.",
-      "pub_date": "2026-08-12T14:23:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/small-business/articles/block-expands-squares-reach-financial-142300368.html"
     }
   ]
 }

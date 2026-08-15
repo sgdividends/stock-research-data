@@ -1,7 +1,14 @@
 {
   "ticker": "FOXA",
-  "generated_at": "2026-08-14T20:25:35.565973+00:00",
+  "generated_at": "2026-08-15T00:54:10.036360+00:00",
   "items": [
+    {
+      "title": "Update: S&P Logs Third Consecutive Weekly Gain Despite Pullback From Record High",
+      "summary": "(Updates with market moves at the end of the day, and other changes, if any.) The S&P 500 retreat",
+      "pub_date": "2026-08-14T20:38:27Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-logs-third-consecutive-weekly-203827209.html"
+    },
     {
       "title": "Sector Update: Consumer Stocks Mixed Late Afternoon",
       "summary": "Consumer stocks were mixed late Friday afternoon, with the State Street Consumer Staples Select Sect",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-11T14:11:55Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/fox-corporation-stock-outlook-wall-141155012.html"
-    },
-    {
-      "title": "Fox (FOXA) Stock Looks Undervalued On Earnings But Fairly Valued On Cash Flow",
-      "summary": "After a strong three year run that has seen Fox return 96.5%, the stock now sits in an interesting spot where a Discounted Cash Flow (DCF) estimate points to a level close to its current price, while market multiples still screen it as undervalued. Fox has delivered a 96.5% return over the last three years, which means recent buyers are coming in after a long period of gains rather than at the start of a move. Growth in live events and digital platforms like Tubi and FOX One can support the...",
-      "pub_date": "2026-08-10T21:10:39Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fox-foxa-stock-looks-undervalued-211039116.html"
     }
   ]
 }
