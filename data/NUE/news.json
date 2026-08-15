@@ -1,6 +1,6 @@
 {
   "ticker": "NUE",
-  "generated_at": "2026-08-15T08:21:00.169249+00:00",
+  "generated_at": "2026-08-15T12:25:48.369121+00:00",
   "items": [
     {
       "title": "Berkshire ups Alphabet stake under Greg Abel, making it a top-3 holding",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-14T21:29:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/berkshire-ups-alphabet-stake-under-212900630.html"
+    },
+    {
+      "title": "Nvidia, ASML Lead Five Stocks Near Buy Points With Roaring Growth",
+      "summary": "Three out of the five top stocks should more than double annual earnings. Nvidia is seen nearly doubling earnings this year.",
+      "pub_date": "2026-08-15T12:00:01Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/nvidia-stock-asml-avnet-cve-nue-buy-points-bulls-take-charge/?src=A00220&yptr=yahoo"
     },
     {
       "title": "Nucor to Invest $59 Million in Major Vulcraft Indiana Expansion",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-05T18:10:37Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nucor-nue-surging-quarterly-earnings-181037316.html"
-    },
-    {
-      "title": "Dow Jones Futures Rise; SpaceX, AMD Dive As Arista, Eli Lilly Jump With S&P 500 At Highs",
-      "summary": "The Dow and S&P 500 hit new highs while the Nasdaq powered up again. SpaceX, AMD and Arista led earnings movers late.",
-      "pub_date": "2026-08-05T12:18:42Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-spacex-amd-arista-eli-lily-earnings/?src=A00220&yptr=yahoo"
     }
   ]
 }

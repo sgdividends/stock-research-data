@@ -1,7 +1,28 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-08-15T08:20:27.695333+00:00",
+  "generated_at": "2026-08-15T12:25:14.076049+00:00",
   "items": [
+    {
+      "title": "Larry Fink\u2019s brutal warning to Americans: This everyday habit is \u2018one of the worst financial decisions\u2019 of your life",
+      "summary": "Conventional wisdom could capsize your retirement.",
+      "pub_date": "2026-08-15T10:35:00Z",
+      "source": "Moneywise",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/larry-fink-brutal-warning-americans-103500383.html"
+    },
+    {
+      "title": "Jensen Huang Explained $500 Billion of Wall Street Money in Five Words",
+      "summary": "\"In AI, compute is revenue.\" The whole credit structure announced Monday stands on that sentence -- and on what a repossessed chip is worth.",
+      "pub_date": "2026-08-15T09:34:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-explained-500-billion-093400630.html"
+    },
+    {
+      "title": "Why Is BlackRock (BLK) Teaming Up On AI Infrastructure Workforce Planning?",
+      "summary": "BlackRock (NYSE:BLK) signed a new Memorandum of Understanding with North America's Building Trades Unions and the AI Infrastructure Partnership to support AI and energy infrastructure projects. The agreement centers on workforce development programs for union labor tied to data centers, grid upgrades, and related projects across North America. The collaboration aims to align long term AI infrastructure investment with training, safety standards, and supply chain planning for large scale...",
+      "pub_date": "2026-08-15T09:09:01Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/why-blackrock-blk-teaming-ai-090901827.html"
+    },
     {
       "title": "Nvidia CEO Jensen Huang Sells Wall Street on Compute as a Commodity",
       "summary": "Why Nvidia wants Wall Street to treat AI as more than just technology infrastructure",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-14T18:07:38Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-sinks-6-bofa-flags-180738180.html"
-    },
-    {
-      "title": "Nvidia Poised for Strong Quarterly Results, Outlook, UBS Says",
-      "summary": "Nvidia (NVDA) is likely to post strong fiscal second-quarter results and issue an upbeat sales outlo",
-      "pub_date": "2026-08-14T18:06:39Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-poised-strong-quarterly-results-180639120.html"
-    },
-    {
-      "title": "Goldman Sachs Takes On Nvidia's Biggest AI Challenge",
-      "summary": "A new funding model could reshape the AI buildout",
-      "pub_date": "2026-08-14T17:32:33Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-takes-nvidias-biggest-173233945.html"
-    },
-    {
-      "title": "Nvidia\u2019s $500 Billion Plan Envelops Wall Street in Its AI Frenzy",
-      "summary": "Goldman Sachs Group Inc., Blackstone Inc. and Apollo Global Management Inc. had been working tirelessly for months to draw up debt deals that would help developers of artificial intelligence systems pay for chips from Nvidia Corp.",
-      "pub_date": "2026-08-14T16:42:09Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-500-billion-plan-envelops-164209178.html"
     }
   ]
 }

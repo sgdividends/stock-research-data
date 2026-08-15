@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "generated_at": "2026-08-15T08:20:20.511123+00:00",
+  "generated_at": "2026-08-15T12:25:05.978724+00:00",
   "items": [
     {
       "title": "Databricks vs Snowflake: Analyst explains key differences in AI platforms",
@@ -8,6 +8,20 @@
       "pub_date": "2026-08-14T21:00:15Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/databricks-vs-snowflake-analyst-explains-210015938.html"
+    },
+    {
+      "title": "Alphabet Is Berkshire Hathaway\u2019s New Favorite Stock After Buying 48 Million Shares",
+      "summary": "After three years of selling more than he bought, new Berkshire CEO Greg Abel just broke the streak in dramatic fashion, pouring billions into a single tech giant that Warren Buffett himself quietly identified as the target.",
+      "pub_date": "2026-08-15T12:05:51Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-berkshire-hathaway-favorite-stock-120551944.html"
+    },
+    {
+      "title": "US presses Apple to avoid Chinese memory chips amid shortage - WSJ reports",
+      "summary": "Investing.com -- The Trump administration has urged Apple (NASDAQ:AAPL) not to purchase memory chips from Chinese manufacturers as the iPhone maker seeks supplies amid an AI-driven shortage, the Wall Street Journal reported exclusively on Friday.",
+      "pub_date": "2026-08-15T09:25:22Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/us-presses-apple-avoid-chinese-092522511.html"
     },
     {
       "title": "U.S. Urges Apple Not to Buy Chinese Memory Chips",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-14T22:24:55Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-daring-believe-numbers-222455359.html"
-    },
-    {
-      "title": "Berkshire Hathaway Boosted Alphabet, Delta Stakes in 2nd Quarter, Sold Bank of America",
-      "summary": "Berkshire\u2019s Alphabet stake\u2014consisting of the search giant\u2019s voting and nonvoting shares\u2014rose about 80% in the quarter to 106 million shares, reflecting a purchase directly from Alphabet in June and open-market buys, based on a 13-F report with the Securities and Exchange Commission late Friday.  Berkshire was a seller of part of its sizable stake in  Bank of America  cutting it by 30 million shares to 483 million shares now worth about $31 billion.",
-      "pub_date": "2026-08-14T21:46:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/berkshire-hathaway-alphabet-delta-3bfd1c16?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Apple Stock Stalls as Jefferies Cuts Target to $263.66",
-      "summary": "Jefferies sees pressure from rising component costs and fewer opportunities to lift iPhone pricing through radically differentiated hardware.",
-      "pub_date": "2026-08-14T19:17:14Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-stalls-jefferies-cuts-191714058.html"
     }
   ]
 }

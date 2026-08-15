@@ -1,6 +1,6 @@
 {
   "ticker": "BAC",
-  "generated_at": "2026-08-15T08:20:26.354531+00:00",
+  "generated_at": "2026-08-15T12:25:12.475404+00:00",
   "items": [
     {
       "title": "The AI build-out has a problem that $1 trillion in cash can't fix",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-14T13:41:14Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/technology/article/the-ai-build-out-has-a-problem-that-1-trillion-in-cash-cant-fix-134114624.html"
+    },
+    {
+      "title": "BofA points to crucial Walmart numbers most investors ignore",
+      "summary": "Walmart (WMT) reports earnings on Aug. 20, and most of the attention will land on one figure: how much its U.S. stores sold compared with a year ago. That number matters. But Bank of America thinks investors who stop there are watching the wrong part of the business. The firm reiterated a Buy ...",
+      "pub_date": "2026-08-15T11:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-points-crucial-walmart-numbers-110300581.html"
     },
     {
       "title": "Warren Buffett's Successor, Greg Abel, Pared Down Bank of America, and Piled Into a Virtual Monopoly That's Now Berkshire's 3rd-Largest Holding",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-14T21:23:58Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-expands-alphabet-stake-212358443.html"
-    },
-    {
-      "title": "Broadcom Sinks 6% as BofA Flags $370B in AI Debt, AMD Climbs 4% on Baird\u2019s $1,250 Call",
-      "summary": "Two AI chip giants moved in opposite directions Friday as Wall Street put a massive dollar figure on a financing structure that Broadcom and Nvidia both use, raising questions about which companies benefit from AI's debt-fueled buildout and which carry the hidden risk.",
-      "pub_date": "2026-08-14T18:07:38Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-sinks-6-bofa-flags-180738180.html"
     }
   ]
 }

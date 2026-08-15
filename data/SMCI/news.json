@@ -1,7 +1,21 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-08-15T08:21:08.080104+00:00",
+  "generated_at": "2026-08-15T12:25:56.919150+00:00",
   "items": [
+    {
+      "title": "A $72 billion forecast just raised the stakes for the AI trade",
+      "summary": "In the midst of all the discussion about whether the artificial intelligence boom is getting too pricey, Super Micro Computer (SMCI) just revealed a number that\u2019s difficult to ignore. The AI server specialist expectsfiscal 2027 revenue of $65 billion to $72 billion, dramatically above the $52.5 ...",
+      "pub_date": "2026-08-15T12:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/72-billion-forecast-just-raised-120300216.html"
+    },
+    {
+      "title": "AMD, Intel and NVIDIA All Rally as Super Micro\u2019s Blowout Numbers Reignite the AI Trade",
+      "summary": "Three of the biggest names in logic chips closed higher on August 12, following a strong earnings report deep in the AI server supply chain. Advanced Micro Devices, Inc. (NASDAQ:AMD) up 1.8% at $483, Intel Corporation (NASDAQ:INTC) up 3.3% to $101, and NVIDIA Corporation (NASDAQ:NVDA) up 3% to $224, in a broad rally sparked not [\u2026]",
+      "pub_date": "2026-08-15T11:07:38Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-intel-nvidia-rally-super-110738841.html"
+    },
     {
       "title": "Super Micro Computer (SMCI) Hit With DDR5 Patent Cases At ITC And Federal Court",
       "summary": "Netlist has filed new patent complaints against Super Micro Computer (NasdaqGS:SMCI) at the U.S. International Trade Commission and in U.S. District Court regarding DDR5 memory module technology. The ITC case seeks an investigation into alleged infringement and potential exclusion of certain Super Micro DDR5 products from the U.S. market. The federal lawsuit requests damages and other remedies tied to Super Micro Computer's use and sale of the disputed DDR5 memory related products. The...",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-14T19:41:00Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/kulicke-soffa-amd-intel-nvidia-194100344.html"
-    },
-    {
-      "title": "Investing.com\u2019s stocks of the week",
-      "summary": "Investing.com -- AI infrastructure names delivered a week of strong gains, with memory, server and neocloud stocks rallying on results and guidance, while a high-profile consumer name went the other way.",
-      "pub_date": "2026-08-14T18:47:18Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investing-com-stocks-week-184718655.html"
-    },
-    {
-      "title": "Earnings Prove AI Hardware Demand Is Strong. That\u2019s Good News for Dell Stock.",
-      "summary": "Dell Technologies  stock could have more room to run\u2014even after this year\u2019s meteoric rise\u2014as artificial intelligence hardware demand remains resilient.  Wells Fargo analyst Aaron Rakers raised his price target on Dell to $545 from $505 on Friday, which implies a 10% increase from the stock\u2019s last closing price of $494.51.  Dell\u2019s \u201cserver results and outlook present continued upside,\u201d Rakers wrote in a research note.",
-      "pub_date": "2026-08-14T18:12:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/dell-technologies-stock-upgrade-ai-earnings-300dee64?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
