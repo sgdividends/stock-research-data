@@ -1,6 +1,6 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-08-15T16:16:59.070447+00:00",
+  "generated_at": "2026-08-15T20:15:24.911833+00:00",
   "items": [
     {
       "title": "Wall Street's riskiest trades are suddenly back on top: Chart of the Day",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-14T10:01:00Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/wall-streets-riskiest-trades-are-suddenly-back-on-top-chart-of-the-day-100100027.html"
+    },
+    {
+      "title": "Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies",
+      "summary": "Even before Nvidia Corp.\u2019s splashy $500 billion financing partnership this week, investors were starting to fret over the roughly $70 billion in phantom liabilities that don\u2019t appear on major AI companies\u2019 balance sheets, but could materialize at the worst possible time.",
+      "pub_date": "2026-08-15T19:00:00Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bond-traders-agonizing-over-70-190000845.html"
     },
     {
       "title": "Cisco vs. Broadcom: One Stock Looks Like the Better AI Play",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-14T21:56:38Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/druckenmiller-loads-amazon-amd-while-215638635.html"
-    },
-    {
-      "title": "Why Broadcom Inc. (AVGO) Dipped More Than Broader Market Today",
-      "summary": "Broadcom Inc. (AVGO) reached $393.06 at the closing of the latest trading day, reflecting a -5.93% change compared to its last close.",
-      "pub_date": "2026-08-14T21:45:01Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-inc-avgo-dipped-214501928.html"
     }
   ]
 }

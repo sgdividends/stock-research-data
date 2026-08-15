@@ -1,7 +1,14 @@
 {
   "ticker": "BX",
-  "generated_at": "2026-08-15T16:17:02.664948+00:00",
+  "generated_at": "2026-08-15T20:15:29.256341+00:00",
   "items": [
+    {
+      "title": "Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies",
+      "summary": "Even before Nvidia Corp.\u2019s splashy $500 billion financing partnership this week, investors were starting to fret over the roughly $70 billion in phantom liabilities that don\u2019t appear on major AI companies\u2019 balance sheets, but could materialize at the worst possible time.",
+      "pub_date": "2026-08-15T19:00:00Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bond-traders-agonizing-over-70-190000845.html"
+    },
     {
       "title": "NVIDIA Stock Holds Flat as $500 Billion AI Plan Takes Shape",
       "summary": "Six major financial institutions intend to create dedicated capital pools that could help NVIDIA customers finance computing infrastructure.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-13T10:11:45Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/blackstone-bx-joins-global-ai-101145625.html"
-    },
-    {
-      "title": "Blackstone (BX) Stock Could Be 26% Above Fair Value As AI Data Center Bets Grow",
-      "summary": "Blackstone stock has delivered a strong 66.2% return over the past three years, yet current checks suggest the shares are trading at a premium to what the intrinsic value estimate and earnings multiples indicate. Over the last three years, Blackstone has returned 66.2%, which keeps longer term holders in profit even though more recent returns have been weaker. Fresh commitments to areas like AI focused data centers and energy transition assets can support long term cash flow expectations,...",
-      "pub_date": "2026-08-13T05:14:35Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/blackstone-bx-stock-could-26-051435895.html"
     }
   ]
 }

@@ -1,13 +1,27 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-08-15T16:17:01.711809+00:00",
+  "generated_at": "2026-08-15T20:15:28.237332+00:00",
   "items": [
+    {
+      "title": "Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies",
+      "summary": "Even before Nvidia Corp.\u2019s splashy $500 billion financing partnership this week, investors were starting to fret over the roughly $70 billion in phantom liabilities that don\u2019t appear on major AI companies\u2019 balance sheets, but could materialize at the worst possible time.",
+      "pub_date": "2026-08-15T19:00:00Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bond-traders-agonizing-over-70-190000845.html"
+    },
     {
       "title": "209-year-old bank reveals XRP holdings",
       "summary": "After the National Bank of Canada, another major Canadian bank has revealed XRP holdings. The Bank of Montreal (NYSE: BMO) is a Canadian multinational investment bank and financial services company. It was founded in Montreal, Quebec, in 1817 as Montreal Bank. With 209 years of history, the ...",
       "pub_date": "2026-08-15T16:00:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/markets/crypto/articles/209-old-bank-reveals-xrp-160000368.html"
+    },
+    {
+      "title": "NVDA Stock Alert: Nvidia CEO Jensen Huang Says Chips Are \u2018Investable Asset Class\u2019",
+      "summary": "Nvidia is reshaping the AI investment landscape as Jensen Huang positions its chips as an \u201cinvestable asset class.\u201d",
+      "pub_date": "2026-08-15T13:00:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-alert-nvidia-ceo-130002278.html"
     },
     {
       "title": "Inflation Is Cooling. But is 2% Out of Reach?",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-14T20:18:00Z",
       "source": "Coinage Coop",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-sells-201800642.html"
-    },
-    {
-      "title": "Weekly Wrap: Bitcoin Treads Water As Summer Doldrums Grip Markets",
-      "summary": "Bitcoin\u2019s (CRYPTO: $BTC) price was trading at $62,800 U.S. on Aug. 14 as the market finds itself in the midst...",
-      "pub_date": "2026-08-14T20:15:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-treads-water-201500006.html"
-    },
-    {
-      "title": "NVIDIA Stock Holds Flat as $500 Billion AI Plan Takes Shape",
-      "summary": "Six major financial institutions intend to create dedicated capital pools that could help NVIDIA customers finance computing infrastructure.",
-      "pub_date": "2026-08-14T19:12:01Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-holds-flat-500-191201034.html"
     }
   ]
 }

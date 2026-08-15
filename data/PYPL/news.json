@@ -1,14 +1,7 @@
 {
   "ticker": "PYPL",
-  "generated_at": "2026-08-15T16:17:45.054132+00:00",
+  "generated_at": "2026-08-15T20:16:20.686587+00:00",
   "items": [
-    {
-      "title": "A PayPal sale is back on the table: What we know about Stripe, Advent's bid",
-      "summary": "Stripe (STRI.PVT) and Advent are reportedly in talks to acquire PayPal (PYPL), according to the Wall Street Journal. Yahoo Finance's Josh Lipton outlines what we know so far.",
-      "pub_date": "2026-08-14T20:09:21Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/paypal-sale-back-table-know-200921628.html"
-    },
     {
       "title": "PayPal (PYPL) Is In Acquisition Talks At $53 Billion",
       "summary": "PayPal Holdings (NasdaqGS: PYPL) is in active talks over a potential acquisition by Stripe and Advent International, following an earlier offer that PayPal rejected. The proposed deal would bring together a major listed digital payments company and a large private fintech group, alongside a global private equity investor. Negotiations are ongoing as of 14 August 2026, with no binding agreement announced and terms still under discussion. With large fintech platforms weighing major...",
@@ -57,6 +50,13 @@
       "pub_date": "2026-08-14T20:19:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/business/deals/stripe-advent-in-talks-to-buy-paypal-ea6aa2ba?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "A PayPal sale is back on the table: What we know about Stripe, Advent's bid",
+      "summary": "Stripe (STRI.PVT) and Advent are reportedly in talks to acquire PayPal (PYPL), according to the Wall Street Journal. Yahoo Finance's Josh Lipton outlines what we know so far.",
+      "pub_date": "2026-08-14T20:09:21Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/paypal-sale-back-table-know-200921628.html"
     }
   ]
 }

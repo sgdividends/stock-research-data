@@ -1,7 +1,21 @@
 {
   "ticker": "GS",
-  "generated_at": "2026-08-15T16:17:22.496762+00:00",
+  "generated_at": "2026-08-15T20:15:52.960583+00:00",
   "items": [
+    {
+      "title": "Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies",
+      "summary": "Even before Nvidia Corp.\u2019s splashy $500 billion financing partnership this week, investors were starting to fret over the roughly $70 billion in phantom liabilities that don\u2019t appear on major AI companies\u2019 balance sheets, but could materialize at the worst possible time.",
+      "pub_date": "2026-08-15T19:00:00Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bond-traders-agonizing-over-70-190000845.html"
+    },
+    {
+      "title": "DIVO or JEPI: Which Monthly Dividend Actually Protects Your Principal?",
+      "summary": "Both DIVO and JEPI hand you a monthly paycheck funded by covered calls on blue-chip stocks, but one of them has been quietly compounding your principal while the other trades that growth away for a fatter yield.",
+      "pub_date": "2026-08-15T18:23:12Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/divo-jepi-monthly-dividend-actually-182312705.html"
+    },
     {
       "title": "Goldman Sachs Sees $1.4 Trillion Buyback Wave Outpacing U.S. Equity Supply in 2026",
       "summary": "Goldman Sachs expects corporate share repurchases to remain a powerful source of demand for U. S.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-14T19:12:01Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-holds-flat-500-191201034.html"
-    },
-    {
-      "title": "Goldman Sachs Bets $2.25B on \u2018Boomer Candy\u2019 ETFs. Are They a Buy?",
-      "summary": "\u201cBoomer candy\u201d funds got the name because they appeal to retirees. Goldman Sachs sees opportunity and acquires ETF company Neos.",
-      "pub_date": "2026-08-14T18:25:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/goldman-sachs-etfs-neos-06f4acc2?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Broadcom Sinks 6% as BofA Flags $370B in AI Debt, AMD Climbs 4% on Baird\u2019s $1,250 Call",
-      "summary": "Two AI chip giants moved in opposite directions Friday as Wall Street put a massive dollar figure on a financing structure that Broadcom and Nvidia both use, raising questions about which companies benefit from AI's debt-fueled buildout and which carry the hidden risk.",
-      "pub_date": "2026-08-14T18:07:38Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-sinks-6-bofa-flags-180738180.html"
     }
   ]
 }
