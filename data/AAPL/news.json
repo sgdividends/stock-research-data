@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "generated_at": "2026-08-15T00:53:44.433814+00:00",
+  "generated_at": "2026-08-15T04:22:56.729115+00:00",
   "items": [
     {
       "title": "Databricks vs Snowflake: Analyst explains key differences in AI platforms",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-14T21:00:15Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/databricks-vs-snowflake-analyst-explains-210015938.html"
+    },
+    {
+      "title": "U.S. Urges Apple Not to Buy Chinese Memory Chips",
+      "summary": "Commerce Secretary Howard Lutnick urged the iPhone maker to find other solutions to the AI-driven chip supply crunch.",
+      "pub_date": "2026-08-15T01:00:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/apple-china-memory-chip-plan-57773a83?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Berkshire Hathaway Makes Alphabet Its No. 3 Holding After 48M Share Buy",
@@ -22,6 +29,13 @@
       "pub_date": "2026-08-14T23:06:25Z",
       "source": "Associated Press",
       "url": "https://finance.yahoo.com/media-advertising/articles/maryland-tax-court-voids-digital-230625946.html"
+    },
+    {
+      "title": "All the Stocks Berkshire Hathaway Bought and Sold in Q2",
+      "summary": "Berkshire was busy buying stocks in the second quarter. Here are all the stocks that Greg Abel & Co. added to the portfolio \u2014 and the ones they sold, too.",
+      "pub_date": "2026-08-14T23:02:33Z",
+      "source": "Kiplinger",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-berkshire-hathaway-bought-sold-230233796.html"
     },
     {
       "title": "Dell Stock Is Daring You To Believe Its Numbers",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-14T19:17:14Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-stalls-jefferies-cuts-191714058.html"
-    },
-    {
-      "title": "GOOGL Stock Alert: Google Unleashes Its Biggest Weapon Against Apple",
-      "summary": "Google\u2019s Pixel 11 puts Gemini at the heart of its smartphone strategy as Alphabet looks to expand AI adoption and challenge Apple\u2019s ecosystem.",
-      "pub_date": "2026-08-14T18:20:56Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/googl-stock-alert-google-unleashes-182056778.html"
-    },
-    {
-      "title": "KeyBanc Has Message For Apple Stock Investors",
-      "summary": "A stronger demand signal hides a tougher long-term question",
-      "pub_date": "2026-08-14T18:19:42Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/keybanc-message-apple-stock-investors-181942735.html"
     }
   ]
 }

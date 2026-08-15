@@ -1,7 +1,14 @@
 {
   "ticker": "V",
-  "generated_at": "2026-08-15T00:54:46.166060+00:00",
+  "generated_at": "2026-08-15T04:23:56.997909+00:00",
   "items": [
+    {
+      "title": "Bill Ackman Just Bought Visa Stock. What Barchart Options Data Says Could Come Next for V Investors.",
+      "summary": "Bill Ackman reveals a fresh stake in Visa stock. Options pricing also suggests V shares will rip higher in the weeks ahead.",
+      "pub_date": "2026-08-14T19:51:11Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-just-bought-visa-195111239.html"
+    },
     {
       "title": "Solana is about to cut transaction finality by nearly 99%",
       "summary": "Solana is about to get significantly faster. A major upgrade expected to land in September will cut transaction finality from 12.8 seconds to approximately 150 milliseconds, a reduction of nearly 99% that developers say will make the network feel almost instantaneous for end users. The ...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-14T04:01:00Z",
       "source": "The Daily Upside",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ackman-pershing-touts-value-investing-040100723.html"
-    },
-    {
-      "title": "Visa\u2019s Stablecoin Settlement Push Might Change The Case For Investing In Visa (V)",
-      "summary": "Lithic, Zerohash, and Cashi recently announced new partnerships and products that use Visa\u2019s network to enable USDC and other stablecoin settlement, cross-border payouts via Visa Direct, and everyday card spending from stablecoin balances. Visa\u2019s own onchain analytics show stablecoins processed US$4.80 trillion in the past 30 days, with adjusted activity of US$1.10 trillion and record stablecoin card spending in July, underscoring how quickly onchain money is intersecting with traditional...",
-      "pub_date": "2026-08-14T01:12:57Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/visa-stablecoin-settlement-push-might-011257916.html"
     }
   ]
 }

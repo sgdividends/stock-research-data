@@ -1,6 +1,6 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-08-15T00:53:50.106237+00:00",
+  "generated_at": "2026-08-15T04:23:02.561796+00:00",
   "items": [
     {
       "title": "Wall Street's riskiest trades are suddenly back on top: Chart of the Day",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-14T10:01:00Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/wall-streets-riskiest-trades-are-suddenly-back-on-top-chart-of-the-day-100100027.html"
+    },
+    {
+      "title": "Review & Preview: Headline Fatigue",
+      "summary": "REVIEW PREVIEW NEWSLETTER Zen. The S&P 500\u00a0pulled back a touch from its record high today, but the index still wrapped a third-straight week of gains. The market benchmark dipped 0.2%, while the Nasdaq Composite fell 0.",
+      "pub_date": "2026-08-14T23:55:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stocks-today-s-and-p-500-three-weeks-gains-885928ce?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Wall Street ends lower as investors weigh data, Middle East tensions",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-14T21:30:18Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-14-213018651.html"
-    },
-    {
-      "title": "Broadcom (AVGO) Faces A $370 Billion AI Financing Risk Question",
-      "summary": "Broadcom (NasdaqGS:AVGO) is using a chip financing vehicle that could reach US$370b in senior debt by mid 2029 to support its AI platform growth. The structure backstops customer lease obligations on Broadcom AI chips, which may leave the company exposed if customers default on payments. The potential scale of this off balance sheet style financing raises questions about Broadcom's future risk profile and capital structure. For anyone tracking how AI infrastructure spending is being...",
-      "pub_date": "2026-08-14T21:13:58Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-faces-370-billion-211358853.html"
     }
   ]
 }
