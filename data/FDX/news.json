@@ -1,7 +1,14 @@
 {
   "ticker": "FDX",
-  "generated_at": "2026-08-15T12:25:29.263552+00:00",
+  "generated_at": "2026-08-15T16:17:17.623104+00:00",
   "items": [
+    {
+      "title": "FedEx closes more U.S. locations as it changes how packages move",
+      "summary": "For decades, FedEx built out one of the country's largest delivery networks as Americans sent and ordered more packages. Now the delivery giant is rebuilding parts of that network from the inside out. Facilities that once operated separately are being combined, routes have been redesigned, and some ...",
+      "pub_date": "2026-08-15T16:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/small-business/articles/fedex-closes-more-u-locations-160300304.html"
+    },
     {
       "title": "The Shipping Crunch Is Getting Worse. What It Means for Walmart, Tesla, and More.",
       "summary": "Walmart and more stocks will feel the effects of the capacity constraints, delays, and higher prices reported by shipping giants Maersk and Hapag-Lloyd.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-13T04:01:59Z",
       "source": "Associated Press",
       "url": "https://finance.yahoo.com/economy/policy/articles/surprise-credit-overseas-purchase-tariff-040159600.html"
-    },
-    {
-      "title": "Tariff Refunds Are Here\u2014and Turbocharging Earnings",
-      "summary": "Apple, Nike and FedEx are just some of the companies that are recovering big sums relatively quickly.",
-      "pub_date": "2026-08-13T01:33:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/telecom/tariff-refunds-are-hereand-turbocharging-earnings-1af269a2?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

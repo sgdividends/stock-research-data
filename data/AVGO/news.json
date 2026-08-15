@@ -1,6 +1,6 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-08-15T12:25:11.593905+00:00",
+  "generated_at": "2026-08-15T16:16:59.070447+00:00",
   "items": [
     {
       "title": "Wall Street's riskiest trades are suddenly back on top: Chart of the Day",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-14T10:01:00Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/wall-streets-riskiest-trades-are-suddenly-back-on-top-chart-of-the-day-100100027.html"
+    },
+    {
+      "title": "Cisco vs. Broadcom: One Stock Looks Like the Better AI Play",
+      "summary": "Cisco just posted a networking super cycle quarter while Broadcom reported AI semiconductor numbers that border on absurd, and the two stocks now sit at nearly the same valuation multiple despite wildly different growth trajectories.",
+      "pub_date": "2026-08-15T15:30:40Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-vs-broadcom-one-stock-153040244.html"
     },
     {
       "title": "Review & Preview: Headline Fatigue",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-14T21:45:01Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-inc-avgo-dipped-214501928.html"
-    },
-    {
-      "title": "Stock Market Today, Aug. 14: Rally Stalls on Disappointing Consumer Data, Broadcom Falls 6%",
-      "summary": "On Aug. 14, 2026, disappointing retail spending and consumer confidence data pulled markets back from record highs, with chipmakers leading declines.",
-      "pub_date": "2026-08-14T21:30:18Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-14-213018651.html"
     }
   ]
 }
