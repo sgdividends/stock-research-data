@@ -1,7 +1,14 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-08-16T08:21:24.791775+00:00",
+  "generated_at": "2026-08-16T12:26:24.159215+00:00",
   "items": [
+    {
+      "title": "Bitcoin price trades above $63,000 as Saylor calls it \u2018digital monetary energy\u2019",
+      "summary": "Investing.com -- Bitcoin traded above $63,000 on Sunday, up less than 0.1% over the past 24 hours, as Strategy (NASDAQ:MSTR) Chairman Michael Saylor argued in a post on X that the cryptocurrency should be understood as \u201cdigital monetary energy.\u201d",
+      "pub_date": "2026-08-16T09:39:48Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-trades-above-63-093948954.html"
+    },
     {
       "title": "Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies",
       "summary": "Even before Nvidia Corp.\u2019s splashy $500 billion financing partnership this week, investors were starting to fret over the roughly $70 billion in phantom liabilities that don\u2019t appear on major AI companies\u2019 balance sheets, but could materialize at the worst possible time.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-15T09:09:01Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/why-blackrock-blk-teaming-ai-090901827.html"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang Sells Wall Street on Compute as a Commodity",
-      "summary": "Why Nvidia wants Wall Street to treat AI as more than just technology infrastructure",
-      "pub_date": "2026-08-14T20:18:00Z",
-      "source": "Coinage Coop",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-sells-201800642.html"
     }
   ]
 }
