@@ -1,7 +1,14 @@
 {
   "ticker": "SWKS",
-  "generated_at": "2026-08-16T00:57:17.300939+00:00",
+  "generated_at": "2026-08-16T04:30:55.676125+00:00",
   "items": [
+    {
+      "title": "3 S&P 500 Stocks with Open Questions",
+      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn\u2019t mean every stock is worth owning. Some companies face significant challenges, whether it\u2019s stagnating growth, heavy debt, or disruptive new competitors.",
+      "pub_date": "2026-08-16T01:17:00Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-open-011700993.html"
+    },
     {
       "title": "3 Profitable Stocks We\u2019re Skeptical Of",
       "summary": "Not all profitable companies are built to last - some rely on outdated models or unsustainable advantages. Just because a business is in the green today doesn\u2019t mean it will thrive tomorrow.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-05T16:47:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/investors-buy-qrvo-wait-more-164700346.html"
-    },
-    {
-      "title": "QRVO Rises 11.6% in the Past Month: Can the Rally Continue?",
-      "summary": "QRVO has surged 11.6% in a month as stronger margins and earnings fuel optimism amid smartphone market and pending deal uncertainties.",
-      "pub_date": "2026-08-05T16:44:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qrvo-rises-11-6-past-164400974.html"
     }
   ]
 }
