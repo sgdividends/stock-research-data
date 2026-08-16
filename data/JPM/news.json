@@ -1,7 +1,14 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-08-16T16:17:48.569077+00:00",
+  "generated_at": "2026-08-16T20:15:40.130332+00:00",
   "items": [
+    {
+      "title": "3 Bank Stocks Walking a Fine Line",
+      "summary": "Banks serve as the backbone of the economy, facilitating lending, deposits, and financial services that keep businesses and consumers moving forward. Still, investors are uneasy as banks face challenges from credit quality concerns and potential regulatory changes. These doubts have certainly contributed to banking stocks\u2019 recent underperformance - over the past six months, the industry\u2019s 8.2% gain has fallen behind the S&P 500\u2019s 13.1% rise.",
+      "pub_date": "2026-08-16T16:37:00Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-bank-stocks-walking-fine-163700759.html"
+    },
     {
       "title": "JPMorgan Raises S&P 500 Target to 8,000 as Earnings and AI Growth Strengthen Outlook",
       "summary": "JPMorgan has increased its 2026 S&P 500 price target to 8,000 from 7,800, pointing to an exceptionally strong second-quarter earnings season and growing evidence that massive artificial intelligence investments are translating into stronger business performance. The bank also raised its earnings forecasts for both 2026 and 2027, although elevated interest rates, geopolitical risks and heavy capital-market supply are keeping its valuation assumptions in check.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-15T11:15:00Z",
       "source": "Moneywise",
       "url": "https://finance.yahoo.com/healthcare/articles/critical-social-security-rule-permanently-111500909.html"
-    },
-    {
-      "title": "Anthropic Revenue Surges to Over $11.5 Billion in Second Quarter",
-      "summary": "Anthropic PBC is telling prospective investors its second-quarter revenue jumped at least 14-fold versus the same period a year ago, according to documents seen by Bloomberg News.",
-      "pub_date": "2026-08-14T21:08:57Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-revenue-surges-over-11-210857853.html"
     }
   ]
 }

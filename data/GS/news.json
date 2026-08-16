@@ -1,7 +1,14 @@
 {
   "ticker": "GS",
-  "generated_at": "2026-08-16T16:17:43.413268+00:00",
+  "generated_at": "2026-08-16T20:15:33.671325+00:00",
   "items": [
+    {
+      "title": "3 Dow Jones Stocks with Warning Signs",
+      "summary": "The Dow Jones (^DJI) is home to corporate giants, but size alone doesn\u2019t guarantee success. A few of these companies are struggling with weak fundamentals, paradigm shifts, or poor execution.",
+      "pub_date": "2026-08-16T17:01:00Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-dow-jones-stocks-warning-170100280.html"
+    },
     {
       "title": "Central bank market backstops risk fuelling leverage and future crises",
       "summary": "Investing.com -- Central banks may be encouraging excessive leverage and indirectly lowering government borrowing costs through emergency facilities designed to keep financial markets functioning, the Wall Street Journal reported in an analysis published on Saturday.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-14T22:15:51Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/options/articles/gpix-upside-cap-vs-spy-221551389.html"
-    },
-    {
-      "title": "Anthropic Revenue Surges to Over $11.5 Billion in Second Quarter",
-      "summary": "Anthropic PBC is telling prospective investors its second-quarter revenue jumped at least 14-fold versus the same period a year ago, according to documents seen by Bloomberg News.",
-      "pub_date": "2026-08-14T21:08:57Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-revenue-surges-over-11-210857853.html"
     }
   ]
 }
