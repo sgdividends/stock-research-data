@@ -1,7 +1,14 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-08-16T04:30:06.694527+00:00",
+  "generated_at": "2026-08-16T08:21:31.019789+00:00",
   "items": [
+    {
+      "title": "Why Cisco (CSCO) Stock Is Down Today",
+      "summary": "Shares of networking technology giant Cisco (NASDAQ:CSCO) fell 9% in the afternoon session after the company reported fourth-quarter fiscal 2026 results that beat Wall Street's expectations for both revenue and profit. Cisco posted record revenue of $17.3 billion, growing 18% year over year and surpassing analyst estimates. Non-GAAP earnings per share came in at $1.22, also beating consensus forecasts. Furthermore, Cisco provided an optimistic outlook, guiding fiscal 2027 revenue to $72.2\u2013$73.4",
+      "pub_date": "2026-08-16T07:41:00Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-cisco-csco-stock-down-074100939.html"
+    },
     {
       "title": "Cisco Systems (CSCO) Was Caught In A 2,500 Organization AI Exposure",
       "summary": "Cisco Systems (NasdaqGS: CSCO) is among more than 2,500 organizations reportedly affected by a major AI supply chain incident linked to LiteLLM in March 2026. The exposure is said to include sensitive data such as cloud credentials and AI API keys tied to AI integrations. The incident raises questions about cybersecurity, operational resilience and data privacy across Cisco's AI powered infrastructure and services. Investors are assessing how these AI related risks may influence perceptions...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-14T18:27:26Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-beat-every-line-then-182726658.html"
-    },
-    {
-      "title": "Earnings Prove AI Hardware Demand Is Strong. That\u2019s Good News for Dell Stock.",
-      "summary": "Dell Technologies  stock could have more room to run\u2014even after this year\u2019s meteoric rise\u2014as artificial intelligence hardware demand remains resilient.  Wells Fargo analyst Aaron Rakers raised his price target on Dell to $545 from $505 on Friday, which implies a 10% increase from the stock\u2019s last closing price of $494.51.  Dell\u2019s \u201cserver results and outlook present continued upside,\u201d Rakers wrote in a research note.",
-      "pub_date": "2026-08-14T18:12:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/dell-technologies-stock-upgrade-ai-earnings-300dee64?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
