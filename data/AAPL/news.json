@@ -1,7 +1,28 @@
 {
   "ticker": "AAPL",
-  "generated_at": "2026-08-16T12:26:15.297416+00:00",
+  "generated_at": "2026-08-16T16:17:18.822638+00:00",
   "items": [
+    {
+      "title": "I Checked VIG's Top Holdings. They're Not What You'd Expect From a Dividend ETF.",
+      "summary": "This ETF focuses on a specific type of dividend stock.",
+      "pub_date": "2026-08-16T15:20:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/checked-vigs-top-holdings-theyre-152000890.html"
+    },
+    {
+      "title": "Google is using a $29 gadget to tighten its grip on Android users",
+      "summary": "Alphabet (GOOGL) unveiled the Pixel Tag, its first item tracker, priced at $29, putting it directly against Apple (AAPL) and its AirTag. The product launches Nov. 11 and will also come in a four-pack for $99. It\u2019s a small piece of hardware that helps people find their keys, wallets, luggage, and ...",
+      "pub_date": "2026-08-16T14:07:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/articles/google-using-29-gadget-tighten-140700315.html"
+    },
+    {
+      "title": "Jim Cramer Says Tim Cook Built Something No Other CEO Has: A Device People Think Is Their Friend",
+      "summary": "Jim Cramer credits Tim Cook with pulling off something no hardware company has managed before, and the financial case he makes reframes why Apple's valuation looks less like a tech stock and more like something stranger.",
+      "pub_date": "2026-08-16T13:00:01Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-tim-cook-130001330.html"
+    },
     {
       "title": "Apple's cheap-chip plan just hit a wall in Washington",
       "summary": "Every company eventually learns that the cheapest solution and the acceptable solution are two different things. That gap is where corporate strategy actually lives. You find the efficient answer, you run it past the people who can veto it, and you discover efficiency was never the only variable. ...",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-16T01:16:15Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-bigger-bet-delta-dal-011615749.html"
-    },
-    {
-      "title": "Apple\u2019s first foldable could reshape its entire iPhone launch",
-      "summary": "Apple (AAPL) will allegedly focus on producing and shipping its three most high-end 2026 models and defer the regular iPhone 18 to the first half of 2027 rather than releasing all new iPhone models at the same time. But if the scheme works, it would disclose something big about Apple's intentions. ...",
-      "pub_date": "2026-08-16T00:03:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-first-foldable-could-reshape-000300150.html"
-    },
-    {
-      "title": "Apple (AAPL) Launches Ads On Maps While Pursuing Siri AI Content Deals",
-      "summary": "Apple (NasdaqGS:AAPL) has formally launched its 'Ads on Maps' platform, entering the local digital advertising market alongside Google and Meta. The new product allows businesses to buy promoted placements inside Apple Maps to reach nearby users searching for places and services. Apple is also negotiating content deals with news publishers to use their material in training its AI models that power Siri while addressing copyright and payment terms. These steps mark a material shift in Apple's...",
-      "pub_date": "2026-08-15T20:08:58Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/media-advertising/articles/apple-aapl-launches-ads-maps-200858734.html"
-    },
-    {
-      "title": "AI \u2018Chipflation\u2019 Washes Ashore in the UK Economy",
-      "summary": "UK consumer prices will grab headlines in the coming week, with an AI-driven memory-chip shortage and higher energy costs keeping the Bank of England on guard.",
-      "pub_date": "2026-08-15T20:00:00Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/economy/articles/ai-chipflation-washes-ashore-uk-200000084.html"
     }
   ]
 }

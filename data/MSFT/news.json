@@ -1,7 +1,35 @@
 {
   "ticker": "MSFT",
-  "generated_at": "2026-08-16T12:27:03.017568+00:00",
+  "generated_at": "2026-08-16T16:17:54.828898+00:00",
   "items": [
+    {
+      "title": "'Spending is leading to earnings': Wall Street strategists see payoff from Big Tech's AI investment",
+      "summary": "Wall Street sees booming cloud growth as a sign that AI spending is giving a return on investment.",
+      "pub_date": "2026-08-16T15:16:10Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/spending-is-leading-to-earnings-wall-street-strategists-see-payoff-from-big-techs-ai-investment-151610093.html"
+    },
+    {
+      "title": "SpaceX is Planning to Spend Up to $500 Billion on Data Centers. Here\u2019s Why Elon Musk is Pushing All-In",
+      "summary": "SpaceX is moving fast enough to potentially spend half a trillion dollars on data centers in a single year, and the inference economics driving that decision reveal something surprising about where the entire AI arms race could break down.",
+      "pub_date": "2026-08-16T13:31:55Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/spacex-planning-spend-500-billion-133155872.html"
+    },
+    {
+      "title": "After Comparing Every Dividend ETF That Owns the Magnificent Seven, These 3 Pay You Without Giving Up the AI Trade",
+      "summary": "Most dividend ETFs quietly blacklist the stocks powering the AI rally, forcing investors to choose between income and growth. Three funds built different rules, and the tradeoffs between them are not what most people expect.",
+      "pub_date": "2026-08-16T13:27:26Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/options/articles/comparing-every-dividend-etf-owns-132726417.html"
+    },
+    {
+      "title": "At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl",
+      "summary": "Enthusiasm for Big Tech and its huge investments in artificial intelligence is powering the stock market to record highs again. With a resilient economy and scorching demand, there\u2019s seemingly only one obstacle that can derail this ride: higher interest rates.",
+      "pub_date": "2026-08-16T12:30:00Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-fueled-market-party-wall-123000539.html"
+    },
     {
       "title": "Plug Power Tested a Backup Power System With Microsoft. Here's Why the CEO Says That's Not a Real Pivot Yet.",
       "summary": "Plug Power's collaboration with Microsoft to explore hydrogen fuel cell technology opens up a new market opportunity, but it doesn't represent a strategic shift for the company.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-08-16T07:30:00Z",
       "source": "Fortune",
       "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-exec-southern-europe-big-073000075.html"
-    },
-    {
-      "title": "Amazon vs. Microsoft: Which Cloud Computing Behemoth Is the Better Artificial Intelligence (AI) Buy Today?",
-      "summary": "Both Amazon and Microsoft are benefiting from the AI arms race.",
-      "pub_date": "2026-08-16T04:20:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-vs-microsoft-cloud-computing-042000503.html"
-    },
-    {
-      "title": "1 Dow Jones Stock with Impressive Fundamentals and 2 We Turn Down",
-      "summary": "While the Dow Jones (^DJI) represents industry leaders, not every stock in the index is a safe bet. Some are facing headwinds like declining demand, rising costs, or disruptive new competitors.",
-      "pub_date": "2026-08-15T23:57:00Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-dow-jones-stock-impressive-235700802.html"
-    },
-    {
-      "title": "Elon Musk Says SpaceX Has a Massive Competitive Advantage in AI That Amazon, Google, and Microsoft Can't Touch",
-      "summary": "Musk's bold claim suggests SpaceX could spend huge sums on data centers.",
-      "pub_date": "2026-08-15T19:23:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-spacex-massive-192300638.html"
-    },
-    {
-      "title": "DIVO or JEPI: Which Monthly Dividend Actually Protects Your Principal?",
-      "summary": "Both DIVO and JEPI hand you a monthly paycheck funded by covered calls on blue-chip stocks, but one of them has been quietly compounding your principal while the other trades that growth away for a fatter yield.",
-      "pub_date": "2026-08-15T18:23:12Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/divo-jepi-monthly-dividend-actually-182312705.html"
     }
   ]
 }

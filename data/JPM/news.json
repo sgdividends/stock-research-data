@@ -1,7 +1,21 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-08-16T12:26:54.245064+00:00",
+  "generated_at": "2026-08-16T16:17:48.569077+00:00",
   "items": [
+    {
+      "title": "JPMorgan Raises S&P 500 Target to 8,000 as Earnings and AI Growth Strengthen Outlook",
+      "summary": "JPMorgan has increased its 2026 S&P 500 price target to 8,000 from 7,800, pointing to an exceptionally strong second-quarter earnings season and growing evidence that massive artificial intelligence investments are translating into stronger business performance. The bank also raised its earnings forecasts for both 2026 and 2027, although elevated interest rates, geopolitical risks and heavy capital-market supply are keeping its valuation assumptions in check.",
+      "pub_date": "2026-08-16T13:41:00Z",
+      "source": "InvestorsHub",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-raises-p-500-target-134100944.html"
+    },
+    {
+      "title": "Bonds Face a Bigger Threat Than the Fed as Global Rates Climb",
+      "summary": "As investors debate whether and when the Federal Reserve will raise interest rates, market expectations for further tightening are building around the world \u2014 and spelling trouble for bonds.",
+      "pub_date": "2026-08-16T12:00:00Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/economy/policy/articles/bonds-face-bigger-threat-fed-120000846.html"
+    },
     {
       "title": "Central bank market backstops risk fuelling leverage and future crises",
       "summary": "Investing.com -- Central banks may be encouraging excessive leverage and indirectly lowering government borrowing costs through emergency facilities designed to keep financial markets functioning, the Wall Street Journal reported in an analysis published on Saturday.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-14T21:08:57Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-revenue-surges-over-11-210857853.html"
-    },
-    {
-      "title": "Weekly Wrap: Bitcoin Treads Water As Summer Doldrums Grip Markets",
-      "summary": "Bitcoin\u2019s (CRYPTO: $BTC) price was trading at $62,800 U.S. on Aug. 14 as the market finds itself in the midst...",
-      "pub_date": "2026-08-14T20:15:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-treads-water-201500006.html"
-    },
-    {
-      "title": "Sector Update: Financial Stocks Edge Lower Late Afternoon",
-      "summary": "Financial stocks were slightly lower in late Friday afternoon trading, with the NYSE Financial Index",
-      "pub_date": "2026-08-14T19:56:59Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-edge-lower-195659801.html"
     }
   ]
 }
