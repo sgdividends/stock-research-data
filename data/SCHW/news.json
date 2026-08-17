@@ -1,7 +1,14 @@
 {
   "ticker": "SCHW",
-  "generated_at": "2026-08-17T12:32:45.472371+00:00",
+  "generated_at": "2026-08-17T16:21:13.002572+00:00",
   "items": [
+    {
+      "title": "Charles Schwab takes huge gamble on single stock futures",
+      "summary": "Trading stocks through Schwab no longer necessarily requires buying a company's shares outright, opening a new way with significantly less cash up front. The product is called a single stock future, and it comes with a track record that the marketing materials skip over entirely. Charles Schwab ...",
+      "pub_date": "2026-08-17T15:07:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/options/articles/charles-schwab-takes-huge-gamble-150700399.html"
+    },
     {
       "title": "Vanguard's VGLT or Schwab's SCHQ: Which Long-Term Treasury ETF Is the Better Buy?",
       "summary": "VGLT and SCHQ track the same index, charge the same fee, and move in perfect lockstep. So why does the choice between them still matter?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-13T05:00:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/vanguard-etfs-financial-advice-bdbc3129?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Sector Update: Financial Stocks Rise Late Afternoon",
-      "summary": "Financial stocks were higher in late Wednesday afternoon trading, with the NYSE Financial Index up 0",
-      "pub_date": "2026-08-12T19:56:56Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-rise-afternoon-195656737.html"
     }
   ]
 }

@@ -1,7 +1,21 @@
 {
   "ticker": "PYPL",
-  "generated_at": "2026-08-17T12:32:42.234591+00:00",
+  "generated_at": "2026-08-17T16:21:10.157059+00:00",
   "items": [
+    {
+      "title": "Stripe strikes mega-deal for OpenRouter",
+      "summary": "Stripe has agreed to acquire AI model marketplace OpenRouter for more than $8 billion in cash and stock, Axios has learned.",
+      "pub_date": "2026-08-17T14:10:24Z",
+      "source": "Axios",
+      "url": "https://finance.yahoo.com/technology/ai/articles/stripe-strikes-mega-deal-openrouter-141024795.html"
+    },
+    {
+      "title": "Latest News In Digital Payment - Global Payment Innovations Sparked By Yuno's Funding Triumph",
+      "summary": "The digital payment sector continues to evolve rapidly, as demonstrated by Yuno's recent successful completion of a $45 million Series B funding round. Led by Global PayTech Ventures, this investment reflects the growing demand for advanced global payment systems and financial services infrastructure. With plans to enhance its AI-native platform, Yuno aims to bolster its global payments network, which supports a wide range of financial services and payment methods across 190 countries. This...",
+      "pub_date": "2026-08-17T12:37:35Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/latest-news-digital-payment-global-123735324.html"
+    },
     {
       "title": "PayPal reportedly in sale talks with consortium including Stripe and Advent",
       "summary": "In July, Stripe and Advent had submitted a joint bid of $60.50 per share, valuing the payments company at about $53bn.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-14T22:43:24Z",
       "source": "TechCrunch",
       "url": "https://finance.yahoo.com/markets/stocks/articles/talks-sell-paypal-stripe-advent-224324407.html"
-    },
-    {
-      "title": "PayPal Stock Rises on Report of Stripe, Advent Buyout Talks",
-      "summary": "PayPal  stock rose on Friday after a report said that the payments company is in negotiations to sell itself to Stripe and private-equity firm Advent International, with the potential buyers discussing a higher price than their previous offer.  Stripe and Advent offered $60.50 a share for PayPal in a July deal that would value the fintech company at around $53 billion, but PayPal considered the bid too low, the Wall Street Journal reported on Friday, citing people familiar with the matter.  PayPal declined to comment.",
-      "pub_date": "2026-08-14T22:08:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/paypal-stock-stripe-advent-deal-d3924288?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "The Engine Behind XYZ Stock Has Real Parts",
-      "summary": "This payment processor's stock is on a tear, fueled by real business success, but investors now face the classic question of whether the next leg of growth is already built into the price.",
-      "pub_date": "2026-08-14T21:12:58Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/engine-behind-xyz-stock-real-211258796.html"
     }
   ]
 }

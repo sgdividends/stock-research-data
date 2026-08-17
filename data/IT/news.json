@@ -1,7 +1,14 @@
 {
   "ticker": "IT",
-  "generated_at": "2026-08-17T12:32:19.782847+00:00",
+  "generated_at": "2026-08-17T16:20:50.277998+00:00",
   "items": [
+    {
+      "title": "Buy These 4 Consulting Services Stocks Flying High for a Month",
+      "summary": "IT, HURN, CBZ and III have soared over 25% in a month, backed by strong earnings estimate revisions.",
+      "pub_date": "2026-08-17T13:10:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-4-consulting-services-stocks-131000063.html"
+    },
     {
       "title": "Only one-quarter of AI customer service use cases produce ROI",
       "summary": "Customer service teams are increasing investments in the technology even as economic value remains elusive, Gartner finds.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-13T19:17:00Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-191700928.html"
-    },
-    {
-      "title": "CBRS Q2 Earnings Beat Estimates as Cloud Revenues Surge 287%",
-      "summary": "Cerebras Systems beats Q2 estimates as core revenues jump 103%, fueled by a 287% surge in cloud services and rapid adoption of fast inference.",
-      "pub_date": "2026-08-13T18:00:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cbrs-q2-earnings-beat-estimates-180000299.html"
     }
   ]
 }

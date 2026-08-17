@@ -1,7 +1,14 @@
 {
   "ticker": "MU",
-  "generated_at": "2026-08-17T12:32:32.123452+00:00",
+  "generated_at": "2026-08-17T16:21:00.888960+00:00",
   "items": [
+    {
+      "title": "Tech searches for gains as stocks teeter at the open: AlphaCheck",
+      "summary": "Stocks got off to a quiet start a day after the S&P 500 hit a record high, while bitcoin fell.",
+      "pub_date": "2026-08-17T13:51:55Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/tech-searches-for-gains-as-stocks-teeter-at-the-open-alphacheck-135155576.html"
+    },
     {
       "title": "Micron stock heats up again, crossing $1,000",
       "summary": "Micron shares are back with some momentum.",
@@ -10,53 +17,46 @@
       "url": "https://finance.yahoo.com/markets/stocks/article/micron-stock-heats-up-again-crossing-1000-115304344.html"
     },
     {
-      "title": "Stock Market Today: Dow Falls, Nasdaq Rises As Memory Chip Stocks Micron, Sandisk Extend Gains (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index drops, but the Nasdaq rises as memory-chip stocks Micron and Sandisk rally sharply.",
-      "pub_date": "2026-08-17T11:58:59Z",
+      "title": "Investors Remember Why They Love Memory-Chip Stocks",
+      "summary": "Investors drove memory-chip stocks higher on Monday for the fifth straight trading session. Micron, Sandisk and SK Hynix all advanced with vigor.",
+      "pub_date": "2026-08-17T16:06:20Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/technology/sk-hynix-sandisk-micron-memory-chip-stocks/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Prediction: Micron Is Up 240% This Year, and Here Is the Next Catalyst",
+      "summary": "Micron has staged one of the most stunning rallies of the AI era, but a new catalyst looms that could either extend the run dramatically or expose the stock to a sharp reversal. Here is what bulls and bears are both missing.",
+      "pub_date": "2026-08-17T16:00:16Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-micron-240-next-catalyst-160016790.html"
+    },
+    {
+      "title": "Stock Market Today: Dow Falls After Trump Oman Threat; Homebuilders Decline Despite This Data (Live Coverage)",
+      "summary": "Stock Market Today: The Dow Jones index drops as memory-chip stocks Micron and Sandisk rally. Trump threatens Oman.",
+      "pub_date": "2026-08-17T15:39:17Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-stock-sandisk-stock-sndk/?src=A00220&yptr=yahoo"
     },
     {
-      "title": "AI Chips Today - Fort Technology Expands Amid Record Revenue and Strategic Acquisitions",
-      "summary": "Recent developments in the AI Chips sector highlight significant growth and strategic expansions. Fort Technology Inc., a subsidiary of Nexera Technologies, reported a record 49% increase in revenue and a 145% rise in gross profit for the first half of 2026. This growth is attributed to a substantial increase in units sold through the Amazon Marketplace and the expansion into new European markets. Additionally, Fort Technology is expanding its focus into data center solutions through the...",
-      "pub_date": "2026-08-17T11:37:04Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-chips-today-fort-technology-113704087.html"
-    },
-    {
-      "title": "MU Remains BofA's Top Memory Pick \u2013 SNDK Signals Memory Growth May Be Structural, BofA Says",
-      "summary": "BofA reiterated its \u2018Buy\u2019 rating on Micron and a $1,550 price target, implying an upside potential of about 59% from current levels.",
-      "pub_date": "2026-08-17T11:36:24Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mu-remains-bofas-top-memory-113624433.html"
-    },
-    {
-      "title": "Stocks Mostly Up Pre-Bell as Traders Await Fed Meeting Minutes, Retail Earnings",
-      "summary": "The benchmark US stock measures were mostly pointing higher before the opening bell Monday as trader",
-      "pub_date": "2026-08-17T11:09:59Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-mostly-pre-bell-traders-110959890.html"
-    },
-    {
-      "title": "Sandisk Stock Is Getting Its Mojo Back Amid China Memory-Chip Move",
-      "summary": "Sandisk  stock is on a hot streak and may finally be getting its mojo back.  The shares are on a five-day winning streak through Friday, jumping 35% in that time.  Sandisk was moving in tandem with other memory stocks, including  Western Digital Seagate  and  Micron  ahead of the open Monday.",
-      "pub_date": "2026-08-17T10:52:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/sandisk-stock-memory-chip-china-cd80db15?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Intel, Oracle, Marvell, Alibaba, and More Stocks That Explain Today\u2019s Market",
-      "summary": "Chips and memory stocks are catching a bid at the start of what could be a quiet week for the market.",
-      "pub_date": "2026-08-17T10:43:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-a39cdac2?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Elon Musk\u2019s 5-Word Statement Should Have Every Micron Investor Paying Attention",
-      "summary": "When Elon Musk names the single constraint capping his AI ambitions on a live earnings call, every investor in the semiconductor supply chain should be listening closely to what he says next.",
-      "pub_date": "2026-08-17T10:39:57Z",
+      "title": "Super Micro Computer Pulls Back 4%, Dell Falls 3% as DDR5 Patent Fight Hits AI Server Makers",
+      "summary": "A fresh DDR5 patent complaint at the International Trade Commission just wiped out a chunk of Super Micro Computer's massive weekly rally, yet the memory maker named in the same filing is trading sharply higher. Here is why the market is splitting the two apart.",
+      "pub_date": "2026-08-17T15:37:21Z",
       "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-5-word-statement-103957809.html"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-pulls-back-153721452.html"
+    },
+    {
+      "title": "BofA sees Micron EPS topping $230 by FY30, calls peak fears overblown",
+      "summary": "BofA analyst Vivek Arya reiterated a Buy rating and $1,550 price target on Micron while recently adding the stock to BofA's US 1 List, the firm's highest-conviction ideas. The current price target represents over 50% upside from the current level of $1014.",
+      "pub_date": "2026-08-17T15:32:02Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-sees-micron-eps-topping-153202970.html"
+    },
+    {
+      "title": "Micron's AI Boom Is a Utility Story Too. Here's the Power Angle Wall Street Isn't Pricing In.",
+      "summary": "Micron's AI boom is only part of the story. If you follow the power, you may find the next group of overlooked AI winners.",
+      "pub_date": "2026-08-17T15:20:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/microns-ai-boom-utility-story-152000262.html"
     }
   ]
 }

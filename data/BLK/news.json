@@ -1,7 +1,49 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-08-17T12:31:43.546949+00:00",
+  "generated_at": "2026-08-17T16:20:20.449603+00:00",
   "items": [
+    {
+      "title": "UBS, Tudor Investment Increase Bitcoin ETF Exposure in Q2",
+      "summary": "Swiss multinational investment bank UBS (NYSE: $UBS) and Tudor Investment, a hedge fund firm founded by billionaire...",
+      "pub_date": "2026-08-17T15:23:00Z",
+      "source": "CryptoProwl",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/ubs-tudor-investment-increase-bitcoin-152300435.html"
+    },
+    {
+      "title": "NVIDIA Corporation (NVDA) & KKR & Co (KKR): Wall Street Just Endorsed Jensen Huang\u2019s \u201cBig Concept.\u201d What Happens Next?",
+      "summary": "On August 10, NVIDIA Corporation (NASDAQ:NVDA) CEO Jensen Huang unveiled what he calls his \u201cbig concept\u201d for AI financing on CNBC, standing alongside leaders from Goldman Sachs, BlackRock, Blackstone, KKR, Apollo, and Brookfield. Together, the group says it will raise $500 billion, and potentially more, from outside investors to build new AI data centers. KKR [\u2026]",
+      "pub_date": "2026-08-17T14:23:07Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-kkr-co-142307968.html"
+    },
+    {
+      "title": "Market Chatter: Meta's Texas Data Center With BlackRock Exposed to Potential Losses on Partial Insurance Coverage",
+      "summary": "Meta Platforms' (META) and BlackRock's (BLK) Sopaipilla data center campus in El Paso, Texas, is exp",
+      "pub_date": "2026-08-17T14:22:13Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-meta-apos-texas-142213347.html"
+    },
+    {
+      "title": "Nvidia\u2019s Stake in SpaceX\u2014and Musk\u2019s Massive Holdings",
+      "summary": "The chip maker king owns 123 million shares, a strategic stake of just under 1%. And CEO Elon Musk controls a whopping 6.4 billion shares, almost half of the stock outstanding.",
+      "pub_date": "2026-08-17T14:21:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/elon-musk-spacex-holdings-stock-8a935b9d?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Billionaire BlackRock CEO Larry Fink Says One of \u2018Worst\u2019 Financial Decisions You\u2019ll Ever Make Is Keeping Your Money in the Bank",
+      "summary": "A savings account may feel like the safest place to park cash, but BlackRock CEO Larry Fink says playing it safe can come with a hidden cost that compounds over time. \"Having your money in a bank account is one...",
+      "pub_date": "2026-08-17T14:01:03Z",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-blackrock-ceo-larry-fink-140103496.html"
+    },
+    {
+      "title": "After Golden Cross, BlackRock (BLK)'s Technical Outlook is Bright",
+      "summary": "Good things could be on the horizon when a stock experiences a golden cross event. How should investors react?",
+      "pub_date": "2026-08-17T13:55:02Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/golden-cross-blackrock-blk-technical-135502679.html"
+    },
     {
       "title": "Nvidia Is Becoming AI's Bank: Here's Why It Could Reshape NVDA Stock",
       "summary": "Nvidia's $500 Billion AI Financing Push Raises the Stakes for NVDA Stock",
@@ -15,48 +57,6 @@
       "pub_date": "2026-08-17T11:08:11Z",
       "source": "Reuters",
       "url": "https://finance.yahoo.com/news/jio-blackrock-launch-regular-mutual-110811901.html"
-    },
-    {
-      "title": "Elon Musk\u2019s SpaceX Holdings Revealed. (Hint: It\u2019s A Lot.)",
-      "summary": "SpaceX  is a popular stock, backed by some investing and corporate heavy hitters.  The heaviest hitter of all, of course, is Elon Musk.  It\u2019s the first time public funds have disclosed SpaceX positions.",
-      "pub_date": "2026-08-17T10:33:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/elon-musk-spacex-holdings-stock-8a935b9d?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling",
-      "summary": "The macro fund raised its iShares Bitcoin Trust stake 18.9% to 688,529 shares worth $22.9 million in Q2, while sharply cutting its call options\u2014a shift from leveraged bets toward direct spot exposure.",
-      "pub_date": "2026-08-17T10:31:04Z",
-      "source": "decrypt",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/paul-tudor-jones-firm-buys-103104818.html"
-    },
-    {
-      "title": "Should You Invest in the iShares U.S. Home Construction ETF (ITB)?",
-      "summary": "Sector ETF report for ITB",
-      "pub_date": "2026-08-17T10:20:02Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/real-estate/articles/invest-ishares-u-home-construction-102002018.html"
-    },
-    {
-      "title": "Meta and BlackRock\u2019s $14bn data centre exposes lenders to insurance gap",
-      "summary": "A new Texas data centre campus owned by Meta and BlackRock is on the hook for huge losses in the event of catastrophic events, creating credit...",
-      "pub_date": "2026-08-17T10:00:10Z",
-      "source": "Financial Times",
-      "url": "https://finance.yahoo.com/technology/articles/meta-blackrock-14bn-data-centre-100010238.html"
-    },
-    {
-      "title": "What Nvidia's $500 billion Wall Street deal signals about the AI boom",
-      "summary": "Nvidia and six of the world's largest investment firms announced plans last week to channel more than $500 billion (\u20ac433bn) into AI infrastructure, an arrangement designed to let tech companies build data centres without loading the cost onto their own balance sheets.View on euronews",
-      "pub_date": "2026-08-17T06:05:19Z",
-      "source": "Euronews",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-500-billion-wall-street-060519882.html"
-    },
-    {
-      "title": "Nvidia\u2019s Financing Platform Will Support the AI Investment Boom",
-      "summary": "Michael Burry calls Nvidia's AI financing a \"Wall Street stunt,\" so how will investors respond?",
-      "pub_date": "2026-08-16T13:45:01Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-financing-platform-support-ai-134501906.html"
     }
   ]
 }
