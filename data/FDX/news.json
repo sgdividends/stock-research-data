@@ -1,7 +1,14 @@
 {
   "ticker": "FDX",
-  "generated_at": "2026-08-17T04:35:40.570884+00:00",
+  "generated_at": "2026-08-17T08:36:21.055168+00:00",
   "items": [
+    {
+      "title": "FedEx (FDX) Stock May Be 34% Undervalued Despite California Layoffs",
+      "summary": "FedEx stock has delivered an 86.0% return over the past year, while the Discounted Cash Flow (DCF) intrinsic value estimate currently indicates the shares trade at a 33.6% discount to that estimate. This points to a company that still screens as undervalued despite a strong run. Over the last 12 months, FedEx has returned 86.0%, which puts the recent share price firmly in focus for investors assessing how much upside, if any, remains. The push to automate parts of the network with robotic...",
+      "pub_date": "2026-08-17T06:09:25Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fedex-fdx-stock-may-34-060925580.html"
+    },
     {
       "title": "DoorDash (DASH): 3 Reasons We Love This Stock",
       "summary": "DoorDash\u2019s 33.7% return over the past six months has outpaced the S&P 500 by 20.5%, and its stock price has climbed to $217.00 per share. This was partly thanks to its solid quarterly results, and the run-up might have investors contemplating their next move.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-13T13:00:00Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/technology/articles/were-not-big-brother-flock-130000235.html"
-    },
-    {
-      "title": "FedEx and others announce layoffs in Southern California",
-      "summary": "More than 500 people have lost jobs at FedEx, Staples and LAZ Parking; two facilities in Palm Springs and Victorville will close.",
-      "pub_date": "2026-08-13T10:00:00Z",
-      "source": "LA Times",
-      "url": "https://finance.yahoo.com/economy/articles/fedex-others-announce-layoffs-southern-100000850.html"
     }
   ]
 }

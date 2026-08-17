@@ -1,7 +1,14 @@
 {
   "ticker": "APO",
-  "generated_at": "2026-08-17T04:35:22.884529+00:00",
+  "generated_at": "2026-08-17T08:36:02.164284+00:00",
   "items": [
+    {
+      "title": "What Nvidia's $500 billion Wall Street deal signals about the AI boom",
+      "summary": "Nvidia and six of the world's largest investment firms announced plans last week to channel more than $500 billion (\u20ac433bn) into AI infrastructure, an arrangement designed to let tech companies build data centres without loading the cost onto their own balance sheets.View on euronews",
+      "pub_date": "2026-08-17T06:05:19Z",
+      "source": "Euronews",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-500-billion-wall-street-060519882.html"
+    },
     {
       "title": "Nvidia\u2019s Financing Platform Will Support the AI Investment Boom",
       "summary": "Michael Burry calls Nvidia's AI financing a \"Wall Street stunt,\" so how will investors respond?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-14T01:30:02Z",
       "source": "Benzinga",
       "url": "https://finance.yahoo.com/technology/ai/articles/michael-burry-calls-nvidia-500-013002467.html"
-    },
-    {
-      "title": "Wall Street sends strong signal to Nvidia stock investors",
-      "summary": "Nvidia CEO Jensen Huang has spent years telling investors his chips are indispensable to the future of computing. On Aug. 10, he tried something bolder, convincing some of the most powerful money managers on Wall Street to treat those same chips like an entirely new kind of investment. One that ...",
-      "pub_date": "2026-08-13T14:07:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-sends-strong-signal-140700090.html"
     }
   ]
 }
