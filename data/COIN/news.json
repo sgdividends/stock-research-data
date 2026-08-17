@@ -1,7 +1,14 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-08-17T08:36:10.722254+00:00",
+  "generated_at": "2026-08-17T12:31:51.447659+00:00",
   "items": [
+    {
+      "title": "White House Set To Host Coinbase, Ripple And Wall Street Executives This Week As Crypto Policy Takes Centrestage",
+      "summary": "The gathering comes as the CLARITY Act, the crypto industry's top Washington priority, remains pending in the Senate ahead of a vote next month.",
+      "pub_date": "2026-08-17T09:08:19Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/white-house-set-host-coinbase-090819371.html"
+    },
     {
       "title": "Why Coinbase (COIN) Stock Is Falling Today",
       "summary": "Shares of blockchain infrastructure company Coinbase (NASDAQ:COIN) fell 3.1% in the morning session after a broad crypto market downturn prompted by a hawkish monetary outlook from the Bank of Japan and escalating geopolitical risks. The crypto market came under pressure following reports that Japan's central bank was planning to raise interest rates. At the same time, rising tensions between the U.S. and Iran reduced investor demand for riskier assets. This sentiment was reflected in Bitcoin's",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-14T21:12:58Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/engine-behind-xyz-stock-real-211258796.html"
-    },
-    {
-      "title": "SEC Delays Meeting On Crypto Rules Proposal. Bitcoin Price, Crypto Stocks Fall.",
-      "summary": "The SEC postponed its Friday meeting, which would consider whether to propose new crypto rules amid the Clarity Act limbo.",
-      "pub_date": "2026-08-14T21:05:52Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/sec-delays-open-meeting-on-crypto-rules-proposal-innovation-token-clarity-act/?src=A00220&yptr=yahoo"
     }
   ]
 }

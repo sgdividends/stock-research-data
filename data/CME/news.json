@@ -1,7 +1,14 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-08-17T08:36:09.691882+00:00",
+  "generated_at": "2026-08-17T12:31:50.226852+00:00",
   "items": [
+    {
+      "title": "Shares rise, dollar slips as markets pare Fed rate risks",
+      "summary": "By Lawrence White LONDON, Aug 17 (Reuters) - Global shares edged higher and the dollar slipped towards two-month lows on Monday after a run of soft U.S. economic data, including an unexpected drop in",
+      "pub_date": "2026-08-17T07:29:25Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/asian-shares-mark-time-gulf-011925462.html"
+    },
     {
       "title": "S&P 500 Logs Third Consecutive Weekly Gain",
       "summary": "Stocks edged back from records Friday, with investors weighing weaker-than-anticipated economic data against an earnings season that has defied expectations.  Stocks initially opened higher Friday morning as investors interpreted unexpected weakness in consumer spending and sentiment as further evidence that the Federal Reserve won\u2019t raise interest rates at its September meeting.  Coming on the heels of softer inflation data and a cooling labor market, the figures reinforced bets that the central bank will stand pat on rates.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-13T18:10:32Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/oil-futures-wti-brent-iea-opec-how-bad-are-oil-demand-forecast-cuts/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Why Nvidia May Stand in the Way of Wall Street's Plans to Turn AI Compute Into a Commodity",
-      "summary": "CME Group Inc. (NASDAQ:CME) said Tuesday it will launch AI compute futures on Oct. 5, pending regulatory review, with contracts tracking monthly rental prices for NVIDIA Corp. (NASDAQ:NVDA) H100 and B200 chips. The exchange wants to turn compute into a...",
-      "pub_date": "2026-08-13T15:30:04Z",
-      "source": "Benzinga Prediction Markets",
-      "url": "https://finance.yahoo.com/technology/ai/articles/why-nvidia-may-stand-way-153004691.html"
     }
   ]
 }

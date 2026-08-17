@@ -1,7 +1,14 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-08-17T08:36:28.386616+00:00",
+  "generated_at": "2026-08-17T12:32:17.450412+00:00",
   "items": [
+    {
+      "title": "IBM Makes Surprise Move in Nvidia AI Race",
+      "summary": "Enterprise AI demand is shifting toward a new battleground",
+      "pub_date": "2026-08-17T12:18:19Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-makes-surprise-move-nvidia-121819782.html"
+    },
     {
       "title": "2 Tech Dividend Stocks That Offer High Yields and Payout Growth",
       "summary": "Yes, some tech names offer high, sustainable dividend returns.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-14T15:24:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-vs-ibm-tech-152400786.html"
-    },
-    {
-      "title": "Oracle Gets Cheaper Only If The Megawatts Arrive",
-      "summary": "Consensus has Oracle's multiple dropping steeply by the second forward year, and what that fall rests on is not better margins but data centers the company is still building.",
-      "pub_date": "2026-08-14T15:06:46Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-gets-cheaper-only-megawatts-150646530.html"
     }
   ]
 }

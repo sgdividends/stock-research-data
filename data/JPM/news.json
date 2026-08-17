@@ -1,7 +1,14 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-08-17T08:36:31.220333+00:00",
+  "generated_at": "2026-08-17T12:32:21.382192+00:00",
   "items": [
+    {
+      "title": "AI Is Driving Up Treasury Yields: \u2018It Just Touches Everything\u2019",
+      "summary": "An age-old economics tenet posits that excessive government borrowing can leave little room for companies to tap financial markets and drive up their interest rates to punishing levels. It\u2019s called the \u201ccrowding out\u201d theory.",
+      "pub_date": "2026-08-17T09:30:00Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/economy/policy/articles/ai-driving-treasury-yields-just-093000747.html"
+    },
     {
       "title": "Bitcoin Just Took a $390 Million Hit: A JPMorgan Warning From April Explains Why",
       "summary": "Bitcoin ETFs lost $390 million last week, and a JPMorgan warning from April about oil and food inflation explains why.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-16T07:00:00Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/healthcare/articles/horrific-conditions-grip-uk-hospitals-070000753.html"
-    },
-    {
-      "title": "HelloFresh (XTRA:HFG) Stock Sees Modest Fair Value Cut After Analysts Lower Targets",
-      "summary": "HelloFresh sits at the center of a changing analyst story, with fair value on one framework moving from \u20ac5.88 to \u20ac5.19 and several brokers cutting price targets into a range around \u20ac3.10 to \u20ac3.50. Those lower targets line up with more cautious research that highlights concerns about marketing returns and demand into the back to school period. As you read on, you will see how these shifting views fit together and how to keep track of the evolving HelloFresh narrative. Analyst Price Targets...",
-      "pub_date": "2026-08-15T21:09:57Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hellofresh-xtra-hfg-stock-sees-210957913.html"
     }
   ]
 }
