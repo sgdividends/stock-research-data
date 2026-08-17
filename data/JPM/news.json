@@ -1,62 +1,62 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-08-17T16:20:51.698304+00:00",
+  "generated_at": "2026-08-17T20:19:55.333582+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Decline Late Afternoon",
+      "summary": "Financial stocks fell in late Monday afternoon trading with the NYSE Financial Index dropping 0.8% a",
+      "pub_date": "2026-08-17T19:53:53Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-afternoon-195353964.html"
+    },
+    {
+      "title": "JPMorgan revamps SanDisk stock with massive price target",
+      "summary": "I covered SanDisk's Investor Day Aug. 14, when the company revealed a long-term financial framework calling for 80% gross margins, 75% operating margins, and 100% excess cash return to shareholders. The market responded with a 13.67% single-session surge followed by another 7.39% gain the following ...",
+      "pub_date": "2026-08-17T19:09:13Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-revamps-sandisk-stock-massive-190913522.html"
+    },
+    {
+      "title": "SanDisk Rallied On Contracts It Had Already Signed",
+      "summary": "The investor day news was a day old when the analysts moved the stock, and what they were paying for was visibility.",
+      "pub_date": "2026-08-17T18:29:01Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-rallied-contracts-had-already-182901752.html"
+    },
+    {
+      "title": "Why AMD Stock Is Down Today",
+      "summary": "AMD Stock Slides After Chipmaker Sets Terms for Massive $4.75 Billion Debt Sale",
+      "pub_date": "2026-08-17T17:37:25Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-down-today-173725648.html"
+    },
+    {
+      "title": "JPMorgan warns a brutal grocery shock could hit boomers, as USDA says prices may jump 12.3%. Is your nest egg ready?",
+      "summary": "\u201cRising fertilizer prices could lift global food inflation temporarily to 4-5%.\u201d",
+      "pub_date": "2026-08-17T17:30:00Z",
+      "source": "Moneywise",
+      "url": "https://finance.yahoo.com/economy/articles/jpmorgan-warns-brutal-grocery-shock-173000391.html"
+    },
+    {
+      "title": "Will Housing Push, New Bonds and Blockchain Network Expansion Change JPMorgan Chase's (JPM) Narrative",
+      "summary": "In recent weeks, JPMorgan Chase & Co. has declared dividends on its Series II, OO and PP preferred stock and launched a series of new callable, fixed-rate senior and unsecured notes across maturities from 2030 to 2056, while also expanding its Kinexys blockchain payments network and committing over US$750 billion through 2035 to housing initiatives in the United States. These moves highlight how JPMorgan is pairing traditional funding and capital-return tools with blockchain-based payments...",
+      "pub_date": "2026-08-17T17:09:42Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/housing-push-bonds-blockchain-network-170942577.html"
+    },
+    {
+      "title": "The \u2018Jamie premium\u2019 nears $1 trillion as JP Morgan flirts with historic market valuation",
+      "summary": "CEO Jamie Dimon has spent two decades building JP Morgan into the lion of Wall Street. Its market cap was $138 billion when he took over",
+      "pub_date": "2026-08-17T16:47:35Z",
+      "source": "Fortune",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jamie-premium-nears-1-trillion-164735019.html"
+    },
     {
       "title": "UBS, Tudor Investment Increase Bitcoin ETF Exposure in Q2",
       "summary": "Swiss multinational investment bank UBS (NYSE: $UBS) and Tudor Investment, a hedge fund firm founded by billionaire...",
       "pub_date": "2026-08-17T15:23:00Z",
       "source": "CryptoProwl",
       "url": "https://finance.yahoo.com/markets/crypto/articles/ubs-tudor-investment-increase-bitcoin-152300435.html"
-    },
-    {
-      "title": "ETFs to Buy as JPMorgan Races to Become the First $1 Trillion Bank",
-      "summary": "JPMorgan's push toward a $1 trillion valuation spotlights four ETFs offering diversified exposure to the banking giant's rally.",
-      "pub_date": "2026-08-17T14:40:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-buy-jpmorgan-races-become-144000478.html"
-    },
-    {
-      "title": "Shein Is Said to Target Up to $27 Billion Valuation in HK IPO",
-      "summary": "Fast-fashion retailer Shein Global Holdings Ltd. is targeting a valuation in the range of $26 billion to $27 billion in its initial public offering in Hong Kong, according to people familiar with the matter, a sharp drop from its peak value.",
-      "pub_date": "2026-08-17T14:32:09Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/shein-said-target-27-billion-143209036.html"
-    },
-    {
-      "title": "TTM Technologies Strikes $1.1 Billion Deal to Acquire Epiq Solutions",
-      "summary": "TTM Technologies (TTMI) has agreed to acquire Epiq Design Solutions in a $1.1 billion all-cash deal",
-      "pub_date": "2026-08-17T14:28:48Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/articles/ttm-technologies-strikes-1-1-142848540.html"
-    },
-    {
-      "title": "JPMorgan cut Polymarket as banking client over regulatory concerns",
-      "summary": "The bank terminated its relationship with the prediction market platform in October, though some ties between the two companies remain",
-      "pub_date": "2026-08-17T12:31:45Z",
-      "source": "Quartz",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-cut-polymarket-banking-client-123145170.html"
-    },
-    {
-      "title": "AI Is Driving Up Treasury Yields: \u2018It Just Touches Everything\u2019",
-      "summary": "An age-old economics tenet posits that excessive government borrowing can leave little room for companies to tap financial markets and drive up their interest rates to punishing levels. It\u2019s called the \u201ccrowding out\u201d theory.",
-      "pub_date": "2026-08-17T09:30:00Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/economy/policy/articles/ai-driving-treasury-yields-just-093000747.html"
-    },
-    {
-      "title": "Bitcoin Just Took a $390 Million Hit: A JPMorgan Warning From April Explains Why",
-      "summary": "Bitcoin ETFs lost $390 million last week, and a JPMorgan warning from April about oil and food inflation explains why.",
-      "pub_date": "2026-08-17T06:55:14Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-just-took-390-million-065514637.html"
-    },
-    {
-      "title": "Banks Cheer as Trump\u2019s Regulatory Rollback Spreads to Europe",
-      "summary": "Bankers in Europe are increasingly hopeful their regulatory constraints will ease",
-      "pub_date": "2026-08-17T04:00:05Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/economy/policy/articles/banks-cheer-trump-regulatory-rollback-040005762.html"
     }
   ]
 }

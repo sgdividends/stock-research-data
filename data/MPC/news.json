@@ -1,6 +1,6 @@
 {
   "ticker": "MPC",
-  "generated_at": "2026-08-17T16:20:59.048036+00:00",
+  "generated_at": "2026-08-17T20:20:00.846885+00:00",
   "items": [
     {
       "title": "If You Invested $1000 in Marathon Petroleum a Decade Ago, This is How Much It'd Be Worth Now",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-17T12:30:01Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/invested-1000-marathon-petroleum-decade-123001307.html"
+    },
+    {
+      "title": "Do Wall Street Analysts Like Marathon Petroleum Stock?",
+      "summary": "Marathon Petroleum has left the broader market in the dust over the past year, delivering standout gains, while Wall Street remains moderately bullish on the refining giant\u2019s outlook.",
+      "pub_date": "2026-08-17T10:23:00Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-marathon-petroleum-102300856.html"
     },
     {
       "title": "Sector Update: Energy Stocks Rise Friday",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-14T11:00:02Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-14-2026/card/oil-refiners-power-s-p-500-to-records-Mb3Uf0LFB7M1T5MhHWFY?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Reading Between The Lines Of XOM's Latest Call",
-      "summary": "ExxonMobil's latest earnings call forced management to explain a strange problem: why its best project is so successful that the company's share of the oil is now falling.",
-      "pub_date": "2026-08-13T18:55:14Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/energy/articles/reading-between-lines-xoms-latest-185514982.html"
     }
   ]
 }

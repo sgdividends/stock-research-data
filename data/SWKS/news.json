@@ -1,7 +1,14 @@
 {
   "ticker": "SWKS",
-  "generated_at": "2026-08-17T16:21:16.241508+00:00",
+  "generated_at": "2026-08-17T20:20:13.606252+00:00",
   "items": [
+    {
+      "title": "MaxLinear Stock Sells At A Price Its Trailing Year Cannot Explain",
+      "summary": "MaxLinear stock trades on multiples measured over a trailing year, while the infrastructure business that would justify them is only now the company's largest.",
+      "pub_date": "2026-08-17T17:48:24Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/maxlinear-stock-sells-price-trailing-174824433.html"
+    },
     {
       "title": "3 S&P 500 Stocks with Open Questions",
       "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn\u2019t mean every stock is worth owning. Some companies face significant challenges, whether it\u2019s stagnating growth, heavy debt, or disruptive new competitors.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-05T16:49:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/qrvo-earnings-beat-highlights-changing-164900240.html"
-    },
-    {
-      "title": "Should Investors Buy QRVO or Wait for More Visibility?",
-      "summary": "QRVO is improving profitability through stronger execution and diversification, but smartphone exposure and transaction uncertainty still cloud the outlook.",
-      "pub_date": "2026-08-05T16:47:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-buy-qrvo-wait-more-164700346.html"
     }
   ]
 }

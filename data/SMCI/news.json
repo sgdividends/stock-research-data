@@ -1,7 +1,14 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-08-17T16:21:13.702869+00:00",
+  "generated_at": "2026-08-17T20:20:11.657372+00:00",
   "items": [
+    {
+      "title": "SMCI Surges 67% in a Month: Time to Hold or Fold the Stock?",
+      "summary": "Super Micro Computer's 67% monthly surge is backed by AI demand and a record backlog, but inventory, competition and execution risks cloud the outlook.",
+      "pub_date": "2026-08-17T15:53:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/smci-surges-67-month-time-155300102.html"
+    },
     {
       "title": "Super Micro Computer Pulls Back 4%, Dell Falls 3% as DDR5 Patent Fight Hits AI Server Makers",
       "summary": "A fresh DDR5 patent complaint at the International Trade Commission just wiped out a chunk of Super Micro Computer's massive weekly rally, yet the memory maker named in the same filing is trading sharply higher. Here is why the market is splitting the two apart.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-15T11:07:38Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/ai/articles/amd-intel-nvidia-rally-super-110738841.html"
-    },
-    {
-      "title": "Super Micro Computer (SMCI) Named In Netlist DDR5 ITC Complaint",
-      "summary": "Netlist has filed an ITC complaint naming Super Micro Computer (NasdaqGS:SMCI), Micron, Hewlett Packard Enterprise and Lenovo over alleged infringement involving DDR5 memory module technology.",
-      "pub_date": "2026-08-15T03:18:46Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-hit-031846891.html"
     }
   ]
 }

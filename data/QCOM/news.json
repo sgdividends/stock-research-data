@@ -1,7 +1,14 @@
 {
   "ticker": "QCOM",
-  "generated_at": "2026-08-17T16:21:10.442333+00:00",
+  "generated_at": "2026-08-17T20:20:09.263947+00:00",
   "items": [
+    {
+      "title": "MaxLinear Stock Sells At A Price Its Trailing Year Cannot Explain",
+      "summary": "MaxLinear stock trades on multiples measured over a trailing year, while the infrastructure business that would justify them is only now the company's largest.",
+      "pub_date": "2026-08-17T17:48:24Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/maxlinear-stock-sells-price-trailing-174824433.html"
+    },
     {
       "title": "QUALCOMM (QCOM) Stock Looks Reasonable Even As Earnings Stay Cheap",
       "summary": "QUALCOMM stock has delivered a 59.9% return over the past three years, yet current checks suggest the shares now sit close to their intrinsic value on a Discounted Cash Flow (DCF) basis while still looking inexpensive on some market multiples. With mixed signals on valuation, investors are weighing a solid historical return profile against a set of fairness indicators rather than a clear bargain. A 59.9% return over three years points to QUALCOMM as a strong performer over that window, which...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-14T17:41:38Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/marvells-made-interconnect-not-yet-174138777.html"
-    },
-    {
-      "title": "Intel Stock's Real Opportunity Is Demand It Cannot Yet Ship",
-      "summary": "Demand for Intel's server chips is running ahead of what its factories can build, and the capital now going in to close that gap is what could drive the stock's next leg.",
-      "pub_date": "2026-08-14T14:10:30Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stocks-real-opportunity-demand-141030004.html"
     }
   ]
 }

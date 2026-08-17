@@ -1,7 +1,14 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-08-17T16:20:27.086771+00:00",
+  "generated_at": "2026-08-17T20:19:37.106065+00:00",
   "items": [
+    {
+      "title": "Centralized vs. decentralized exchanges: What's the difference?",
+      "summary": "Discover the key differences between centralized and decentralized crypto exchanges. Learn the pros, cons, and which platform fits your trading needs best.",
+      "pub_date": "2026-08-17T19:13:28Z",
+      "source": "Yahoo Personal Finance",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/centralized-vs-decentralized-exchanges-191328712.html"
+    },
     {
       "title": "Trump Pushes For More Crypto Clarity, White House To Host Meeting With Industry Leaders",
       "summary": "President Trump may attend a White House meeting of crypto, prediction market leaders in lieu of Clarity Act. CFTC event scheduled.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-14T22:17:59Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-market-today-aug-14-221759931.html"
-    },
-    {
-      "title": "Trump to Attend Meeting with Crypto, Prediction Markets Execs",
-      "summary": "President Donald Trump is expected to attend a meeting at the White House next Wednesday that will gather together high-level executives from crypto companies and prediction-market venues, according to a person familiar with the event.",
-      "pub_date": "2026-08-14T21:29:14Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/trump-attend-meeting-crypto-prediction-212914326.html"
     }
   ]
 }
