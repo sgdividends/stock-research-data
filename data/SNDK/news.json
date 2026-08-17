@@ -1,13 +1,20 @@
 {
   "ticker": "SNDK",
-  "generated_at": "2026-08-16T20:15:58.812950+00:00",
+  "generated_at": "2026-08-17T00:54:48.837734+00:00",
   "items": [
     {
-      "title": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Walmart Due; Market Ready To Run?",
+      "title": "Dow Jones Futures: Nvidia Leads 5 Stocks In Buy Areas, Sandisk Needs This; Walmart Looms",
       "summary": "The S&P 500 and Nasdaq look ready to run, but they haven't quite done so. Sandisk surged but must do this. Walmart, Target loom.",
-      "pub_date": "2026-08-16T12:00:23Z",
+      "pub_date": "2026-08-17T00:47:56Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-run-sandisk-soars-nvidia-buy-walmart-target/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Billionaire Investor David Tepper Just Exited 12 Stocks. These 5 Are the Most Surprising.",
+      "summary": "Appaloosa Management just walked away from 12 stocks, and the pattern hiding beneath the list suggests David Tepper is betting everything on a very short list of survivors.",
+      "pub_date": "2026-08-16T21:43:51Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-investor-david-tepper-just-214351429.html"
     },
     {
       "title": "These 2 Potential Stock Splits Look Like Screaming Deals Right Now",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-15T01:37:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-ceo-reveals-whats-next-013700105.html"
-    },
-    {
-      "title": "SK Hynix (KOSE:A000660) Unveils Open AI Memory Standard Through New HBF Spec",
-      "summary": "SK hynix (KOSE:A000660) and Sandisk have released a new High Bandwidth Flash technical specification through the Open Compute Project. The High Bandwidth Flash standard is designed for AI inference systems and targets high bandwidth and high capacity memory and storage use cases. The open specification gives system designers a common framework for integrating AI focused memory technologies across future infrastructure. The move is expected to broaden SK hynix's role within the AI ecosystem...",
-      "pub_date": "2026-08-15T00:16:02Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-kose-a000660-unveils-001602052.html"
     }
   ]
 }
