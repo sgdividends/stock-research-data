@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "generated_at": "2026-08-18T04:29:13.229786+00:00",
+  "generated_at": "2026-08-18T08:28:08.268276+00:00",
   "items": [
     {
       "title": "Trump admin. urges Apple not to purchase Chinese memory chips, but this presents a problem",
@@ -15,6 +15,13 @@
       "pub_date": "2026-08-18T03:55:17Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/apple-vs-coreweave-comparing-revenue-035517248.html"
+    },
+    {
+      "title": "Trump Wanted Advanced Tech Made in America, Tim Cook Brought Mac Mini Production to Texas: 'Thank You' for the $600 Billion Commitment, Says Howard Lutnick",
+      "summary": "On Thursday, Apple Inc. CEO Tim Cook was joined by U.S. Commerce Secretary Howard Lutnick and others at the opening of the new Advanced Manufacturing Center in Houston, Texas, where Cupertino will begin making Mac mini computers later this year....",
+      "pub_date": "2026-08-18T03:30:53Z",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/technology/articles/trump-wanted-advanced-tech-made-033053059.html"
     },
     {
       "title": "Micron Reclaims $1,000 Amid Fresh Memory Momentum: Jim Cramer Says MU Stock Can \u2018Double Again\u2019",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-17T20:52:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/stock-movers-a39cdac2?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Micron Stock Closes Above $1,000 After Key Move by Trump Administration",
-      "summary": "Renewed momentum for the memory-chip trade might be boosted by the Trump administration\u2019s rejection of Chinese hardware.  Micron shares closed up 4.1% at $1,011,75.  American depositary receipts of its South Korean rival  SK Hynix  rose 3% to $171.38.",
-      "pub_date": "2026-08-17T20:30:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/micron-stock-price-china-memory-364ae185?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

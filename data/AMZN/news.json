@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "generated_at": "2026-08-18T04:29:17.494063+00:00",
+  "generated_at": "2026-08-18T08:28:12.342782+00:00",
   "items": [
     {
       "title": "Amazon Alexa+ assistance is the way consumers 'actually want to shop': VP",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-17T21:15:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/amazon-alexa-assistance-way-consumers-211500608.html"
+    },
+    {
+      "title": "Zacks Investment Ideas feature highlights: NVDA, GOOGL, AMZN, INTC and others",
+      "summary": "NVIDIA and top institutional investors are piling into AI infrastructure, with 13F filings revealing bets on Intel, CoreWeave, Nebius and more.",
+      "pub_date": "2026-08-18T06:47:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-064700198.html"
     },
     {
       "title": "Morgan Stanley resets Amazon stock price target after earnings",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-17T20:52:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/stock-movers-a39cdac2?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Stocks Struggle as Long-Term Yields Rise: Stock Market Today",
-      "summary": "Fear of a Fed move to tighten monetary policy has receded, but market-based interest rates are still trending higher.",
-      "pub_date": "2026-08-17T20:08:51Z",
-      "source": "Kiplinger",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-struggle-long-term-yields-200851708.html"
     }
   ]
 }

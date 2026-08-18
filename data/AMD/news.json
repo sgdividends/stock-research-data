@@ -1,6 +1,6 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-08-18T04:29:16.931640+00:00",
+  "generated_at": "2026-08-18T08:28:11.768794+00:00",
   "items": [
     {
       "title": "Micron stock heats up again, crossing $1,000",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-17T11:53:04Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/article/micron-stock-heats-up-again-crossing-1000-115304344.html"
+    },
+    {
+      "title": "Advanced Micro Devices (AMD) Unveils Instinct Coder For Private Enterprise AI",
+      "summary": "Advanced Micro Devices (NasdaqGS:AMD) launched Instinct Coder, a turnkey enterprise AI inference solution co developed with Spectro Cloud and Supermicro. The new platform targets hybrid and private AI deployments and is built around AMD\u2019s MI series accelerators. The partnership with Spectro Cloud and Supermicro focuses on simplifying rollout of enterprise AI infrastructure for corporate IT teams. For readers looking to compare AMD\u2019s move with other companies building out AI infrastructure,...",
+      "pub_date": "2026-08-18T04:33:13Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-unveils-043313270.html"
     },
     {
       "title": "Microsoft Just Announced Great News for AMD Investors",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-17T20:53:28Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dear-synopsys-stock-fans-mark-205328868.html"
-    },
-    {
-      "title": "Micron Stock Has A New Profit Floor, But Did It Build A Ceiling Too?",
-      "summary": "Management signed deals to guarantee years of record profits, yet the stock is slipping, a sign the market is more worried about the ceiling than excited about the floor.",
-      "pub_date": "2026-08-17T20:34:28Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-profit-floor-did-203428815.html"
     }
   ]
 }
