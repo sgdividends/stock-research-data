@@ -1,7 +1,14 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-08-18T00:52:39.079444+00:00",
+  "generated_at": "2026-08-18T04:29:21.276213+00:00",
   "items": [
+    {
+      "title": "Jane Street Discloses Nearly $1 Billion Bitcoin ETF Position After $15 Billion Loss",
+      "summary": "Jane Street disclosed a $990 million bitcoin ETF stake after a $15 billion loss, but it may not signal bullishness on BTC.",
+      "pub_date": "2026-08-18T04:03:41Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/jane-street-discloses-nearly-1-040341779.html"
+    },
     {
       "title": "BlackRock (BLK) & NVIDIA Corporation (NVDA): BlackRock\u2019s Larry Fink Says the US Alone Needs 70 Gigawatts of Power for AI",
       "summary": "BlackRock, Inc. (NYSE:BLK) CEO Larry Fink joined the CNBC panel this week and laid out the scale of what\u2019s needed to power the AI boom. \u201cWe\u2019re gonna need over 70 gigawatts of power,\u201d he said, just for the US. Why This Matters Fink compared this moment to the birth of the mortgage-backed securities market in [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-17T18:15:59Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/metas-14-billion-ai-data-181559810.html"
-    },
-    {
-      "title": "Meta Shares Fall as $14 Billion Texas AI Data Center Faces Insurance Risks",
-      "summary": "Meta's $14 Billion Data Center Project Hit by Major Insurance Concerns",
-      "pub_date": "2026-08-17T17:58:53Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/meta-shares-fall-14-billion-175853044.html"
     }
   ]
 }

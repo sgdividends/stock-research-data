@@ -1,7 +1,14 @@
 {
   "ticker": "TER",
-  "generated_at": "2026-08-18T00:53:35.142756+00:00",
+  "generated_at": "2026-08-18T04:30:04.703402+00:00",
   "items": [
+    {
+      "title": "Amkor and Teradyne Shares Are Soaring, What You Need To Know",
+      "summary": "A number of stocks jumped in the afternoon session after Bloomberg reported that Anthropic told prospective investors its second-quarter revenue jumped more than 14-fold.",
+      "pub_date": "2026-08-18T01:26:20Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amkor-teradyne-shares-soaring-know-012620743.html"
+    },
     {
       "title": "Stock Market Today: Dow Falls As This Key Yield Hits 19-Year High; Warren Buffett Stock Falls (Live Coverage)",
       "summary": "Stock Market Today: The Dow Jones index drops as memory-chip stocks Micron and Sandisk rally. Trump threatens Oman.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-13T16:45:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ciscos-q4-earnings-beat-estimates-164500922.html"
-    },
-    {
-      "title": "Teradyne Drives Robotics With AI: Can It Outpace KLAC and COHU?",
-      "summary": "TER's AI-driven robotics growth is accelerating as data center demand boosts automation and semiconductor testing.",
-      "pub_date": "2026-08-13T15:54:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/teradyne-drives-robotics-ai-outpace-155400182.html"
     }
   ]
 }
