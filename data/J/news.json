@@ -1,7 +1,14 @@
 {
   "ticker": "J",
-  "generated_at": "2026-08-18T08:28:41.847753+00:00",
+  "generated_at": "2026-08-18T12:33:33.218961+00:00",
   "items": [
+    {
+      "title": "3 S&P 500 Stocks with Open Questions",
+      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn\u2019t mean every stock is worth owning. Some companies face significant challenges, whether it\u2019s stagnating growth, heavy debt, or disruptive new competitors.",
+      "pub_date": "2026-08-18T12:21:33Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-open-122133477.html"
+    },
     {
       "title": "Can BWXT's Nuclear Cleanup Services Add a New Growth Avenue?",
       "summary": "BWX Technologies expands its nuclear services portfolio through decommissioning, remediation, waste management and nuclear site support.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-11T16:02:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/could-bigger-epc-jobs-push-160200830.html"
-    },
-    {
-      "title": "How Jacobs' AI Infrastructure Push Could Drive Its Next Growth Phase",
-      "summary": "J is expanding its AI infrastructure role beyond data centers, with record backlog and broader project exposure supporting its next growth phase.",
-      "pub_date": "2026-08-06T17:30:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/jacobs-ai-infrastructure-push-could-173000705.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "GM",
-  "generated_at": "2026-08-18T08:28:35.729172+00:00",
+  "generated_at": "2026-08-18T12:33:25.509592+00:00",
   "items": [
+    {
+      "title": "Detroit startup Grounded raises $5M to customize electric and gas-powered vans",
+      "summary": "The company has shifted from making van-life builds to custom outfitting vehicles for small businesses, all while the EV landscape in the US changed dramatically.",
+      "pub_date": "2026-08-18T10:00:00Z",
+      "source": "TechCrunch",
+      "url": "https://finance.yahoo.com/small-business/articles/detroit-startup-grounded-raises-5m-100000222.html"
+    },
     {
       "title": "Stellantis Recalls Almost 1 Million Cars; Stock Falls To All-Time Low",
       "summary": "Stellantis stock tumbled to a new low on Monday after it announced a recall of almost 1 million vehicles worldwide.  The recall is a software issue in the radio systems of Jeep, Dodge and Chrysler brand cars.  The glitch interferes with their rear view cameras, the company said, but will be fixed via an over-the-air software update.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-17T03:59:29Z",
       "source": "Benzinga",
       "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-says-tesla-most-035929356.html"
-    },
-    {
-      "title": "Jim Cramer Advises Ditching Stellantis (STLA) for General Motors (GM)",
-      "summary": "Underperforming automotive holdings are forcing investors to re-examine dividend sustainability and executive leadership. On the Mad Money episode aired on August 11, Jim Cramer responded to a caller who purchased Stellantis N.V. (NYSE:STLA) two years ago for its dividend, only to suffer persistent capital depreciation and earnings misses. Cramer commented: Okay, you got to step [\u2026]",
-      "pub_date": "2026-08-16T10:04:32Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-advises-ditching-stellantis-100432863.html"
     }
   ]
 }

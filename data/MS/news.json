@@ -1,7 +1,14 @@
 {
   "ticker": "MS",
-  "generated_at": "2026-08-18T08:28:49.918976+00:00",
+  "generated_at": "2026-08-18T12:33:43.727099+00:00",
   "items": [
+    {
+      "title": "Nvidia or Sandisk? BofA reveals which stock is under-owned and which is crowded",
+      "summary": "Investing.com -- Mega-cap technology stocks remain under-owned by active institutional investors relative to their weighting in the S&P 500, and that gap widened in the second quarter, according to Morgan Stanley\u2019s latest large-cap institutional ownership tracker. The analysis covers 28 large-cap technology companies within Morgan Stanley\u2019s U.S. technology equity research coverage.",
+      "pub_date": "2026-08-18T11:14:30Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-sandisk-bofa-reveals-stock-111430153.html"
+    },
     {
       "title": "Morgan Stanley resets Amazon stock price target after earnings",
       "summary": "Amazon spent years telling Wall Street that AWS could become a few hundred billion dollar revenue business. Then on its last earnings call, management revised that estimate up, significantly. The new figure was $1 trillion. Not as a stretch goal. As what they now believe is a real possibility. ...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-17T01:04:00Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-baidu-kuaishou-address-mounting-010400663.html"
-    },
-    {
-      "title": "Morgan Stanley Favours Quality, AI Adopters and Financials as Earnings Growth Broadens",
-      "summary": "Morgan Stanley sees U. S. corporate earnings momentum spreading well beyond the largest technology companies, creating opportunities in quality stocks, artificial intelligence adopters, large-cap financials and consumer discretionary goods.",
-      "pub_date": "2026-08-16T14:44:54Z",
-      "source": "InvestorsHub",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-favours-quality-ai-144454648.html"
     }
   ]
 }

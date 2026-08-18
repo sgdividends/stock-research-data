@@ -1,7 +1,14 @@
 {
   "ticker": "AMGN",
-  "generated_at": "2026-08-18T08:28:11.984118+00:00",
+  "generated_at": "2026-08-18T12:32:54.925795+00:00",
   "items": [
+    {
+      "title": "Trump\u2019s Privateer Hacking Plan Brings High Risk to Companies Taking Part",
+      "summary": "President Trump is asking cybersecurity and tech companies to take on a potentially dangerous new role attacking foreign cybercriminals, but the plan offers few incentives to balance the risks.  Genetic testing lab Baylor Genetics disclosed a cyber incident where a hacker had access to certain internal systems between June 11 and June 17.  An unspecified number of patients had their medical testing and lab results compromised while current and former employees had their Social Security numbers and financial account data exposed, Baylor said.",
+      "pub_date": "2026-08-18T11:34:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/pro/cybersecurity/trumps-privateer-hacking-plan-brings-high-risk-to-companies-taking-part-0a7e735f?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Why Isn't Eli Lilly Stock Trading At The Top Of Its Peer Group?",
       "summary": "The market seems to have its pharma giants ranked in a peculiar order, leaving one of the group's fastest-growing performers trading at a middle-of-the-pack multiple rather than the group high.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-14T17:07:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/healthcare/articles/bofa-biotech-scorecard-two-buys-170700221.html"
-    },
-    {
-      "title": "Amgen (AMGN) Stock Looks Undervalued With A 37% Fair Value Gap",
-      "summary": "Amgen stock has delivered strong gains over the past five years, yet the current share price sits at a discount to an intrinsic value estimate based on a Discounted Cash Flow (DCF) model, while broader valuation checks point to a more mixed picture. Amgen has returned 116.3% over the past five years, which puts more weight on whether the current valuation still leaves room for an attractive long term outcome. Plans to open a new Science and Innovation Center in Hyderabad can support...",
-      "pub_date": "2026-08-14T12:09:46Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amgen-amgn-stock-looks-undervalued-120946360.html"
     }
   ]
 }

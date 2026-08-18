@@ -1,7 +1,14 @@
 {
   "ticker": "TSN",
-  "generated_at": "2026-08-18T08:29:06.090169+00:00",
+  "generated_at": "2026-08-18T12:34:05.904866+00:00",
   "items": [
+    {
+      "title": "1 S&P 500 Stock to Consider Right Now and 2 We Find Risky",
+      "summary": "The S&P 500 (^GSPC) is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are created equal - some are struggling with slowing growth, declining margins, or increased competition.",
+      "pub_date": "2026-08-18T10:37:33Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-consider-103733983.html"
+    },
     {
       "title": "Major retail meat company closes plants, lays off over 3,200",
       "summary": "A historic drop in the size of the U.S. cattle herd to a nearly 75-year low of 86.2 million head as of Jan. 1, 2026, according to the U.S. Department of Agriculture, is putting pressure on the beef industry, resulting in plant closures. Beef processing companies, such as Tyson Foods, have closed ...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-14T19:58:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/tyson-stock-beef-plant-closures-cattle-6e613368?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Sector Update: Consumer Stocks Mixed in Afternoon Trading",
-      "summary": "Consumer stocks were mixed Friday afternoon, with the State Street Consumer Staples Select Sector SP",
-      "pub_date": "2026-08-14T17:38:03Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-afternoon-173803183.html"
     }
   ]
 }
