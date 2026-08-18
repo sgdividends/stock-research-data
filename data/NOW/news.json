@@ -1,7 +1,14 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-08-18T16:24:21.979315+00:00",
+  "generated_at": "2026-08-18T20:17:15.058570+00:00",
   "items": [
+    {
+      "title": "CRM: A Cash Gusher At A Marked-Down Price",
+      "summary": "Salesforce is currently trading at a lower valuation multiple compared to historical averages, prompting investor debate over its intrinsic value.",
+      "pub_date": "2026-08-18T16:16:19Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/crm-cash-gusher-marked-down-161619090.html"
+    },
     {
       "title": "Salesforce's and ServiceNow\u2019s Business Models Are in Danger, Expert Cautions: What Does It Mean For CRM and NOW?",
       "summary": "Salesforce Inc. (NYSE:CRM) and ServiceNow Inc. (NYSE:NOW) could face growing pressure on one of enterprise software\u2019s most lucrative business models as AI agents reduce the need for human software users, according to Parnassus Investments Chief Investment Officer Todd Ahlsten. \"The...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-17T15:15:35Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-now-spending-7-75-151535988.html"
-    },
-    {
-      "title": "ServiceNow (NOW) Stock Still Looks Expensive Despite A 30% Fall",
-      "summary": "ServiceNow stock has had a rough year, with a sharp share price fall sitting alongside valuation checks that suggest the company is not an obvious bargain right now. Investors are weighing that weaker recent share performance against an expanding role in AI driven security and workflow software. Over the past 12 months, ServiceNow has declined 30.5%, which raises the question of whether sentiment has reset enough to support the current valuation. The expansion of AI native security products...",
-      "pub_date": "2026-08-17T14:09:01Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-now-stock-still-looks-140901449.html"
     }
   ]
 }

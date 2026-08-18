@@ -1,7 +1,14 @@
 {
   "ticker": "BX",
-  "generated_at": "2026-08-18T16:23:41.628610+00:00",
+  "generated_at": "2026-08-18T20:16:34.346806+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Mixed Tuesday Afternoon",
+      "summary": "Financial stocks were mixed in Tuesday afternoon trading, with the NYSE Financial Index fractionally",
+      "pub_date": "2026-08-18T17:47:41Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-mixed-tuesday-174741395.html"
+    },
     {
       "title": "Blackstone, Blue Owl Funds Upsize Bond Sales After Third-Quarter Lull in Private Credit Issuance",
       "summary": "Blue Owl Technology Finance Corp. (NYSE:OTF) priced $400 million of bonds Monday, double the $200 million it initially sought, in a tap of the 6.500% notes due 2029 it first sold in June, according to a prospectus supplement filed Monday.Blackstone...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-13T14:40:33Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/technology/articles/databricks-raises-5-billion-190-144033565.html"
-    },
-    {
-      "title": "Nvidia and Broadcom Deepen AI Financing Push \u2014 But Wolfe Sees Long-Term Risks",
-      "summary": "NVIDIA Corporation (NASDAQ:NVDA) and Broadcom Inc. (NASDAQ:AVGO), two of the world\u2019s largest chipmakers, are tapping debt and private capital markets to fund the AI infrastructure boom. These massive financial commitments coming from some of the biggest names in the market signal exceptionally-strong AI compute demand. However, one Wall Street firm, Wolfe Research, believes the same [\u2026]",
-      "pub_date": "2026-08-13T13:19:02Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-broadcom-deepen-ai-financing-131902271.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "EIX",
-  "generated_at": "2026-08-18T16:23:55.062446+00:00",
+  "generated_at": "2026-08-18T20:16:47.902982+00:00",
   "items": [
+    {
+      "title": "What Are Wall Street Analysts' Target Price for Edison International Stock?",
+      "summary": "Edison International has outperformed the broader market over the past year, yet analysts remain skeptical about the stock\u2019s prospects.",
+      "pub_date": "2026-08-18T10:51:59Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-105159570.html"
+    },
     {
       "title": "Top Stock Reports for Walt Disney, Parker-Hannifin & Occidental Petroleum",
       "summary": "Disney faces near-term pressure from softer SVOD ads, mixed theaters and Asia parks weakness, but IP and streaming support growth.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-06T15:10:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/evergys-q2-earnings-beat-estimates-151000235.html"
-    },
-    {
-      "title": "Correction: S&P 500 Posts Weekly Gain Amid AI Monetization Optimism",
-      "summary": "(Corrects to remove detailed Microsoft information as story published July 31 included Q3 data.)",
-      "pub_date": "2026-08-06T13:56:22Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/correction-p-500-posts-weekly-135622152.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "KKR",
-  "generated_at": "2026-08-18T16:24:12.059649+00:00",
+  "generated_at": "2026-08-18T20:17:04.491947+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Mixed Tuesday Afternoon",
+      "summary": "Financial stocks were mixed in Tuesday afternoon trading, with the NYSE Financial Index fractionally",
+      "pub_date": "2026-08-18T17:47:41Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-mixed-tuesday-174741395.html"
+    },
     {
       "title": "Top Midday Stories: Home Depot Q2 EPS, Revenue Top Estimates; Klarna Cuts Guidance, Plans CFO, CMO Transitions",
       "summary": "All three major US stock indexes were down in late-morning trading Tuesday, as the yield on the US 3",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-15T19:00:00Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/technology/ai/articles/bond-traders-agonizing-over-70-190000845.html"
-    },
-    {
-      "title": "Broadcom Sinks 6% as BofA Flags $370B in AI Debt, AMD Climbs 4% on Baird\u2019s $1,250 Call",
-      "summary": "Two AI chip giants moved in opposite directions Friday as Wall Street put a massive dollar figure on a financing structure that Broadcom and Nvidia both use, raising questions about which companies benefit from AI's debt-fueled buildout and which carry the hidden risk.",
-      "pub_date": "2026-08-14T18:07:38Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-sinks-6-bofa-flags-180738180.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "IBKR",
-  "generated_at": "2026-08-18T16:24:07.426051+00:00",
+  "generated_at": "2026-08-18T20:17:00.095602+00:00",
   "items": [
+    {
+      "title": "Can Prediction Markets Power Coinbase Global's Next Phase of Growth?",
+      "summary": "Coinbase Global is betting on prediction markets to diversify trading, boost retention and advance its push to become an 'everything exchange'.",
+      "pub_date": "2026-08-18T16:15:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/prediction-markets-power-coinbase-globals-161500600.html"
+    },
     {
       "title": "Robinhood's July DATs Rise Y/Y: Is Its Expansion Strategy Working?",
       "summary": "Can HOOD sustain growth as equity and options DATs rise while crypto trading activity declines? Let us discuss.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-14T09:24:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-coinbase-092400255.html"
-    },
-    {
-      "title": "Are Derivatives and Tokenization Coinbase's Next Growth Engine?",
-      "summary": "Coinbase is expanding beyond spot crypto trading with derivatives, global institutional products and tokenization infrastructure to fuel long-term growth.",
-      "pub_date": "2026-08-13T18:04:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/derivatives-tokenization-coinbases-next-growth-180400106.html"
     }
   ]
 }

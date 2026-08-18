@@ -1,7 +1,14 @@
 {
   "ticker": "FDS",
-  "generated_at": "2026-08-18T16:23:58.813163+00:00",
+  "generated_at": "2026-08-18T20:16:51.846296+00:00",
   "items": [
+    {
+      "title": "What Does The S&P 500 Earnings Boom Say About The Stock Market?",
+      "summary": "S&P 500 earnings per share are on pace to climb more than 50% in the second quarter.  Combining reported and yet-to-be-reported results, S&P 500 earnings are up 50.4%, according to the most recent data from FactSet.  Profit growth is broad, too, with 10 of the 11 S&P 500 sectors posting year-over-year earnings growth.",
+      "pub_date": "2026-08-18T17:53:10Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/sp-500-q2-earnings-amazon-google/?src=A00220&yptr=yahoo"
+    },
     {
       "title": "Home Depot Fiscal Second-Quarter Results Top Street Views; Maintains Full-Year Outlook",
       "summary": "Home Depot (HD) reported fiscal second-quarter results above Wall Street's estimates as customers co",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-14T11:12:48Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-quarterly-revenue-guidance-111248313.html"
-    },
-    {
-      "title": "Applied Materials Stock Falls After Earnings Weren\u2019t Quite Good Enough",
-      "summary": "Applied Materials reports better-than-expected earnings for its fiscal third quarter, but investors aren\u2019t impressed.",
-      "pub_date": "2026-08-14T08:15:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/applied-materials-earnings-stock-price-d4205e2a?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
