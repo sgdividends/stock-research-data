@@ -1,7 +1,7 @@
 {
   "ticker": "CVS",
   "as_of": "2026-08-14",
-  "generated_at": "2026-08-15T06:20:43.613783+00:00",
+  "generated_at": "2026-08-18T06:25:48.955356+00:00",
   "close": 97.16,
   "rsi_14": 40.55,
   "rsi_14_pctile_1y": 10.5,
@@ -19,10 +19,10 @@
   "bb_mid": 102.49,
   "bb_lower": 91.16,
   "bb_pctb": 0.265,
-  "bb_pctb_pctile_1y": 15.9,
+  "bb_pctb_pctile_1y": 16.0,
   "atr_14": 2.85,
   "atr_pct": 2.94,
   "week52_high": 110.68,
-  "week52_low": 67.42,
+  "week52_low": 69.4,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

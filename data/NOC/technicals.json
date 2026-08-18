@@ -1,7 +1,7 @@
 {
   "ticker": "NOC",
   "as_of": "2026-08-14",
-  "generated_at": "2026-08-15T06:20:54.213808+00:00",
+  "generated_at": "2026-08-18T06:26:01.456367+00:00",
   "close": 585.87,
   "rsi_14": 69.75,
   "rsi_14_pctile_1y": 92.0,
@@ -19,7 +19,7 @@
   "bb_mid": 551.74,
   "bb_lower": 510.69,
   "bb_pctb": 0.916,
-  "bb_pctb_pctile_1y": 87.1,
+  "bb_pctb_pctile_1y": 87.0,
   "atr_14": 13.35,
   "atr_pct": 2.28,
   "week52_high": 774.0,

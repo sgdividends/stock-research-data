@@ -1,7 +1,7 @@
 {
   "ticker": "SPG",
   "as_of": "2026-08-14",
-  "generated_at": "2026-08-15T06:20:59.399544+00:00",
+  "generated_at": "2026-08-18T06:26:07.064686+00:00",
   "close": 219.58,
   "rsi_14": 42.81,
   "rsi_14_pctile_1y": 8.9,
@@ -19,10 +19,10 @@
   "bb_mid": 226.52,
   "bb_lower": 216.53,
   "bb_pctb": 0.153,
-  "bb_pctb_pctile_1y": 9.1,
+  "bb_pctb_pctile_1y": 9.2,
   "atr_14": 4.19,
   "atr_pct": 1.91,
   "week52_high": 238.5,
-  "week52_low": 171.22,
+  "week52_low": 172.09,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

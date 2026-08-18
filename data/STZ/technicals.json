@@ -1,10 +1,10 @@
 {
   "ticker": "STZ",
   "as_of": "2026-08-14",
-  "generated_at": "2026-08-15T06:20:59.456289+00:00",
+  "generated_at": "2026-08-18T06:26:07.140142+00:00",
   "close": 139.18,
   "rsi_14": 60.65,
-  "rsi_14_pctile_1y": 85.2,
+  "rsi_14_pctile_1y": 85.1,
   "sma_20": 132.75,
   "sma_20_pct_from_price": 4.84,
   "sma_50": 136.43,
@@ -22,7 +22,7 @@
   "bb_pctb_pctile_1y": 97.8,
   "atr_14": 3.48,
   "atr_pct": 2.5,
-  "week52_high": 171.0,
+  "week52_high": 169.16,
   "week52_low": 126.45,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

@@ -1,7 +1,7 @@
 {
   "ticker": "CSCO",
   "as_of": "2026-08-14",
-  "generated_at": "2026-08-15T06:20:43.552741+00:00",
+  "generated_at": "2026-08-18T06:25:48.879445+00:00",
   "close": 111.68,
   "rsi_14": 41.76,
   "rsi_14_pctile_1y": 4.2,
@@ -19,7 +19,7 @@
   "bb_mid": 116.38,
   "bb_lower": 107.96,
   "bb_pctb": 0.221,
-  "bb_pctb_pctile_1y": 9.1,
+  "bb_pctb_pctile_1y": 8.7,
   "atr_14": 4.41,
   "atr_pct": 3.95,
   "week52_high": 130.37,

@@ -1,10 +1,10 @@
 {
   "ticker": "META",
   "as_of": "2026-08-14",
-  "generated_at": "2026-08-15T06:20:53.972009+00:00",
+  "generated_at": "2026-08-18T06:26:01.144949+00:00",
   "close": 589.85,
   "rsi_14": 47.62,
-  "rsi_14_pctile_1y": 56.3,
+  "rsi_14_pctile_1y": 54.9,
   "sma_20": 594.67,
   "sma_20_pct_from_price": -0.81,
   "sma_50": 597.13,
@@ -19,10 +19,10 @@
   "bb_mid": 594.67,
   "bb_lower": 547.2,
   "bb_pctb": 0.449,
-  "bb_pctb_pctile_1y": 55.2,
+  "bb_pctb_pctile_1y": 55.4,
   "atr_14": 21.62,
   "atr_pct": 3.67,
-  "week52_high": 796.25,
+  "week52_high": 790.8,
   "week52_low": 520.26,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

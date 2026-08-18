@@ -1,7 +1,7 @@
 {
   "ticker": "CMCSA",
   "as_of": "2026-08-14",
-  "generated_at": "2026-08-15T06:20:38.927721+00:00",
+  "generated_at": "2026-08-18T06:25:43.718289+00:00",
   "close": 26.18,
   "rsi_14": 65.23,
   "rsi_14_pctile_1y": 92.4,
@@ -19,7 +19,7 @@
   "bb_mid": 24.4,
   "bb_lower": 22.07,
   "bb_pctb": 0.882,
-  "bb_pctb_pctile_1y": 87.1,
+  "bb_pctb_pctile_1y": 87.0,
   "atr_14": 0.77,
   "atr_pct": 2.94,
   "week52_high": 32.86,

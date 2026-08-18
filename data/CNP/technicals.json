@@ -1,7 +1,7 @@
 {
   "ticker": "CNP",
   "as_of": "2026-08-14",
-  "generated_at": "2026-08-15T06:20:43.428501+00:00",
+  "generated_at": "2026-08-18T06:25:48.712846+00:00",
   "close": 40.83,
   "rsi_14": 38.87,
   "rsi_14_pctile_1y": 7.6,
@@ -19,7 +19,7 @@
   "bb_mid": 42.05,
   "bb_lower": 39.09,
   "bb_pctb": 0.294,
-  "bb_pctb_pctile_1y": 24.1,
+  "bb_pctb_pctile_1y": 24.2,
   "atr_14": 0.91,
   "atr_pct": 2.22,
   "week52_high": 45.26,

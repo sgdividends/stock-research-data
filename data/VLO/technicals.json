@@ -1,10 +1,10 @@
 {
   "ticker": "VLO",
   "as_of": "2026-08-14",
-  "generated_at": "2026-08-15T06:20:59.851081+00:00",
+  "generated_at": "2026-08-18T06:26:07.664088+00:00",
   "close": 341.67,
   "rsi_14": 72.88,
-  "rsi_14_pctile_1y": 87.8,
+  "rsi_14_pctile_1y": 88.2,
   "sma_20": 312.51,
   "sma_20_pct_from_price": 9.33,
   "sma_50": 284.12,
@@ -23,6 +23,6 @@
   "atr_14": 11.59,
   "atr_pct": 3.39,
   "week52_high": 346.09,
-  "week52_low": 135.01,
+  "week52_low": 135.02,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

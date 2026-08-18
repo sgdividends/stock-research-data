@@ -1,7 +1,7 @@
 {
   "ticker": "NWS",
   "as_of": "2026-08-14",
-  "generated_at": "2026-08-15T06:20:54.288966+00:00",
+  "generated_at": "2026-08-18T06:26:01.554696+00:00",
   "close": 33.17,
   "rsi_14": 59.67,
   "rsi_14_pctile_1y": 81.9,
@@ -19,7 +19,7 @@
   "bb_mid": 32.03,
   "bb_lower": 29.97,
   "bb_pctb": 0.776,
-  "bb_pctb_pctile_1y": 69.8,
+  "bb_pctb_pctile_1y": 69.7,
   "atr_14": 0.95,
   "atr_pct": 2.87,
   "week52_high": 35.31,

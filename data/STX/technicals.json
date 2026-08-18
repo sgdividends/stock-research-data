@@ -1,10 +1,10 @@
 {
   "ticker": "STX",
   "as_of": "2026-08-14",
-  "generated_at": "2026-08-15T06:20:59.448068+00:00",
+  "generated_at": "2026-08-18T06:26:07.129191+00:00",
   "close": 973.44,
   "rsi_14": 62.01,
-  "rsi_14_pctile_1y": 58.8,
+  "rsi_14_pctile_1y": 59.1,
   "sma_20": 848.91,
   "sma_20_pct_from_price": 14.67,
   "sma_50": 889.06,
@@ -23,6 +23,6 @@
   "atr_14": 74.28,
   "atr_pct": 7.63,
   "week52_high": 1145.0,
-  "week52_low": 152.05,
+  "week52_low": 152.5,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }
