@@ -1,7 +1,28 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-08-18T12:33:58.702459+00:00",
+  "generated_at": "2026-08-18T16:24:32.711357+00:00",
   "items": [
+    {
+      "title": "What\u2019s Moving the Market Today?",
+      "summary": "U.S. stocks are trading lower today. The Nasdaq is down 1.4%, the Dow Jones Industrial Average is off 0.1% and the S&P 500 is down 0.6%. Here is what is driving the markets today:  Worldwide bond selloff: An accelerating bond selloff in recent days has pushed some Treasury yields to levels not seen since 2007.",
+      "pub_date": "2026-08-18T15:15:34Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026/card/what-s-moving-the-market-today--ID3Y1e7s0Tk58hrEt7hf?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "The Best AI Trade of 2026 Isn\u2019t a Chip Stock",
+      "summary": "Everyone chasing AI gains is piling into chip stocks, but a quiet corner of the infrastructure trade just posted 757% server revenue growth and a backlog that stretches for years, and most investors have no idea it exists.",
+      "pub_date": "2026-08-18T15:00:24Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/best-ai-trade-2026-isn-150024293.html"
+    },
+    {
+      "title": "NVT vs. SMCI: Which Data Center Infrastructure Stock is a Better Buy?",
+      "summary": "nVent Electric's data center demand, backlog and steadier earnings outlook give it an edge over Super Micro Computer despite a higher valuation.",
+      "pub_date": "2026-08-18T14:08:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvt-vs-smci-data-center-140800123.html"
+    },
     {
       "title": "Stocks to Watch: BHP, Western Digital, Home Depot, Baidu",
       "summary": "\u2197\ufe0f BHP Group (AU:BHP, BHP): The Australia-based miner reported a 9% increase in annual net profit as prices of copper surged to record highs. Its shares rose in Australia. \ud83d\udd0e Home Depot (HD): The home-improvement company is set to report its earnings ahead of the opening bell.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-17T15:37:21Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-pulls-back-153721452.html"
-    },
-    {
-      "title": "AI Infrastructure Boom: Who Should Buy Vertiv and Who Should Buy Super Micro Computer",
-      "summary": "Vertiv and Super Micro Computer both just reported blowout AI infrastructure numbers, but the two stocks tell completely different stories about risk, reward, and who actually wins when data centers scale.",
-      "pub_date": "2026-08-17T15:03:48Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-boom-buy-vertiv-150348719.html"
-    },
-    {
-      "title": "Can Strong End Markets & Pricing Tailwinds Keep WDC's Momentum Alive?",
-      "summary": "Western Digital enters fiscal 2027 with strong storage demand, improving pricing and AI-driven cloud growth fueling its HDD recovery.",
-      "pub_date": "2026-08-17T12:50:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/strong-end-markets-pricing-tailwinds-125000706.html"
-    },
-    {
-      "title": "Why Super Micro Stock Jumped Last Week",
-      "summary": "Super Micro Stock Surges on Massive AI Revenue Forecast: Here's What Changed",
-      "pub_date": "2026-08-17T12:10:01Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-super-micro-stock-jumped-121001952.html"
     }
   ]
 }

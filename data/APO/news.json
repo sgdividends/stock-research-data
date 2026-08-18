@@ -1,7 +1,14 @@
 {
   "ticker": "APO",
-  "generated_at": "2026-08-18T12:32:56.665330+00:00",
+  "generated_at": "2026-08-18T16:23:36.791125+00:00",
   "items": [
+    {
+      "title": "Nvidia's attack plan: Dominate every single aspect of AI",
+      "summary": "Nvidia's goal is utter AI dominance.",
+      "pub_date": "2026-08-18T14:39:05Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/nvidias-attack-plan-dominate-every-single-aspect-of-ai-143905381.html"
+    },
     {
       "title": "Broadcom's AI Financing Could Reach $370 Billion. But It's Not as Bad as It Sounds.",
       "summary": "The number rattling the market is a modeled ceiling on future deals. The number the chipmaker has actually signed is much smaller \u2014 for now.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-14T18:07:38Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-sinks-6-bofa-flags-180738180.html"
-    },
-    {
-      "title": "Nvidia\u2019s $500 Billion Plan Envelops Wall Street in Its AI Frenzy",
-      "summary": "Goldman Sachs Group Inc., Blackstone Inc. and Apollo Global Management Inc. had been working tirelessly for months to draw up debt deals that would help developers of artificial intelligence systems pay for chips from Nvidia Corp.",
-      "pub_date": "2026-08-14T16:42:09Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-500-billion-plan-envelops-164209178.html"
     }
   ]
 }

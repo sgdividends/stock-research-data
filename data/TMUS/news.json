@@ -1,7 +1,14 @@
 {
   "ticker": "TMUS",
-  "generated_at": "2026-08-18T12:34:04.327684+00:00",
+  "generated_at": "2026-08-18T16:24:37.322283+00:00",
   "items": [
+    {
+      "title": "Supreme Court rejects Verizon bid to recover $47M FCC fine",
+      "summary": "The court denied Verizon's petition without explanation, ending the carrier's effort to recover a fine over the sale of customer location data",
+      "pub_date": "2026-08-18T13:27:13Z",
+      "source": "Quartz",
+      "url": "https://finance.yahoo.com/technology/articles/supreme-court-rejects-verizon-bid-132713566.html"
+    },
     {
       "title": "Billionaire Masayoshi Son  Put 66% of His $18 Billion US Portfolio Into 1 Stock",
       "summary": "Masayoshi Son just placed an enormous bet on a single American chipmaker, and the move has already turned against him on paper. Whether his conviction holds the key to Intel's next chapter or signals peak optimism in a shaky recovery is the question investors need to answer now.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-14T16:35:37Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-aug-14-163537995.html"
-    },
-    {
-      "title": "AT&T Stock's Best Lever Is The Copper Network It Is Turning Off",
-      "summary": "AT&T stock's strongest upside lever is not the customers it keeps adding, but the cost of the copper network it is finally switching off.",
-      "pub_date": "2026-08-14T14:24:11Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/t-stocks-best-lever-copper-142411018.html"
     }
   ]
 }

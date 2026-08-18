@@ -1,7 +1,14 @@
 {
   "ticker": "DVN",
-  "generated_at": "2026-08-18T12:33:15.204815+00:00",
+  "generated_at": "2026-08-18T16:23:53.812410+00:00",
   "items": [
+    {
+      "title": "Stock Market News for Aug 18, 2026",
+      "summary": "Wall Street closed lower on Monday, dragged down by retail and communications stocks.",
+      "pub_date": "2026-08-18T13:26:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-aug-18-132600845.html"
+    },
     {
       "title": "WhiteWater and partners approve FID for Solitude Pipeline System",
       "summary": "The project will feature two 48in natural gas pipelines designed to transport supplies from the Permian Basin to Katy in Texas, US.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-13T03:17:18Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-dvn-results-put-031718891.html"
-    },
-    {
-      "title": "Devon Energy (DVN) Q2 2026 Earnings Call Transcript",
-      "summary": "Coterra merger closed, synergies targeted at $1 billion annually by 2027.",
-      "pub_date": "2026-08-11T23:43:37Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/devon-energy-dvn-q2-2026-234337276.html"
     }
   ]
 }

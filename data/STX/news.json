@@ -1,7 +1,28 @@
 {
   "ticker": "STX",
-  "generated_at": "2026-08-18T12:34:00.760032+00:00",
+  "generated_at": "2026-08-18T16:24:34.387465+00:00",
   "items": [
+    {
+      "title": "Global bond sell-off pressures stocks: AlphaCheck",
+      "summary": "Tech stocks took a leg lower amid concerns about rising borrowing costs.",
+      "pub_date": "2026-08-18T13:50:11Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/global-bond-sell-off-pressures-stocks-alphacheck-135011383.html"
+    },
+    {
+      "title": "Micron Falls 5%, SanDisk Sinks 6%, Western Digital Drops 7% as Higher Rates Test the Memory Boom",
+      "summary": "Rising Treasury yields just punched a hole in one of the hottest trades in the entire semiconductor sector, and the selloff has nothing to do with memory fundamentals.",
+      "pub_date": "2026-08-18T13:40:15Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-falls-5-sandisk-134015326.html"
+    },
+    {
+      "title": "Seagate's Growth Engine Gains Momentum Across 3 Fronts",
+      "summary": "STX's AI-driven storage boom rests on strong demand, HAMR innovation and disciplined execution, fueling growth, margins and cash flow.",
+      "pub_date": "2026-08-18T13:21:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/articles/seagates-growth-engine-gains-momentum-132100292.html"
+    },
     {
       "title": "Jim Cramer names 4 memory stocks to buy amid AI boom",
       "summary": "The Mad Money host argues Micron, SanDisk, Seagate, and Western Digital have broken their historical boom-and-bust pattern",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-18T01:59:52Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/stocks/articles/micron-reclaims-1-000-amid-015952797.html"
-    },
-    {
-      "title": "What Could Seagate Technology Holdings (STX) Gain From The New US Memory Policy?",
-      "summary": "Seagate Technology Holdings (NasdaqGS: STX) is in focus after a recent US policy shift aimed at discouraging domestic tech companies from buying conventional memory chips from Chinese suppliers. The policy change has supported a rally in US based memory and storage chipmakers as investors reassess the competitive outlook for these companies. Analysts are watching how this regulatory move may affect Seagate's future market share, pricing power, and supply relationships with large US...",
-      "pub_date": "2026-08-18T00:15:21Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/could-seagate-technology-holdings-stx-001521381.html"
-    },
-    {
-      "title": "Sandisk, Micron, Coherent, Boeing, Apple, Amazon, and More Stocks That Explain Today\u2019s Market",
-      "summary": "Coherent is the best-performing stock in the S&P 500 on Monday. Sandisk, Micron, Marvell, and other AI stocks also rise.",
-      "pub_date": "2026-08-17T20:52:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-a39cdac2?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Seagate Stock Gains as AI Storage Demand Fuels Record Cash Flow",
-      "summary": "Seagate Stock Gains as AI Storage Demand Fuels Record Cash Flow",
-      "pub_date": "2026-08-17T20:15:35Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-stock-gains-ai-storage-201535856.html"
     }
   ]
 }

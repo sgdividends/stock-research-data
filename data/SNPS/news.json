@@ -1,7 +1,14 @@
 {
   "ticker": "SNPS",
-  "generated_at": "2026-08-18T12:33:59.245847+00:00",
+  "generated_at": "2026-08-18T16:24:33.115071+00:00",
   "items": [
+    {
+      "title": "Inside NVIDIA\u2019s Portfolio: A $30 Billion Intel Bet and Other Surprising Holdings",
+      "summary": "NVIDIA's first public 13F filing surprised Wall Street with a portfolio that reads less like passive investing and more like a strategic blueprint for controlling the entire AI supply chain. Five of its holdings reveal exactly where Jensen Huang thinks the real money flows after the GPU.",
+      "pub_date": "2026-08-18T14:28:44Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/inside-nvidia-portfolio-30-billion-142844661.html"
+    },
     {
       "title": "Dear Synopsys Stock Fans, Mark Your Calendars for August 26",
       "summary": "Synopsys is heading toward its next earnings release as its expansion strategies aim to reignite momentum following recent stock weakness.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-14T14:25:36Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/synopsys-snps-growth-disappointed-investors-142536763.html"
-    },
-    {
-      "title": "Synopsys (SNPS) Stock May Be Cheap As Shares Fell 33%",
-      "summary": "Synopsys stock has fallen 33.4% over the past year, yet an intrinsic value estimate based on a Discounted Cash Flow (DCF) approach suggests the shares trade at a discount, while traditional market multiples point the other way and look expensive. That split has left investors weighing a DCF signal that indicates upside against a low overall value score and rich P/E style readings. Over the past 12 months, Synopsys has declined 33.4%, which puts recent sentiment and expectations under...",
-      "pub_date": "2026-08-14T07:12:16Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/synopsys-snps-stock-may-cheap-071216841.html"
     }
   ]
 }

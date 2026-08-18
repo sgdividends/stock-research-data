@@ -1,62 +1,62 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-08-18T12:32:54.630516+00:00",
+  "generated_at": "2026-08-18T16:23:34.965284+00:00",
   "items": [
+    {
+      "title": "Nvidia, AMD, Broadcom, Meta Slide as Bond Yields Surge: Why Tech Stocks Are Getting Hit",
+      "summary": "Advanced Micro Devices Inc. (NASDAQ:AMD) fell 5% Tuesday, with Broadcom Inc. (NASDAQ:AVGO) and Meta Platforms Inc. (NASDAQ:META) both around 3% and NVIDIA Corp. (NASDAQ:NVDA) off 2%, as the 30-year Treasury yield hit its highest level since 2007. This is not...",
+      "pub_date": "2026-08-18T15:42:44Z",
+      "source": "Benzinga Prediction Markets",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-amd-broadcom-meta-slide-154244427.html"
+    },
+    {
+      "title": "Move Over, Nvidia: Why AMD\u2019s Latest Acquisition Could Redefine Direct-Silicon AI Inference",
+      "summary": "AMD just quietly acquired a tiny Canadian startup with a wild idea: build the chip around the AI model, not the other way around. Whether that unconventional bet can close the gap with Nvidia depends on a question nobody in the industry has answered yet.",
+      "pub_date": "2026-08-18T15:26:45Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/move-over-nvidia-why-amd-152645584.html"
+    },
+    {
+      "title": "Nvidia Stock Drops In Broad Market Slide With Earnings In Sight. Is Nvidia A Buy Or Sell Now?",
+      "summary": "Nvidia dropped Tuesday in a broader slide on Wall Street as bond yields climbed.  Shares of the artificial intelligence chipmaker were on course for a third consecutive decline, with the company's next earnings report coming due soon.  The recent IBD Stock Of The Day has formed a clear base and had hit early entry point amid earnings reports from key AI-related companies such as Advanced Micro Devices , Alphabet, Amazon and Microsoft.",
+      "pub_date": "2026-08-18T15:13:51Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/research/nvidia-nvda-stock-august-2026-earnings/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Google Could Hand AMD a Bigger Role in Its AI Chips",
+      "summary": "A TPU partnership would reshape custom silicon.",
+      "pub_date": "2026-08-18T15:01:20Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/google-could-hand-amd-bigger-150120866.html"
+    },
+    {
+      "title": "Cathie Wood\u2019s ARK Bought Nvidia Stock. Here\u2019s What It Sold.",
+      "summary": "Nvidia  stock was slipping early Tuesday amid headwinds for the entire semiconductor sector.  Nvidia shares were down around 2.6% in late-morning trading.  Meanwhile, Wood sold 25,917 shares of AMD across largely the same funds.",
+      "pub_date": "2026-08-18T14:53:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/nvidia-stock-buy-cathie-wood-ark-sell-amd-c0694a5b?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Intel and AMD Fall 4% as 13F Filings Reveal Concentrated Chip Bets",
+      "summary": "Quarterly institutional filings just revealed which major tech rivals and hedge funds were crowding into the same chip stock before Tuesday's sharp selloff, and the concentration levels are raising eyebrows across Wall Street.",
+      "pub_date": "2026-08-18T13:34:44Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-amd-fall-4-13f-133444261.html"
+    },
+    {
+      "title": "Update: US Equity Futures Lower Pre-Bell as Middle East Peace Prospects Dim",
+      "summary": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
+      "pub_date": "2026-08-18T12:53:10Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-lower-pre-125310980.html"
+    },
     {
       "title": "Meet the Vanguard ETF That's Crushing the S&P 500 and Nasdaq-100 Despite Not Owning Micron, Sandisk, or Any of the \"Magnificent Seven\" Stocks",
       "summary": "Small-cap stocks are finally recovering after years of underperforming the major indexes.",
       "pub_date": "2026-08-18T11:10:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/meet-vanguard-etf-thats-crushing-111000996.html"
-    },
-    {
-      "title": "Cathie Wood's ARK Invest Adds Nvidia Stake, Sells AMD Stock Across Four ETFs",
-      "summary": "The transactions extend a recent pattern of ARK increasing its exposure to Nvidia while selectively reducing its AMD holdings.",
-      "pub_date": "2026-08-18T10:14:29Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-woods-ark-invest-adds-101429126.html"
-    },
-    {
-      "title": "Advanced Micro Devices (AMD) Unveils Instinct Coder For Private Enterprise AI",
-      "summary": "Advanced Micro Devices (NasdaqGS:AMD) launched Instinct Coder, a turnkey enterprise AI inference solution co developed with Spectro Cloud and Supermicro. The new platform targets hybrid and private AI deployments and is built around AMD\u2019s MI series accelerators. The partnership with Spectro Cloud and Supermicro focuses on simplifying rollout of enterprise AI infrastructure for corporate IT teams. For readers looking to compare AMD\u2019s move with other companies building out AI infrastructure,...",
-      "pub_date": "2026-08-18T04:33:13Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-unveils-043313270.html"
-    },
-    {
-      "title": "Microsoft Just Announced Great News for AMD Investors",
-      "summary": "Microsoft and AMD are deepening their relationship.",
-      "pub_date": "2026-08-18T04:20:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-just-announced-great-news-042000299.html"
-    },
-    {
-      "title": "Advanced Micro Devices vs. monday.com: Comparing Revenue Trends Between These High-Growth Tech Companies",
-      "summary": "AMD's year-over-year growth is accelerating while monday.com's is slowing, but the latter posted consistent quarter-over-quarter revenue increases.",
-      "pub_date": "2026-08-18T01:47:34Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-vs-monday-014734246.html"
-    },
-    {
-      "title": "JPMorgan lifts Bitcoin miner's price target after $9.1B Anthropic deal",
-      "summary": "JPMorgan Chase has raised its price target on Riot Platforms (Nasdaq: RIOT), a Bitcoin miner increasingly moving into AI infrastructure, to $22 from $20, while keeping its Overweight rating. The bank said in an Aug. 17 research note that Riot is \"building momentum,\" pointing to a ...",
-      "pub_date": "2026-08-17T22:21:09Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-lifts-bitcoin-miners-price-222109351.html"
-    },
-    {
-      "title": "Stocks to Watch Recap: Alibaba, L3Harris, Diana Shipping, BHP",
-      "summary": "\u2197\ufe0f Alibaba (BABA, HK:9988): The Chinese company struck a $1.5 billion deal to sell its videogame business as it sharpens its focus on AI. Shares rose 1.9% in Hong Kong; its U.S.-listed ADRs ticked up 0.",
-      "pub_date": "2026-08-17T21:15:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-17-2026/card/stocks-to-watch-alibaba-diana-shipping-bhp-xNrQSBdGgZVZiqNTks2N?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Penguin Solutions Highlights AI Factory Platform, MemoryAI for Inference Growth",
-      "summary": "Penguin Solutions (NASDAQ:PENG) is positioning its business around a full-stack \u201cAI factory\u201d platform that combines infrastructure, memory technology, software and managed services, Senior Vice President of Global Marketing Mark Adams said during Rosenblatt Securities\u2019 Sixth Annual Age of AI Scaling",
-      "pub_date": "2026-08-17T21:02:00Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/technology/ai/articles/penguin-solutions-highlights-ai-factory-210200493.html"
     }
   ]
 }
