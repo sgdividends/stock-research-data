@@ -1,7 +1,14 @@
 {
   "ticker": "QCOM",
-  "generated_at": "2026-08-17T20:20:09.263947+00:00",
+  "generated_at": "2026-08-18T00:53:28.142929+00:00",
   "items": [
+    {
+      "title": "Micron Stock Has A New Profit Floor, But Did It Build A Ceiling Too?",
+      "summary": "Management signed deals to guarantee years of record profits, yet the stock is slipping, a sign the market is more worried about the ceiling than excited about the floor.",
+      "pub_date": "2026-08-17T20:34:28Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-profit-floor-did-203428815.html"
+    },
     {
       "title": "MaxLinear Stock Sells At A Price Its Trailing Year Cannot Explain",
       "summary": "MaxLinear stock trades on multiples measured over a trailing year, while the infrastructure business that would justify them is only now the company's largest.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-14T18:07:38Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-sinks-6-bofa-flags-180738180.html"
-    },
-    {
-      "title": "Marvell's Year Was Made In Interconnect, Not Yet In Custom Silicon",
-      "summary": "The stock outran both Broadcom and NVIDIA over the past year, and the part of the company that did it moves data inside and between data centers rather than computing on it.",
-      "pub_date": "2026-08-14T17:41:38Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/marvells-made-interconnect-not-yet-174138777.html"
     }
   ]
 }

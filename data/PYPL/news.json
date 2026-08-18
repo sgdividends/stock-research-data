@@ -1,7 +1,14 @@
 {
   "ticker": "PYPL",
-  "generated_at": "2026-08-17T20:20:08.991834+00:00",
+  "generated_at": "2026-08-18T00:53:27.863760+00:00",
   "items": [
+    {
+      "title": "With industry consolidation looming, Block refreshes business payments",
+      "summary": "The company's Square unit has upgraded its seller-focused credit card, adding incentives and linking to digital transfers rails. This comes as Stripe may acquire PayPal and AI developer OpenRouter.",
+      "pub_date": "2026-08-17T20:09:46Z",
+      "source": "American Banker",
+      "url": "https://finance.yahoo.com/technology/ai/articles/industry-consolidation-looming-block-refreshes-200946338.html"
+    },
     {
       "title": "Klarna Group Drops 7% Before Q2 Earnings, Sezzle Falls 5% as BNPL Names Diverge",
       "summary": "Klarna shares are shedding gains right before the BNPL firm's most watched earnings release since its IPO, and the moves rippling through Sezzle, Affirm, and PayPal tell very different stories about where investor conviction actually sits.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-16T13:01:00Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/1-unpopular-stock-deserves-second-130100834.html"
-    },
-    {
-      "title": "2 Financials Stocks to Keep an Eye On and 1 We Find Risky",
-      "summary": "Financial firms serve as the backbone of the economy, providing essential services from lending and investment management to risk management and payment processing. These companies have benefited from improving market activity and economic fundamentals, so it\u2019s no surprise the industry has posted a 13% gain over the past six months, nearly mirroring the S&P 500.",
-      "pub_date": "2026-08-16T02:21:00Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-financials-stocks-keep-eye-022100052.html"
     }
   ]
 }

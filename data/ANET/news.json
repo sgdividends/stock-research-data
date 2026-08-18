@@ -1,7 +1,14 @@
 {
   "ticker": "ANET",
-  "generated_at": "2026-08-17T20:19:28.350471+00:00",
+  "generated_at": "2026-08-18T00:52:34.244754+00:00",
   "items": [
+    {
+      "title": "What Kept Coming Up When Analysts Grilled CSCO",
+      "summary": "Cisco is forecasting a large year of growth, but analysts on its latest call pressed on the sustainability of the boom and its cost. Here's what management's answers revealed.",
+      "pub_date": "2026-08-17T23:18:38Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/kept-coming-analysts-grilled-csco-231838721.html"
+    },
     {
       "title": "Cisco Grew Faster By Selling Hardware And Charging More For It",
       "summary": "The record quarter was carried by the product line and by price increases taken to cover memory costs, and a heavier hardware mix, together with those memory costs, is what pulled product margin down.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-14T20:16:44Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/technology/articles/arista-networks-vs-applovin-technology-201644946.html"
-    },
-    {
-      "title": "Cisco Beat On Every Line, Then Fell On What AI Costs To Ship",
-      "summary": "Record revenue, a guide above Wall Street, and a stock down anyway, because the growth now arrives as hardware and the mix shift is what compresses the margin.",
-      "pub_date": "2026-08-14T18:27:26Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-beat-every-line-then-182726658.html"
     }
   ]
 }

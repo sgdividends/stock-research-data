@@ -1,7 +1,14 @@
 {
   "ticker": "BAC",
-  "generated_at": "2026-08-17T20:19:30.523944+00:00",
+  "generated_at": "2026-08-18T00:52:37.209356+00:00",
   "items": [
+    {
+      "title": "Bank of America Sees 50% Upside in Micron",
+      "summary": "The bank sees structurally higher earnings ahead.",
+      "pub_date": "2026-08-17T20:23:31Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sees-50-upside-202331376.html"
+    },
     {
       "title": "Why AMD Stock Is Down Today",
       "summary": "AMD Stock Slides After Chipmaker Sets Terms for Massive $4.75 Billion Debt Sale",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-17T11:36:24Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/stocks/articles/mu-remains-bofas-top-memory-113624433.html"
-    },
-    {
-      "title": "Why this Wall Street strategist says the \"trade is long gold\"",
-      "summary": "Investing.com -- Bank of America strategist Michael Hartnett told investors in a note on Monday that gold remains his preferred hedge against a weakening dollar, pointing to the biggest inflows into the metal since January.",
-      "pub_date": "2026-08-17T11:30:12Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/why-wall-street-strategist-says-113012320.html"
     }
   ]
 }

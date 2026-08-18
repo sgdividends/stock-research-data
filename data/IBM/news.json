@@ -1,7 +1,14 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-08-17T20:19:52.645532+00:00",
+  "generated_at": "2026-08-18T00:53:06.025051+00:00",
   "items": [
+    {
+      "title": "IBM (IBM) Secures FedRAMP Moderate Authorization For Maximo Government SaaS",
+      "summary": "International Business Machines (NYSE: IBM) reported that its Maximo Application Suite for Government has achieved FedRAMP Moderate Authorization as a Software as a Service offering. The authorization allows IBM to provide Maximo as a secure, compliant SaaS option for U.S. federal agencies and other organizations that require federally validated security controls. This milestone positions IBM to pursue additional public sector and regulated market workloads that depend on FedRAMP Moderate...",
+      "pub_date": "2026-08-17T22:10:01Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/articles/ibm-ibm-secures-fedramp-moderate-221001967.html"
+    },
     {
       "title": "HPE vs. IBM: Which Stock Should Value Investors Buy Now?",
       "summary": "HPE vs. IBM: Which Stock Is the Better Value Option?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-14T22:24:55Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-daring-believe-numbers-222455359.html"
-    },
-    {
-      "title": "Quantum Computing Earnings Offered a Reality Check. What Comes Next.",
-      "summary": "IonQ, Quantinuum, and other notable names in the quantum sector have reported earnings, which broadly showed that traction continues to grow.",
-      "pub_date": "2026-08-14T20:57:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/quantum-computing-earnings-stocks-b4e8ce2d?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

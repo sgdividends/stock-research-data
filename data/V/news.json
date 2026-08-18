@@ -1,7 +1,14 @@
 {
   "ticker": "V",
-  "generated_at": "2026-08-17T20:20:18.435609+00:00",
+  "generated_at": "2026-08-18T00:53:39.972967+00:00",
   "items": [
+    {
+      "title": "Visa Stock Slips After Ackman Reveals New Payment Bet",
+      "summary": "Pershing Square's new Visa position adds a prominent long-term investor, but the shares surrendered part of their disclosure-driven gain.",
+      "pub_date": "2026-08-17T20:44:41Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/visa-stock-slips-ackman-reveals-204441833.html"
+    },
     {
       "title": "Should You Buy, Sell or Hold PayPal Stock After a 36.1% 3-Month Rise?",
       "summary": "PYPL's 36.1% surge in three months reflects TPV and Venmo growth, but weak checkout growth and fierce competition raise questions about its recovery.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-17T10:15:00Z",
       "source": "Moneywise",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-lost-400m-dumping-101500398.html"
-    },
-    {
-      "title": "Visa\u2019s Agentic Ready Program Moves Issuer-Layer Readiness From Theory to Production",
-      "summary": "The July 2, 2026, live agentic payment transaction in Germany\u2014executed by Worldline, ING, and Visa\u2014served as a definitive proof of concept for the future of commerce. By successfully navigating product identification, consumer authentication via Visa Payment Passkeys, and standard authorization protocols, the trial demonstrated that the existing payment rails are not the primary bottleneck. As [\u2026]",
-      "pub_date": "2026-08-17T01:19:57Z",
-      "source": "Forkast News",
-      "url": "https://finance.yahoo.com/technology/ai/articles/visa-agentic-ready-program-moves-011957911.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "APA",
-  "generated_at": "2026-08-17T20:19:28.691631+00:00",
+  "generated_at": "2026-08-18T00:52:34.701243+00:00",
   "items": [
+    {
+      "title": "U.S. Shale Majors Cut Spending Despite Higher Oil Prices",
+      "summary": "Production growth is slowing, with the EIA expecting output to rise just 200,000 bpd in 2026.",
+      "pub_date": "2026-08-17T23:00:00Z",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/u-shale-majors-cut-spending-230000849.html"
+    },
     {
       "title": "APA and Woodside Energy Have Fuel in the Tank to Go Higher",
       "summary": "APA has jumped nearly 100% over the last year, while Woodside Energy Group ADR is up by 32% year to date.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-07T19:00:01Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/apa-apa-q2-earnings-taking-190001103.html"
-    },
-    {
-      "title": "APA Q2 Earnings Call Highlights Cost Cuts and Permian Efficiency",
-      "summary": "APA raised its U.S. oil outlook and cost-savings target while holding capital steady and advancing exploration plans for 2027.",
-      "pub_date": "2026-08-07T14:00:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/energy/articles/apa-q2-earnings-call-highlights-140000514.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "UHS",
-  "generated_at": "2026-08-17T20:20:17.576197+00:00",
+  "generated_at": "2026-08-18T00:53:38.933645+00:00",
   "items": [
+    {
+      "title": "1 S&P 500 Stock with Competitive Advantages and 2 Facing Challenges",
+      "summary": "The S&P 500 (^GSPC) is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are created equal - some are struggling with slowing growth, declining margins, or increased competition.",
+      "pub_date": "2026-08-17T23:34:20Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-competitive-233420660.html"
+    },
     {
       "title": "Can Tenet Healthcare's Hospital Growth Keep Earnings Momentum Going?",
       "summary": "THC's hospital growth is fueling earnings momentum as stronger volumes, revenues and margins help offset exchange weakness.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-03T17:01:22Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/healthcare/articles/5-revealing-analyst-questions-universal-170122590.html"
-    },
-    {
-      "title": "Can Higher Occupancy Help Encompass Health Counter Rising Costs in Q2?",
-      "summary": "EHC's higher occupancy, rising discharges and hospital expansion could support Q2 growth, but can they offset mounting operating costs?",
-      "pub_date": "2026-08-03T16:08:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/healthcare/articles/higher-occupancy-help-encompass-health-160800896.html"
     }
   ]
 }

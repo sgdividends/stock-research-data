@@ -1,7 +1,21 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-08-17T20:19:38.504513+00:00",
+  "generated_at": "2026-08-18T00:52:47.362288+00:00",
   "items": [
+    {
+      "title": "What Kept Coming Up When Analysts Grilled CSCO",
+      "summary": "Cisco is forecasting a large year of growth, but analysts on its latest call pressed on the sustainability of the boom and its cost. Here's what management's answers revealed.",
+      "pub_date": "2026-08-17T23:18:38Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/kept-coming-analysts-grilled-csco-231838721.html"
+    },
+    {
+      "title": "Stock Market Today: Dow Falls As This Key Yield Hits 19-Year High; Warren Buffett Stock Falls (Live Coverage)",
+      "summary": "Stock Market Today: The Dow Jones index drops as memory-chip stocks Micron and Sandisk rally. Trump threatens Oman.",
+      "pub_date": "2026-08-17T20:41:54Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-micron-stock-sandisk-stock-sndk/?src=A00220&yptr=yahoo"
+    },
     {
       "title": "Cisco Grew Faster By Selling Hardware And Charging More For It",
       "summary": "The record quarter was carried by the product line and by price increases taken to cover memory costs, and a heavier hardware mix, together with those memory costs, is what pulled product margin down.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-16T07:41:00Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-cisco-csco-stock-down-074100939.html"
-    },
-    {
-      "title": "Cisco Systems (CSCO) Was Caught In A 2,500 Organization AI Exposure",
-      "summary": "Cisco Systems (NasdaqGS: CSCO) is among more than 2,500 organizations reportedly affected by a major AI supply chain incident linked to LiteLLM in March 2026. The exposure is said to include sensitive data such as cloud credentials and AI API keys tied to AI integrations. The incident raises questions about cybersecurity, operational resilience and data privacy across Cisco's AI powered infrastructure and services. Investors are assessing how these AI related risks may influence perceptions...",
-      "pub_date": "2026-08-15T21:10:30Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-systems-csco-caught-2-211030597.html"
-    },
-    {
-      "title": "Cisco vs. Broadcom: One Stock Looks Like the Better AI Play",
-      "summary": "Cisco just posted a networking super cycle quarter while Broadcom reported AI semiconductor numbers that border on absurd, and the two stocks now sit at nearly the same valuation multiple despite wildly different growth trajectories.",
-      "pub_date": "2026-08-15T15:30:40Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-vs-broadcom-one-stock-153040244.html"
     }
   ]
 }

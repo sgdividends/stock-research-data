@@ -1,7 +1,14 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-08-17T20:19:55.333582+00:00",
+  "generated_at": "2026-08-18T00:53:09.676316+00:00",
   "items": [
+    {
+      "title": "Jane Street\u2019s $15 Billion Loss Lays Bare Its Hedge Fund Side",
+      "summary": "The question pinged around Wall Street trading desks as they watched their rivals at Jane Street shatter record after record: Had they cracked the game, or were they playing a different one?",
+      "pub_date": "2026-08-17T20:45:22Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jane-street-15-billion-loss-204522531.html"
+    },
     {
       "title": "Sector Update: Financial Stocks Decline Late Afternoon",
       "summary": "Financial stocks fell in late Monday afternoon trading with the NYSE Financial Index dropping 0.8% a",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-17T16:47:35Z",
       "source": "Fortune",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jamie-premium-nears-1-trillion-164735019.html"
-    },
-    {
-      "title": "UBS, Tudor Investment Increase Bitcoin ETF Exposure in Q2",
-      "summary": "Swiss multinational investment bank UBS (NYSE: $UBS) and Tudor Investment, a hedge fund firm founded by billionaire...",
-      "pub_date": "2026-08-17T15:23:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/ubs-tudor-investment-increase-bitcoin-152300435.html"
     }
   ]
 }

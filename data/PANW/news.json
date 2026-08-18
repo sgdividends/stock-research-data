@@ -1,7 +1,21 @@
 {
   "ticker": "PANW",
-  "generated_at": "2026-08-17T20:20:05.677338+00:00",
+  "generated_at": "2026-08-18T00:53:23.819158+00:00",
   "items": [
+    {
+      "title": "What Kept Coming Up When Analysts Grilled CSCO",
+      "summary": "Cisco is forecasting a large year of growth, but analysts on its latest call pressed on the sustainability of the boom and its cost. Here's what management's answers revealed.",
+      "pub_date": "2026-08-17T23:18:38Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/kept-coming-analysts-grilled-csco-231838721.html"
+    },
+    {
+      "title": "Micron Stock Has A New Profit Floor, But Did It Build A Ceiling Too?",
+      "summary": "Management signed deals to guarantee years of record profits, yet the stock is slipping, a sign the market is more worried about the ceiling than excited about the floor.",
+      "pub_date": "2026-08-17T20:34:28Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-profit-floor-did-203428815.html"
+    },
     {
       "title": "Cisco Grew Faster By Selling Hardware And Charging More For It",
       "summary": "The record quarter was carried by the product line and by price increases taken to cover memory costs, and a heavier hardware mix, together with those memory costs, is what pulled product margin down.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-14T18:27:26Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-beat-every-line-then-182726658.html"
-    },
-    {
-      "title": "What Could Palo Alto Networks (PANW) Gain From Its New Policy Control Integration?",
-      "summary": "Palo Alto Networks (NasdaqGS:PANW) and FireMon announced completion of FireMon's integration with Palo Alto Networks Strata Cloud Manager, delivering new policy governance and risk validation capabilities for joint customers. The combined solution is designed to automate firewall policy management and support Zero Trust enforcement across hybrid environments. The integration expands Palo Alto Networks ecosystem for customers managing complex security architectures and policy controls. This...",
-      "pub_date": "2026-08-14T15:11:10Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/could-palo-alto-networks-panw-151110213.html"
-    },
-    {
-      "title": "Zscaler Increases CapEx: Can AI-Led Demand Justify Higher Spending?",
-      "summary": "ZS ramps up capital expenditures to support AI security demand, even as higher infrastructure costs threaten near-term free cash flow.",
-      "pub_date": "2026-08-14T14:53:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/zscaler-increases-capex-ai-led-145300536.html"
     }
   ]
 }
