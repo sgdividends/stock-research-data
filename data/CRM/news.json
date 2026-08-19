@@ -1,7 +1,28 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-08-19T16:24:02.057848+00:00",
+  "generated_at": "2026-08-19T20:19:52.698046+00:00",
   "items": [
+    {
+      "title": "AI agents create new problem for enterprise software",
+      "summary": "Enterprise software built its business around human users. AI agents are about to change that assumption entirely.",
+      "pub_date": "2026-08-19T18:47:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-agents-create-problem-enterprise-184700431.html"
+    },
+    {
+      "title": "UiPath Stock Rises 44% in 6 Months: Should You Buy, Hold or Sell?",
+      "summary": "PATH's agentic AI adoption and enterprise growth support its outlook, but slowing revenue and flat near-term earnings could cap gains after a 44% rally.",
+      "pub_date": "2026-08-19T17:18:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/uipath-stock-rises-44-6-171800149.html"
+    },
+    {
+      "title": "Can Strong AI Adoption Help Atlassian Challenge CRM & NOW?",
+      "summary": "TEAM's AI adoption is driving customer expansion, larger deals and cross-selling, strengthening its position in cloud software.",
+      "pub_date": "2026-08-19T15:37:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/strong-ai-adoption-help-atlassian-153700155.html"
+    },
     {
       "title": "\u201cThe Selling Goes Too Far\u201d: Jim Cramer Defends ServiceNow, Salesforce, and Other Software Giants Against Extinction Fears",
       "summary": "Jim Cramer says the 2026 software selloff has crossed a line, and the market is no longer pricing in missed earnings but betting on total extinction. Whether that fear has any grounding in reality is a very different question.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-18T21:45:02Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-rises-market-takes-214502314.html"
-    },
-    {
-      "title": "Netflix, Salesforce, and Adobe Rally as Investors Rotate Out of Semiconductors and Into Beaten Down Stocks",
-      "summary": "Semiconductors are bleeding while software stocks quietly climb, and the gap between those two moves tells a story about how investors are repricing the entire AI trade right now.",
-      "pub_date": "2026-08-18T20:46:46Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-salesforce-adobe-rally-investors-204646133.html"
-    },
-    {
-      "title": "Why Salesforce Stock Rallied Today",
-      "summary": "The customer relationship manager is getting a little love from Wall Street.",
-      "pub_date": "2026-08-18T19:57:12Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-salesforce-stock-rallied-today-195712338.html"
-    },
-    {
-      "title": "Tech Stocks Fall On War, Macro Woes. Is Anthropic Revenue Projection Also A Factor?",
-      "summary": "Tech stocks tumbled Tuesday, joining a broad market sell-off triggered by ongoing worries about the U.S.-Iran conflict which led to higher Treasury Yields and oil prices. One analyst also pointed to a potential culprit: reports of Anthropic projected revenue run rate, which is lower than speculation. The Nasdaq shed roughly 278 points or around 1%, as chip stocks, led by...",
-      "pub_date": "2026-08-18T17:54:32Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/tech-stocks-ai-anthropic-revenue-ipo/?src=A00220&yptr=yahoo"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "FDX",
-  "generated_at": "2026-08-19T16:24:14.274051+00:00",
+  "generated_at": "2026-08-19T20:20:02.145910+00:00",
   "items": [
+    {
+      "title": "Amazon to Bring Drone Delivery to 500 Cities, AI Be Damned",
+      "summary": "Amazon is expanding Prime Air drone delivery to nearly 500 U.S. cities and towns as the retailer battles Walmart and FedEx over ever-faster shipping.",
+      "pub_date": "2026-08-19T18:27:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/amazon-drone-delivery-prime-air-stock-4d2ee8d1?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Freight Distress Report: More than 7,000 jobs cut in new wave of closures",
       "summary": "A new round of layoffs and closures is hitting thousands of workers across manufacturing, distribution, warehousing, trucking and parcel networks. The post Freight Distress Report: More than 7,000 jobs cut in new wave of closures appeared first on FreightWaves.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-15T16:03:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/small-business/articles/fedex-closes-more-u-locations-160300304.html"
-    },
-    {
-      "title": "The Shipping Crunch Is Getting Worse. What It Means for Walmart, Tesla, and More.",
-      "summary": "Walmart and more stocks will feel the effects of the capacity constraints, delays, and higher prices reported by shipping giants Maersk and Hapag-Lloyd.",
-      "pub_date": "2026-08-13T19:47:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/walmart-tesla-fedex-stocks-shipping-economy-supply-chain-5518f529?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

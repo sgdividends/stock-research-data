@@ -1,7 +1,14 @@
 {
   "ticker": "NOC",
-  "generated_at": "2026-08-19T16:24:40.767547+00:00",
+  "generated_at": "2026-08-19T20:20:24.157471+00:00",
   "items": [
+    {
+      "title": "Stocks making big moves yesterday: ADP, Northrop Grumman, Bath and Body Works, DoorDash, and Adobe",
+      "summary": "Check out the companies making headlines yesterday:",
+      "pub_date": "2026-08-19T19:50:02Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-195002381.html"
+    },
     {
       "title": "Is Leidos Strengthening Its Position in the Growing AI Market?",
       "summary": "LDOS is expanding AI across defense, cybersecurity and logistics, while its OpenAI partnership supports adoption across government workflows.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-18T12:20:45Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/investors-focus-higher-capital-spending-122045999.html"
-    },
-    {
-      "title": "Boeing Stock Commands a Massive Premium: Is It Truly Earned?",
-      "summary": "Boeing's growth is flying higher than its rivals, but its stock price is already in the stratosphere. Is the premium justified.",
-      "pub_date": "2026-08-17T22:05:37Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-stock-commands-massive-premium-220537478.html"
     }
   ]
 }

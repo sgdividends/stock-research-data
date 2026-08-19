@@ -1,7 +1,14 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-08-19T16:23:58.441605+00:00",
+  "generated_at": "2026-08-19T20:19:50.240901+00:00",
   "items": [
+    {
+      "title": "The White House Summit Isn\u2019t a Photo Op. It\u2019s the Regulatory Architecture.",
+      "summary": "First reported by Politico on August 13 and confirmed by CoinDesk on August 14, the August 19, 2026, White House crypto summit at the Eisenhower Executive Office Building was not a photo opportunity; it was an operational agenda. By shifting the focus from the broad, aspirational rhetoric of the March 2025 summit to the granular [\u2026]",
+      "pub_date": "2026-08-19T20:04:22Z",
+      "source": "Forkast News",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/white-house-summit-isn-t-200422934.html"
+    },
     {
       "title": "Here Are Wednesday\u2019s Top Wall Street Analyst Research Calls: Baidu, Ciena, CME Group, Dollar Tree, Dominion, Fabrinet, Honeywell Aerospace, Klarna, Pershing Square, and More",
       "summary": "Markets turned south again Wednesday as surging yields and geopolitical fears rattled investors, but Wall Street analysts spotted opportunity and danger in names like Baidu, Klarna, Honeywell Aerospace, and Dollar Tree that traders need to see before the open.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-14T05:30:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/ai-compute-futures-contracts-391c267a?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "What CME Group (CME)'s Expansion Into AI Compute and Niche Futures Means For Shareholders",
-      "summary": "CME Group has recently outlined a wave of product launches, including index-based Hockey futures tied to NHL statistics, Compute futures linked to GPU rental indexes with Silicon Data, expanded 24/7 trading for 100-Ounce Silver futures, new E-nano equity index futures, and growing access to Spot-Quoted futures through TradeStation and enhanced market data via dxFeed. Together, these initiatives extend CME Group\u2019s reach into AI infrastructure, sports performance indexes, and retail-friendly...",
-      "pub_date": "2026-08-13T19:12:24Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/options/articles/cme-group-cme-expansion-ai-191224917.html"
     }
   ]
 }

@@ -1,7 +1,21 @@
 {
   "ticker": "BX",
-  "generated_at": "2026-08-19T16:23:52.902081+00:00",
+  "generated_at": "2026-08-19T20:19:46.747969+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Softer Wednesday Afternoon",
+      "summary": "Financial stocks were lower in Wednesday afternoon trading, with the NYSE Financial Index decreasing",
+      "pub_date": "2026-08-19T17:46:10Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-softer-wednesday-174610020.html"
+    },
+    {
+      "title": "XP or BX: Which Is the Better Value Stock Right Now?",
+      "summary": "XP vs. BX: Which Stock Is the Better Value Option?",
+      "pub_date": "2026-08-19T15:40:02Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/xp-bx-better-value-stock-154002407.html"
+    },
     {
       "title": "Sector Update: Financial Stocks Mixed Tuesday",
       "summary": "Financial stocks were mixed Tuesday with the NYSE Financial Index little changed, erasing earlier ga",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-14T19:12:01Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-holds-flat-500-191201034.html"
-    },
-    {
-      "title": "Broadcom Sinks 6% as BofA Flags $370B in AI Debt, AMD Climbs 4% on Baird\u2019s $1,250 Call",
-      "summary": "Two AI chip giants moved in opposite directions Friday as Wall Street put a massive dollar figure on a financing structure that Broadcom and Nvidia both use, raising questions about which companies benefit from AI's debt-fueled buildout and which carry the hidden risk.",
-      "pub_date": "2026-08-14T18:07:38Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-sinks-6-bofa-flags-180738180.html"
-    },
-    {
-      "title": "Nvidia Poised for Strong Quarterly Results, Outlook, UBS Says",
-      "summary": "Nvidia (NVDA) is likely to post strong fiscal second-quarter results and issue an upbeat sales outlo",
-      "pub_date": "2026-08-14T18:06:39Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-poised-strong-quarterly-results-180639120.html"
     }
   ]
 }
