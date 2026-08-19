@@ -1,6 +1,6 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-08-19T04:31:15.780693+00:00",
+  "generated_at": "2026-08-19T08:29:49.950207+00:00",
   "items": [
     {
       "title": "CLARITY Act's delay is 'depressing': Coinbase exec. discusses",
@@ -8,6 +8,20 @@
       "pub_date": "2026-08-18T14:49:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/clarity-acts-delay-is-depressing-coinbase-exec-discusses-144900997.html"
+    },
+    {
+      "title": "Exchange Stablecoin Reserves Drop 20% as Bear Market Drains Liquidity",
+      "summary": "Exchange stablecoin reserves fell to $64 billion as Binance's share climbed to 68.5%, thinning crypto market liquidity.",
+      "pub_date": "2026-08-19T06:01:18Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/exchange-stablecoin-reserves-drop-20-060118219.html"
+    },
+    {
+      "title": "Why the Crypto Industry Is More Reliant Than Ever on Trump",
+      "summary": "Leaders of tech and crypto firms, including Coinbase and Ripple, plan to meet with President Donald Trump on Wednesday. It\u2019s the next move for the executives with an industry friendly bill stalled.",
+      "pub_date": "2026-08-19T06:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/crypto-clarity-act-coinbase-ripple-trump-d60a7215?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Roundtable CEO James Heckman Rings Nasdaq Closing Bell, Unveiling World\u2019s Only AI/DeFi Platform for Premium Media",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-18T11:13:25Z",
       "source": "BeInCrypto",
       "url": "https://finance.yahoo.com/markets/crypto/articles/7-crypto-freeze-account-htx-111325645.html"
-    },
-    {
-      "title": "Trump Pushes For More Crypto Clarity, White House To Host Meeting With Industry Leaders",
-      "summary": "President Trump may attend a White House meeting of crypto, prediction market leaders in lieu of Clarity Act. CFTC event scheduled.",
-      "pub_date": "2026-08-17T20:36:50Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/cryptocurrency-regulation-trump-white-house-meeting-crypto-prediction-market-executives-sec-cftc/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Centralized vs. decentralized exchanges: What's the difference?",
-      "summary": "Discover the key differences between centralized and decentralized crypto exchanges. Learn the pros, cons, and which platform fits your trading needs best.",
-      "pub_date": "2026-08-17T19:13:28Z",
-      "source": "Yahoo Personal Finance",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/centralized-vs-decentralized-exchanges-191328712.html"
     }
   ]
 }
