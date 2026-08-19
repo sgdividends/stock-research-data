@@ -1,7 +1,14 @@
 {
   "ticker": "CEG",
-  "generated_at": "2026-08-19T00:53:50.536016+00:00",
+  "generated_at": "2026-08-19T04:31:13.414865+00:00",
   "items": [
+    {
+      "title": "Nuclear Stocks Plunge Tuesday: Oklo Down 5%, Constellation Energy Down 4%, NuScale Down 5%",
+      "summary": "Nuclear stocks cratered Tuesday even as broader utilities caught a bid, and the reason has nothing to do with reactors. A collision of rising long rates and shaken AI spending confidence is rewriting how the market prices the entire sector.",
+      "pub_date": "2026-08-19T03:12:19Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stocks-plunge-tuesday-oklo-031219159.html"
+    },
     {
       "title": "Uranium ETFs Just Crashed 30 Percent While AI Power Demand Keeps Breaking Records",
       "summary": "Uranium funds just shed nearly a third of their value at the exact moment AI power demand is shattering records, and the reason that contradiction matters comes down to which of three very different ETFs an investor happens to own.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-16T11:00:22Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/energy/articles/3-nuclear-energy-stocks-riding-110022153.html"
-    },
-    {
-      "title": "Why Data Centers Are Turning Energy Stocks Into AI Plays",
-      "summary": "Energy stocks are becoming key players as data center energy demand explodes.",
-      "pub_date": "2026-08-16T02:05:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/energy/articles/why-data-centers-turning-energy-020500406.html"
     }
   ]
 }

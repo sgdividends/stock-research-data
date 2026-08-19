@@ -1,7 +1,14 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-08-19T00:53:42.055513+00:00",
+  "generated_at": "2026-08-19T04:31:06.731157+00:00",
   "items": [
+    {
+      "title": "Cerebras Unveils CS-4, OpenAI and AMD Partnerships to Accelerate AI Inference",
+      "summary": "Cerebras Systems (NASDAQ:CBRS) outlined a product roadmap centered on faster AI inference, expanded data-center capacity and new partnerships with OpenAI, Arista Networks and Advanced Micro Devices during a company event led by CEO and Co-Founder Andrew Feldman. Feldman said the company recently we",
+      "pub_date": "2026-08-19T02:02:13Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-unveils-cs-4-openai-020213678.html"
+    },
     {
       "title": "Cerebras Systems Introduces Superfast AI Accelerator",
       "summary": "Cerebras Systems late Tuesday introduced what it described as \u201cthe fastest AI accelerator in the industry.\u201d",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-18T20:15:30Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-tumbles-5-5-201530387.html"
-    },
-    {
-      "title": "AMD (AMD) Stock Gets Fair Value Boost As Analysts Rework AI Growth Expectations",
-      "summary": "Price targets on Advanced Micro Devices have shifted into a much wider range, with recent updates running from about US$450 up to US$1,250 as analysts revisit their assumptions. Those higher and lower targets reflect very different views on how AI infrastructure demand, data center products, and new partnerships might be reflected in AMD\u2019s valuation over time. In the sections that follow, you will see how to interpret these moves and track the evolving story around AMD with more...",
-      "pub_date": "2026-08-18T20:10:00Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-amd-stock-gets-fair-201000939.html"
     }
   ]
 }

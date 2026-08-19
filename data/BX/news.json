@@ -1,6 +1,6 @@
 {
   "ticker": "BX",
-  "generated_at": "2026-08-19T00:53:48.532880+00:00",
+  "generated_at": "2026-08-19T04:31:11.850159+00:00",
   "items": [
     {
       "title": "Sector Update: Financial Stocks Mixed Tuesday",
@@ -15,6 +15,13 @@
       "pub_date": "2026-08-18T17:47:41Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-mixed-tuesday-174741395.html"
+    },
+    {
+      "title": "Financials- On an 11-Week Win Streak, and Still Looking Solid",
+      "summary": "Energy led the S&P 500 Index (^SPX) sectors last week. But financials also rose 0.9%, extending their 11-week winning streak. We turned constructive on the group in April, observes Ed Yardeni, editor of Yardeni QuickTakes.",
+      "pub_date": "2026-08-18T05:01:00Z",
+      "source": "MoneyShow",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/financials-11-week-win-streak-050100378.html"
     },
     {
       "title": "Blackstone, Blue Owl Funds Upsize Bond Sales After Third-Quarter Lull in Private Credit Issuance",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-14T18:06:39Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-poised-strong-quarterly-results-180639120.html"
-    },
-    {
-      "title": "Nvidia\u2019s $500 Billion Plan Envelops Wall Street in Its AI Frenzy",
-      "summary": "Goldman Sachs Group Inc., Blackstone Inc. and Apollo Global Management Inc. had been working tirelessly for months to draw up debt deals that would help developers of artificial intelligence systems pay for chips from Nvidia Corp.",
-      "pub_date": "2026-08-14T16:42:09Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-500-billion-plan-envelops-164209178.html"
     }
   ]
 }

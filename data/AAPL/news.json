@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "generated_at": "2026-08-19T00:53:38.271477+00:00",
+  "generated_at": "2026-08-19T04:31:03.883442+00:00",
   "items": [
     {
       "title": "Wall Street clearly loves Google stock, 13F filings reveal",
@@ -8,6 +8,20 @@
       "pub_date": "2026-08-18T13:14:02Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/article/wall-street-clearly-loves-google-stock-13f-filings-reveal-131402051.html"
+    },
+    {
+      "title": "Apple\u2019s $249 AirPods may be about to learn how to see",
+      "summary": "Apple is reportedly testing AI that understands the real world without forcing the user to look at a screen.",
+      "pub_date": "2026-08-19T03:33:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-249-airpods-may-learn-033300401.html"
+    },
+    {
+      "title": "Apple Shares Jump Tuesday While the Nasdaq Plummets: Here\u2019s Why It Led Magnificent 7 Stocks",
+      "summary": "While the Nasdaq sold off hard Tuesday and AI-heavy tech names took a beating, one Magnificent 7 stock quietly closed in the green. The reason why reveals a growing fault line inside big tech that investors may have been ignoring.",
+      "pub_date": "2026-08-19T02:52:45Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-shares-jump-tuesday-while-025245698.html"
     },
     {
       "title": "Jim Cramer doubles down on Tim Cook and Apple verdict",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-18T20:54:33Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-jumps-analyst-maps-205433966.html"
-    },
-    {
-      "title": "Vanguard Handed 53 Funds a Fee Cut This Year and Skipped the VGT ETF Entirely",
-      "summary": "Vanguard slashed fees on 53 funds this year and deliberately left one of its biggest, most profitable sector ETFs off the list. Whether that omission should change how you hold it depends on a distinction most investors never think to make.",
-      "pub_date": "2026-08-18T20:45:22Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/vanguard-handed-53-funds-fee-204522485.html"
-    },
-    {
-      "title": "Apple Cuts EU App Fees to 5% Outside the App Store",
-      "summary": "The new structure takes effect Oct. 1.",
-      "pub_date": "2026-08-18T19:52:12Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/articles/apple-cuts-eu-app-fees-195212178.html"
     }
   ]
 }
