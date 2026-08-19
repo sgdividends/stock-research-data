@@ -1,7 +1,14 @@
 {
   "ticker": "BX",
-  "generated_at": "2026-08-18T20:16:34.346806+00:00",
+  "generated_at": "2026-08-19T00:53:48.532880+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Mixed Tuesday",
+      "summary": "Financial stocks were mixed Tuesday with the NYSE Financial Index little changed, erasing earlier ga",
+      "pub_date": "2026-08-18T20:10:25Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-mixed-tuesday-201025983.html"
+    },
     {
       "title": "Sector Update: Financial Stocks Mixed Tuesday Afternoon",
       "summary": "Financial stocks were mixed in Tuesday afternoon trading, with the NYSE Financial Index fractionally",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-14T16:42:09Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-500-billion-plan-envelops-164209178.html"
-    },
-    {
-      "title": "Databricks Raises $5 Billion at a $190 Billion Valuation",
-      "summary": "Databricks Inc. has secured $5 billion in funding at a valuation of $190 billion, the second round of financing this year for a fast-growing software firm that competes with Snowflake Inc. and Alphabet Inc.",
-      "pub_date": "2026-08-13T14:40:33Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/technology/articles/databricks-raises-5-billion-190-144033565.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "KKR",
-  "generated_at": "2026-08-18T20:17:04.491947+00:00",
+  "generated_at": "2026-08-19T00:54:16.216271+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Mixed Tuesday",
+      "summary": "Financial stocks were mixed Tuesday with the NYSE Financial Index little changed, erasing earlier ga",
+      "pub_date": "2026-08-18T20:10:25Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-mixed-tuesday-201025983.html"
+    },
     {
       "title": "Sector Update: Financial Stocks Mixed Tuesday Afternoon",
       "summary": "Financial stocks were mixed in Tuesday afternoon trading, with the NYSE Financial Index fractionally",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-17T13:23:03Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-lean-lower-132303748.html"
-    },
-    {
-      "title": "Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies",
-      "summary": "Even before Nvidia Corp.\u2019s splashy $500 billion financing partnership this week, investors were starting to fret over the roughly $70 billion in phantom liabilities that don\u2019t appear on major AI companies\u2019 balance sheets, but could materialize at the worst possible time.",
-      "pub_date": "2026-08-15T19:00:00Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/technology/ai/articles/bond-traders-agonizing-over-70-190000845.html"
     }
   ]
 }

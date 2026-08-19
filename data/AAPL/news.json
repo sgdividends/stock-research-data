@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "generated_at": "2026-08-18T20:16:23.662454+00:00",
+  "generated_at": "2026-08-19T00:53:38.271477+00:00",
   "items": [
     {
       "title": "Wall Street clearly loves Google stock, 13F filings reveal",
@@ -10,11 +10,46 @@
       "url": "https://finance.yahoo.com/markets/stocks/article/wall-street-clearly-loves-google-stock-13f-filings-reveal-131402051.html"
     },
     {
-      "title": "Trump admin. urges Apple not to purchase Chinese memory chips, but this presents a problem",
-      "summary": "US Secretary of Commerce Howard Lutnick says the Trump administration does not want Apple (AAPL) to purchase memory chips from China. Yahoo Finance Technology Editor Dan Howley explains why this presents issues for Apple.",
-      "pub_date": "2026-08-17T20:35:43Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/trump-admin-urges-apple-not-203543932.html"
+      "title": "Jim Cramer doubles down on Tim Cook and Apple verdict",
+      "summary": "Jim Cramer just sent a message about Tim Cook\u2019s Apple legacy that every AAPL investor needs to hear.",
+      "pub_date": "2026-08-18T23:17:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-doubles-down-tim-231700488.html"
+    },
+    {
+      "title": "Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks",
+      "summary": "Buffett's wisdom is timeless.",
+      "pub_date": "2026-08-18T22:20:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-successor-greg-abel-222000803.html"
+    },
+    {
+      "title": "US Stocks End Third Session Lower As Higher Treasury Yields, Oil Prices Weigh \u2014 BABA, AAPL, GRRR, KLAR, CRWD In Focus",
+      "summary": "The U.S. 30-year Treasury bond yield spiked to a fresh 19-year high on Tuesday.",
+      "pub_date": "2026-08-18T21:35:08Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stocks-end-third-session-213508025.html"
+    },
+    {
+      "title": "Berkshire Boosts Alphabet Stake 83% as Buffett Makes Major AI Bet",
+      "summary": "Berkshire increased its Alphabet holding to nearly 106 million shares worth $37.8 billion.",
+      "pub_date": "2026-08-18T21:00:09Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/berkshire-boosts-alphabet-stake-83-210009667.html"
+    },
+    {
+      "title": "Apple Stock Jumps as Analyst Maps 30% Nvidia-Powered Upside",
+      "summary": "A potential Nvidia partnership could attack Apple's biggest weakness before the next iPhone cycle.",
+      "pub_date": "2026-08-18T20:54:33Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-jumps-analyst-maps-205433966.html"
+    },
+    {
+      "title": "Vanguard Handed 53 Funds a Fee Cut This Year and Skipped the VGT ETF Entirely",
+      "summary": "Vanguard slashed fees on 53 funds this year and deliberately left one of its biggest, most profitable sector ETFs off the list. Whether that omission should change how you hold it depends on a distinction most investors never think to make.",
+      "pub_date": "2026-08-18T20:45:22Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/vanguard-handed-53-funds-fee-204522485.html"
     },
     {
       "title": "Apple Cuts EU App Fees to 5% Outside the App Store",
@@ -22,41 +57,6 @@
       "pub_date": "2026-08-18T19:52:12Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/articles/apple-cuts-eu-app-fees-195212178.html"
-    },
-    {
-      "title": "Apple Changes App Store Terms to Resolve E.U. Antitrust Dispute",
-      "summary": "Apple is changing its fee structure for app developers in the European Union after years of regulatory pressure over its App Store practices.",
-      "pub_date": "2026-08-18T18:19:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/apple-app-store-fees-europe-antitrust-cbf85323?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Apple Overhauls EU App Store Policies to Settle Long-Standing Antitrust Dispute",
-      "summary": "Apple has agreed to major concessions in Europe to resolve regulatory antitrust disputes, replacing its controversial per-install download fee.",
-      "pub_date": "2026-08-18T17:47:48Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/technology/articles/apple-overhauls-eu-app-store-174748427.html"
-    },
-    {
-      "title": "Apple overhauls its EU App Store fees, loosens rules for alternative app stores",
-      "summary": "Apple is simplifying its EU App Store fees, replacing its per-install fee with a 5% commission for apps distributed outside the App Store and making it easier for developers to operate alternative app marketplaces.",
-      "pub_date": "2026-08-18T17:12:13Z",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/technology/articles/apple-overhauls-eu-app-store-171213924.html"
-    },
-    {
-      "title": "Apple to Change Terms for App Developers to Appease EU\u2019s Antitrust Officials",
-      "summary": "Apple seeks to end a yearslong antitrust dispute over how the tech company manages its devices and App Store that included a $579 million fine.",
-      "pub_date": "2026-08-18T16:21:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/tech/apple-to-change-terms-for-app-developers-to-appease-eus-antitrust-officials-0fd9c415?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Apple changes fees for alternative app stores in EU",
-      "summary": "Apple said on Tuesday it will charge a 5% commission on digital transactions in \u200capps distributed outside its App Store, replacing a more complex system \u200cas it seeks to comply with the European Union's Digital Markets Act.  The company last \u200byear changed App Store rules and fees in the EU after the bloc's antitrust regulators ordered it to remove commercial barriers that they said hindered developers from directing customers outside the store.  The regulators criticised Apple's conditions, including \u200ca new Core Technology \u2060Fee, saying they discouraged developers from using alternative app distribution channels on its iOS mobile operating system.",
-      "pub_date": "2026-08-18T16:03:07Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/articles/apple-changes-fees-alternative-app-160307437.html"
     }
   ]
 }
