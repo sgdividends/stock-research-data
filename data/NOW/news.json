@@ -1,7 +1,14 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-08-19T12:34:57.472734+00:00",
+  "generated_at": "2026-08-19T16:24:40.902661+00:00",
   "items": [
+    {
+      "title": "\u201cThe Selling Goes Too Far\u201d: Jim Cramer Defends ServiceNow, Salesforce, and Other Software Giants Against Extinction Fears",
+      "summary": "Jim Cramer says the 2026 software selloff has crossed a line, and the market is no longer pricing in missed earnings but betting on total extinction. Whether that fear has any grounding in reality is a very different question.",
+      "pub_date": "2026-08-19T14:55:06Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/selling-goes-too-far-jim-145506424.html"
+    },
     {
       "title": "Inside the $8 billion cybersecurity acquisition that rescued ServiceNow from the \u2018Saaspocalypse\u2019",
       "summary": "The deal for Yevgeny Dibrov\u2019s Armis was Israel\u2019s second-largest tech startup exit ever.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-17T18:45:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/workday-stock-downgraded-buyout-report-9068d277?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Prediction: This AI Stock Could Double in 12 Months",
-      "summary": "ServiceNow just crossed a milestone that Wall Street has barely noticed, and our model says the window to act is closing faster than most investors realize.",
-      "pub_date": "2026-08-17T17:00:03Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-ai-stock-could-double-170003706.html"
     }
   ]
 }

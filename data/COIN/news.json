@@ -1,13 +1,41 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-08-19T12:34:14.193442+00:00",
+  "generated_at": "2026-08-19T16:24:00.201875+00:00",
   "items": [
     {
-      "title": "CLARITY Act's delay is 'depressing': Coinbase exec. discusses",
-      "summary": "Coinbase's (COIN) head of institutional strategy, John D'Agostino, joins Yahoo Executive Editor Brian Sozzi on Opening Bid to discuss the stalled CLARITY Act, why the legislation matters for the crypto industry, and the growing role of stablecoins. D'Agostino also states that political stalling is holding up the bill, and why the delay is \"depressing.\"",
-      "pub_date": "2026-08-18T14:49:00Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/clarity-acts-delay-is-depressing-coinbase-exec-discusses-144900997.html"
+      "title": "Coinbase Adds 50x Crypto Perps to Base App Through Hyperliquid",
+      "summary": "The Hyperliquid integration gives eligible Base App users access to more than 290 perpetual futures markets.",
+      "pub_date": "2026-08-19T16:00:06Z",
+      "source": "decrypt",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-adds-50x-crypto-perps-160006152.html"
+    },
+    {
+      "title": "Bitcoin Surges Most Since March Ahead of White House Meeting",
+      "summary": "Bitcoin broke out of a months long trading range, surging as much as 7.7%, amid optimism on the regulatory front with industry officials gathering at the White House.",
+      "pub_date": "2026-08-19T15:51:13Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-surges-most-since-march-155113259.html"
+    },
+    {
+      "title": "Clarity Act Vote Set, SEC Proposes Crypto Rules Ahead Of White House Summit",
+      "summary": "The Senate sets date for Clarity Act vote. SEC proposes new rules for crypto offerings. White House, Trump to host crypto summit.",
+      "pub_date": "2026-08-19T14:40:46Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/clarity-act-sec-regulation-crypto-white-house-summit-trump-cftc-bitcoin/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Valero Energy and Coinbase Global have been highlighted as Zacks Bull and Bear of the Day",
+      "summary": "Valero's surging refining margins and earnings estimates contrast sharply with Coinbase's worsening outlook, while Micron gains an AI edge.",
+      "pub_date": "2026-08-19T12:57:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/valero-energy-coinbase-global-highlighted-125700558.html"
+    },
+    {
+      "title": "Can a $7 USDT Transfer Freeze Your Crypto Exchange Account? Inside the HTX \u2018Dusting\u2019 Panic",
+      "summary": "Crypto users reported receiving unsolicited USDT transfers from addresses labeled as HTX, including one Coinbase user who said a 7.5 USDT deposit triggered a source-of-funds ...",
+      "pub_date": "2026-08-19T12:51:37Z",
+      "source": "CCN",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/7-usdt-transfer-freeze-crypto-125137050.html"
     },
     {
       "title": "Coinbase Below Key Level Amid Clarity Act Uncertainty; Is Coinbase Stock A Sell Now?",
@@ -29,34 +57,6 @@
       "pub_date": "2026-08-19T11:09:55Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-global-coin-attend-white-110955585.html"
-    },
-    {
-      "title": "How the UAE has emerged as a \u2018leading light\u2019 for tokenization",
-      "summary": "Coinbase's decision to base its global tokenization hub in Abu Dhabi is the latest sign that the emirate's bet on regulated digital assets is paying off\u2014with $500 billion in GCC assets predicted to move onto blockchain by 2030.",
-      "pub_date": "2026-08-19T09:44:22Z",
-      "source": "Fortune",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/uae-emerged-leading-light-tokenization-094422709.html"
-    },
-    {
-      "title": "Bear of the Day: Coinbase Global (COIN)",
-      "summary": "While Coinbase's (COIN) long-term story may remain intriguing, the near-term earnings picture has deteriorated considerably.",
-      "pub_date": "2026-08-19T08:00:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bear-day-coinbase-global-coin-080000216.html"
-    },
-    {
-      "title": "Exchange Stablecoin Reserves Drop 20% as Bear Market Drains Liquidity",
-      "summary": "Exchange stablecoin reserves fell to $64 billion as Binance's share climbed to 68.5%, thinning crypto market liquidity.",
-      "pub_date": "2026-08-19T06:01:18Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/exchange-stablecoin-reserves-drop-20-060118219.html"
-    },
-    {
-      "title": "Why the Crypto Industry Is More Reliant Than Ever on Trump",
-      "summary": "Leaders of tech and crypto firms, including Coinbase and Ripple, plan to meet with President Donald Trump on Wednesday. It\u2019s the next move for the executives with an industry friendly bill stalled.",
-      "pub_date": "2026-08-19T06:00:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/crypto-clarity-act-coinbase-ripple-trump-d60a7215?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

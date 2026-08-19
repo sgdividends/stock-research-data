@@ -1,62 +1,62 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-08-19T12:34:03.303789+00:00",
+  "generated_at": "2026-08-19T16:23:48.290418+00:00",
   "items": [
+    {
+      "title": "Tech sell-off resumes, counterbalancing bond yield relief: AlphaCheck",
+      "summary": "Tech stocks faced renewed selling pressure, while healthcare, basic materials, and consumer discretionary stocks rose.",
+      "pub_date": "2026-08-19T14:14:46Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/tech-sell-off-resumes-counterbalancing-bond-yield-relief-alphacheck-141446892.html"
+    },
+    {
+      "title": "Why Broadcom Stock Crashed Today",
+      "summary": "The semiconductor and networking specialist ceded some of its custom chips business to a rival. Or did it?",
+      "pub_date": "2026-08-19T16:19:02Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-stock-crashed-today-161902789.html"
+    },
+    {
+      "title": "Intel and AMD Fall 4%, NVIDIA Unchanged as Chip Selloff Defies Bond Yield Relief",
+      "summary": "Chip stocks are selling off hard even as bond yields fall and the broader market turns green, yet one name in the sector is holding completely flat while its peers bleed out.",
+      "pub_date": "2026-08-19T15:34:32Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-amd-fall-4-nvidia-153432713.html"
+    },
+    {
+      "title": "Marvell Stock Rises as Chip Company Issues Warrant to Google to Buy Stake of $12.2 Billion",
+      "summary": "Marvell stock jumps after the chip maker announces it issued a warrant to Google to purchase up to 59 million shares.",
+      "pub_date": "2026-08-19T15:04:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/marvell-stock-google-stake-warrant-bd142033?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Broadcom Falls 5% as Marvell Lands Google Custom Chip Deal, VMware and Financing Concerns Persist",
+      "summary": "Marvell just walked into Broadcom's most important customer relationship, and the fallout is shaking loose bigger questions about whether Broadcom's stock has been quietly losing its grip on the AI chip race all year.",
+      "pub_date": "2026-08-19T14:32:30Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-falls-5-marvell-lands-143230682.html"
+    },
+    {
+      "title": "Marvell Technology Rockets 13% on $12.2B Google Warrant; Broadcom Falls 3%, Alphabet Unmoved",
+      "summary": "A massive warrant disclosure just reshuffled who builds Google's AI chips, sending one semiconductor giant surging while punishing the longtime incumbent with a 3% drop before markets had time to blink.",
+      "pub_date": "2026-08-19T13:32:26Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/marvell-technology-rockets-13-12-133226962.html"
+    },
+    {
+      "title": "Marvell gives Google option to buy $12.2 billion stake in custom AI chip deal",
+      "summary": "Marvell Technology will help develop Google's in-demand custom chips and has offered the search giant the right to buy a potential $12.2 \u200cbillion stake, the latest deal in which Big Tech is investing in the suppliers \u200cpowering its AI build-out.  Shares of the chipmaker jumped nearly 8% as the deal marked a major vote of confidence \u200bfrom a top cloud-computing provider and could bring roughly $120 billion in revenue through fiscal 2033, if Google hits the targets its stake option depends on.  Larger rival Broadcom, which had been Google's main custom chip partner so far, fell more than 5%, while shares in Google-parent Alphabet were little \u200cchanged.",
+      "pub_date": "2026-08-19T12:38:12Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/technology/articles/marvell-grants-google-12-2-123812695.html"
+    },
     {
       "title": "Billionaire Cathie Wood's Ark Invest Bought $27 Million of Nvidia and $16 Million of Broadcom During the Recent Sell-Off. Is Now the Time to Follow Her Lead?",
       "summary": "Investors must weigh the upside in these chip stocks against risks and volatility.",
       "pub_date": "2026-08-19T12:05:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-cathie-woods-ark-invest-120500118.html"
-    },
-    {
-      "title": "Latest News In AI Chips - Cerebras CS-4 Revolutionizes AI Inference Speed and Efficiency",
-      "summary": "Cerebras Systems has introduced the CS-4, a significant advancement in AI chips, claiming it to be the fastest AI accelerator available today. Built on the new Wafer Scale Engine 3 Turbo, the CS-4 offers up to 30 times more speed and 10 times more throughput per watt compared to GPU-based solutions, significantly enhancing data center efficiency. This new development sets a benchmark for AI inference speed and enables support for models with over 50 trillion parameters. The CS-4, part of a...",
-      "pub_date": "2026-08-19T11:37:33Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/latest-news-ai-chips-cerebras-113733033.html"
-    },
-    {
-      "title": "3 AI Networking Stocks Quietly Dominating Their Niche in August",
-      "summary": "GPUs and hyperscaler spending dominate the headlines, but the real compounding is happening one layer below in the switches, optics, and custom silicon stitching AI clusters together. Three networking stocks have separated from the pack, and their latest earnings reports suggest the gap is widening.",
-      "pub_date": "2026-08-19T11:03:17Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-networking-stocks-quietly-110317665.html"
-    },
-    {
-      "title": "After TSMC, Samsung Is Also Reportedly Planning To Hike Chip Prices Amid Demand Surge Fueled By Nvidia, Apple, Tesla And Others",
-      "summary": "According to a Reuters report, Samsung Electronics is raising prices on some advanced foundry services by up to 15% amid strong demand for AI chips.",
-      "pub_date": "2026-08-19T11:02:34Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/technology/articles/tsmc-samsung-reportedly-planning-hike-110234557.html"
-    },
-    {
-      "title": "This 3X Tech ETN Owns the Market\u2019s Biggest Winners and Lost 87% the Last Time They Stumbled",
-      "summary": "The ETN promising triple exposure to Nvidia, Meta, Apple, and the rest of the AI elite sounds like a dream trade until you examine what happened the last time these stocks hit a rough patch.",
-      "pub_date": "2026-08-19T09:33:08Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3x-tech-etn-owns-market-093308878.html"
-    },
-    {
-      "title": "SpaceX, Micron, and Sandisk Are Getting All the Hype -- but This Stock Quietly Beats Them All for Long-Term Investors",
-      "summary": "This technology giant is already turning AI demand into cash.",
-      "pub_date": "2026-08-19T04:20:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-micron-sandisk-getting-hype-042000393.html"
-    },
-    {
-      "title": "2 Stocks to Buy That Stanley Druckenmiller Added While Exiting 5 Chip and Photonics Stocks",
-      "summary": "The billionaire's family office sold five chip and photonics stocks in a single quarter -- and made two of its biggest bets on the companies writing the checks for AI instead of chasing them.",
-      "pub_date": "2026-08-19T03:57:01Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-stocks-buy-stanley-druckenmiller-035701945.html"
-    },
-    {
-      "title": "Dow, S&P 500, Nasdaq Futures Slip As Global Bond Rout Catches Up With Markets: LUNR, MSTR, WYFI, AMLX Stocks In Focus",
-      "summary": "The U.S. 30-year Treasury yield climbed to a fresh 19-year high on Tuesday, trading at 5.274% at the time of writing, while the 10-year Treasury yield was at 4.692%.",
-      "pub_date": "2026-08-19T03:17:32Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-031732663.html"
     }
   ]
 }

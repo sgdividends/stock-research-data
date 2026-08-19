@@ -1,13 +1,34 @@
 {
   "ticker": "BAC",
-  "generated_at": "2026-08-19T12:34:04.587929+00:00",
+  "generated_at": "2026-08-19T16:23:49.560031+00:00",
   "items": [
+    {
+      "title": "Intel and AMD Fall 4%, NVIDIA Unchanged as Chip Selloff Defies Bond Yield Relief",
+      "summary": "Chip stocks are selling off hard even as bond yields fall and the broader market turns green, yet one name in the sector is holding completely flat while its peers bleed out.",
+      "pub_date": "2026-08-19T15:34:32Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-amd-fall-4-nvidia-153432713.html"
+    },
+    {
+      "title": "Nvidia Trades At 50% Discount",
+      "summary": "Bank of America sees Nvidia shares trading at a steep discount to where they should be, but the bold price target rests on assumptions that could unravel fast given the debt piling up across the AI industry.",
+      "pub_date": "2026-08-19T14:56:22Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-trades-50-discount-145622267.html"
+    },
     {
       "title": "Bain Capital Specialty Finance (BCSF) Stock Fair Value Falls As Analysts Cut Outlook",
       "summary": "The fair value estimate for Bain Capital Specialty Finance has shifted lower, moving from US$13.83 to US$12.67 as part of the latest analyst update. This adjustment aligns with Street research that now clusters price targets around US$12 to US$13. It reflects a balance between solid liquidity and concerns around net asset value, credit quality, and refinancing costs. As you read on, you will see how this evolving narrative may shape expectations and what to watch next around Bain Capital...",
       "pub_date": "2026-08-19T12:09:01Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bain-capital-specialty-finance-bcsf-120901925.html"
+    },
+    {
+      "title": "BofA Continues to Boost Tech Banking Ranks With New Hires",
+      "summary": "Bank of America Corp. has hired two more managing directors as it builds out its technology practice, according to an internal memo reviewed by Bloomberg News.",
+      "pub_date": "2026-08-19T11:31:00Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/articles/bofa-continues-boost-tech-banking-113100937.html"
     },
     {
       "title": "Bank of America Has a Stark Warning on AI Spending",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-18T19:24:31Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/commodities/articles/bank-america-says-5-000-192431060.html"
-    },
-    {
-      "title": "With the national debt nearing $40 trillion, Bank of America has a warning for bond investors",
-      "summary": "Bank of America strategist Michael Hartnett warns against investing in bonds as the U.S. continues to run large deficits.",
-      "pub_date": "2026-08-18T19:12:11Z",
-      "source": "Fortune",
-      "url": "https://finance.yahoo.com/economy/policy/articles/national-debt-nearing-40-trillion-191211352.html"
-    },
-    {
-      "title": "Stock Alert: BofA Calls Nvidia Valuation 'Compelling' Ahead of Earnings",
-      "summary": "BofA Sees Nvidia Trading at a Deep FCF Discount Despite Rising AI Risks",
-      "pub_date": "2026-08-18T18:04:05Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-alert-bofa-calls-nvidia-180405838.html"
-    },
-    {
-      "title": "4 Highly Rated Vanguard Dividend and Income Funds",
-      "summary": "These four low-cost Vanguard dividend and income funds have all earned high praise from Morningstar, and they offer attractive yields.",
-      "pub_date": "2026-08-18T17:52:37Z",
-      "source": "Kiplinger",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/4-highly-rated-vanguard-dividend-175237952.html"
     }
   ]
 }

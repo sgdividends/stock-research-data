@@ -1,7 +1,14 @@
 {
   "ticker": "GOOG",
-  "generated_at": "2026-08-19T12:34:34.618984+00:00",
+  "generated_at": "2026-08-19T16:24:19.247781+00:00",
   "items": [
+    {
+      "title": "There's 'light at the end of the tunnel' for tech stocks amid bond rout: Eric Jackson",
+      "summary": "As bond yields (^TYX, ^TNX, ^FVX) continue to surge ahead, EMJ Capital founder and president Eric Jackson and Yahoo Finance Markets and Data Editor Jared Blikre outline the impact this is having on Big Tech stocks and AI hyperscalers.",
+      "pub_date": "2026-08-19T14:08:46Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/theres-light-end-tunnel-tech-140846636.html"
+    },
     {
       "title": "OpenAI releases new ChatGPT for Teens with parental controls, guardrails",
       "summary": "OpenAI (OPAI.PVT) released a new version of ChatGPT with updated parental controls and safety guardrails for teenage users. Yahoo Finance Tech Editor Dan Howley outlines the growing safety concerns around AI and the features of this new AI model.",
@@ -10,53 +17,46 @@
       "url": "https://finance.yahoo.com/video/openai-releases-chatgpt-teens-parental-195520710.html"
     },
     {
-      "title": "A $3.5 billion Reason Why Alphabet Stock In Focus",
-      "summary": "Alphabet Eyes Nearly 7% Cost on Long-Dated Australian Dollar Bond",
-      "pub_date": "2026-08-19T12:15:01Z",
+      "title": "Why Broadcom Stock Crashed Today",
+      "summary": "The semiconductor and networking specialist ceded some of its custom chips business to a rival. Or did it?",
+      "pub_date": "2026-08-19T16:19:02Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-stock-crashed-today-161902789.html"
+    },
+    {
+      "title": "Dow Jones Tech Titan Alphabet Offers New Buy Point, But These Key Flaws Remain",
+      "summary": "Dow Jones tech titan Alphabet is approaching a buy point, but there are key flaws. SK Hynix is another top stock to watch.",
+      "pub_date": "2026-08-19T16:10:51Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-alphabet-stock-googl-stocks-buy-zone-markets/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Top Midday Stories: Treasury Lifts Buyback Cap on Long-Dated Securities; Moderna, Merck Say Melanoma Vaccine Meets Primary Endpoint in Trial",
+      "summary": "All three major US stock indexes were up in late-morning trading Wednesday, after the Treasury Depar",
+      "pub_date": "2026-08-19T15:41:19Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-treasury-lifts-154119161.html"
+    },
+    {
+      "title": "Insiders Are Buying Intel (INTC) and Opendoor (OPEN)",
+      "summary": "Intel Intel (NASDAQ:INTC) CEO Lip-Bu Tan bought about $10 million worth of INTC shares earlier this month at $95 a share, the same price at which Intel had just priced a $20 billion secondary offering days earlier. Intel\u2019s Q2 revenue rose 25% year over year, a massive acceleration from Q1\u2019s 7% growth. Margins jumped to [\u2026]",
+      "pub_date": "2026-08-19T15:31:15Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/insiders-buying-intel-intc-opendoor-153115587.html"
+    },
+    {
+      "title": "Marvell Jumps 12% on New Google AI Chip Deal",
+      "summary": "The partnership deepens Marvell's role in custom AI silicon.",
+      "pub_date": "2026-08-19T15:15:22Z",
       "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-5-billion-reason-why-121501043.html"
+      "url": "https://finance.yahoo.com/technology/ai/articles/marvell-jumps-12-google-ai-151522606.html"
     },
     {
-      "title": "What Google's Purchase Of Spirit Airlines Data Means For Advertisers",
-      "summary": "Consumer data has become more than a record of historical transactions. It has become a tool for shaping future behavior.",
-      "pub_date": "2026-08-19T11:43:33Z",
-      "source": "MediaPost",
-      "url": "https://finance.yahoo.com/media-advertising/articles/googles-purchase-spirit-airlines-data-114333721.html"
-    },
-    {
-      "title": "5 Strategic Buyers That Could Transform Aurora Innovation Into an Industry Powerhouse",
-      "summary": "Aurora Innovation operates the only driverless Class 8 trucks running at scale on U.S. public roads, and that monopoly position is drawing serious attention from some of the heaviest hitters in freight and tech.",
-      "pub_date": "2026-08-19T11:35:31Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/5-strategic-buyers-could-transform-113531401.html"
-    },
-    {
-      "title": "3 Internet Stocks to Keep an Eye On",
-      "summary": "Whether it be online shopping or social media, secular forces are propelling consumer internet businesses forward. The new habits they\u2019re cultivating are also unlocking the next leg of growth for the industry, which has gained 11.8% over the past six months, almost identical to the S&P 500.",
-      "pub_date": "2026-08-19T11:18:02Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-internet-stocks-keep-eye-111802827.html"
-    },
-    {
-      "title": "After TSMC, Samsung Is Also Reportedly Planning To Hike Chip Prices Amid Demand Surge Fueled By Nvidia, Apple, Tesla And Others",
-      "summary": "According to a Reuters report, Samsung Electronics is raising prices on some advanced foundry services by up to 15% amid strong demand for AI chips.",
-      "pub_date": "2026-08-19T11:02:34Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/technology/articles/tsmc-samsung-reportedly-planning-hike-110234557.html"
-    },
-    {
-      "title": "Chamath Palihapitiya Says Mark Zuckerberg Knows \u2018Great Engineers\u2019 Want to Join \u2018Space/Search/AI\u2019 Companies, Not Meta\u2019s Advertising Machine",
-      "summary": "Chamath Palihapitiya says Mark Zuckerberg avoids emphasizing Meta Platforms Inc.\u2018s (NASDAQ:META) advertising roots because \u201cgreat engineers\u201d would rather join companies seen as leaders in space, search or artificial intelligence, even though ads remain the engine funding Meta\u2019s costly AI push. Meta\u2019s Ad Machine Funds Its AI Push \"Zuck never mentions it because he knows the great engineers want to work at a space/search/ai company\u2026 Not an advertising company,\" Palihapitiya wrote on X, responding",
-      "pub_date": "2026-08-19T10:46:27Z",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/technology/ai/articles/chamath-palihapitiya-says-mark-zuckerberg-104627751.html"
-    },
-    {
-      "title": "Traders bet Google's delayed Gemini flagship will slip into autumn",
-      "summary": "Prediction market traders now see little chance that Google releases its next flagship Gemini Pro artificial intelligence model before September, underlining a delay that has dragged on for most of the year. On Polymarket, the largest betting exchange for real-world events, contracts give...",
-      "pub_date": "2026-08-19T10:11:00Z",
-      "source": "Proactive",
-      "url": "https://finance.yahoo.com/technology/ai/articles/traders-bet-googles-delayed-gemini-101100290.html"
+      "title": "Alphabet's AI Spending Push Comes With a Higher Price",
+      "summary": "Google's parent is tapping another bond market.",
+      "pub_date": "2026-08-19T15:09:37Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/alphabets-ai-spending-push-comes-150937286.html"
     }
   ]
 }

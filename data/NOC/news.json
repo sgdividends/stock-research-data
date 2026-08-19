@@ -1,7 +1,14 @@
 {
   "ticker": "NOC",
-  "generated_at": "2026-08-19T12:34:57.279144+00:00",
+  "generated_at": "2026-08-19T16:24:40.767547+00:00",
   "items": [
+    {
+      "title": "Is Leidos Strengthening Its Position in the Growing AI Market?",
+      "summary": "LDOS is expanding AI across defense, cybersecurity and logistics, while its OpenAI partnership supports adoption across government workflows.",
+      "pub_date": "2026-08-19T12:57:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/leidos-strengthening-position-growing-ai-125700215.html"
+    },
     {
       "title": "Northrop Grumman (NOC) Lands Marine Corps Autonomous Aircraft Contract",
       "summary": "Northrop Grumman (NYSE:NOC) and Kratos received the MUX TACAIR CCA contract to deliver Missionized Valkyrie Air Vehicles for the U.S. Marine Corps. The program focuses on MVAV platforms equipped with proprietary mission kits and open autonomy software for next generation tactical aviation. The award expands Northrop Grumman's role in autonomous and collaborative uncrewed systems for U.S. defense customers. For investors tracking how autonomy and advanced electronics influence defense supply...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-17T22:05:37Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-stock-commands-massive-premium-220537478.html"
-    },
-    {
-      "title": "Rocket Lab Stock's Next Leg Rides On A Vehicle That Has Not Flown Yet",
-      "summary": "Rocket Lab's backlog is expected to convert into revenue faster than it was, and the vehicle that would compound that has not yet left the ground.",
-      "pub_date": "2026-08-17T15:51:48Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stocks-next-leg-155148357.html"
     }
   ]
 }

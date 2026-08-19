@@ -1,7 +1,21 @@
 {
   "ticker": "LMT",
-  "generated_at": "2026-08-19T12:34:48.581088+00:00",
+  "generated_at": "2026-08-19T16:24:32.065577+00:00",
   "items": [
+    {
+      "title": "A New Defense Stock Is Born: Lyntris IPO Set For Wednesday",
+      "summary": "The defense contractor Lyntris sold 17 million shares in its IPO. The stock began trading on Wednesday at 11% below its list price of $17.50 a share, according to MarketSurge.",
+      "pub_date": "2026-08-19T15:37:11Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/lyntris-ipo-defense-stocks-pentagon-lockheed-martin-rtx/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Is Leidos Strengthening Its Position in the Growing AI Market?",
+      "summary": "LDOS is expanding AI across defense, cybersecurity and logistics, while its OpenAI partnership supports adoption across government workflows.",
+      "pub_date": "2026-08-19T12:57:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/leidos-strengthening-position-growing-ai-125700215.html"
+    },
     {
       "title": "A $1.5 Billion Deal: Why Boeing and Lockheed Stocks Are in Focus",
       "summary": "Boeing and Lockheed's ULA Expands Debt Deal to $1.5 Billion",
@@ -38,25 +52,11 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/northrop-grumman-expanding-presence-military-163500650.html"
     },
     {
-      "title": "North America\u2019s Only Cesium Project Moves Closer to Production",
-      "summary": "Power Metals is advancing the Case Lake project as a potential new North American source of cesium as governments seek secure supplies of strategic critical minerals.",
-      "pub_date": "2026-08-18T00:00:00Z",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/energy/articles/north-america-only-cesium-project-000000475.html"
-    },
-    {
-      "title": "Boeing Stock Commands a Massive Premium: Is It Truly Earned?",
-      "summary": "Boeing's growth is flying higher than its rivals, but its stock price is already in the stratosphere. Is the premium justified.",
-      "pub_date": "2026-08-17T22:05:37Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-stock-commands-massive-premium-220537478.html"
-    },
-    {
-      "title": "Tomahawk Missile Production Is Surging\u2014and These Stocks Could Benefit",
-      "summary": "RTX won a $22.9 billion Navy contract aimed at dramatically increasing Tomahawk missile production. L3Harris, General Dynamics, and other defense companies could benefit from the ramp-up.",
-      "pub_date": "2026-08-17T20:13:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/rtx-stock-tomahawk-missile-production-defense-stocks-5afeb7d2?siteid=yhoof2&yptr=yahoo"
+      "title": "RTX Stock Gets a Radar Lock on a $23B Navy Win",
+      "summary": "RTX Corporation secured a $22.9 billion Navy Tomahawk contract and topped Q2 2026 earnings estimates, prompting raised full-year guidance and continued dividend growth.",
+      "pub_date": "2026-08-18T14:55:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rtx-stock-gets-radar-lock-145500941.html"
     }
   ]
 }

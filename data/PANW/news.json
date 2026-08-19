@@ -1,7 +1,14 @@
 {
   "ticker": "PANW",
-  "generated_at": "2026-08-19T12:35:01.200428+00:00",
+  "generated_at": "2026-08-19T16:24:44.184144+00:00",
   "items": [
+    {
+      "title": "CrowdStrike Sinks 7% Despite Truist Price Target Raise to $245, Palo Alto Networks Falls 5%",
+      "summary": "Truist just raised its CrowdStrike price target by a wide margin and called the cybersecurity setup constructive, yet the stock is bleeding into earnings week anyway. Two smaller names are quietly bucking the selloff, and where the money is hiding tells you something important about where budgets are actually going.",
+      "pub_date": "2026-08-19T15:38:47Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-sinks-7-despite-truist-153847035.html"
+    },
     {
       "title": "Did New Index Inclusions and FireMon Integration Just Reframe Palo Alto Networks' (PANW) Platformized AI Security Narrative?",
       "summary": "Palo Alto Networks was recently added to Israel\u2019s TA-35 and TA-125 indices, while FireMon announced it has completed integrating its policy management platform with Palo Alto Networks Strata Cloud Manager to enhance hybrid cloud security governance. Together with reports of strong enterprise cybersecurity spending and AI-driven demand, these developments reinforce Palo Alto Networks\u2019 role at the center of cloud-delivered, platform-based security architectures. Next, we\u2019ll examine how the...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-17T23:18:38Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/kept-coming-analysts-grilled-csco-231838721.html"
-    },
-    {
-      "title": "Micron Stock Has A New Profit Floor, But Did It Build A Ceiling Too?",
-      "summary": "Management signed deals to guarantee years of record profits, yet the stock is slipping, a sign the market is more worried about the ceiling than excited about the floor.",
-      "pub_date": "2026-08-17T20:34:28Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-profit-floor-did-203428815.html"
     }
   ]
 }
