@@ -1,7 +1,21 @@
 {
   "ticker": "QCOM",
-  "generated_at": "2026-08-19T08:30:34.575151+00:00",
+  "generated_at": "2026-08-19T12:35:06.843588+00:00",
   "items": [
+    {
+      "title": "Samsung raises contract chip prices up to 15% on AI demand",
+      "summary": "The South Korean company's SF4 production line at its Pyeongtaek plant has been running at full capacity since late last year",
+      "pub_date": "2026-08-19T11:57:39Z",
+      "source": "Quartz",
+      "url": "https://finance.yahoo.com/technology/ai/articles/samsung-raises-contract-chip-prices-115739332.html"
+    },
+    {
+      "title": "After TSMC, Samsung Is Also Reportedly Planning To Hike Chip Prices Amid Demand Surge Fueled By Nvidia, Apple, Tesla And Others",
+      "summary": "According to a Reuters report, Samsung Electronics is raising prices on some advanced foundry services by up to 15% amid strong demand for AI chips.",
+      "pub_date": "2026-08-19T11:02:34Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/technology/articles/tsmc-samsung-reportedly-planning-hike-110234557.html"
+    },
     {
       "title": "SCHD\u2019s 27% Year Is Embarrassing Every Growth ETF in Your Portfolio",
       "summary": "A dividend fund built for retirees just outpaced the Nasdaq 100, and the reason behind that reversal is more complicated than a simple value-versus-growth rotation story.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-18T13:04:45Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-35-drop-offers-ai-130445981.html"
-    },
-    {
-      "title": "Micron Stock Has A New Profit Floor, But Did It Build A Ceiling Too?",
-      "summary": "Management signed deals to guarantee years of record profits, yet the stock is slipping, a sign the market is more worried about the ceiling than excited about the floor.",
-      "pub_date": "2026-08-17T20:34:28Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-profit-floor-did-203428815.html"
-    },
-    {
-      "title": "MaxLinear Stock Sells At A Price Its Trailing Year Cannot Explain",
-      "summary": "MaxLinear stock trades on multiples measured over a trailing year, while the infrastructure business that would justify them is only now the company's largest.",
-      "pub_date": "2026-08-17T17:48:24Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/maxlinear-stock-sells-price-trailing-174824433.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-08-19T08:29:48.709843+00:00",
+  "generated_at": "2026-08-19T12:34:12.779538+00:00",
   "items": [
+    {
+      "title": "Here Are Wednesday\u2019s Top Wall Street Analyst Research Calls: Baidu, Ciena, CME Group, Dollar Tree, Dominion, Fabrinet, Honeywell Aerospace, Klarna, Pershing Square, and More",
+      "summary": "Markets turned south again Wednesday as surging yields and geopolitical fears rattled investors, but Wall Street analysts spotted opportunity and danger in names like Baidu, Klarna, Honeywell Aerospace, and Dollar Tree that traders need to see before the open.",
+      "pub_date": "2026-08-19T11:56:36Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wednesday-top-wall-street-analyst-115636805.html"
+    },
     {
       "title": "Kalshi Brings Crypto\u2019s Perpetual Futures Model to Stocks With CFTC Filing",
       "summary": "Kalshi filed with the CFTC to launch stock index and copper perpetuals, extending crypto's leverage model into equities.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-13T19:12:24Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/options/articles/cme-group-cme-expansion-ai-191224917.html"
-    },
-    {
-      "title": "Top AI Reporter: NVIDIA\u2019s $500 Billion AI Compute Deal \u201cIsn\u2019t Even Enough\u201d According to Some Investors",
-      "summary": "Wall Street is racing to turn raw compute power into a tradable asset class, but some investors warn that even the most ambitious financing package on record may leave the AI industry dangerously short of what it needs.",
-      "pub_date": "2026-08-13T18:20:32Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/top-ai-reporter-nvidia-500-182032938.html"
     }
   ]
 }

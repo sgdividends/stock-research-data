@@ -1,7 +1,14 @@
 {
   "ticker": "DTE",
-  "generated_at": "2026-08-19T08:29:56.354276+00:00",
+  "generated_at": "2026-08-19T12:34:21.722049+00:00",
   "items": [
+    {
+      "title": "LGES starts production at Lansing battery plant in US",
+      "summary": "The company is targeting annual battery-making capacity of more than 35GWh at full scale.",
+      "pub_date": "2026-08-19T12:12:03Z",
+      "source": "Just Auto",
+      "url": "https://finance.yahoo.com/energy/articles/lges-starts-production-lansing-battery-121203115.html"
+    },
     {
       "title": "Social Buzz: Wallstreetbets Stocks Mostly Higher Premarket Monday; Sandisk, Micron to Advance",
       "summary": "The most-talked-about stocks in the Reddit subforum Wallstreetbets were mostly advancing hours befor",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-03T14:03:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/telus-q2-earnings-fall-y-140300931.html"
-    },
-    {
-      "title": "DTE ties rate stability to data center projects as large-load pipeline remains steady",
-      "summary": "The company\u2019s $30 billion electric utility capital investment plan\u00a0was unchanged from the first quarter, officials said during the second-quarter earnings call.",
-      "pub_date": "2026-08-03T08:43:44Z",
-      "source": "Utility Dive",
-      "url": "https://finance.yahoo.com/energy/articles/dte-ties-rate-stability-data-084344185.html"
     }
   ]
 }

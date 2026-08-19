@@ -1,7 +1,21 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-08-19T08:30:11.945424+00:00",
+  "generated_at": "2026-08-19T12:34:40.112629+00:00",
   "items": [
+    {
+      "title": "Abcuro secures $66m to support clinical trial of ulviprubart for IBM",
+      "summary": "Abcuro expects top line results in the second half of 2028.",
+      "pub_date": "2026-08-19T10:30:38Z",
+      "source": "Clinical Trials Arena",
+      "url": "https://finance.yahoo.com/healthcare/articles/abcuro-secures-66m-support-clinical-103038490.html"
+    },
+    {
+      "title": "IBM Clears Major Hardware Hurdle on the Path to Its Quantum Supercomputer",
+      "summary": "IBM says it has linked and cooled two cryogenic modules, laying the groundwork for an ultra-powerful quantum system with hundreds of chips.",
+      "pub_date": "2026-08-19T10:11:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/ibm-quantum-supercomputer-06204503?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "ORCL Stock: Why The Discount May Not Last",
       "summary": "The company's backlog has quietly swelled to a record size. Remaining performance obligations finished at $638 billion, a figure that redefines its growth trajectory. This massive book of business, up 363%, was bolstered by signing $67 billion in AI infrastructure contracts in a single quarter.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-17T13:57:21Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ibm-strengths-reason-buy-today-135721688.html"
-    },
-    {
-      "title": "IBM Makes Surprise Move in Nvidia AI Race",
-      "summary": "Enterprise AI demand is shifting toward a new battleground",
-      "pub_date": "2026-08-17T12:18:19Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-makes-surprise-move-nvidia-121819782.html"
-    },
-    {
-      "title": "2 Tech Dividend Stocks That Offer High Yields and Payout Growth",
-      "summary": "Yes, some tech names offer high, sustainable dividend returns.",
-      "pub_date": "2026-08-15T09:25:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-tech-dividend-stocks-offer-092500141.html"
     }
   ]
 }

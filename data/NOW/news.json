@@ -1,7 +1,14 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-08-19T08:30:26.862362+00:00",
+  "generated_at": "2026-08-19T12:34:57.472734+00:00",
   "items": [
+    {
+      "title": "Inside the $8 billion cybersecurity acquisition that rescued ServiceNow from the \u2018Saaspocalypse\u2019",
+      "summary": "The deal for Yevgeny Dibrov\u2019s Armis was Israel\u2019s second-largest tech startup exit ever.",
+      "pub_date": "2026-08-19T06:58:00Z",
+      "source": "Fortune",
+      "url": "https://finance.yahoo.com/technology/articles/inside-8-billion-cybersecurity-acquisition-065800120.html"
+    },
     {
       "title": "CRM: A Cash Gusher At A Marked-Down Price",
       "summary": "Salesforce is currently trading at a lower valuation multiple compared to historical averages, prompting investor debate over its intrinsic value.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-17T17:00:03Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-ai-stock-could-double-170003706.html"
-    },
-    {
-      "title": "ServiceNow (NOW) Is Spending $7.75 Billion On AI Security",
-      "summary": "ServiceNow (NYSE: NOW) agreed to acquire cybersecurity firm Armis for US$7.75b to expand its AI driven security platform. The Armis deal is intended to strengthen ServiceNow's position in autonomous and preventive cyber defense for enterprise customers. Following the acquisition, former Armis Chief Marketing Officer Simon Mouyal has been appointed as ServiceNow's new CMO. These moves indicate a sharper focus on AI, cybersecurity leadership and go to market execution across ServiceNow's...",
-      "pub_date": "2026-08-17T15:15:35Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-now-spending-7-75-151535988.html"
     }
   ]
 }

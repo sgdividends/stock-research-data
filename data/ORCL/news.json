@@ -1,7 +1,42 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-08-19T08:30:29.330923+00:00",
+  "generated_at": "2026-08-19T12:35:00.569781+00:00",
   "items": [
+    {
+      "title": "Tech Deploys Charm Offensive to Combat AI Data Center Backlash",
+      "summary": "Companies are now fighting to push through their projects in the face of growing opposition.",
+      "pub_date": "2026-08-19T10:00:04Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tech-deploys-charm-offensive-combat-100004328.html"
+    },
+    {
+      "title": "Is AI really responsible for recent job cuts?",
+      "summary": "Lindsay worked at Oracle for more than a decade and was \u201cdeeply passionate\u201d about her job as a strategist. So learning by email one morning that...",
+      "pub_date": "2026-08-19T10:00:03Z",
+      "source": "Financial Times",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-really-responsible-recent-job-100003351.html"
+    },
+    {
+      "title": "Nvidia credit risk gauge hits new peak as SoftBank readies record bond issue",
+      "summary": "Investing.com - SoftBank Group is preparing to issue approximately 1 trillion yen ($6.26 billion) in seven-year corporate bonds targeting Japanese retail investors, a sale that would be the largest of its kind ever by a Japanese company.",
+      "pub_date": "2026-08-19T09:56:05Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-credit-risk-gauge-hits-095605564.html"
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights Oracle, Microsoft, Amazon and Alphabet",
+      "summary": "Oracle's AI data center bet faces financing risks, but a record backlog, expanding partnerships and strong guidance bolster the growth case.",
+      "pub_date": "2026-08-19T08:45:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-oracle-084500403.html"
+    },
+    {
+      "title": "US futures are flat as AI-related stocks hit by heavy selling, oil prices rise",
+      "summary": "U.S. futures are flat as artificial intelligence-related stocks continue to sell off and oil prices rise again.  AI-related stocks have become volatile in recent months as the value of company shares have soared while confidence in a pay off, at least soon, has waned.  The futures for the S&P 500 were relatively unchanged, while those for the Dow Jones Industrial Average rose 0.1%.",
+      "pub_date": "2026-08-19T03:05:36Z",
+      "source": "Associated Press",
+      "url": "https://finance.yahoo.com/markets/articles/shares-fall-asia-kospi-down-030536178.html"
+    },
     {
       "title": "OpenAI's Revenue Growth Reportedly Slows As Anthropic Pulls Ahead  \u2013 Which AI Stocks Could Feel The Ripple Effects?",
       "summary": "OpenAI\u2019s revenue rose 18% quarter over quarter in Q2, while Anthropic\u2019s sales doubled, according to the Wall Street Journal.",
@@ -22,41 +57,6 @@
       "pub_date": "2026-08-18T20:08:42Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-fairly-valued-expanded-200842719.html"
-    },
-    {
-      "title": "Convertible Bonds Are the New AI Bet. The High Returns Hide Bigger Risks.",
-      "summary": "Issuers sold nearly than $90 billion in convertible bonds in the second quarter, the strongest on record.",
-      "pub_date": "2026-08-18T18:24:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/convertible-bonds-ai-risk-return-ffcee519?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "CRM: A Cash Gusher At A Marked-Down Price",
-      "summary": "Salesforce is currently trading at a lower valuation multiple compared to historical averages, prompting investor debate over its intrinsic value.",
-      "pub_date": "2026-08-18T16:16:19Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/crm-cash-gusher-marked-down-161619090.html"
-    },
-    {
-      "title": "History Has An Opinion On This ADBE Price Level",
-      "summary": "Adobe\u2019s stock has declined to a historical support zone that has previously preceded upward price momentum. Trading around $254, it sits at a price level that has attracted increased buying volume in the past.",
-      "pub_date": "2026-08-18T16:04:18Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/history-opinion-adbe-price-level-160418522.html"
-    },
-    {
-      "title": "ORCL Stock: Why The Discount May Not Last",
-      "summary": "The company's backlog has quietly swelled to a record size. Remaining performance obligations finished at $638 billion, a figure that redefines its growth trajectory. This massive book of business, up 363%, was bolstered by signing $67 billion in AI infrastructure contracts in a single quarter.",
-      "pub_date": "2026-08-18T15:40:14Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/orcl-stock-why-discount-may-154014033.html"
-    },
-    {
-      "title": "Should You Buy Oracle Stock Despite Its Big AI Data Center Bet?",
-      "summary": "ORCL's AI data center bet carries balance-sheet risk, but record backlog, expanding partnerships and stronger guidance bolster the growth case.",
-      "pub_date": "2026-08-18T15:28:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-oracle-stock-despite-big-152800785.html"
     }
   ]
 }
