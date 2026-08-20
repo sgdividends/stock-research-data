@@ -1,7 +1,14 @@
 {
   "ticker": "BAC",
-  "generated_at": "2026-08-20T08:30:18.055531+00:00",
+  "generated_at": "2026-08-20T12:35:05.300922+00:00",
   "items": [
+    {
+      "title": "Bank of America sends message on Capital One stock",
+      "summary": "Capital One\u2019s July update showed slower card growth as Bank of America weighed the lender\u2019s credit performance and outlook.",
+      "pub_date": "2026-08-20T09:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-message-capital-090300253.html"
+    },
     {
       "title": "The 60/40 Portfolio Is \u2018Broken.\u2019 Here\u2019s How to Fix It.",
       "summary": "A bond market selloff has pressured 60/40 investment portfolios, which have returned 8% on average this year compared with 13% for the S&P 500. Investors can look to healthcare stocks for relief.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-19T17:47:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-makes-bold-call-cisco-174700307.html"
-    },
-    {
-      "title": "C's July Card Delinquencies Tick Up: Will This Impact Asset Quality?",
-      "summary": "Citigroup's July card delinquencies edged up, but lower charge-offs offer some relief. Can improving credit trends ease asset-quality concerns?",
-      "pub_date": "2026-08-19T17:10:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cs-july-card-delinquencies-tick-171000694.html"
     }
   ]
 }

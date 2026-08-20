@@ -1,7 +1,14 @@
 {
   "ticker": "PYPL",
-  "generated_at": "2026-08-20T08:31:12.615294+00:00",
+  "generated_at": "2026-08-20T12:36:29.610878+00:00",
   "items": [
+    {
+      "title": "College students can now pay tuition with PayPal or Venmo at some universities",
+      "summary": "PayPal and Venmo tuition payments are launching at five major universities, but critics warn the digital wallets lack the security of traditional methods.",
+      "pub_date": "2026-08-20T07:05:57Z",
+      "source": "Fox Business",
+      "url": "https://finance.yahoo.com/small-business/articles/college-students-now-pay-tuition-070557748.html"
+    },
     {
       "title": "PYPL Stock On Track For Second Month Of Gains: PayPal\u2019s Venmo Expands College Tuition Payments",
       "summary": "The company announced integrations with three education payment platforms in the U.S., allowing students to pay tuition and fees directly through its platform or via Venmo.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-19T11:14:35Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/options/articles/yelp-chairman-used-under-radar-111435190.html"
-    },
-    {
-      "title": "TikTok explores peer-to-peer payments via direct messages",
-      "summary": "Investing.com -- TikTok is developing a feature that would enable users to send money to each other through direct messages, expanding the social media platform's entry into financial services, Bloomberg reported Tuesday.",
-      "pub_date": "2026-08-18T19:04:56Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/articles/tiktok-explores-peer-peer-payments-190456486.html"
     }
   ]
 }

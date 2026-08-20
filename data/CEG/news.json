@@ -1,7 +1,14 @@
 {
   "ticker": "CEG",
-  "generated_at": "2026-08-20T08:30:23.379267+00:00",
+  "generated_at": "2026-08-20T12:35:14.136908+00:00",
   "items": [
+    {
+      "title": "This Week In Energy Transition - AI Powers the Rise of Green Hydrogen Investments",
+      "summary": "The integration of artificial intelligence (AI) with green hydrogen is gaining momentum as a transformative force in the global energy transition. A report from BCC Research highlights how AI is enhancing the efficiency, reliability, and cost-effectiveness of green hydrogen production across its entire value chain, from electrolyzer optimization to grid integration. Investment in clean hydrogen projects surged to $110 billion recently, with substantial contributions from Asia-Pacific and...",
+      "pub_date": "2026-08-20T11:37:03Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/energy/articles/week-energy-transition-ai-powers-113703972.html"
+    },
     {
       "title": "Nuclear Stocks Plunge Tuesday: Oklo Down 5%, Constellation Energy Down 4%, NuScale Down 5%",
       "summary": "Nuclear stocks cratered Tuesday even as broader utilities caught a bid, and the reason has nothing to do with reactors. A collision of rising long rates and shaken AI spending confidence is rewriting how the market prices the entire sector.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-17T02:50:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/2-best-nuclear-power-stocks-025000160.html"
-    },
-    {
-      "title": "3 Nuclear Energy Stocks Riding the AI Power Surge in August",
-      "summary": "AI data centers are rewriting America's power grid math, and three nuclear operators have quietly positioned themselves to collect the bill. One even has NVIDIA on its cap table.",
-      "pub_date": "2026-08-16T11:00:22Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/energy/articles/3-nuclear-energy-stocks-riding-110022153.html"
     }
   ]
 }

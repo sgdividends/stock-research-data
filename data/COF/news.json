@@ -1,7 +1,14 @@
 {
   "ticker": "COF",
-  "generated_at": "2026-08-20T08:30:26.365803+00:00",
+  "generated_at": "2026-08-20T12:35:18.750360+00:00",
   "items": [
+    {
+      "title": "Bank of America sends message on Capital One stock",
+      "summary": "Capital One\u2019s July update showed slower card growth as Bank of America weighed the lender\u2019s credit performance and outlook.",
+      "pub_date": "2026-08-20T09:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-message-capital-090300253.html"
+    },
     {
       "title": "Capital One shut down 385 Trump accounts over money-laundering flags after its own $390M FinCEN penalty",
       "summary": "Debanking isn\u2019t new \u2014 and, according to one study, it\u2019s government debanking that\u2019s the bigger problem.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-15T15:09:41Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-softbank-group-150941472.html"
-    },
-    {
-      "title": "Berkshire ups Alphabet stake under Greg Abel, making it a top-3 holding",
-      "summary": "Berkshire Hathaway (BRK-A, BRK-B), under new CEO Greg Abel, increased its Alphabet position, making the Google parent its third-largest U.S.-listed equity holding by market value, behind Apple (AAPL) and American Express (AXP). According to a new filing, Berkshire held roughly 106 million Alphabet shares, valued at $37.9 billion, as of the end of June. Recent reporting confirms Berkshire invested about $10 billion in Alphabet during the second quarter.",
-      "pub_date": "2026-08-14T21:29:00Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/berkshire-ups-alphabet-stake-under-212900630.html"
     }
   ]
 }
