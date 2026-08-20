@@ -1,6 +1,6 @@
 {
   "ticker": "MA",
-  "generated_at": "2026-08-20T16:28:07.165536+00:00",
+  "generated_at": "2026-08-20T20:22:09.060347+00:00",
   "items": [
     {
       "title": "How Mastercard CEO is preparing for a world where AI agents do the shopping",
@@ -15,6 +15,13 @@
       "pub_date": "2026-08-20T10:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/ai-bots-may-soon-spending-100000453.html"
+    },
+    {
+      "title": "Billionaire Bill Ackman Just Sold 25% of His Stake in This Big Tech Giant for 2 AI Rivals",
+      "summary": "Ackman sold shares of Amazon and Alphabet while buying shares of Microsoft and Meta Platforms.",
+      "pub_date": "2026-08-20T18:07:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-just-sold-180700623.html"
     },
     {
       "title": "Warning: The Buffett Portfolio Your OMAH ETF Copies Is Disappearing One 13F at a Time",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-19T12:30:02Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/heres-much-youd-invested-1000-123002040.html"
-    },
-    {
-      "title": "Rain forms agentic payments alliance with Visa, Mastercard and other players",
-      "summary": "The Agentic Payments Alliance (APA) will operate as a coalition governed collectively by its founding members.",
-      "pub_date": "2026-08-19T11:59:13Z",
-      "source": "Electronic Payments",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/rain-forms-agentic-payments-alliance-115913237.html"
     }
   ]
 }

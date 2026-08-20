@@ -1,7 +1,14 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-08-20T16:27:38.728546+00:00",
+  "generated_at": "2026-08-20T20:21:42.092260+00:00",
   "items": [
+    {
+      "title": "DRW\u2019s Don Wilson Encourages CFTC to Approve Perpetual Futures",
+      "summary": "Don Wilson, founder of high-speed trading giant DRW, said Thursday that he was encouraging the Commodity Futures Trading Commission to approve perpetual futures contracts on a wide range of products, including those linked to single stocks.  Speaking at the CFTC Innovation Advisory Committee\u2019s inaugural meeting, Wilson said he views perpetual futures contracts as \u201ca very useful risk-management tool.\u201d  Perpetual futures contracts, also known as perps, are a type of derivative that never expires and trades 24/7.",
+      "pub_date": "2026-08-20T18:43:13Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/drw-s-don-wilson-encourages-cftc-to-approve-perpetual-futures-WBLJH1WD8D8M0rufCWC9?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Coinbase Global Stock Carries A Premium Multiple And A Shrinking Top Line",
       "summary": "The premium rests on a three-year growth average, while the most recent reported quarter went the other way.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-19T11:56:36Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/wednesday-top-wall-street-analyst-115636805.html"
-    },
-    {
-      "title": "Kalshi Brings Crypto\u2019s Perpetual Futures Model to Stocks With CFTC Filing",
-      "summary": "Kalshi filed with the CFTC to launch stock index and copper perpetuals, extending crypto's leverage model into equities.",
-      "pub_date": "2026-08-19T02:43:00Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/options/articles/kalshi-brings-crypto-perpetual-futures-024300202.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-08-20T16:28:14.228232+00:00",
+  "generated_at": "2026-08-20T20:22:14.335977+00:00",
   "items": [
+    {
+      "title": "Salesforce Stock Is Priced For A Wider Year Than The One It Just Had",
+      "summary": "The option chain puts a floor beneath anything the stock has traded over the past year and a ceiling far above its high, and it is charging an ordinary premium to do it.",
+      "pub_date": "2026-08-20T17:06:24Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/salesforce-stock-priced-wider-one-170624804.html"
+    },
     {
       "title": "Palantir Is Growing Faster Than Almost Anyone Expected. Can the Stock Keep Up?",
       "summary": "Palantir just delivered the kind of quarter that silences critics, but with a valuation that makes even bulls nervous, the real debate is whether the growth story can actually justify what the market is already pricing in.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-19T15:37:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/strong-ai-adoption-help-atlassian-153700155.html"
-    },
-    {
-      "title": "\u201cThe Selling Goes Too Far\u201d: Jim Cramer Defends ServiceNow, Salesforce, and Other Software Giants Against Extinction Fears",
-      "summary": "Jim Cramer says the 2026 software selloff has crossed a line, and the market is no longer pricing in missed earnings but betting on total extinction. Whether that fear has any grounding in reality is a very different question.",
-      "pub_date": "2026-08-19T14:55:06Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/selling-goes-too-far-jim-145506424.html"
     }
   ]
 }
