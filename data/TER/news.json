@@ -1,7 +1,14 @@
 {
   "ticker": "TER",
-  "generated_at": "2026-08-19T20:20:37.763417+00:00",
+  "generated_at": "2026-08-20T00:54:37.574782+00:00",
   "items": [
+    {
+      "title": "Dow Jones Futures: S&P 500, Nasdaq Rise On Treasury Move; Moderna, Merck Spur Big Biopharma Gains",
+      "summary": "The S&P 500 and Nasdaq rose slightly Wednesday as Treasury yields fell. Moderna and Merck fueled big gains for biotechs, drugmakers.",
+      "pub_date": "2026-08-20T00:20:10Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-treasury-move-moderna-merck-spur-big-biopharma-gains/?src=A00220&yptr=yahoo"
+    },
     {
       "title": "Applied Materials Falls 4%, Lam Research and Teradyne Sink 5%: What\u2019s Prompting the Selloff in Chip Equipment Stocks?",
       "summary": "Chip equipment stocks are selling off hard even as Treasury yields drop and the broader market climbs, and the disconnect points to something more troubling than a rates problem lurking beneath the AI infrastructure trade.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-18T20:27:09Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/coherent-teradyne-ciena-p-500-202709439.html"
-    },
-    {
-      "title": "Tech Stocks Slide With Bond Yields at Decade Highs",
-      "summary": "Stocks slipped as investors fretted over heavy fiscal spending and inflation.",
-      "pub_date": "2026-08-18T18:06:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-drop-global-111000778.html"
     }
   ]
 }

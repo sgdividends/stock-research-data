@@ -1,6 +1,6 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-08-19T20:19:43.210154+00:00",
+  "generated_at": "2026-08-20T00:53:27.651825+00:00",
   "items": [
     {
       "title": "Tech sell-off resumes, counterbalancing bond yield relief: AlphaCheck",
@@ -10,53 +10,53 @@
       "url": "https://finance.yahoo.com/markets/article/tech-sell-off-resumes-counterbalancing-bond-yield-relief-alphacheck-141446892.html"
     },
     {
+      "title": "AMD and Intel Shares Plummet, What You Need To Know",
+      "summary": "A number of stocks fell in the afternoon session after investors reacted to a significant partnership between Google and Marvell Technology for custom AI chip development, signaling a potential shift in market share.",
+      "pub_date": "2026-08-19T23:34:02Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-shares-plummet-know-233402382.html"
+    },
+    {
+      "title": "Why Broadcom (AVGO) Stock Is Trading Lower Today",
+      "summary": "Shares of fabless chip and software maker Broadcom (NASDAQ:AVGO) fell 3.9% in the afternoon session after its competitor Marvell Technology landed a deal to develop custom artificial intelligence (AI) chips for Google.",
+      "pub_date": "2026-08-19T22:06:02Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-avgo-stock-trading-220602333.html"
+    },
+    {
+      "title": "Broadcom Gets Fresh Google Warning",
+      "summary": "A key AI relationship just became more complicated",
+      "pub_date": "2026-08-19T22:04:17Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-gets-fresh-google-warning-220417060.html"
+    },
+    {
+      "title": "Broadcom (AVGO) Is Down More Than 20%\u2014Why TD Cowen Still Sees 27% Upside",
+      "summary": "Broadcom Inc. (NASDAQ:AVGO) stock is down roughly 20% from its all-time highs in June, a pullback driven by a mix of lofty AI expectations, a high valuation multiple, broader market pressures, the Mediatek-driven narrative, and more recently, Marvell Technology Inc. (NASDAQ:MRVL). Despite the drop, TD Cowen analyst Joshua Buchalter recently reiterated a Buy rating on [\u2026]",
+      "pub_date": "2026-08-19T21:49:54Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-down-more-20-214954022.html"
+    },
+    {
+      "title": "Marvell Technology (MRVL) Expands Google AI Partnership: What Investors Need to Know",
+      "summary": "Marvell Technology, Inc. (NASDAQ:MRVL) has expanded its partnership with Google to develop custom chips for AI infrastructure, strengthening its position in the growing custom-silicon market. The agreement covers several areas linked to Google\u2019s Tensor Processing Unit ecosystem, including AI inference accelerators, storage and networking products, memory interface controllers, and near-memory computing. Alongside the commercial agreement, [\u2026]",
+      "pub_date": "2026-08-19T21:15:07Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/marvell-technology-mrvl-expands-google-211507897.html"
+    },
+    {
+      "title": "U.S. Markets Prepare For AI Compute Derivatives Tied To TSMC, Nvidia GPU Prices",
+      "summary": "Regulators took initial steps to allow investors to trade AI compute futures based on the prices of GPUs sold by the likes of Nvidia, TSMC and Broadcom.",
+      "pub_date": "2026-08-19T20:24:14Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/ai-compute-derivatives-nvidia-meta-tsmc-broadcom-microsoft-amazon-google/?src=A00220&yptr=yahoo"
+    },
+    {
       "title": "Marvell Stock Jumps On Google Deal, Broadcom Slides",
       "summary": "Marvell Technology stock jumped after the chipmaker announced a deal to develop chips for Alphabet unit Google.",
-      "pub_date": "2026-08-19T19:34:35Z",
+      "pub_date": "2026-08-19T20:20:43Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/technology/marvell-stock-jumps-on-google-chip-investment-deal/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Why Is NVDA The Discount Option Among Its Peers?",
-      "summary": "The market is treating NVIDIA like a semiconductor laggard, even as its growth and profit metrics dominate the very peers it's being priced against.",
-      "pub_date": "2026-08-19T19:11:17Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-nvda-discount-option-among-191117788.html"
-    },
-    {
-      "title": "NVIDIA vs. Broadcom: The AI Stock You Should Buy Right Now",
-      "summary": "NVIDIA's lower financial risk and stronger profitability give it an edge over Broadcom as both benefit from AI demand.",
-      "pub_date": "2026-08-19T19:00:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-broadcom-ai-stock-190000516.html"
-    },
-    {
-      "title": "Intel Stock Charges A Premium For Capacity Still Being Built",
-      "summary": "The multiple is paid on capacity that is still being built, while the trailing year still ends in a loss.",
-      "pub_date": "2026-08-19T18:59:53Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-charges-premium-capacity-185953847.html"
-    },
-    {
-      "title": "Marvell Technology Shares Jump on AI Chip Deal With Google",
-      "summary": "Marvell Technology (MRVL) shares jumped Wednesday after the chip designer entered into a deal that w",
-      "pub_date": "2026-08-19T18:55:44Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/ai/articles/marvell-technology-shares-jump-ai-185544352.html"
-    },
-    {
-      "title": "Broadcom Falls 2% as Google Adds Marvell to Its AI Chip Bench",
-      "summary": "The new supplier raises concentration questions around Broadcom's most important custom-silicon relationship.",
-      "pub_date": "2026-08-19T18:01:30Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-falls-2-google-adds-180130465.html"
-    },
-    {
-      "title": "Inside Google\u2019s $12 Billion Stake in Marvell\u2014and Why It\u2019s Bad News for Broadcom.",
-      "summary": "Marvell stock jumps after the chip maker announces it issued a warrant to Google to purchase up to 59 million shares.",
-      "pub_date": "2026-08-19T17:48:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/marvell-stock-price-google-stake-warrants-broadcom-bd142033?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

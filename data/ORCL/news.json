@@ -1,7 +1,21 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-08-19T20:20:26.443957+00:00",
+  "generated_at": "2026-08-20T00:54:10.930237+00:00",
   "items": [
+    {
+      "title": "Stock Market Today, Aug. 19: Nebius Falls 10% on $4.5 Billion Convertible Note Offering",
+      "summary": "On Aug. 19, 2026, the AI cloud provider announced a massive debt-to-equity conversion plan, triggering dilution concerns and heavy selling pressure.",
+      "pub_date": "2026-08-19T22:18:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-19-221801080.html"
+    },
+    {
+      "title": "Stocks to Watch Recap: Oracle, SK Hynix, Moderna, Unitree",
+      "summary": "\u2198\ufe0f Oracle (ORCL): Shares rose 0.7%. The Journal reported that OpenAI's revenue growth was outpaced by Anthropic in the second quarter, while its losses deepened. Oracle's performance hinges on OpenAI's ability to make good on its massive commitments.",
+      "pub_date": "2026-08-19T21:30:33Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/stocks-to-watch-sk-hynix-la-z-boy-unitree-target-c8MMp4MagwjHSq0QEOSU?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "IBM Stock Is Out Of Favor, But The Margin Commitment Never Came Down",
       "summary": "The revenue guidance came down after the second-quarter miss; the operating pretax margin and free-cash-flow commitments did not.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-19T14:54:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/oracle-vs-microsoft-enterprise-ai-145400793.html"
-    },
-    {
-      "title": "Will Agentforce Help Salesforce Stay Ahead in the Enterprise AI Race?",
-      "summary": "CRM's Agentforce ARR surges 205% as AI usage climbs, deepening CRM integration and strengthening its position in the enterprise AI race.",
-      "pub_date": "2026-08-19T14:45:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/agentforce-help-salesforce-stay-ahead-144500389.html"
-    },
-    {
-      "title": "Stocks to Watch: Oracle, SK Hynix, Moderna, Unitree",
-      "summary": "\u2198\ufe0f Oracle (ORCL): Shares fell 2% out of the gate. The Journal reported that OpenAI's revenue growth was outpaced by Anthropic in the second quarter, while its losses deepened. Oracle's performance hinges on OpenAI's ability to make good on its massive commitments.",
-      "pub_date": "2026-08-19T14:38:08Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-19-2026/card/stocks-to-watch-sk-hynix-la-z-boy-unitree-target-c8MMp4MagwjHSq0QEOSU?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

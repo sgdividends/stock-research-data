@@ -1,13 +1,34 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-08-19T20:19:50.240901+00:00",
+  "generated_at": "2026-08-20T00:53:35.364582+00:00",
   "items": [
+    {
+      "title": "U.S. Markets Prepare For AI Compute Derivatives Tied To TSMC, Nvidia GPU Prices",
+      "summary": "Regulators took initial steps to allow investors to trade AI compute futures based on the prices of GPUs sold by the likes of Nvidia, TSMC and Broadcom.",
+      "pub_date": "2026-08-19T20:24:14Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/ai-compute-derivatives-nvidia-meta-tsmc-broadcom-microsoft-amazon-google/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Trump Opens Door to Hyperliquid as US Pulls Crypto Trade Onshore",
+      "summary": "President Donald Trump said US regulators are working to bring Hyperliquid, a fast-growing crypto platform, into the country, offering one of the clearest signals yet that the White House wants to pull a major piece of the industry\u2019s offshore market infrastructure onshore.",
+      "pub_date": "2026-08-19T20:20:54Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/trump-opens-door-hyperliquid-us-202054173.html"
+    },
     {
       "title": "The White House Summit Isn\u2019t a Photo Op. It\u2019s the Regulatory Architecture.",
       "summary": "First reported by Politico on August 13 and confirmed by CoinDesk on August 14, the August 19, 2026, White House crypto summit at the Eisenhower Executive Office Building was not a photo opportunity; it was an operational agenda. By shifting the focus from the broad, aspirational rhetoric of the March 2025 summit to the granular [\u2026]",
       "pub_date": "2026-08-19T20:04:22Z",
       "source": "Forkast News",
       "url": "https://finance.yahoo.com/markets/crypto/articles/white-house-summit-isn-t-200422934.html"
+    },
+    {
+      "title": "Trump Touts Clarity Act With Crypto Executives. Why CME Group Stock Is Tanking.",
+      "summary": "Trump met Leaders of tech and crypto firms, including Coinbase and Ripple, on Wednesday. It\u2019s the next move for the executives after an industry-friendly bill stalled.",
+      "pub_date": "2026-08-19T19:54:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/crypto-clarity-act-coinbase-ripple-trump-d60a7215?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Here Are Wednesday\u2019s Top Wall Street Analyst Research Calls: Baidu, Ciena, CME Group, Dollar Tree, Dominion, Fabrinet, Honeywell Aerospace, Klarna, Pershing Square, and More",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-14T20:44:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/stocks/s-p-500-logs-third-consecutive-weekly-gain-1b37e4d4?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Seth Klarman\u2019s Baupost Loads Up On AMZN, GOOGL \u2014 Takes New Stake In Bill Ackman\u2019s Pershing Square",
-      "summary": "The billionaire investor\u2019s hedge fund also established a sizable position in CME Group while trimming Restaurant Brands International.",
-      "pub_date": "2026-08-14T19:16:26Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/seth-klarman-baupost-loads-amzn-191626896.html"
-    },
-    {
-      "title": "Billionaire Investor Makes Huge Bet on Two AI Stocks",
-      "summary": "Baupost is leaning harder into a costly AI buildout",
-      "pub_date": "2026-08-14T16:03:30Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-investor-makes-huge-bet-160330451.html"
-    },
-    {
-      "title": "Bleeding-Edge AI Meets Cutting-Edge Finance. Is This Peak AI?",
-      "summary": "These new futures contracts would allow investors to hedge and speculate on the cost of renting chips that machines need to train and run AI models.",
-      "pub_date": "2026-08-14T05:30:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/ai-compute-futures-contracts-391c267a?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

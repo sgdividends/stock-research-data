@@ -1,7 +1,21 @@
 {
   "ticker": "UBER",
-  "generated_at": "2026-08-19T20:20:41.219751+00:00",
+  "generated_at": "2026-08-20T00:54:40.813373+00:00",
   "items": [
+    {
+      "title": "Travis Kalanick kicks off another round of VC bashing: \u20181% are helpful\u2019",
+      "summary": "After raising $1.7 billion for his new robotics company Atoms, Travis Kalanick is introspective about the role VCs have played in his career.",
+      "pub_date": "2026-08-19T21:48:24Z",
+      "source": "TechCrunch",
+      "url": "https://finance.yahoo.com/small-business/articles/travis-kalanick-kicks-off-another-214824226.html"
+    },
+    {
+      "title": "Morgan Stanley just laid out eBay's four possible paths forward",
+      "summary": "The firm isn\u2019t backing off its bullish stance, even as near-term numbers worsen.",
+      "pub_date": "2026-08-19T21:17:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-just-laid-ebays-211700858.html"
+    },
     {
       "title": "Temporal Wants $12 Billion to Keep Your Agents From Crashing Mid-Task",
       "summary": "The biggest obstacle to enterprise AI agents isn\u2019t how smart the model is. It\u2019s how fragile the system around it turns out to be. As of March 2026, only 11% to 14% of enterprise AI agent pilots ever reach production scale. Most hit the same wall: a server crashes mid-task, an API times out, or [\u2026]",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-19T12:10:42Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/uber-uber-bets-drones-delivery-121042551.html"
-    },
-    {
-      "title": "You can Venmo your college tuition, for some reason",
-      "summary": "Kids these days don't know how good they have it.",
-      "pub_date": "2026-08-19T12:00:00Z",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/small-business/articles/venmo-college-tuition-reason-120000993.html"
-    },
-    {
-      "title": "Serve Robotics (SERV) Turns To Grubhub After Losing Uber Eats Deal",
-      "summary": "On August 17, Serve Robotics (NASDAQ:SERV) said it is partnering with Grubhub to fulfill orders on the food delivery platform using its sidewalk robots. The deal lands just days after the company\u2019s years-long tie-up with Uber Eats fell apart, and it marks Serve\u2019s attempt to plug that gap with a new revenue channel. The Grubhub [\u2026]",
-      "pub_date": "2026-08-19T11:42:30Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/serve-robotics-serv-turns-grubhub-114230800.html"
     }
   ]
 }

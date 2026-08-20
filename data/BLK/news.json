@@ -1,6 +1,6 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-08-19T20:19:45.688096+00:00",
+  "generated_at": "2026-08-20T00:53:30.421065+00:00",
   "items": [
     {
       "title": "Sector Update: Financial Stocks Decline Late Afternoon",
@@ -15,6 +15,13 @@
       "pub_date": "2026-08-19T17:46:10Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-softer-wednesday-174610020.html"
+    },
+    {
+      "title": "David Sacks Says the Biggest Risk to the AI Buildout Isn\u2019t Demand, \u2018If You Had Dark GPUs, That\u2019d Be a Disaster for Everyone\u2019",
+      "summary": "David Sacks proposes an unusual take on the bear case that harkens back to the dotcom bubble.",
+      "pub_date": "2026-08-19T16:42:58Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/technology/ai/articles/david-sacks-says-biggest-risk-164258160.html"
     },
     {
       "title": "Strategy Rockets 13%, Bitmine Immersion Technologies Rallies 13%, Coinbase Jumps 11% as Bitcoin Surges Past $68,000",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-19T13:18:07Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-131807943.html"
-    },
-    {
-      "title": "Bitcoin Crashed 53%, Yet BlackRock Says a 1%-2% Allocation Still Makes Sense",
-      "summary": "Bitcoin fell by 53% from its October 2025 record high, reaching a cycle low of $58,642 in June 2026. BlackRock attributed the crash to ...",
-      "pub_date": "2026-08-19T11:13:40Z",
-      "source": "CCN",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-crashed-53-yet-blackrock-111340691.html"
     }
   ]
 }

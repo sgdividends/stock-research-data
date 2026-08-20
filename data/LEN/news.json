@@ -1,7 +1,14 @@
 {
   "ticker": "LEN",
-  "generated_at": "2026-08-19T20:20:16.242873+00:00",
+  "generated_at": "2026-08-20T00:54:00.754909+00:00",
   "items": [
+    {
+      "title": "Buffett's Berkshire increases exposure to blue-chip housing stock",
+      "summary": "Berkshire raised its stake in the housing stock by nearly 30% in Q2 of 2026.",
+      "pub_date": "2026-08-19T21:47:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/real-estate/articles/buffetts-berkshire-increases-exposure-blue-214700497.html"
+    },
     {
       "title": "Warren Buffett\u2019s Berkshire Is Buying These 2 Homebuilding Stocks. Housing Market Recovery Coming?",
       "summary": "Warren Buffett\u2019s Berkshire Hathaway, which is now run by Greg Abel, revealed in its latest 13F filing that the fund bought a new stake in D.R. Horton (NYSE:DHI), worth about $580,000. The fund also increased its stake in fellow homebuilder Lennar (NYSE:LEN) by 30% in the second quarter, lifting that position to about $1.2 billion. [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-18T12:10:53Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/greg-abel-just-bet-17-121053106.html"
-    },
-    {
-      "title": "3 Unpopular Stocks with Open Questions",
-      "summary": "When Wall Street turns bearish on a stock, it\u2019s worth paying attention. These calls stand out because analysts rarely issue grim ratings on companies for fear their firms will lose out in other business lines such as M&A advisory.",
-      "pub_date": "2026-08-18T08:53:33Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-unpopular-stocks-open-questions-085333423.html"
     }
   ]
 }

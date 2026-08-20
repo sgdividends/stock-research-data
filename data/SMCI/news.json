@@ -1,7 +1,21 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-08-19T20:20:33.841365+00:00",
+  "generated_at": "2026-08-20T00:54:18.951591+00:00",
   "items": [
+    {
+      "title": "Stifel Has Message For Nvidia Investors Before Earnings",
+      "summary": "The next test is whether strength extends into 2027",
+      "pub_date": "2026-08-19T21:51:14Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stifel-message-nvidia-investors-earnings-215114118.html"
+    },
+    {
+      "title": "NVIDIA (NVDA): What Foxconn and Super Micro Are Telling Us about the AI Boom",
+      "summary": "NVIDIA Corporation (NASDAQ:NVDA) is heading into its August 26 earnings report with expectations already elevated. Wall Street firm Stifel believes it can clear this high bar, with its bull case built around independent checkpoints scattered across the supply chain. On August 19, Stifel analyst Ruben Roy reiterated a Buy rating on the stock with a [\u2026]",
+      "pub_date": "2026-08-19T21:01:52Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-foxconn-super-micro-210152728.html"
+    },
     {
       "title": "Can Leading AI Chip Collaborations Help SMCI Challenge HPE & DELL?",
       "summary": "Super Micro Computer's early AI system availability, liquid cooling and full-stack data center solutions strengthen its position as AI infrastructure evolves.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-18T14:08:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nvt-vs-smci-data-center-140800123.html"
-    },
-    {
-      "title": "Super Micro\u2019s Q2 Earnings Call: Our Top 5 Analyst Questions",
-      "summary": "Super Micro\u2019s second quarter saw the company fall short of Wall Street\u2019s revenue expectations, yet the market responded positively to the results. Management pointed to a near doubling of sales driven by robust demand for AI and data center solutions, with CEO Charles Liang highlighting a strategic shift toward total data center building block solutions. Expanded enterprise and CPU-centric product lines, along with a healthier product and customer mix, were cited as key factors in the significan",
-      "pub_date": "2026-08-18T07:41:33Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-q2-earnings-call-074133088.html"
-    },
-    {
-      "title": "Advanced Micro Devices (AMD) Unveils Instinct Coder For Private Enterprise AI",
-      "summary": "Advanced Micro Devices (NasdaqGS:AMD) launched Instinct Coder, a turnkey enterprise AI inference solution co developed with Spectro Cloud and Supermicro. The new platform targets hybrid and private AI deployments and is built around AMD\u2019s MI series accelerators. The partnership with Spectro Cloud and Supermicro focuses on simplifying rollout of enterprise AI infrastructure for corporate IT teams. For readers looking to compare AMD\u2019s move with other companies building out AI infrastructure,...",
-      "pub_date": "2026-08-18T04:33:13Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-unveils-043313270.html"
     }
   ]
 }
