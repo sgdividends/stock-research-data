@@ -1,7 +1,35 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-08-20T12:35:21.704797+00:00",
+  "generated_at": "2026-08-20T16:27:41.178650+00:00",
   "items": [
+    {
+      "title": "CEOs shift messaging around AI and layoffs",
+      "summary": "CEOs used to talk up AI progress and efficiency by the number of workers it could replace, but with economic worries climbing, they're being more careful about linking AI to job cuts.",
+      "pub_date": "2026-08-20T15:59:06Z",
+      "source": "Axios",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ceos-shift-messaging-around-ai-155906012.html"
+    },
+    {
+      "title": "Why Salesforce Stock Could Pop On August 26th",
+      "summary": "Salesforce shares are down more than 20% this year, yet the valuation, the AI numbers, and the prediction markets are all pointing toward the same date on the calendar.",
+      "pub_date": "2026-08-20T15:15:43Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-salesforce-stock-could-pop-151543890.html"
+    },
+    {
+      "title": "Earnings Preview: Elastic (ESTC) Q1 Earnings Expected to Decline",
+      "summary": "Elastic (ESTC) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+      "pub_date": "2026-08-20T14:00:02Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-preview-elastic-estc-q1-140002893.html"
+    },
+    {
+      "title": "Latest News In E-Commerce - AI Video Platform Transforms E-Commerce Marketing Content",
+      "summary": "Designkit has unveiled an AI-powered video platform designed to transform product photos into marketing videos, catering to the growing demand for video content in e-commerce. The platform enables brands to convert existing image assets into videos suitable for various channels, including online stores, social media platforms, and digital ads, without the need for traditional filming and editing processes. This innovation stands to streamline the creative workflow for e-commerce teams,...",
+      "pub_date": "2026-08-20T12:37:46Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/media-advertising/articles/latest-news-e-commerce-ai-123746040.html"
+    },
     {
       "title": "S&P 500 Could Hit 8,000 Soon, Morningstar Says \u2014 CRM, NOW, WDAY And MSFT Lead The August Rebound",
       "summary": "Salesforce, ServiceNow, Workday and Microsoft are leading a software rebound once thought unlikely amid AI disruption fears.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-08-19T20:12:33Z",
       "source": "TechCrunch",
       "url": "https://finance.yahoo.com/technology/ai/articles/rillet-raises-100m-series-c-201233241.html"
-    },
-    {
-      "title": "AI agents create new problem for enterprise software",
-      "summary": "Enterprise software built its business around human users. AI agents are about to change that assumption entirely.",
-      "pub_date": "2026-08-19T18:47:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-agents-create-problem-enterprise-184700431.html"
-    },
-    {
-      "title": "UiPath Stock Rises 44% in 6 Months: Should You Buy, Hold or Sell?",
-      "summary": "PATH's agentic AI adoption and enterprise growth support its outlook, but slowing revenue and flat near-term earnings could cap gains after a 44% rally.",
-      "pub_date": "2026-08-19T17:18:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/uipath-stock-rises-44-6-171800149.html"
-    },
-    {
-      "title": "Can Strong AI Adoption Help Atlassian Challenge CRM & NOW?",
-      "summary": "TEAM's AI adoption is driving customer expansion, larger deals and cross-selling, strengthening its position in cloud software.",
-      "pub_date": "2026-08-19T15:37:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/strong-ai-adoption-help-atlassian-153700155.html"
-    },
-    {
-      "title": "\u201cThe Selling Goes Too Far\u201d: Jim Cramer Defends ServiceNow, Salesforce, and Other Software Giants Against Extinction Fears",
-      "summary": "Jim Cramer says the 2026 software selloff has crossed a line, and the market is no longer pricing in missed earnings but betting on total extinction. Whether that fear has any grounding in reality is a very different question.",
-      "pub_date": "2026-08-19T14:55:06Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/selling-goes-too-far-jim-145506424.html"
     }
   ]
 }

@@ -1,7 +1,28 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-08-20T12:35:08.161942+00:00",
+  "generated_at": "2026-08-20T16:27:32.954977+00:00",
   "items": [
+    {
+      "title": "Vanguard's private equity math undercuts Wall Street's retiree pitch",
+      "summary": "A $3.8 trillion problem is headed straight for your 401(k)",
+      "pub_date": "2026-08-20T16:17:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/options/articles/vanguards-private-equity-math-undercuts-161700287.html"
+    },
+    {
+      "title": "Interview: BlackRock\u2019s Ronald Ratcliffe on why traditional diversification fails wealth managers",
+      "summary": "Ronald Ratcliffe, the managing director and head strategist for portfolio analytics at BlackRock Aladdin, tells Satarupa Bhowmik how macro forces drive risk, traditional diversification fails, and tech analyses public-private exposures.",
+      "pub_date": "2026-08-20T12:44:12Z",
+      "source": "Private Banker International",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/interview-blackrock-ronald-ratcliffe-why-124412007.html"
+    },
+    {
+      "title": "KKR Data Center Chief Vaults to Prominence With Nvidia Pact",
+      "summary": "When some of Wall Street\u2019s most prominent CEOs recently appeared on TV with Nvidia Corp.\u2019s Jensen Huang, touting their $500 billion pact to finance AI chips, one participant stood out.",
+      "pub_date": "2026-08-20T11:30:00Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/kkr-data-center-chief-vaults-113000247.html"
+    },
     {
       "title": "Ethereum ETFs Draw $189 Million in Biggest Single-Day Haul in 10 Months",
       "summary": "Ethereum ETFs pulled $189M on August 19, their biggest day since October, with BlackRock's fund taking 65%.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-20T10:16:19Z",
       "source": "BeInCrypto",
       "url": "https://finance.yahoo.com/markets/stocks/articles/73-global-stock-money-coming-101619801.html"
-    },
-    {
-      "title": "The 60/40 Portfolio Is \u2018Broken.\u2019 Here\u2019s How to Fix It.",
-      "summary": "A bond market selloff has pressured 60/40 investment portfolios, which have returned 8% on average this year compared with 13% for the S&P 500. Investors can look to healthcare stocks for relief.",
-      "pub_date": "2026-08-20T06:00:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/investing-stocks-bonds-etfs-healthcare-39f0cec6?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Sector Update: Financial Stocks Decline Late Afternoon",
-      "summary": "Financial stocks were lower in late Wednesday afternoon trading, with the NYSE Financial Index decre",
-      "pub_date": "2026-08-19T19:57:41Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-afternoon-195741830.html"
-    },
-    {
-      "title": "Sector Update: Financial Stocks Softer Wednesday Afternoon",
-      "summary": "Financial stocks were lower in Wednesday afternoon trading, with the NYSE Financial Index decreasing",
-      "pub_date": "2026-08-19T17:46:10Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-softer-wednesday-174610020.html"
     }
   ]
 }

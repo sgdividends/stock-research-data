@@ -1,7 +1,21 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-08-20T12:36:22.468875+00:00",
+  "generated_at": "2026-08-20T16:28:16.483909+00:00",
   "items": [
+    {
+      "title": "Why Salesforce Stock Could Pop On August 26th",
+      "summary": "Salesforce shares are down more than 20% this year, yet the valuation, the AI numbers, and the prediction markets are all pointing toward the same date on the calendar.",
+      "pub_date": "2026-08-20T15:15:43Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-salesforce-stock-could-pop-151543890.html"
+    },
+    {
+      "title": "The AI Bond Bonanza Could Be a Big Problem for the Stock Market",
+      "summary": "As U.S. companies raise billions of dollars to fund their AI dreams, they\u2019re primarily tapping debt markets.  Nearly 70% of the $456 billion cash raised for AI from the public market in 2026 has come from the investment-grade debt market, according to Bank of America Global Research.  At $309 billion, that amount is more than double the $136 billion in AI-related investment-grade debt issued in all of 2025.",
+      "pub_date": "2026-08-20T12:23:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/the-ai-bond-bonanza-could-be-a-big-problem-for-the-stock-market-54f1d621?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "1 Unpopular Stock That Should Get More Attention and 2 Facing Challenges",
       "summary": "When Wall Street turns bearish on a stock, it\u2019s worth paying attention. These calls stand out because analysts rarely issue grim ratings on companies for fear their firms will lose out in other business lines such as M&A advisory.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-19T19:11:44Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/healthcare/articles/oracle-makes-fresh-ai-push-191144816.html"
-    },
-    {
-      "title": "Why Is Microsoft (MSFT) Reworking AI Data Center Policy Across The US?",
-      "summary": "Microsoft (NasdaqGS:MSFT), Oracle, and Meta have launched a public campaign to respond to rising community backlash and legislative pushback against AI data centers across the US. Microsoft is scrapping non-disclosure agreements and certain tax break arrangements tied to new facilities and is introducing a community-first AI infrastructure policy. The coordinated move opens a new front in how large tech groups engage with local stakeholders and regulators on the build out of AI compute...",
-      "pub_date": "2026-08-19T16:14:31Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/why-microsoft-msft-reworking-ai-161431602.html"
-    },
-    {
-      "title": "Oracle Price Prediction: Can Its $638 Billion Backlog Send The Stock Back Toward $250?",
-      "summary": "Oracle just reported a backlog so massive it rivals Microsoft's entire commercial pipeline, yet the stock sits 40% below where it traded a year ago. Something has to give, and figuring out which way raises billions of dollars worth of questions.",
-      "pub_date": "2026-08-19T15:00:06Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-price-prediction-638-billion-150006427.html"
     }
   ]
 }

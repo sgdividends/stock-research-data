@@ -1,7 +1,21 @@
 {
   "ticker": "BX",
-  "generated_at": "2026-08-20T12:35:10.203194+00:00",
+  "generated_at": "2026-08-20T16:27:34.818496+00:00",
   "items": [
+    {
+      "title": "Does KKR's $796B AUM Set the Stage for $1T Growth by 2030?",
+      "summary": "KKR's $796B AUM underscores a diversified growth strategy, with acquisitions and recurring fees supporting its path toward $1T by 2030.",
+      "pub_date": "2026-08-20T14:11:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/does-kkrs-796b-aum-set-141100848.html"
+    },
+    {
+      "title": "KKR Data Center Chief Vaults to Prominence With Nvidia Pact",
+      "summary": "When some of Wall Street\u2019s most prominent CEOs recently appeared on TV with Nvidia Corp.\u2019s Jensen Huang, touting their $500 billion pact to finance AI chips, one participant stood out.",
+      "pub_date": "2026-08-20T11:30:00Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/kkr-data-center-chief-vaults-113000247.html"
+    },
     {
       "title": "Sector Update: Financial Stocks Softer Wednesday Afternoon",
       "summary": "Financial stocks were lower in Wednesday afternoon trading, with the NYSE Financial Index decreasing",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-17T19:59:30Z",
       "source": "Benzinga Private Markets",
       "url": "https://finance.yahoo.com/markets/stocks/articles/blackstone-blue-owl-funds-upsize-195930611.html"
-    },
-    {
-      "title": "Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies",
-      "summary": "Even before Nvidia Corp.\u2019s splashy $500 billion financing partnership this week, investors were starting to fret over the roughly $70 billion in phantom liabilities that don\u2019t appear on major AI companies\u2019 balance sheets, but could materialize at the worst possible time.",
-      "pub_date": "2026-08-15T19:00:00Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/technology/ai/articles/bond-traders-agonizing-over-70-190000845.html"
-    },
-    {
-      "title": "NVIDIA Stock Holds Flat as $500 Billion AI Plan Takes Shape",
-      "summary": "Six major financial institutions intend to create dedicated capital pools that could help NVIDIA customers finance computing infrastructure.",
-      "pub_date": "2026-08-14T19:12:01Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-holds-flat-500-191201034.html"
     }
   ]
 }
