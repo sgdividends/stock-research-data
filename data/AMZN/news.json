@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "generated_at": "2026-08-20T04:30:55.449312+00:00",
+  "generated_at": "2026-08-20T08:30:14.387668+00:00",
   "items": [
     {
       "title": "Amazon Prime Air maybe coming to a city near you",
@@ -15,6 +15,20 @@
       "pub_date": "2026-08-19T15:52:12Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/walmart-doesnt-raise-outlook-stock-155212028.html"
+    },
+    {
+      "title": "ABG Teams Up with Luzern eCommerce to Give its Brands Better Access to European Markets",
+      "summary": "Reebok has been successful in its work with Luzern.",
+      "pub_date": "2026-08-20T07:00:00Z",
+      "source": "Sourcing Journal",
+      "url": "https://finance.yahoo.com/media-advertising/articles/abg-teams-luzern-ecommerce-brands-070000176.html"
+    },
+    {
+      "title": "Nebius Increases Debt Raise Plan To $5B: Neocloud Operator Reportedly Bids For Decart AI Buyout Eyed by Anthropic",
+      "summary": "Nebius just announced its third major debt issue in a year to support its massive AI infrastructure expansion.",
+      "pub_date": "2026-08-20T05:47:26Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nebius-increases-debt-raise-plan-054726339.html"
     },
     {
       "title": "Big Tech Is on Pace to Spend $735 Billion on AI Data Centers in 2026. These 3 Industrial Stocks Collect the Checks.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-19T23:16:35Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/aws-ai-surge-220-billion-231635450.html"
-    },
-    {
-      "title": "Amazon isn\u2019t giving up on Jeff Bezos\u2019 drone deliveries dream\u2014and after 13 years of turbulence, the momentum is finally shifting",
-      "summary": "The e-commerce giant announced it is expanding drone delivery to nearly 500 U.S. cities and towns by the end of this year, a sixfold increase from its current capabilities.",
-      "pub_date": "2026-08-19T22:38:55Z",
-      "source": "Fortune",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-isn-t-giving-jeff-223855751.html"
-    },
-    {
-      "title": "Amazon Adds Grok 4.6 to Bedrock",
-      "summary": "SpaceXAI gets a major cloud distribution boost.",
-      "pub_date": "2026-08-19T21:58:24Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-adds-grok-4-6-215824526.html"
     }
   ]
 }

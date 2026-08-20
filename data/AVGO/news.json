@@ -1,6 +1,6 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-08-20T04:30:57.175608+00:00",
+  "generated_at": "2026-08-20T08:30:16.741050+00:00",
   "items": [
     {
       "title": "Tech sell-off resumes, counterbalancing bond yield relief: AlphaCheck",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-19T14:14:46Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/tech-sell-off-resumes-counterbalancing-bond-yield-relief-alphacheck-141446892.html"
+    },
+    {
+      "title": "Marvell Lands \u2018White Whale\u2019 Google, Raises Stakes Ahead Of Q2 Report: Analyst Says TPU Deal \u2018Greatly Expands\u2019 MRVL\u2019s Long-Term AI Opportunity",
+      "summary": "Morningstar said the long-term opportunity far outweighs share-dilution concerns.",
+      "pub_date": "2026-08-20T07:23:39Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/technology/ai/articles/marvell-lands-white-whale-google-072339694.html"
     },
     {
       "title": "AMD and Intel Shares Plummet, What You Need To Know",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-19T20:24:14Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/ai-compute-derivatives-nvidia-meta-tsmc-broadcom-microsoft-amazon-google/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Marvell Stock Jumps On Google Deal, Broadcom Slides",
-      "summary": "Marvell Technology stock jumped after the chipmaker announced a deal to develop chips for Alphabet unit Google.",
-      "pub_date": "2026-08-19T20:20:43Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/marvell-stock-jumps-on-google-chip-investment-deal/?src=A00220&yptr=yahoo"
     }
   ]
 }

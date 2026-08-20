@@ -1,7 +1,14 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-08-20T04:31:31.669064+00:00",
+  "generated_at": "2026-08-20T08:31:05.237190+00:00",
   "items": [
+    {
+      "title": "S&P 500 Could Hit 8,000 Soon, Morningstar Says \u2014 CRM, NOW, WDAY And MSFT Lead The August Rebound",
+      "summary": "Salesforce, ServiceNow, Workday and Microsoft are leading a software rebound once thought unlikely amid AI disruption fears.",
+      "pub_date": "2026-08-20T06:52:49Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-could-hit-8-065249593.html"
+    },
     {
       "title": "Is ServiceNow (NOW) Quietly Becoming the Default Orchestrator for Enterprise AI Automation?",
       "summary": "In recent days, Tribal announced its partnership with ServiceNow to launch Tribal for ServiceNow, bringing Tribal\u2019s Metadata Fabric and AI agents onto the ServiceNow AI Platform to help enterprises maintain, migrate, and enhance workflows without breaking dependencies or governance. This move highlights how third\u2011party, metadata\u2011aware AI builders are increasingly using ServiceNow as a core orchestration layer for enterprise\u2011wide automation, potentially deepening the platform\u2019s role at the...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-19T06:58:00Z",
       "source": "Fortune",
       "url": "https://finance.yahoo.com/technology/articles/inside-8-billion-cybersecurity-acquisition-065800120.html"
-    },
-    {
-      "title": "CRM: A Cash Gusher At A Marked-Down Price",
-      "summary": "Salesforce is currently trading at a lower valuation multiple compared to historical averages, prompting investor debate over its intrinsic value.",
-      "pub_date": "2026-08-18T16:16:19Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/crm-cash-gusher-marked-down-161619090.html"
     }
   ]
 }

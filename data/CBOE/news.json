@@ -1,7 +1,14 @@
 {
   "ticker": "CBOE",
-  "generated_at": "2026-08-20T04:31:01.575593+00:00",
+  "generated_at": "2026-08-20T08:30:22.221316+00:00",
   "items": [
+    {
+      "title": "This High-Yield Exchange Stock Just Raised Its Dividend by Nearly 20%",
+      "summary": "Cboe Global Markets raised its quarterly dividend by 19% to $0.86 per share on Aug. 13, marking the 16th consecutive year of increases, supported by strong options trading volumes and solid second-quarter results.",
+      "pub_date": "2026-08-19T23:30:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/high-yield-exchange-stock-just-233002776.html"
+    },
     {
       "title": "Kalshi Brings Crypto\u2019s Perpetual Futures Model to Stocks With CFTC Filing",
       "summary": "Kalshi filed with the CFTC to launch stock index and copper perpetuals, extending crypto's leverage model into equities.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-08T02:32:56Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/options/articles/cboe-cboe-q2-2026-earnings-023256144.html"
-    },
-    {
-      "title": "Options Traders Flock to Bullish Wagers",
-      "summary": "Traders are snapping up bullish bets in the options market. A measure called \"skew\" fell Friday to its lowest level since December 2024, show Cboe Global Markets Data. A lower skew typically signals that prices for call options are more expensive relative to put options.",
-      "pub_date": "2026-08-07T16:00:02Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/july-jobs-report-stock-market-08-07-2026/card/options-traders-flock-to-bullish-wagers-rshYlwppFFtJjmumeWoE?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

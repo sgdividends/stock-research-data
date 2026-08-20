@@ -1,6 +1,6 @@
 {
   "ticker": "C",
-  "generated_at": "2026-08-20T04:31:00.918518+00:00",
+  "generated_at": "2026-08-20T08:30:21.321039+00:00",
   "items": [
     {
       "title": "Crypto's next big moves: SEC's 'reg crypto' plan, Citi's bitcoin custody",
@@ -8,6 +8,20 @@
       "pub_date": "2026-08-19T16:31:38Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/cryptos-next-big-moves-secs-reg-crypto-plan-citis-bitcoin-custody-163138840.html"
+    },
+    {
+      "title": "Alibaba Tops Chinese Tech Stocks This Quarter on AI Resurgence",
+      "summary": "Alibaba Group Holding Ltd. is reclaiming its place as one of investors\u2019 favorite Chinese technology stocks, on bets it can beat rivals in the combative artificial intelligence market.",
+      "pub_date": "2026-08-20T01:38:49Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-tops-chinese-tech-stocks-013849635.html"
+    },
+    {
+      "title": "JPMorgan Team Sees Credibility Risk in Treasury\u2019s Bond Buybacks",
+      "summary": "JPMorgan Chase & Co. strategists warned that markets may view the US Treasury\u2019s surprise effort to curb long-term borrowing costs as lacking credibility, potentially pushing up term premium and yields over time.",
+      "pub_date": "2026-08-20T00:59:09Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/economy/policy/articles/jpmorgan-team-sees-credibility-risk-005909690.html"
     },
     {
       "title": "Citigroup (C) Stock Falls Amid Market Uptick: What Investors Need to Know",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-19T13:40:02Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/acadian-asset-management-inc-aami-134002833.html"
-    },
-    {
-      "title": "The Stock Market Is Shrugging Off Geopolitical Risks. Why Wall Street Remains Bullish.",
-      "summary": "Strong earnings reports have helped the S&P 500 reach record levels this quarter. Analysts see more gains ahead, with one saying the index can reach 8100.",
-      "pub_date": "2026-08-19T12:31:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/sp500-rally-wall-street-bullish-oil-prices-82dd7d99?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Is Citigroup (C) Changing Custody With Real Time Bitcoin And Traditional Assets?",
-      "summary": "Citigroup (NYSE:C) launched Custody+, a unified custody platform that combines traditional securities and digital assets, including Bitcoin. The service integrates near real-time processing with digital asset custody and advanced FX and liquidity tools on a single infrastructure. Custody+ is aimed at institutional clients that want digital asset exposure within existing global banking and custody arrangements. For readers interested in more ideas around resilient financial exposure linked...",
-      "pub_date": "2026-08-19T08:13:13Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/citigroup-c-changing-custody-real-081313752.html"
     }
   ]
 }
