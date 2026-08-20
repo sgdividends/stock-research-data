@@ -1,7 +1,14 @@
 {
   "ticker": "MRVL",
-  "generated_at": "2026-08-20T00:54:06.121784+00:00",
+  "generated_at": "2026-08-20T04:31:29.739737+00:00",
   "items": [
+    {
+      "title": "Why Marvell Stock Surged Today",
+      "summary": "Investors are excited about a lucrative chip supply deal with an AI titan.",
+      "pub_date": "2026-08-20T03:05:29Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-marvell-stock-surged-today-030529654.html"
+    },
     {
       "title": "AMD and Intel Shares Plummet, What You Need To Know",
       "summary": "A number of stocks fell in the afternoon session after investors reacted to a significant partnership between Google and Marvell Technology for custom AI chip development, signaling a potential shift in market share.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-19T21:49:54Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-down-more-20-214954022.html"
-    },
-    {
-      "title": "Marvell Technology (MRVL) Expands Google AI Partnership: What Investors Need to Know",
-      "summary": "Marvell Technology, Inc. (NASDAQ:MRVL) has expanded its partnership with Google to develop custom chips for AI infrastructure, strengthening its position in the growing custom-silicon market. The agreement covers several areas linked to Google\u2019s Tensor Processing Unit ecosystem, including AI inference accelerators, storage and networking products, memory interface controllers, and near-memory computing. Alongside the commercial agreement, [\u2026]",
-      "pub_date": "2026-08-19T21:15:07Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/marvell-technology-mrvl-expands-google-211507897.html"
     }
   ]
 }

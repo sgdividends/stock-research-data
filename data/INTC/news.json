@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-08-20T00:53:56.319585+00:00",
+  "generated_at": "2026-08-20T04:31:21.813932+00:00",
   "items": [
     {
       "title": "Tech sell-off resumes, counterbalancing bond yield relief: AlphaCheck",
@@ -15,6 +15,13 @@
       "pub_date": "2026-08-19T13:54:48Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/15-sp-500-stocks-are-up-100-or-more-this-year--heres-what-they-have-in-common-135448325.html"
+    },
+    {
+      "title": "Masayoshi Son Has 67% of SoftBank's U.S. Stock Portfolio in Intel. He Didn't Buy a Single Share Last Quarter.",
+      "summary": "The share count hasn't budged since March. The value more than tripled. The difference matters for anyone who owns the chipmaker's stock.",
+      "pub_date": "2026-08-20T03:07:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/masayoshi-son-67-softbanks-u-030701746.html"
     },
     {
       "title": "AMD and Intel Shares Plummet, What You Need To Know",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-19T19:07:25Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/wedbush-flags-surprising-move-intel-190725379.html"
-    },
-    {
-      "title": "Wedbush Issues Stark Warning for Intel Stock as GPU Prices Surge",
-      "summary": "Intel Faces New AI Hardware Headwind as GPU Prices Surge Across Key Markets",
-      "pub_date": "2026-08-19T19:03:56Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wedbush-issues-stark-warning-intel-190356281.html"
     }
   ]
 }

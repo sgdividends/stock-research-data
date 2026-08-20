@@ -1,7 +1,14 @@
 {
   "ticker": "HOOD",
-  "generated_at": "2026-08-20T00:53:54.078021+00:00",
+  "generated_at": "2026-08-20T04:31:19.883752+00:00",
   "items": [
+    {
+      "title": "MSTR Stock Climbs As Bitcoin Surges Past $69K For First Time Since June: Trump Urges Congress To Pass CLARITY Act",
+      "summary": "Bitcoin prices surged above $69,000 for the first time since early June after President Donald Trump met with top crypto executives in the White House.",
+      "pub_date": "2026-08-20T02:01:56Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/mstr-stock-climbs-bitcoin-surges-020156327.html"
+    },
     {
       "title": "Trump hosts crypto executives at the White House \u2014 and one token surges 19% on his remarks",
       "summary": "The White House meeting put crypto regulation, prediction markets and Hyperliquid\u2019s U.S. future in the spotlight.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-19T19:54:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/crypto-clarity-act-coinbase-ripple-trump-d60a7215?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Robinhood CEO: Tokenization Will Enable 24/7 Trading and \u201cTake Over the Entire Financial System\u201d",
-      "summary": "Robinhood CEO Vlad Tenev walked into the White House and the CFTC with a bold claim: tokenization is not a niche experiment but the next architecture of global finance. What he wants from regulators could determine whether that future gets built in the U.S. or somewhere else entirely.",
-      "pub_date": "2026-08-19T19:51:40Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/robinhood-ceo-tokenization-enable-24-195140877.html"
     }
   ]
 }

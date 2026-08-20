@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "generated_at": "2026-08-20T00:53:21.421918+00:00",
+  "generated_at": "2026-08-20T04:30:51.761514+00:00",
   "items": [
     {
       "title": "Is Nvidia stock too cheap right now?",
@@ -10,11 +10,25 @@
       "url": "https://finance.yahoo.com/video/nvidia-stock-too-cheap-now-144036744.html"
     },
     {
-      "title": "Dow Jones Futures: S&P 500, Nasdaq Rise On Treasury Move; Moderna, Merck Spur Big Biopharma Gains",
+      "title": "Dow Jones Futures: S&P 500, Nasdaq Rise As Moderna, Merck, Gold Shine But Not These Techs",
       "summary": "The S&P 500 and Nasdaq rose slightly Wednesday as Treasury yields fell. Moderna and Merck fueled big gains for biotechs, drugmakers.",
-      "pub_date": "2026-08-20T00:20:10Z",
+      "pub_date": "2026-08-20T03:12:38Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-treasury-move-moderna-merck-spur-big-biopharma-gains/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Asia\u2019s Businesses Struggle to Shake Off the Sway of Their Founding Families",
+      "summary": "A leadership shake-up at Tata Sons has highlighted the challenges facing India\u2019s family-founded behemoths.",
+      "pub_date": "2026-08-20T02:00:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/world/asia/asias-businesses-struggle-to-shake-off-the-sway-of-their-founding-families-0e7fc2e7?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Meta ran ads for an app that only needs one photo and no consent",
+      "summary": "The app takes a photo of someone real and does something Meta says it bans.",
+      "pub_date": "2026-08-20T01:47:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-ran-ads-app-only-014700725.html"
     },
     {
       "title": "The Hidden Debt That Apple Owes to the CIA",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-19T20:58:21Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-stock-surged-ai-spending-205821986.html"
-    },
-    {
-      "title": "Higher Fees, Better Returns: The Case for Equal-Weighted ETFs",
-      "summary": "The equal-weighted S&P 500 is outperforming the main index as the Mag 7 struggle. That trend should continue, offsetting any concerns about fund fees.",
-      "pub_date": "2026-08-19T19:00:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/sp500-equal-weight-etf-stock-market-rally-486ee7b6?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Could Nvidia Be the Next Big Tech Stock to Join Berkshire Hathaway's Portfolio?",
-      "summary": "Berkshire added to its position in Alphabet last quarter, and now has two iconic tech companies among its top-three holdings.",
-      "pub_date": "2026-08-19T18:09:03Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/could-nvidia-next-big-tech-180903501.html"
     }
   ]
 }

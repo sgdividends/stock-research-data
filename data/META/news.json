@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "generated_at": "2026-08-20T00:54:04.494005+00:00",
+  "generated_at": "2026-08-20T04:31:28.235942+00:00",
   "items": [
     {
       "title": "Tech stocks today: OpenAI's growth disappoints, chip stock slide continues",
@@ -15,6 +15,27 @@
       "pub_date": "2026-08-18T21:54:58Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/technology/article/meta-social-media-addiction-trial-kicks-off-with-major-implications-for-companys-future-215458217.html"
+    },
+    {
+      "title": "Corrections &Amplifications",
+      "summary": "CORRECTIONS A judge ordered Meta Platforms to create a $567 million abatement fund as part of remedies stemming from a New Mexico trial. A U.S. News article on Wednesday about a different child-safety trial in California incorrectly said $567 billion.",
+      "pub_date": "2026-08-20T02:27:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/articles/corrections-amplifications-79ef52e8?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Meta ran ads for an app that only needs one photo and no consent",
+      "summary": "The app takes a photo of someone real and does something Meta says it bans.",
+      "pub_date": "2026-08-20T01:47:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-ran-ads-app-only-014700725.html"
+    },
+    {
+      "title": "Big Tech Is on Pace to Spend $735 Billion on AI Data Centers in 2026. These 3 Industrial Stocks Collect the Checks.",
+      "summary": "Big Tech's AI data center spree still needs power and hardware. Three industrial stocks positioned to benefit: Caterpillar, Eaton, GE Vernova.",
+      "pub_date": "2026-08-20T01:20:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/big-tech-pace-spend-735-012000522.html"
     },
     {
       "title": "Broadcom (AVGO) Is Down More Than 20%\u2014Why TD Cowen Still Sees 27% Upside",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-19T20:31:16Z",
       "source": "Benzinga",
       "url": "https://finance.yahoo.com/technology/ai/articles/justin-wolfers-says-ai-wont-203116576.html"
-    },
-    {
-      "title": "U.S. Markets Prepare For AI Compute Derivatives Tied To TSMC, Nvidia GPU Prices",
-      "summary": "Regulators took initial steps to allow investors to trade AI compute futures based on the prices of GPUs sold by the likes of Nvidia, TSMC and Broadcom.",
-      "pub_date": "2026-08-19T20:24:14Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/ai-compute-derivatives-nvidia-meta-tsmc-broadcom-microsoft-amazon-google/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Mark Zuckerberg \u2018cannot be trusted\u2019 to protect kids online",
-      "summary": "Mark Zuckerberg sidelined child safety concerns at Meta and parents \u201ccannot trust\u201d the billionaire to protect their kids online, a former engineer has claimed.",
-      "pub_date": "2026-08-19T19:54:59Z",
-      "source": "The Telegraph",
-      "url": "https://finance.yahoo.com/news/mark-zuckerberg-cannot-trusted-protect-195459610.html"
-    },
-    {
-      "title": "Apple stock stands out among Magnificent Seven on low AI spending",
-      "summary": "While rivals commit hundreds of billions to AI infrastructure, Apple's restrained capital approach has made its stock a hedge against volatility",
-      "pub_date": "2026-08-19T17:53:39Z",
-      "source": "Quartz",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-stands-among-magnificent-175339099.html"
     }
   ]
 }

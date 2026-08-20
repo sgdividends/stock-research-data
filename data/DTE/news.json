@@ -1,7 +1,14 @@
 {
   "ticker": "DTE",
-  "generated_at": "2026-08-20T00:53:42.598742+00:00",
+  "generated_at": "2026-08-20T04:31:09.718126+00:00",
   "items": [
+    {
+      "title": "LG Energy Solution Starts Production at 35-GWh Michigan Battery Plant",
+      "summary": "LG Energy Solution has started battery production at its new Lansing, Michigan, plant, supplying both grid storage and electric vehicle markets.",
+      "pub_date": "2026-08-20T02:19:21Z",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/lg-energy-solution-starts-production-021921915.html"
+    },
     {
       "title": "LGES starts production at Lansing battery plant in US",
       "summary": "The company is targeting annual battery-making capacity of more than 35GWh at full scale.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-04T14:07:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/wix-q2-earnings-beat-expectations-140700400.html"
-    },
-    {
-      "title": "TELUS Q2 Earnings Fall Y/Y on Digital Weakness, Outlook Cut",
-      "summary": "TU cut its 2026 outlook and reset its dividend after weaker Digital results, lower revenues and a C$2.14B impairment drove a steep quarterly loss.",
-      "pub_date": "2026-08-03T14:03:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/telus-q2-earnings-fall-y-140300931.html"
     }
   ]
 }

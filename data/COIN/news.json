@@ -1,6 +1,6 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-08-20T00:53:36.762463+00:00",
+  "generated_at": "2026-08-20T04:31:04.965899+00:00",
   "items": [
     {
       "title": "Citi enters the crypto arena: What to expect from its bitcoin custody launch",
@@ -8,6 +8,20 @@
       "pub_date": "2026-08-19T19:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/citi-enters-crypto-arena-expect-190000880.html"
+    },
+    {
+      "title": "MSTR Stock Climbs As Bitcoin Surges Past $69K For First Time Since June: Trump Urges Congress To Pass CLARITY Act",
+      "summary": "Bitcoin prices surged above $69,000 for the first time since early June after President Donald Trump met with top crypto executives in the White House.",
+      "pub_date": "2026-08-20T02:01:56Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/mstr-stock-climbs-bitcoin-surges-020156327.html"
+    },
+    {
+      "title": "Figure's Take Rate Is Shrinking By Design",
+      "summary": "The metric analysts pressed hardest on is falling because the company's capital-light marketplace is taking over its volume.",
+      "pub_date": "2026-08-20T00:35:34Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/figures-rate-shrinking-design-003534095.html"
     },
     {
       "title": "Trump hosts crypto executives at the White House \u2014 and one token surges 19% on his remarks",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-19T20:34:25Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/clarity-act-sec-regulation-crypto-white-house-summit-trump-cftc-bitcoin/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Stock Market Today: Dow Breaks Losing Streak As Moderna Catapults On Its Cancer Vaccine Win (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index rises Wednesday on Treasury buybacks. Moderna soars on cancer vaccine news.",
-      "pub_date": "2026-08-19T20:31:04Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-minutes-nvidia-sk-hynix-skhy/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Strategy, Coinbase, Circle, Robinhood stocks rally after Treasury news",
-      "summary": "Stocks of leading crypto companies, Strategy, Coinbase, Circle, and Robinhood, rally.",
-      "pub_date": "2026-08-19T20:26:16Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-coinbase-circle-robinhood-stocks-202616660.html"
     }
   ]
 }
