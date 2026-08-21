@@ -1,7 +1,21 @@
 {
   "ticker": "TXN",
-  "generated_at": "2026-08-21T16:26:03.607022+00:00",
+  "generated_at": "2026-08-21T20:19:45.645298+00:00",
   "items": [
+    {
+      "title": "The Hidden Tax Cost of JEPI\u2019s Monthly Income Machine",
+      "summary": "JEPI's 8% monthly yield looks like an obvious win over SCHD's modest payout, but the IRS treats those two income streams in ways that can quietly flip the comparison depending on where you hold them.",
+      "pub_date": "2026-08-21T16:30:31Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/options/articles/hidden-tax-cost-jepi-monthly-163031968.html"
+    },
+    {
+      "title": "Why Is Texas Instruments (TXN) Down 6.8% Since Last Earnings Report?",
+      "summary": "Texas Instruments (TXN) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+      "pub_date": "2026-08-21T15:30:13Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-texas-instruments-txn-down-153013726.html"
+    },
     {
       "title": "ADI vs. TXN: Which Analog Processing Chip Stock Has an Edge Right Now?",
       "summary": "Analog Devices' strong industrial and automotive growth contrasts with Texas Instruments' broader momentum and improving utilization. Which stock has the edge?",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-20T17:39:15Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/analog-semiconductors-stocks-q2-highlights-173915571.html"
-    },
-    {
-      "title": "Microchip Stock Drops 9% in a Month: Should You Buy, Sell or Hold it?",
-      "summary": "MCHP's AI and data-center growth prospects support its recovery, but supply constraints, competition and valuation may limit near-term upside.",
-      "pub_date": "2026-08-20T17:18:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microchip-stock-drops-9-month-171800036.html"
-    },
-    {
-      "title": "Analog Devices' Upbeat AI Data Center Opportunity Views Noteworthy, Seaport Says in Upgrade",
-      "summary": "Analog Devices' (ADI) upbeat remarks around its artificial intelligence data center opportunity are",
-      "pub_date": "2026-08-20T16:49:48Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/ai/articles/analog-devices-apos-upbeat-ai-164948617.html"
     }
   ]
 }

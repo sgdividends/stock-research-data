@@ -1,13 +1,41 @@
 {
   "ticker": "UBER",
-  "generated_at": "2026-08-21T16:26:04.086505+00:00",
+  "generated_at": "2026-08-21T20:19:46.178379+00:00",
   "items": [
     {
-      "title": "Waymo is making its own AI chip for its robotaxi service",
-      "summary": "Autonomous rideshare operator \u2014 which is owned by Alphabet (GOOG, GOOGL) \u2014 has begun building its own AI chips to better optimize sensor data, according to Bloomberg. Yahoo Finance Tech Editor Dan Howley examines Waymo's move to bring more of its technology in-house.",
-      "pub_date": "2026-08-20T19:43:18Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/waymo-making-own-ai-chip-194318039.html"
+      "title": "Alphabet Rises as Waymo Secures Another Robotaxi Market",
+      "summary": "Las Vegas permits strengthen Alphabet's claim that autonomous driving is becoming a commercial platform rather than a research project.",
+      "pub_date": "2026-08-21T20:00:45Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/articles/alphabet-rises-waymo-secures-another-200045385.html"
+    },
+    {
+      "title": "Tesla Jumps 3.6% as Semi Launch and Robotaxi Expansion Accelerate",
+      "summary": "The electric-vehicle giant is ending a volatile week with two potential commercial-growth engines moving closer to reality.",
+      "pub_date": "2026-08-21T18:22:20Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-jumps-3-6-semi-182220329.html"
+    },
+    {
+      "title": "Uber fined \u20ac825 million for automated driver suspensions",
+      "summary": "The Dutch privacy regulator says Uber violated E.U. rules by using software alone to deactivate driver accounts, with no human review",
+      "pub_date": "2026-08-21T17:52:35Z",
+      "source": "Quartz",
+      "url": "https://finance.yahoo.com/technology/ai/articles/uber-fined-825-million-automated-175235658.html"
+    },
+    {
+      "title": "Uber Stock Options Trade Offers Exposure Without The Ownership Price Tag",
+      "summary": "This Uber options trade is equivalent to owning 85 company shares for a much lower cost than purchasing than stock.",
+      "pub_date": "2026-08-21T16:45:24Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/research/options/uber-stock-tech-markets-options-trade-strategy-income-investing/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Uber Faces \u20ac825 Million Dutch Fine Over Driver Suspensions",
+      "summary": "Uber Technologies Inc. has been fined \u20ac825 million ($963 million) by Dutch authorities for using automated systems to suspend driver accounts, in what is the second-largest penalty under the European Union\u2019s General Data Protection Regulation.",
+      "pub_date": "2026-08-21T16:29:31Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/articles/uber-faces-825-million-dutch-162931182.html"
     },
     {
       "title": "Tesla Rallies 4% on Europe Semi Launch and Las Vegas Robotaxi Permits, Uber Ticks Up",
@@ -29,34 +57,6 @@
       "pub_date": "2026-08-21T15:20:56Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/uber-faces-nearly-1-billion-152056575.html"
-    },
-    {
-      "title": "Tesla, Waymo, Uber Granted Las Vegas Robotaxi Permits",
-      "summary": "Nevada regulators voted Thursday to approve Las Vegas robotaxi permits for Tesla, Uber and Google's Waymo. They'll join Amazon's Zoox.",
-      "pub_date": "2026-08-21T12:56:01Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/tesla-waymo-uber-robotaxi-las-vegas-self-driving-cars-tech-stocks/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Exclusive-Dutch regulator fines Uber $966 million for automating driver suspensions, document shows",
-      "summary": "The Dutch Data Protection Authority (AP) has decided to fine Uber \u20ac825 million ($966 million) under European data protection rules for deactivating driver accounts through automated systems without \u200cadequately informing them, according to an August 17 decision reviewed by Reuters.  The penalty would be the \u200csecond-largest ever issued under Europe's General Data Protection Regulation, behind a \u20ac1.2 billion fine imposed on Meta by Ireland in 2023 for unlawfully transferring \u200bEuropean Facebook users' data to the United States, which Meta is appealing.  Uber said it would also appeal.",
-      "pub_date": "2026-08-21T12:03:23Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-dutch-regulator-fines-uber-120323411.html"
-    },
-    {
-      "title": "What Does Pony AI (PONY) Launching Its First European Robotaxi Service Mean?",
-      "summary": "Pony AI (NasdaqGS:PONY) launches its first autonomous ride service on Uber in Europe, starting operations in Zagreb in partnership with Uber and Verne. The service marks a shift from pilot programs to commercial autonomous ride hailing for Pony AI in the region. The rollout provides a live test of Pony AI's joint deployment model with Uber and Verne for potential use in other European and Middle Eastern cities. For a broader view of how AI powered transport and mobility depend on the...",
-      "pub_date": "2026-08-21T11:10:05Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/does-pony-ai-pony-launching-111005698.html"
-    },
-    {
-      "title": "Amazon, Uber, DoorDash, and Walmart are taking the delivery wars to the skies",
-      "summary": "After years of experiments and setbacks, some of America\u2019s biggest delivery companies are racing to make drones mainstream.",
-      "pub_date": "2026-08-21T07:03:00Z",
-      "source": "Fortune",
-      "url": "https://finance.yahoo.com/technology/articles/amazon-uber-doordash-walmart-taking-070300525.html"
     }
   ]
 }

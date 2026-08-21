@@ -1,7 +1,14 @@
 {
   "ticker": "SRE",
-  "generated_at": "2026-08-21T16:25:57.726459+00:00",
+  "generated_at": "2026-08-21T20:19:40.689443+00:00",
   "items": [
+    {
+      "title": "PG&E Stock Runs On A Legislative Calendar, Not The Market's",
+      "summary": "Its independence from the index is genuine, and so is the single unresolved question sitting underneath it.",
+      "pub_date": "2026-08-21T19:01:12Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pg-e-stock-runs-legislative-190112390.html"
+    },
     {
       "title": "PCG Passed Our Value-Trap Test. Now What?",
       "summary": "A major California utility is trading at a steep discount to the market, forcing investors to decide if the price reflects a temporary fear or a permanent flaw.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-07T12:23:19Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sempra-stock-wall-street-bullish-122319753.html"
-    },
-    {
-      "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
-      "summary": "Executives at parent company Sempra said they support the governor's pause on new data center interconnection approvals, citing a need for durable long-term outcomes amid growing public opposition.",
-      "pub_date": "2026-08-07T08:00:00Z",
-      "source": "Utility Dive",
-      "url": "https://finance.yahoo.com/energy/articles/oncor-weighs-impact-texas-data-080000626.html"
     }
   ]
 }

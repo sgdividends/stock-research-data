@@ -1,7 +1,14 @@
 {
   "ticker": "AMGN",
-  "generated_at": "2026-08-21T16:25:01.016775+00:00",
+  "generated_at": "2026-08-21T20:18:49.057072+00:00",
   "items": [
+    {
+      "title": "Lilly's Multiple Assumes Less Growth Than You Think",
+      "summary": "Consensus asks Eli Lilly for far less growth than it is delivering, and for margins to keep climbing from a level it only just reached.",
+      "pub_date": "2026-08-21T18:40:56Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lillys-multiple-assumes-less-growth-184056682.html"
+    },
     {
       "title": "Why the Dow Is Beating the Nasdaq Again",
       "summary": "Suddenly the Nasdaq couldn\u2019t hold onto early gains, and you can probably guess which stocks are to blame.  The Nasdaq Composite was hovering around breakeven after a wave of selling hit chips and AI infrastructure stocks.  The S&P 500 was still up 0.3%.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-19T17:30:05Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/healthcare/articles/amgen-stock-surges-3-5-173005289.html"
-    },
-    {
-      "title": "Obesity investing\u2019s way forward, mapped",
-      "summary": "Ben Zercher is senior analyst of biotech and pharma at PitchBook Obesity drugs offered the holy grail of drug development: a massive market, biology that works, and a proven blueprint paved by blockbuster GLP-1s. But the gold rush led by Big Pharma and investors has ended. The market is punishing developers whose drugs fail to stand out, and pipelines are being trimmed. Pfizer just axed another program from its massive Metsera deal, while peers like Amgen have begun trimming their own early-stag",
-      "pub_date": "2026-08-19T09:24:00Z",
-      "source": "Pitchbook",
-      "url": "https://finance.yahoo.com/healthcare/articles/obesity-investing-way-forward-mapped-092400379.html"
     }
   ]
 }

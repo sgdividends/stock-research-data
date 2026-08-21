@@ -1,7 +1,14 @@
 {
   "ticker": "SO",
-  "generated_at": "2026-08-21T16:25:57.227332+00:00",
+  "generated_at": "2026-08-21T20:19:40.125968+00:00",
   "items": [
+    {
+      "title": "PG&E Stock Runs On A Legislative Calendar, Not The Market's",
+      "summary": "Its independence from the index is genuine, and so is the single unresolved question sitting underneath it.",
+      "pub_date": "2026-08-21T19:01:12Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pg-e-stock-runs-legislative-190112390.html"
+    },
     {
       "title": "Can GE Vernova's $176B Backlog Sustain Its Growth Momentum?",
       "summary": "GEV's $176 billion backlog and surging orders highlight rising demand for power and grid technologies, supporting stronger growth visibility.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-08T19:10:19Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/southern-completes-multiple-large-convertible-191019211.html"
-    },
-    {
-      "title": "Train operators to crack down on \u2018donutters\u2019 and other digital ticket cheats",
-      "summary": "South Western and GTR announce fightback after move away from paper tickets increases fare dodging",
-      "pub_date": "2026-08-08T10:00:42Z",
-      "source": "The Guardian",
-      "url": "https://finance.yahoo.com/news/train-operators-crack-down-donutters-100042117.html"
     }
   ]
 }

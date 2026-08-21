@@ -1,7 +1,21 @@
 {
   "ticker": "GEV",
-  "generated_at": "2026-08-21T16:25:27.728536+00:00",
+  "generated_at": "2026-08-21T20:19:12.623405+00:00",
   "items": [
+    {
+      "title": "Sector Update: Energy Stocks Mixed Late Afternoon",
+      "summary": "Energy stocks were mixed late Friday afternoon, with the NYSE Energy Sector Index slightly lower and",
+      "pub_date": "2026-08-21T19:57:00Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-afternoon-195700798.html"
+    },
+    {
+      "title": "FLNC or GEV: Which Alternative Energy Stock Is Better-Placed Now?",
+      "summary": "GEV's stronger guidance, backlog growth and AI-driven power demand give it the edge despite FLNC's cheaper valuation and data-center tailwinds.",
+      "pub_date": "2026-08-21T17:15:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/energy/articles/flnc-gev-alternative-energy-stock-171500611.html"
+    },
     {
       "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday as Bitcoin Moves Past $77,000",
       "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.4% and the actively trad",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-19T19:05:00Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-ai-surge-meets-190500129.html"
-    },
-    {
-      "title": "Fluence Energy, Bloom Energy, Redwire, Ameresco, and GE Vernova Shares Plummet, What You Need To Know",
-      "summary": "A number of stocks fell in the morning session after the latest industrial production report showed slower-than-expected growth for July. Data from the Federal Reserve indicated that U.S. industrial production rose by 0.2%, which was half of the 0.4% increase that analysts polled by The Wall Street Journal had anticipated. While this marked the second consecutive month of growth, it represented a slowdown from the previous month's revised figures. Manufacturing output also saw a modest 0.2% incr",
-      "pub_date": "2026-08-18T21:25:33Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fluence-energy-bloom-energy-redwire-212533946.html"
-    },
-    {
-      "title": "Is This The Next CoreWeave Or Nebius Group? A Crusoe IPO Looms",
-      "summary": "Crusoe IPO looms after last funding round valued the AI data center developer at $10 billion. Reports suggest firm's valuation may triple.",
-      "pub_date": "2026-08-18T20:20:45Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/is-this-the-next-coreweave-or-nebius-group-a-crusoe-ipo-looms/?src=A00220&yptr=yahoo"
     }
   ]
 }

@@ -1,13 +1,48 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-08-21T16:25:00.630208+00:00",
+  "generated_at": "2026-08-21T20:18:48.645189+00:00",
   "items": [
     {
-      "title": "Waymo is making its own AI chip for its robotaxi service",
-      "summary": "Autonomous rideshare operator \u2014 which is owned by Alphabet (GOOG, GOOGL) \u2014 has begun building its own AI chips to better optimize sensor data, according to Bloomberg. Yahoo Finance Tech Editor Dan Howley examines Waymo's move to bring more of its technology in-house.",
-      "pub_date": "2026-08-20T19:43:18Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/waymo-making-own-ai-chip-194318039.html"
+      "title": "AMD Falls as Nvidia's Earnings Test Looms Over AI Chips",
+      "summary": "The market is demanding proof that AMD can convert enormous customer agreements into profitable accelerator deployments.",
+      "pub_date": "2026-08-21T20:08:22Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-falls-nvidias-earnings-test-200822269.html"
+    },
+    {
+      "title": "Advanced Micro Devices vs. Arm Holdings: Comparing Revenue Trends Between These Artificial Intelligence Companies",
+      "summary": "AMD's revenue has climbed steadily for eight straight quarters, while ARM's growth pattern tells a starkly different story.",
+      "pub_date": "2026-08-21T20:01:41Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-vs-arm-200141974.html"
+    },
+    {
+      "title": "Advanced Micro Devices (AMD) Posts Record Sales, But Musk\u2019s NVIDIA (NVDA) Pledge Sinks the Stock",
+      "summary": "Advanced Micro Devices, Inc. (NASDAQ:AMD) delivered exactly the quarter investors ask for: record sales and a healthy beat, but the stock fell more than 8%. The reason behind it: SpaceX CEO Elon Musk said on August 4 that his company would build exclusively on NVIDIA Corporation (NASDAQ:NVDA) chips going forward: \u201cGoing forward, we have decided [\u2026]",
+      "pub_date": "2026-08-21T19:48:27Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-posts-194827905.html"
+    },
+    {
+      "title": "TSMC Rises Ahead of Nvidia's Critical AI Demand Test",
+      "summary": "The world's largest foundry is rebounding as investors prepare for the earnings report that could reset semiconductor expectations.",
+      "pub_date": "2026-08-21T19:39:30Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-rises-ahead-nvidias-critical-193930535.html"
+    },
+    {
+      "title": "NVIDIA Earnings in 5 Days: Should You Buy, Hold, or Sell NVDA?",
+      "summary": "NVIDIA's strong AI demand, 91B revenue outlook and attractive valuation point to potential upside ahead of fiscal Q2 earnings.",
+      "pub_date": "2026-08-21T19:00:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-5-days-buy-190000872.html"
+    },
+    {
+      "title": "AMD Has More Than Tripled Off Its Low and Still Trades 20% Below Its High",
+      "summary": "The chipmaker's business keeps getting better. The argument is over which end of a wild 52-week range tells the truth.",
+      "pub_date": "2026-08-21T16:27:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-more-tripled-off-low-162701400.html"
     },
     {
       "title": "AMD vs. Nvidia: Is AMD Finally Closing the AI Gap?",
@@ -22,41 +57,6 @@
       "pub_date": "2026-08-21T15:30:37Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/amd-lost-spacex-nvidia-ai-153037579.html"
-    },
-    {
-      "title": "Can Cerebras' Latest CS-4 Help the Stock in Confronting NVDA & AMD?",
-      "summary": "CBRS CS-4 boosts inference speed and power efficiency as cloud demand surges, while NVIDIA and AMD intensify competition.",
-      "pub_date": "2026-08-21T15:15:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-latest-cs-4-help-151500339.html"
-    },
-    {
-      "title": "Should You Add NVIDIA Stock to Your Portfolio Ahead of Q2 Earnings?",
-      "summary": "NVDA heads toward its Q2 earnings release with revenues expected near $91 billion as AI, Data Center and Blackwell demand fuel growth prospects.",
-      "pub_date": "2026-08-21T14:14:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/add-nvidia-stock-portfolio-ahead-141400651.html"
-    },
-    {
-      "title": "Seagate vs. AMD: Which AI Infrastructure Stock Has the Edge?",
-      "summary": "STX's storage-focused AI strategy, HAMR roadmap and valuation give it an edge over AMD in the race to capitalize on AI infrastructure.",
-      "pub_date": "2026-08-21T13:55:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/seagate-vs-amd-ai-infrastructure-135500080.html"
-    },
-    {
-      "title": "Something Big Could Happen To NVIDIA Stock on August 26",
-      "summary": "NVIDIA reports after the close on August 26, and the setup heading into that print is unlike anything the stock has seen in years. Here is why analysts, prediction markets, and booked backlog all point in the same direction.",
-      "pub_date": "2026-08-21T12:00:49Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/something-big-could-happen-nvidia-120049837.html"
-    },
-    {
-      "title": "Micron Technology Stock Has Become A Bet On Memory Prices",
-      "summary": "Micron's record revenue arrived on shipments that barely grew, which leaves the price of memory carrying the entire case.",
-      "pub_date": "2026-08-21T11:47:53Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-stock-become-bet-114753002.html"
     }
   ]
 }

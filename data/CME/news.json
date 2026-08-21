@@ -1,7 +1,28 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-08-21T16:25:11.065608+00:00",
+  "generated_at": "2026-08-21T20:18:58.776825+00:00",
   "items": [
+    {
+      "title": "Coinbase Stock Surged On A Bill Its Own CEO Says It Can Live Without",
+      "summary": "Robinhood and Bakkt fell in the very session Coinbase surged, which points the cause at Washington rather than at the price of bitcoin.",
+      "pub_date": "2026-08-21T17:41:29Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-stock-surged-bill-own-174129689.html"
+    },
+    {
+      "title": "CFTC Eyes US DeFi and Leveraged Crypto Trading as Selig Prepares Plan B Ahead of Sept. 15 CLARITY Act Vote",
+      "summary": "CFTC Chair Michael Selig is preparing an agency-led crypto framework if the CLARITY Act fails to advance in the Sept. 15 Senate vote. The proposed ...",
+      "pub_date": "2026-08-21T16:27:52Z",
+      "source": "CCN",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/cftc-eyes-us-defi-leveraged-162752436.html"
+    },
+    {
+      "title": "Why Is CME (CME) Up 6.5% Since Last Earnings Report?",
+      "summary": "CME (CME) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+      "pub_date": "2026-08-21T15:30:03Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-cme-cme-6-5-153003099.html"
+    },
     {
       "title": "CME Group (CME) Is Emerging As A Key Voice In Crypto Regulation",
       "summary": "CME Group (NasdaqGS:CME) took part in a White House crypto summit alongside major financial institutions, underscoring its role in US digital asset policy discussions. The company featured in talks on regulatory frameworks for crypto markets, highlighting its engagement beyond traditional futures and options. At a recent CFTC meeting, CME Group's CEO publicly challenged a prediction market competitor, focusing on market integrity and regulatory standards. The twin events put CME Group at the...",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-20T18:43:13Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/drw-s-don-wilson-encourages-cftc-to-approve-perpetual-futures-WBLJH1WD8D8M0rufCWC9?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Coinbase Global Stock Carries A Premium Multiple And A Shrinking Top Line",
-      "summary": "The premium rests on a three-year growth average, while the most recent reported quarter went the other way.",
-      "pub_date": "2026-08-20T15:30:36Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coinbase-global-stock-carries-premium-153036945.html"
-    },
-    {
-      "title": "Oil Cracks $89 As Trump Launches 'Economic D-Day' Vs. Iran",
-      "summary": "Crude oil prices rose to nearly a one-month high on Thursday morning after President Donald Trump announced the \"most crushing economic operation ever undertaken,\" regarding Iran, in a Wednesday evening Truth Social post.  The Dow industrials, S&P 500 and Nasdaq all opened lower as Treasury yields rebounded.  Beyond the blockade of Iran's Persian Gulf ports, Trump vowed harsh consequences for countries that provide \"any type of lifeline to Iran\" via government entities, financial institutions, airports, front companies and oil smuggling.",
-      "pub_date": "2026-08-20T14:16:07Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/oil-price-trump-launches-economic-war-us-iran/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "U.S. Markets Prepare For AI Compute Derivatives Tied To TSMC, Nvidia GPU Prices",
-      "summary": "Regulators took initial steps to allow investors to trade AI compute futures based on the prices of GPUs sold by the likes of Nvidia, TSMC and Broadcom.",
-      "pub_date": "2026-08-19T20:24:14Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/ai-compute-derivatives-nvidia-meta-tsmc-broadcom-microsoft-amazon-google/?src=A00220&yptr=yahoo"
     }
   ]
 }

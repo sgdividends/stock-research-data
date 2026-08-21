@@ -1,7 +1,35 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-08-21T16:25:46.005035+00:00",
+  "generated_at": "2026-08-21T20:19:29.286541+00:00",
   "items": [
+    {
+      "title": "Is UiPath's Expanding ARR Strengthening Its Long-Term Growth Story?",
+      "summary": "PATH's ARR increases from $1.46 billion in Q4 fiscal 2024 to $1.9 billion in Q1 fiscal 2027, highlighting resilient demand for AI-powered automation.",
+      "pub_date": "2026-08-21T18:09:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/uipaths-expanding-arr-strengthening-long-180900883.html"
+    },
+    {
+      "title": "ServiceNow investors must consider latest alert from Bank of America",
+      "summary": "Here\u2019s what could happen to NOW shares next.",
+      "pub_date": "2026-08-21T17:33:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-investors-must-consider-latest-173300015.html"
+    },
+    {
+      "title": "Palantir Climbs 4% Through $180, BigBear.ai Rises 4%, ServiceNow Holds Flat: How Are Traders Picking the Software Winners?",
+      "summary": "Government AI stocks and enterprise software names are trading on the same tape Friday, yet they are telling completely different stories about where traders think the real money flows next.",
+      "pub_date": "2026-08-21T17:10:05Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-climbs-4-180-bigbear-171005603.html"
+    },
+    {
+      "title": "ServiceNow (NOW) Up 41.1% Since Last Earnings Report: Can It Continue?",
+      "summary": "ServiceNow (NOW) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+      "pub_date": "2026-08-21T15:30:07Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-now-41-1-since-153007090.html"
+    },
     {
       "title": "Salesforce Vs. ServiceNow: The Platform Play is On as AI Capital Pivots",
       "summary": "Salesforce and ServiceNow both planted their flags on agentic AI this quarter, but their bets look almost nothing alike, and only one of those bets prices in the risk of being wrong.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-08-21T00:01:02Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-servicenow-stock-topped-market-000102594.html"
-    },
-    {
-      "title": "Salesforce Stock Is Priced For A Wider Year Than The One It Just Had",
-      "summary": "The option chain puts a floor beneath anything the stock has traded over the past year and a ceiling far above its high, and it is charging an ordinary premium to do it.",
-      "pub_date": "2026-08-20T17:06:24Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/salesforce-stock-priced-wider-one-170624804.html"
-    },
-    {
-      "title": "Palantir Is Growing Faster Than Almost Anyone Expected. Can the Stock Keep Up?",
-      "summary": "Palantir just delivered the kind of quarter that silences critics, but with a valuation that makes even bulls nervous, the real debate is whether the growth story can actually justify what the market is already pricing in.",
-      "pub_date": "2026-08-20T15:00:29Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-growing-faster-almost-anyone-150029928.html"
-    },
-    {
-      "title": "S&P 500 Could Hit 8,000 Soon, Morningstar Says \u2014 CRM, NOW, WDAY And MSFT Lead The August Rebound",
-      "summary": "Salesforce, ServiceNow, Workday and Microsoft are leading a software rebound once thought unlikely amid AI disruption fears.",
-      "pub_date": "2026-08-20T06:52:49Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-could-hit-8-065249593.html"
-    },
-    {
-      "title": "Is ServiceNow (NOW) Quietly Becoming the Default Orchestrator for Enterprise AI Automation?",
-      "summary": "In recent days, Tribal announced its partnership with ServiceNow to launch Tribal for ServiceNow, bringing Tribal\u2019s Metadata Fabric and AI agents onto the ServiceNow AI Platform to help enterprises maintain, migrate, and enhance workflows without breaking dependencies or governance. This move highlights how third\u2011party, metadata\u2011aware AI builders are increasingly using ServiceNow as a core orchestration layer for enterprise\u2011wide automation, potentially deepening the platform\u2019s role at the...",
-      "pub_date": "2026-08-19T19:10:29Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-now-quietly-becoming-default-191029416.html"
     }
   ]
 }

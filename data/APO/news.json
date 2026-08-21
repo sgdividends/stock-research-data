@@ -1,7 +1,28 @@
 {
   "ticker": "APO",
-  "generated_at": "2026-08-21T16:25:02.551408+00:00",
+  "generated_at": "2026-08-21T20:18:50.427454+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Climb Late Afternoon",
+      "summary": "Financial stocks advanced in late Friday afternoon trading, with the NYSE Financial Index and the St",
+      "pub_date": "2026-08-21T19:57:55Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-climb-afternoon-195755759.html"
+    },
+    {
+      "title": "Sector Update: Financial Stocks Rise in Afternoon Trading",
+      "summary": "Financial stocks advanced in Friday afternoon trading, with the NYSE Financial Index rising 0.8% and",
+      "pub_date": "2026-08-21T17:51:29Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-rise-afternoon-175129050.html"
+    },
+    {
+      "title": "Broadcom seeks up to $80 billion in debt for AI chip deal",
+      "summary": "The chip designer is in talks with lenders on a deal that would benefit Anthropic and other AI companies, with a total potential raise of up to $100 billion",
+      "pub_date": "2026-08-21T17:19:25Z",
+      "source": "Quartz",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-seeks-80-billion-debt-171925920.html"
+    },
     {
       "title": "Broadcom Eyes Up to $100 Billion AI Financing Deal",
       "summary": "The debt package could help fund Anthropic and other AI customers.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-21T11:33:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/pro/cybersecurity/gaming-ai-powered-employee-surveillance-fe56af61?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "AVGO Stock Inches Higher \u2014 Broadcom Reportedly Eyes Nearly $100B Debt Package To Fund AI Infrastructure Expansion",
-      "summary": "Broadcom Inc. is discussing an artificial intelligence chip financing package with major financial institutions that could ultimately total up to $100 billion.",
-      "pub_date": "2026-08-20T22:25:02Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/technology/ai/articles/avgo-stock-inches-higher-broadcom-222502327.html"
-    },
-    {
-      "title": "Broadcom seeks more than $60 billion in latest AI debt deal, Bloomberg News reports",
-      "summary": "Broadcom is in talks with a group of lenders to raise more than $60 billion in debt for an AI \u200cchip financing deal that will benefit Anthropic and other companies, \u200cBloomberg News reported on Thursday, citing people familiar with the matter.  The financing could include a roughly $30 \u200bbillion junior debt tranche, while the chip designer would guarantee a part of a senior-secured tranche that could range from about $60 billion to $70 billion, the report said.  Broadcom plays a crucial role in helping design custom chips for firms like Alphabet and Meta, as tech companies \u2060look to develop chips in-house to reduce their reliance on market leader Nvidia.",
-      "pub_date": "2026-08-20T20:38:18Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-seeks-more-60-billion-203818587.html"
-    },
-    {
-      "title": "Does KKR's $796B AUM Set the Stage for $1T Growth by 2030?",
-      "summary": "KKR's $796B AUM underscores a diversified growth strategy, with acquisitions and recurring fees supporting its path toward $1T by 2030.",
-      "pub_date": "2026-08-20T14:11:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-kkrs-796b-aum-set-141100848.html"
     }
   ]
 }

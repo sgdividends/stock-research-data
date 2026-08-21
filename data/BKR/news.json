@@ -1,7 +1,14 @@
 {
   "ticker": "BKR",
-  "generated_at": "2026-08-21T16:25:06.032247+00:00",
+  "generated_at": "2026-08-21T20:18:53.576747+00:00",
   "items": [
+    {
+      "title": "US Oil Drillers See Pullback as Oil Prices Rise",
+      "summary": "The total number of active drilling rigs for oil and gas in the United States fell this week, according to new data that Baker Hughes published on Friday",
+      "pub_date": "2026-08-21T17:16:00Z",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/us-oil-drillers-see-pullback-171600604.html"
+    },
     {
       "title": "2 Energy Stocks to Own for Decades and 1 We Find Risky",
       "summary": "Even if they go mostly unnoticed, energy businesses are the backbone of our country, providing the energy we need to power our lives and businesses.Sure, they are at the whim of energy prices and other macroeconomic factors that influence capital spending (like interest rates and AI energy needs), but the industry has held its ground over the past six months as its 10.5% return was almost identical to the S&P 500.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-15T00:01:00Z",
       "source": "Odessa American, Texas",
       "url": "https://finance.yahoo.com/energy/articles/us-rig-count-five-prices-000100161.html"
-    },
-    {
-      "title": "US Oil Drillers Add Even More Rigs As Oil Prices Stay Higher",
-      "summary": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday",
-      "pub_date": "2026-08-14T17:07:38Z",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/energy/articles/us-oil-drillers-add-even-170738055.html"
     }
   ]
 }
