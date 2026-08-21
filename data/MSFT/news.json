@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "generated_at": "2026-08-21T00:57:35.842787+00:00",
+  "generated_at": "2026-08-21T04:32:56.872943+00:00",
   "items": [
     {
       "title": "CrowdStrike Stock Is Down, But The Business Is Looking Up. What Gives?",
@@ -15,6 +15,13 @@
       "pub_date": "2026-08-20T21:10:39Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/biggest-risk-facing-first-trust-211039102.html"
+    },
+    {
+      "title": "IREN Just Passed Its Biggest AI Test as Microsoft and Nvidia Bet Billions",
+      "summary": "IREN's first Microsoft data center is now live, giving investors early proof that its AI pivot can turn massive contracts into revenue.",
+      "pub_date": "2026-08-20T20:32:43Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/technology/ai/articles/iren-just-passed-biggest-ai-203243332.html"
     },
     {
       "title": "IREN (IREN) Stock Looks Pricey Even After Its AI Pivot",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-20T18:41:58Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/told-forget-schd-just-beat-184158499.html"
-    },
-    {
-      "title": "CoreWeave Signs Hudson River Trading to a Multiyear AI Deal",
-      "summary": "HRT becomes one of the first customers with wide-scale access to Nvidia's Vera Rubin chips",
-      "pub_date": "2026-08-20T18:30:53Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-signs-hudson-river-trading-183053735.html"
     }
   ]
 }
