@@ -1,7 +1,14 @@
 {
   "ticker": "ABBV",
-  "generated_at": "2026-08-21T08:32:29.648673+00:00",
+  "generated_at": "2026-08-21T12:33:59.985604+00:00",
   "items": [
+    {
+      "title": "3 Unpopular Stocks That Deserve Some Love",
+      "summary": "Wall Street has issued downbeat forecasts for the stocks in this article. These predictions are rare - financial institutions typically hesitate to say bad things about a company because it can jeopardize their other revenue-generating business lines like M&A advisory.",
+      "pub_date": "2026-08-21T11:39:47Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-unpopular-stocks-deserve-love-113947623.html"
+    },
     {
       "title": "Merck Stock Ran On A Checklist Published In Advance",
       "summary": "The products meant to offset the KEYTRUDA patent expiry were named, and two were already booking revenue, before the stock moved.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-19T20:08:16Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-stock-runs-calendar-200816668.html"
-    },
-    {
-      "title": "Is AbbVie Stock About To Break Out Again?",
-      "summary": "AbbVie's upside case now turns on one pending dosing change for the medicine that supplies close to a third of guided revenue, and management expects it to speed up sales.",
-      "pub_date": "2026-08-19T19:40:52Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/abbvie-stock-break-again-194052640.html"
     }
   ]
 }

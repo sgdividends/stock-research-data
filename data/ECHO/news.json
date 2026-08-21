@@ -1,7 +1,14 @@
 {
   "ticker": "ECHO",
-  "generated_at": "2026-08-21T08:32:47.435298+00:00",
+  "generated_at": "2026-08-21T12:34:25.296487+00:00",
   "items": [
+    {
+      "title": "Major Satellite Internet Company Files For Chapter 11 Bankruptcy",
+      "summary": "One of America's major satellite internet businesses has entered Chapter 11 as mounting debt and changing competition reshape the broadband industry.",
+      "pub_date": "2026-08-20T10:30:00Z",
+      "source": "Money Digest",
+      "url": "https://finance.yahoo.com/technology/articles/major-satellite-internet-company-files-103000447.html"
+    },
     {
       "title": "Charlie Ergen Agrees to Take Controlling Stake in MobileX",
       "summary": "With the acquisition, Ergen will control wireless services Boost Mobile and MobileX through EchoStar and a SPAC, respectively",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-05T19:31:31Z",
       "source": "Benzinga",
       "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-bullish-starlink-bet-193131684.html"
-    },
-    {
-      "title": "Telecom shares decline as SpaceX outlines plans for mobile network expansion",
-      "summary": "Shares of major U. S. wireless providers moved lower after SpaceX (NASDAQ:SPCX) revealed plans to develop a fully integrated mobile service, raising concerns that Starlink could eventually become a direct competitor to Verizon (NYSE:VZ), AT&T (NYSE:T) and T-Mobile (NASDAQ:TMUS).",
-      "pub_date": "2026-08-05T12:25:24Z",
-      "source": "InvestorsHub",
-      "url": "https://finance.yahoo.com/technology/articles/telecom-shares-decline-spacex-outlines-122524848.html"
     }
   ]
 }

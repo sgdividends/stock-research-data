@@ -1,7 +1,42 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-08-21T08:32:34.673606+00:00",
+  "generated_at": "2026-08-21T12:34:07.936866+00:00",
   "items": [
+    {
+      "title": "Something Big Could Happen To NVIDIA Stock on August 26",
+      "summary": "NVIDIA reports after the close on August 26, and the setup heading into that print is unlike anything the stock has seen in years. Here is why analysts, prediction markets, and booked backlog all point in the same direction.",
+      "pub_date": "2026-08-21T12:00:49Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/something-big-could-happen-nvidia-120049837.html"
+    },
+    {
+      "title": "Here Are Friday\u2019s Top Wall Street Analyst Research Calls: Broadcom, Equifax, Hubbell, Marvell Technology, NVIDIA, SpaceX, Portland General Electric, Taylor Devices, Teradyne, and More",
+      "summary": "Markets are clawing back from a brutal Thursday selloff, but the real action is in the analyst calls, where BMO Capital just pulled the trigger on three major chip stocks at once and DZ Bank opened SpaceX coverage with a Sell.",
+      "pub_date": "2026-08-21T11:59:19Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/friday-top-wall-street-analyst-115919724.html"
+    },
+    {
+      "title": "Here\u2019s Why I\u2019m Buying More Broadcom as Spiking Treasury Yields Rock AI Stocks",
+      "summary": "Treasury yields just handed AI stocks a brutal week, and while most investors ran for the exits, one Broadcom buyer kept hitting the buy button. The reasoning behind that conviction goes deeper than a simple dip-buying reflex.",
+      "pub_date": "2026-08-21T11:42:13Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-m-buying-more-broadcom-114213118.html"
+    },
+    {
+      "title": "Latest News In AI Chips - Cloudera NVIDIA Partnership Boosts Apache Spark Performance",
+      "summary": "Recent advancements in AI chips have been exemplified by Cloudera's partnership with NVIDIA, which introduces native GPU acceleration for Apache Spark 4.1 within Cloudera Data Engineering. This integration, facilitated by the NVIDIA CUDA-X library cuDF, promises up to fourfold faster processing on NVIDIA GPUs compared to traditional CPUs, without necessitating code alterations. The collaboration aims to accelerate data preparation workflows, thereby reducing cloud compute costs across hybrid...",
+      "pub_date": "2026-08-21T11:37:39Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/latest-news-ai-chips-cloudera-113739829.html"
+    },
+    {
+      "title": "Broadcom\u2019s (AVGO) Massive New Debt Deal Points To Where AI Is Headed",
+      "summary": "On August 20, Broadcom (NASDAQ:AVGO) was reported by Bloomberg News to be negotiating more than $60 billion in fresh debt to fund an AI chip financing arrangement that benefits Anthropic and other customers. The deal could swell to as much as $100 billion once every piece is counted, according to people familiar with the matter. [\u2026]",
+      "pub_date": "2026-08-21T09:45:28Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-massive-debt-deal-094528841.html"
+    },
     {
       "title": "3 AI Chip Stocks Down 15% or More to Buy Right Now",
       "summary": "Broadcom, AMD, and SK Hynix look like buys on the dip.",
@@ -10,53 +45,18 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-chip-stocks-down-082000938.html"
     },
     {
+      "title": "Memory Stocks Struggle for Momentum With \u2018Smart Money\u2019 Moving On",
+      "summary": "After ripping through the first half of the year, memory stocks are struggling to regain momentum as growing concerns about the state of the artificial intelligence trade overshadow their strong fundamental backdrop.",
+      "pub_date": "2026-08-21T08:07:00Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/memory-stocks-struggle-momentum-smart-080700264.html"
+    },
+    {
       "title": "Broadcom seeks more than $60bn in debt for AI chip deal",
       "summary": "Broadcom Inc (NASDAQ:AVGO, XETRA:1YD), the US semiconductor company, is in talks to raise more than $60 billion in debt to fund a financing deal that would supply AI chips to Anthropic and other companies. That is according to Bloomberg, which cited people familiar with the matter. The...",
       "pub_date": "2026-08-21T06:40:00Z",
       "source": "Proactive",
       "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-seeks-more-60bn-debt-064000982.html"
-    },
-    {
-      "title": "AVGO Stock Inches Higher \u2014 Broadcom Reportedly Eyes Nearly $100B Debt Package To Fund AI Infrastructure Expansion",
-      "summary": "Broadcom Inc. is discussing an artificial intelligence chip financing package with major financial institutions that could ultimately total up to $100 billion.",
-      "pub_date": "2026-08-20T22:25:02Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/technology/ai/articles/avgo-stock-inches-higher-broadcom-222502327.html"
-    },
-    {
-      "title": "History of TSMC & its stock: Company timeline, facts & milestones",
-      "summary": "Taiwan Semiconductor Manufacturing Co. is the world\u2019s largest chipmaker. Here\u2019s how it grew into the semiconductor behemoth it is today.",
-      "pub_date": "2026-08-20T22:04:41Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/history-tsmc-stock-company-timeline-220441294.html"
-    },
-    {
-      "title": "Earn 17% On AMD Stock Now, For Capping Your Upside At 24%",
-      "summary": "For those holding Advanced Micro Devices, here is a way to get paid a real income now, money you keep no matter what, in exchange for capping your gains at a higher price.",
-      "pub_date": "2026-08-20T21:41:21Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/earn-17-amd-stock-now-214121302.html"
-    },
-    {
-      "title": "The Engine Behind INTC Stock Has Real Parts",
-      "summary": "A powerful business turnaround is fueling this chipmaker's stock, but a recent pullback forces every investor to ask if the real opportunity has already been priced in.",
-      "pub_date": "2026-08-20T21:29:00Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/engine-behind-intc-stock-real-212900379.html"
-    },
-    {
-      "title": "How Much of Your Portfolio Should Actually Be in FTXL",
-      "summary": "Most retirement investors already hold a concentrated chip bet without knowing it, and adding FTXL can quietly double down on the same handful of names. Getting the sizing right separates a smart tilt from a sector gamble that distorts your entire portfolio.",
-      "pub_date": "2026-08-20T21:15:32Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/much-portfolio-actually-ftxl-211532063.html"
-    },
-    {
-      "title": "Broadcom repoirtedly seeking to raise over $60 billion for AI chip deal",
-      "summary": "Investing.com -- Broadcom Inc. is negotiating with a group of lenders to secure more than $60 billion in debt financing for an artificial intelligence chip deal that would support Anthropic PBC and other companies, Bloomberg reported Thursday citing people familiar with the matter.",
-      "pub_date": "2026-08-20T20:49:53Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-repoirtedly-seeking-raise-over-204953745.html"
     }
   ]
 }

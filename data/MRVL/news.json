@@ -1,7 +1,14 @@
 {
   "ticker": "MRVL",
-  "generated_at": "2026-08-21T08:33:06.578833+00:00",
+  "generated_at": "2026-08-21T12:34:52.558674+00:00",
   "items": [
+    {
+      "title": "Here Are Friday\u2019s Top Wall Street Analyst Research Calls: Broadcom, Equifax, Hubbell, Marvell Technology, NVIDIA, SpaceX, Portland General Electric, Taylor Devices, Teradyne, and More",
+      "summary": "Markets are clawing back from a brutal Thursday selloff, but the real action is in the analyst calls, where BMO Capital just pulled the trigger on three major chip stocks at once and DZ Bank opened SpaceX coverage with a Sell.",
+      "pub_date": "2026-08-21T11:59:19Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/friday-top-wall-street-analyst-115919724.html"
+    },
     {
       "title": "Google's Marvell Warrant Doesn't Fully Vest Until Google Buys $120 Billion of Chips",
       "summary": "The chipmaker attached a stock award to its newest custom chip deal -- one installment for every $500 million its buyer spends. Collecting all of them takes 240.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-20T19:55:32Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/waymo-builds-own-chip-reduces-195532671.html"
-    },
-    {
-      "title": "Broadcom Stabilizes After Google's $120 Billion Marvell Shock",
-      "summary": "Investors are reconsidering whether Google's second custom-chip partner threatens Broadcom or simply expands an enormous market.",
-      "pub_date": "2026-08-20T19:31:22Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/articles/broadcom-stabilizes-googles-120-billion-193122196.html"
     }
   ]
 }

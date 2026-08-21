@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "generated_at": "2026-08-21T08:32:29.548122+00:00",
+  "generated_at": "2026-08-21T12:33:59.835927+00:00",
   "items": [
     {
       "title": "Waymo is making its own AI chip for its robotaxi service",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-20T19:43:18Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/waymo-making-own-ai-chip-194318039.html"
+    },
+    {
+      "title": "This 2.7% \u2018Dividend\u2019 ETF Quietly Holds 28% Big Tech. Here\u2019s Who Should Own It Anyway",
+      "summary": "Fidelity's so-called high dividend ETF hides a portfolio that would surprise most income investors, and understanding who it actually benefits requires looking past the yield altogether.",
+      "pub_date": "2026-08-21T08:50:07Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-7-dividend-etf-quietly-085007909.html"
     },
     {
       "title": "Apple Reportedly Lays Off Vision Pro Staff As Smart Glasses Take Priority \u2013 Ternus CEO Transition Nears",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-20T21:00:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/apple-ai-spending-john-ternus-55c1046f?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "ChatGPT Can Now Control iMessage, Potentially Raising Apple Privacy Concerns",
-      "summary": "OpenAI rolled out support on Thursday for controlling Apple Inc.\u2019s iMessage service via ChatGPT, a move with the potential to raise privacy concerns for the iPhone maker.",
-      "pub_date": "2026-08-20T20:56:33Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/technology/ai/articles/chatgpt-now-control-imessage-potentially-205633657.html"
     }
   ]
 }

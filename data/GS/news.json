@@ -1,7 +1,21 @@
 {
   "ticker": "GS",
-  "generated_at": "2026-08-21T08:32:54.872461+00:00",
+  "generated_at": "2026-08-21T12:34:35.856190+00:00",
   "items": [
+    {
+      "title": "Goldman Sachs: hedge funds worst month vs. S&P 500 in 20 years",
+      "summary": "Goldman strategists said July marked one of the sharpest hedge fund de-grossing episodes of the past decade",
+      "pub_date": "2026-08-21T12:09:04Z",
+      "source": "Quartz",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-hedge-funds-worst-120904927.html"
+    },
+    {
+      "title": "Wall Street Calls It \u201cTax Alpha.\u201d It\u2019s a $1 Trillion Machine for Beating the IRS Instead of the Market",
+      "summary": "Wealthy investors have found a way to legally manufacture losses worth multiples of their initial investment, and the strategy just crossed a trillion dollars in assets before regulators started calling it potentially abusive.",
+      "pub_date": "2026-08-21T09:20:38Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/economy/policy/articles/wall-street-calls-tax-alpha-092038710.html"
+    },
     {
       "title": "Goldman Says Slowing Inflation Is Best Path to Lower US Yields",
       "summary": "For all the US Treasury\u2019s efforts to stem rising borrowing costs, cooling inflation remains the most compelling way to lower bond yields, according to Goldman Sachs Group Inc.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-20T20:17:02Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-seeks-more-60-billion-201702584.html"
-    },
-    {
-      "title": "Anthropic Expects to Match SpaceX\u2019s Record IPO Size or Top It",
-      "summary": "Anthropic PBC expects to match or beat the size of SpaceX\u2019s record-setting initial public offering, according to people familiar with the matter, as preparations for the artificial intelligence firm\u2019s debut pick up speed.",
-      "pub_date": "2026-08-20T17:56:02Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-expects-match-spacex-record-175602035.html"
-    },
-    {
-      "title": "Elon Musk responds to Goldman Sachs' bold space economy prediction",
-      "summary": "Goldman Sachs expects the global space economy to reach $1.8 trillion by 2035.",
-      "pub_date": "2026-08-20T15:35:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/elon-musk-responds-goldman-sachs-153500105.html"
     }
   ]
 }

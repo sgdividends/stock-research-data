@@ -1,5 +1,62 @@
 {
   "ticker": "UBER",
-  "generated_at": "2026-08-21T08:33:22.844085+00:00",
-  "items": []
+  "generated_at": "2026-08-21T12:35:15.694458+00:00",
+  "items": [
+    {
+      "title": "Waymo is making its own AI chip for its robotaxi service",
+      "summary": "Autonomous rideshare operator \u2014 which is owned by Alphabet (GOOG, GOOGL) \u2014 has begun building its own AI chips to better optimize sensor data, according to Bloomberg. Yahoo Finance Tech Editor Dan Howley examines Waymo's move to bring more of its technology in-house.",
+      "pub_date": "2026-08-20T19:43:18Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/waymo-making-own-ai-chip-194318039.html"
+    },
+    {
+      "title": "Exclusive-Dutch regulator fines Uber $966 million for automating driver suspensions, document shows",
+      "summary": "The Dutch Data Protection Authority (AP) has decided to fine Uber \u20ac825 million ($966 million) under European data protection rules \u200cfor deactivating driver accounts through automated systems without adequately informing them, \u200caccording to an August 17 decision reviewed by Reuters.  The penalty would be the second-largest ever issued \u200bunder Europe's General Data Protection Regulation, behind a \u20ac1.2 billion fine imposed on Meta by Ireland in 2023 for unlawfully transferring European Facebook users' data to the United States, which Meta is appealing.  Uber said it would also appeal.",
+      "pub_date": "2026-08-21T12:03:23Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-dutch-regulator-fines-uber-120323411.html"
+    },
+    {
+      "title": "What Does Pony AI (PONY) Launching Its First European Robotaxi Service Mean?",
+      "summary": "Pony AI (NasdaqGS:PONY) launches its first autonomous ride service on Uber in Europe, starting operations in Zagreb in partnership with Uber and Verne. The service marks a shift from pilot programs to commercial autonomous ride hailing for Pony AI in the region. The rollout provides a live test of Pony AI's joint deployment model with Uber and Verne for potential use in other European and Middle Eastern cities. For a broader view of how AI powered transport and mobility depend on the...",
+      "pub_date": "2026-08-21T11:10:05Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/does-pony-ai-pony-launching-111005698.html"
+    },
+    {
+      "title": "Amazon, Uber, DoorDash, and Walmart are taking the delivery wars to the skies",
+      "summary": "After years of experiments and setbacks, some of America\u2019s biggest delivery companies are racing to make drones mainstream.",
+      "pub_date": "2026-08-21T07:03:00Z",
+      "source": "Fortune",
+      "url": "https://finance.yahoo.com/technology/articles/amazon-uber-doordash-walmart-taking-070300525.html"
+    },
+    {
+      "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
+      "summary": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
+      "pub_date": "2026-08-21T00:23:36Z",
+      "source": "TechCrunch",
+      "url": "https://finance.yahoo.com/technology/articles/tesla-uber-waymo-ok-operate-002336015.html"
+    },
+    {
+      "title": "Uber Technologies (UBER) Could Be 33% Undervalued Following Its Robotaxi Push",
+      "summary": "Uber Technologies (UBER) has begun offering autonomous rides through its app in Zagreb, working with Verne and Pony.ai to bring a commercial robotaxi service into Uber\u2019s European mobility network. See our latest analysis for Uber Technologies. Uber Technologies\u2019 recent autonomous launches in Zagreb and Dubai, alongside new partnerships in Japan and U.S. drone delivery, arrive as the stock trades at US$78.04 with a 30 day share price return of 8.13% and a 5 year total shareholder return of...",
+      "pub_date": "2026-08-20T16:15:02Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/uber-technologies-uber-could-33-161502890.html"
+    },
+    {
+      "title": "Pre-Markets Down Despite Strong Claims, Philly Fed",
+      "summary": "Higher spot oil prices and a snap-back in bond yields have helped early markets drop.",
+      "pub_date": "2026-08-20T15:34:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pre-markets-down-despite-strong-153400344.html"
+    },
+    {
+      "title": "Jim Cramer tells investors to consider buying tumbling market giant",
+      "summary": "The \u201cMad Money\u201d host remains bullish on a ride-hailing giant, calling it a strong long-term stock",
+      "pub_date": "2026-08-20T15:07:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tells-investors-consider-150700691.html"
+    }
+  ]
 }

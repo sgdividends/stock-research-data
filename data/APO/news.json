@@ -1,7 +1,14 @@
 {
   "ticker": "APO",
-  "generated_at": "2026-08-21T08:32:33.920418+00:00",
+  "generated_at": "2026-08-21T12:34:06.861225+00:00",
   "items": [
+    {
+      "title": "Gaming AI-Powered Employee Surveillance",
+      "summary": "Asset-management firm Apollo Global Management is notifying an unspecified number of clients that their personal data was exposed in a hack of \u201ccertain cloud platforms.\u201d  Ratings agency Fitch warns water and healthcare providers that cyberattacks that amplify existing financial challenges can lead to ratings downgrades.  A crash cart for hospital cyberattacks: A team of cybersecurity and healthcare experts at the University of California, San Diego, has created a mobile tech system for hospitals to deploy when a hack takes down key applications and networks.",
+      "pub_date": "2026-08-21T11:33:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/pro/cybersecurity/gaming-ai-powered-employee-surveillance-fe56af61?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "AVGO Stock Inches Higher \u2014 Broadcom Reportedly Eyes Nearly $100B Debt Package To Fund AI Infrastructure Expansion",
       "summary": "Broadcom Inc. is discussing an artificial intelligence chip financing package with major financial institutions that could ultimately total up to $100 billion.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-17T20:37:01Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/technology/ai/articles/broadcoms-ai-financing-could-reach-203701624.html"
-    },
-    {
-      "title": "What Nvidia's $500 billion Wall Street deal signals about the AI boom",
-      "summary": "Nvidia and six of the world's largest investment firms announced plans last week to channel more than $500 billion (\u20ac433bn) into AI infrastructure, an arrangement designed to let tech companies build data centres without loading the cost onto their own balance sheets.View on euronews",
-      "pub_date": "2026-08-17T06:05:19Z",
-      "source": "Euronews",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-500-billion-wall-street-060519882.html"
     }
   ]
 }
