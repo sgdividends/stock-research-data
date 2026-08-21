@@ -1,7 +1,14 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-08-21T04:32:22.279391+00:00",
+  "generated_at": "2026-08-21T08:32:41.062463+00:00",
   "items": [
+    {
+      "title": "CME Group (CME) Is Emerging As A Key Voice In Crypto Regulation",
+      "summary": "CME Group (NasdaqGS:CME) took part in a White House crypto summit alongside major financial institutions, underscoring its role in US digital asset policy discussions. The company featured in talks on regulatory frameworks for crypto markets, highlighting its engagement beyond traditional futures and options. At a recent CFTC meeting, CME Group's CEO publicly challenged a prediction market competitor, focusing on market integrity and regulatory standards. The twin events put CME Group at the...",
+      "pub_date": "2026-08-21T07:11:35Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/cme-group-cme-emerging-key-071135671.html"
+    },
     {
       "title": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
       "summary": "CME Group Chairman Terry Duffy and Kalshi co-founder Luana Lopes Lara traded barbs during a CFTC meeting over prediction markets, manipulation, and regulatory standards.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-19T20:24:14Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/ai-compute-derivatives-nvidia-meta-tsmc-broadcom-microsoft-amazon-google/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Trump Opens Door to Hyperliquid as US Pulls Crypto Trade Onshore",
-      "summary": "President Donald Trump said US regulators are working to bring Hyperliquid, a fast-growing crypto platform, into the country, offering one of the clearest signals yet that the White House wants to pull a major piece of the industry\u2019s offshore market infrastructure onshore.",
-      "pub_date": "2026-08-19T20:20:54Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/trump-opens-door-hyperliquid-us-202054173.html"
     }
   ]
 }

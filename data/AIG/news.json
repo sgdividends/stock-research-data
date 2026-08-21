@@ -1,7 +1,14 @@
 {
   "ticker": "AIG",
-  "generated_at": "2026-08-21T04:32:09.228077+00:00",
+  "generated_at": "2026-08-21T08:32:31.474851+00:00",
   "items": [
+    {
+      "title": "The Fall and Redemption of Bill Miller, the Greatest Money Manager of Our Time",
+      "summary": "He was known as one of the world\u2019s best investors, until he got smacked down by the financial crisis. But almost 20 years later, his ideas and legacy resonate strongly.",
+      "pub_date": "2026-08-21T05:30:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/bill-miller-money-manager-e39614e6?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "What Does American International Group (AIG) Gain From Its Cloud Outage Cover?",
       "summary": "American International Group (NYSE:AIG) introduced a parametric cloud outage cyber insurance solution for US clients, developed with Parametrix. The product focuses on business interruption risks linked to outages at third party cloud and software service providers. Claims are based on predefined outage triggers and external monitoring data, which is intended to support a faster claims process. The offering is aimed at US based businesses that rely heavily on cloud infrastructure and...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-10T15:45:05Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/american-international-group-aig-could-154505597.html"
-    },
-    {
-      "title": "American International Group Q2 Earnings Call Highlights",
-      "summary": "American International Group (NYSE:AIG) reported second-quarter results that management said reflected higher underwriting income, growth in selected commercial and personal insurance businesses, and continued expense discipline, while competitive pricing pressure persisted in North American propert",
-      "pub_date": "2026-08-07T21:04:20Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/american-international-group-q2-earnings-210420343.html"
     }
   ]
 }
