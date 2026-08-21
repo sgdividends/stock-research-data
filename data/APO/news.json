@@ -1,7 +1,35 @@
 {
   "ticker": "APO",
-  "generated_at": "2026-08-21T12:34:06.861225+00:00",
+  "generated_at": "2026-08-21T16:25:02.551408+00:00",
   "items": [
+    {
+      "title": "Broadcom Eyes Up to $100 Billion AI Financing Deal",
+      "summary": "The debt package could help fund Anthropic and other AI customers.",
+      "pub_date": "2026-08-21T16:22:00Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-eyes-100-billion-ai-162200783.html"
+    },
+    {
+      "title": "Top Midday Stories: Broadcom Said to be in Talks to Raise Up to $100 Billion for Chip Financing Deal; Nvidia Reportedly Eyes Investment in Cloverleaf",
+      "summary": "All three major US stock indexes were up in late-morning trading Friday despite long-dated Treasury",
+      "pub_date": "2026-08-21T15:54:43Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-broadcom-said-155443229.html"
+    },
+    {
+      "title": "Apollo Global reveals data breach after hackers target financial firms",
+      "summary": "Asset manager Apollo Global Management suffered a data breach last month in which hackers stole some personal information, \u200caccording to a letter on Friday. The New York-based firm was \u200camong dozens of prominent U.S. financial institutions and other businesses that were recently targeted by \u200bransom-seeking hackers who use phone calls to compromise their victims, Reuters reported earlier this month. Apollo said its investigation found there was unauthorized access to certain cloud platforms between July 6 and July 10.",
+      "pub_date": "2026-08-21T14:05:33Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apollo-global-confirms-data-breach-140533359.html"
+    },
+    {
+      "title": "Private equity firm Apollo confirms data breach amid hacking wave targeting financial giants",
+      "summary": "The private equity giant confirms a breach, weeks after Google researchers said hackers were targeting financial companies.",
+      "pub_date": "2026-08-21T13:35:23Z",
+      "source": "TechCrunch",
+      "url": "https://finance.yahoo.com/technology/articles/private-equity-firm-apollo-confirms-133523429.html"
+    },
     {
       "title": "Gaming AI-Powered Employee Surveillance",
       "summary": "Asset-management firm Apollo Global Management is notifying an unspecified number of clients that their personal data was exposed in a hack of \u201ccertain cloud platforms.\u201d  Ratings agency Fitch warns water and healthcare providers that cyberattacks that amplify existing financial challenges can lead to ratings downgrades.  A crash cart for hospital cyberattacks: A team of cybersecurity and healthcare experts at the University of California, San Diego, has created a mobile tech system for hospitals to deploy when a hack takes down key applications and networks.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-08-20T14:11:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/does-kkrs-796b-aum-set-141100848.html"
-    },
-    {
-      "title": "David Sacks Says the Biggest Risk to the AI Buildout Isn\u2019t Demand, \u2018If You Had Dark GPUs, That\u2019d Be a Disaster for Everyone\u2019",
-      "summary": "David Sacks proposes an unusual take on the bear case that harkens back to the dotcom bubble.",
-      "pub_date": "2026-08-19T16:42:58Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/technology/ai/articles/david-sacks-says-biggest-risk-164258160.html"
-    },
-    {
-      "title": "Nvidia's attack plan: Dominate every single aspect of AI",
-      "summary": "Nvidia's goal is utter AI dominance.",
-      "pub_date": "2026-08-18T14:39:05Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/article/nvidias-attack-plan-dominate-every-single-aspect-of-ai-143905381.html"
-    },
-    {
-      "title": "Financials- On an 11-Week Win Streak, and Still Looking Solid",
-      "summary": "Energy led the S&P 500 Index (^SPX) sectors last week. But financials also rose 0.9%, extending their 11-week winning streak. We turned constructive on the group in April, observes Ed Yardeni, editor of Yardeni QuickTakes.",
-      "pub_date": "2026-08-18T05:01:00Z",
-      "source": "MoneyShow",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/financials-11-week-win-streak-050100378.html"
-    },
-    {
-      "title": "Broadcom's AI Financing Could Reach $370 Billion. But It's Not as Bad as It Sounds.",
-      "summary": "The number rattling the market is a modeled ceiling on future deals. The number the chipmaker has actually signed is much smaller \u2014 for now.",
-      "pub_date": "2026-08-17T20:37:01Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcoms-ai-financing-could-reach-203701624.html"
     }
   ]
 }

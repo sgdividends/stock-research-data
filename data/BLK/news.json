@@ -1,7 +1,14 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-08-21T12:34:10.941106+00:00",
+  "generated_at": "2026-08-21T16:25:06.287237+00:00",
   "items": [
+    {
+      "title": "Kestra Financial Taps BlackRock Veteran to Head Wealth Management",
+      "summary": "Kelly Apple will lead Kestra\u2019s wealth division as it looks to bolster the services it offers to financial advisors.",
+      "pub_date": "2026-08-21T15:10:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/advisor/articles/kestra-financial-hires-blackrock-veteran-to-head-wealth-management-e69eb8d1?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Ethereum ETF Pulls $221M as ETH Eyes Another Breakout",
       "summary": "Ethereum is back in the spotlight after U.S. spot Ethereum ETF pulled more than $220 million in fresh capital on August 20. The funds recorded more $219 million in net inflows, extending their winning streak to four consecutive trading days. BlackRock\u2019s ETHA once again dominated the session with about $173 ...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-20T20:51:03Z",
       "source": "Moby",
       "url": "https://finance.yahoo.com/markets/crypto/articles/sec-hands-crypto-projects-75-205103670.html"
-    },
-    {
-      "title": "Broadcom Seeks More Than $60 Billion in Latest AI Debt Deal",
-      "summary": "Broadcom Inc. is in talks with a group of lenders to raise more than $60 billion in debt for an AI chip financing deal that will benefit Anthropic PBC and other companies, according to people with knowledge of the matter.",
-      "pub_date": "2026-08-20T20:17:02Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-seeks-more-60-billion-201702584.html"
     }
   ]
 }

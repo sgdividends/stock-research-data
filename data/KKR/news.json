@@ -1,7 +1,21 @@
 {
   "ticker": "KKR",
-  "generated_at": "2026-08-21T12:34:44.533687+00:00",
+  "generated_at": "2026-08-21T16:25:37.038956+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Advance Pre-Bell Friday",
+      "summary": "Financial stocks were advancing pre-bell Friday, with the State Street Financial Select Sector SPDR",
+      "pub_date": "2026-08-21T13:19:49Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-advance-pre-131949582.html"
+    },
+    {
+      "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday as Bitcoin Moves Past $77,000",
+      "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.4% and the actively trad",
+      "pub_date": "2026-08-21T13:15:05Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/articles/exchange-traded-funds-equity-futures-131505482.html"
+    },
     {
       "title": "Sector Update: Financial Stocks Softer Late Afternoon",
       "summary": "Financial stocks declined in late Thursday afternoon trading, with the NYSE Financial Index shedding",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-19T17:46:10Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-softer-wednesday-174610020.html"
-    },
-    {
-      "title": "Ameriprise Gains 14.6% YTD: Should You Buy the Stock Now?",
-      "summary": "AMP climbs 14.6% YTD. Record AUM/AUA, rising earnings estimates and a discounted valuation support further upside.",
-      "pub_date": "2026-08-19T14:29:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ameriprise-gains-14-6-ytd-142900408.html"
-    },
-    {
-      "title": "Sector Update: Financial Stocks Mixed Tuesday",
-      "summary": "Financial stocks were mixed Tuesday with the NYSE Financial Index little changed, erasing earlier ga",
-      "pub_date": "2026-08-18T20:10:25Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-mixed-tuesday-201025983.html"
     }
   ]
 }

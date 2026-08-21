@@ -1,6 +1,6 @@
 {
   "ticker": "UBER",
-  "generated_at": "2026-08-21T12:35:15.694458+00:00",
+  "generated_at": "2026-08-21T16:26:04.086505+00:00",
   "items": [
     {
       "title": "Waymo is making its own AI chip for its robotaxi service",
@@ -10,8 +10,36 @@
       "url": "https://finance.yahoo.com/video/waymo-making-own-ai-chip-194318039.html"
     },
     {
+      "title": "Tesla Rallies 4% on Europe Semi Launch and Las Vegas Robotaxi Permits, Uber Ticks Up",
+      "summary": "Tesla is surging while two other companies that got the exact same regulatory approval barely moved, and a safety crisis in its most important overseas market is somehow not slowing the rally down.",
+      "pub_date": "2026-08-21T15:27:35Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-rallies-4-europe-semi-152735738.html"
+    },
+    {
+      "title": "Uber Draws Europe's Second-Largest Data Privacy Fine",
+      "summary": "Drivers suspected of inflating fares or accepting trips they wouldn't complete were suspended",
+      "pub_date": "2026-08-21T15:24:24Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/articles/uber-draws-europes-second-largest-152424008.html"
+    },
+    {
+      "title": "Uber Faces Nearly $1 Billion Fine Over Driver Suspensions",
+      "summary": "The penalty could become the second-largest ever under GDPR.",
+      "pub_date": "2026-08-21T15:20:56Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/uber-faces-nearly-1-billion-152056575.html"
+    },
+    {
+      "title": "Tesla, Waymo, Uber Granted Las Vegas Robotaxi Permits",
+      "summary": "Nevada regulators voted Thursday to approve Las Vegas robotaxi permits for Tesla, Uber and Google's Waymo. They'll join Amazon's Zoox.",
+      "pub_date": "2026-08-21T12:56:01Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/tesla-waymo-uber-robotaxi-las-vegas-self-driving-cars-tech-stocks/?src=A00220&yptr=yahoo"
+    },
+    {
       "title": "Exclusive-Dutch regulator fines Uber $966 million for automating driver suspensions, document shows",
-      "summary": "The Dutch Data Protection Authority (AP) has decided to fine Uber \u20ac825 million ($966 million) under European data protection rules \u200cfor deactivating driver accounts through automated systems without adequately informing them, \u200caccording to an August 17 decision reviewed by Reuters.  The penalty would be the second-largest ever issued \u200bunder Europe's General Data Protection Regulation, behind a \u20ac1.2 billion fine imposed on Meta by Ireland in 2023 for unlawfully transferring European Facebook users' data to the United States, which Meta is appealing.  Uber said it would also appeal.",
+      "summary": "The Dutch Data Protection Authority (AP) has decided to fine Uber \u20ac825 million ($966 million) under European data protection rules for deactivating driver accounts through automated systems without \u200cadequately informing them, according to an August 17 decision reviewed by Reuters.  The penalty would be the \u200csecond-largest ever issued under Europe's General Data Protection Regulation, behind a \u20ac1.2 billion fine imposed on Meta by Ireland in 2023 for unlawfully transferring \u200bEuropean Facebook users' data to the United States, which Meta is appealing.  Uber said it would also appeal.",
       "pub_date": "2026-08-21T12:03:23Z",
       "source": "Reuters",
       "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-dutch-regulator-fines-uber-120323411.html"
@@ -29,34 +57,6 @@
       "pub_date": "2026-08-21T07:03:00Z",
       "source": "Fortune",
       "url": "https://finance.yahoo.com/technology/articles/amazon-uber-doordash-walmart-taking-070300525.html"
-    },
-    {
-      "title": "Tesla, Uber, and Waymo all get the OK to operate thousands of robotaxis in Nevada",
-      "summary": "Together, these permits would allow up to 8,000 robotaxis to be deployed over the next 12 months.",
-      "pub_date": "2026-08-21T00:23:36Z",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/technology/articles/tesla-uber-waymo-ok-operate-002336015.html"
-    },
-    {
-      "title": "Uber Technologies (UBER) Could Be 33% Undervalued Following Its Robotaxi Push",
-      "summary": "Uber Technologies (UBER) has begun offering autonomous rides through its app in Zagreb, working with Verne and Pony.ai to bring a commercial robotaxi service into Uber\u2019s European mobility network. See our latest analysis for Uber Technologies. Uber Technologies\u2019 recent autonomous launches in Zagreb and Dubai, alongside new partnerships in Japan and U.S. drone delivery, arrive as the stock trades at US$78.04 with a 30 day share price return of 8.13% and a 5 year total shareholder return of...",
-      "pub_date": "2026-08-20T16:15:02Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/uber-technologies-uber-could-33-161502890.html"
-    },
-    {
-      "title": "Pre-Markets Down Despite Strong Claims, Philly Fed",
-      "summary": "Higher spot oil prices and a snap-back in bond yields have helped early markets drop.",
-      "pub_date": "2026-08-20T15:34:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/pre-markets-down-despite-strong-153400344.html"
-    },
-    {
-      "title": "Jim Cramer tells investors to consider buying tumbling market giant",
-      "summary": "The \u201cMad Money\u201d host remains bullish on a ride-hailing giant, calling it a strong long-term stock",
-      "pub_date": "2026-08-20T15:07:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-tells-investors-consider-150700691.html"
     }
   ]
 }

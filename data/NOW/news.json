@@ -1,7 +1,21 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-08-21T12:34:55.319470+00:00",
+  "generated_at": "2026-08-21T16:25:46.005035+00:00",
   "items": [
+    {
+      "title": "Salesforce Vs. ServiceNow: The Platform Play is On as AI Capital Pivots",
+      "summary": "Salesforce and ServiceNow both planted their flags on agentic AI this quarter, but their bets look almost nothing alike, and only one of those bets prices in the risk of being wrong.",
+      "pub_date": "2026-08-21T12:48:31Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-vs-servicenow-platform-play-124831305.html"
+    },
+    {
+      "title": "An Innovation Veteran on What\u2019s Next in Enterprise AI",
+      "summary": "ServiceNow\u2019s Dave Wright breaks down the reality of the \u201cSaaSpocalypse\u201d and why businesses need to pay attention to quantum computing.",
+      "pub_date": "2026-08-21T12:31:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/cio-journal/an-innovation-veteran-on-whats-next-in-enterprise-ai-1e20ead2?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Tech Mahindra, ServiceNow expand partnership to advance enterprise AI",
       "summary": "The companies aim to fast-track enterprise AI deployment with dedicated validation and industry-focused solutions.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-19T19:10:29Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-now-quietly-becoming-default-191029416.html"
-    },
-    {
-      "title": "Why ServiceNow Stock Rallied Today",
-      "summary": "The cloud-based digital workflow specialist got some love from a Wall Street analyst.",
-      "pub_date": "2026-08-19T18:18:07Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-servicenow-stock-rallied-today-181807840.html"
-    },
-    {
-      "title": "Software Stocks Are Bouncing Back From AI Fears. BofA Sees More Gains Ahead.",
-      "summary": "Investors have become all too familiar with the fact that the software sector is under pressure as Wall Street worries about the impacts of artificial intelligence.  As AI models become more advanced, fears that those models will eventually replace critical software functions escalate.  Shares of creative software firm  Adobe  for example, have dropped 23% this year while shares of enterprise software company  ServiceNow  have fallen 17%.",
-      "pub_date": "2026-08-19T18:15:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/software-stocks-workday-figma-gitlab-6db115f6?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

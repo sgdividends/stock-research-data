@@ -1,7 +1,14 @@
 {
   "ticker": "C",
-  "generated_at": "2026-08-21T12:34:12.334445+00:00",
+  "generated_at": "2026-08-21T16:25:07.604937+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Advance Pre-Bell Friday",
+      "summary": "Financial stocks were advancing pre-bell Friday, with the State Street Financial Select Sector SPDR",
+      "pub_date": "2026-08-21T13:19:49Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-advance-pre-131949582.html"
+    },
     {
       "title": "S&P 500 may pull back before midterms, but Citi says buy the dip",
       "summary": "Investing.com -- Citi maintained its overweight rating on equities in a note Friday, telling investors it would use any weakness ahead of the U.S. midterm elections to add exposure.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-20T13:00:00Z",
       "source": "Proactive",
       "url": "https://finance.yahoo.com/healthcare/articles/gsk-shares-kept-neutral-citi-130000242.html"
-    },
-    {
-      "title": "Alibaba Tops Chinese Tech Stocks This Quarter on AI Resurgence",
-      "summary": "Alibaba Group Holding Ltd. is reclaiming its place as one of investors\u2019 favorite Chinese technology stocks, on bets it can beat rivals in the combative artificial intelligence market.",
-      "pub_date": "2026-08-20T01:38:49Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-tops-chinese-tech-stocks-013849635.html"
     }
   ]
 }

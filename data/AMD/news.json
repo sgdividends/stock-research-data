@@ -1,6 +1,6 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-08-21T12:34:04.815685+00:00",
+  "generated_at": "2026-08-21T16:25:00.630208+00:00",
   "items": [
     {
       "title": "Waymo is making its own AI chip for its robotaxi service",
@@ -8,6 +8,41 @@
       "pub_date": "2026-08-20T19:43:18Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/waymo-making-own-ai-chip-194318039.html"
+    },
+    {
+      "title": "AMD vs. Nvidia: Is AMD Finally Closing the AI Gap?",
+      "summary": "AMD just posted its best quarter ever while Nvidia shipped its way toward a trillion-dollar runway, and now every hyperscaler has to decide whether a credible second source is worth betting on.",
+      "pub_date": "2026-08-21T15:30:53Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-vs-nvidia-amd-finally-153053497.html"
+    },
+    {
+      "title": "AMD Lost SpaceX to Nvidia. Is Its AI Challenge Already Falling Apart?",
+      "summary": "SpaceX just handed NVIDIA a high-profile win by locking in 20% of its next platform, leaving AMD without a flagship logo at the worst possible moment. The real question is whether this signals a crack in Lisa Su's ambitions or just the cost of competing in a market built on scarcity and politics.",
+      "pub_date": "2026-08-21T15:30:37Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-lost-spacex-nvidia-ai-153037579.html"
+    },
+    {
+      "title": "Can Cerebras' Latest CS-4 Help the Stock in Confronting NVDA & AMD?",
+      "summary": "CBRS CS-4 boosts inference speed and power efficiency as cloud demand surges, while NVIDIA and AMD intensify competition.",
+      "pub_date": "2026-08-21T15:15:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-latest-cs-4-help-151500339.html"
+    },
+    {
+      "title": "Should You Add NVIDIA Stock to Your Portfolio Ahead of Q2 Earnings?",
+      "summary": "NVDA heads toward its Q2 earnings release with revenues expected near $91 billion as AI, Data Center and Blackwell demand fuel growth prospects.",
+      "pub_date": "2026-08-21T14:14:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/add-nvidia-stock-portfolio-ahead-141400651.html"
+    },
+    {
+      "title": "Seagate vs. AMD: Which AI Infrastructure Stock Has the Edge?",
+      "summary": "STX's storage-focused AI strategy, HAMR roadmap and valuation give it an edge over AMD in the race to capitalize on AI infrastructure.",
+      "pub_date": "2026-08-21T13:55:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/seagate-vs-amd-ai-infrastructure-135500080.html"
     },
     {
       "title": "Something Big Could Happen To NVIDIA Stock on August 26",
@@ -22,41 +57,6 @@
       "pub_date": "2026-08-21T11:47:53Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-stock-become-bet-114753002.html"
-    },
-    {
-      "title": "Nvidia, AMD, and Intel: Wall Street Says to Buy 2 and Avoid 1. I Disagree.",
-      "summary": "Wall Street has some mixed opinions on these three stocks.",
-      "pub_date": "2026-08-21T02:20:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-amd-intel-wall-street-022000724.html"
-    },
-    {
-      "title": "Riot Platforms (RIOT) & CleanSpark (CLSK): Bitcoin Miners are Becoming AI Landlords. Riot Just Signed a $9 Billion Lease to Prove It",
-      "summary": "Riot Platforms, Inc. (NASDAQ:RIOT) struck a $9.1 billion, 20-year computing deal with Anthropic this week, leasing 191 megawatts of power at its Rockdale, Texas campus. The deal could grow to $16.1 billion if extended twice by five years each. Shares initially jumped more than 20% before giving back most of the gain. Why This Matters [\u2026]",
-      "pub_date": "2026-08-21T01:49:19Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/riot-platforms-riot-cleanspark-clsk-014919566.html"
-    },
-    {
-      "title": "History of TSMC & its stock: Company timeline, facts & milestones",
-      "summary": "Taiwan Semiconductor Manufacturing Co. is the world\u2019s largest chipmaker. Here\u2019s how it grew into the semiconductor behemoth it is today.",
-      "pub_date": "2026-08-20T22:04:41Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/history-tsmc-stock-company-timeline-220441294.html"
-    },
-    {
-      "title": "Coatue Management Opens New Position in AMD Stock. View This as a Renewed Bet on the AI Trade.",
-      "summary": "Coatue Management started a new AMD stock position worth $55.8 million in Q2, joining a wave of fresh AI bets from the hedge fund giant.",
-      "pub_date": "2026-08-20T21:47:33Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/technology/ai/articles/coatue-management-opens-position-amd-214733476.html"
-    },
-    {
-      "title": "Earn 17% On AMD Stock Now, For Capping Your Upside At 24%",
-      "summary": "For those holding Advanced Micro Devices, here is a way to get paid a real income now, money you keep no matter what, in exchange for capping your gains at a higher price.",
-      "pub_date": "2026-08-20T21:41:21Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/earn-17-amd-stock-now-214121302.html"
     }
   ]
 }

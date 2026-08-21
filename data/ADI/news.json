@@ -1,7 +1,21 @@
 {
   "ticker": "ADI",
-  "generated_at": "2026-08-21T12:34:01.119381+00:00",
+  "generated_at": "2026-08-21T16:24:57.753236+00:00",
   "items": [
+    {
+      "title": "ADP Stock Rises 13.4% in a Month: Here's What You Should Know",
+      "summary": "ADP's 13.4% monthly gain reflects stronger profitability, innovation initiatives, solid liquidity and a consistent commitment to shareholder returns.",
+      "pub_date": "2026-08-21T15:01:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/adp-stock-rises-13-4-150100996.html"
+    },
+    {
+      "title": "ADI vs. TXN: Which Analog Processing Chip Stock Has an Edge Right Now?",
+      "summary": "Analog Devices' strong industrial and automotive growth contrasts with Texas Instruments' broader momentum and improving utilization. Which stock has the edge?",
+      "pub_date": "2026-08-21T13:49:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/adi-vs-txn-analog-processing-134900312.html"
+    },
     {
       "title": "Texas Instruments Is a Worthy AI Picks-and-Shovels Play I Keep Buying",
       "summary": "Everyone chases GPU stocks while one analog chip maker quietly powers every AI server, EV drivetrain, and factory line on the planet, and its free cash flow just told a story worth paying attention to.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-20T16:49:48Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/technology/ai/articles/analog-devices-apos-upbeat-ai-164948617.html"
-    },
-    {
-      "title": "Analog Devices Q3 Earnings Call Highlights AI Power Growth Runway",
-      "summary": "ADI targets multiyear AI growth as data center power and optics surge, with Q4 guidance signaling momentum into fiscal 2027 and broader recovery.",
-      "pub_date": "2026-08-20T15:11:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/analog-devices-q3-earnings-call-151100664.html"
-    },
-    {
-      "title": "ADI Q3 Earnings Call Highlights AI Power & Margin Runway",
-      "summary": "Analog Devices sees AI infrastructure, grid-to-chip expansion and margin gains supporting a record Q4 outlook after stronger-than-expected Q3 results.",
-      "pub_date": "2026-08-20T14:00:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/adi-q3-earnings-call-highlights-140000106.html"
     }
   ]
 }
