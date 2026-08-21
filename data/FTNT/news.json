@@ -1,7 +1,14 @@
 {
   "ticker": "FTNT",
-  "generated_at": "2026-08-20T20:21:54.915373+00:00",
+  "generated_at": "2026-08-21T00:57:15.699367+00:00",
   "items": [
+    {
+      "title": "CrowdStrike Stock Is Down, But The Business Is Looking Up. What Gives?",
+      "summary": "The cybersecurity leader's shares have cooled off just as management is heating up its AI-driven growth story, creating a puzzle for investors.",
+      "pub_date": "2026-08-20T22:57:49Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-stock-down-business-looking-225749768.html"
+    },
     {
       "title": "The Options Market Gives Synopsys Room To Fall Two-Fifths Or Rise Two-Thirds",
       "summary": "The options market is charging less volatility than the stock has actually delivered over the past year, which makes the width of the priced band the part a holder should read.",
@@ -15,20 +22,6 @@
       "pub_date": "2026-08-20T16:45:02Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-growth-investors-love-164502044.html"
-    },
-    {
-      "title": "Tiger Global Added to Its Position in Intel in Q2",
-      "summary": "Tiger Global substantially increased its Intel stake during Q2, adding another institutional vote of confidence as Intel's AI, data center, and foundry businesses gain momentum.",
-      "pub_date": "2026-08-20T14:11:45Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tiger-global-added-position-intel-141145344.html"
-    },
-    {
-      "title": "Stocks Slip as Soaring Crude Prices Push Bond Yields Higher",
-      "summary": "The S&P 500 Index ($SPX ) (SPY ) is down by -0.20% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down by -0.63%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down by -0.24%. E-mini S&P futures (ESU26 ) are down -0.24%, and September E-mini...",
-      "pub_date": "2026-08-20T14:02:18Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-slip-soaring-crude-prices-140218904.html"
     },
     {
       "title": "How Wide A Year Are Cisco Holders Actually Signed Up For?",
@@ -57,6 +50,13 @@
       "pub_date": "2026-08-18T14:47:32Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/technology/cybersecurity-stocks-bank-america-hikes-price-targets/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Fortinet Expands AI Security With Virtue AI: Can Growth Accelerate?",
+      "summary": "FTNT's Virtue AI acquisition expands AI runtime and agent security, adding new capabilities as enterprise AI deployments move into production.",
+      "pub_date": "2026-08-18T14:12:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/fortinet-expands-ai-security-virtue-141200684.html"
     }
   ]
 }

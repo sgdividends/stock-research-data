@@ -1,7 +1,14 @@
 {
   "ticker": "SYK",
-  "generated_at": "2026-08-20T20:22:27.689783+00:00",
+  "generated_at": "2026-08-21T00:57:52.757235+00:00",
   "items": [
+    {
+      "title": "Stocks making big moves yesterday: Wendy's, Equifax, Jack Henry, PulteGroup, and Stryker",
+      "summary": "Check out the companies making headlines yesterday:",
+      "pub_date": "2026-08-20T20:19:15Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-201915525.html"
+    },
     {
       "title": "Should Investors Buy STERIS as Growth Meets Reasonable Valuation?",
       "summary": "STE enters fiscal 2027 with solid growth, recurring healthcare demand and better margins, but tariffs and investment needs temper the valuation case.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-17T19:12:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cnmd-jumps-16-month-investors-191200146.html"
-    },
-    {
-      "title": "Is CNMD a Buy Now as Low Valuation Meets Persistent Execution Risk?",
-      "summary": "CNMD's low valuation and improved earnings outlook strengthen its appeal, but cash-flow pressure and execution risks keep the buy case measured.",
-      "pub_date": "2026-08-17T19:07:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cnmd-buy-now-low-valuation-190700385.html"
     }
   ]
 }

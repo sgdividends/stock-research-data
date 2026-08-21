@@ -1,7 +1,14 @@
 {
   "ticker": "FDX",
-  "generated_at": "2026-08-20T20:21:52.948152+00:00",
+  "generated_at": "2026-08-21T00:57:13.315984+00:00",
   "items": [
+    {
+      "title": "Are Wall Street Analysts Bullish on FedEx Stock?",
+      "summary": "Despite FedEx\u2019s outperformance relative to the broader market over the past year, Wall Street analysts maintain a cautiously optimistic outlook on the stock\u2019s prospects.",
+      "pub_date": "2026-08-20T18:23:57Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-fedex-182357604.html"
+    },
     {
       "title": "Amazon to Bring Drone Delivery to 500 Cities, AI Be Damned",
       "summary": "Amazon is expanding Prime Air drone delivery to nearly 500 U.S. cities and towns as the retailer battles Walmart and FedEx over ever-faster shipping.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-15T19:08:04Z",
       "source": "Fortune",
       "url": "https://finance.yahoo.com/economy/articles/tariff-refunds-juicing-corporate-profits-190804315.html"
-    },
-    {
-      "title": "FedEx closes more U.S. locations as it changes how packages move",
-      "summary": "For decades, FedEx built out one of the country's largest delivery networks as Americans sent and ordered more packages. Now the delivery giant is rebuilding parts of that network from the inside out. Facilities that once operated separately are being combined, routes have been redesigned, and some ...",
-      "pub_date": "2026-08-15T16:03:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/small-business/articles/fedex-closes-more-u-locations-160300304.html"
     }
   ]
 }
