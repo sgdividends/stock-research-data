@@ -1,6 +1,6 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-08-22T04:26:45.166708+00:00",
+  "generated_at": "2026-08-22T08:21:33.042354+00:00",
   "items": [
     {
       "title": "Should investors be cautious or bullish on bitcoin's latest surge?",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-21T16:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/investors-cautious-bullish-bitcoins-latest-160000000.html"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Sees Crypto Bull Market Starting Soon",
+      "summary": "Coinbase CEO Brian Armstrong says crypto nears its next bull market as Bitcoin rallies and sentiment flips to greed.",
+      "pub_date": "2026-08-22T04:10:36Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-brian-armstrong-sees-041036176.html"
     },
     {
       "title": "Trump Says US is the 'Hottest Country' and CLARITY Act Will Keep it Ahead Of China \u2014 Bitcoin Purchase 'Been Talked About'",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T20:40:11Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Weekly Wrap: Bitcoin Breaks Out",
-      "summary": "Bitcoin (CRYPTO: $BTC) was on track to end the week up more than 20% following its biggest rally since 2023. The la...",
-      "pub_date": "2026-08-21T20:34:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-breaks-203400573.html"
     }
   ]
 }

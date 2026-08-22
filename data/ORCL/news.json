@@ -1,7 +1,14 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-08-22T04:27:16.229272+00:00",
+  "generated_at": "2026-08-22T08:22:02.397961+00:00",
   "items": [
+    {
+      "title": "The AI Spending Boom Is Outrunning Wall Street Estimates",
+      "summary": "Big Tech is shoveling billions of dollars into the AI buildout, leaving investors spooked and analysts behind. Can they catch up?",
+      "pub_date": "2026-08-22T05:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/ai-spending-capex-vertiv-western-digital-coreweave-arista-8c3cf5b3?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Oracle (ORCL) Starts PR Push For Project Jupiter AI Data Center",
       "summary": "Oracle (NYSE:ORCL) has launched a major public relations campaign to defend its massive Project Jupiter AI data center amid growing local opposition. Community groups and policymakers in several large US states are pushing moratoriums and stricter permitting rules on new data centers that support AI workloads. The pushback raises questions about timing, cost, and scale for Oracle's AI infrastructure buildout and similar projects across the tech sector. Oracle's response follows wider...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T18:30:28Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-gets-cheaper-only-183028917.html"
-    },
-    {
-      "title": "Michael Burry Says the AI Buildout Is Repeating 2008: \u2018The Shenanigans Are Apparent Today\u2019",
-      "summary": "The investor who called 2008 before anyone else is now naming specific AI infrastructure companies and the hidden financial mechanisms he says are quietly building the next crisis. His latest warning may be easy to dismiss, but his receipts are hard to ignore.",
-      "pub_date": "2026-08-21T18:10:47Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-ai-buildout-181047777.html"
     }
   ]
 }

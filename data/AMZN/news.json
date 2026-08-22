@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "generated_at": "2026-08-22T04:26:35.657672+00:00",
+  "generated_at": "2026-08-22T08:21:24.019914+00:00",
   "items": [
     {
       "title": "Nvidia earnings are on deck next week. These 3 themes will be mission-critical.",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-21T20:02:51Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/nvidia-earnings-deck-next-week-200251512.html"
+    },
+    {
+      "title": "UPS Fired Amazon. Was It The Smart Move?",
+      "summary": "The reduction in delivery volumes from its largest customer makes sense, but the market wants to see ongoing margin expansion before it gives it the thumbs up.",
+      "pub_date": "2026-08-22T06:55:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ups-fired-amazon-smart-move-065500897.html"
     },
     {
       "title": "Exclusive: Amazon quietly hiked prices on Echo, Fire TV, Kindle, and eero overnight to offset \u2018significant increases\u2019 in memory costs",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T20:38:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/q3-earnings-preview-high-expectations-203800936.html"
-    },
-    {
-      "title": "DeepSeek Creates New Headache for AI Stocks",
-      "summary": "Lower-cost AI models could reshape industry economics fast",
-      "pub_date": "2026-08-21T20:17:11Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/deepseek-creates-headache-ai-stocks-201711619.html"
     }
   ]
 }

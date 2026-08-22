@@ -1,6 +1,6 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-08-22T04:26:37.456390+00:00",
+  "generated_at": "2026-08-22T08:21:25.801669+00:00",
   "items": [
     {
       "title": "Marvell vs. Broadcom: the custom silicon shift",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-22T00:37:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/technology/ai/articles/marvell-vs-broadcom-custom-silicon-003700947.html"
+    },
+    {
+      "title": "Microsoft vs. Broadcom: One Has 85% Upside, But I'm Picking the Other",
+      "summary": "Wall Street sees 85% upside in Broadcom versus 45% for Microsoft. But bigger upside doesn't always mean the better buy. Here's why I'm sticking with Microsoft as the smarter AI stock for 2026.",
+      "pub_date": "2026-08-21T23:00:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-vs-broadcom-one-85-230002678.html"
     },
     {
       "title": "Why Broadcom Stock Inched Higher on Friday",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T19:39:30Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-rises-ahead-nvidias-critical-193930535.html"
-    },
-    {
-      "title": "Broadcom\u2019s Secret Weapon Against Nvidia Isn\u2019t Chips \u2014 It\u2019s a Massive Off-Balance-Sheet Financing Machine",
-      "summary": "Broadcom is building a massive AI financing machine that could unlock chip demand, accelerate revenue, and strengthen its edge in custom silicon\u2014though credit risks remain.",
-      "pub_date": "2026-08-21T19:13:18Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-secret-weapon-against-nvidia-191318992.html"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "GOOG",
-  "generated_at": "2026-08-22T04:26:58.290978+00:00",
+  "generated_at": "2026-08-22T08:21:45.767316+00:00",
   "items": [
     {
       "title": "Nvidia earnings are on deck next week. These 3 themes will be mission-critical.",
@@ -15,6 +15,13 @@
       "pub_date": "2026-08-21T19:51:10Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/anthropics-ipo-could-come-sooner-195110660.html"
+    },
+    {
+      "title": "The AI Spending Boom Is Outrunning Wall Street Estimates",
+      "summary": "Big Tech is shoveling billions of dollars into the AI buildout, leaving investors spooked and analysts behind. Can they catch up?",
+      "pub_date": "2026-08-22T05:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/ai-spending-capex-vertiv-western-digital-coreweave-arista-8c3cf5b3?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Google Is Getting Paid in Marvell Stock Warrants for Buying Marvell's Chips",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T22:12:37Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-down-6-2-221237826.html"
-    },
-    {
-      "title": "Warren Buffett Successor Greg Abel Cut Berkshire's Bank of America Stake by $1.7 Billion. He Added $1.6 Billion of Delta Air Lines.",
-      "summary": "The conglomerate's new CEO spent the second quarter selling the bank Buffett had been selling for two years -- and buying the airline Buffett sold out of in 2020.",
-      "pub_date": "2026-08-21T21:53:01Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-successor-greg-abel-215301919.html"
     }
   ]
 }

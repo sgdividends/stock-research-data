@@ -1,6 +1,6 @@
 {
   "ticker": "GOOGL",
-  "generated_at": "2026-08-22T04:26:58.456738+00:00",
+  "generated_at": "2026-08-22T08:21:45.871200+00:00",
   "items": [
     {
       "title": "Nvidia earnings are on deck next week. These 3 themes will be mission-critical.",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-21T20:02:51Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/nvidia-earnings-deck-next-week-200251512.html"
+    },
+    {
+      "title": "The AI Spending Boom Is Outrunning Wall Street Estimates",
+      "summary": "Big Tech is shoveling billions of dollars into the AI buildout, leaving investors spooked and analysts behind. Can they catch up?",
+      "pub_date": "2026-08-22T05:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/ai-spending-capex-vertiv-western-digital-coreweave-arista-8c3cf5b3?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Google Is Getting Paid in Marvell Stock Warrants for Buying Marvell's Chips",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T21:53:01Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-successor-greg-abel-215301919.html"
-    },
-    {
-      "title": "Why Is Tesla Stock Up Today?",
-      "summary": "Tesla caught two breaks: Nevada regulators cleared it to put as many as 5,000 driverless robotaxis on Las Vegas streets, and its electric semi truck is headed to Germany.",
-      "pub_date": "2026-08-21T21:46:33Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-stock-today-214633416.html"
     }
   ]
 }

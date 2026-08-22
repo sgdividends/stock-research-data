@@ -1,6 +1,6 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-08-22T04:26:39.873621+00:00",
+  "generated_at": "2026-08-22T08:21:28.017447+00:00",
   "items": [
     {
       "title": "Nvidia earnings are on deck next week. These 3 themes will be mission-critical.",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-21T20:02:51Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/nvidia-earnings-deck-next-week-200251512.html"
+    },
+    {
+      "title": "Stocks making big moves this week: Bally's, Adobe, Novavax, Semtech, and STAAR Surgical",
+      "summary": "Check out the companies making headlines this week:",
+      "pub_date": "2026-08-22T07:53:39Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-week-075339221.html"
     },
     {
       "title": "Everyone\u2019s Arguing About Taxing the Rich. Almost Nobody Noticed the $1 Trillion Already Slipping Past the IRS",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T15:30:12Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-sei-seic-11-2-153012813.html"
-    },
-    {
-      "title": "Kestra Financial Taps BlackRock Veteran to Head Wealth Management",
-      "summary": "Kelly Apple will lead Kestra\u2019s wealth division as it looks to bolster the services it offers to financial advisors.",
-      "pub_date": "2026-08-21T15:10:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/advisor/articles/kestra-financial-hires-blackrock-veteran-to-head-wealth-management-e69eb8d1?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

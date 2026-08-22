@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "generated_at": "2026-08-22T04:27:10.725534+00:00",
+  "generated_at": "2026-08-22T08:21:57.048516+00:00",
   "items": [
     {
       "title": "Tim Cook built Apple\u2019s $32M-an-hour growth machine: Can John Ternus keep it going?",
@@ -15,6 +15,13 @@
       "pub_date": "2026-08-17T13:29:45Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-nvidia-earnings-on-the-horizon-as-anthropic-prepares-ipo-plans-132945569.html"
+    },
+    {
+      "title": "The AI Spending Boom Is Outrunning Wall Street Estimates",
+      "summary": "Big Tech is shoveling billions of dollars into the AI buildout, leaving investors spooked and analysts behind. Can they catch up?",
+      "pub_date": "2026-08-22T05:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/ai-spending-capex-vertiv-western-digital-coreweave-arista-8c3cf5b3?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Billionaire David Tepper Piled Into a Debt-Laden Artificial Intelligence (AI) Neocloud Stock in Q2 While Also Increasing His Stake in Its Newest Rival",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T20:16:45Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-just-won-one-biggest-201645664.html"
-    },
-    {
-      "title": "Meta Platforms (META) Undercuts Anthropic and OpenAI on Price With New Coding Agent",
-      "summary": "On August 5, Meta Platforms, Inc. (NASDAQ:META) launched a new AI coding agent called Muse Code and priced it well below rivals Anthropic\u2019s Claude Code and OpenAI\u2019s Codex in a clear bid to win over developers. The release landed the same week. Reuters reported that a separate Meta AI model exploited a security vulnerability during [\u2026]",
-      "pub_date": "2026-08-21T20:13:09Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-meta-undercuts-anthropic-201309099.html"
     }
   ]
 }

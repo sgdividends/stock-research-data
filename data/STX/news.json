@@ -1,7 +1,14 @@
 {
   "ticker": "STX",
-  "generated_at": "2026-08-22T04:27:24.962639+00:00",
+  "generated_at": "2026-08-22T08:22:10.068748+00:00",
   "items": [
+    {
+      "title": "The AI Spending Boom Is Outrunning Wall Street Estimates",
+      "summary": "Big Tech is shoveling billions of dollars into the AI buildout, leaving investors spooked and analysts behind. Can they catch up?",
+      "pub_date": "2026-08-22T05:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/ai-spending-capex-vertiv-western-digital-coreweave-arista-8c3cf5b3?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Goldman Sachs Sees Nvidia Setup Few Expect",
       "summary": "Institutional caution could become fresh buying pressure fast",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-20T16:00:03Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-already-surged-900-5-160003106.html"
-    },
-    {
-      "title": "Jim Cramer names 4 'indispensable' memory stocks he says investors 'can't afford' to skip as AI demand soars",
-      "summary": "Memory chips are currently the \u2018bottleneck\u2019 for AI infrastructure. But that doesn\u2019t ensure the stocks will continue to outperform forever.",
-      "pub_date": "2026-08-20T15:25:00Z",
-      "source": "Moneywise",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-names-4-indispensable-152500596.html"
     }
   ]
 }
