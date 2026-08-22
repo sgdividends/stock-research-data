@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "generated_at": "2026-08-22T00:53:33.159881+00:00",
+  "generated_at": "2026-08-22T04:26:35.657672+00:00",
   "items": [
     {
       "title": "Nvidia earnings are on deck next week. These 3 themes will be mission-critical.",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-21T20:02:51Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/nvidia-earnings-deck-next-week-200251512.html"
+    },
+    {
+      "title": "Exclusive: Amazon quietly hiked prices on Echo, Fire TV, Kindle, and eero overnight to offset \u2018significant increases\u2019 in memory costs",
+      "summary": "The e-commerce company's hardware price hikes follow similar moves by Apple, Dell, and Microsoft Xbox.",
+      "pub_date": "2026-08-21T23:50:35Z",
+      "source": "Fortune",
+      "url": "https://finance.yahoo.com/technology/articles/exclusive-amazon-quietly-hiked-prices-235035811.html"
     },
     {
       "title": "Morgan Stanley resets Nvidia stock forecast ahead of earnings",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T20:17:11Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/deepseek-creates-headache-ai-stocks-201711619.html"
-    },
-    {
-      "title": "Elon Musk: \u201cStarlink Now Has 11k Satellites in Orbit.\u201d Amazon Hasn\u2019t Even Cracked 1,000.",
-      "summary": "Elon Musk just announced Starlink crossed 11,000 satellites in orbit, but the real story is where Amazon's much-hyped Kuiper constellation actually ranks against the competition and what that gap means for investors betting on the LEO broadband race.",
-      "pub_date": "2026-08-21T19:30:12Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/articles/elon-musk-starlink-now-11k-193012946.html"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "APO",
-  "generated_at": "2026-08-22T00:53:33.973686+00:00",
+  "generated_at": "2026-08-22T04:26:36.589156+00:00",
   "items": [
     {
       "title": "Sector Update: Financial Stocks Climb Late Afternoon",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-21T19:57:55Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-climb-afternoon-195755759.html"
+    },
+    {
+      "title": "Broadcom\u2019s Secret Weapon Against Nvidia Isn\u2019t Chips \u2014 It\u2019s a Massive Off-Balance-Sheet Financing Machine",
+      "summary": "Broadcom is building a massive AI financing machine that could unlock chip demand, accelerate revenue, and strengthen its edge in custom silicon\u2014though credit risks remain.",
+      "pub_date": "2026-08-21T19:13:18Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-secret-weapon-against-nvidia-191318992.html"
     },
     {
       "title": "Sector Update: Financial Stocks Rise in Afternoon Trading",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T13:35:23Z",
       "source": "TechCrunch",
       "url": "https://finance.yahoo.com/technology/articles/private-equity-firm-apollo-confirms-133523429.html"
-    },
-    {
-      "title": "Gaming AI-Powered Employee Surveillance",
-      "summary": "Asset-management firm Apollo Global Management is notifying an unspecified number of clients that their personal data was exposed in a hack of \u201ccertain cloud platforms.\u201d  Ratings agency Fitch warns water and healthcare providers that cyberattacks that amplify existing financial challenges can lead to ratings downgrades.  A crash cart for hospital cyberattacks: A team of cybersecurity and healthcare experts at the University of California, San Diego, has created a mobile tech system for hospitals to deploy when a hack takes down key applications and networks.",
-      "pub_date": "2026-08-21T11:33:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/pro/cybersecurity/gaming-ai-powered-employee-surveillance-fe56af61?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

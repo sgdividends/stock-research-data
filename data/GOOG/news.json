@@ -1,6 +1,6 @@
 {
   "ticker": "GOOG",
-  "generated_at": "2026-08-22T00:53:56.710463+00:00",
+  "generated_at": "2026-08-22T04:26:58.290978+00:00",
   "items": [
     {
       "title": "Nvidia earnings are on deck next week. These 3 themes will be mission-critical.",
@@ -15,6 +15,20 @@
       "pub_date": "2026-08-21T19:51:10Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/anthropics-ipo-could-come-sooner-195110660.html"
+    },
+    {
+      "title": "Google Is Getting Paid in Marvell Stock Warrants for Buying Marvell's Chips",
+      "summary": "The search giant lined up another custom silicon partner this summer. It also negotiated something a purchase order never includes: the right to buy its supplier's stock at a fixed price.",
+      "pub_date": "2026-08-22T03:47:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/google-getting-paid-marvell-stock-034701817.html"
+    },
+    {
+      "title": "Berkshire Hathaway (BRK.A) Stock Still Looks Cheap Relative To Fair Value",
+      "summary": "Berkshire Hathaway stock has produced a 72.5% total return over the past 5 years, yet current valuation checks suggest the shares may still trade below a conservative estimate of intrinsic value based on the Excess Returns model and earnings multiples. A 72.5% return over 5 years points to solid wealth creation for long term holders, even though shorter term moves have been relatively muted. Fresh capital deployment into holdings such as Alphabet, Delta Air Lines and housing related...",
+      "pub_date": "2026-08-22T02:11:08Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-stock-still-021108039.html"
     },
     {
       "title": "Marvell vs. Broadcom: the custom silicon shift",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-21T21:53:01Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-successor-greg-abel-215301919.html"
-    },
-    {
-      "title": "Why Is Tesla Stock Up Today?",
-      "summary": "Tesla caught two breaks: Nevada regulators cleared it to put as many as 5,000 driverless robotaxis on Las Vegas streets, and its electric semi truck is headed to Germany.",
-      "pub_date": "2026-08-21T21:46:33Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-stock-today-214633416.html"
-    },
-    {
-      "title": "Anthropic hires ex-Google chip chief as AI lab pushes into hardware - Bloomberg",
-      "summary": "Investing.com -- Anthropic (NASDAQ:ANTP) has hired former Google executive Amir Salek to join its compute team as the artificial intelligence lab lays the groundwork for an in-house semiconductor initiative, according to a report from Bloomberg. Salek, who previously led Alphabet Inc.\u2019s custom silicon efforts and delivered seven generations of Tensor Processing Units, will report directly to Anthropic compute lead James Bradbury. The executive recruitment underscores Anthropic\u2019s ambition to secu",
-      "pub_date": "2026-08-21T21:15:28Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-hires-ex-google-chip-211528852.html"
     }
   ]
 }

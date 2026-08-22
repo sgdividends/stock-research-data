@@ -1,6 +1,6 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-08-22T00:53:32.519228+00:00",
+  "generated_at": "2026-08-22T04:26:34.977048+00:00",
   "items": [
     {
       "title": "The Best Semiconductor Stock to Buy Isn't AMD or Qualcomm: It's Nvidia, and Our Data Proves It",
@@ -22,6 +22,13 @@
       "pub_date": "2026-08-21T20:38:55Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/116-billion-nvda-quietly-paid-203855032.html"
+    },
+    {
+      "title": "Whale Rock Just Dumped Most of Its Nvidia Stake",
+      "summary": "Whale Rock slashed its Nvidia position in Q2, but Nvidia\u2019s accelerating AI revenue and Wall Street targets suggest the hedge fund\u2019s move may be more about portfolio rotation than weakening fundamentals.",
+      "pub_date": "2026-08-21T20:18:54Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/whale-rock-just-dumped-most-201854875.html"
     },
     {
       "title": "Goldman Sachs Sees Nvidia Setup Few Expect",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T19:48:27Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-posts-194827905.html"
-    },
-    {
-      "title": "TSMC Rises Ahead of Nvidia's Critical AI Demand Test",
-      "summary": "The world's largest foundry is rebounding as investors prepare for the earnings report that could reset semiconductor expectations.",
-      "pub_date": "2026-08-21T19:39:30Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-rises-ahead-nvidias-critical-193930535.html"
     }
   ]
 }
