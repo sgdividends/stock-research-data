@@ -1,7 +1,14 @@
 {
   "ticker": "HON",
-  "generated_at": "2026-08-22T08:21:47.561483+00:00",
+  "generated_at": "2026-08-22T12:26:23.948804+00:00",
   "items": [
+    {
+      "title": "The veteran Fortune 500 CEO who turned an 80-year-old AC company into an AI darling",
+      "summary": "First Dave Cote transformed Honeywell. Then out of retirement he placed a stunning bet on a little known company called Vertiv.",
+      "pub_date": "2026-08-22T08:00:00Z",
+      "source": "Fortune",
+      "url": "https://finance.yahoo.com/technology/ai/articles/veteran-fortune-500-ceo-turned-080000432.html"
+    },
     {
       "title": "GE Aerospace Stock Is Priced For A Margin Repair That Has Not Happened Yet",
       "summary": "The engines it is shipping to build tomorrow's service revenue are costing margin today, and the shares carry almost no cushion if that bill runs long.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-15T21:36:04Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-revealed-went-wrong-213604620.html"
-    },
-    {
-      "title": "The Bull Case For Honeywell (HON) Could Change Following Its AI-Focused Automation And Software Pivot - Learn Why",
-      "summary": "Earlier this week, Honeywell International reported strong order momentum across multiple regions and laid out multi-year financial targets centered on revenue growth, margin expansion, and free-cash-flow conversion above 90%. An interesting angle is Honeywell\u2019s push into software, AI, and automation to capture opportunities in data centers, LNG projects, and industrial automation, signaling a sharper focus on higher-growth, tech-enabled industrial markets. Now we\u2019ll examine how Honeywell\u2019s...",
-      "pub_date": "2026-08-15T01:12:05Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/bull-case-honeywell-hon-could-011205548.html"
     }
   ]
 }

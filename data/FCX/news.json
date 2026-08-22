@@ -1,6 +1,6 @@
 {
   "ticker": "FCX",
-  "generated_at": "2026-08-22T08:21:42.359567+00:00",
+  "generated_at": "2026-08-22T12:26:18.149328+00:00",
   "items": [
     {
       "title": "Stocks trade higher, lifted by crypto, commodities: AlphaCheck",
@@ -12,9 +12,16 @@
     {
       "title": "Dow Jones Futures: Market Rally Repairs Some Damage; Nvidia Earnings Loom",
       "summary": "The market rally suffered damage last week, though bitcoin and gold shined. Nvidia and CrowdStrike earnings are critical while Fed's Warsh will make a big speech.",
-      "pub_date": "2026-08-22T02:36:16Z",
+      "pub_date": "2026-08-22T12:08:44Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Palantir, Freeport Clear Buy Points, Lead Five Stocks To Watch",
+      "summary": "Freeport-McMoRan and Palantir scored breakouts Friday, leading five stocks near buy points from a variety of sectors.",
+      "pub_date": "2026-08-22T12:00:19Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/palantir-stock-freeport-mcmoran-stocks-near-buy-points/?src=A00220&yptr=yahoo"
     },
     {
       "title": "This Mining Stock Is Quietly One of the Best Trades in Energy",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T14:42:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/southern-copper-positioned-further-upside-144200617.html"
-    },
-    {
-      "title": "Why the Copper Squeeze May Reward This Mining Stock More Than Nvidia",
-      "summary": "Copper stocks are outrunning the metal as an AI-driven squeeze bites, and one miner leads the pack heading into the next leg.",
-      "pub_date": "2026-08-17T10:29:49Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/why-copper-squeeze-may-reward-102949519.html"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "GOOG",
-  "generated_at": "2026-08-22T08:21:45.767316+00:00",
+  "generated_at": "2026-08-22T12:26:22.115443+00:00",
   "items": [
     {
       "title": "Nvidia earnings are on deck next week. These 3 themes will be mission-critical.",
@@ -15,6 +15,20 @@
       "pub_date": "2026-08-21T19:51:10Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/anthropics-ipo-could-come-sooner-195110660.html"
+    },
+    {
+      "title": "3 AI Stocks Built for the Next Decade",
+      "summary": "The AI capital cycle already has clear winners, and three US-listed companies have locked in structural advantages most investors are still underestimating. Here is what the revenue data actually reveals about who holds the durable position.",
+      "pub_date": "2026-08-22T11:00:30Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-built-next-110030876.html"
+    },
+    {
+      "title": "Alphabet and Amazon Are Investing $420 Billion in Artificial Intelligence (AI) Infrastructure: 4 Hardware Stocks Set to Profit",
+      "summary": "The AI hyperscalers are spending a ton of money on computing power.",
+      "pub_date": "2026-08-22T10:35:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-amazon-investing-420-billion-103500198.html"
     },
     {
       "title": "The AI Spending Boom Is Outrunning Wall Street Estimates",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-22T00:37:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/technology/ai/articles/marvell-vs-broadcom-custom-silicon-003700947.html"
-    },
-    {
-      "title": "Morgan Stanley resets Nvidia stock forecast ahead of earnings",
-      "summary": "Here\u2019s what could be next for Nvidia stock.",
-      "pub_date": "2026-08-21T22:17:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-resets-nvidia-stock-221700655.html"
-    },
-    {
-      "title": "Broadcom (AVGO) Is Down 6.2% After Google Expands AI Chip Ties With Marvell - What's Changed",
-      "summary": "Recently, Broadcom\u2019s role as a core custom AI chip supplier came under scrutiny after Google expanded its long-term partnership with Marvell Technology to co-develop additional accelerators and controllers for its AI hardware ecosystem. At the same time, Broadcom is exploring a very large debt-financing package, reportedly up to US$100.00 billion, to back AI chip deals for Anthropic and others, underscoring both its centrality to AI infrastructure build-outs and the financial and competitive...",
-      "pub_date": "2026-08-21T22:12:37Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-down-6-2-221237826.html"
     }
   ]
 }
