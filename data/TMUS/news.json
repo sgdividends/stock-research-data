@@ -1,7 +1,14 @@
 {
   "ticker": "TMUS",
-  "generated_at": "2026-08-22T16:17:50.939636+00:00",
+  "generated_at": "2026-08-22T20:16:26.685670+00:00",
   "items": [
+    {
+      "title": "Comcast adds new service to internet plans as customers leave",
+      "summary": "Comcast is taking a new approach as it works to retain customers amid elevated competition.",
+      "pub_date": "2026-08-22T17:17:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/articles/comcast-adds-internet-plans-customers-171700269.html"
+    },
     {
       "title": "Bernstein remains bullish on SpaceX but sees challenges in telecom ambitions",
       "summary": "The analysis carries clear implications for U.S. incumbent carriers AT&T (NYSE: T), Verizon (NYSE: VZ), and T-Mobile (NASDAQ: TMUS), all of which face the prospect of a SpaceX-led mobile entrant and currently invest double-digit billions of dollars annually to maintain nationwide LTE and 5G coverage.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-20T21:15:28Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/peer-group-mispricing-sitting-t-211528300.html"
-    },
-    {
-      "title": "AST SpaceMobile\u2019s FCC Test Arrives as Investors Weigh a Costly Q2 Miss",
-      "summary": "AST SpaceMobile received a 30-day FCC authorization to test 800 MHz satellite connectivity, following a Q2 earnings miss and mixed analyst sentiment on the stock.",
-      "pub_date": "2026-08-20T15:40:00Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-fcc-test-arrives-154000112.html"
     }
   ]
 }

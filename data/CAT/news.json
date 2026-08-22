@@ -1,7 +1,14 @@
 {
   "ticker": "CAT",
-  "generated_at": "2026-08-22T16:16:47.202446+00:00",
+  "generated_at": "2026-08-22T20:15:26.810333+00:00",
   "items": [
+    {
+      "title": "Bill Gates makes $180 million bet on backbone of America's economy",
+      "summary": "The Gates Foundation Trust opened a new position in the newly public company weeks after it began trading as a standalone business.",
+      "pub_date": "2026-08-22T18:33:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/economy/articles/bill-gates-makes-180-million-183300203.html"
+    },
     {
       "title": "What Separates DE Stock From Its Peers Right Now",
       "summary": "The iconic green tractor company is priced like the best operator in its field, but its results are still trying to catch up to the market's high expectations.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-20T18:55:19Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/heavy-machinery-stock-dominated-2026-185519523.html"
-    },
-    {
-      "title": "Caterpillar Stock Is Priced To Swing Hundreds Of Dollars Either Way",
-      "summary": "The width comes from how much this stock already moves, not from an unusual premium on its options.",
-      "pub_date": "2026-08-20T13:42:13Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/caterpillar-stock-priced-swing-hundreds-134213548.html"
     }
   ]
 }

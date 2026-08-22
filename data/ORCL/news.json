@@ -1,7 +1,21 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-08-22T16:17:35.377156+00:00",
+  "generated_at": "2026-08-22T20:16:13.386503+00:00",
   "items": [
+    {
+      "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
+      "summary": "Some of Nvidia's largest customers have been told prices of servers \u200ccontaining its AI chips will rise by \u200cmore than 15% in many cases with memory chip \u200bcosts soaring, Bloomberg News reported on Saturday.  The price hikes will go into effect on systems shipped early next year and will impact systems including \u200cthose with the \u2060flagship Vera Rubin and Grace Blackwell chips, the report added, citing people familiar \u2060with the process.  The increases will depend on Nvidia's chip generation and memory configurations, they \u200bsaid.",
+      "pub_date": "2026-08-22T19:20:53Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-customers-notified-ai-related-192053530.html"
+    },
+    {
+      "title": "Rillet Raised $100M to Put AI Agents Inside the General Ledger \u2013 Not Around It",
+      "summary": "Rillet, a San Francisco-based startup founded in 2024, has reached a $1 billion valuation in roughly two years, securing $100 million in a Series C round that came together in less than 48 hours. This latest funding, which brings the company\u2019s total raised to over $200 million across three rounds in just 14 months, highlights [\u2026]",
+      "pub_date": "2026-08-22T18:46:46Z",
+      "source": "Forkast News",
+      "url": "https://finance.yahoo.com/technology/ai/articles/rillet-raised-100m-put-ai-184646510.html"
+    },
     {
       "title": "Alphabet, Meta, and Microsoft Are Hiding $3 Trillion in Debt On the AI Boom\u2019s Hidden Ledger",
       "summary": "Every major AI bull run has a number investors quietly agree to ignore, and the one hiding behind Microsoft, Alphabet, Meta, and their peers right now makes the reported balance sheets look like a rough draft.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-21T22:10:01Z",
       "source": "TechCrunch",
       "url": "https://finance.yahoo.com/technology/ai/articles/ai-accounting-startup-rillet-raised-221001796.html"
-    },
-    {
-      "title": "Get Paid 16% A Year To Hold INTU Stock You Already Own",
-      "summary": "Here is a way to collect an attractive income on INTU now, which you keep whatever the stock does, in exchange for agreeing to sell your shares if the stock climbs above a higher price.",
-      "pub_date": "2026-08-21T21:11:53Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/paid-16-hold-intu-stock-211153929.html"
-    },
-    {
-      "title": "NVIDIA Corporation (NVDA) & Advanced Micro Devices (AMD): Nvidia Might Ship AI Chips With Less Memory. AMD Says It\u2019s Not Worried",
-      "summary": "NVIDIA Corporation (NASDAQ:NVDA) is weighing a step that would have seemed unthinkable a year ago: shipping its next-generation Rubin Ultra GPU with less memory than originally promised. According to The Information, the company has been testing at least three versions with reduced high-bandwidth memory, some as low as 192GB to 256GB, well below the 1 [\u2026]",
-      "pub_date": "2026-08-21T20:40:25Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-advanced-micro-204025825.html"
     }
   ]
 }
