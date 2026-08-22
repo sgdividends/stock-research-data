@@ -1,7 +1,35 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-08-21T20:18:48.645189+00:00",
+  "generated_at": "2026-08-22T00:53:32.519228+00:00",
   "items": [
+    {
+      "title": "The Best Semiconductor Stock to Buy Isn't AMD or Qualcomm: It's Nvidia, and Our Data Proves It",
+      "summary": "Nvidia is leagues ahead of its rivals in the lucrative AI chip market.",
+      "pub_date": "2026-08-21T23:13:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/best-semiconductor-stock-buy-isnt-231300431.html"
+    },
+    {
+      "title": "NVIDIA Corporation (NVDA) & Advanced Micro Devices (AMD): Nvidia Might Ship AI Chips With Less Memory. AMD Says It\u2019s Not Worried",
+      "summary": "NVIDIA Corporation (NASDAQ:NVDA) is weighing a step that would have seemed unthinkable a year ago: shipping its next-generation Rubin Ultra GPU with less memory than originally promised. According to The Information, the company has been testing at least three versions with reduced high-bandwidth memory, some as low as 192GB to 256GB, well below the 1 [\u2026]",
+      "pub_date": "2026-08-21T20:40:25Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-advanced-micro-204025825.html"
+    },
+    {
+      "title": "The $116 Billion That NVDA Quietly Paid Its Owners",
+      "summary": "The chipmaker\u2019s stock performance gets all the attention, but behind the scenes it runs one of the largest cash-return machines on the market.",
+      "pub_date": "2026-08-21T20:38:55Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/116-billion-nvda-quietly-paid-203855032.html"
+    },
+    {
+      "title": "Goldman Sachs Sees Nvidia Setup Few Expect",
+      "summary": "Institutional caution could become fresh buying pressure fast",
+      "pub_date": "2026-08-21T20:17:03Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-sees-nvidia-setup-201703480.html"
+    },
     {
       "title": "AMD Falls as Nvidia's Earnings Test Looms Over AI Chips",
       "summary": "The market is demanding proof that AMD can convert enormous customer agreements into profitable accelerator deployments.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-08-21T19:39:30Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-rises-ahead-nvidias-critical-193930535.html"
-    },
-    {
-      "title": "NVIDIA Earnings in 5 Days: Should You Buy, Hold, or Sell NVDA?",
-      "summary": "NVIDIA's strong AI demand, 91B revenue outlook and attractive valuation point to potential upside ahead of fiscal Q2 earnings.",
-      "pub_date": "2026-08-21T19:00:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-5-days-buy-190000872.html"
-    },
-    {
-      "title": "AMD Has More Than Tripled Off Its Low and Still Trades 20% Below Its High",
-      "summary": "The chipmaker's business keeps getting better. The argument is over which end of a wild 52-week range tells the truth.",
-      "pub_date": "2026-08-21T16:27:01Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-more-tripled-off-low-162701400.html"
-    },
-    {
-      "title": "AMD vs. Nvidia: Is AMD Finally Closing the AI Gap?",
-      "summary": "AMD just posted its best quarter ever while Nvidia shipped its way toward a trillion-dollar runway, and now every hyperscaler has to decide whether a credible second source is worth betting on.",
-      "pub_date": "2026-08-21T15:30:53Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amd-vs-nvidia-amd-finally-153053497.html"
-    },
-    {
-      "title": "AMD Lost SpaceX to Nvidia. Is Its AI Challenge Already Falling Apart?",
-      "summary": "SpaceX just handed NVIDIA a high-profile win by locking in 20% of its next platform, leaving AMD without a flagship logo at the worst possible moment. The real question is whether this signals a crack in Lisa Su's ambitions or just the cost of competing in a market built on scarcity and politics.",
-      "pub_date": "2026-08-21T15:30:37Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amd-lost-spacex-nvidia-ai-153037579.html"
     }
   ]
 }

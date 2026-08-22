@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "generated_at": "2026-08-21T20:19:25.600276+00:00",
+  "generated_at": "2026-08-22T00:54:09.954714+00:00",
   "items": [
     {
       "title": "Tim Cook built Apple\u2019s $32M-an-hour growth machine: Can John Ternus keep it going?",
@@ -8,6 +8,34 @@
       "pub_date": "2026-08-21T15:53:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/tim-cook-built-apple-32m-155300126.html"
+    },
+    {
+      "title": "Tech stocks today: Nvidia earnings on the horizon, as Anthropic prepares IPO plans",
+      "summary": "Tech stock coverage for the week of Aug. 17.",
+      "pub_date": "2026-08-17T13:29:45Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-nvidia-earnings-on-the-horizon-as-anthropic-prepares-ipo-plans-132945569.html"
+    },
+    {
+      "title": "Billionaire David Tepper Piled Into a Debt-Laden Artificial Intelligence (AI) Neocloud Stock in Q2 While Also Increasing His Stake in Its Newest Rival",
+      "summary": "David Tepper's hedge fund, Appaloosa Management, recently initiated a position in CoreWeave while also raising its exposure to Meta Platforms.",
+      "pub_date": "2026-08-21T22:39:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-david-tepper-piled-debt-223900562.html"
+    },
+    {
+      "title": "Morgan Stanley resets Nvidia stock forecast ahead of earnings",
+      "summary": "Here\u2019s what could be next for Nvidia stock.",
+      "pub_date": "2026-08-21T22:17:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-resets-nvidia-stock-221700655.html"
+    },
+    {
+      "title": "NVIDIA Corporation (NVDA) & Advanced Micro Devices (AMD): Nvidia Might Ship AI Chips With Less Memory. AMD Says It\u2019s Not Worried",
+      "summary": "NVIDIA Corporation (NASDAQ:NVDA) is weighing a step that would have seemed unthinkable a year ago: shipping its next-generation Rubin Ultra GPU with less memory than originally promised. According to The Information, the company has been testing at least three versions with reduced high-bandwidth memory, some as low as 192GB to 256GB, well below the 1 [\u2026]",
+      "pub_date": "2026-08-21T20:40:25Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-advanced-micro-204025825.html"
     },
     {
       "title": "Goldman Sachs Sees Nvidia Setup Few Expect",
@@ -24,39 +52,11 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-just-won-one-biggest-201645664.html"
     },
     {
-      "title": "Meta's $800 Bull Case Comes Down to One AI Win",
-      "summary": "Bernstein says strong growth and early monetization keep the risk-reward attractive.",
-      "pub_date": "2026-08-21T20:04:27Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/metas-800-bull-case-comes-200427359.html"
-    },
-    {
-      "title": "Meta Rises as Investors Look Beyond $200 Billion Trial Risk",
-      "summary": "Friday's rebound suggests the market is separating an enormous legal threat from Meta's still-explosive advertising growth.",
-      "pub_date": "2026-08-21T20:00:03Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/meta-rises-investors-look-beyond-200003723.html"
-    },
-    {
-      "title": "Meta Platforms (META) Pitches AI for Everyone While Apple (AAPL) Quietly Turns to China",
-      "summary": "Meta Platforms, Inc. (NASDAQ:META) CEO Mark Zuckerberg published a lengthy letter on August 10 making the case that artificial intelligence should be spread broadly rather than controlled by a handful of companies or governments. He also announced that Meta will start releasing open-source AI models again. Around the same time, the Wall Street Journal reported [\u2026]",
-      "pub_date": "2026-08-21T19:54:54Z",
+      "title": "Meta Platforms (META) Undercuts Anthropic and OpenAI on Price With New Coding Agent",
+      "summary": "On August 5, Meta Platforms, Inc. (NASDAQ:META) launched a new AI coding agent called Muse Code and priced it well below rivals Anthropic\u2019s Claude Code and OpenAI\u2019s Codex in a clear bid to win over developers. The release landed the same week. Reuters reported that a separate Meta AI model exploited a security vulnerability during [\u2026]",
+      "pub_date": "2026-08-21T20:13:09Z",
       "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-meta-pitches-ai-195454070.html"
-    },
-    {
-      "title": "Sector Update: Tech Stocks Rise Late Afternoon",
-      "summary": "Tech stocks were higher late Friday afternoon, with the State Street Technology Select Sector SPDR E",
-      "pub_date": "2026-08-21T19:42:45Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-rise-afternoon-194245037.html"
-    },
-    {
-      "title": "Amazon Stock: Cloud Takes The Spotlight While The Store Pays The Toll",
-      "summary": "The per-unit delivery cost that management once led with is now the CFO's line, and the comparison it rests on carries a fuel and line haul exclusion, while the top of the story belongs to the cloud.",
-      "pub_date": "2026-08-21T18:24:50Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-cloud-takes-spotlight-182450219.html"
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-meta-undercuts-anthropic-201309099.html"
     }
   ]
 }

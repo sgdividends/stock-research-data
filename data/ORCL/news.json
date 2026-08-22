@@ -1,7 +1,42 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-08-21T20:19:31.323523+00:00",
+  "generated_at": "2026-08-22T00:54:15.854272+00:00",
   "items": [
+    {
+      "title": "Oracle (ORCL) Starts PR Push For Project Jupiter AI Data Center",
+      "summary": "Oracle (NYSE:ORCL) has launched a major public relations campaign to defend its massive Project Jupiter AI data center amid growing local opposition. Community groups and policymakers in several large US states are pushing moratoriums and stricter permitting rules on new data centers that support AI workloads. The pushback raises questions about timing, cost, and scale for Oracle's AI infrastructure buildout and similar projects across the tech sector. Oracle's response follows wider...",
+      "pub_date": "2026-08-22T00:17:25Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-starts-pr-push-001725431.html"
+    },
+    {
+      "title": "TikTok reaches $400 million settlement with US Justice Department over children's privacy",
+      "summary": "TikTok has reached a $400 million settlement with the U.S. Department of Justice, ending a 2024 lawsuit alleging the company violated federal children's privacy laws.  The DOJ said Friday that TikTok will pay $300 million immediately and another $100 million after an order vacates an earlier consent decree against its predecessor company, Musical.ly.  \u201cThis settlement is a major victory for American children and parents,\u201d said U.S. Associate Attorney General Stanley E. Woodward Jr. in a statement.",
+      "pub_date": "2026-08-22T00:08:21Z",
+      "source": "Associated Press",
+      "url": "https://finance.yahoo.com/media-advertising/articles/tiktok-reaches-400-million-settlement-000821978.html"
+    },
+    {
+      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
+      "summary": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
+      "pub_date": "2026-08-21T22:10:01Z",
+      "source": "TechCrunch",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-accounting-startup-rillet-raised-221001796.html"
+    },
+    {
+      "title": "Get Paid 16% A Year To Hold INTU Stock You Already Own",
+      "summary": "Here is a way to collect an attractive income on INTU now, which you keep whatever the stock does, in exchange for agreeing to sell your shares if the stock climbs above a higher price.",
+      "pub_date": "2026-08-21T21:11:53Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/paid-16-hold-intu-stock-211153929.html"
+    },
+    {
+      "title": "NVIDIA Corporation (NVDA) & Advanced Micro Devices (AMD): Nvidia Might Ship AI Chips With Less Memory. AMD Says It\u2019s Not Worried",
+      "summary": "NVIDIA Corporation (NASDAQ:NVDA) is weighing a step that would have seemed unthinkable a year ago: shipping its next-generation Rubin Ultra GPU with less memory than originally promised. According to The Information, the company has been testing at least three versions with reduced high-bandwidth memory, some as low as 192GB to 256GB, well below the 1 [\u2026]",
+      "pub_date": "2026-08-21T20:40:25Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-corporation-nvda-advanced-micro-204025825.html"
+    },
     {
       "title": "Oracle's VA Contract Just Got $17 Billion Bigger",
       "summary": "Mizuho says the expansion could help accelerate SaaS growth.",
@@ -22,41 +57,6 @@
       "pub_date": "2026-08-21T18:10:47Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-ai-buildout-181047777.html"
-    },
-    {
-      "title": "What Adobe Stock's Low Earnings Multiple Is Actually Priced On",
-      "summary": "Adobe stock trades well below the market on earnings, and the subscription book that has to produce the next set of them is one the company has chosen to grow more slowly.",
-      "pub_date": "2026-08-21T18:09:29Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-stocks-low-earnings-multiple-180929147.html"
-    },
-    {
-      "title": "Hyperscalers Will Spend $750 Billion on AI This Year. Cummins Sells the Backup Power.",
-      "summary": "AI's power problem is becoming a growth engine for Cummins.",
-      "pub_date": "2026-08-21T17:25:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/technology/ai/articles/hyperscalers-spend-750-billion-ai-172500304.html"
-    },
-    {
-      "title": "Can Workday AI Research Unit Drive Sustainable Enterprise Growth?",
-      "summary": "WDAY's AI Research team is advancing enterprise AI with gains in memory, speed and accuracy while tackling privacy, explainability and governance.",
-      "pub_date": "2026-08-21T15:14:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/workday-ai-research-unit-drive-151400701.html"
-    },
-    {
-      "title": "Nvidia in talks to invest in Cloverleaf Infrastructure",
-      "summary": "The chip maker has been building a stake in the data center ecosystem, recently taking equity in SoftBank's SB Energy and investing $2 billion in Lancium",
-      "pub_date": "2026-08-21T13:16:09Z",
-      "source": "Quartz",
-      "url": "https://finance.yahoo.com/technology/articles/nvidia-talks-invest-cloverleaf-infrastructure-131609396.html"
-    },
-    {
-      "title": "This Week In Cloud AI - Cloudera Anywhere Cloud Revolutionizes AI Deployment and Governance",
-      "summary": "Cloudera has launched Cloudera Anywhere Cloud\u2122, a hybrid data and AI platform designed to provide cloud-native agility with robust enterprise control, enabling organizations to activate AI while ensuring comprehensive governance, sovereignty, and interoperability. This new platform supports the efficient deployment, governance, and scaling of AI and data services across multi-cloud and on-premises environments via a single control plane, thereby addressing challenges like fragmented...",
-      "pub_date": "2026-08-21T12:37:37Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/week-cloud-ai-cloudera-anywhere-123737740.html"
     }
   ]
 }

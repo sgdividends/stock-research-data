@@ -1,7 +1,14 @@
 {
   "ticker": "HPQ",
-  "generated_at": "2026-08-21T20:19:15.755680+00:00",
+  "generated_at": "2026-08-22T00:53:59.336773+00:00",
   "items": [
+    {
+      "title": "The Premium On AAPL Stock Vs What Its Peers Deliver",
+      "summary": "Apple's stock commands a premium price among its peers, but its growth and profit metrics tell a different story. Is the market paying for the past or the future.",
+      "pub_date": "2026-08-21T20:45:38Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/premium-aapl-stock-vs-peers-204538951.html"
+    },
     {
       "title": "The Cheapest Part Of Dell's Compounding Machine Just Got Expensive",
       "summary": "A shrinking share count has handed Dell holders faster earnings growth than the business itself produced, and the stock's run has just made that machine much costlier to keep running.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T11:15:47Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-worth-111547269.html"
-    },
-    {
-      "title": "Bank of America sends warning on HP stock before earnings",
-      "summary": "HP heads into earnings with its PC business regaining ground, while Bank of America warns that rising costs could leave investors with a tougher outlook.",
-      "pub_date": "2026-08-21T09:03:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-warning-hp-090300126.html"
     }
   ]
 }

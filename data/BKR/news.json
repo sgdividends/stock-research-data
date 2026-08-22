@@ -1,7 +1,14 @@
 {
   "ticker": "BKR",
-  "generated_at": "2026-08-21T20:18:53.576747+00:00",
+  "generated_at": "2026-08-22T00:53:37.344682+00:00",
   "items": [
+    {
+      "title": "US rig count down five as prices climb",
+      "summary": "The rig count in the Permian Basin was up two this week, the latest count Friday by Baker Hughes shows, with 267 rigs active in the region. A year ago, 255 rigs were active in the region. Nationally, the oil and gas rig count is down five from last week at 588 rigs. A year ago, 538 rigs were active. The count shows that 452 rigs sought oil, down three from the previous week, and 127 explored ...",
+      "pub_date": "2026-08-22T00:02:00Z",
+      "source": "Odessa American, Texas",
+      "url": "https://finance.yahoo.com/energy/articles/us-rig-count-down-five-000200318.html"
+    },
     {
       "title": "US Oil Drillers See Pullback as Oil Prices Rise",
       "summary": "The total number of active drilling rigs for oil and gas in the United States fell this week, according to new data that Baker Hughes published on Friday",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-17T16:50:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/options/articles/options-traders-betting-big-move-165000261.html"
-    },
-    {
-      "title": "US rig count up five as prices rise",
-      "summary": "The rig count in the Permian Basin was up two this week, the latest count Friday by Baker Hughes shows, with 265 rigs active in the region. A year ago, 255 rigs were active in the region. Nationally, the oil and gas rig count is up five from last week at 593 rigs. A year ago, 539 rigs were active. The count shows that 455 rigs sought oil, up one from the previous week, and 128 explored for ...",
-      "pub_date": "2026-08-15T00:01:00Z",
-      "source": "Odessa American, Texas",
-      "url": "https://finance.yahoo.com/energy/articles/us-rig-count-five-prices-000100161.html"
     }
   ]
 }

@@ -1,14 +1,7 @@
 {
   "ticker": "PLTR",
-  "generated_at": "2026-08-21T20:19:33.621794+00:00",
+  "generated_at": "2026-08-22T00:54:18.154863+00:00",
   "items": [
-    {
-      "title": "Stock Market Today: Dow Gains 550 Points; Palantir Rises, Bitcoin Rallies (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index is climbing after a market sell-off. The price of bitcoin surges to over $77,000.",
-      "pub_date": "2026-08-21T19:40:32Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/?src=A00220&yptr=yahoo"
-    },
     {
       "title": "Palantir Stock Clears Buy Zone But Could Offer Alternative Entry",
       "summary": "Palantir is trading just above a buy zone. Investors should be on the lookout as the stock clears a potential add-on entry.",
@@ -57,6 +50,13 @@
       "pub_date": "2026-08-21T14:00:21Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/could-palantir-stock-double-again-140021335.html"
+    },
+    {
+      "title": "Dow Jones Futures Rise After Bearish Market Signal; Bitcoin Keeps Surging",
+      "summary": "Futures rose after the Nasdaq closed below its Aug. 4 low, a bearish market signal. Bitcoin momentum continues.",
+      "pub_date": "2026-08-21T11:57:33Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-triggers-bearish-signal-walmart-spacex-crowdstrike/?src=A00220&yptr=yahoo"
     }
   ]
 }

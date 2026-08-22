@@ -1,13 +1,27 @@
 {
   "ticker": "SPGI",
-  "generated_at": "2026-08-21T20:19:40.564423+00:00",
+  "generated_at": "2026-08-22T00:54:24.479295+00:00",
   "items": [
+    {
+      "title": "Update: Wall Street Trims Weekly Losses With Friday's Gains",
+      "summary": "(Updates with market moves at the end of the day, and other changes, if any.) US stocks rose Frid",
+      "pub_date": "2026-08-21T20:55:26Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-trims-weekly-losses-205526550.html"
+    },
     {
       "title": "Why Stocks Are Shrugging Off the Rise in Bond Yields",
       "summary": "THE TRADER  Long-term bond yields rose to a 19-year high this week. The stock market\u2019s response? Bring it on. Well, maybe not exactly\u2014stocks are on track to finish lower, after all\u2014but the equity resilience in the face of higher rates really is notable.",
-      "pub_date": "2026-08-21T19:12:00Z",
+      "pub_date": "2026-08-21T20:07:00Z",
       "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stocks-bonds-dow-nasdaq-sp500-16a23825?siteid=yhoof2&yptr=yahoo"
+      "url": "https://www.barrons.com/articles/stocks-bonds-yields-16a23825?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "A Summer Friday Bounce Can't Save the S&P 500's Weekly Win Streak",
+      "summary": "The stock market bounced back on Friday amid light late-summer volume, but it wasn\u2019t enough to salvage the S&P 500\u2019s weekly winning streak.  The S&P 500 and the Nasdaq Composite each gained 0.4%.  All three indexes still closed lower during a turbulent week, which ended three-week winning streaks for the S&P and Nasdaq.",
+      "pub_date": "2026-08-21T20:02:13Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-082126/card/a-summer-friday-bounce-can-t-save-s-p-500-s-weekly-win-streak-XmdQQyoLf7zdR0Dgxr3v?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "PG&E Stock Runs On A Legislative Calendar, Not The Market's",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-21T16:45:18Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/economy/articles/private-sector-growth-reaches-52-164518984.html"
-    },
-    {
-      "title": "Is SPGI Worth Buying as Margins Improve but Valuation Stays Rich?",
-      "summary": "S&P Global's margin gains, recurring revenue growth & buybacks support earnings, but a premium valuation & falling estimates keep the near-term setup cautious.",
-      "pub_date": "2026-08-21T14:23:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spgi-worth-buying-margins-improve-142300006.html"
-    },
-    {
-      "title": "Can SPGI's Mobility Spin and AI Push Unlock More Profitable Growth?",
-      "summary": "S&P Global's post-Mobility focus, rising AI adoption and margin gains sharpen its growth story, though Market Intelligence execution remains a key test.",
-      "pub_date": "2026-08-21T14:21:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/spgis-mobility-spin-ai-push-142100496.html"
     }
   ]
 }

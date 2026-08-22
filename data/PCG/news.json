@@ -1,6 +1,6 @@
 {
   "ticker": "PCG",
-  "generated_at": "2026-08-21T20:19:32.272946+00:00",
+  "generated_at": "2026-08-22T00:54:16.812564+00:00",
   "items": [
     {
       "title": "PG&E Stock Runs On A Legislative Calendar, Not The Market's",
@@ -15,6 +15,13 @@
       "pub_date": "2026-08-21T18:40:34Z",
       "source": "POWER Magazine",
       "url": "https://finance.yahoo.com/energy/articles/arevon-brings-nighthawk-energy-storage-184034701.html"
+    },
+    {
+      "title": "Unusual Options Activity Shows 1 Institutional Trader Is Making a Big Bet on PG&E Stock",
+      "summary": "Yesterday\u2019s unusual options activity revealed a massive 20,000-contract bull call spread on Pacific Gas & Electric (PCG). The low-risk, high-reward October trade risks $1.2 million for a potential $8.8 million payout, eyeing potential California wildfire reforms.",
+      "pub_date": "2026-08-21T17:30:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/options/articles/unusual-options-activity-shows-1-173002504.html"
     },
     {
       "title": "Will PNW's Cost-Control Efforts Support Long-Term Earnings Growth?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-06T15:10:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/evergys-q2-earnings-beat-estimates-151000235.html"
-    },
-    {
-      "title": "Utilities threaten action if lawmakers fail to cut their wildfire liability risk",
-      "summary": "Top executives of California's two biggest utilities warned they would take action to protect their shareholders if Sacramento lawmakers fail to pass legislation limiting their companies' liabilities for wildfires sparked by their equipment",
-      "pub_date": "2026-08-05T10:00:00Z",
-      "source": "LA Times",
-      "url": "https://finance.yahoo.com/economy/policy/articles/utilities-threaten-action-lawmakers-fail-100000707.html"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-08-21T20:19:20.089103+00:00",
+  "generated_at": "2026-08-22T00:54:03.618446+00:00",
   "items": [
     {
       "title": "JPMorgan Rises as Wall Street Bets on Record Trading Strength",
@@ -22,6 +22,13 @@
       "pub_date": "2026-08-21T16:42:30Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/technology/ai/articles/ai-cloud-firm-nscale-said-164230544.html"
+    },
+    {
+      "title": "Forget RTO: Fully remote workers report the highest well-being\u2014and are less likely to quit, new study of 7,700 employees finds",
+      "summary": "The research found little evidence that remote workers felt less connected to colleagues or workplace culture\u2014despite what CEOs like Jamie Dimon say.",
+      "pub_date": "2026-08-21T15:35:45Z",
+      "source": "Fortune",
+      "url": "https://finance.yahoo.com/small-business/articles/despite-ceos-elon-musk-pushing-153545441.html"
     },
     {
       "title": "How SK Hynix Could Top Samsung\u2019s $80 Billion Shareholder Return",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T13:27:13Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/ai-capex-cycle-look-more-132713968.html"
-    },
-    {
-      "title": "JPMorgan says stronger AI revenue makes capex boom more economically viable",
-      "summary": "JPMorgan believes faster revenue growth across the artificial intelligence industry is making the huge wave of infrastructure investment underpinning the sector look increasingly sustainable from an economic perspective. \u201cThe recent acceleration in AI companies\u2019 revenues makes the AI capex cycle look more economically viable than it did six months ago,\u201d strategist Nikolaos Panigirtzoglou wrote in a note to clients.",
-      "pub_date": "2026-08-21T13:25:32Z",
-      "source": "InvestorsHub",
-      "url": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-says-stronger-ai-revenue-132532281.html"
     }
   ]
 }
