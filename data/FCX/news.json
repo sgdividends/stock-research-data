@@ -1,18 +1,11 @@
 {
   "ticker": "FCX",
-  "generated_at": "2026-08-22T12:26:18.149328+00:00",
+  "generated_at": "2026-08-22T16:17:05.247095+00:00",
   "items": [
     {
-      "title": "Stocks trade higher, lifted by crypto, commodities: AlphaCheck",
-      "summary": "Stocks traded in the green at the open on Friday but were still pacing for weekly losses.",
-      "pub_date": "2026-08-21T13:57:20Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/stocks-trade-higher-lifted-by-crypto-commodities-alphacheck-135720189.html"
-    },
-    {
-      "title": "Dow Jones Futures: Market Rally Repairs Some Damage; Nvidia Earnings Loom",
-      "summary": "The market rally suffered damage last week, though bitcoin and gold shined. Nvidia and CrowdStrike earnings are critical while Fed's Warsh will make a big speech.",
-      "pub_date": "2026-08-22T12:08:44Z",
+      "title": "Dow Jones Futures: Market Rally Repairs Some Damage As Nvidia Looms; New Trump Tariffs On Canada",
+      "summary": "The market rally suffered damage last week, though bitcoin and gold shined. New Trump tariffs on Canada began Saturday. Nvidia, CrowdStrike and Fed's Warsh loom.",
+      "pub_date": "2026-08-22T15:25:48Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo"
     },
@@ -57,6 +50,13 @@
       "pub_date": "2026-08-21T14:42:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/southern-copper-positioned-further-upside-144200617.html"
+    },
+    {
+      "title": "Stocks trade higher, lifted by crypto, commodities: AlphaCheck",
+      "summary": "Stocks traded in the green at the open on Friday but were still pacing for weekly losses.",
+      "pub_date": "2026-08-21T13:57:20Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/stocks-trade-higher-lifted-by-crypto-commodities-alphacheck-135720189.html"
     }
   ]
 }

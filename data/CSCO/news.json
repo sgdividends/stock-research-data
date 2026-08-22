@@ -1,7 +1,14 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-08-22T12:26:09.216175+00:00",
+  "generated_at": "2026-08-22T16:16:53.901188+00:00",
   "items": [
+    {
+      "title": "This Stock Is Quietly Becoming an AI Powerhouse in 2026",
+      "summary": "Cisco just posted its fifth straight earnings beat and the stock has surged over 60% in a year, yet most investors still think of it as the old router company. The AI order numbers buried in its latest report tell a very different story.",
+      "pub_date": "2026-08-22T14:00:51Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/stock-quietly-becoming-ai-powerhouse-140051503.html"
+    },
     {
       "title": "The Cheapest Part Of Dell's Compounding Machine Just Got Expensive",
       "summary": "A shrinking share count has handed Dell holders faster earnings growth than the business itself produced, and the stock's run has just made that machine much costlier to keep running.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-20T10:08:28Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/articles/could-cisco-systems-csco-gain-100828128.html"
-    },
-    {
-      "title": "What You Are Really Paying For In Arista Networks Stock",
-      "summary": "Arista's operating line runs far ahead of the market, but the margin on the volume it is locking in depends on which customers show up.",
-      "pub_date": "2026-08-19T23:44:12Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/really-paying-arista-networks-stock-234412301.html"
     }
   ]
 }

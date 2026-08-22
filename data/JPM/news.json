@@ -1,7 +1,14 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-08-22T12:26:28.735613+00:00",
+  "generated_at": "2026-08-22T16:17:19.694816+00:00",
   "items": [
+    {
+      "title": "JPMREIT\u2019s First Office Buy Lags Its Industrial Portfolio",
+      "summary": "JPMREIT's office bet was just 62% occupied at midyear, trailing industrial at 99%, as the nontraded REIT grew to $1.75B in gross assets.",
+      "pub_date": "2026-08-22T14:15:01Z",
+      "source": "CRE Daily",
+      "url": "https://finance.yahoo.com/real-estate/articles/jpmreit-first-office-buy-lags-141501329.html"
+    },
     {
       "title": "JPMorgan Rises as Wall Street Bets on Record Trading Strength",
       "summary": "The largest U.S. bank is recovering as investors focus on surging markets revenue instead of bond-market turbulence.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T13:49:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgans-q2-trading-revenues-surge-134900185.html"
-    },
-    {
-      "title": "AI capex cycle look more economically viable than it did six months ago: JPM",
-      "summary": "Investing.com -- JPMorgan believes the acceleration in revenue at artificial intelligence companies has strengthened the economic case behind the sector's enormous infrastructure spending.",
-      "pub_date": "2026-08-21T13:27:13Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-capex-cycle-look-more-132713968.html"
     }
   ]
 }

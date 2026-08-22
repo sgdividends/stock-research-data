@@ -1,18 +1,11 @@
 {
   "ticker": "HOOD",
-  "generated_at": "2026-08-22T12:26:24.263191+00:00",
+  "generated_at": "2026-08-22T16:17:13.552503+00:00",
   "items": [
     {
-      "title": "Stocks trade higher, lifted by crypto, commodities: AlphaCheck",
-      "summary": "Stocks traded in the green at the open on Friday but were still pacing for weekly losses.",
-      "pub_date": "2026-08-21T13:57:20Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/stocks-trade-higher-lifted-by-crypto-commodities-alphacheck-135720189.html"
-    },
-    {
-      "title": "Dow Jones Futures: Market Rally Repairs Some Damage; Nvidia Earnings Loom",
-      "summary": "The market rally suffered damage last week, though bitcoin and gold shined. Nvidia and CrowdStrike earnings are critical while Fed's Warsh will make a big speech.",
-      "pub_date": "2026-08-22T12:08:44Z",
+      "title": "Dow Jones Futures: Market Rally Repairs Some Damage As Nvidia Looms; New Trump Tariffs On Canada",
+      "summary": "The market rally suffered damage last week, though bitcoin and gold shined. New Trump tariffs on Canada began Saturday. Nvidia, CrowdStrike and Fed's Warsh loom.",
+      "pub_date": "2026-08-22T15:25:48Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-nvidia-crowdstrike-warsh/?src=A00220&yptr=yahoo"
     },
@@ -57,6 +50,13 @@
       "pub_date": "2026-08-21T20:43:24Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/robinhood-leads-friday-s-s-p-500-gains-bfqsEvdpn8a5YLzGR4ML?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "US Equity Markets End Higher After Iran Hints at Desire to End War Soon, Crude Oil Prices Halt",
+      "summary": "US equity indexes ended higher Friday after Iran's President hinted that the country wants to end th",
+      "pub_date": "2026-08-21T20:36:10Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-higher-203610880.html"
     }
   ]
 }

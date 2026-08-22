@@ -1,6 +1,6 @@
 {
   "ticker": "GOOG",
-  "generated_at": "2026-08-22T12:26:22.115443+00:00",
+  "generated_at": "2026-08-22T16:17:10.323543+00:00",
   "items": [
     {
       "title": "Nvidia earnings are on deck next week. These 3 themes will be mission-critical.",
@@ -15,6 +15,27 @@
       "pub_date": "2026-08-21T19:51:10Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/anthropics-ipo-could-come-sooner-195110660.html"
+    },
+    {
+      "title": "Alphabet, Meta, and Microsoft Are Hiding $3 Trillion in Debt On the AI Boom\u2019s Hidden Ledger",
+      "summary": "Every major AI bull run has a number investors quietly agree to ignore, and the one hiding behind Microsoft, Alphabet, Meta, and their peers right now makes the reported balance sheets look like a rough draft.",
+      "pub_date": "2026-08-22T15:52:40Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-meta-microsoft-hiding-3-135343885.html"
+    },
+    {
+      "title": "Alphabet Could Own 7% of Marvell \u2014 But Here\u2019s What Google Has to Do to Get It",
+      "summary": "Marvell is offering Google a potential 7% stake in the company, but there is a serious catch that changes everything about how this deal should be read.",
+      "pub_date": "2026-08-22T15:48:47Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-could-own-7-marvell-145906141.html"
+    },
+    {
+      "title": "Amazon Stock Is Historically Cheap. Is This a Once-in-a-Decade Buying Opportunity?",
+      "summary": "AWS is growing at its fastest pace in 18 quarters, advertising is booming, and Amazon's chips business is exploding, yet the stock trades at a multiple that makes it look like a sleepy retailer. Something in that math appears deeply off.",
+      "pub_date": "2026-08-22T13:30:46Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-stock-historically-cheap-once-133046614.html"
     },
     {
       "title": "3 AI Stocks Built for the Next Decade",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-22T05:00:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/ai-spending-capex-vertiv-western-digital-coreweave-arista-8c3cf5b3?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Google Is Getting Paid in Marvell Stock Warrants for Buying Marvell's Chips",
-      "summary": "The search giant lined up another custom silicon partner this summer. It also negotiated something a purchase order never includes: the right to buy its supplier's stock at a fixed price.",
-      "pub_date": "2026-08-22T03:47:01Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/google-getting-paid-marvell-stock-034701817.html"
-    },
-    {
-      "title": "Berkshire Hathaway (BRK.A) Stock Still Looks Cheap Relative To Fair Value",
-      "summary": "Berkshire Hathaway stock has produced a 72.5% total return over the past 5 years, yet current valuation checks suggest the shares may still trade below a conservative estimate of intrinsic value based on the Excess Returns model and earnings multiples. A 72.5% return over 5 years points to solid wealth creation for long term holders, even though shorter term moves have been relatively muted. Fresh capital deployment into holdings such as Alphabet, Delta Air Lines and housing related...",
-      "pub_date": "2026-08-22T02:11:08Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-stock-still-021108039.html"
-    },
-    {
-      "title": "Marvell vs. Broadcom: the custom silicon shift",
-      "summary": "A massive new hardware deal is rewriting the rules for AI silicon suppliers.",
-      "pub_date": "2026-08-22T00:37:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/ai/articles/marvell-vs-broadcom-custom-silicon-003700947.html"
     }
   ]
 }
