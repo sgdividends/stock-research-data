@@ -1,6 +1,6 @@
 {
   "ticker": "MRNA",
-  "generated_at": "2026-08-23T12:27:18.291849+00:00",
+  "generated_at": "2026-08-23T16:18:26.061691+00:00",
   "items": [
     {
       "title": "Why Tempus AI Skyrocketed This Week",
@@ -22,6 +22,13 @@
       "pub_date": "2026-08-23T06:23:19Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/healthcare/articles/moderna-mrna-soars-179-melanoma-062319268.html"
+    },
+    {
+      "title": "2 Biotech Stocks Shaping Up for Major Breakouts",
+      "summary": "Moderna's mRNA cancer vaccine breakthrough with Merck fueled a biotech rally, with the IBB near highs. Eli Lilly and Natera both show strong uptrends and possible breakouts.",
+      "pub_date": "2026-08-22T15:10:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/healthcare/articles/2-biotech-stocks-shaping-major-151000228.html"
     },
     {
       "title": "MarketBeat Week in Review \u2013 08/17 - 08/21",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-22T00:19:06Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/healthcare/articles/arct-surges-over-60-toward-001906341.html"
-    },
-    {
-      "title": "How a Big Bet on Cancer Vaccines Brought Moderna Back from the Brink",
-      "summary": "After years of layoffs, cash burn and political attacks on its core technology, Moderna\u2019s melanoma vaccine data notched the biotech company a much-needed win.",
-      "pub_date": "2026-08-22T00:00:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/health/pharma/moderna-cancer-vaccine-3d863ff3?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

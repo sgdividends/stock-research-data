@@ -1,7 +1,14 @@
 {
   "ticker": "TMUS",
-  "generated_at": "2026-08-23T12:27:33.661802+00:00",
+  "generated_at": "2026-08-23T16:18:43.203864+00:00",
   "items": [
+    {
+      "title": "Spectrum rolls out free offer after steep customer losses",
+      "summary": "Spectrum is sweetening its internet plans as it faces mounting pressure to keep customers from leaving.",
+      "pub_date": "2026-08-23T15:33:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/articles/spectrum-rolls-free-offer-steep-153300402.html"
+    },
     {
       "title": "Comcast adds new service to internet plans as customers leave",
       "summary": "Comcast is taking a new approach as it works to retain customers amid elevated competition.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-20T23:00:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/technology/articles/t-stands-gain-verizon-loses-230000780.html"
-    },
-    {
-      "title": "The Peer-Group Mispricing Sitting On T Stock",
-      "summary": "AT&T is outperforming many of its telecom rivals, but its stock price doesn't seem to reflect that success.",
-      "pub_date": "2026-08-20T21:15:28Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/peer-group-mispricing-sitting-t-211528300.html"
     }
   ]
 }
