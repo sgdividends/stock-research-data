@@ -1,7 +1,14 @@
 {
   "ticker": "MA",
-  "generated_at": "2026-08-23T00:58:08.537117+00:00",
+  "generated_at": "2026-08-23T04:31:17.084091+00:00",
   "items": [
+    {
+      "title": "Trump Discloses 1,000 Stock Trades in June",
+      "summary": "White House says president\u2019s accounts are invested in \u2018computer-based model portfolios\u2019 to replicate stock indexes.",
+      "pub_date": "2026-08-23T00:41:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/investing/trump-discloses-1-000-stock-trades-in-june-2e5b0773?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Visa (V) Backs New Standards For Agentic Payments",
       "summary": "Visa (NYSE: V) has joined the newly formed Agentic Payments Alliance to help set standards for autonomous and agent driven commerce. The Alliance brings together Visa, Mastercard, Fiserv, Circle and Solana to work on common rules for agent authorization, fraud detection and loyalty integration. The group also aims to coordinate industry input on regulation at a time when federal guidance on agentic payments remains unclear. This move highlights that Visa is only one of several established...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-20T20:21:46Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/98-billion-payouts-lagging-stock-202146043.html"
-    },
-    {
-      "title": "Billionaire Bill Ackman Just Sold 25% of His Stake in This Big Tech Giant for 2 AI Rivals",
-      "summary": "Ackman sold shares of Amazon and Alphabet while buying shares of Microsoft and Meta Platforms.",
-      "pub_date": "2026-08-20T18:07:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-just-sold-180700623.html"
     }
   ]
 }

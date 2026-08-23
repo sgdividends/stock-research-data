@@ -1,7 +1,14 @@
 {
   "ticker": "BRK-B",
-  "generated_at": "2026-08-23T00:57:30.711188+00:00",
+  "generated_at": "2026-08-23T04:30:39.160262+00:00",
   "items": [
+    {
+      "title": "Trump Discloses 1,000 Stock Trades in June",
+      "summary": "White House says president\u2019s accounts are invested in \u2018computer-based model portfolios\u2019 to replicate stock indexes.",
+      "pub_date": "2026-08-23T00:41:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/investing/trump-discloses-1-000-stock-trades-in-june-2e5b0773?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Does Greg Abel Know Something Wall Street Doesn't? New Berkshire Hathaway CEO Doubles Down On a Legacy Department Store Stock With a 3.3% Dividend Yield",
       "summary": "Abel has been increasing Berkshire's position in a less-followed mid-cap stock.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-22T03:07:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bill-gates-pulls-818m-berkshire-030700591.html"
-    },
-    {
-      "title": "Berkshire Hathaway (BRK.A) Stock Still Looks Cheap Relative To Fair Value",
-      "summary": "Berkshire Hathaway stock has produced a 72.5% total return over the past 5 years, yet current valuation checks suggest the shares may still trade below a conservative estimate of intrinsic value based on the Excess Returns model and earnings multiples. A 72.5% return over 5 years points to solid wealth creation for long term holders, even though shorter term moves have been relatively muted. Fresh capital deployment into holdings such as Alphabet, Delta Air Lines and housing related...",
-      "pub_date": "2026-08-22T02:11:08Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-brk-stock-still-021108039.html"
     }
   ]
 }
