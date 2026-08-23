@@ -1,7 +1,35 @@
 {
   "ticker": "GOOG",
-  "generated_at": "2026-08-23T08:22:28.039581+00:00",
+  "generated_at": "2026-08-23T12:27:05.606975+00:00",
   "items": [
+    {
+      "title": "Nvidia's Q2 earnings to test resurgent AI trade",
+      "summary": "Nvidia will report its Q2 earnings after the bell on Aug. 26.",
+      "pub_date": "2026-08-23T11:25:02Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html"
+    },
+    {
+      "title": "Nvidia Reportedly Warns Top Customers of 15% Price Hikes on AI Servers",
+      "summary": "Nvidia customers reportedly face AI server price hikes above 15% next year as DRAM costs surge ahead of Wednesday's earnings.",
+      "pub_date": "2026-08-23T10:28:24Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-reportedly-warns-top-customers-102824176.html"
+    },
+    {
+      "title": "AWS Was Lagging Microsoft Azure and Google Cloud in Growth\u2014Is Amazon Finally Catching Up?",
+      "summary": "According to Rosenblatt\u2019s Scott Devitt, Amazon (NASDAQ:AMZN)\u2019s leading position in artificial intelligence remains underappreciated. This bold claim was made in a recent research note on August 19, where Devitt initiated coverage on the stock with a $335 price target. The firm anticipates AWS to exit 2026 at a 45% growth rate, compared with the Street\u2019s [\u2026]",
+      "pub_date": "2026-08-23T08:41:05Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/aws-lagging-microsoft-azure-google-084105975.html"
+    },
+    {
+      "title": "3 Tech Compounders Fit for Warren Buffett's Portfolio",
+      "summary": "Meta, Microsoft, and TSMC are all Buffett-style compounding stocks.",
+      "pub_date": "2026-08-23T08:35:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-tech-compounders-fit-warren-083500606.html"
+    },
     {
       "title": "Alphabet and Amazon Are Cheaper Than the S&P 500. What's Going On?",
       "summary": "The price-to-earnings metric has some oddities associated with it.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-08-22T20:04:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-just-sold-200400662.html"
-    },
-    {
-      "title": "Is Alphabet\u2019s Search Risk Really Priced In? Stress-Testing Rosenblatt\u2019s $410 Thesis",
-      "summary": "Has Wall Street stopped panicking about AI chatbots destroying Alphabet Inc.\u2019s (NASDAQ:GOOGL)\u2019s traditional search business? On August 19, Analyst Scott Devitt initiated coverage on the stock with a Buy rating, noting how concerns around Search have largely played out. However, declaring a multi-year risk narrative to be effectively over is a bold assertion worth stress [\u2026]",
-      "pub_date": "2026-08-22T19:56:02Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-search-risk-really-priced-195602365.html"
-    },
-    {
-      "title": "Does Greg Abel Know Something Wall Street Doesn't? New Berkshire Hathaway CEO Doubles Down On a Legacy Department Store Stock With a 3.3% Dividend Yield",
-      "summary": "Abel has been increasing Berkshire's position in a less-followed mid-cap stock.",
-      "pub_date": "2026-08-22T19:53:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-greg-abel-know-something-195300161.html"
-    },
-    {
-      "title": "Third Point Starts to Raise Alarm Bells on Broadcom After Dumping AVGO Stock in Q2",
-      "summary": "Dan Loeb's Third Point exits Broadcom ahead of second-quarter results as the stock has surged in 2026.",
-      "pub_date": "2026-08-22T19:30:02Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/third-point-starts-raise-alarm-193002621.html"
-    },
-    {
-      "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
-      "summary": "Some of Nvidia's largest customers have been told prices of servers \u200ccontaining its AI chips will rise by \u200cmore than 15% in many cases with memory chip \u200bcosts soaring, Bloomberg News reported on Saturday.  The price hikes will go into effect on systems shipped early next year and will impact systems including \u200cthose with the \u2060flagship Vera Rubin and Grace Blackwell chips, the report added, citing people familiar \u2060with the process.  The increases will depend on Nvidia's chip generation and memory configurations, they \u200bsaid.",
-      "pub_date": "2026-08-22T19:20:53Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-customers-notified-ai-related-192053530.html"
     }
   ]
 }

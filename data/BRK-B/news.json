@@ -1,6 +1,6 @@
 {
   "ticker": "BRK-B",
-  "generated_at": "2026-08-23T08:22:07.472068+00:00",
+  "generated_at": "2026-08-23T12:26:48.515806+00:00",
   "items": [
     {
       "title": "Trump Discloses 1,000 Stock Trades in June",
@@ -15,6 +15,13 @@
       "pub_date": "2026-08-22T19:53:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/does-greg-abel-know-something-195300161.html"
+    },
+    {
+      "title": "Trump\u2019s Stock Disclosure Shows More Than 1,000 Trades in June",
+      "summary": "President Donald Trump made more than 1,000 securities trades in June, including significant purchases of Berkshire Hathaway Inc., Visa Inc., Mastercard Inc. and Cintas Corp., according to a financial disclosure published Saturday.",
+      "pub_date": "2026-08-22T19:31:05Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-stock-disclosure-shows-more-193105313.html"
     },
     {
       "title": "Bill Gates makes $180 million bet on backbone of America's economy",
@@ -45,18 +52,11 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/dies-warren-buffett-wants-90-150500152.html"
     },
     {
-      "title": "Warren Buffett's Last Warning About the Stock Market Could Haunt Wall Street for Years. History Says This Will Happen Next.",
-      "summary": "Warren Buffett says many traders are treating the stock market like a casino.",
-      "pub_date": "2026-08-22T09:08:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-last-warning-stock-090800770.html"
-    },
-    {
-      "title": "Bill Gates pulls $818M from Berkshire to buy this giant",
-      "summary": "The Gates Foundation Trust cut its Berkshire Hathaway stake while opening a new position in a home-improvement giant.",
-      "pub_date": "2026-08-22T03:07:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-gates-pulls-818m-berkshire-030700591.html"
+      "title": "MarketBeat Week in Review \u2013 08/17 - 08/21",
+      "summary": "Stocks fell this week as Treasury bond buybacks, oil prices, and Walmart earnings weighed on markets, while Bitcoin rallied; MarketBeat analysts cover Moderna, NVIDIA, Meta, RTX, and more.",
+      "pub_date": "2026-08-22T11:00:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-08-17-110000158.html"
     }
   ]
 }

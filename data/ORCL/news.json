@@ -1,7 +1,14 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-08-23T08:22:46.154338+00:00",
+  "generated_at": "2026-08-23T12:27:22.786083+00:00",
   "items": [
+    {
+      "title": "Nvidia Reportedly Warns Top Customers of 15% Price Hikes on AI Servers",
+      "summary": "Nvidia customers reportedly face AI server price hikes above 15% next year as DRAM costs surge ahead of Wednesday's earnings.",
+      "pub_date": "2026-08-23T10:28:24Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-reportedly-warns-top-customers-102824176.html"
+    },
     {
       "title": "Nvidia customers face over 15% server price hikes as memory costs soar - report",
       "summary": "Investing.com -- Rising memory chip costs are pushing up the price of servers that use Nvidia Corp\u2019s artificial intelligence chips, with some of the chipmaker\u2019s biggest customers facing increases of more than 15%, Bloomberg News reported on Saturday, citing people familiar with the matter.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-22T05:00:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/ai-spending-capex-vertiv-western-digital-coreweave-arista-8c3cf5b3?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Oracle (ORCL) Starts PR Push For Project Jupiter AI Data Center",
-      "summary": "Oracle (NYSE:ORCL) has launched a major public relations campaign to defend its massive Project Jupiter AI data center amid growing local opposition. Community groups and policymakers in several large US states are pushing moratoriums and stricter permitting rules on new data centers that support AI workloads. The pushback raises questions about timing, cost, and scale for Oracle's AI infrastructure buildout and similar projects across the tech sector. Oracle's response follows wider...",
-      "pub_date": "2026-08-22T00:17:25Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-starts-pr-push-001725431.html"
     }
   ]
 }

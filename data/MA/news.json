@@ -1,6 +1,6 @@
 {
   "ticker": "MA",
-  "generated_at": "2026-08-23T08:22:38.903385+00:00",
+  "generated_at": "2026-08-23T12:27:15.574668+00:00",
   "items": [
     {
       "title": "Trump Discloses 1,000 Stock Trades in June",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-23T00:41:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/investing/trump-discloses-1-000-stock-trades-in-june-2e5b0773?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Trump\u2019s Stock Disclosure Shows More Than 1,000 Trades in June",
+      "summary": "President Donald Trump made more than 1,000 securities trades in June, including significant purchases of Berkshire Hathaway Inc., Visa Inc., Mastercard Inc. and Cintas Corp., according to a financial disclosure published Saturday.",
+      "pub_date": "2026-08-22T19:31:05Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-stock-disclosure-shows-more-193105313.html"
     },
     {
       "title": "Visa (V) Backs New Standards For Agentic Payments",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-20T20:24:36Z",
       "source": "Forkast News",
       "url": "https://finance.yahoo.com/markets/crypto/articles/rain-agentic-payments-alliance-writing-202436472.html"
-    },
-    {
-      "title": "$98 billion In Payouts, A Lagging Stock: The V Trade-Off",
-      "summary": "The payments giant sent a torrent of cash back to its owners, yet the stock trailed the market. Here\u2019s what that money really bought and what has to go right for the checks to continue.",
-      "pub_date": "2026-08-20T20:21:46Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/98-billion-payouts-lagging-stock-202146043.html"
     }
   ]
 }

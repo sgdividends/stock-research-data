@@ -1,7 +1,14 @@
 {
   "ticker": "AMAT",
-  "generated_at": "2026-08-23T08:22:01.785437+00:00",
+  "generated_at": "2026-08-23T12:26:43.284504+00:00",
   "items": [
+    {
+      "title": "MarketBeat Week in Review \u2013 08/17 - 08/21",
+      "summary": "Stocks fell this week as Treasury bond buybacks, oil prices, and Walmart earnings weighed on markets, while Bitcoin rallied; MarketBeat analysts cover Moderna, NVIDIA, Meta, RTX, and more.",
+      "pub_date": "2026-08-22T11:00:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-08-17-110000158.html"
+    },
     {
       "title": "ADP Stock Rises 13.4% in a Month: Here's What You Should Know",
       "summary": "ADP's 13.4% monthly gain reflects stronger profitability, innovation initiatives, solid liquidity and a consistent commitment to shareholder returns.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-20T18:12:50Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/paul-tudor-jones-just-liquidated-181250422.html"
-    },
-    {
-      "title": "Can Applied Materials Sustain Its Growth Amid AI-Driven Demand?",
-      "summary": "AMAT's AI-driven semiconductor equipment launches strengthen its advanced packaging position amid rising HBM demand and a memory production ramp-up.",
-      "pub_date": "2026-08-20T15:22:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/applied-materials-sustain-growth-amid-152200842.html"
     }
   ]
 }

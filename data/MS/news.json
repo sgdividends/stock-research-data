@@ -1,7 +1,14 @@
 {
   "ticker": "MS",
-  "generated_at": "2026-08-23T08:22:42.116612+00:00",
+  "generated_at": "2026-08-23T12:27:18.666617+00:00",
   "items": [
+    {
+      "title": "Alibaba Seeks $10 Billion From Share Sale for AI Expansion",
+      "summary": "Alibaba Group Holding Ltd. is seeking to raise about HK$80 billion ($10.2 billion) from a share sale, its latest move to compete for global leadership in artificial intelligence.",
+      "pub_date": "2026-08-23T07:35:32Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-seeks-10-billion-share-073532899.html"
+    },
     {
       "title": "Can Morgan Stanley (MS) Stay A Bargain Or Is It Fully Priced?",
       "summary": "Morgan Stanley stock has returned 182.2% over the past three years and now trades around what valuation checks suggest is roughly fair, so the question for investors is whether the current price still offers an attractive payoff for new money. A 182.2% gain over three years puts pressure on buyers to judge whether much of Morgan Stanley's value story is already reflected in the share price. Plans to build a major Dallas hub and the new U.S. Innovation Infrastructure Initiative can support...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T13:19:49Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-advance-pre-131949582.html"
-    },
-    {
-      "title": "Morgan Stanley Put Ethereum Yield in an ETP. Who Carries the Risk?",
-      "summary": "Morgan Stanley\u2019s Ethereum ETP offers staking yield, but slashing, providers and exit queues create risks for investors.",
-      "pub_date": "2026-08-21T13:06:45Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-put-ethereum-yield-130645331.html"
     }
   ]
 }
