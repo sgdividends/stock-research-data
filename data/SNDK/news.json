@@ -1,7 +1,14 @@
 {
   "ticker": "SNDK",
-  "generated_at": "2026-08-23T16:18:39.222974+00:00",
+  "generated_at": "2026-08-23T20:15:42.214507+00:00",
   "items": [
+    {
+      "title": "Jim Cramer doubles down on his bold call on memory stocks",
+      "summary": "Cramer says Micron and three other memory chip stocks still have room to run.",
+      "pub_date": "2026-08-23T17:33:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-doubles-down-bold-173300215.html"
+    },
     {
       "title": "Micron vs. Sandisk: Which AI Memory Stock Should You Own?",
       "summary": "Micron and Sandisk dominate the high-bandwidth memory, DRAM, and NAND flash markets.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-22T11:31:13Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-bought-both-113113447.html"
-    },
-    {
-      "title": "Alphabet and Amazon Are Investing $420 Billion in Artificial Intelligence (AI) Infrastructure: 4 Hardware Stocks Set to Profit",
-      "summary": "The AI hyperscalers are spending a ton of money on computing power.",
-      "pub_date": "2026-08-22T10:35:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-amazon-investing-420-billion-103500198.html"
     }
   ]
 }

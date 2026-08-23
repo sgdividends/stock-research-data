@@ -1,7 +1,21 @@
 {
   "ticker": "UBER",
-  "generated_at": "2026-08-23T16:18:45.341956+00:00",
+  "generated_at": "2026-08-23T20:15:48.295996+00:00",
   "items": [
+    {
+      "title": "Uber faces fine of nearly $1B over automated driver suspensions",
+      "summary": "The Dutch Data Protection Authority is fining Uber \u20ac825 million in the second largest penalty issued under Europe\u2019s GDPR.",
+      "pub_date": "2026-08-23T19:30:00Z",
+      "source": "TechCrunch",
+      "url": "https://finance.yahoo.com/technology/articles/uber-faces-fine-nearly-1b-193000400.html"
+    },
+    {
+      "title": "Bill Ackman's Pershing Square invests $1.1B in fintech giant",
+      "summary": "Bill Ackman\u2019s Pershing Square built a $1.1 billion new stake in the fintech heavyweight.",
+      "pub_date": "2026-08-23T17:07:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackmans-pershing-square-invests-170700368.html"
+    },
     {
       "title": "MarketBeat Week in Review \u2013 08/17 - 08/21",
       "summary": "Stocks fell this week as Treasury bond buybacks, oil prices, and Walmart earnings weighed on markets, while Bitcoin rallied; MarketBeat analysts cover Moderna, NVIDIA, Meta, RTX, and more.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-21T21:46:33Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-tesla-stock-today-214633416.html"
-    },
-    {
-      "title": "Alphabet Rises as Waymo Secures Another Robotaxi Market",
-      "summary": "Las Vegas permits strengthen Alphabet's claim that autonomous driving is becoming a commercial platform rather than a research project.",
-      "pub_date": "2026-08-21T20:00:45Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/articles/alphabet-rises-waymo-secures-another-200045385.html"
-    },
-    {
-      "title": "Tesla Jumps 3.6% as Semi Launch and Robotaxi Expansion Accelerate",
-      "summary": "The electric-vehicle giant is ending a volatile week with two potential commercial-growth engines moving closer to reality.",
-      "pub_date": "2026-08-21T18:22:20Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-jumps-3-6-semi-182220329.html"
     }
   ]
 }

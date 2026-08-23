@@ -1,6 +1,6 @@
 {
   "ticker": "GOOGL",
-  "generated_at": "2026-08-23T16:18:11.843661+00:00",
+  "generated_at": "2026-08-23T20:15:17.672417+00:00",
   "items": [
     {
       "title": "Nvidia's Q2 earnings to test resurgent AI trade",
@@ -8,6 +8,27 @@
       "pub_date": "2026-08-23T11:25:02Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html"
+    },
+    {
+      "title": "Hugging Face exploring sale valuing it at $13 billion, Business Insider says",
+      "summary": "AI startup Hugging Face has been exploring a sale that could \u200cvalue the company at $13 billion or \u200cmore, Business Insider reported on Sunday, citing people familiar with \u200bthe matter.  The New York-based company, which hosts open-source large language models and datasets,\u00a0has been working with a bank to gauge bidders' interest, the \u200creport said.  \u2022 Hugging Face did not immediately respond to a Reuters \u2060request for comment outside regular business hours.",
+      "pub_date": "2026-08-23T20:00:12Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/technology/ai/articles/hugging-face-exploring-sale-valuing-200012818.html"
+    },
+    {
+      "title": "Verizon Communications (VZ) Rolls Out New Wireless Plans With AI Perks And Upgrades",
+      "summary": "Verizon Communications (NYSE: VZ) has launched an exclusive Google Pixel 11 lineup alongside new Simplicity and Simplicity Pro wireless plans. The new offers package Google AI features with flexible yearly device upgrade options for Pixel 11 customers. Verizon is removing upgrade and activation fees for these plans, positioning the Pixel 11 launch as a broader push into value added wireless services. Verizon is not the only company tying its growth plans to AI driven consumer and network...",
+      "pub_date": "2026-08-23T19:07:09Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/verizon-communications-vz-rolls-wireless-190709855.html"
+    },
+    {
+      "title": "Texas welcomed the AI boom. Now Abbott says data centers \"dug their own grave\"",
+      "summary": "Texas Gov. Greg Abbott delivered one of the starkest warnings yet from a Republican to the AI industry, saying data center companies \"dug their own grave\" and deserve the backlash they're facing after failing to win community support.",
+      "pub_date": "2026-08-23T16:38:19Z",
+      "source": "Axios",
+      "url": "https://finance.yahoo.com/technology/ai/articles/texas-welcomed-ai-boom-now-162443584.html"
     },
     {
       "title": "Berkshire CEO Greg Abel Is Sitting on Nearly $400 Billion in Cash. Here's How His Deal-Making Approach Differs From Warren Buffett's.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-23T13:00:00Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/economy/policy/articles/bessent-no-easy-fix-really-130000330.html"
-    },
-    {
-      "title": "Nvidia Reportedly Warns Top Customers of 15% Price Hikes on AI Servers",
-      "summary": "Nvidia customers reportedly face AI server price hikes above 15% next year as DRAM costs surge ahead of Wednesday's earnings.",
-      "pub_date": "2026-08-23T10:28:24Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-reportedly-warns-top-customers-102824176.html"
-    },
-    {
-      "title": "AWS Was Lagging Microsoft Azure and Google Cloud in Growth\u2014Is Amazon Finally Catching Up?",
-      "summary": "According to Rosenblatt\u2019s Scott Devitt, Amazon (NASDAQ:AMZN)\u2019s leading position in artificial intelligence remains underappreciated. This bold claim was made in a recent research note on August 19, where Devitt initiated coverage on the stock with a $335 price target. The firm anticipates AWS to exit 2026 at a 45% growth rate, compared with the Street\u2019s [\u2026]",
-      "pub_date": "2026-08-23T08:41:05Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/aws-lagging-microsoft-azure-google-084105975.html"
-    },
-    {
-      "title": "3 Tech Compounders Fit for Warren Buffett's Portfolio",
-      "summary": "Meta, Microsoft, and TSMC are all Buffett-style compounding stocks.",
-      "pub_date": "2026-08-23T08:35:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-tech-compounders-fit-warren-083500606.html"
     }
   ]
 }
