@@ -1,7 +1,14 @@
 {
   "ticker": "KR",
-  "generated_at": "2026-08-22T20:15:59.380819+00:00",
+  "generated_at": "2026-08-23T00:58:05.330143+00:00",
   "items": [
+    {
+      "title": "91-year-old supermarket chain closes stores, lays off employees",
+      "summary": "The grocery chain will close several underperforming stores when leases expire.",
+      "pub_date": "2026-08-22T23:17:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/economy/articles/91-old-supermarket-chain-closes-231700441.html"
+    },
     {
       "title": "Kroger has a customer problem that may be its own fault",
       "summary": "The fix may not be easy, even if the chain\u2019s CEO understands the issue.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-20T14:47:00Z",
       "source": "HR Dive",
       "url": "https://finance.yahoo.com/small-business/articles/week-5-numbers-employees-struggle-144700072.html"
-    },
-    {
-      "title": "The Truth About Grocery Store Money Centers",
-      "summary": "Money Centers at major grocery retailers like Kroger and Walmart can make banking services available to those who are unbanked, but there are considerations.",
-      "pub_date": "2026-08-20T12:45:00Z",
-      "source": "Money Digest",
-      "url": "https://finance.yahoo.com/small-business/articles/truth-grocery-store-money-centers-124500329.html"
     }
   ]
 }

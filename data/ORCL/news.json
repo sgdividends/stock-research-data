@@ -1,7 +1,14 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-08-22T20:16:13.386503+00:00",
+  "generated_at": "2026-08-23T00:58:17.858054+00:00",
   "items": [
+    {
+      "title": "Nvidia customers face over 15% server price hikes as memory costs soar - report",
+      "summary": "Investing.com -- Rising memory chip costs are pushing up the price of servers that use Nvidia Corp\u2019s artificial intelligence chips, with some of the chipmaker\u2019s biggest customers facing increases of more than 15%, Bloomberg News reported on Saturday, citing people familiar with the matter.",
+      "pub_date": "2026-08-22T21:17:44Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-customers-face-over-15-211744754.html"
+    },
     {
       "title": "Nvidia customers notified about AI-related price hikes above 15%, Bloomberg News reports",
       "summary": "Some of Nvidia's largest customers have been told prices of servers \u200ccontaining its AI chips will rise by \u200cmore than 15% in many cases with memory chip \u200bcosts soaring, Bloomberg News reported on Saturday.  The price hikes will go into effect on systems shipped early next year and will impact systems including \u200cthose with the \u2060flagship Vera Rubin and Grace Blackwell chips, the report added, citing people familiar \u2060with the process.  The increases will depend on Nvidia's chip generation and memory configurations, they \u200bsaid.",
@@ -15,6 +22,13 @@
       "pub_date": "2026-08-22T18:46:46Z",
       "source": "Forkast News",
       "url": "https://finance.yahoo.com/technology/ai/articles/rillet-raised-100m-put-ai-184646510.html"
+    },
+    {
+      "title": "Powerful Growth, Multiple Endorsements Bode Well for Oracle Stock",
+      "summary": "ORCL stock also has an attractive valuation and plenty of Wall Street support.",
+      "pub_date": "2026-08-22T18:30:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/powerful-growth-multiple-endorsements-bode-183002613.html"
     },
     {
       "title": "Alphabet, Meta, and Microsoft Are Hiding $3 Trillion in Debt On the AI Boom\u2019s Hidden Ledger",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-22T00:17:25Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-starts-pr-push-001725431.html"
-    },
-    {
-      "title": "TikTok reaches $400 million settlement with US Justice Department over children's privacy",
-      "summary": "TikTok has reached a $400 million settlement with the U.S. Department of Justice, ending a 2024 lawsuit alleging the company violated federal children's privacy laws.  The DOJ said Friday that TikTok will pay $300 million immediately and another $100 million after an order vacates an earlier consent decree against its predecessor company, Musical.ly.  \u201cThis settlement is a major victory for American children and parents,\u201d said U.S. Associate Attorney General Stanley E. Woodward Jr. in a statement.",
-      "pub_date": "2026-08-22T00:08:21Z",
-      "source": "Associated Press",
-      "url": "https://finance.yahoo.com/media-advertising/articles/tiktok-reaches-400-million-settlement-000821978.html"
-    },
-    {
-      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
-      "summary": "Rillet CEO Nicolas Kopp shared growth numbers at a board meeting and set off a fundraising frenzy from Iconiq, Sequoia and others. Without even trying.",
-      "pub_date": "2026-08-21T22:10:01Z",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-accounting-startup-rillet-raised-221001796.html"
     }
   ]
 }

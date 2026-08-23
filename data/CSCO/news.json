@@ -1,7 +1,21 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-08-22T20:15:34.297668+00:00",
+  "generated_at": "2026-08-23T00:57:39.131287+00:00",
   "items": [
+    {
+      "title": "Cisco & Cerebras Orders Up, Stocks Down",
+      "summary": "Though Cisco Systems and Cerebras have bulging order books, they face some major challenges.",
+      "pub_date": "2026-08-23T00:33:43Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-cerebras-orders-stocks-down-003343430.html"
+    },
+    {
+      "title": "Jim Cramer Dismissed Market Reaction To Cisco Systems, Inc. (NASDAQ:CSCO) Following Earnings",
+      "summary": "Networking equipment provider Cisco Systems, Inc. (NASDAQ:CSCO)\u2019s shares are up by more than 60% over the past year and by more than 40% year-to-date. With the AI buildout in full swing, the firm has benefited from the demand for its products from data centers. This was evident through Cisco Systems, Inc. (NASDAQ:CSCO)\u2019s fiscal Q4 revenue [\u2026]",
+      "pub_date": "2026-08-23T00:12:40Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-dismissed-market-reaction-001240299.html"
+    },
     {
       "title": "This Stock Is Quietly Becoming an AI Powerhouse in 2026",
       "summary": "Cisco just posted its fifth straight earnings beat and the stock has surged over 60% in a year, yet most investors still think of it as the old router company. The AI order numbers buried in its latest report tell a very different story.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-20T23:43:52Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/anet-stock-compound-way-higher-234352626.html"
-    },
-    {
-      "title": "1 S&P 500 Stock to Research Further and 2 That Underwhelm",
-      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn\u2019t mean every stock is worth owning. Some companies face significant challenges, whether it\u2019s stagnating growth, heavy debt, or disruptive new competitors.",
-      "pub_date": "2026-08-20T12:27:15Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-research-122715909.html"
-    },
-    {
-      "title": "What Could Cisco Systems (CSCO) Gain From The Streaming Infrastructure Boom?",
-      "summary": "Cisco Systems (NasdaqGS: CSCO) is being highlighted as a key supplier in the global video streaming infrastructure market, which is seeing strong demand for live, low latency video and AI-enabled media workflows. Industry attention is shifting to vendors that can support expanded content delivery network capacity as streaming platforms, enterprises and cloud providers scale their video services. This focus places Cisco beyond its commonly discussed roles in networking and AI security and...",
-      "pub_date": "2026-08-20T10:08:28Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/articles/could-cisco-systems-csco-gain-100828128.html"
     }
   ]
 }
