@@ -1,7 +1,21 @@
 {
   "ticker": "SPGI",
-  "generated_at": "2026-08-24T12:37:27.504492+00:00",
+  "generated_at": "2026-08-24T16:30:14.730857+00:00",
   "items": [
+    {
+      "title": "Snowflake Stock Is Priced For Growth That Arrives At A Lower Gross Margin",
+      "summary": "Snowflake's acceleration is led by AI products that carry a lower gross margin than its core platform, and a bandwidth-cost offset is what holds the margin guide together.",
+      "pub_date": "2026-08-24T14:15:50Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/snowflake-stock-priced-growth-arrives-141550328.html"
+    },
+    {
+      "title": "The $500 Billion Experiment to Build 24/7 Markets on Blockchain",
+      "summary": "When the US and Israel launched their aerial assault on Iran on the last Saturday of February, the world\u2019s main oil markets were closed. The price of crude kept moving anyway.",
+      "pub_date": "2026-08-24T11:30:00Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/500-billion-experiment-build-24-113000240.html"
+    },
     {
       "title": "Update: Wall Street Trims Weekly Losses With Friday's Gains",
       "summary": "(Updates with market moves at the end of the day, and other changes, if any.) US stocks rose Frid",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-21T17:49:55Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/equities-rebound-intraday-yields-rise-174955554.html"
-    },
-    {
-      "title": "Most Of What Moves AbbVie Stock Has Nothing To Do With The Market",
-      "summary": "What AbbVie sells, and who pays for it, is the useful way to read its low correlation to the index.",
-      "pub_date": "2026-08-21T17:48:49Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/most-moves-abbvie-stock-nothing-174849693.html"
-    },
-    {
-      "title": "Private-Sector Growth Reaches 52-Month High Amid Services Boost as Price Pressures Ease",
-      "summary": "US private-sector output growth hit a 52-month high amid a surge in services activity, while price p",
-      "pub_date": "2026-08-21T16:45:18Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/economy/articles/private-sector-growth-reaches-52-164518984.html"
     }
   ]
 }

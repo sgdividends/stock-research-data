@@ -1,7 +1,28 @@
 {
   "ticker": "UBER",
-  "generated_at": "2026-08-24T12:37:33.703018+00:00",
+  "generated_at": "2026-08-24T16:30:19.817498+00:00",
   "items": [
+    {
+      "title": "Tesla Cybercab to launch Sept. 3 as robotaxi bet ramps up",
+      "summary": "Tesla will unveil the production Cybercab at a launch event in Austin, Texas, on Sept. 3. This comes as Tesla ramps up its self-driving efforts \u2014 key to the company's big growth plans.",
+      "pub_date": "2026-08-24T13:55:57Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/tesla-cybercab-to-launch-sept-3-as-robotaxi-bet-ramps-up-135557945.html"
+    },
+    {
+      "title": "Dutch regulator fines Uber \u20ac824.99m over automated driver dismissals",
+      "summary": "The Autoriteit Persoonsgegevens found that Uber relied on software to track driver conduct and customer feedback, leading to accounts being automatically suspended over suspected fraud and permanently shut down where ratings stayed low over time.",
+      "pub_date": "2026-08-24T16:12:56Z",
+      "source": "Just Auto",
+      "url": "https://finance.yahoo.com/technology/ai/articles/dutch-regulator-fines-uber-824-161256664.html"
+    },
+    {
+      "title": "Why Tesla\u2019s Nevada Robo-Taxi Approval Can\u2019t Save the Stock",
+      "summary": "The long-awaited scaling up of  Tesla\u2019s  robo-taxi service might be close.  The Nevada Transportation Authority has approved autonomous vehicle applications for Tesla,  Alphabet\u2019s  Waymo, and Aviari, an  Uber  platform.  Tesla will be allowed to deploy up to 5,000 robo-taxis over the coming 12 months.",
+      "pub_date": "2026-08-24T14:29:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/tesla-stock-price-nevada-robo-taxi-approval-3648e0e0?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Does Billionaire Bill Ackman Know Something Wall Street Doesn\u2019t? He Invested in These 2 Stocks That Have Dropped 33% and 18% Over the Past Year",
       "summary": "Bill Ackman is shopping for great deals. Investors might want to follow suit.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-22T04:20:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-david-tepper-sells-lyft-042000321.html"
-    },
-    {
-      "title": "Uber (UBER) Hit With \u20ac825 Million GDPR Fine Over Driver Suspensions",
-      "summary": "Uber Technologies (NYSE:UBER) has been fined \u20ac825 million by the Dutch Data Protection Authority over past automated driver account suspensions under GDPR. The regulator found that Uber's systems lacked sufficient human oversight and due process when deactivating driver accounts in the Netherlands. This is the second-largest GDPR fine issued to date, raising regulatory and reputational questions for Uber in major international markets. For readers looking to explore more companies exposed...",
-      "pub_date": "2026-08-22T01:11:50Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/uber-uber-hit-825-million-011150734.html"
-    },
-    {
-      "title": "Uber (UBER) Stock Fair Value Edges Lower As Analysts Weigh AV Spending And Delivery Hero",
-      "summary": "Uber Technologies has seen its fair value estimate adjusted from about US$104.48 to about US$101.50 per share, which signals a more measured stance on upside from current levels. Most analysts are fine tuning targets within ranges such as US$90 to US$100 and US$110 to US$115, reflecting mixed but generally constructive views rather than a reset of the overall story. As you read on, you will see how these shifting targets, recent deals and the autonomous vehicle narrative fit together and how...",
-      "pub_date": "2026-08-22T00:17:33Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/uber-uber-stock-fair-value-001733853.html"
-    },
-    {
-      "title": "Uber Brings Baidu\u2019s Driverless Robotaxis To Dubai",
-      "summary": "Uber Technologies Inc. and Baidu Inc. launched fully driverless Apollo Go robotaxis on Uber\u2019s platform in Dubai on Thursday. The launch marks the first deployment under the companies\u2019 multiyear partnership. New Horizon Luxury Transport will operate the fleet. Driverless Rides...",
-      "pub_date": "2026-08-21T22:00:35Z",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/technology/ai/articles/uber-brings-baidu-driverless-robotaxis-220035236.html"
     }
   ]
 }

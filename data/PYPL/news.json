@@ -1,9 +1,23 @@
 {
   "ticker": "PYPL",
-  "generated_at": "2026-08-24T12:37:23.574702+00:00",
+  "generated_at": "2026-08-24T16:30:11.114499+00:00",
   "items": [
     {
-      "title": "Peter Thiel\u2019s Fund Shows the Next Big AI Bet Is Power, Not Chips",
+      "title": "Top Mobile Payments Stocks to Buy as Digital Transactions Surge",
+      "summary": "Mobile payments are gaining momentum as digital wallets, instant payments and embedded finance reshape global commerce. RELY, PAY, DLO and MQ could be among the biggest beneficiaries.",
+      "pub_date": "2026-08-24T13:08:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-mobile-payments-stocks-buy-130800518.html"
+    },
+    {
+      "title": "This Week In Digital Payment - AI Revolutionizes Cross-Border Trade Efficiency and Compliance",
+      "summary": "AI is transforming the digital payment landscape in cross-border trade by enhancing efficiency and compliance. At the recent XTransfer Summit 26 in Shenzhen, industry leaders and experts explored the integration of AI technologies that improve payment security and streamline processes. XTransfer's proprietary AI model, TradePilot, automates significant aspects of transaction reviews, significantly reducing fraud rates while maintaining cost-effective operations for small and medium-sized...",
+      "pub_date": "2026-08-24T12:37:36Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/week-digital-payment-ai-revolutionizes-123736651.html"
+    },
+    {
+      "title": "Peter Thiel's Fund Shows the Next Big AI Bet Is Power, Not Chips",
       "summary": "Peter Thiel's fund reveals an 8-stock 13F filing dominated by utilities, betting AI needs power more than chips.",
       "pub_date": "2026-08-24T02:07:15Z",
       "source": "BeInCrypto",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-21T16:45:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-agentic-payments-reshape-future-164500935.html"
-    },
-    {
-      "title": "\u2018It\u2019s Done\u2019: Investor Warns Warren Buffett\u2019s Berkshire Can\u2019t Beat the S&P 500 \u2014 Bets on PayPal and Intel Instead",
-      "summary": "Great Hill Capital founder Tom Hayes believes Berkshire Hathaway Inc. will fail to beat the S&P 500 over the next decade, declaring the conglomerate\u2019s era of market outperformance is \u201cdone.\u201d Instead, the contrarian investor is placing high-conviction turnaround bets on...",
-      "pub_date": "2026-08-21T12:31:11Z",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/done-investor-warns-warren-buffett-123111231.html"
-    },
-    {
-      "title": "TenPay Global partners with ShopeePay for cross-border QR payments",
-      "summary": "The QR payment integration is set to launch first for ShopeePay customers in Singapore and Thailand.",
-      "pub_date": "2026-08-21T12:12:00Z",
-      "source": "Electronic Payments",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/tenpay-global-partners-shopeepay-cross-121200213.html"
     }
   ]
 }

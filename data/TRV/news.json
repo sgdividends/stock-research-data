@@ -1,7 +1,14 @@
 {
   "ticker": "TRV",
-  "generated_at": "2026-08-24T12:37:32.097105+00:00",
+  "generated_at": "2026-08-24T16:30:18.611720+00:00",
   "items": [
+    {
+      "title": "Stock Market Today: Dow Up As Trump Makes This Canada Warning; Nvidia Dips, Retailer Tests Entry (Live Coverage)",
+      "summary": "The Dow Jones average rises but other indexes fall as President Trump lashes out at Canada. Nvidia dives but a stock clears an entry.",
+      "pub_date": "2026-08-24T15:56:19Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo"
+    },
     {
       "title": "Travelers builds its own LLM, cutting AI costs",
       "summary": "The insurer built TravelersLLM to handle insurance-specific queries, while broad reasoning, research and coding queries are saved for frontier models.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-19T14:27:48Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-travelers-142748536.html"
-    },
-    {
-      "title": "Is Travelers Companies (TRV) Fully Priced On Earnings Strength And Dividend Growth?",
-      "summary": "Travelers Companies stock reacts to profit jump and dividend growth Travelers Companies (TRV) has been in focus after a quarterly report that combined flat revenue with higher profit, supported by lower catastrophe losses, stronger investment income, and another increase in its long-running dividend stream. See our latest analysis for Travelers Companies. Travelers Companies\u2019 latest report and dividend hike come after a strong run, with a 90 day share price return of 19.86% and a 1 year total...",
-      "pub_date": "2026-08-19T09:11:16Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/travelers-companies-trv-fully-priced-091116265.html"
     }
   ]
 }
