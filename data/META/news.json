@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "generated_at": "2026-08-24T00:55:55.544320+00:00",
+  "generated_at": "2026-08-24T04:39:31.092555+00:00",
   "items": [
     {
       "title": "Nvidia's Q2 earnings to test resurgent AI trade",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-23T11:25:02Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html"
+    },
+    {
+      "title": "Peter Thiel\u2019s Fund Shows the Next Big AI Bet Is Power, Not Chips",
+      "summary": "Peter Thiel's fund reveals an 8-stock 13F filing dominated by utilities, betting AI needs power more than chips.",
+      "pub_date": "2026-08-24T02:07:15Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/technology/ai/articles/peter-thiel-fund-shows-next-020715134.html"
     },
     {
       "title": "Will Meta be found guilty of driving social media addiction?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-23T08:35:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-tech-compounders-fit-warren-083500606.html"
-    },
-    {
-      "title": "American billionaires are showing off their farmland for elaborate hobbies, but a buying spree among the ultrarich risks pricing farmers out",
-      "summary": "Mark Zuckerberg and Alexis Ohanian have become amateur yeoman, but other one-percenters may be putting actual farmers at a disadvantage.",
-      "pub_date": "2026-08-23T08:30:00Z",
-      "source": "Fortune",
-      "url": "https://finance.yahoo.com/real-estate/articles/american-billionaires-showing-off-farmland-083000938.html"
     }
   ]
 }

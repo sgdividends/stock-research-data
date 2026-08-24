@@ -1,7 +1,14 @@
 {
   "ticker": "AAPL",
-  "generated_at": "2026-08-24T00:55:14.055961+00:00",
+  "generated_at": "2026-08-24T04:38:34.942828+00:00",
   "items": [
+    {
+      "title": "A $650 smartphone takes aim at Apple and Samsung\u2019s surging repair costs",
+      "summary": "A DIY-repairable smartphone is entering the market.",
+      "pub_date": "2026-08-24T04:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/articles/650-smartphone-takes-aim-apple-040300139.html"
+    },
     {
       "title": "Nvidia\u2019s 15% Price Hike Reveals the Hidden Cost of the AI Boom",
       "summary": "The AI boom is quietly sending a surge of inflation through every corner of the tech industry, and Nvidia's latest move suggests the pressure is only getting started.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-22T22:20:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/apple-announced-largest-ever-stock-222000154.html"
-    },
-    {
-      "title": "Apple vs. Meta Platforms: Which \"Magnificent Seven\" Giant Has the Stronger Artificial Intelligence (AI) Growth Engine?",
-      "summary": "Apple and Meta have been laggards in the AI arms race.",
-      "pub_date": "2026-08-22T19:59:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/technology/ai/articles/apple-vs-meta-platforms-magnificent-195900118.html"
     }
   ]
 }
