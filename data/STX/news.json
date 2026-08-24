@@ -1,13 +1,27 @@
 {
   "ticker": "STX",
-  "generated_at": "2026-08-24T16:30:15.422090+00:00",
+  "generated_at": "2026-08-24T20:23:37.007263+00:00",
   "items": [
     {
-      "title": "Stock Market Today: Dow Up As Trump Makes This Canada Warning; Nvidia Dips, Retailer Tests Entry (Live Coverage)",
+      "title": "Micron, Seagate, Western Digital, Semtech, and Penguin Solutions Shares Are Falling, What You Need To Know",
+      "summary": "A number of stocks fell in the afternoon session after investors trimmed chip exposure to reduce portfolio risk ahead of Nvidia's highly anticipated earnings report.",
+      "pub_date": "2026-08-24T20:09:36Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-seagate-western-digital-semtech-200936690.html"
+    },
+    {
+      "title": "Stock Market Today: Dow Up As Bessent Touts These Iran Measures; Copper Player Tests Entry (Live Coverage)",
       "summary": "The Dow Jones average rises but other indexes fall as President Trump lashes out at Canada. Nvidia dives but a stock clears an entry.",
-      "pub_date": "2026-08-24T15:56:19Z",
+      "pub_date": "2026-08-24T19:36:59Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "SNDK Jumps 25% in a Month: Is there More Room for the Stock to Rise?",
+      "summary": "Sandisk's 25% monthly jump reflects surging Datacenter revenue, AI-driven demand and multi-year contracts that improve revenue visibility.",
+      "pub_date": "2026-08-24T16:57:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sndk-jumps-25-month-more-165700507.html"
     },
     {
       "title": "WDC's Strong Q4 Raises the Stakes for Its Fiscal 2027 Product Ramp",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-24T10:50:57Z",
       "source": "Investopedia",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-futures-point-105057705.html"
-    },
-    {
-      "title": "Jim Cramer doubles down on his bold call on memory stocks",
-      "summary": "Cramer says Micron and three other memory chip stocks still have room to run.",
-      "pub_date": "2026-08-23T17:33:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-doubles-down-bold-173300215.html"
-    },
-    {
-      "title": "Micron Technology: Is MU Stock a No-Brainer Buy as AI Memory Demand Surges in 2026?",
-      "summary": "Wall Street just handed Micron a near-unanimous buy rating while its forward earnings multiple sits in value-stock territory, and the reason why challenges everything investors thought they knew about the boom-bust memory cycle.",
-      "pub_date": "2026-08-23T12:00:45Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/micron-technology-mu-stock-no-120045068.html"
     }
   ]
 }

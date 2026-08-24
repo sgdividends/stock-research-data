@@ -1,14 +1,7 @@
 {
   "ticker": "AAPL",
-  "generated_at": "2026-08-24T16:29:26.538792+00:00",
+  "generated_at": "2026-08-24T20:22:26.067040+00:00",
   "items": [
-    {
-      "title": "Stock market today: S&P 500, Nasdaq slip as tech stocks sag, US-Canada trade spat escalates",
-      "summary": "Markets are kicking off an action-packed week featuring Nvidia earnings and the Federal Reserve's Jackson Hole Symposium.",
-      "pub_date": "2026-08-24T08:03:06Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html"
-    },
     {
       "title": "Semiconductor stocks drag S&P 500, Nasdaq lower: AlphaCheck",
       "summary": "Tech stocks dragged on the S&P 500 and Nasdaq in early trading.",
@@ -17,46 +10,53 @@
       "url": "https://finance.yahoo.com/markets/article/semiconductor-stocks-drag-sp-500-nasdaq-lower-alphacheck-135725875.html"
     },
     {
-      "title": "Microsoft Stock's Upside Now Runs Through Its Data Center Build",
-      "summary": "The bull case here turns less on whether AI demand arrives than on how fast Microsoft can deliver the orders it has already booked.",
-      "pub_date": "2026-08-24T15:31:33Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stocks-upside-now-runs-153133597.html"
-    },
-    {
-      "title": "Apple Just Became Wall Street\u2019s Favorite Mag 7 Stock for a Surprising Reason",
-      "summary": "While Alphabet and Microsoft burn through hundreds of billions on AI infrastructure, one Magnificent 7 giant is hitting fresh highs by doing the opposite, and Wall Street is starting to notice why that matters.",
-      "pub_date": "2026-08-24T15:30:06Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-just-became-wall-street-153006755.html"
-    },
-    {
-      "title": "Memory Stocks Slide on Report Apple May Source Chinese Chips: SanDisk Down 9%, Micron and Western Digital Down 7%",
-      "summary": "Weekend reports that Washington may let Apple source memory chips from Chinese suppliers sent shockwaves through the sector, but at least one analyst says the market is badly misreading what Chinese suppliers can actually deliver.",
-      "pub_date": "2026-08-24T15:29:36Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/memory-stocks-slide-report-apple-152936889.html"
-    },
-    {
-      "title": "Nvidia Sinks: Earnings Apprehension Or AI Trade Unwind? Is Nvidia A Buy Now?",
-      "summary": "Nvidia stock is in a cup base that has a proper buy point of 236.54. Second-quarter earnings are due Wednesday.",
-      "pub_date": "2026-08-24T14:30:41Z",
+      "title": "Warren Buffett's Favorite 'Forever' Stock Hits A Buy Point After Big Rally",
+      "summary": "Coca-Cola stock is considered one of Warren Buffett's most famous and successful investments. Coke is one of his oldest investments too.",
+      "pub_date": "2026-08-24T20:07:25Z",
       "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/research/nvidia-nvda-stock-buy-now-earnings-august-2026/?src=A00220&yptr=yahoo"
+      "url": "https://www.investors.com/news/warren-buffett-coca-cola-stock-favorite-forever-holding/?src=A00220&yptr=yahoo"
     },
     {
-      "title": "Why Micron Stock Dropped This Morning",
-      "summary": "China is coming for Micron's market share. It's time to start worrying.",
-      "pub_date": "2026-08-24T14:16:07Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-stock-dropped-morning-141607334.html"
+      "title": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
+      "summary": "Samsung's collapse and Nvidia's approaching earnings test are triggering profit-taking across the semiconductor supply chain.",
+      "pub_date": "2026-08-24T19:49:32Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-slides-2-3-ai-194932749.html"
     },
     {
-      "title": "The AI Opportunity Qualcomm Investors May Be Underestimating",
-      "summary": "Wall Street treats Qualcomm like a handset company in slow decline, but a closer look at its data center roadmap and two confirmed hyperscaler wins suggests investors are pricing in the wrong business entirely.",
-      "pub_date": "2026-08-24T13:30:01Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-opportunity-qualcomm-investors-may-133001759.html"
+      "title": "Coinbase Brings Tokenized Stocks to Ethereum L2 Base",
+      "summary": "The tokens represent shares held by regulated custodian Alpaca and can be traded or used in decentralized finance applications on Base.",
+      "pub_date": "2026-08-24T19:43:43Z",
+      "source": "decrypt",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-brings-tokenized-stocks-ethereum-194343542.html"
+    },
+    {
+      "title": "Best Buy Set to Top Second-Quarter Comparable Sales Views Amid Positive Credit Card Data, Wedbush Says",
+      "summary": "Best Buy (BBY) is poised to surpass expectations for its fiscal second-quarter comparable sales amid",
+      "pub_date": "2026-08-24T19:38:18Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/best-buy-set-top-second-193818837.html"
+    },
+    {
+      "title": "Why shunning Apple Pay no longer works for Walmart",
+      "summary": "The big box retailer was a notorious holdout, but payment analysts said consumer annoyance and the coming of agentic payments are weighing against the data control enjoyed by keeping Apple outside.",
+      "pub_date": "2026-08-24T19:27:56Z",
+      "source": "American Banker",
+      "url": "https://finance.yahoo.com/technology/articles/why-shunning-apple-pay-no-192756687.html"
+    },
+    {
+      "title": "Apple (AAPL)\u2019s China AI Strategy: Why Remove the Alibaba (BABA) Guide?",
+      "summary": "Reuters reported on August 14, 2026, that Apple Inc. (NASDAQ:AAPL) has trained its own large language model specifically for the China market, developed in partnership with and trained with support from Alibaba Group Holding Limited (NYSE:BABA), according to three people familiar with the matter. It is a departure from Apple\u2019s approach of relying on third-party [\u2026]",
+      "pub_date": "2026-08-24T19:15:43Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/apple-aapl-china-ai-strategy-191543194.html"
+    },
+    {
+      "title": "Xiaomi Takes Another Page From Apple",
+      "summary": "The company is taking greater control of its technology stack",
+      "pub_date": "2026-08-24T19:12:26Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/articles/xiaomi-takes-another-page-apple-191226312.html"
     }
   ]
 }

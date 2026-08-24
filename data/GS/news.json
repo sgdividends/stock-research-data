@@ -1,7 +1,28 @@
 {
   "ticker": "GS",
-  "generated_at": "2026-08-24T16:29:51.593064+00:00",
+  "generated_at": "2026-08-24T20:23:02.570072+00:00",
   "items": [
+    {
+      "title": "Goldman Sachs partner Chris Churchman warns AI risks banker skills",
+      "summary": "Chris Churchman, who leads Goldman's Marquee platform, said AI risks causing \"cognitive atrophy\" among junior bankers who outsource thinking to algorithms",
+      "pub_date": "2026-08-24T17:16:26Z",
+      "source": "Quartz",
+      "url": "https://finance.yahoo.com/technology/ai/articles/goldman-sachs-partner-chris-churchman-171626050.html"
+    },
+    {
+      "title": "Goldman, Wells Say Treasury Buybacks Unlikely to Cut Long Rates",
+      "summary": "Interest-rate strategists at Goldman Sachs Group Inc., Wells Fargo & Co. and other Wall Street firms said the US Treasury Department\u2019s bond buybacks will do little to reverse the jump in long-term yields.",
+      "pub_date": "2026-08-24T16:01:15Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/economy/policy/articles/goldman-wells-treasury-buybacks-unlikely-160115810.html"
+    },
+    {
+      "title": "America\u2019s energy sector will need 500,000 more workers by 2030 thanks to AI\u2014but unless more workers retrain, humanoid robots will have to step in",
+      "summary": "America\u2019s energy sector is thriving thanks to AI. The only issue? There aren\u2019t enough workers to meet the demand.",
+      "pub_date": "2026-08-24T15:14:18Z",
+      "source": "Fortune",
+      "url": "https://finance.yahoo.com/energy/articles/america-energy-sector-500-000-151418778.html"
+    },
     {
       "title": "Morgan Stanley Gains 45.1% in a Year: Should You Buy MS Stock Now?",
       "summary": "MS outpaces peers with a 45.1% share price gain, but trading cyclicality, rising expenses and a premium valuation could limit further upside.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-24T03:17:09Z",
       "source": "BeInCrypto",
       "url": "https://finance.yahoo.com/markets/stocks/articles/liquid-death-ceo-dodges-ipo-031709573.html"
-    },
-    {
-      "title": "A Tax Strategy So Aggressive It Built the World\u2019s Largest Hedge Fund and Made Losing Money the Hottest Product on Wall Street",
-      "summary": "Cliff Asness spent three decades fuming that taxes destroyed more investor wealth than bad stock picks ever did, so he built a fund that turns losing money into the actual product. What regulators are now calling potentially abusive, his clients are calling the smartest trade on Wall Street.",
-      "pub_date": "2026-08-23T22:54:31Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/economy/policy/articles/tax-strategy-aggressive-built-world-225431758.html"
-    },
-    {
-      "title": "Goldman Sachs spots huge twist ahead of Nvidia\u2019s earnings",
-      "summary": "Analysts reveal what could happen to Nvidia shares next, and set expectations for the Q2 report.",
-      "pub_date": "2026-08-23T22:17:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-spots-huge-twist-221700780.html"
-    },
-    {
-      "title": "The Gas Turbine Shortage Just Became AI\u2019s Biggest Constraint",
-      "summary": "Gas turbine order books now stretch to 2031, leaving the AI data center buildout running on power plans the equipment cannot deliver.",
-      "pub_date": "2026-08-22T21:00:00Z",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/energy/articles/gas-turbine-shortage-just-became-210000180.html"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "VST",
-  "generated_at": "2026-08-24T16:30:22.054911+00:00",
+  "generated_at": "2026-08-24T20:23:47.520046+00:00",
   "items": [
     {
       "title": "Peter Thiel\u2019s $418 Million Bet On These 8 Companies Reveals AI\u2019s Biggest Bottleneck",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-24T11:04:41Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/peter-thiel-418-million-bet-110441651.html"
+    },
+    {
+      "title": "Vistra Corp. Stock: Is Wall Street Bullish or Bearish?",
+      "summary": "Vistra Corp. has underperformed the broader market over the past year, yet analysts remain highly bullish about the stock\u2019s prospects.",
+      "pub_date": "2026-08-24T11:02:15Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-corp-stock-wall-street-110215038.html"
     },
     {
       "title": "Vistra Is the Quietest Big Winner of the AI Power Boom. Here's Why.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-19T21:19:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/pennsylvanias-new-data-center-rules-arent-all-bad-for-power-companies-3ef9661a?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Pennsylvania dangles permitting carrot for data centers that bring their own power",
-      "summary": "Under a new permitting framework for loads over 25 MW, applicants that commit to abide by the state\u2019s recently introduced infrastructure development standards for data centers will receive preferential treatment.",
-      "pub_date": "2026-08-19T10:56:21Z",
-      "source": "Utility Dive",
-      "url": "https://finance.yahoo.com/energy/articles/pennsylvania-dangles-permitting-carrot-data-105621992.html"
     }
   ]
 }

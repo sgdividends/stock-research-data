@@ -1,7 +1,21 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-08-24T16:29:34.110567+00:00",
+  "generated_at": "2026-08-24T20:22:37.008615+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Advance Late Afternoon",
+      "summary": "Financial stocks were higher in late Monday afternoon trading, with the NYSE Financial Index rising",
+      "pub_date": "2026-08-24T19:58:55Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-advance-afternoon-195855484.html"
+    },
+    {
+      "title": "Update: Market Chatter: BlackRock Sounding Out Buyers for TCP Private Credit Assets",
+      "summary": "(Update with BlackRock's response to a request for comment in the last paragraph.) BlackRock (BLK",
+      "pub_date": "2026-08-24T18:58:28Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-blackrock-sounding-buyers-185828920.html"
+    },
     {
       "title": "BlackRock\u2019s Bitcoin Fund Just Paid Its First Dividend: 18.5% Annualized, While Bitcoin Sleeps at $65K",
       "summary": "BlackRock just launched a Bitcoin fund that writes covered calls to generate monthly income, and its debut distribution caught a lot of IBIT holders off guard. Before you dismiss it or rush into it, there are some tradeoffs that could change the math entirely.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-24T10:20:01Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-morningstar-small-cap-growth-102001335.html"
-    },
-    {
-      "title": "Should You Invest in the iShares U.S. Digital Infrastructure and Real Estate ETF (IDGT)?",
-      "summary": "Sector ETF report for IDGT",
-      "pub_date": "2026-08-24T10:20:01Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/invest-ishares-u-digital-infrastructure-102001411.html"
-    },
-    {
-      "title": "Should You Invest in the iShares Expanded Tech-Software Sector ETF (IGV)?",
-      "summary": "Sector ETF report for IGV",
-      "pub_date": "2026-08-24T10:20:01Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/invest-ishares-expanded-tech-software-102001198.html"
     }
   ]
 }

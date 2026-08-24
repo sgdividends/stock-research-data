@@ -1,7 +1,14 @@
 {
   "ticker": "SCHW",
-  "generated_at": "2026-08-24T16:30:13.404183+00:00",
+  "generated_at": "2026-08-24T20:23:34.295692+00:00",
   "items": [
+    {
+      "title": "Schwab SCHD holders are missing its ideal dividend ETF match",
+      "summary": "The Schwab dividend fund that yields more, but few investors own.",
+      "pub_date": "2026-08-24T17:07:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/schwab-schd-holders-missing-ideal-170700749.html"
+    },
     {
       "title": "NYSE and Nasdaq Want 23-Hour Trading. Here Is What It Means for You.",
       "summary": "Nasdaq and the New York Stock Exchange plan to expand trading hours in December. Thinner overnight markets could bring new risks for retail investors.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T15:17:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/lpl-financial-sustain-strong-asset-151700209.html"
-    },
-    {
-      "title": "Wall Street Calls It \u201cTax Alpha.\u201d It\u2019s a $1 Trillion Machine for Beating the IRS Instead of the Market",
-      "summary": "Wealthy investors have found a way to legally manufacture losses worth multiples of their initial investment, and the strategy just crossed a trillion dollars in assets before regulators started calling it potentially abusive.",
-      "pub_date": "2026-08-21T09:20:38Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/economy/policy/articles/wall-street-calls-tax-alpha-092038710.html"
     }
   ]
 }
