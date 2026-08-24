@@ -1,7 +1,14 @@
 {
   "ticker": "IVZ",
-  "generated_at": "2026-08-24T04:39:23.057707+00:00",
+  "generated_at": "2026-08-24T08:40:54.785686+00:00",
   "items": [
+    {
+      "title": "ETF Closures Have Nearly Doubled as New Funds Flood the Market",
+      "summary": "Fund providers have shut down 217 exchange-traded funds so far this year, nearly double the number at this point last year, even as the industry churns out new funds at a record pace.  The closures are in part a consequence of the explosive growth of the ETF industry, with asset managers launching funds that sometimes fail to attract enough assets or otherwise gain traction.  Investors have flocked to ETFs in recent years because of their low costs, the ability to trade them easily like stocks, and the proliferation of funds offering exposure to everything from memory chips to the burgeoning space economy.",
+      "pub_date": "2026-08-24T07:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/etf-closures-funds-investing-bb9e107c?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Which Consumer Staples ETF Is a Better Buy: Invesco's RSPS or SPDR's XLP?",
       "summary": "State Street's market-cap approach delivered 22% stronger 5-year gains, but Invesco's equal-weight strategy offers more balanced exposure.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-20T00:24:40Z",
       "source": "etf.com",
       "url": "https://finance.yahoo.com/markets/options/articles/10-most-popular-ai-etfs-002440472.html"
-    },
-    {
-      "title": "Can C Capitalize on Digital Asset Growth With New Custody Platform?",
-      "summary": "Citigroup's new Custody platform launch expands its digital-asset strategy, linking custody, tokenized payments and institutional services to capture more transaction flows.",
-      "pub_date": "2026-08-19T14:25:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/c-capitalize-digital-asset-growth-142500070.html"
     }
   ]
 }

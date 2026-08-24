@@ -1,7 +1,14 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-08-24T04:38:53.841637+00:00",
+  "generated_at": "2026-08-24T08:40:35.561137+00:00",
   "items": [
+    {
+      "title": "Trump Team Pulls Millions From TRUMP Memecoin Liquidity Pools During Price Rally",
+      "summary": "Trump-linked wallets pulled USDC from TRUMP liquidity pools again this week, extending a pattern tracked since April 2025.",
+      "pub_date": "2026-08-24T04:31:25Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/trump-team-pulls-millions-trump-043125283.html"
+    },
     {
       "title": "Donald Trump Sold MicroStrategy and Bought Two Other Crypto Stocks",
       "summary": "Trump's June filing lists more than 1,000 trades worth up to $263 million, with just 7 touching crypto-linked equities.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-22T02:11:45Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-global-coin-could-25-021145743.html"
-    },
-    {
-      "title": "U.S. Stocks Rise as Bitcoin Nears $80,000",
-      "summary": "Treasury yields held near their highest levels in over a decade, however, and the S&P 500 posted its first weekly loss since late July.  The S&P 500 gained 33.21 points, or 0.43%, to 7674.37, while the Nasdaq Composite advanced 113.29 points, or 0.43%, to 26180.45.  The rally was driven by a combination of forces: Treasury Secretary Scott Bessent\u2019s bond buyback announcement, President Trump\u2019s push for crypto-friendly legislation and big inflows into spot bitcoin ETFs.",
-      "pub_date": "2026-08-21T21:38:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-rise-as-bitcoin-nears-80-000-5de452ad?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
