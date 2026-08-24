@@ -1,7 +1,14 @@
 {
   "ticker": "DLR",
-  "generated_at": "2026-08-23T20:15:07.947326+00:00",
+  "generated_at": "2026-08-24T00:55:32.864416+00:00",
   "items": [
+    {
+      "title": "The AI Debt Boom Is Helping Push Everyone\u2019s Cost of Capital Higher",
+      "summary": "Every bond a hyperscaler sells to fund its next GPU cluster competes directly with Treasuries for the same pool of capital, and the ripple is now hitting five companies in ways most investors have not priced in.",
+      "pub_date": "2026-08-23T23:18:17Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-debt-boom-helping-push-231817517.html"
+    },
     {
       "title": "3 Data Center Stocks Powering the AI Buildout",
       "summary": "The AI spending boom has moved past GPUs and into the physical infrastructure holding it all together, and three US-listed stocks are quietly capturing billions in locked-in demand across power, connectivity, and real estate.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-12T18:31:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dlr-worth-buying-growth-accelerates-183100088.html"
-    },
-    {
-      "title": "DLR Jumps 9.9% in the Past Month as Leasing Momentum Accelerates",
-      "summary": "DLR's 9.9% monthly gain reflects record leasing backlog, strong renewal pricing and a larger pre-leased development pipeline.",
-      "pub_date": "2026-08-12T18:30:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dlr-jumps-9-9-past-183000593.html"
     }
   ]
 }

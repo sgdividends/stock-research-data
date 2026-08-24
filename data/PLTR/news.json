@@ -1,7 +1,14 @@
 {
   "ticker": "PLTR",
-  "generated_at": "2026-08-23T20:15:37.367181+00:00",
+  "generated_at": "2026-08-24T00:56:04.185579+00:00",
   "items": [
+    {
+      "title": "The AI Debt Boom Is Helping Push Everyone\u2019s Cost of Capital Higher",
+      "summary": "Every bond a hyperscaler sells to fund its next GPU cluster competes directly with Treasuries for the same pool of capital, and the ripple is now hitting five companies in ways most investors have not priced in.",
+      "pub_date": "2026-08-23T23:18:17Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-debt-boom-helping-push-231817517.html"
+    },
     {
       "title": "Trump Continues Trading Stocks at Warp Speed: Berkshire Bought, Meta Sold",
       "summary": "President Trump's accounts executed more than 1,000 trades in a single month, including moves in a major defense contractor timed suspiciously close to a surprise geopolitical agreement, and Congress just passed a fix that deliberately leaves him out.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T18:10:47Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-says-ai-buildout-181047777.html"
-    },
-    {
-      "title": "Even The Calm Reading On Palantir Puts Nearly Half The Position In Play",
-      "summary": "The options market expects this stock to move less than it actually has, and the range it still marks out is wide enough to reshape a holding in either direction.",
-      "pub_date": "2026-08-21T17:27:17Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/even-calm-reading-palantir-puts-172717000.html"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "generated_at": "2026-08-23T20:15:31.271251+00:00",
+  "generated_at": "2026-08-24T00:55:57.543118+00:00",
   "items": [
     {
       "title": "Nvidia's Q2 earnings to test resurgent AI trade",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-23T11:25:02Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html"
+    },
+    {
+      "title": "This Company Just Paid Out $6.8 Billion. Its AI Bill Was 4x That",
+      "summary": "Microsoft just handed shareholders nearly $7 billion in a single day, yet its AI spending bill dwarfs that figure by a staggering margin. Whether Redmond can keep the dividend growing while burning through historic levels of capital is the question every income investor needs to answer before September.",
+      "pub_date": "2026-08-23T20:38:55Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/company-just-paid-6-8-203855489.html"
     },
     {
       "title": "Microsoft (MSFT) Gets New Australia News Rules As AI Commerce Push Deepens",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-23T11:00:29Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/4-low-cost-etfs-every-110029694.html"
-    },
-    {
-      "title": "Nvidia Reportedly Warns Top Customers of 15% Price Hikes on AI Servers",
-      "summary": "Nvidia customers reportedly face AI server price hikes above 15% next year as DRAM costs surge ahead of Wednesday's earnings.",
-      "pub_date": "2026-08-23T10:28:24Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-reportedly-warns-top-customers-102824176.html"
     }
   ]
 }

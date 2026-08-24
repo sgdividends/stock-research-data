@@ -1,7 +1,14 @@
 {
   "ticker": "CEG",
-  "generated_at": "2026-08-23T20:15:00.696916+00:00",
+  "generated_at": "2026-08-24T00:55:25.635237+00:00",
   "items": [
+    {
+      "title": "The AI Debt Boom Is Helping Push Everyone\u2019s Cost of Capital Higher",
+      "summary": "Every bond a hyperscaler sells to fund its next GPU cluster competes directly with Treasuries for the same pool of capital, and the ripple is now hitting five companies in ways most investors have not priced in.",
+      "pub_date": "2026-08-23T23:18:17Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-debt-boom-helping-push-231817517.html"
+    },
     {
       "title": "2 Energy Stocks Riding the Data Center Power Crunch",
       "summary": "These companies operate in two different phases of the power supply chain and complement each other.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-18T11:37:13Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/energy/articles/latest-news-energy-transition-germanys-113713744.html"
-    },
-    {
-      "title": "Prediction: Constellation Energy Reclaims Its $412 Record Before 2030",
-      "summary": "Getting back to the record by 2030 takes about 13% a year. This year's guided earnings growth is running at twice that pace.",
-      "pub_date": "2026-08-18T07:58:01Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-constellation-energy-reclaims-412-075801167.html"
     }
   ]
 }
