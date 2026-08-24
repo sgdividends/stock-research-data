@@ -1,7 +1,14 @@
 {
   "ticker": "APO",
-  "generated_at": "2026-08-24T08:40:27.165659+00:00",
+  "generated_at": "2026-08-24T12:36:33.066139+00:00",
   "items": [
+    {
+      "title": "Hackers Breach Apollo Global (APO) Right as Assets Hit $1 Trillion",
+      "summary": "On August 21, Apollo Global Management (NYSE:APO) disclosed in a letter that hackers gained unauthorized access to some of its cloud platforms between July 6 and July 10, exposing names, dates of birth, addresses, and Social Security numbers. The breach lands weeks after Apollo told investors its assets under management had crossed $1 trillion for [\u2026]",
+      "pub_date": "2026-08-24T11:38:03Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hackers-breach-apollo-global-apo-113803588.html"
+    },
     {
       "title": "Exxon Eyes Shell\u2019s $8 Billion U.S. Chemicals Business",
       "summary": "ExxonMobil is among several bidders pursuing all or part of Shell\u2019s U.S. chemicals business in a potential deal valued at up to $8 billion.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T17:19:25Z",
       "source": "Quartz",
       "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-seeks-80-billion-debt-171925920.html"
-    },
-    {
-      "title": "Broadcom Eyes Up to $100 Billion AI Financing Deal",
-      "summary": "The debt package could help fund Anthropic and other AI customers.",
-      "pub_date": "2026-08-21T16:22:00Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-eyes-100-billion-ai-162200783.html"
     }
   ]
 }

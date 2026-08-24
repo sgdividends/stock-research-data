@@ -1,7 +1,35 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-08-24T08:40:28.008322+00:00",
+  "generated_at": "2026-08-24T12:36:34.213584+00:00",
   "items": [
+    {
+      "title": "Broadcom Rebounds as Wall Street Sees 25% AI Upside",
+      "summary": "Analysts are arguing that Google's Marvell expansion does not destroy Broadcom's deeply embedded custom-chip advantage.",
+      "pub_date": "2026-08-24T12:05:53Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-rebounds-wall-street-sees-120553781.html"
+    },
+    {
+      "title": "AI Chips Update - AI Data Storage Solutions Enhance Security and Accessibility",
+      "summary": "The rapid adoption of AI is highlighting the limitations of fragmented data storage environments in enterprises, leading to challenges in maintaining data visibility, governance, and security. In response to these issues, Ciphertex Data Security has introduced AI\u2022S, a software-defined storage platform aimed at providing centralized control and discovery across on-premises, edge, and cloud resources without necessitating full data consolidation. This platform facilitates the management of...",
+      "pub_date": "2026-08-24T11:37:30Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-chips-ai-data-storage-113730083.html"
+    },
+    {
+      "title": "The Bear Case on Agents and Compute is Wrong So I Buy More Nvidia",
+      "summary": "Bears insist smarter AI agents will shrink the GPU compute bill, and that argument sounds reasonable until you do the math on what an agent actually burns per task.",
+      "pub_date": "2026-08-24T11:11:13Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bear-case-agents-compute-wrong-111113682.html"
+    },
+    {
+      "title": "Beyond Nvidia, AMD, and Broadcom: Why This Chip Stock Will Emerge as the Biggest Winner of the AI Semiconductor Boom",
+      "summary": "This company has the technology and scale to benefit from the continued AI build-out.",
+      "pub_date": "2026-08-24T09:35:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/beyond-nvidia-amd-broadcom-why-093500629.html"
+    },
     {
       "title": "Billionaire Investor Stanley Druckenmiller Sold Broadcom, Intel, and Micron and Bought Another Chip Stock That Expects to Double Data Center Sales in 2027",
       "summary": "The famous investor dumped three top chip stocks and bought another one with a clear near-term catalyst.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-08-23T17:26:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-vs-marvell-technology-1-172600511.html"
-    },
-    {
-      "title": "Forget Broadcom: Nvidia (NVDA) Is Still the Top Semiconductor Stock for 2027 and Beyond",
-      "summary": "Nvidia stands out as the top semiconductor stock for the coming years because of its dominant AI ecosystem, not to mention it's the most popular AI stock in the ecosystem.",
-      "pub_date": "2026-08-23T09:30:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/forget-broadcom-nvidia-nvda-still-093000144.html"
-    },
-    {
-      "title": "Third Point Starts to Raise Alarm Bells on Broadcom After Dumping AVGO Stock in Q2",
-      "summary": "Dan Loeb's Third Point exits Broadcom ahead of second-quarter results as the stock has surged in 2026.",
-      "pub_date": "2026-08-22T19:30:02Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/third-point-starts-raise-alarm-193002621.html"
-    },
-    {
-      "title": "Nvidia Stock Doesn\u2019t Look as Expensive as You Think",
-      "summary": "Nvidia is growing revenue at 85% annually yet its valuation multiple tells a different story than most investors expect. Before writing off NVDA as overpriced, the forward PEG ratio raises a question worth sitting with.",
-      "pub_date": "2026-08-22T15:30:50Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-doesn-t-look-153050991.html"
-    },
-    {
-      "title": "Billionaire David Tepper Sold His Fund's Sandisk Stake in Favor of This Trillion-Dollar Artificial Intelligence (AI) Chip Stock",
-      "summary": "The fund manager recently booked gains in Sandisk stock and redeployed capital into Broadcom.",
-      "pub_date": "2026-08-22T14:20:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-david-tepper-sold-funds-142000411.html"
     }
   ]
 }

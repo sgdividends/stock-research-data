@@ -1,13 +1,41 @@
 {
   "ticker": "HOOD",
-  "generated_at": "2026-08-24T08:40:51.213450+00:00",
+  "generated_at": "2026-08-24T12:37:01.636308+00:00",
   "items": [
+    {
+      "title": "Robinhood Stock Surges 13.2% in a Week: What's Behind the Rally?",
+      "summary": "HOOD shares jumped 13.2% last week as crypto regulatory optimism, a Bitcoin rally and expanding blockchain initiatives boosted investor sentiment.",
+      "pub_date": "2026-08-24T12:06:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-stock-surges-13-2-120600386.html"
+    },
+    {
+      "title": "The Clarity Act Is on Hold, but the SEC Is Picking Up the Slack. Here's the Latest Outlook on Crypto Regulation.",
+      "summary": "Crypto's rules for capital raises might change even if the big legislation in Congress doesn't end up being passed.",
+      "pub_date": "2026-08-24T11:01:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/clarity-act-hold-sec-picking-110100376.html"
+    },
+    {
+      "title": "Stocks to Watch: Alibaba, Marvell Technology, Coinbase",
+      "summary": "\u2198\ufe0f Alibaba (HK:9988, BABA): The Chinese tech giant launched a $10.2 billion share sale at a sharp discount to invest in AI. Its stock fell more than 8% in Hong Kong. \u2198\ufe0f Samsung Electronics (KR:005930): Shares tumbled more than 8% in South Korea.",
+      "pub_date": "2026-08-24T09:30:57Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/stocks-to-watch-alibaba-marvell-technology-coinbase-z7UifElg34jmJFA3YwzG?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "US Stock Market Today S&P 500 Futures Rise As Higher Yields Test Growth",
       "summary": "The Morning Bull - US Market Morning Update Monday, Aug, 24 2026 US stock futures are pointing higher this morning, with E-mini S&P 500 contracts up about 0.4% and Nasdaq-100 futures ahead roughly 0.3%. A key driver is the US 10 year Treasury yield, which is near a 20 month high of 4.74%. This means borrowing costs across mortgages, credit cards and business loans remain relatively expensive. At the same time, the US Composite PMI sits at 56, with services at 56.8 and manufacturing at 53.2,...",
       "pub_date": "2026-08-24T08:08:48Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080848022.html"
+    },
+    {
+      "title": "The Market That Never Sleeps Is Getting Closer to Reality",
+      "summary": "Nasdaq and the New York Stock Exchange plan to expand trading hours in December. Thinner overnight markets could bring new risks for retail investors.",
+      "pub_date": "2026-08-24T08:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/23-hour-stock-trading-retail-investors-nasdaq-nyse-c0cf6139?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "HOOD Stock Gets A Retail-Trading Boost: CEO Says Robinhood Beat GameStop-Era Activity",
@@ -29,34 +57,6 @@
       "pub_date": "2026-08-23T16:02:52Z",
       "source": "BeInCrypto",
       "url": "https://finance.yahoo.com/markets/crypto/articles/donald-trump-sold-microstrategy-bought-160252807.html"
-    },
-    {
-      "title": "Why Robinhood Markets Stock Popped Today",
-      "summary": "A less restrictive regulatory environment would be a boon for the digital trading platform.",
-      "pub_date": "2026-08-22T03:25:33Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-robinhood-markets-stock-popped-032533667.html"
-    },
-    {
-      "title": "Trump Says US is the 'Hottest Country' and CLARITY Act Will Keep it Ahead Of China \u2014 Bitcoin Purchase 'Been Talked About'",
-      "summary": "President Donald Trump reiterated on Wednesday his commitment to preserve the U.S. leadership in Bitcoin, cryptocurrency and prediction markets. Trump Asks Congress to Move Quickly on CLARITY Act Trump hosted White House cryptocurrency summit alongside CFTC Chairman Michael Selig and...",
-      "pub_date": "2026-08-22T02:31:56Z",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/trump-says-us-hottest-country-023156530.html"
-    },
-    {
-      "title": "Vlad Tenev Asked Regulators to Green-Light Tokenized Stocks. Robinhood Just Added About $12 Billion in Market Value.",
-      "summary": "The CEO wants Washington to open a market that barely exists yet. Investors just paid billions for the idea.",
-      "pub_date": "2026-08-22T02:11:01Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/vlad-tenev-asked-regulators-green-021101853.html"
-    },
-    {
-      "title": "Review & Preview: Vacation\u2019s Over",
-      "summary": "The last week of August will be chock-full of news, from Nvidia earnings to the Fed\u2019s hotly-anticipated meeting in Jackson Hole.",
-      "pub_date": "2026-08-21T23:55:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stocks-today-indexes-rise-markets-waiting-nvidia-fed-meeting-1195b879?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

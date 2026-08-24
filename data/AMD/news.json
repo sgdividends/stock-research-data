@@ -1,7 +1,21 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-08-24T08:40:25.656776+00:00",
+  "generated_at": "2026-08-24T12:36:31.454138+00:00",
   "items": [
+    {
+      "title": "The Bear Case on Agents and Compute is Wrong So I Buy More Nvidia",
+      "summary": "Bears insist smarter AI agents will shrink the GPU compute bill, and that argument sounds reasonable until you do the math on what an agent actually burns per task.",
+      "pub_date": "2026-08-24T11:11:13Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bear-case-agents-compute-wrong-111113682.html"
+    },
+    {
+      "title": "Beyond Nvidia, AMD, and Broadcom: Why This Chip Stock Will Emerge as the Biggest Winner of the AI Semiconductor Boom",
+      "summary": "This company has the technology and scale to benefit from the continued AI build-out.",
+      "pub_date": "2026-08-24T09:35:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/beyond-nvidia-amd-broadcom-why-093500629.html"
+    },
     {
       "title": "Billionaire Investor Stanley Druckenmiller Sold Broadcom, Intel, and Micron and Bought Another Chip Stock That Expects to Double Data Center Sales in 2027",
       "summary": "The famous investor dumped three top chip stocks and bought another one with a clear near-term catalyst.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-22T11:00:33Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-semiconductor-stocks-buy-august-110033279.html"
-    },
-    {
-      "title": "Advanced Micro Devices (AMD) Adds Tim Ryan To Board After Director Retirement",
-      "summary": "Advanced Micro Devices (NasdaqGS:AMD) appointed Tim Ryan to its Board of Directors, adding new governance experience from his prior roles at Citi and PwC. The appointment follows the retirement of a long serving AMD director and includes related changes to the composition of board committees. Tim Ryan brings decades of background in technology, corporate strategy and risk management that may influence AMD's board oversight and decision making. Readers tracking boardroom shifts at AMD and...",
-      "pub_date": "2026-08-22T06:10:02Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-adds-061002113.html"
-    },
-    {
-      "title": "AMD Investors Must Be Ready For Major News On Aug. 26",
-      "summary": "AMD and Nvidia are closely linked.",
-      "pub_date": "2026-08-22T05:20:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-investors-must-ready-major-052000148.html"
     }
   ]
 }

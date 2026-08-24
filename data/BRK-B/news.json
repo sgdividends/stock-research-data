@@ -1,7 +1,21 @@
 {
   "ticker": "BRK-B",
-  "generated_at": "2026-08-24T08:40:30.926182+00:00",
+  "generated_at": "2026-08-24T12:36:37.197879+00:00",
   "items": [
+    {
+      "title": "Trump June stock disclosure: 1,000+ trades worth up to $263M",
+      "summary": "The president's accounts sold Meta stock and bought shares of Berkshire Hathaway, Visa, and Mastercard on a single day in June",
+      "pub_date": "2026-08-24T11:17:44Z",
+      "source": "Quartz",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-june-stock-disclosure-1-111744268.html"
+    },
+    {
+      "title": "ICYMI: Trump\u2019s Stock Trades",
+      "summary": "1,000 + How many individual stock trades President Trump\u2019s investment accounts made in June, according to his latest government disclosure. The White House said the trading is handled by independent managers.",
+      "pub_date": "2026-08-24T08:16:57Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-24-2026/card/icymi-trump-s-stock-trades-bXP88EK3m9a1zwqPPj7W?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "1 Unpopular Stock That Should Get More Attention and 2 Facing Challenges",
       "summary": "Wall Street has issued downbeat forecasts for the stocks in this article. These predictions are rare - financial institutions typically hesitate to say bad things about a company because it can jeopardize their other revenue-generating business lines like M&A advisory.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-23T14:37:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-explains-investing-sin-143700822.html"
-    },
-    {
-      "title": "Trump Continues Trading Stocks at Warp Speed: Berkshire Bought, Meta Sold",
-      "summary": "President Trump's accounts executed more than 1,000 trades in a single month, including moves in a major defense contractor timed suspiciously close to a surprise geopolitical agreement, and Congress just passed a fix that deliberately leaves him out.",
-      "pub_date": "2026-08-23T13:44:53Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/trump-continues-trading-stocks-warp-134453676.html"
-    },
-    {
-      "title": "Trump Discloses 1,000 Stock Trades in June",
-      "summary": "The White House said the president\u2019s accounts are invested in \u201ccomputer-based model portfolios\u201d to replicate stock indexes.",
-      "pub_date": "2026-08-23T00:41:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/investing/trump-discloses-1-000-stock-trades-in-june-2e5b0773?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

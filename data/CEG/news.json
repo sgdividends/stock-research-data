@@ -1,7 +1,14 @@
 {
   "ticker": "CEG",
-  "generated_at": "2026-08-24T08:40:33.081085+00:00",
+  "generated_at": "2026-08-24T12:36:39.990175+00:00",
   "items": [
+    {
+      "title": "3 Nuclear Energy Stocks for the AI Power Era",
+      "summary": "AI data centers are devouring power faster than the grid can supply it, and three nuclear stocks sitting at different layers of the fuel-to-reactor stack are pricing in very different pieces of that scarcity trade.",
+      "pub_date": "2026-08-24T11:00:45Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/energy/articles/3-nuclear-energy-stocks-ai-110045927.html"
+    },
     {
       "title": "The AI Debt Boom Is Helping Push Everyone\u2019s Cost of Capital Higher",
       "summary": "Every bond a hyperscaler sells to fund its next GPU cluster competes directly with Treasuries for the same pool of capital, and the ripple is now hitting five companies in ways most investors have not priced in.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-18T15:18:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/business/deals/kkr-makes-9-billion-takeover-bid-for-natural-gas-and-electricity-distributor-94d47760?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Latest News In Energy Transition - Germany's Energy Future: From Mining Lands to Power Hubs",
-      "summary": "Fluence Energy GmbH and LEAG Clean Power GmbH have commenced construction on the Heinersbr\u00fcck GridBattery, a 400 MWh energy storage project in Germany. This installation will co-locate with wind and solar generation assets on regenerated former mining land and is part of efforts to bolster Germany's energy transition. The project aims to enhance the reliability of energy supply and alleviate grid pressure. This development marks the second collaborative project between Fluence and LEAG Clean...",
-      "pub_date": "2026-08-18T11:37:13Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/energy/articles/latest-news-energy-transition-germanys-113713744.html"
     }
   ]
 }
