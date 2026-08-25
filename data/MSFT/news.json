@@ -1,13 +1,55 @@
 {
   "ticker": "MSFT",
-  "generated_at": "2026-08-25T08:35:25.407740+00:00",
+  "generated_at": "2026-08-25T12:36:27.408080+00:00",
   "items": [
     {
-      "title": "Nvidia's Q2 earnings to test resurgent AI trade",
-      "summary": "Nvidia will report its Q2 earnings after the bell on Aug. 26.",
-      "pub_date": "2026-08-23T11:25:02Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html"
+      "title": "Jim Cramer says data center backlash favors big tech hyperscalers",
+      "summary": "The \"Mad Money\" host argues big tech can absorb tougher regulatory requirements that smaller developers cannot afford",
+      "pub_date": "2026-08-25T11:40:48Z",
+      "source": "Quartz",
+      "url": "https://finance.yahoo.com/technology/articles/jim-cramer-says-data-center-114048524.html"
+    },
+    {
+      "title": "Meta\u2019s Hatch Agent Platform and Watermelon Model Signal a Consumer AI Monetization Push",
+      "summary": "Meta is aggressively testing the boundaries of its messaging ecosystem, moving beyond simple chat interfaces to integrate third-party agentic AI directly into WhatsApp. This shift, currently in limited trials, serves as a precursor to a more ambitious, internal project codenamed \u201cHatch.\u201d If realized, Hatch would transform Meta from a social media giant into a primary [\u2026]",
+      "pub_date": "2026-08-25T11:33:50Z",
+      "source": "Forkast News",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-hatch-agent-platform-watermelon-113350203.html"
+    },
+    {
+      "title": "Most Investors Overlook MSFT's AI Moat. I Think That's a Mistake.",
+      "summary": "Microsoft is emerging as an AI powerhouse, leveraging Azure, Copilot, and its massive enterprise ecosystem to build a powerful moat.",
+      "pub_date": "2026-08-25T10:35:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/most-investors-overlook-msfts-ai-103500124.html"
+    },
+    {
+      "title": "Coinbase\u2019s Tokenized Stocks Are Live on Base. The SEC\u2019s Framework Isn\u2019t.",
+      "summary": "Coinbase has launched tokenized U.S. equities on the Base blockchain. The August 24 rollout includes 13 stocks \u2014 NVDAc, METAc, AAPLc, GOOGLc, AMZN, COIN, CRCL, INTC, MSFT, MSTR, SNDK, SPCX, and TSLA \u2014 each representing a direct claim on the underlying share, not a synthetic derivative. The product is live. The U.S. regulatory framework that [\u2026]",
+      "pub_date": "2026-08-25T09:45:25Z",
+      "source": "Forkast News",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-tokenized-stocks-live-sec-094525267.html"
+    },
+    {
+      "title": "India AI Data Center Firm Orders 9,000 Nvidia Vera Rubin Systems",
+      "summary": "AM Intelligence, an Indian AI infrastructure company, has ordered 9,000 Nvidia Corp. Vera Rubin systems, seeking to become one of the first adopters of the advanced computing platform in Asia.",
+      "pub_date": "2026-08-25T09:42:22Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/india-ai-data-center-firm-orders-9000-nvidia-vera-rubin-systems-094222289.html"
+    },
+    {
+      "title": "Forget Nvidia. This ETF Could Be the Next Big Winner From the AI Boom",
+      "summary": "It's time to start looking for the next wave of AI beneficiaries beyond the big tech names.",
+      "pub_date": "2026-08-25T09:40:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/forget-nvidia-etf-could-next-094000461.html"
+    },
+    {
+      "title": "The data center era that's reshaping America",
+      "summary": "Nothing is driving more new U.S. economic investment or political volatility than data centers .",
+      "pub_date": "2026-08-25T09:30:05Z",
+      "source": "Axios",
+      "url": "https://finance.yahoo.com/technology/ai/articles/data-center-era-thats-reshaping-093005658.html"
     },
     {
       "title": "Alibaba\u2019s $10.2 billion AI bet could reach far beyond investors",
@@ -15,48 +57,6 @@
       "pub_date": "2026-08-25T00:03:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-10-2-billion-ai-000300139.html"
-    },
-    {
-      "title": "Is Meta Stock Actually the Cheapest Mega-Cap Tech Bet?",
-      "summary": "The social media giant is delivering elite-level growth and profits, yet its stock commands only a mid-tier valuation. Is the market right to be so cautious, or is this a classic mismatch.",
-      "pub_date": "2026-08-24T23:28:39Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/meta-stock-actually-cheapest-mega-232839979.html"
-    },
-    {
-      "title": "Nvidia customers face 15% AI price shock",
-      "summary": "A 15% Nvidia price hike could ripple through the AI economy",
-      "pub_date": "2026-08-24T22:03:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-customers-face-15-ai-220300580.html"
-    },
-    {
-      "title": "Microsoft Rises as $678 Billion Backlog Defies Tech Selloff",
-      "summary": "Azure's contracted demand is helping Microsoft outperform as investors question the wider AI financing boom.",
-      "pub_date": "2026-08-24T19:50:22Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-rises-678-billion-backlog-195022521.html"
-    },
-    {
-      "title": "Nvidia Makes Aggressive Move Ahead of Earnings",
-      "summary": "Rising component costs are testing Nvidia's powerful AI economics",
-      "pub_date": "2026-08-24T19:13:07Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-makes-aggressive-move-ahead-191307970.html"
-    },
-    {
-      "title": "Forget CoreWeave \u2014 This Is the AI Stock You Should Instead Be Buying",
-      "summary": "CoreWeave is getting all the attention in the neocloud race, but a quieter rival just posted 454% revenue growth, locked in hyperscaler partnerships worth tens of billions, and did it without the crushing debt load that shadows the more famous name.",
-      "pub_date": "2026-08-24T17:31:26Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/forget-coreweave-ai-stock-instead-173126852.html"
-    },
-    {
-      "title": "ExxonMobil vs. Chevron: We Compared 10 Years of Dividend Growth And Here\u2019s the Winner",
-      "summary": "Both oil giants raised dividends again in 2026 and posted blockbuster quarters, but a decade of payout history reveals one clear winner on durability and one on yield. Knowing which fits your portfolio could matter more than the latest earnings beat.",
-      "pub_date": "2026-08-24T17:30:23Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/energy/articles/exxonmobil-vs-chevron-compared-10-173023201.html"
     }
   ]
 }

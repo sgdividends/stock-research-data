@@ -1,7 +1,14 @@
 {
   "ticker": "MS",
-  "generated_at": "2026-08-25T08:35:25.130226+00:00",
+  "generated_at": "2026-08-25T12:36:27.065637+00:00",
   "items": [
+    {
+      "title": "The Fed doesn\u2019t know who\u2019s financing the $3 trillion AI boom",
+      "summary": "The Fed spent the past few years relearning the dangers of underestimating inflation. The challenge now is complexity and financial innovation.",
+      "pub_date": "2026-08-25T09:00:00Z",
+      "source": "Fortune",
+      "url": "https://finance.yahoo.com/economy/policy/articles/fed-doesn-t-know-financing-090000783.html"
+    },
     {
       "title": "AstraZeneca prices \u20ac2.55bn euro bond sale across four tranches",
       "summary": "AstraZeneca PLC (LSE:AZN, NASDAQ:AZN), the FTSE 100 pharma group, has priced a \u20ac2.55 billion bond offering, tapping the euro debt market for general corporate purposes. The notes were issued on Monday by AstraZeneca Finance LLC, a wholly owned US subsidiary, and carry a full and unconditional...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-24T14:45:15Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-morgan-stanley-fight-suits-144515104.html"
-    },
-    {
-      "title": "Morgan Stanley expects powered-shell deal wave by October",
-      "summary": "The bank sees firm power access supporting longer AI leases and higher project returns, with Cipher, TeraWulf, Riot and Hut 8 among its preferred operators.",
-      "pub_date": "2026-08-24T14:24:27Z",
-      "source": "Blockspace",
-      "url": "https://finance.yahoo.com/technology/ai/articles/morgan-stanley-expects-powered-shell-142427773.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-08-25T08:34:58.166338+00:00",
+  "generated_at": "2026-08-25T12:35:56.419474+00:00",
   "items": [
+    {
+      "title": "Kalshi Looks to Regulators to Delay Competing Products From Cboe",
+      "summary": "Kalshi is asking regulators to delay products from one of its competitors, Cboe Global Markets Inc., as the friction between upstart prediction markets and incumbent financial exchanges heats up.",
+      "pub_date": "2026-08-25T11:45:06Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/markets/options/articles/kalshi-looks-regulators-delay-competing-114506669.html"
+    },
     {
       "title": "How a Negative Beta Bet Can Protect Your Portfolio From an AI Selloff",
       "summary": "AI is shaking up a lot of things\u2014including which stocks investors can expect to hold up in a market selloff.  Investors have long relied on a mathematical measure known as beta to judge market risk.  A stock with a beta of 1 tends to move in line with the stock market.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T21:10:57Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cme-group-cme-stock-trades-211057161.html"
-    },
-    {
-      "title": "Coinbase Stock Surged On A Bill Its Own CEO Says It Can Live Without",
-      "summary": "Robinhood and Bakkt fell in the very session Coinbase surged, which points the cause at Washington rather than at the price of bitcoin.",
-      "pub_date": "2026-08-21T17:41:29Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-stock-surged-bill-own-174129689.html"
     }
   ]
 }

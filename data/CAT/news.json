@@ -1,9 +1,9 @@
 {
   "ticker": "CAT",
-  "generated_at": "2026-08-25T08:34:55.719236+00:00",
+  "generated_at": "2026-08-25T12:35:53.887617+00:00",
   "items": [
     {
-      "title": "Stock Market Today: Dow Up As Trump Says This On Canada; Nvidia Shares Skid Despite AI Move (Live Coverage)",
+      "title": "Stock Market Today: Dow Up As Trump Says This On Canada; Nvidia Shares Skid Despite AI Move",
       "summary": "The Dow Jones average rises but other indexes fall as President Trump lashes out at Canada. Nvidia dives but a stock clears an entry.",
       "pub_date": "2026-08-24T20:43:08Z",
       "source": "Investor's Business Daily",
@@ -38,6 +38,13 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/industrial-products-stocks-lagging-caterpillar-134003370.html"
     },
     {
+      "title": "Deere Earnings: Has the Stock Outrun the Farm Cycle?",
+      "summary": "Deere stock jumped over 9% after a Q3 FY2026 beat, with revenue of $12.61 billion and EPS of $5.10 topping estimates, as construction growth offset a weaker agriculture segment.",
+      "pub_date": "2026-08-24T12:00:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/deere-earnings-stock-outrun-farm-120000081.html"
+    },
+    {
       "title": "Bill Gates has made $2.3 billion on Michael Burry's former favorite",
       "summary": "Michael Burry\u2019s former favorite has generated a big profit in Gates\u2019 $6.8 billion position.",
       "pub_date": "2026-08-24T03:17:00Z",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-22T18:33:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/economy/articles/bill-gates-makes-180-million-183300203.html"
-    },
-    {
-      "title": "What Separates DE Stock From Its Peers Right Now",
-      "summary": "The iconic green tractor company is priced like the best operator in its field, but its results are still trying to catch up to the market's high expectations.",
-      "pub_date": "2026-08-21T21:06:36Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/separates-stock-peers-now-210636783.html"
     }
   ]
 }

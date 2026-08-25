@@ -1,7 +1,14 @@
 {
   "ticker": "IBKR",
-  "generated_at": "2026-08-25T08:35:14.940281+00:00",
+  "generated_at": "2026-08-25T12:36:16.527647+00:00",
   "items": [
+    {
+      "title": "This Stock Grew About 500% in the Past 5 Years. And No, It's Not an AI Stock.",
+      "summary": "This fintech company delivered an extraordinary run without riding the AI wave.",
+      "pub_date": "2026-08-25T10:50:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-grew-500-past-5-105000697.html"
+    },
     {
       "title": "NYSE and Nasdaq Want 23-Hour Trading. Here Is What It Means for You.",
       "summary": "Nasdaq and the New York Stock Exchange plan to expand trading hours in December. Thinner overnight markets could bring new risks for retail investors.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-20T20:52:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-margin-loans-grew-205200788.html"
-    },
-    {
-      "title": "COIN Slips in 6 Months, Valuation Expensive: What Investors Must Know",
-      "summary": "Coinbase's premium valuation and weak crypto backdrop offset global expansion, tokenized assets and new trading tools, keeping the near-term outlook cautious.",
-      "pub_date": "2026-08-20T16:26:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coin-slips-6-months-valuation-162600737.html"
     }
   ]
 }

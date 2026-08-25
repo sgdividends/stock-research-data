@@ -1,7 +1,21 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-08-25T08:35:36.094370+00:00",
+  "generated_at": "2026-08-25T12:36:38.728150+00:00",
   "items": [
+    {
+      "title": "Exclusive: Cisco expands Nvidia partnership for AI data center boom",
+      "summary": "Cisco is partnering with Supermicro to add high-powered AI servers to its Nvidia-backed infrastructure offering, expanding beyond networking to sell more of the equipment needed to run AI.",
+      "pub_date": "2026-08-25T12:00:06Z",
+      "source": "Axios",
+      "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-cisco-expands-nvidia-partnership-120006704.html"
+    },
+    {
+      "title": "AI Server Smuggling: Taiwan Charges Nine",
+      "summary": "Plus: U.S. sanctions suspected Iranian hackers on \u2018economic D-Day;\u2019 Alabama subpoenas OpenAI over rogue cyberattack.",
+      "pub_date": "2026-08-25T11:37:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/pro/cybersecurity/ai-server-smuggling-taiwan-charges-nine-72009fad?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Update: Nasdaq, S&P 500 Fall as New Sanctions Plan Targets Iran's Trading Partners",
       "summary": "(Updates with market moves at the end of the day, and other changes, if any.) The Nasdaq Composit",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-24T17:24:12Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-stock-plunges-172412652.html"
-    },
-    {
-      "title": "AI Infrastructure Stocks Surge: How Long Can CoreWeave (CRWV) and Super Micro Computer (SMCI) Keep It Up?",
-      "summary": "Shares of CoreWeave, Inc. (NASDAQ:CRWV) and Super Micro Computer, Inc. (NASDAQ:SMCI) jumped to their highest levels since June on August 12, 2026, a day after both companies delivered upbeat forecasts that signaled booming demand for AI computing capacity. CoreWeave rose more than 19%, and Super Micro climbed more than 13%. Why This Matters Both companies [\u2026]",
-      "pub_date": "2026-08-24T17:24:11Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-stocks-surge-long-172411864.html"
-    },
-    {
-      "title": "The Bull Case For Super Micro Computer (SMCI) Could Change Following New Legal And Export-Control Challenges - Learn Why",
-      "summary": "In August 2026, Super Micro Computer reported fourth-quarter sales of US$11.12 billion and net income of US$1.18 billion, while also facing new Netlist patent infringement actions and Taiwanese indictments alleging illegal AI server exports involving some employees. These parallel developments highlight how Super Micro\u2019s expanding role in AI infrastructure is increasingly intertwined with legal, compliance, and intellectual property risks that could influence how it operates. We\u2019ll now...",
-      "pub_date": "2026-08-24T17:10:01Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bull-case-super-micro-computer-171001759.html"
     }
   ]
 }

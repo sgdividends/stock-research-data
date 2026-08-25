@@ -1,7 +1,14 @@
 {
   "ticker": "BAC",
-  "generated_at": "2026-08-25T08:34:52.753565+00:00",
+  "generated_at": "2026-08-25T12:35:50.515162+00:00",
   "items": [
+    {
+      "title": "Goldman Sachs, Citi, JPMorgan Face Subpoenas Over AI Hedge Fund: Reports",
+      "summary": "Goldman Sachs, Citigroup, JPMorgan Chase and Bank of America face questions from the SEC, which is looking into how Situational Awareness nearly collapsed, according to multiple reports.",
+      "pub_date": "2026-08-25T10:54:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/goldman-sachs-citi-jpmorgan-subpoenas-situational-awareness-8fa058e5?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Is Nvidia (NVDA) Stock a Buy Ahead of Q2 Earnings?",
       "summary": "Nvidia will step back into the earnings spotlight after the market closes on Wednesday, August 26, when the AI chip leader reports its much-anticipated Q2 results.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-23T14:18:00Z",
       "source": "InvestorsHub",
       "url": "https://finance.yahoo.com/markets/articles/investor-bullishness-surges-bofa-survey-141800790.html"
-    },
-    {
-      "title": "What Do SEC Insider Trading Charges Mean For Bank Of America (BAC)?",
-      "summary": "SEC files insider trading charges against a former senior Bank of America (NYSE:BAC) investment banker related to a merger advisory assignment. Regulators allege the ex-banker misused confidential deal information to trade and tip others ahead of a high profile transaction. The case focuses on conduct during the individual's tenure at Bank of America and raises fresh questions about controls around sensitive deal data. Legal proceedings are ongoing, and Bank of America is not charged in the...",
-      "pub_date": "2026-08-22T12:08:45Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sec-insider-trading-charges-mean-120845833.html"
     }
   ]
 }
