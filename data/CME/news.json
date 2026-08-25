@@ -1,7 +1,14 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-08-24T20:22:42.524150+00:00",
+  "generated_at": "2026-08-25T00:55:35.606565+00:00",
   "items": [
+    {
+      "title": "How a Negative Beta Bet Can Protect Your Portfolio From an AI Selloff",
+      "summary": "AI is shaking up a lot of things\u2014including which stocks investors can expect to hold up in a market selloff.  Investors have long relied on a mathematical measure known as beta to judge market risk.  A stock with a beta of 1 tends to move in line with the stock market.",
+      "pub_date": "2026-08-24T20:29:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/negative-beta-stocks-ai-selloff-a5d085b2?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Why the Bitcoin Rally Looks Like a Vote Against the Dollar",
       "summary": "Bitcoin and gold rose as the dollar weakened following expanded Treasury bond buybacks, reflecting concerns about U.S. fiscal policy, analysts say.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T17:41:29Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-stock-surged-bill-own-174129689.html"
-    },
-    {
-      "title": "CFTC Eyes US DeFi and Leveraged Crypto Trading as Selig Prepares Plan B Ahead of Sept. 15 CLARITY Act Vote",
-      "summary": "CFTC Chair Michael Selig is preparing an agency-led crypto framework if the CLARITY Act fails to advance in the Sept. 15 Senate vote. The proposed ...",
-      "pub_date": "2026-08-21T16:27:52Z",
-      "source": "CCN",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/cftc-eyes-us-defi-leveraged-162752436.html"
     }
   ]
 }

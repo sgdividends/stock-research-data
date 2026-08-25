@@ -1,7 +1,14 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-08-24T20:23:34.942638+00:00",
+  "generated_at": "2026-08-25T00:56:17.039449+00:00",
   "items": [
+    {
+      "title": "Update: Nasdaq, S&P 500 Fall as New Sanctions Plan Targets Iran's Trading Partners",
+      "summary": "(Updates with market moves at the end of the day, and other changes, if any.) The Nasdaq Composit",
+      "pub_date": "2026-08-24T20:41:12Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-fall-sanctions-204112044.html"
+    },
     {
       "title": "Super Micro (SMCI) Stock Trades Down, Here Is Why",
       "summary": "Shares of server solutions provider Super Micro (NASDAQ:SMCI) fell 4.8% in the afternoon session after Taiwanese prosecutors indicted nine individuals, including two employees of the company's Taiwan unit, over an alleged scheme to illegally export AI servers to China. According to Reuters, prosecutors in Keelung said on August 24, 2026, that eight defendants \u2014 including two Super Micro employees and one Nvidia employee \u2014 were charged with breach of trust and document forgery, while a ninth face",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-24T16:10:36Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/supermicro-smci-stock-looks-cheap-161036868.html"
-    },
-    {
-      "title": "Taiwan Charges Nine in Connection With Smuggling of AI Servers to China",
-      "summary": "U.S. export controls have pushed Chinese companies to seek Nvidia chips through backdoor routes, as Taiwan tries to find ways to clamp down.",
-      "pub_date": "2026-08-24T14:53:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/tech/taiwan-charges-nine-in-connection-with-smuggling-of-ai-servers-to-china-d1f72f47?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

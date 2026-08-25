@@ -1,7 +1,21 @@
 {
   "ticker": "CIEN",
-  "generated_at": "2026-08-24T20:22:41.764431+00:00",
+  "generated_at": "2026-08-25T00:55:34.971665+00:00",
   "items": [
+    {
+      "title": "AI Jitters and Geopolitical Threats Mark Start of Busy Week in Markets",
+      "summary": "Stocks tied to the artificial-intelligence trade dropped, extending their bumpy stretch ahead of Wednesday\u2019s all-important earnings update from Nvidia.  \u201cFrom a markets perspective, they tend to get ignored.\u201d",
+      "pub_date": "2026-08-24T20:51:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/investing/ai-jitters-and-geopolitical-threats-mark-start-of-busy-week-in-markets-a192c22a?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Stock Market Today: Dow Up As Trump Says This On Canada; Nvidia Shares Skid Despite AI Move (Live Coverage)",
+      "summary": "The Dow Jones average rises but other indexes fall as President Trump lashes out at Canada. Nvidia dives but a stock clears an entry.",
+      "pub_date": "2026-08-24T20:43:08Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo"
+    },
     {
       "title": "Arista Networks Is Buying Further Ahead Than It Can See",
       "summary": "The company's multiyear purchase commitments have nearly tripled in a year while its view of customer demand still reaches only two quarters out.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-20T15:01:40Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ciena-apos-supply-constraints-remain-150140448.html"
-    },
-    {
-      "title": "Ciena vs. Coherent: Which AI Optical Networking Stock is a Better Buy?",
-      "summary": "CIEN and COHR benefit from AI-driven optical networking demand, but differing growth prospects, capacity challenges and valuations give one an edge.",
-      "pub_date": "2026-08-20T13:35:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ciena-vs-coherent-ai-optical-133500949.html"
-    },
-    {
-      "title": "Can ION Network's Adoption of WL6e Boost CIEN's Optical Momentum?",
-      "summary": "Ciena's WL6e deployment on ION Network's ICS1 highlights rising demand for high-capacity connectivity as Indonesia's digital economy expands.",
-      "pub_date": "2026-08-20T12:55:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/articles/ion-networks-adoption-wl6e-boost-125500425.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-08-24T20:22:37.008615+00:00",
+  "generated_at": "2026-08-25T00:55:31.301352+00:00",
   "items": [
+    {
+      "title": "BlackRock Puts TCP Capital's $671 Million of Loans on the Block",
+      "summary": "BlackRock is exploring a potential sale of its loan portfolio owned by TCP Capital Corp. (NASDAQ: TCPC) in another step towards reshaping the private credit vehicle after a difficult stretch. The asset manager has brought in Keefe, Bruyette & Woods...",
+      "pub_date": "2026-08-24T21:11:14Z",
+      "source": "Benzinga Private Markets",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/blackrock-puts-tcp-capitals-671-211114078.html"
+    },
     {
       "title": "Sector Update: Financial Stocks Advance Late Afternoon",
       "summary": "Financial stocks were higher in late Monday afternoon trading, with the NYSE Financial Index rising",
@@ -15,6 +22,13 @@
       "pub_date": "2026-08-24T18:58:28Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-blackrock-sounding-buyers-185828920.html"
+    },
+    {
+      "title": "Delaying Retirement Just 6 Months Can Yield an Extra $50,000. Here\u2019s How.",
+      "summary": "Working just six extra months can boost your retirement savings by tens of thousands of dollars. Here is the math behind delaying retirement.",
+      "pub_date": "2026-08-24T18:48:52Z",
+      "source": "Kiplinger",
+      "url": "https://finance.yahoo.com/markets/articles/delaying-retirement-just-6-months-184852316.html"
     },
     {
       "title": "BlackRock\u2019s Bitcoin Fund Just Paid Its First Dividend: 18.5% Annualized, While Bitcoin Sleeps at $65K",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-24T11:49:46Z",
       "source": "CCN",
       "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-120k-most-volatile-macro-114946551.html"
-    },
-    {
-      "title": "Should You Invest in the iShares U.S. Healthcare ETF (IYH)?",
-      "summary": "Sector ETF report for IYH",
-      "pub_date": "2026-08-24T10:20:02Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/healthcare/articles/invest-ishares-u-healthcare-etf-102002045.html"
-    },
-    {
-      "title": "Should iShares Morningstar Small-Cap Growth ETF (ISCG) Be on Your Investing Radar?",
-      "summary": "Style Box ETF report for ISCG",
-      "pub_date": "2026-08-24T10:20:01Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-morningstar-small-cap-growth-102001335.html"
     }
   ]
 }

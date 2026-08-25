@@ -1,7 +1,14 @@
 {
   "ticker": "TTD",
-  "generated_at": "2026-08-24T20:23:43.050244+00:00",
+  "generated_at": "2026-08-25T00:56:22.846848+00:00",
   "items": [
+    {
+      "title": "Do Wall Street Analysts Like The Trade Desk Stock?",
+      "summary": "As The Trade Desk has underperformed relative to the broader market over the past year, Wall Street analysts maintain a cautious outlook about the stock\u2019s prospects.",
+      "pub_date": "2026-08-24T16:08:41Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-trade-desk-160841144.html"
+    },
     {
       "title": "TTD's Customer Count Broadens: 3 Drivers Winning Businesses & Agencies",
       "summary": "The Trade Desk is targeting midsize advertisers with measurement, data and AI upgrades as it seeks to expand beyond its traditional base.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-20T19:24:00Z",
       "source": "Proactive",
       "url": "https://finance.yahoo.com/markets/stocks/articles/applovin-sentiment-turns-negative-bull-192400809.html"
-    },
-    {
-      "title": "The Trade Desk\u2019s Earnings Miss Raises a Bigger Question About Its AI Future",
-      "summary": "The Trade Desk shares hit a seven-year low after missed Q2 earnings and weak guidance, as AI-driven search and walled-garden platforms threaten its ad tech business model.",
-      "pub_date": "2026-08-20T17:20:00Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/technology/ai/articles/trade-desk-earnings-miss-raises-172000067.html"
     }
   ]
 }

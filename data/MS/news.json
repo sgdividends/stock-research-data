@@ -1,7 +1,21 @@
 {
   "ticker": "MS",
-  "generated_at": "2026-08-24T20:23:20.309670+00:00",
+  "generated_at": "2026-08-25T00:56:05.453832+00:00",
   "items": [
+    {
+      "title": "Asian Stocks Under Pressure After US Tech Selloff: Markets Wrap",
+      "summary": "Asian stocks were set for broad declines Tuesday after a tech-led selloff on Wall Street outweighed a drop in oil, as traders weighed Treasury Secretary Scott Bessent\u2019s plan to isolate Iran from the global economy.",
+      "pub_date": "2026-08-24T22:09:52Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-under-pressure-us-220952003.html"
+    },
+    {
+      "title": "TeraWulf Secures 482 MW for Justified, Morgan Stanley Sees Powered Shell Deal Uptick, Luxor Pilots GPU Curtailment",
+      "summary": "Today, we cover TeraWulf\u2019s approval for 482 MW for its Justified data center in Hancock, including how much tax revenue the data center could earn for the county and the\u2026",
+      "pub_date": "2026-08-24T20:02:23Z",
+      "source": "Blockspace",
+      "url": "https://finance.yahoo.com/video/terawulf-secures-482-mw-justified-200223444.html"
+    },
     {
       "title": "Market Chatter: JPMorgan, Morgan Stanley Sued Over Role in Multibillion-Dollar Buyout Deals",
       "summary": "JPMorgan Chase (JPM) and Morgan Stanley (MS) are among the banks getting sued by shareholders over t",
@@ -31,11 +45,11 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-morgan-stanley-fight-suits-144515104.html"
     },
     {
-      "title": "What Are Wall Street Analysts' Target Price for Synopsys Stock?",
-      "summary": "Synopsys has notably underperformed the broader market over the past year, but analysts are highly optimistic about the stock\u2019s prospects.",
-      "pub_date": "2026-08-24T14:17:14Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-141714731.html"
+      "title": "Morgan Stanley expects powered-shell deal wave by October",
+      "summary": "The bank sees firm power access supporting longer AI leases and higher project returns, with Cipher, TeraWulf, Riot and Hut 8 among its preferred operators.",
+      "pub_date": "2026-08-24T14:24:27Z",
+      "source": "Blockspace",
+      "url": "https://finance.yahoo.com/technology/ai/articles/morgan-stanley-expects-powered-shell-142427773.html"
     },
     {
       "title": "Morgan Stanley warns bond yields could rise in post-WWII-style era",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-24T13:45:05Z",
       "source": "Quartz",
       "url": "https://finance.yahoo.com/economy/articles/morgan-stanley-warns-bond-yields-134505112.html"
-    },
-    {
-      "title": "Morgan Stanley\u2019s Bobby Singh: Why We Are Exploring an International Wealth Push",
-      "summary": "The largest offshore wealth provider in the U.S. would like to serve clients on their own turf. Bobby Singh is leading the effort.",
-      "pub_date": "2026-08-24T12:30:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/advisor/articles/morgan-stanley-international-wealth-management-bobby-singh-98f01cd7?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Morgan Stanley\u2019s Wilson Sees Higher Oil as Key Risk for Equities",
-      "summary": "A renewed spike in oil prices is the biggest risk facing US stocks, according to Morgan Stanley\u2019s Michael Wilson, who recommended using energy shares to hedge portfolios.",
-      "pub_date": "2026-08-24T09:46:19Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/energy/articles/morgan-stanley-wilson-sees-higher-094619560.html"
     }
   ]
 }

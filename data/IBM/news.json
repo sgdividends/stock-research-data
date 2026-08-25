@@ -1,7 +1,21 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-08-24T20:23:07.382712+00:00",
+  "generated_at": "2026-08-25T00:55:54.100779+00:00",
   "items": [
+    {
+      "title": "ACN Stock: Why The Discount May Not Last",
+      "summary": "At $185.28, Accenture (ACN) looks set up for roughly 44% of upside over the next three years under a moderate recovery scenario. Not a moonshot, but enough to matter if the math holds. The upside is powered primarily by steady earnings growth, while a modest re-rating from depressed multiples provides an additional tailwind.",
+      "pub_date": "2026-08-24T22:03:54Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/acn-stock-why-discount-may-220354731.html"
+    },
+    {
+      "title": "IBM Just Hit a New Quantum Computing Milestone. How to Play IBM Stock Now.",
+      "summary": "IBM\u2019s latest quantum computing breakthrough strengthens its long-term growth story. But how should investors play the stock now while it is still under pressure?",
+      "pub_date": "2026-08-24T17:41:26Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ibm-just-hit-quantum-computing-174126563.html"
+    },
     {
       "title": "Why Is QBTS Stock Dropping While Its Quantum Order Book Explodes?",
       "summary": "D-Wave Quantum's order book grew over the past year while its revenue shrank, and the gap is a delivery schedule more than a demand problem.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-22T03:20:51Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/td-synnex-snx-expands-ibm-032051853.html"
-    },
-    {
-      "title": "The Cheapest Part Of Dell's Compounding Machine Just Got Expensive",
-      "summary": "A shrinking share count has handed Dell holders faster earnings growth than the business itself produced, and the stock's run has just made that machine much costlier to keep running.",
-      "pub_date": "2026-08-21T19:48:12Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cheapest-part-dells-compounding-machine-194812228.html"
-    },
-    {
-      "title": "Even The Calm Reading On Palantir Puts Nearly Half The Position In Play",
-      "summary": "The options market expects this stock to move less than it actually has, and the range it still marks out is wide enough to reshape a holding in either direction.",
-      "pub_date": "2026-08-21T17:27:17Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/even-calm-reading-palantir-puts-172717000.html"
     }
   ]
 }

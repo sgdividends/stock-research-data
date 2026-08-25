@@ -1,7 +1,14 @@
 {
   "ticker": "AKAM",
-  "generated_at": "2026-08-24T20:22:29.092165+00:00",
+  "generated_at": "2026-08-25T00:55:25.335938+00:00",
   "items": [
+    {
+      "title": "33 Stocks That Could Rally 33% or More",
+      "summary": "Analysts say these S&P 500 stocks have at least 33% price upside over the next year or so.",
+      "pub_date": "2026-08-24T18:41:12Z",
+      "source": "Kiplinger",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/25-stocks-could-rally-45-134832776.html"
+    },
     {
       "title": "AKAM Rides on Strength in Cloud Infrastructure Segment: Will It Last?",
       "summary": "Akamai's CIS segment increases 39% in Q2, fueled by AI workloads and GPU demand, but can its cloud infrastructure growth stay on track?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-15T23:08:54Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/akamai-technologies-akam-undervalued-cloud-230854133.html"
-    },
-    {
-      "title": "Akamai Technologies (AKAM) Unveils Workforce Protector As AI Threat Research Flags Enterprise Risks",
-      "summary": "Akamai Technologies (NasdaqGS: AKAM) announced the launch of its Workforce Protector product, integrating AI governance tools with real time data loss prevention for enterprise users. The company released new security research detailing emerging AI driven threats that target enterprise environments and exploit browser based vulnerabilities. The twin updates highlight rising risks tied to employee use of AI tools at work and frame Akamai's response with additional controls for data access and...",
-      "pub_date": "2026-08-15T17:08:01Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/akamai-technologies-akam-unveils-workforce-170801552.html"
     }
   ]
 }
