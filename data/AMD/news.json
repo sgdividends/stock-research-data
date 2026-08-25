@@ -1,6 +1,6 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-08-25T00:55:26.329770+00:00",
+  "generated_at": "2026-08-25T04:33:14.346324+00:00",
   "items": [
     {
       "title": "How investors should approach Nvidia\u2019s earnings",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-24T14:56:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/investors-approach-nvidia-earnings-145600454.html"
+    },
+    {
+      "title": "Berkshire Hathaway Rose While Every Major Chip Stock Fell Monday",
+      "summary": "When the AI complex wobbles, the money has to go somewhere. Monday it went to the giant whose earnings don't depend on the build-out.",
+      "pub_date": "2026-08-25T01:07:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-rose-while-every-010701158.html"
     },
     {
       "title": "What You Actually Pay To Join The MU Run",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-24T20:09:36Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/micron-seagate-western-digital-semtech-200936690.html"
-    },
-    {
-      "title": "AMD Sinks 2.9% Before Nvidia's Critical Earnings Test",
-      "summary": "Investors are cutting accelerator exposure before the report that could reset the entire AI-chip trade.",
-      "pub_date": "2026-08-24T19:56:30Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/articles/amd-sinks-2-9-nvidias-195630849.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-08-25T00:56:07.554998+00:00",
+  "generated_at": "2026-08-25T04:33:53.717129+00:00",
   "items": [
+    {
+      "title": "Bank of America raises price targets on 10 software stocks",
+      "summary": "The software stock selloff may have just reached a turning point.",
+      "pub_date": "2026-08-25T01:17:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-raises-price-targets-011700886.html"
+    },
     {
       "title": "Can NOW's Tech Mahindra Deal Boost Its AI Edge Over CRM & MSFT?",
       "summary": "ServiceNow's expanded Tech Mahindra deal aims to scale enterprise AI, strengthen governance and support AI monetization amid rising competition.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T17:10:05Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-climbs-4-180-bigbear-171005603.html"
-    },
-    {
-      "title": "ServiceNow (NOW) Up 41.1% Since Last Earnings Report: Can It Continue?",
-      "summary": "ServiceNow (NOW) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
-      "pub_date": "2026-08-21T15:30:07Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-now-41-1-since-153007090.html"
     }
   ]
 }

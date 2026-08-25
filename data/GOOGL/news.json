@@ -1,6 +1,6 @@
 {
   "ticker": "GOOGL",
-  "generated_at": "2026-08-25T00:55:50.515171+00:00",
+  "generated_at": "2026-08-25T04:33:38.818271+00:00",
   "items": [
     {
       "title": "Tesla to launch Cybercabs in Austin starting Sept. 3",
@@ -8,6 +8,20 @@
       "pub_date": "2026-08-24T20:50:04Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/tesla-launch-cybercabs-austin-starting-205004873.html"
+    },
+    {
+      "title": "Alibaba Is Selling $10.2 Billion of Stock to Fund AI. Alphabet and Intel Went First.",
+      "summary": "The three biggest stock sales by already-public companies this year now share one purpose. Every one of them is paying for the AI build-out.",
+      "pub_date": "2026-08-25T03:58:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-selling-10-2-billion-035801178.html"
+    },
+    {
+      "title": "Big Investors Admit Bitcoin Rally Signals Capital Fleeing an Overheated AI Trade",
+      "summary": "Big investors say Bitcoin's rally reflects capital fleeing AI stocks, framing BTC as both a rotation play and a hedge.",
+      "pub_date": "2026-08-25T03:05:00Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/big-investors-admit-bitcoin-rally-030500329.html"
     },
     {
       "title": "Alphabet (GOOGL) Is Moving Local Services Ads Into Google Ads",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-24T22:03:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-customers-face-15-ai-220300580.html"
-    },
-    {
-      "title": "Google plans to move all Pixel manufacturing out of China by 2027: report",
-      "summary": "Google reportedly informed suppliers it will shift all Pixel device manufacturing out of China and into Vietnam and India beginning in 2027.",
-      "pub_date": "2026-08-24T20:26:56Z",
-      "source": "Fox Business",
-      "url": "https://finance.yahoo.com/technology/articles/google-plans-move-pixel-manufacturing-202656449.html"
-    },
-    {
-      "title": "Coinbase Enters the Tokenized Stock Wars",
-      "summary": "Coinbase Tokenized Stocks just went live on Base, running on the new B20 standard. Here's what to expect.",
-      "pub_date": "2026-08-24T20:25:42Z",
-      "source": "Bankless",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-enters-tokenized-stock-wars-202542191.html"
     }
   ]
 }

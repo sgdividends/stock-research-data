@@ -1,6 +1,6 @@
 {
   "ticker": "MU",
-  "generated_at": "2026-08-25T00:56:06.230109+00:00",
+  "generated_at": "2026-08-25T04:33:52.640894+00:00",
   "items": [
     {
       "title": "Stock market today: S&P 500, Nasdaq fall as chip stocks sink, US unveils new Iran sanctions",
@@ -19,9 +19,16 @@
     {
       "title": "Dow Jones Futures: Trump, Bessent Comments Spark Tech Losses; Nvidia Sells Off Before Earnings",
       "summary": "Dow Jones Futures: Comments from President Trump and Treasury Secretary Bessent sparked tech losses Monday. Nvidia stock sold off.",
-      "pub_date": "2026-08-25T00:20:27Z",
+      "pub_date": "2026-08-25T01:44:12Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-trump-bessent-nvidia-stock-nvda-earnings/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Berkshire Hathaway Rose While Every Major Chip Stock Fell Monday",
+      "summary": "When the AI complex wobbles, the money has to go somewhere. Monday it went to the giant whose earnings don't depend on the build-out.",
+      "pub_date": "2026-08-25T01:07:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-rose-while-every-010701158.html"
     },
     {
       "title": "The Fastest ETF in History Just Hit $25 Billion in Four Months. It Owns Memory Chips",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-24T21:45:30Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/actually-pay-join-mu-run-214530215.html"
-    },
-    {
-      "title": "Micron (MU) Falls More Steeply Than Broader Market: What Investors Need to Know",
-      "summary": "In the latest trading session, Micron (MU) closed at $910.43, marking a -5.83% move from the previous day.",
-      "pub_date": "2026-08-24T21:45:02Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-mu-falls-more-steeply-214502820.html"
     }
   ]
 }

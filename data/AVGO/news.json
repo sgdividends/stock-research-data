@@ -1,7 +1,14 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-08-25T00:55:28.672939+00:00",
+  "generated_at": "2026-08-25T04:33:16.668888+00:00",
   "items": [
+    {
+      "title": "Berkshire Hathaway Rose While Every Major Chip Stock Fell Monday",
+      "summary": "When the AI complex wobbles, the money has to go somewhere. Monday it went to the giant whose earnings don't depend on the build-out.",
+      "pub_date": "2026-08-25T01:07:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-rose-while-every-010701158.html"
+    },
     {
       "title": "Reading Between The Lines Of ADI's Latest Call",
       "summary": "Analog Devices just posted a monster quarter, but analysts on the call wanted to know if this AI-fueled supercycle is a new reality or just a spectacular peak.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-24T20:23:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/technology/ai/articles/steve-cohen-makes-dramatic-switch-202300729.html"
-    },
-    {
-      "title": "TSMC Slides 2.3% as AI-Chip Confidence Suddenly Cracks",
-      "summary": "Samsung's collapse and Nvidia's approaching earnings test are triggering profit-taking across the semiconductor supply chain.",
-      "pub_date": "2026-08-24T19:49:32Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/tsmc-slides-2-3-ai-194932749.html"
     }
   ]
 }

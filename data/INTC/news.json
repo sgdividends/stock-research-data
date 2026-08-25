@@ -1,7 +1,21 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-08-25T00:55:54.952108+00:00",
+  "generated_at": "2026-08-25T04:33:43.207343+00:00",
   "items": [
+    {
+      "title": "Alibaba Is Selling $10.2 Billion of Stock to Fund AI. Alphabet and Intel Went First.",
+      "summary": "The three biggest stock sales by already-public companies this year now share one purpose. Every one of them is paying for the AI build-out.",
+      "pub_date": "2026-08-25T03:58:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-selling-10-2-billion-035801178.html"
+    },
+    {
+      "title": "Berkshire Hathaway Rose While Every Major Chip Stock Fell Monday",
+      "summary": "When the AI complex wobbles, the money has to go somewhere. Monday it went to the giant whose earnings don't depend on the build-out.",
+      "pub_date": "2026-08-25T01:07:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-rose-while-every-010701158.html"
+    },
     {
       "title": "S&P 500, Nasdaq End Lower On Chipmaker Weakness, While Traders Position For Nvidia Earnings This Week \u2014 AVGO, INTC, BE, NVDA, PSKY In Focus",
       "summary": "The U.S. Treasury chief threatened economic sanctions against any country doing business with Iran.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-24T20:09:36Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/micron-seagate-western-digital-semtech-200936690.html"
-    },
-    {
-      "title": "Intel (INTC) Joins City Scale Open 5G And NextG Testing Push",
-      "summary": "Intel (NasdaqGS: INTC) announced a collaboration on open-source 5G and NextG testing with the COSMOS testbed, Rutgers University, Columbia University, NYU, and Airspan Networks. The partnership centers on city scale trials of 5G core and O-RAN radio technology aimed at evaluating real world performance and interoperability. The project is designed to support future network evolution, including potential 6G use cases, across a mix of academic and industry partners. This push into open, next...",
-      "pub_date": "2026-08-24T19:09:30Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/articles/intel-intc-joins-city-scale-190930730.html"
-    },
-    {
-      "title": "Nancy Pelosi Disclosure Reveals Two Fresh AI Stock Bets",
-      "summary": "Two very different stocks are targeting the same megatrend.",
-      "pub_date": "2026-08-24T18:34:32Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nancy-pelosi-disclosure-reveals-two-183432115.html"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "SNDK",
-  "generated_at": "2026-08-25T00:56:17.296077+00:00",
+  "generated_at": "2026-08-25T04:34:03.201891+00:00",
   "items": [
     {
       "title": "Stock market today: S&P 500, Nasdaq fall as chip stocks sink, US unveils new Iran sanctions",
@@ -10,9 +10,16 @@
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html"
     },
     {
+      "title": "NVDA Stock\u2019s 7-Day Losing Streak Sets Up Make-Or-Break AI Earnings Test: Retail Expects Yet Another Beat",
+      "summary": "Investors are closely tracking the slide in Nvidia and other AI-linked stocks as macro developments add pressure to markets during a crucial week.",
+      "pub_date": "2026-08-25T02:22:30Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvda-stock-7-day-losing-022230114.html"
+    },
+    {
       "title": "Dow Jones Futures: Trump, Bessent Comments Spark Tech Losses; Nvidia Sells Off Before Earnings",
       "summary": "Dow Jones Futures: Comments from President Trump and Treasury Secretary Bessent sparked tech losses Monday. Nvidia stock sold off.",
-      "pub_date": "2026-08-25T00:20:27Z",
+      "pub_date": "2026-08-25T01:44:12Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-trump-bessent-nvidia-stock-nvda-earnings/?src=A00220&yptr=yahoo"
     },
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-24T20:41:12Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-fall-sanctions-204112044.html"
-    },
-    {
-      "title": "Marvell, Micron, SpaceX, XPeng, Tesla, Moderna, and More Stocks That Explain Today\u2019s Market",
-      "summary": "FEATURE  Stocks were mostly lower on Monday with the major indexes weighed down by falling artificial-intelligence stocks ahead of Nvidia\u2019s \u00a0key earnings and Federal Reserve Chairman Kevin Warsh\u2019s Jackson Hole comments later this week.",
-      "pub_date": "2026-08-24T20:37:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-a25cb190?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

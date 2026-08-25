@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "generated_at": "2026-08-25T00:55:26.971703+00:00",
+  "generated_at": "2026-08-25T04:33:14.907909+00:00",
   "items": [
     {
       "title": "The luxury retail categories that consumers continue to spend the most on",
@@ -15,6 +15,13 @@
       "pub_date": "2026-08-23T11:25:02Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html"
+    },
+    {
+      "title": "The Premium On WMT Stock Vs What Its Peers Deliver",
+      "summary": "Walmart's stock commands a premium price tag, but its growth and profit numbers look more like they belong in the bargain aisle.",
+      "pub_date": "2026-08-25T02:16:26Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/premium-wmt-stock-vs-peers-021626343.html"
     },
     {
       "title": "Alibaba\u2019s $10.2 billion AI bet could reach far beyond investors",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-24T23:13:16Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-pepsico-pep-231316130.html"
-    },
-    {
-      "title": "AMZN Stock Climbs As Amazon Reportedly Plans Automation Initiative To Use AI And Robotics For Delivery Stations",
-      "summary": "Amazon is developing an automation initiative, dubbed Project Tetromino, to fully automate its final-mile delivery stations using artificial intelligence and robotics.",
-      "pub_date": "2026-08-24T22:50:28Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amzn-stock-climbs-amazon-reportedly-225028865.html"
     }
   ]
 }
