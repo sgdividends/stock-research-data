@@ -1,7 +1,14 @@
 {
   "ticker": "NEM",
-  "generated_at": "2026-08-25T16:30:00.754640+00:00",
+  "generated_at": "2026-08-25T20:22:31.123689+00:00",
   "items": [
+    {
+      "title": "Stock Market Today: Nasdaq Paces Advance As Nvidia, Tech Names Climb; Zoom Shares Dragged (Live Coverage)",
+      "summary": "Stock Market Today: The Dow Jones index rises Tuesday as Treasury yields and oil prices drop. Nvidia, Micron and Sandisk rebound.",
+      "pub_date": "2026-08-25T19:02:42Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-treasury-yields-nvidia-micron-sandisk/?src=A00220&yptr=yahoo"
+    },
     {
       "title": "Newmont (NEM) Faces Gold Above $4,500. Will Rising Costs Dilute the Windfall?",
       "summary": "Newmont Corporation (NYSE:NEM) shares climbed 7.9% to close at $125.08 on August 19 as gold gained more than 2% and traded near $4,516 per ounce. The gold rally coincided with Treasury bond buybacks, lower yields and a weaker dollar. Whether historically elevated bullion prices can continue outrunning higher mining costs is now the central question. [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-19T20:42:12Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-newmont-mining-rallied-today-204212774.html"
-    },
-    {
-      "title": "Treasury Yields Fall, Gold Jumps On Bessent Buyback Plan; GDX Flashes Buy Signal",
-      "summary": "The gold price jumped and the GDX gold miner ETF surged on Treasury Secretary Scott Bessent's move to cap long-term bond yields, which fell.",
-      "pub_date": "2026-08-19T16:00:36Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/treasury-yields-fall-gold-price-jumps-gdx/?src=A00220&yptr=yahoo"
     }
   ]
 }

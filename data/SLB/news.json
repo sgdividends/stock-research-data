@@ -1,7 +1,14 @@
 {
   "ticker": "SLB",
-  "generated_at": "2026-08-25T16:30:09.385955+00:00",
+  "generated_at": "2026-08-25T20:22:49.558777+00:00",
   "items": [
+    {
+      "title": "Sector Update: Energy Stocks Fall Tuesday",
+      "summary": "Energy stocks fell Tuesday with the NYSE Energy Sector Index declining 1.1% and the State Street Ene",
+      "pub_date": "2026-08-25T20:03:28Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-tuesday-200328287.html"
+    },
     {
       "title": "Is RPC Stock Attractive as Margin Gains Meet Soft Industry Activity?",
       "summary": "RES' margin gains and diversified service mix strengthen its outlook, but subdued activity and higher capex temper the upside.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-06T19:59:03Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-afternoon-195903141.html"
-    },
-    {
-      "title": "How Baker Hughes' Chart Deal Could Reshape Its Growth and Risk Profile",
-      "summary": "BKR's Chart acquisition broadens its industrial reach and recurring revenues, but higher debt makes integration and deleveraging the key tests.",
-      "pub_date": "2026-08-04T17:39:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/energy/articles/baker-hughes-chart-deal-could-173900015.html"
     }
   ]
 }

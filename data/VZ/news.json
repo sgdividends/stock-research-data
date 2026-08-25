@@ -1,7 +1,14 @@
 {
   "ticker": "VZ",
-  "generated_at": "2026-08-25T16:30:17.543989+00:00",
+  "generated_at": "2026-08-25T20:23:17.912824+00:00",
   "items": [
+    {
+      "title": "Lockheed Martin (LMT) Expands Into AI Airspace Monitoring And Sea Launch",
+      "summary": "Lockheed Martin (NYSE:LMT) showcased its NetSense Airspace Awareness-as-a-Service system, which uses AI and commercial 5G networks to detect unmanned aircraft systems. The NetSense demonstration highlighted potential applications in monitoring airspace around critical infrastructure, public events, and government facilities, in collaboration with partners including Verizon and NVIDIA. Lockheed Martin extended its multi-launch rocket agreement with Firefly Aerospace and agreed to work...",
+      "pub_date": "2026-08-25T18:17:36Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/lockheed-martin-lmt-expands-ai-181736357.html"
+    },
     {
       "title": "How Much Do You Really Need Invested to Replace a $120,000 Salary With Dividends?",
       "summary": "The yield you chase determines whether you need $1 million or $3.4 million, and the one that feels safest might quietly betray you a decade from now.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-23T15:33:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/technology/articles/spectrum-rolls-free-offer-steep-153300402.html"
-    },
-    {
-      "title": "Comcast adds new service to internet plans as customers leave",
-      "summary": "Comcast is taking a new approach as it works to retain customers amid elevated competition.",
-      "pub_date": "2026-08-22T17:17:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/articles/comcast-adds-internet-plans-customers-171700269.html"
     }
   ]
 }

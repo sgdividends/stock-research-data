@@ -1,7 +1,28 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-08-25T16:30:09.490917+00:00",
+  "generated_at": "2026-08-25T20:22:49.719395+00:00",
   "items": [
+    {
+      "title": "Cisco and Supermicro Are Building for AI's Next Phase",
+      "summary": "The partnership brings dense GPU systems and liquid cooling together.",
+      "pub_date": "2026-08-25T19:34:10Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-supermicro-building-ais-next-193410168.html"
+    },
+    {
+      "title": "Moderna, Nvidia, Apple, Dick\u2019s, Robinhood, AMD, and More Stocks That Explain Today\u2019s Market",
+      "summary": "Stocks were modestly higher Tuesday as Wall Street traded cautiously ahead of Nvidia earnings on Wednesday.  Moderna  gained 13% to $156.92 and was the best-performing stock in the  Wolfe Research upgraded the stock to Peer Perform from Underperform without a price target.  Shares surged nearly 180% to $174.38 on Aug. 19, after a late-stage trial showed a treatment combining Moderna and Merck\u2019s experimental vaccine, intismeran autogene, and  Merck  Keytruda was more effective at preventing skin cancer recurrence than Keytruda alone.",
+      "pub_date": "2026-08-25T18:33:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stock-movers-5e855b81?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "A first for Nvidia: One of its employees is now facing 5 years in prison for smuggling AI chips into China",
+      "summary": "The company is working with Taiwanese authorities to \u201cresolve the allegations as quickly as possible.\u201d",
+      "pub_date": "2026-08-25T18:05:00Z",
+      "source": "Moneywise",
+      "url": "https://finance.yahoo.com/technology/ai/articles/first-nvidia-one-employees-now-180500778.html"
+    },
     {
       "title": "SMCI's Backlogs are Growing at a Record Pace: What's Ahead?",
       "summary": "Super Micro Computer's record backlog and AI demand set the stage for growth, with management expecting AI solutions to exceed 80% of revenues.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-25T12:00:06Z",
       "source": "Axios",
       "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-cisco-expands-nvidia-partnership-120006704.html"
-    },
-    {
-      "title": "AI Server Smuggling: Taiwan Charges Nine",
-      "summary": "Plus: U.S. sanctions suspected Iranian hackers on \u2018economic D-Day;\u2019 Alabama subpoenas OpenAI over rogue cyberattack.",
-      "pub_date": "2026-08-25T11:37:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/pro/cybersecurity/ai-server-smuggling-taiwan-charges-nine-72009fad?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Update: Nasdaq, S&P 500 Fall as New Sanctions Plan Targets Iran's Trading Partners",
-      "summary": "(Updates with market moves at the end of the day, and other changes, if any.) The Nasdaq Composit",
-      "pub_date": "2026-08-24T20:41:12Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-fall-sanctions-204112044.html"
-    },
-    {
-      "title": "Super Micro (SMCI) Stock Trades Down, Here Is Why",
-      "summary": "Shares of server solutions provider Super Micro (NASDAQ:SMCI) fell 4.8% in the afternoon session after Taiwanese prosecutors indicted nine individuals, including two employees of the company's Taiwan unit, over an alleged scheme to illegally export AI servers to China. According to Reuters, prosecutors in Keelung said on August 24, 2026, that eight defendants \u2014 including two Super Micro employees and one Nvidia employee \u2014 were charged with breach of trust and document forgery, while a ninth face",
-      "pub_date": "2026-08-24T20:01:36Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-smci-stock-trades-200136729.html"
     }
   ]
 }

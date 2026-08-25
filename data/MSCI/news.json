@@ -1,7 +1,14 @@
 {
   "ticker": "MSCI",
-  "generated_at": "2026-08-25T16:29:59.591368+00:00",
+  "generated_at": "2026-08-25T20:22:27.143470+00:00",
   "items": [
+    {
+      "title": "Data Center Deals Propel July CRE Sales Volume To Best Performance Since 2005",
+      "summary": "CRE transactions reached their highest level since 2005, with BlackRock's acquisition of Aligned Data Centers driving activity.",
+      "pub_date": "2026-08-25T17:01:19Z",
+      "source": "Bisnow",
+      "url": "https://finance.yahoo.com/real-estate/articles/data-center-deals-propel-july-170119225.html"
+    },
     {
       "title": "Dollar Debasement Frees Emerging-Markets Currencies From Treasuries\u2019 Weight",
       "summary": "US Treasuries and emerging-market currencies are diverging the most in more than four years as higher US yields fail to fuel the dollar\u2019s strength like they once did.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-17T17:58:20Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/1-wall-street-favorite-stocks-175820219.html"
-    },
-    {
-      "title": "Why Strategy (MSTR) Shares Are Trading Lower Today",
-      "summary": "Shares of bitcoin development company Strategy (NASDAQ:MSTR) fell 3.5% in the afternoon session after index provider MSCI proposed removing the company from its Global Investable Market Indexes, compounding concerns over recent sales of its Bitcoin holdings and a broad slide in cryptocurrency prices.",
-      "pub_date": "2026-08-17T02:13:00Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-strategy-mstr-shares-trading-021300627.html"
     }
   ]
 }

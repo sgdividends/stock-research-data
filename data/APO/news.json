@@ -1,6 +1,6 @@
 {
   "ticker": "APO",
-  "generated_at": "2026-08-25T16:29:26.757623+00:00",
+  "generated_at": "2026-08-25T20:21:15.610027+00:00",
   "items": [
     {
       "title": "Nvidia's Q2 earnings to test resurgent AI trade",
@@ -8,6 +8,20 @@
       "pub_date": "2026-08-23T11:25:02Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/article/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html"
+    },
+    {
+      "title": "Sector Update: Financial Stocks Edge Higher Late Afternoon",
+      "summary": "Financial stocks were edging higher late Tuesday afternoon, with the NYSE Financial Index up 0.2% an",
+      "pub_date": "2026-08-25T20:03:48Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-edge-higher-200348530.html"
+    },
+    {
+      "title": "Sector Update: Financial Stocks Mixed Tuesday Afternoon",
+      "summary": "Financial stocks were mixed in Tuesday afternoon trading, with the NYSE Financial Index up 0.1% and",
+      "pub_date": "2026-08-25T17:58:50Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-mixed-tuesday-175850258.html"
     },
     {
       "title": "Broadcom credit risk measures rise amid AI financing deals",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-24T15:51:00Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-mostly-lower-155100701.html"
-    },
-    {
-      "title": "Hackers Breach Apollo Global (APO) Right as Assets Hit $1 Trillion",
-      "summary": "On August 21, Apollo Global Management (NYSE:APO) disclosed in a letter that hackers gained unauthorized access to some of its cloud platforms between July 6 and July 10, exposing names, dates of birth, addresses, and Social Security numbers. The breach lands weeks after Apollo told investors its assets under management had crossed $1 trillion for [\u2026]",
-      "pub_date": "2026-08-24T11:38:03Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hackers-breach-apollo-global-apo-113803588.html"
-    },
-    {
-      "title": "Exxon Eyes Shell\u2019s $8 Billion U.S. Chemicals Business",
-      "summary": "ExxonMobil is among several bidders pursuing all or part of Shell\u2019s U.S. chemicals business in a potential deal valued at up to $8 billion.",
-      "pub_date": "2026-08-24T07:15:00Z",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/energy/articles/exxon-eyes-shell-8-billion-071500169.html"
     }
   ]
 }

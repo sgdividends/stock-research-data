@@ -1,7 +1,14 @@
 {
   "ticker": "COP",
-  "generated_at": "2026-08-25T16:29:34.115830+00:00",
+  "generated_at": "2026-08-25T20:21:30.685001+00:00",
   "items": [
+    {
+      "title": "Covered Call Yields with ConocoPhillips Are Attractive as COP Stock Is Near a Peak",
+      "summary": "ConocoPhillips stock (COP) is just off a three-month peak. That makes selling COP covered calls with a one-month expiry attractive to shareholders. The $140 call expiring Sept. 25 yields 1.75%.",
+      "pub_date": "2026-08-25T13:15:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/options/articles/covered-call-yields-conocophillips-attractive-131502930.html"
+    },
     {
       "title": "Update: US Equity Futures Higher Pre-Bell as Tech Stocks Bounce Back From Selloff",
       "summary": "(Updates with economic data, recent oil price movement, world markets' overview, and corporate stock",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T19:55:14Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/energy/articles/exxonmobil-told-oil-shock-arrived-195514042.html"
-    },
-    {
-      "title": "Occidental Petroleum Stock Can Climb Without A Higher Oil Price",
-      "summary": "Management's own plan leans on lower costs, a slower decline rate, and a stronger balance sheet, not on the price of crude.",
-      "pub_date": "2026-08-21T19:41:46Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-stock-climb-without-194146402.html"
     }
   ]
 }

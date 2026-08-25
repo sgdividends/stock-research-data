@@ -1,7 +1,14 @@
 {
   "ticker": "BX",
-  "generated_at": "2026-08-25T16:29:30.243948+00:00",
+  "generated_at": "2026-08-25T20:21:21.734123+00:00",
   "items": [
+    {
+      "title": "Making the Case for Why Jersey Mike\u2019s is Just Getting Started",
+      "summary": "Jersey Mike\u2019s stock market debut might not have gone quite as some planned. The chain\u2019s $6.9 billion valuation at IPO in late July priced about 43.5 million shares at $23 apiece\u2014the midpoint of a marketed range of $21\u2013$25. The offering raised about $1 billion. Shares opened at $21 (an 8.7 percent), before recovering, and were [\u2026]",
+      "pub_date": "2026-08-25T18:48:06Z",
+      "source": "QSR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/making-case-why-jersey-mike-184806121.html"
+    },
     {
       "title": "Broadcom Credit Risk Soars on Mega AI Debt Financing Backstops",
       "summary": "Bond traders have ramped up measures of credit risk associated with Broadcom Inc. as it backstops mega financing packages for the buildout of artificial intelligence.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-20T20:17:02Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-seeks-more-60-billion-201702584.html"
-    },
-    {
-      "title": "Does KKR's $796B AUM Set the Stage for $1T Growth by 2030?",
-      "summary": "KKR's $796B AUM underscores a diversified growth strategy, with acquisitions and recurring fees supporting its path toward $1T by 2030.",
-      "pub_date": "2026-08-20T14:11:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-kkrs-796b-aum-set-141100848.html"
     }
   ]
 }

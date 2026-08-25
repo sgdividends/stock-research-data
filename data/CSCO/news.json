@@ -1,7 +1,14 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-08-25T16:29:35.198269+00:00",
+  "generated_at": "2026-08-25T20:21:35.264873+00:00",
   "items": [
+    {
+      "title": "Cisco and Supermicro Are Building for AI's Next Phase",
+      "summary": "The partnership brings dense GPU systems and liquid cooling together.",
+      "pub_date": "2026-08-25T19:34:10Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-supermicro-building-ais-next-193410168.html"
+    },
     {
       "title": "Lumentum's 1.6T & 200G Ramp Faces Cisco & NVIDIA Competition",
       "summary": "LITE's 1.6T transceiver and 200G laser ramps support AI connectivity growth as capacity expands amid tight supply and tougher competition.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-25T12:00:06Z",
       "source": "Axios",
       "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-cisco-expands-nvidia-partnership-120006704.html"
-    },
-    {
-      "title": "3 of Wall Street\u2019s Favorite Stocks We Keep Off Our Radar",
-      "summary": "Wall Street has set ambitious price targets for the stocks in this article. While this suggests attractive upside potential, it\u2019s important to remain skeptical because analysts face institutional pressures that can sometimes lead to overly optimistic forecasts.",
-      "pub_date": "2026-08-25T11:50:44Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-wall-street-favorite-stocks-115044554.html"
     }
   ]
 }
