@@ -1,7 +1,14 @@
 {
   "ticker": "MS",
-  "generated_at": "2026-08-25T04:33:51.944812+00:00",
+  "generated_at": "2026-08-25T08:35:25.130226+00:00",
   "items": [
+    {
+      "title": "AstraZeneca prices \u20ac2.55bn euro bond sale across four tranches",
+      "summary": "AstraZeneca PLC (LSE:AZN, NASDAQ:AZN), the FTSE 100 pharma group, has priced a \u20ac2.55 billion bond offering, tapping the euro debt market for general corporate purposes. The notes were issued on Monday by AstraZeneca Finance LLC, a wholly owned US subsidiary, and carry a full and unconditional...",
+      "pub_date": "2026-08-25T06:32:00Z",
+      "source": "Proactive",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/astrazeneca-prices-2-55bn-euro-063200860.html"
+    },
     {
       "title": "Asian Stocks Under Pressure After US Tech Selloff: Markets Wrap",
       "summary": "Asian stocks were set for broad declines Tuesday after a tech-led selloff on Wall Street outweighed a drop in oil, as traders weighed Treasury Secretary Scott Bessent\u2019s plan to isolate Iran from the global economy.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-24T14:24:27Z",
       "source": "Blockspace",
       "url": "https://finance.yahoo.com/technology/ai/articles/morgan-stanley-expects-powered-shell-142427773.html"
-    },
-    {
-      "title": "Morgan Stanley warns bond yields could rise in post-WWII-style era",
-      "summary": "The investment bank says market dynamics have shifted away from the disinflationary boom that ran from 1982 to 2020",
-      "pub_date": "2026-08-24T13:45:05Z",
-      "source": "Quartz",
-      "url": "https://finance.yahoo.com/economy/articles/morgan-stanley-warns-bond-yields-134505112.html"
     }
   ]
 }

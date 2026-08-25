@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "generated_at": "2026-08-25T04:33:50.236631+00:00",
+  "generated_at": "2026-08-25T08:35:23.281072+00:00",
   "items": [
     {
       "title": "Tech stocks today: All eyes on Nvidia as Meta trial resumes",
@@ -15,6 +15,20 @@
       "pub_date": "2026-08-23T11:25:02Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/news/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html"
+    },
+    {
+      "title": "Meta Targets Early September for Hatch, Its Consumer AI Agent",
+      "summary": "Meta plans to launch its Hatch AI agent within weeks as Zuckerberg moves to monetize the company's AI spending.",
+      "pub_date": "2026-08-25T08:11:40Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-targets-early-september-hatch-081140319.html"
+    },
+    {
+      "title": "AMD Is Winning Nvidia (NVDA) Customers But Investors May Be Missing The Catch",
+      "summary": "Advanced Micro Devices, Inc. (NASDAQ:AMD) has finally landed the kind of AI customers investors spent years waiting for. OpenAI and Meta have committed to massive deployments of AMD Instinct GPUs, helping validate the company as the clearest large-scale alternative to Nvidia Corporation (NASDAQ:NVDA). But Morgan Stanley thinks one less-discussed part of those deals makes the [\u2026]",
+      "pub_date": "2026-08-25T04:33:10Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-winning-nvidia-nvda-customers-043310331.html"
     },
     {
       "title": "Prediction: This Artificial Intelligence (AI) Stock Will Be Worth More than SpaceX Before 2026 is Over",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-24T21:30:26Z",
       "source": "Moby",
       "url": "https://finance.yahoo.com/technology/ai/articles/alibaba-dilutes-shares-feed-ai-213026936.html"
-    },
-    {
-      "title": "Coinbase Enters the Tokenized Stock Wars",
-      "summary": "Coinbase Tokenized Stocks just went live on Base, running on the new B20 standard. Here's what to expect.",
-      "pub_date": "2026-08-24T20:25:42Z",
-      "source": "Bankless",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-enters-tokenized-stock-wars-202542191.html"
-    },
-    {
-      "title": "Meta Rises as Advertising Growth Beats AI Anxiety",
-      "summary": "Investors are rewarding Meta's inexpensive earnings multiple despite collapsing free cash flow and expanding legal risk.",
-      "pub_date": "2026-08-24T19:56:39Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/media-advertising/articles/meta-rises-advertising-growth-beats-195639349.html"
     }
   ]
 }

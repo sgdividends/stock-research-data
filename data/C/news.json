@@ -1,7 +1,14 @@
 {
   "ticker": "C",
-  "generated_at": "2026-08-25T04:33:20.606141+00:00",
+  "generated_at": "2026-08-25T08:34:55.163796+00:00",
   "items": [
+    {
+      "title": "Big Banks Commit Billions to Boost US Housing Supply",
+      "summary": "Major US banks, including JPMorgan and Citi, are pouring billions into affordable housing to boost supply and revive mortgage lending.",
+      "pub_date": "2026-08-25T04:06:21Z",
+      "source": "CRE Daily",
+      "url": "https://finance.yahoo.com/real-estate/articles/big-banks-commit-billions-boost-040621908.html"
+    },
     {
       "title": "Coinbase Debuts Tokenized Stocks On Base Network",
       "summary": "Cryptocurrency exchange Coinbase Global (NASDAQ: $COIN) has debuted tokenized stocks on its Base blockchain network...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-23T15:20:00Z",
       "source": "InvestorsHub",
       "url": "https://finance.yahoo.com/energy/articles/long-could-global-oil-stockpiles-152000400.html"
-    },
-    {
-      "title": "Citi expects Nvidia stock to trade higher post earnings",
-      "summary": "Investing.com -- Nvidia is expected to report stronger-than-anticipated quarterly sales next week, with Citi raising its revenue forecasts on improved shipments of AI networking components and a continued ramp-up of the company's Blackwell chips.",
-      "pub_date": "2026-08-23T11:47:07Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/citi-expects-nvidia-stock-trade-114707114.html"
     }
   ]
 }

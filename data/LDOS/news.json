@@ -1,7 +1,14 @@
 {
   "ticker": "LDOS",
-  "generated_at": "2026-08-25T04:33:46.773729+00:00",
+  "generated_at": "2026-08-25T08:35:19.630617+00:00",
   "items": [
+    {
+      "title": "2 S&P 500 Stocks to Research Further and 1 We Ignore",
+      "summary": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials, or structural headwinds.",
+      "pub_date": "2026-08-25T08:06:44Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-research-080644455.html"
+    },
     {
       "title": "3 Stocks Came Roaring Back\u2014Now They\u2019re Flashing Warning Signs",
       "summary": "Intuit, MGM Resorts and Leidos have each rallied more than 30% off their 2026 lows, but slowing growth, deal risk and weak guidance raise questions about the rebounds.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-13T02:13:00Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/5-most-interesting-analyst-questions-021300938.html"
-    },
-    {
-      "title": "CoreWeave (CRWV) Enters Defense AI While Opening Three Indonesia Data Centers",
-      "summary": "CoreWeave (NasdaqGS:CRWV) announced a new collaboration with Leidos Holdings to provide secure, sovereign AI cloud services for U.S. Intelligence Community and Department of War missions. The agreement focuses on mission specific AI infrastructure tailored for highly sensitive federal workloads with specialized security and compliance requirements. CoreWeave also disclosed plans for three new data centers in Indonesia as part of a broader push into the Asia Pacific cloud market. The moves...",
-      "pub_date": "2026-08-13T02:11:31Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-crwv-enters-defense-ai-021131644.html"
     }
   ]
 }

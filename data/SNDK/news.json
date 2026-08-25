@@ -1,6 +1,6 @@
 {
   "ticker": "SNDK",
-  "generated_at": "2026-08-25T04:34:03.201891+00:00",
+  "generated_at": "2026-08-25T08:35:36.348587+00:00",
   "items": [
     {
       "title": "Stock market today: S&P 500, Nasdaq fall as chip stocks sink, US unveils new Iran sanctions",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-24T08:03:06Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html"
+    },
+    {
+      "title": "Zacks.com featured highlights Sandisk, Celestica  and BrightSpring",
+      "summary": "Sandisk, Celestica and BrightSpring have been highlighted in this Screen of The Week article.",
+      "pub_date": "2026-08-25T08:24:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-com-featured-highlights-sandisk-082400378.html"
     },
     {
       "title": "NVDA Stock\u2019s 7-Day Losing Streak Sets Up Make-Or-Break AI Earnings Test: Retail Expects Yet Another Beat",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-24T20:43:08Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Update: Nasdaq, S&P 500 Fall as New Sanctions Plan Targets Iran's Trading Partners",
-      "summary": "(Updates with market moves at the end of the day, and other changes, if any.) The Nasdaq Composit",
-      "pub_date": "2026-08-24T20:41:12Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-fall-sanctions-204112044.html"
     }
   ]
 }

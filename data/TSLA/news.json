@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "generated_at": "2026-08-25T04:34:07.797733+00:00",
+  "generated_at": "2026-08-25T08:35:40.863501+00:00",
   "items": [
     {
       "title": "Tesla to launch Cybercabs in Austin starting Sept. 3",
@@ -15,6 +15,13 @@
       "pub_date": "2026-08-24T13:55:57Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/article/tesla-cybercab-to-launch-sept-3-as-robotaxi-bet-ramps-up-135557945.html"
+    },
+    {
+      "title": "Tesla\u2019s $5,000 Cybertruck Price Hike Sparks A Bigger Question: Is Demand Really Strong?",
+      "summary": "Base Cybertruck deliveries now stretch into 2027, while costlier configurations remain available sooner.",
+      "pub_date": "2026-08-25T07:24:15Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-5-000-cybertruck-price-072415391.html"
     },
     {
       "title": "Tesla (TSLA)\u2019s Solar Roof Shutdown Raises Questions About its Energy Ambitions",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-24T18:50:40Z",
       "source": "Reuters",
       "url": "https://finance.yahoo.com/energy/articles/tesla-stops-selling-solar-roofs-185040445.html"
-    },
-    {
-      "title": "Tesla Just Took a Blow to Its AI Chip Plans",
-      "summary": "Tesla's AI roadmap is facing another execution test",
-      "pub_date": "2026-08-24T18:31:48Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/tesla-just-took-blow-ai-183148664.html"
     }
   ]
 }
