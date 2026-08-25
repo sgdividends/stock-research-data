@@ -1,6 +1,6 @@
 {
   "ticker": "SCHW",
-  "generated_at": "2026-08-25T12:36:38.236548+00:00",
+  "generated_at": "2026-08-25T16:30:09.020733+00:00",
   "items": [
     {
       "title": "3 S&P 500 Stocks for Long-Term Investors",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-25T12:14:44Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-long-121444133.html"
+    },
+    {
+      "title": "Why Schwab Hiked Minimum Assets to $5M for Client Referral Program",
+      "summary": "The discount brokerage had already increased client asset minimums from $500,000 to $2 million earlier this year without any adjustments in more than two decades.",
+      "pub_date": "2026-08-25T04:03:00Z",
+      "source": "The Daily Upside",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-schwab-hiked-minimum-assets-040300737.html"
     },
     {
       "title": "Schwab SCHD holders are missing its ideal dividend ETF match",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T22:49:09Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/economy/policy/articles/everyone-arguing-taxing-rich-almost-224909156.html"
-    },
-    {
-      "title": "Why higher yields aren't scaring off retail traders",
-      "summary": "Charles Schwab Head Trading & Derivatives Strategist Joe Mazzola joins Jared Blikre to break down how higher Treasury yields are impacting retail traders\u2014and what it means for their portfolios and trading strategies.",
-      "pub_date": "2026-08-21T20:15:00Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/why-higher-yields-arent-scaring-201500563.html"
     }
   ]
 }

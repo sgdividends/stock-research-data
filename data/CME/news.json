@@ -1,7 +1,14 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-08-25T12:35:56.419474+00:00",
+  "generated_at": "2026-08-25T16:29:33.120423+00:00",
   "items": [
+    {
+      "title": "Top Midday Stories: Dick's Sporting Goods Earnings, Guidance Undershoot Targets; SpaceX Targets Q4 2027 for First AI Satellite Launches",
+      "summary": "The Nasdaq Composite and S&P 500 Index were up, while the Dow Jones Industrial Average was roughly f",
+      "pub_date": "2026-08-25T15:55:26Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-dick-apos-155526611.html"
+    },
     {
       "title": "Kalshi Looks to Regulators to Delay Competing Products From Cboe",
       "summary": "Kalshi is asking regulators to delay products from one of its competitors, Cboe Global Markets Inc., as the friction between upstart prediction markets and incumbent financial exchanges heats up.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-22T01:11:49Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cme-group-cme-challenges-prediction-011149748.html"
-    },
-    {
-      "title": "CME Group (CME) Stock Trades At A Premium As Its 67% Run Continues",
-      "summary": "CME Group stock has delivered a 67.2% return over the past five years, yet the latest valuation checks suggest the shares are not an obvious bargain at current levels. The Excess Returns intrinsic value estimate broadly lines up with the market price, while earnings based multiples lean toward the shares trading at a premium. Over five years, a 67.2% return shows CME Group has rewarded long term holders, which raises the bar for what counts as attractive value today. New product plans in...",
-      "pub_date": "2026-08-21T21:10:57Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cme-group-cme-stock-trades-211057161.html"
     }
   ]
 }

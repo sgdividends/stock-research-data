@@ -1,20 +1,27 @@
 {
   "ticker": "SNDK",
-  "generated_at": "2026-08-25T12:36:39.004010+00:00",
+  "generated_at": "2026-08-25T16:30:09.701713+00:00",
   "items": [
     {
-      "title": "Stock market today: S&P 500, Nasdaq fall as chip stocks sink, US unveils new Iran sanctions",
-      "summary": "Markets are kicking off an action-packed week featuring Nvidia earnings and the Federal Reserve's Jackson Hole Symposium.",
-      "pub_date": "2026-08-24T08:03:06Z",
+      "title": "Investors rotate into tech stocks as inflation concerns ease: AlphaCheck",
+      "summary": "Tech stocks reversed Monday's losses, buoyed by falling oil prices and Treasury yields.",
+      "pub_date": "2026-08-25T13:52:58Z",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html"
+      "url": "https://finance.yahoo.com/markets/article/investors-rotate-into-tech-stocks-as-inflation-concerns-ease-alphacheck-135258775.html"
     },
     {
-      "title": "Stock Market Today: Dow Rises As Treasury Yields Fall; Nvidia, Micron, Sandisk Rally (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index rises Tuesday as Treasury yields drop. Nvidia, Micron and Sandisk rebound premarket.",
-      "pub_date": "2026-08-25T12:06:15Z",
+      "title": "Stock Market Today: Nasdaq Leads Charge Amid Canada Tariff News; Bloom Energy Extends Gains (Live Coverage)",
+      "summary": "Stock Market Today: The Dow Jones index rises Tuesday as Treasury yields and oil prices drop. Nvidia, Micron and Sandisk rebound.",
+      "pub_date": "2026-08-25T16:04:39Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-treasury-yields-nvidia-micron-sandisk/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Stock Market News for Aug 25, 2026",
+      "summary": "U.S. stocks ended mostly lower on Monday, triggered by a tech sell-off, and investors continued to assess fresh economic pressures created by the United States against Iran as tensions in the Middle East continued.",
+      "pub_date": "2026-08-25T13:27:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-aug-25-132700491.html"
     },
     {
       "title": "Stock Market Today: Futures Rise After Losing Day for S&P 500, Nasdaq; Oil Prices Pull Back; Bitcoin Tops $80K",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-24T21:35:41Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-24-213541834.html"
-    },
-    {
-      "title": "Update: US Equity Indexes Mixed as Chipmakers Push Technology Lower, Bessent Unveils Plans to Choke Iran's Economy",
-      "summary": "(Updates with index/price moves, macroeconomic data, analyst comments, and company/geopolitical news",
-      "pub_date": "2026-08-24T21:08:02Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-mixed-chipmakers-210802812.html"
     }
   ]
 }

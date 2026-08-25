@@ -1,7 +1,49 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-08-25T12:36:16.648729+00:00",
+  "generated_at": "2026-08-25T16:29:50.211444+00:00",
   "items": [
+    {
+      "title": "IBM takes another giant step in the AI race",
+      "summary": "The move opens IBM Z to a software ecosystem it has never natively supported, and the reason why says a lot about where enterprise AI is headed.",
+      "pub_date": "2026-08-25T15:17:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-takes-another-giant-step-151700943.html"
+    },
+    {
+      "title": "What Could IBM (IBM) Gain From Its First Dual Architecture Mainframe Processor?",
+      "summary": "IBM (NYSE:IBM) announced a new dual-architecture mainframe processor for IBM Z and LinuxONE, developed with Arm, that can execute IBM and Arm instructions on the same chip. The processor allows enterprise workloads to run natively across IBM mainframe and Arm platforms, expanding application and infrastructure options for large organizations. This is the first time IBM mainframe systems will support concurrent execution of both Arm and IBM instructions, aimed at wider workload flexibility...",
+      "pub_date": "2026-08-25T15:08:42Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/articles/could-ibm-ibm-gain-first-150842052.html"
+    },
+    {
+      "title": "Can IBM's Advanced Processor Shape the Future of Enterprise Computing?",
+      "summary": "International Business Machines' dual-architecture processor will bring ARM-native apps to future Z and LinuxONE systems, expanding software choices for critical workloads.",
+      "pub_date": "2026-08-25T15:00:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/articles/ibms-advanced-processor-shape-future-150000922.html"
+    },
+    {
+      "title": "The Real Question Behind Palantir Stock's High Price",
+      "summary": "The software firm looks expensive today, but the real debate is whether its rapid growth can deliver on the valuation discount that patience affords.",
+      "pub_date": "2026-08-25T14:47:58Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/real-behind-palantir-stocks-high-144758518.html"
+    },
+    {
+      "title": "Why Quantum Computing Is a Threat to Cybersecurity",
+      "summary": "The math behind encryption will be no match for quantum computers, forcing organizations to rethink cybersecurity. Here\u2019s what to know.",
+      "pub_date": "2026-08-25T14:00:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/cybersecurity/quantum-computing-threat-cybersecurity-62d293b1?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "How IonQ Is Growing Its Merchant Supplier Role in Quantum Space",
+      "summary": "IONQ expands its merchant supplier role with photonics, networking and semiconductor capabilities to support the broader quantum ecosystem.",
+      "pub_date": "2026-08-25T13:28:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ionq-growing-merchant-supplier-role-132800846.html"
+    },
     {
       "title": "ACN Stock: Why The Discount May Not Last",
       "summary": "At $185.28, Accenture (ACN) looks set up for roughly 44% of upside over the next three years under a moderate recovery scenario. Not a moonshot, but enough to matter if the math holds. The upside is powered primarily by steady earnings growth, while a modest re-rating from depressed multiples provides an additional tailwind.",
@@ -15,48 +57,6 @@
       "pub_date": "2026-08-24T17:41:26Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ibm-just-hit-quantum-computing-174126563.html"
-    },
-    {
-      "title": "Why Is QBTS Stock Dropping While Its Quantum Order Book Explodes?",
-      "summary": "D-Wave Quantum's order book grew over the past year while its revenue shrank, and the gap is a delivery schedule more than a demand problem.",
-      "pub_date": "2026-08-24T16:43:38Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-qbts-stock-dropping-while-164338482.html"
-    },
-    {
-      "title": "Can IBM's New AI-Powered 2026 US Open Innovations Drive Growth?",
-      "summary": "IBM is adding AI-powered live updates, serve analysis, match insights and conversational chat to personalize the 2026 US Open fan experience.",
-      "pub_date": "2026-08-24T15:14:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ibms-ai-powered-2026-us-151400835.html"
-    },
-    {
-      "title": "Nvidia Could Drop 20% On Poor Earnings",
-      "summary": "Nvidia enters earnings week with its stock priced for perfection, but a single crack in its numbers could send investors scrambling for the exits. The question is whether any weakness even exists, and what happens if the market finds out the hard way.",
-      "pub_date": "2026-08-24T14:33:43Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-could-drop-20-poor-143343585.html"
-    },
-    {
-      "title": "1 Profitable Stock with Promising Prospects and 2 That Underwhelm",
-      "summary": "Even if a company is profitable, it doesn\u2019t always mean it\u2019s a great investment. Some struggle to maintain growth, face looming threats, or fail to reinvest wisely, limiting their future potential.",
-      "pub_date": "2026-08-24T12:09:36Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-promising-prospects-120936996.html"
-    },
-    {
-      "title": "One quantum stock just posted a 9,000% revenue jump",
-      "summary": "Seven quantum computing stocks rallied Aug. 21. One earnings report buried in the group stands out from the rest.",
-      "pub_date": "2026-08-22T21:33:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/one-quantum-stock-just-posted-213300490.html"
-    },
-    {
-      "title": "TD SYNNEX (SNX) Expands IBM Footprint, Is It Still A Bargain?",
-      "summary": "TD SYNNEX (SNX) has drawn fresh attention after announcing an expansion of its IBM distribution footprint into 20 additional countries across Europe, Asia Pacific and Latin America, widening access to IBM solutions for channel partners. See our latest analysis for TD SYNNEX. The IBM footprint expansion comes after a strong run for TD SYNNEX, with the latest share price at US$250.14 and a year to date share price return of 63.03%, alongside a 1 year total shareholder return of 68.70% and a 3...",
-      "pub_date": "2026-08-22T03:20:51Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/td-synnex-snx-expands-ibm-032051853.html"
     }
   ]
 }

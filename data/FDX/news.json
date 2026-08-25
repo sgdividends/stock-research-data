@@ -1,7 +1,14 @@
 {
   "ticker": "FDX",
-  "generated_at": "2026-08-25T12:36:08.595072+00:00",
+  "generated_at": "2026-08-25T16:29:43.995313+00:00",
   "items": [
+    {
+      "title": "FedEx\u2019s healthcare leader outlines next steps in sector growth plan",
+      "summary": "Expanding the carrier's cold chain footprint and attracting more pharmaceutical shippers are among Nick Gennari's priorities.",
+      "pub_date": "2026-08-25T09:59:52Z",
+      "source": "Supply Chain Dive",
+      "url": "https://finance.yahoo.com/healthcare/articles/fedex-healthcare-leader-outlines-next-095952933.html"
+    },
     {
       "title": "AMZN Stock Climbs As Amazon Reportedly Plans Automation Initiative To Use AI And Robotics For Delivery Stations",
       "summary": "Amazon is developing an automation initiative, dubbed Project Tetromino, to fully automate its final-mile delivery stations using artificial intelligence and robotics.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-18T11:00:00Z",
       "source": "FreightWaves",
       "url": "https://finance.yahoo.com/small-business/articles/burq-bets-last-mile-decision-110000069.html"
-    },
-    {
-      "title": "FedEx (FDX) Stock May Be 34% Undervalued Despite California Layoffs",
-      "summary": "FedEx stock has delivered an 86.0% return over the past year, while the Discounted Cash Flow (DCF) intrinsic value estimate currently indicates the shares trade at a 33.6% discount to that estimate. This points to a company that still screens as undervalued despite a strong run. Over the last 12 months, FedEx has returned 86.0%, which puts the recent share price firmly in focus for investors assessing how much upside, if any, remains. The push to automate parts of the network with robotic...",
-      "pub_date": "2026-08-17T06:09:25Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fedex-fdx-stock-may-34-060925580.html"
     }
   ]
 }
