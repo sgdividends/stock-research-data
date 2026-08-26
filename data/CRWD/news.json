@@ -1,6 +1,6 @@
 {
   "ticker": "CRWD",
-  "generated_at": "2026-08-26T04:33:51.677300+00:00",
+  "generated_at": "2026-08-26T08:36:23.215199+00:00",
   "items": [
     {
       "title": "The tech trade's next phase includes software and cybersecurity names",
@@ -12,9 +12,16 @@
     {
       "title": "Dow Jones Futures: Inflation Data, Nvidia Earnings Due; Robinhood In Buy Area",
       "summary": "The stock market rose Tuesday amid lower oil prices and yields, but cautiously heading into Fed inflation data and Nvidia earnings.",
-      "pub_date": "2026-08-26T03:07:14Z",
+      "pub_date": "2026-08-26T08:14:08Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-inflation-data-nvidia-earning-srobinhood-oil-prices-yields/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Nvidia Earnings Give Investors a Barometer for State of AI Trade",
+      "summary": "Wall Street is eagerly anticipating Nvidia Corp.\u2019s earnings on Wednesday afternoon, not so much for what the numbers will say about the chip giant, but for what they mean to artificial intelligence investors and the market itself.",
+      "pub_date": "2026-08-26T07:48:56Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-earnings-investors-barometer-state-074856874.html"
     },
     {
       "title": "CrowdStrike Q2 Earnings Preview: What to Expect From Upcoming Report",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-25T12:00:57Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/technology/cybersecurity-stocks-earnings-artificial-intelligence-high-expectations/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "CrowdStrike Stock Faces a High Bar Ahead of Q2 Earnings. Here\u2019s What Investors Should Watch.",
-      "summary": "With analysts raising their price targets and AI security demand accelerating, CrowdStrike has plenty of momentum heading into Q2.",
-      "pub_date": "2026-08-25T11:30:02Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-stock-faces-high-bar-113002845.html"
     }
   ]
 }

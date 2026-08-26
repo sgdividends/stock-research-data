@@ -1,6 +1,6 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-08-26T04:33:40.444751+00:00",
+  "generated_at": "2026-08-26T08:36:09.052571+00:00",
   "items": [
     {
       "title": "Why Nvidia rival AMD may see a 40% rip in its stock",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-25T16:47:20Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/article/why-nvidia-rival-amd-may-see-a-40-rip-in-its-stock-164720676.html"
+    },
+    {
+      "title": "What Is Advanced Micro Devices (AMD) Telling Investors With Its AI Security Push?",
+      "summary": "Advanced Micro Devices (NasdaqGS:AMD) introduced TRACE, an open specification for verifiable AI runtime evidence, now under Linux Foundation governance. TRACE is designed as a vendor neutral, hardware enforced standard to support trusted and transparent AI workloads across enterprise and sovereign infrastructure. Separately, Anjuna Seaglass confidential computing is rolling out on AMD EPYC CPUs using AMD Secure Virtualization to protect sensitive on premises data. The two initiatives target...",
+      "pub_date": "2026-08-26T07:10:13Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-telling-071013777.html"
     },
     {
       "title": "AMD Stock Is Rising. Here's Why This Top AI Stock Is a Strong Buy Right Now",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-25T22:08:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-mrvl-stock-poised-another-220800295.html"
-    },
-    {
-      "title": "AMD Stock Upgraded To Strong Buy. Here's Why.",
-      "summary": "Advanced Micro Devices received a bullish vote of confidence as Raymond James upgraded AMD stock to strong buy from outperform.",
-      "pub_date": "2026-08-25T20:45:28Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/amd-stock-upgraded-strong-buy-server-cpus-agentic-ai/?src=A00220&yptr=yahoo"
     }
   ]
 }
