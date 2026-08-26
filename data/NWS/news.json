@@ -1,7 +1,14 @@
 {
   "ticker": "NWS",
-  "generated_at": "2026-08-26T16:44:51.390130+00:00",
+  "generated_at": "2026-08-26T22:39:34.410940+00:00",
   "items": [
+    {
+      "title": "News Corporation Stock: Analyst Estimates & Ratings",
+      "summary": "Despite News Corporation's underperformance relative to the broader market over the past year, Wall Street analysts maintain a moderately optimistic outlook about the stock\u2019s prospects.",
+      "pub_date": "2026-08-26T13:17:45Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/news-corporation-stock-analyst-estimates-131745216.html"
+    },
     {
       "title": "3 Consumer Stocks That Fall Short",
       "summary": "Consumer discretionary businesses are levered to the highs and lows of economic cycles. Over the past six months, it seems like demand may be facing some headwinds as the industry\u2019s 6.2% return has lagged the S&P 500 by 4.8 percentage points.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-07T07:11:04Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/news-corp-nwsa-stock-draws-071104736.html"
-    },
-    {
-      "title": "NWSA's Q4 2026 Earnings Beat Estimates on Core Growth, Rise Y/Y",
-      "summary": "News Corporation tops fiscal Q4 estimates as Digital Real Estate, Dow Jones and Book Publishing fueled revenue, EBITDA and earnings growth.",
-      "pub_date": "2026-08-06T14:01:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nwsas-q4-2026-earnings-beat-140100183.html"
     }
   ]
 }

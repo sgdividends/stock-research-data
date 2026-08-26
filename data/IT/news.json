@@ -1,7 +1,14 @@
 {
   "ticker": "IT",
-  "generated_at": "2026-08-26T16:44:36.391953+00:00",
+  "generated_at": "2026-08-26T22:39:21.600837+00:00",
   "items": [
+    {
+      "title": "Gartner Stock: Is Wall Street Bullish or Bearish?",
+      "summary": "While Gartner has underperformed the broader market over the past year, analysts are cautious about its future outlook.",
+      "pub_date": "2026-08-26T12:30:20Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gartner-stock-wall-street-bullish-123020018.html"
+    },
     {
       "title": "Micron\u2019s Long-Term Contracts Cap Memory-Boom Upside",
       "summary": "Micron stock was rising on Tuesday as new data showed how far memory-chip prices are set to rise this quarter.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T13:54:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/factset-stock-jumps-58-6-135400495.html"
-    },
-    {
-      "title": "5 High ROE Stocks to Buy as Markets Sway on Intense Volatility",
-      "summary": "ALL, ANET, NLY, IT and AME stand out as high-ROE, cash-rich stocks as market volatility intensifies amid bond yield swings.",
-      "pub_date": "2026-08-21T13:15:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/5-high-roe-stocks-buy-131500603.html"
     }
   ]
 }

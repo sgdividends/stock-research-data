@@ -1,7 +1,28 @@
 {
   "ticker": "TTD",
-  "generated_at": "2026-08-26T16:45:11.099197+00:00",
+  "generated_at": "2026-08-26T22:39:48.468245+00:00",
   "items": [
+    {
+      "title": "Intel Raises $23B to Fund AI Chip Capacity as 14A Roadmap Gains Momentum",
+      "summary": "Intel (NASDAQ:INTC) Chief Financial Officer David Zinsner said the company\u2019s recent capital raise was intended to support higher capital expenditures, substrate investments and capacity commitments as it seeks to address demand for data-center CPUs, advanced packaging and future process technologies",
+      "pub_date": "2026-08-26T20:02:05Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/technology/ai/articles/intel-raises-23b-fund-ai-200205647.html"
+    },
+    {
+      "title": "Trade Desk Just Dropped 24% in a Month. Is It Time to Sell?",
+      "summary": "Trade Desk stock has spent a year bleeding out while a direct competitor surged nearly 50%, and the two trajectories together reveal something specific about where the sell decision actually stands.",
+      "pub_date": "2026-08-26T19:01:46Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trade-desk-just-dropped-24-190146899.html"
+    },
+    {
+      "title": "Oracle CEO Sicilia Says AI Is Reshaping Cloud Growth, Pricing and Enterprise Demand",
+      "summary": "Oracle (NYSE:ORCL) Chief Executive Officer Mike Sicilia said artificial intelligence is reshaping customer conversations, software development and the company\u2019s approach to selling cloud applications, database technology and infrastructure. Speaking at the Deutsche Bank Technology Conference, Sicil",
+      "pub_date": "2026-08-26T18:01:59Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-ceo-sicilia-says-ai-180159666.html"
+    },
     {
       "title": "Oracle Conference: Why Enterprise AI Is Moving Beyond GPUs to Governance and Multicloud",
       "summary": "Enterprise AI discussions are shifting from model selection and training speed toward the operational requirements of deploying artificial intelligence across business processes, according to Karan Batta, senior vice president of Oracle Cloud Infrastructure. Speaking during The Six Five Summit: AI",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-24T12:47:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/media-advertising/articles/ttds-customer-count-broadens-3-124700764.html"
-    },
-    {
-      "title": "AppLovin Keeps Tanking: 160% Returns Lie Ahead According To One Wall Street Bank",
-      "summary": "AppLovin's stock cratered more than 50% this year despite posting earnings growth that most software companies would envy, and at least one major Wall Street bank thinks the selloff created a once-in-a-cycle gap between price and reality.",
-      "pub_date": "2026-08-24T12:28:44Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/applovin-keeps-tanking-160-returns-122844009.html"
-    },
-    {
-      "title": "The Zacks Analyst Blog Highlights AppLovin's, Unity and  The Trade Desk",
-      "summary": "Shopify integration could fuel AppLovin s next growth wave as richer commerce data sharpens AXON, boosts campaign performance and drives adoption.",
-      "pub_date": "2026-08-24T09:18:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-applovins-091800209.html"
-    },
-    {
-      "title": "3 Unpopular Stocks We Steer Clear Of",
-      "summary": "Wall Street has issued downbeat forecasts for the stocks in this article. These predictions are rare - financial institutions typically hesitate to say bad things about a company because it can jeopardize their other revenue-generating business lines like M&A advisory.",
-      "pub_date": "2026-08-24T06:17:36Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-unpopular-stocks-steer-clear-061736230.html"
     }
   ]
 }

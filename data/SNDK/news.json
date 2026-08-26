@@ -1,6 +1,6 @@
 {
   "ticker": "SNDK",
-  "generated_at": "2026-08-26T16:45:04.007522+00:00",
+  "generated_at": "2026-08-26T22:39:42.735661+00:00",
   "items": [
     {
       "title": "Stocks in holding pattern ahead of Nvidia earnings: AlphaCheck",
@@ -15,6 +15,20 @@
       "pub_date": "2026-08-26T13:59:59Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/why-sustainability-ai-boom-could-135959475.html"
+    },
+    {
+      "title": "Stock Market Today: Dow Slides On Inflation; Nvidia Loses Ahead Of Earnings, Micron Climbs",
+      "summary": "Stock Market Today: The Dow index retreats Wednesday after key inflation data. Abercrombie & Fitch spikes while Micron and Sandisk rise.",
+      "pub_date": "2026-08-26T20:26:53Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-nvidia-stock-nvda-earnings/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Jim Cramer Highlights Sandisk\u2019s (SNDK) Massive Buybacks After Stock Surge",
+      "summary": "Jim Cramer highlighted Sandisk Corporation (NASDAQ:SNDK) capital-return plans on the August 24 episode of Mad Money, as he said: I do not envy the executives trying to appease shareholders with giant returns of capital. Most companies have a preset pattern. The average company in the S&P 500 returns a great deal of the profits to [\u2026]",
+      "pub_date": "2026-08-26T19:04:03Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-highlights-sandisk-sndk-190403019.html"
     },
     {
       "title": "Here's Why the Smartest Investors Keep Coming Back to This Simple Stock Market Strategy",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-26T07:48:56Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-earnings-give-investors-a-barometer-for-state-of-ai-trade-074856874.html"
-    },
-    {
-      "title": "Memory Companies Are Rewriting the Rules of AI Compute",
-      "summary": "There was a lot of news in the AI memory space this week. Eric Bleeker and Austin Smith are here to examine the latest with companies including Sandisk and SK Hynix.",
-      "pub_date": "2026-08-26T02:24:25Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/video/memory-companies-rewriting-rules-ai-022425224.html"
-    },
-    {
-      "title": "What Could Sandisk (SNDK) Gain From Its New 2Tb AI Flash Launch?",
-      "summary": "Sandisk (NasdaqGS:SNDK) and Kioxia announced a 9th-generation 2Tb QLC 3D flash memory aimed at AI and data intensive cloud workloads. The new memory generation targets higher performance and efficiency for AI driven infrastructure and storage hungry applications. The co development highlights continued collaboration between Sandisk and Kioxia on advanced NAND flash technology. Consider widening your research to other companies building the storage and compute foundations that support AI...",
-      "pub_date": "2026-08-26T02:15:39Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/could-sandisk-sndk-gain-2tb-021539069.html"
     }
   ]
 }

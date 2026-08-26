@@ -1,6 +1,6 @@
 {
   "ticker": "HOOD",
-  "generated_at": "2026-08-26T16:44:32.236160+00:00",
+  "generated_at": "2026-08-26T22:39:18.242601+00:00",
   "items": [
     {
       "title": "Thousands of bans just teamed up to build their own blockchain",
@@ -8,6 +8,20 @@
       "pub_date": "2026-08-26T16:01:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/thousands-bans-just-teamed-build-160100450.html"
+    },
+    {
+      "title": "Stocks making big moves yesterday: Fluence Energy, Paymentus, RLI, Dick's, and Robinhood",
+      "summary": "Check out the companies making headlines yesterday:",
+      "pub_date": "2026-08-26T19:59:34Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-195934845.html"
+    },
+    {
+      "title": "Coinbase Taps Chainlink to Power Tokenized Stocks on Base",
+      "summary": "Coinbase taps Chainlink to supply pricing data for tokenized stocks on Base, connecting traditional securities with onchain finance.",
+      "pub_date": "2026-08-26T17:45:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-taps-chainlink-power-tokenized-174500306.html"
     },
     {
       "title": "Dow Jones Futures Await Inflation Data, Nvidia Earnings; Robinhood In Buy Area",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-25T20:18:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/stock-movers-5e855b81?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Why Is Robinhood (HOOD) Stock Rocketing Higher Today",
-      "summary": "Shares of financial services company Robinhood (NASDAQ:HOOD) jumped 7.9% in the afternoon session after crypto strength and retail trading activity continued to lift digital-asset brokerages following Bitcoin\u2019s rebound earlier in the week. According to TipRanks, the move gained traction as Bitcoin climbed above $77,000, lifting volumes and operational leverage for retail brokerages. Wall Street stayed constructive, with Goldman Sachs and Needham both carrying $123 price targets after recent rais",
-      "pub_date": "2026-08-25T20:06:44Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-robinhood-hood-stock-rocketing-200644634.html"
-    },
-    {
-      "title": "Goldman Sachs Reiterates Buy Ratings On Coinbase And Robinhood",
-      "summary": "Goldman Sachs (NYSE: $GS) has reiterated buy ratings on the stocks of cryptocurrency exchanges Coinbase Global (NAS...",
-      "pub_date": "2026-08-25T19:19:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/goldman-sachs-reiterates-buy-ratings-191900939.html"
     }
   ]
 }

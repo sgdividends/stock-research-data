@@ -1,7 +1,21 @@
 {
   "ticker": "IBKR",
-  "generated_at": "2026-08-26T16:44:33.850492+00:00",
+  "generated_at": "2026-08-26T22:39:19.587334+00:00",
   "items": [
+    {
+      "title": "Interactive Brokers Group, Inc. (IBKR) Suffers a Larger Drop Than the General Market: Key Insights",
+      "summary": "The latest trading day saw Interactive Brokers Group, Inc. (IBKR) settling at $97.02, representing a -1.19% change from its previous close.",
+      "pub_date": "2026-08-26T21:50:03Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-group-inc-ibkr-215003666.html"
+    },
+    {
+      "title": "Coinbase Taps Chainlink to Power Tokenized Stocks on Base",
+      "summary": "Coinbase taps Chainlink to supply pricing data for tokenized stocks on Base, connecting traditional securities with onchain finance.",
+      "pub_date": "2026-08-26T17:45:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-taps-chainlink-power-tokenized-174500306.html"
+    },
     {
       "title": "Schwab vs. Interactive Brokers: Which Brokerage Stock is a Better Buy?",
       "summary": "Can SCHW's scale, diversified revenues and improving earnings profile outweigh IBKR's faster growth and premium valuation? Let's find out.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-21T19:11:09Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-group-ibkr-priced-191109432.html"
-    },
-    {
-      "title": "Webull Is Having a Monster Quarter. Is BULL Stock Still a Buy?",
-      "summary": "Webull just posted its strongest quarter ever as a public company, fueled by a regulatory change that permanently rewired how millions of traders operate. The real question is whether the stock already drank all the good news before you got there.",
-      "pub_date": "2026-08-21T18:00:45Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/webull-having-monster-quarter-bull-180045700.html"
-    },
-    {
-      "title": "The Cheesecake and Dropbox have been highlighted as Zacks Bull and Bear of the Day",
-      "summary": "The Cheesecake and Dropbox have been highlighted as Zacks Bull and Bear of the Day",
-      "pub_date": "2026-08-21T12:45:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cheesecake-dropbox-highlighted-zacks-bull-124500448.html"
     }
   ]
 }

@@ -1,7 +1,28 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-08-26T16:44:33.996491+00:00",
+  "generated_at": "2026-08-26T22:39:19.691421+00:00",
   "items": [
+    {
+      "title": "Has Wall Street Given Up On Oracle Stock Too Soon?",
+      "summary": "The market has punished Oracle's stock like a laggard, even as its valuation multiple sits near the top of its peer group and profitability remains strong.",
+      "pub_date": "2026-08-26T20:13:51Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-given-oracle-stock-201351433.html"
+    },
+    {
+      "title": "Is International Business Machines (IBM) Undervalued On Its New Dual Architecture Mainframe Chip?",
+      "summary": "International Business Machines (IBM) unveiled a dual architecture mainframe processor that can natively run IBM and Arm instructions on the same core, prompting investors to reassess how the stock reflects its infrastructure ambitions. For context, International Business Machines shares now trade at US$234.19, with a 1 month share price return of 9.34% that partially offsets a year to date share price decline of 19.66%, while the 5 year total shareholder return of 111.54% indicates much...",
+      "pub_date": "2026-08-26T19:08:09Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/international-business-machines-ibm-undervalued-190809264.html"
+    },
+    {
+      "title": "Jim Cramer Says IBM Is A Hated Stock That Deserves Better",
+      "summary": "Toward the end of the lightning round of Mad Money on August 24, a caller asked for Jim Cramer\u2019s opinion regarding starting a position in International Business Machines Corporation (NYSE:IBM). He replied: IBM\u2019s rather, I mean, it\u2019s very tough. I think it\u2019s doing better than people think. It\u2019s all the way down. But I have [\u2026]",
+      "pub_date": "2026-08-26T17:07:06Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-ibm-hated-170706488.html"
+    },
     {
       "title": "Is IBM Stock A Bargain After Its 28% Drawdown?",
       "summary": "The software line that fell hardest at IBM is the one its upside case runs through, and the capacity behind it is already installed.",
@@ -17,6 +38,13 @@
       "url": "https://www.barrons.com/articles/asia-china-quantum-computing-ibm-5b2df529?siteid=yhoof2&yptr=yahoo"
     },
     {
+      "title": "Quantum Stocks Looked Like Nvidia in 2019. Then They Belly-Flopped 50%.",
+      "summary": "Quantum stocks crashed around 50%, but IonQ raised guidance while Rigetti and D-Wave held key strengths. The selloff may have created a new opportunity.",
+      "pub_date": "2026-08-26T12:00:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/quantum-stocks-looked-nvidia-2019-120002862.html"
+    },
+    {
       "title": "Deloitte to pay $21.5 million to end Trump administration DEI probe",
       "summary": "Deloitte will pay $21.5 million to resolve DOJ claims that it discriminated against employees and job applicants on the basis of race or sex.",
       "pub_date": "2026-08-25T23:41:54Z",
@@ -29,34 +57,6 @@
       "pub_date": "2026-08-25T20:20:27Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stocks-massive-guidance-raise-202027321.html"
-    },
-    {
-      "title": "Has AI gotten any better at stock picking?",
-      "summary": "Beating the market is difficult, even with AI\u2019s help.",
-      "pub_date": "2026-08-25T19:35:00Z",
-      "source": "MarketWatch",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-gotten-better-stock-picking-193500459.html"
-    },
-    {
-      "title": "The Hidden Turbulence Priced Into Accenture Stock",
-      "summary": "Beneath its blue-chip reputation, the market is pricing a notably wide range of outcomes for the consulting giant, a risk you carry whether you trade options or not.",
-      "pub_date": "2026-08-25T18:41:12Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/hidden-turbulence-priced-accenture-stock-184112481.html"
-    },
-    {
-      "title": "Oracle Stock Is Now An AI Infrastructure Play: Is The Price Of Admission Too High?",
-      "summary": "The company has a backlog of contracted revenue that dwarfs its peers, but it comes with a striking capital investment plan and near-term pressure on its profits.",
-      "pub_date": "2026-08-25T17:49:27Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-stock-now-ai-infrastructure-174927959.html"
-    },
-    {
-      "title": "IBM takes another giant step in the AI race",
-      "summary": "The move opens IBM Z to a software ecosystem it has never natively supported, and the reason why says a lot about where enterprise AI is headed.",
-      "pub_date": "2026-08-25T15:17:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-takes-another-giant-step-151700943.html"
     }
   ]
 }

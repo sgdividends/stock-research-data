@@ -1,13 +1,55 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-08-26T16:44:12.047647+00:00",
+  "generated_at": "2026-08-26T22:39:02.518047+00:00",
   "items": [
     {
-      "title": "The tech trade's next phase includes software and cybersecurity names",
-      "summary": "Baird tech strategist Ted Mortonson comes on Market Domination Overtime to discuss his forecasts on hyperscaler capex spending, as well as the industries expected to become most prominent in the tech trade's latest phase.",
-      "pub_date": "2026-08-25T21:30:00Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/tech-trades-next-phase-includes-213000067.html"
+      "title": "Decoding ANET Stock's Premium Valuation",
+      "summary": "This is an aggressive supply-chase year for Arista Networks. The company builds high-performance networking gear for its two largest partners, Microsoft and Meta.",
+      "pub_date": "2026-08-26T21:25:29Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/decoding-anet-stocks-premium-valuation-212529836.html"
+    },
+    {
+      "title": "What Could Super Micro Computer (SMCI) Gain From This AI Infrastructure Partnership?",
+      "summary": "Super Micro Computer (NasdaqGS:SMCI) is expanding its AI infrastructure partnership with Cisco and NVIDIA to deliver integrated rack scale solutions for neocloud and sovereign cloud customers. The collaboration incorporates Supermicro high density, liquid cooled and air cooled servers into Cisco's Secure AI Factory infrastructure for next generation AI data centers. The joint offering is aimed at enterprises and cloud providers that want to deploy efficient and secure AI workloads at...",
+      "pub_date": "2026-08-26T19:08:50Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/could-super-micro-computer-smci-190850097.html"
+    },
+    {
+      "title": "Palo Alto Stock Is Riding A Wave Of AI Fear, But What Happens Next?",
+      "summary": "Management raised the bar on its future, and after a moment of doubt, investors have been piling in ever since, forcing a critical question about how much momentum is left.",
+      "pub_date": "2026-08-26T18:51:32Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-stock-riding-wave-185132820.html"
+    },
+    {
+      "title": "Super Micro Rallied On A Stamp Of Approval, Not On Demand",
+      "summary": "Cisco putting Super Micro's liquid-cooled servers in its own AI product line ended a slide the record order book had not.",
+      "pub_date": "2026-08-26T18:03:30Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-rallied-stamp-approval-180330601.html"
+    },
+    {
+      "title": "Cisco just broke its biggest hardware rule to chase the AI boom",
+      "summary": "A new partnership pulls rack-scale compute into Cisco\u2019s stack, and it changes who else gets a cut of the AI buildout.",
+      "pub_date": "2026-08-26T17:33:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-just-broke-biggest-hardware-173300319.html"
+    },
+    {
+      "title": "Cisco Expands Secure AI Factory: Can it Outpace PANW & FTNT?",
+      "summary": "CSCO expands its Secure AI Factory with NVIDIA, embedding security into AI infrastructure as cyber threats rise and competition intensifies.",
+      "pub_date": "2026-08-26T17:22:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-expands-secure-ai-factory-172200020.html"
+    },
+    {
+      "title": "Cisco Systems Stock Ran On Orders Its Revenue Had Not Caught Up To",
+      "summary": "The AI order book was public and escalating for three straight quarters before the shares moved.",
+      "pub_date": "2026-08-26T16:27:05Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-stock-ran-orders-162705176.html"
     },
     {
       "title": "Strong Datacenter Growth Boosts TER's Prospects Against CSCO & VRT",
@@ -15,48 +57,6 @@
       "pub_date": "2026-08-26T16:26:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/articles/strong-datacenter-growth-boosts-ters-162600424.html"
-    },
-    {
-      "title": "Why Super Micro Computer Rallied Today",
-      "summary": "Super Micro received a big boost from Cisco today.",
-      "pub_date": "2026-08-25T20:31:06Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-super-micro-computer-rallied-203106888.html"
-    },
-    {
-      "title": "Dell Stock's Massive Guidance Raise Has A Catch",
-      "summary": "Management put a stunning new number on its full-year earnings, and the market is buying the story. But the real question is whether this is a new era of growth or customers pulling forward tomorrow's demand into today.",
-      "pub_date": "2026-08-25T20:20:27Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stocks-massive-guidance-raise-202027321.html"
-    },
-    {
-      "title": "Arista Networks Stock Looks Strong. One Number Says Be Careful.",
-      "summary": "The company's AI story is a powerful one, but its long-term success hinges on a single customer metric worth watching closely as the easy growth phase ends.",
-      "pub_date": "2026-08-25T20:12:08Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-stock-looks-strong-201208775.html"
-    },
-    {
-      "title": "Cisco and Supermicro Are Building for AI's Next Phase",
-      "summary": "The partnership brings dense GPU systems and liquid cooling together.",
-      "pub_date": "2026-08-25T19:34:10Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-supermicro-building-ais-next-193410168.html"
-    },
-    {
-      "title": "Lumentum's 1.6T & 200G Ramp Faces Cisco & NVIDIA Competition",
-      "summary": "LITE's 1.6T transceiver and 200G laser ramps support AI connectivity growth as capacity expands amid tight supply and tougher competition.",
-      "pub_date": "2026-08-25T15:13:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/articles/lumentums-1-6t-200g-ramp-151300512.html"
-    },
-    {
-      "title": "Claude Turns 2-Year Wi-Fi Headache Into 10-Minute Fix After Finding 3 Hidden Problems, Boosting Speeds From 90 Mbps to 292 Mbps",
-      "summary": "A LinkedIn user said Anthropic\u2019s Claude turned a two-year Wi-Fi frustration into a 10-minute fix, boosting his reported download speed from about 90 Mbps to 292 Mbps on a connection rated for 300 Mbps. Claude Finds Three Hidden Wi-Fi Problems...",
-      "pub_date": "2026-08-25T15:01:08Z",
-      "source": "Benzinga",
-      "url": "https://tech.yahoo.com/ai/claude/articles/claude-turns-2-wi-fi-150108371.html"
     }
   ]
 }
