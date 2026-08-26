@@ -1,7 +1,14 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-08-25T20:22:16.534921+00:00",
+  "generated_at": "2026-08-26T00:56:45.790651+00:00",
   "items": [
+    {
+      "title": "JPMorgan sends another strong message to stock market investors",
+      "summary": "JPMorgan just published something about AI stocks and the stock market that investors should read.",
+      "pub_date": "2026-08-25T21:33:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-sends-another-strong-message-213300449.html"
+    },
     {
       "title": "S&P 100 Is Quietly Sending a Powerful Signal",
       "summary": "The market rotation may be healthier than it first appears.",
@@ -45,18 +52,11 @@
       "url": "https://finance.yahoo.com/economy/policy/articles/jpmorgan-compares-bessents-4b-bond-152000324.html"
     },
     {
-      "title": "Do Wall Street Analysts Like Allegion Stock?",
-      "summary": "Allegion has underperformed the broader market over the past year, but analysts are cautiously optimistic about the stock\u2019s prospects.",
-      "pub_date": "2026-08-25T14:08:13Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-allegion-stock-140813004.html"
-    },
-    {
-      "title": "Goldman Sachs, Citi, JPMorgan Face Subpoenas Over AI Hedge Fund: Reports",
-      "summary": "Goldman Sachs, Citigroup, JPMorgan Chase and Bank of America face questions from the SEC, which is looking into how Situational Awareness nearly collapsed, according to multiple reports.",
-      "pub_date": "2026-08-25T13:58:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/goldman-sachs-citi-jpmorgan-subpoenas-situational-awareness-8fa058e5?siteid=yhoof2&yptr=yahoo"
+      "title": "JPMorgan Sees Nearly 80% Upside in SpaceX, and It's Not Because of Rockets",
+      "summary": "JPMorgan keeps a $240 SpaceX stock target, betting on Grok gains and Cursor's $4 billion revenue rather than rockets.",
+      "pub_date": "2026-08-25T15:02:26Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-sees-nearly-80-upside-150226001.html"
     }
   ]
 }

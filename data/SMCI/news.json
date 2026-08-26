@@ -1,20 +1,34 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-08-25T20:22:49.719395+00:00",
+  "generated_at": "2026-08-26T00:57:09.963072+00:00",
   "items": [
+    {
+      "title": "AI Trade at Risk From US Voter Ire Over Buildout, Barclays Says",
+      "summary": "The relentless buildout of artificial intelligence infrastructure is drawing bipartisan backlash, which could introduce political risk to the market\u2019s beloved trade ahead of the US midterm election.",
+      "pub_date": "2026-08-25T21:24:12Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-trade-risk-us-voter-212412748.html"
+    },
+    {
+      "title": "Why Super Micro Computer Rallied Today",
+      "summary": "Super Micro received a big boost from Cisco today.",
+      "pub_date": "2026-08-25T20:31:06Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-super-micro-computer-rallied-203106888.html"
+    },
+    {
+      "title": "Moderna, Nvidia, Apple, Dick\u2019s, Robinhood, AMD, and More Stocks That Explain Today\u2019s Market",
+      "summary": "Stocks closed modestly higher Tuesday after Wall Street traded cautiously ahead of Nvidia earnings on Wednesday.  Moderna  gained 14% to $158.83 and was the best-performing stock in the  Wolfe Research upgraded the stock to Peer Perform from Underperform without a price target.  Shares surged nearly 180% to $174.38 on Aug. 19, after a late-stage trial showed a treatment combining Moderna and Merck\u2019s experimental vaccine, intismeran autogene, and  Merck  Keytruda was more effective at preventing skin cancer recurrence than Keytruda alone.",
+      "pub_date": "2026-08-25T20:18:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stock-movers-5e855b81?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Cisco and Supermicro Are Building for AI's Next Phase",
       "summary": "The partnership brings dense GPU systems and liquid cooling together.",
       "pub_date": "2026-08-25T19:34:10Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/cisco-supermicro-building-ais-next-193410168.html"
-    },
-    {
-      "title": "Moderna, Nvidia, Apple, Dick\u2019s, Robinhood, AMD, and More Stocks That Explain Today\u2019s Market",
-      "summary": "Stocks were modestly higher Tuesday as Wall Street traded cautiously ahead of Nvidia earnings on Wednesday.  Moderna  gained 13% to $156.92 and was the best-performing stock in the  Wolfe Research upgraded the stock to Peer Perform from Underperform without a price target.  Shares surged nearly 180% to $174.38 on Aug. 19, after a late-stage trial showed a treatment combining Moderna and Merck\u2019s experimental vaccine, intismeran autogene, and  Merck  Keytruda was more effective at preventing skin cancer recurrence than Keytruda alone.",
-      "pub_date": "2026-08-25T18:33:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-5e855b81?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "A first for Nvidia: One of its employees is now facing 5 years in prison for smuggling AI chips into China",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-25T14:14:11Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-csco-looks-fairly-141411342.html"
-    },
-    {
-      "title": "3 Stocks With Sustainable Sales Growth Worth Buying Now",
-      "summary": "Super Micro Computer, State Street and Pinnacle West Capital stand out for sustainable sales growth and financial strength going forward.",
-      "pub_date": "2026-08-25T13:30:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-sustainable-sales-growth-133000074.html"
-    },
-    {
-      "title": "Exclusive: Cisco expands Nvidia partnership for AI data center boom",
-      "summary": "Cisco is partnering with Supermicro to add high-powered AI servers to its Nvidia-backed infrastructure offering, expanding beyond networking to sell more of the equipment needed to run AI.",
-      "pub_date": "2026-08-25T12:00:06Z",
-      "source": "Axios",
-      "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-cisco-expands-nvidia-partnership-120006704.html"
     }
   ]
 }

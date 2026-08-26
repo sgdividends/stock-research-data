@@ -1,6 +1,6 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-08-25T20:21:20.459154+00:00",
+  "generated_at": "2026-08-26T00:56:15.062160+00:00",
   "items": [
     {
       "title": "Nvidia's Q2 earnings to test resurgent AI trade",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-23T11:25:02Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/article/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html"
+    },
+    {
+      "title": "Norwegian company to spend nearly $1 billion on stake in Jessup power plant",
+      "summary": "A Norwegian energy company plans to spend nearly $1 billion acquiring a significant stake in the Lackawanna Energy Center in Jessup from a BlackRock subsidiary. In a press release referencing growing electricity demands from data centers, Equinor ASA announced it has agreed to spend $940 million on shares in the 1,485-megawatt natural gas power plant on Sunnyside Road in Jessup. Chicago-based ...",
+      "pub_date": "2026-08-26T00:04:00Z",
+      "source": "The Times-Tribune, Scranton, Pa.",
+      "url": "https://finance.yahoo.com/energy/articles/norwegian-company-spend-nearly-1-000400364.html"
     },
     {
       "title": "Elon Musk Weighs In As Atreides CIO Gavin Baker Warns of 'Compute Inequality,' Sees His Firm's AI Spending Double Monthly",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-25T14:03:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/crypto/articles/bens-digital-asset-strategy-unlocking-140300691.html"
-    },
-    {
-      "title": "BlackRock's TCPC Cleanup: A Move to Sharpen Private Credit Strategy?",
-      "summary": "BLK may sell TCPC's remaining $671M loan portfolio to reduce legacy credit risk while sharpening its broader private-credit strategy.",
-      "pub_date": "2026-08-25T13:53:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/blackrocks-tcpc-cleanup-move-sharpen-135300978.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "DE",
-  "generated_at": "2026-08-25T20:21:41.886375+00:00",
+  "generated_at": "2026-08-26T00:56:25.507408+00:00",
   "items": [
+    {
+      "title": "Bill Gates owns $25 billion in blue-chip S&P 500 stock",
+      "summary": "The largest holding in his portfolio also helps fund the Gates Foundation.",
+      "pub_date": "2026-08-25T22:07:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-gates-owns-25-billion-220700348.html"
+    },
     {
       "title": "Before The Surge, Caterpillar Stock\u2019s Order Book Told A Different Story",
       "summary": "The stock looked sleepy and its latest revenue print was down, but a careful look at the company\u2019s backlog revealed a substantial increase in order volume was developing just beneath the surface.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-24T15:32:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/construction-forestry-fuel-deeres-long-153200826.html"
-    },
-    {
-      "title": "Deere Poised for Recovery After Better-Than-Expected Fiscal Q3, RBC Says",
-      "summary": "Deere (DE) is \"well-positioned\" for a recovery, as its better-than-expected fiscal Q3 results suppor",
-      "pub_date": "2026-08-24T14:57:58Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/deere-poised-recovery-better-expected-145758149.html"
     }
   ]
 }

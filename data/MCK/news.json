@@ -1,7 +1,14 @@
 {
   "ticker": "MCK",
-  "generated_at": "2026-08-25T20:22:23.240033+00:00",
+  "generated_at": "2026-08-26T00:56:51.457880+00:00",
   "items": [
+    {
+      "title": "Update: Equities Rise Despite US-Canada Trade Tensions",
+      "summary": "(Updates with market moves at the end of the day, and other changes, if any.) Stocks rose Tuesday",
+      "pub_date": "2026-08-25T20:43:57Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-despite-us-canada-204357386.html"
+    },
     {
       "title": "Sector Update: Healthcare Stocks Advance Late Afternoon",
       "summary": "Healthcare stocks rose late Tuesday afternoon with the NYSE Healthcare Index and the State Street He",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-24T18:49:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/healthcare/articles/mckesson-raises-fy27-guidance-oncology-184900864.html"
-    },
-    {
-      "title": "Is McKesson Stock Worth Buying as Growth Meets a Premium Valuation?",
-      "summary": "McKesson's double-digit earnings growth, specialty expansion and capital returns support the story, but a premium valuation leaves less room for error.",
-      "pub_date": "2026-08-24T18:49:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mckesson-stock-worth-buying-growth-184900344.html"
     }
   ]
 }

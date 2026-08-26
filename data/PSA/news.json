@@ -1,7 +1,14 @@
 {
   "ticker": "PSA",
-  "generated_at": "2026-08-25T20:22:44.026423+00:00",
+  "generated_at": "2026-08-26T00:57:05.392237+00:00",
   "items": [
+    {
+      "title": "Top Stock Reports for Berkshire Hathaway, Roche & RTX",
+      "summary": "Berkshire Hathaway, Roche and RTX headline today's research, with earnings drivers, growth catalysts and risks shaping their outlooks.",
+      "pub_date": "2026-08-25T20:14:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-berkshire-hathaway-201400047.html"
+    },
     {
       "title": "Do Wall Street Analysts Like Public Storage Stock?",
       "summary": "Though Public Storage has underperformed relative to the SPX over the past year, Wall Street analysts maintain a moderately optimistic outlook about the stock\u2019s prospects.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-02T17:14:35Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/real-estate/articles/did-public-storage-solar-push-171435364.html"
-    },
-    {
-      "title": "Self-Storage REITs Show Mixed NOI in Q2 2026 Earnings",
-      "summary": "Self-storage REITs posted stable Q2 2026 results as acquisitions accelerated and NOI trends split across major operators.",
-      "pub_date": "2026-08-01T08:28:13Z",
-      "source": "CRE Daily",
-      "url": "https://finance.yahoo.com/real-estate/articles/self-storage-reits-show-mixed-082813182.html"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "APO",
-  "generated_at": "2026-08-25T20:21:15.610027+00:00",
+  "generated_at": "2026-08-26T00:56:10.826657+00:00",
   "items": [
     {
       "title": "Nvidia's Q2 earnings to test resurgent AI trade",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-23T11:25:02Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/article/nvidias-q2-earnings-to-test-resurgent-ai-trade-112502189.html"
+    },
+    {
+      "title": "US Equity Markets Higher as Crude Oil Prices, Bond Yields Drop After US Treasury Threatens Economic Sanctions on Iran",
+      "summary": "US equity indexes ended higher Tuesday as crude oil prices and government bond yields dropped, after",
+      "pub_date": "2026-08-25T20:18:19Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-higher-crude-201819661.html"
     },
     {
       "title": "Sector Update: Financial Stocks Edge Higher Late Afternoon",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-24T16:14:09Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-treasury-reportedly-161409788.html"
-    },
-    {
-      "title": "European Stocks Close Mostly Lower in Monday Trading; US Treasury Secretary Scott Bessent to Give Details on Iran Sanctions",
-      "summary": "The European stock markets closed mostly lower in Monday trading amid easing crude oil prices, and a",
-      "pub_date": "2026-08-24T15:51:00Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-mostly-lower-155100701.html"
     }
   ]
 }

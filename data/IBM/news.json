@@ -1,7 +1,28 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-08-25T20:22:10.486586+00:00",
+  "generated_at": "2026-08-26T00:56:42.393764+00:00",
   "items": [
+    {
+      "title": "Deloitte to pay $21.5 million to end Trump administration DEI probe",
+      "summary": "Deloitte will pay $21.5 million to resolve DOJ claims that it discriminated against employees and job applicants on the basis of race or sex.",
+      "pub_date": "2026-08-25T23:41:54Z",
+      "source": "USA TODAY",
+      "url": "https://finance.yahoo.com/economy/policy/articles/deloitte-pay-21-5-million-234154802.html"
+    },
+    {
+      "title": "How Asia Is Becoming Quantum Computing\u2019s Next Battleground",
+      "summary": "Recently public quantum companies like Quantinuum, IQM, and Infleqtion are steadily scaling up their presence in the region.",
+      "pub_date": "2026-08-25T22:15:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/asia-china-quantum-computing-ibm-5b2df529?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Dell Stock's Massive Guidance Raise Has A Catch",
+      "summary": "Management put a stunning new number on its full-year earnings, and the market is buying the story. But the real question is whether this is a new era of growth or customers pulling forward tomorrow's demand into today.",
+      "pub_date": "2026-08-25T20:20:27Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stocks-massive-guidance-raise-202027321.html"
+    },
     {
       "title": "The Hidden Turbulence Priced Into Accenture Stock",
       "summary": "Beneath its blue-chip reputation, the market is pricing a notably wide range of outcomes for the consulting giant, a risk you carry whether you trade options or not.",
@@ -31,32 +52,11 @@
       "url": "https://finance.yahoo.com/technology/articles/could-ibm-ibm-gain-first-150842052.html"
     },
     {
-      "title": "Can IBM's Advanced Processor Shape the Future of Enterprise Computing?",
-      "summary": "International Business Machines' dual-architecture processor will bring ARM-native apps to future Z and LinuxONE systems, expanding software choices for critical workloads.",
-      "pub_date": "2026-08-25T15:00:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/articles/ibms-advanced-processor-shape-future-150000922.html"
-    },
-    {
-      "title": "The Real Question Behind Palantir Stock's High Price",
-      "summary": "The software firm looks expensive today, but the real debate is whether its rapid growth can deliver on the valuation discount that patience affords.",
-      "pub_date": "2026-08-25T14:47:58Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/real-behind-palantir-stocks-high-144758518.html"
-    },
-    {
-      "title": "Why Quantum Computing Is a Threat to Cybersecurity",
-      "summary": "The math behind encryption will be no match for quantum computers, forcing organizations to rethink cybersecurity. Here\u2019s what to know.",
-      "pub_date": "2026-08-25T14:00:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/tech/cybersecurity/quantum-computing-threat-cybersecurity-62d293b1?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "How IonQ Is Growing Its Merchant Supplier Role in Quantum Space",
-      "summary": "IONQ expands its merchant supplier role with photonics, networking and semiconductor capabilities to support the broader quantum ecosystem.",
-      "pub_date": "2026-08-25T13:28:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ionq-growing-merchant-supplier-role-132800846.html"
+      "title": "IBM vs. Microsoft: One Has 58% Upside and Nearly 4x the Yield. The Better Buy May Surprise You.",
+      "summary": "IBM pays nearly 4x Microsoft's dividend yield, but MSFT wins on margins and upside. Only one will fit your investing style.",
+      "pub_date": "2026-08-25T15:05:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ibm-vs-microsoft-one-58-150502087.html"
     }
   ]
 }

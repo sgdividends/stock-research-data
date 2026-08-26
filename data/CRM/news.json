@@ -1,13 +1,27 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-08-25T20:21:34.583715+00:00",
+  "generated_at": "2026-08-26T00:56:23.199295+00:00",
   "items": [
     {
-      "title": "Earnings live updates: Dick's Sporting Goods stock plummets nearly 30%, management warns of 'pain' ahead",
+      "title": "Earnings live updates: Intuit stock drops on soft guidance, Dick's Sporting Goods stock plummets 30%",
       "summary": "The second quarter earnings season is nearly complete, with Nvidia's (NVDA) Q2 results on Wednesday serving as a keystone to a remarkably strong stretch of corporate reports.",
       "pub_date": "2026-08-25T11:53:14Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-q2-nvidia-115314802.html"
+    },
+    {
+      "title": "Dow Jones Futures Fall With Inflation Data, Nvidia Earnings Due; Robinhood In Buy Area",
+      "summary": "The stock market rose Tuesday amid lower oil prices and yields, but cautiously heading into Fed inflation data and Nvidia earnings.",
+      "pub_date": "2026-08-26T00:44:53Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-inflation-data-nvidia-earning-srobinhood-oil-prices-yields/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Salesforce's AI Agent Business Is Growing Over 200%, But Will It Show Up in Its Order Book?",
+      "summary": "The software giant's second-quarter results may show whether AI agents are a growth engine or a pricing problem for SaaS providers.",
+      "pub_date": "2026-08-25T22:05:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/salesforces-ai-agent-business-growing-220500640.html"
     },
     {
       "title": "ServiceNow Just Ripped 29% in a Month. What Would It Take to Get NOW Stock Up to $150?",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-25T18:59:39Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/healthcare/articles/veeva-apos-vault-crm-wins-185939315.html"
-    },
-    {
-      "title": "Anthropic IPO: What it Means for Wall Street",
-      "summary": "By dominating the high-margin enterprise sector, Anthropic has become the leading AI lab ahead of its late 2026 public market debut.",
-      "pub_date": "2026-08-25T18:51:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-means-wall-street-185100480.html"
-    },
-    {
-      "title": "Oracle Stock Is Now An AI Infrastructure Play: Is The Price Of Admission Too High?",
-      "summary": "The company has a backlog of contracted revenue that dwarfs its peers, but it comes with a striking capital investment plan and near-term pressure on its profits.",
-      "pub_date": "2026-08-25T17:49:27Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-stock-now-ai-infrastructure-174927959.html"
     }
   ]
 }
