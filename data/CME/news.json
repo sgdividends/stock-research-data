@@ -1,7 +1,21 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-08-26T12:39:17.904784+00:00",
+  "generated_at": "2026-08-26T16:44:08.646347+00:00",
   "items": [
+    {
+      "title": "What Alphabet (GOOGL)'s Gemini Enterprise Push Into Regulated Industries Means For Shareholders",
+      "summary": "In recent days, Alphabet\u2019s Google Cloud unit has broadened its Gemini Enterprise AI platform across financial services and legal sectors, integrating partners such as Deutsche Bank, CME Group, Moody\u2019s, Dun & Bradstreet and FlowX.AI, while also rolling out new cost-control tools and flexible pricing to make enterprise AI adoption more manageable. These moves deepen Gemini\u2019s role inside heavily regulated, data-intensive workflows and suggest Google Cloud is becoming an embedded operating layer...",
+      "pub_date": "2026-08-26T16:18:47Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-gemini-enterprise-push-161847634.html"
+    },
+    {
+      "title": "PCE Inflation Data Sets High Bar For Warsh's Jackson Hole Speech (Live Coverage)",
+      "summary": "The Federal Reserve's primary inflation gauge, the core PCE price index, showed no relief from price pressures ahead of Chairman Kevin Warsh's Friday speech at the annual Jackson Hole monetary policy symposium.  Given that three Fed voters dissented from last month's decision to hold the benchmark interest rate steady, Warsh's ability to influence hawkish-leaning colleagues is in question.  Markets are now pricing in 40% odds of a rate hike on Sept. 16, up from 36% ahead of this morning's data, according to CME Group's FedWatch tool.",
+      "pub_date": "2026-08-26T13:23:08Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/pce-inflation-july-federal-reserve-warsh-jackson-hole/?src=A00220&yptr=yahoo"
+    },
     {
       "title": "Sector Update: Financial Stocks Edge Higher Late Afternoon",
       "summary": "Financial stocks were edging higher late Tuesday afternoon, with the NYSE Financial Index up 0.2% an",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-25T11:45:06Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/markets/options/articles/kalshi-looks-regulators-delay-competing-114506669.html"
-    },
-    {
-      "title": "How a Negative Beta Bet Can Protect Your Portfolio From an AI Selloff",
-      "summary": "AI is shaking up a lot of things\u2014including which stocks investors can expect to hold up in a market selloff.  Investors have long relied on a mathematical measure known as beta to judge market risk.  A stock with a beta of 1 tends to move in line with the stock market.",
-      "pub_date": "2026-08-24T20:29:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/negative-beta-stocks-ai-selloff-a5d085b2?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Why the Bitcoin Rally Looks Like a Vote Against the Dollar",
-      "summary": "Bitcoin and gold rose as the dollar weakened following expanded Treasury bond buybacks, reflecting concerns about U.S. fiscal policy, analysts say.",
-      "pub_date": "2026-08-24T20:16:03Z",
-      "source": "decrypt",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-rally-looks-vote-201603203.html"
     }
   ]
 }

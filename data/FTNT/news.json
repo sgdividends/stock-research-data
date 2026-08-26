@@ -1,7 +1,14 @@
 {
   "ticker": "FTNT",
-  "generated_at": "2026-08-26T12:39:29.120639+00:00",
+  "generated_at": "2026-08-26T16:44:26.692986+00:00",
   "items": [
+    {
+      "title": "Cisco Systems Stock Ran On Orders Its Revenue Had Not Caught Up To",
+      "summary": "The AI order book was public and escalating for three straight quarters before the shares moved.",
+      "pub_date": "2026-08-26T16:27:05Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-stock-ran-orders-162705176.html"
+    },
     {
       "title": "History Has An Opinion On This SNPS Price Level",
       "summary": "A critical piece of the AI supply chain has seen its stock slide back to a familiar floor, forcing investors to ask if history's powerful rebound rhyme is about to repeat.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-19T18:50:33Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/options/articles/wide-cisco-holders-actually-signed-185033985.html"
-    },
-    {
-      "title": "Why Is Fortinet (FTNT) Buying Into Continuous AI Runtime Security?",
-      "summary": "Fortinet (NasdaqGS:FTNT) announced the acquisition of Virtue AI to support continuous AI runtime security for autonomous systems. The deal adds Virtue AI's continuous validation and real time protection tools to Fortinet's Security for AI strategy. Fortinet expects the Virtue AI technology to expand its security coverage across AI infrastructure and applications. Consider reviewing other companies building infrastructure and security around AI workloads through 56 AI infrastructure...",
-      "pub_date": "2026-08-19T13:09:30Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/why-fortinet-ftnt-buying-continuous-130930414.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "TXN",
-  "generated_at": "2026-08-26T12:39:57.868484+00:00",
+  "generated_at": "2026-08-26T16:45:11.504262+00:00",
   "items": [
+    {
+      "title": "Broadcom's Real Risk Is Its Customer List",
+      "summary": "Nearly half of Broadcom's revenue now comes from AI semiconductors, and the accelerators inside that line are built for a short list of core customers.",
+      "pub_date": "2026-08-26T12:31:50Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcoms-real-risk-customer-list-123150324.html"
+    },
     {
       "title": "Get Paid 12% A Year To Let Someone Else Chase ADI Stock Higher",
       "summary": "Collect an immediate income that's yours to keep, in return for capping your stock's potential gains above a chosen higher price.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-22T01:10:35Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-txn-stock-gets-011035655.html"
-    },
-    {
-      "title": "The Hidden Tax Cost of JEPI\u2019s Monthly Income Machine",
-      "summary": "JEPI's 8% monthly yield looks like an obvious win over SCHD's modest payout, but the IRS treats those two income streams in ways that can quietly flip the comparison depending on where you hold them.",
-      "pub_date": "2026-08-21T16:30:31Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/options/articles/hidden-tax-cost-jepi-monthly-163031968.html"
     }
   ]
 }

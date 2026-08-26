@@ -1,13 +1,34 @@
 {
   "ticker": "NFLX",
-  "generated_at": "2026-08-26T12:39:44.000221+00:00",
+  "generated_at": "2026-08-26T16:44:49.278725+00:00",
   "items": [
+    {
+      "title": "Stock Market News for Aug 26, 2026",
+      "summary": "U.S. stocks ended higher on Tuesday as tech stocks rebounded following a sell-off earlier in the session, while a drop in bond yields brought some relief to investors.",
+      "pub_date": "2026-08-26T13:05:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-aug-26-130500595.html"
+    },
+    {
+      "title": "3-Year Streaming Outlook: Slowing Down Pricing Hikes",
+      "summary": "Higher-priced ad-free options have seen greater price increases over the last three years vs. those for ad-supported tiers - at $1.62 per month vs. $1.21 per month.",
+      "pub_date": "2026-08-26T13:00:00Z",
+      "source": "MediaPost",
+      "url": "https://finance.yahoo.com/media-advertising/articles/3-streaming-outlook-slowing-down-130000865.html"
+    },
     {
       "title": "NFLX Stock Eyes Sixth Week Of Gains: Netflix Reportedly Mulls Adding Rival Streamers To Compete With YouTube, Roku",
       "summary": "The New York Times reported earlier Tuesday that the streaming service is considering adding more streamers, like Comcast\u2019s Peacock and Fox One, to its roster.",
       "pub_date": "2026-08-26T06:02:39Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nflx-stock-eyes-sixth-week-060239680.html"
+    },
+    {
+      "title": "Is Netflix Getting Its Groove Back?",
+      "summary": "One analyst says investors disenchanted with Netflix have lost the plot (in much the same way as the final season of Stranger Things).",
+      "pub_date": "2026-08-26T04:01:00Z",
+      "source": "The Daily Upside",
+      "url": "https://finance.yahoo.com/media-advertising/articles/netflix-getting-groove-back-040100521.html"
     },
     {
       "title": "The Hidden Engine That Could Drive Walt Disney Stock Higher",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-25T17:08:55Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/media-advertising/articles/netflix-rises-3-95-wolfe-170855718.html"
-    },
-    {
-      "title": "The Retail Silence That Reshapes The Amazon Stock Bull Case",
-      "summary": "Management's narrative has pivoted hard from optimizing its massive retail machine to funding aggressive AI infrastructure buildouts, quietly changing what an investment in the company is actually a bet on.",
-      "pub_date": "2026-08-25T15:55:02Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/retail-silence-reshapes-amazon-stock-155502860.html"
-    },
-    {
-      "title": "The Price of Progress for Google Stock",
-      "summary": "If you hold Alphabet (GOOGL) stock, the recent top-line numbers look spectacular. In the second quarter of 2026, the company delivered 24% overall revenue growth, propelled by an 82% surge in its Google Cloud segment. This is the AI-fueled future investors have been waiting for. But beneath the surface of that growth, a fundamental shift is underway in the company\u2019s financial DNA, and it represents the most significant risk to the stock today.",
-      "pub_date": "2026-08-25T15:44:12Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/price-progress-google-stock-154412498.html"
-    },
-    {
-      "title": "Netflix Stock Is Down Big-Time. Is This Finally a Buying Opportunity?",
-      "summary": "Has the market finally become too pessimistic about Netflix, or has the sell-off created a place to jump in?",
-      "pub_date": "2026-08-25T15:35:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-stock-down-big-time-153500551.html"
     }
   ]
 }

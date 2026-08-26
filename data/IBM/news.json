@@ -1,7 +1,21 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-08-26T12:39:33.628676+00:00",
+  "generated_at": "2026-08-26T16:44:33.996491+00:00",
   "items": [
+    {
+      "title": "Is IBM Stock A Bargain After Its 28% Drawdown?",
+      "summary": "The software line that fell hardest at IBM is the one its upside case runs through, and the capacity behind it is already installed.",
+      "pub_date": "2026-08-26T13:21:18Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ibm-stock-bargain-28-drawdown-132118821.html"
+    },
+    {
+      "title": "How Asia Is Becoming Quantum Computing\u2019s Next Battleground",
+      "summary": "Recently public quantum companies like Quantinuum, IQM, and Infleqtion are steadily scaling up their presence in the region.",
+      "pub_date": "2026-08-26T12:57:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/asia-china-quantum-computing-ibm-5b2df529?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Deloitte to pay $21.5 million to end Trump administration DEI probe",
       "summary": "Deloitte will pay $21.5 million to resolve DOJ claims that it discriminated against employees and job applicants on the basis of race or sex.",
@@ -10,18 +24,18 @@
       "url": "https://finance.yahoo.com/economy/policy/articles/deloitte-pay-21-5-million-234154802.html"
     },
     {
-      "title": "How Asia Is Becoming Quantum Computing\u2019s Next Battleground",
-      "summary": "Recently public quantum companies like Quantinuum, IQM, and Infleqtion are steadily scaling up their presence in the region.",
-      "pub_date": "2026-08-25T22:15:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/asia-china-quantum-computing-ibm-5b2df529?siteid=yhoof2&yptr=yahoo"
-    },
-    {
       "title": "Dell Stock's Massive Guidance Raise Has A Catch",
       "summary": "Management put a stunning new number on its full-year earnings, and the market is buying the story. But the real question is whether this is a new era of growth or customers pulling forward tomorrow's demand into today.",
       "pub_date": "2026-08-25T20:20:27Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stocks-massive-guidance-raise-202027321.html"
+    },
+    {
+      "title": "Has AI gotten any better at stock picking?",
+      "summary": "Beating the market is difficult, even with AI\u2019s help.",
+      "pub_date": "2026-08-25T19:35:00Z",
+      "source": "MarketWatch",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-gotten-better-stock-picking-193500459.html"
     },
     {
       "title": "The Hidden Turbulence Priced Into Accenture Stock",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-25T15:17:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/technology/ai/articles/ibm-takes-another-giant-step-151700943.html"
-    },
-    {
-      "title": "What Could IBM (IBM) Gain From Its First Dual Architecture Mainframe Processor?",
-      "summary": "IBM (NYSE:IBM) announced a new dual-architecture mainframe processor for IBM Z and LinuxONE, developed with Arm, that can execute IBM and Arm instructions on the same chip. The processor allows enterprise workloads to run natively across IBM mainframe and Arm platforms, expanding application and infrastructure options for large organizations. This is the first time IBM mainframe systems will support concurrent execution of both Arm and IBM instructions, aimed at wider workload flexibility...",
-      "pub_date": "2026-08-25T15:08:42Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/articles/could-ibm-ibm-gain-first-150842052.html"
-    },
-    {
-      "title": "IBM vs. Microsoft: One Has 58% Upside and Nearly 4x the Yield. The Better Buy May Surprise You.",
-      "summary": "IBM pays nearly 4x Microsoft's dividend yield, but MSFT wins on margins and upside. Only one will fit your investing style.",
-      "pub_date": "2026-08-25T15:05:02Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ibm-vs-microsoft-one-58-150502087.html"
     }
   ]
 }

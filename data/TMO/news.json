@@ -1,6 +1,6 @@
 {
   "ticker": "TMO",
-  "generated_at": "2026-08-26T12:39:56.339242+00:00",
+  "generated_at": "2026-08-26T16:45:08.983844+00:00",
   "items": [
     {
       "title": "3 Unpopular Stocks We Find Risky",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-26T08:19:13Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-unpopular-stocks-risky-081913051.html"
+    },
+    {
+      "title": "Eli Lilly Is Pulling Away From the Rest of Healthcare",
+      "summary": "Its growth profile stands well above major sector peers.",
+      "pub_date": "2026-08-25T19:30:10Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-pulling-away-rest-193010576.html"
     },
     {
       "title": "Is Avantor a Buy as Revival Progress Faces Persistent Margin Pressure?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-23T22:32:03Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-vs-thermo-fisher-223203633.html"
-    },
-    {
-      "title": "Thermo Fisher vs. Intuitive Surgical: Which Premium Healthcare Stock Deserves its Valuation?",
-      "summary": "Premium healthcare stocks often trade at elevated valuations for very different reasons. Thermo Fisher\u2019s (NYSE:TMO) investment case increasingly depends on whether the life sciences industry is emerging from its post-pandemic slowdown, while Intuitive Surgical (NASDAQ:ISRG) continues to hold a dominant position in robotic surgery through factors such as its highly recurring revenue model. Both companies [\u2026]",
-      "pub_date": "2026-08-23T22:15:30Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/healthcare/articles/thermo-fisher-vs-intuitive-surgical-221530352.html"
     }
   ]
 }

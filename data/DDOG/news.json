@@ -1,7 +1,14 @@
 {
   "ticker": "DDOG",
-  "generated_at": "2026-08-26T12:39:21.478397+00:00",
+  "generated_at": "2026-08-26T16:44:14.248208+00:00",
   "items": [
+    {
+      "title": "Palo Alto Networks CEO held acquisition talks with both Okta and Datadog",
+      "summary": "The Information reported that between late 2024 and early 2025, Arora held a series of meetings with Okta CEO Todd McKinnon. The talks progressed to the point where the companies discussed product complementarity, but ultimately stalled over price disagreements, according to people with knowledge of the discussions cited by The Information. Okta, valued at roughly $13.5 billion at the start of last year, has since climbed around 30%, giving it a market cap near $23 billion.",
+      "pub_date": "2026-08-26T14:40:00Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-ceo-held-144000533.html"
+    },
     {
       "title": "DDOG vs. NOW: Which Cloud Software Stock Has an Edge Right Now?",
       "summary": "Datadog edges out ServiceNow as faster growth, stronger earnings surprises and expanding AI opportunities help support its premium valuation.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T11:35:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/buy-datadog-stock-now-113500623.html"
-    },
-    {
-      "title": "Dynatrace Buys Arize for $915M to Expand AI Observability Reach",
-      "summary": "Dynatrace (NYSE:DT) said it plans to acquire AI observability company Arize for total consideration of $915 million, consisting of approximately $815 million in cash and replacement equity awards for Arize employees who join Dynatrace. The transaction is expected to close by the end of September or",
-      "pub_date": "2026-08-20T21:01:58Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/technology/ai/articles/dynatrace-buys-arize-915m-expand-210158171.html"
     }
   ]
 }
