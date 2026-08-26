@@ -1,7 +1,21 @@
 {
   "ticker": "MCO",
-  "generated_at": "2026-08-26T08:36:53.758841+00:00",
+  "generated_at": "2026-08-26T12:39:40.689523+00:00",
   "items": [
+    {
+      "title": "Moody\u2019s (MCO) Is Up 5.6% After Embedding Credit Intelligence Into Google\u2019s Gemini Enterprise Platform",
+      "summary": "Moody\u2019s Corporation recently made its connected intelligence available inside Google Cloud\u2019s Gemini Enterprise for Financial Services via the Moody\u2019s Credit Model Context Protocol server, giving users direct access to its credit ratings, research, and risk intelligence within their existing workflows. This move embeds Moody\u2019s data at the protocol level of a major financial AI platform, potentially deepening customer reliance on its analytics and widening the reach of its risk tools without...",
+      "pub_date": "2026-08-26T12:14:47Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/moody-mco-5-6-embedding-121447843.html"
+    },
+    {
+      "title": "Moody's (MCO) Joins Google Gemini, Is The Stock Getting Too Pricey?",
+      "summary": "Moody's (MCO) is back in focus after the company reported that its connected intelligence is now integrated into Google Cloud's Gemini Enterprise for Financial Services through the Moody's Credit Model Context Protocol server. The Gemini integration follows a period of steady performance in the stock, with a 30-day share price return of 8.82% and a 90-day share price return of 13.63%. The 3-year total shareholder return of 55.64% indicates that longer term holders have seen stronger gains...",
+      "pub_date": "2026-08-26T10:15:23Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/moodys-mco-joins-google-gemini-101523435.html"
+    },
     {
       "title": "French Showdown Over Next Budget Will Be Macron\u2019s Riskiest Yet",
       "summary": "France is heading into a new season of political brinkmanship that will test investors\u2019 patience with a showdown over the country\u2019s towering debt.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-21T14:21:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/spgis-mobility-spin-ai-push-142100496.html"
-    },
-    {
-      "title": "Top Research Reports for NVIDIA, Applied Materials & ConocoPhillips",
-      "summary": "NVIDIA, Applied Materials and ConocoPhillips headline today's research, with AI demand, semiconductor spending and energy assets in focus.",
-      "pub_date": "2026-08-19T20:30:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-nvidia-applied-203000539.html"
-    },
-    {
-      "title": "Bond Traders Are Agonizing Over $70 Billion of Shadow Credit Backstops For AI Companies",
-      "summary": "Even before Nvidia Corp.\u2019s splashy $500 billion financing partnership this week, investors were starting to fret over the roughly $70 billion in phantom liabilities that don\u2019t appear on major AI companies\u2019 balance sheets, but could materialize at the worst possible time.",
-      "pub_date": "2026-08-15T19:00:00Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/technology/ai/articles/bond-traders-agonizing-over-70-190000845.html"
     }
   ]
 }

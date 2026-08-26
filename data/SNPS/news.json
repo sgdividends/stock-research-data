@@ -1,13 +1,20 @@
 {
   "ticker": "SNPS",
-  "generated_at": "2026-08-26T08:37:12.926793+00:00",
+  "generated_at": "2026-08-26T12:39:52.753154+00:00",
   "items": [
     {
+      "title": "Equity Futures Mixed Pre-Bell Ahead of Key Inflation Report, Nvidia Earnings",
+      "summary": "The main US equity measures were mixed in premarket activity Wednesday as traders await a key inflat",
+      "pub_date": "2026-08-26T11:52:00Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equity-futures-mixed-pre-bell-115200352.html"
+    },
+    {
       "title": "Nvidia Earnings Give Investors a Barometer for State of AI Trade",
-      "summary": "Wall Street is eagerly anticipating Nvidia Corp.\u2019s earnings on Wednesday afternoon, not so much for what the numbers will say about the chip giant, but for what they mean to artificial intelligence investors and the market itself.",
+      "summary": "Wall Street is eagerly anticipating Nvidia Corp.'s earnings on Wednesday afternoon, not so much for what the numbers will say about the chip giant, but for what they mean to artificial intelligence investors and the market itself.",
       "pub_date": "2026-08-26T07:48:56Z",
       "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-earnings-investors-barometer-state-074856874.html"
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-earnings-give-investors-a-barometer-for-state-of-ai-trade-074856874.html"
     },
     {
       "title": "Intuit (INTU) Q4 Earnings and Revenues Top Estimates",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-24T14:15:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/synopsys-report-q3-earnings-whats-141500763.html"
-    },
-    {
-      "title": "US Equity Investors to Focus on Nvidia's Earnings, Chair Warsh's Jackson Hole Speech, PCE Inflation This Week",
-      "summary": "US equity investors are expected to focus this week on Nvidia's (NVDA) earnings, Federal Reserve Cha",
-      "pub_date": "2026-08-24T10:24:36Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-investors-focus-nvidia-102436982.html"
     }
   ]
 }
