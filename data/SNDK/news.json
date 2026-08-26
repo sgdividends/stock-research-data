@@ -1,6 +1,6 @@
 {
   "ticker": "SNDK",
-  "generated_at": "2026-08-26T00:57:10.235982+00:00",
+  "generated_at": "2026-08-26T04:34:26.766602+00:00",
   "items": [
     {
       "title": "Investors rotate into tech stocks as inflation concerns ease: AlphaCheck",
@@ -8,6 +8,20 @@
       "pub_date": "2026-08-25T13:52:58Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/investors-rotate-into-tech-stocks-as-inflation-concerns-ease-alphacheck-135258775.html"
+    },
+    {
+      "title": "Memory Companies Are Rewriting the Rules of AI Compute",
+      "summary": "There was a lot of news in the AI memory space this week. Eric Bleeker and Austin Smith are here to examine the latest with companies including Sandisk and SK Hynix.",
+      "pub_date": "2026-08-26T02:24:25Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/video/memory-companies-rewriting-rules-ai-022425224.html"
+    },
+    {
+      "title": "What Could Sandisk (SNDK) Gain From Its New 2Tb AI Flash Launch?",
+      "summary": "Sandisk (NasdaqGS:SNDK) and Kioxia announced a 9th-generation 2Tb QLC 3D flash memory aimed at AI and data intensive cloud workloads. The new memory generation targets higher performance and efficiency for AI driven infrastructure and storage hungry applications. The co development highlights continued collaboration between Sandisk and Kioxia on advanced NAND flash technology. Consider widening your research to other companies building the storage and compute foundations that support AI...",
+      "pub_date": "2026-08-26T02:15:39Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/could-sandisk-sndk-gain-2tb-021539069.html"
     },
     {
       "title": "Ondo Expands Perps Collateral as Tokenized Stocks Gain a Second Use",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-25T19:45:48Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-stock-sale-companys-strategy-194548852.html"
-    },
-    {
-      "title": "AMD, Marvell Technology, Semtech, Allegro MicroSystems, and MACOM Stocks Trade Up, What You Need To Know",
-      "summary": "A number of stocks jumped in the morning session after easing selling pressure, lower Treasury yields, and positive momentum from Asian markets boosted investor sentiment ahead of Nvidia's quarterly earnings and key inflation data.",
-      "pub_date": "2026-08-25T19:42:44Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-marvell-technology-semtech-allegro-194244436.html"
-    },
-    {
-      "title": "Jane Street turns bullish on volatile AI stock",
-      "summary": "Jane Street increased its AI stock stake by more than 500%, making it one of its biggest holdings.",
-      "pub_date": "2026-08-25T18:16:53Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jane-street-turns-bullish-volatile-181653750.html"
     }
   ]
 }

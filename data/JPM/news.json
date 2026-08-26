@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-08-26T00:56:45.790651+00:00",
+  "generated_at": "2026-08-26T04:34:09.038168+00:00",
   "items": [
     {
       "title": "JPMorgan sends another strong message to stock market investors",
@@ -22,6 +22,13 @@
       "pub_date": "2026-08-25T19:00:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-jpm-2-more-stocks-190000176.html"
+    },
+    {
+      "title": "As Layoffs Keep Coming at JPMorgan, Here\u2019s How to Play JPM Stock",
+      "summary": "JPMorgan is hitting the highest level of layoffs in more than a decade. Does this signal caution or a major efficiency opportunity for the banking giant?",
+      "pub_date": "2026-08-25T18:50:29Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/layoffs-keep-coming-jpmorgan-play-185029682.html"
     },
     {
       "title": "Sector Update: Financial Stocks Mixed Tuesday Afternoon",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-25T15:20:00Z",
       "source": "Moneywise",
       "url": "https://finance.yahoo.com/economy/policy/articles/jpmorgan-compares-bessents-4b-bond-152000324.html"
-    },
-    {
-      "title": "JPMorgan Sees Nearly 80% Upside in SpaceX, and It's Not Because of Rockets",
-      "summary": "JPMorgan keeps a $240 SpaceX stock target, betting on Grok gains and Cursor's $4 billion revenue rather than rockets.",
-      "pub_date": "2026-08-25T15:02:26Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-sees-nearly-80-upside-150226001.html"
     }
   ]
 }
