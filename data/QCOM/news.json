@@ -1,7 +1,28 @@
 {
   "ticker": "QCOM",
-  "generated_at": "2026-08-27T06:42:07.290729+00:00",
+  "generated_at": "2026-08-27T18:44:49.457180+00:00",
   "items": [
+    {
+      "title": "Google agrees to settle UK app developers' lawsuit for $353 million",
+      "summary": "LONDON, Aug 27 (Reuters) - Google has agreed to settle a mass London lawsuit brought on behalf of app developers for \u00a3260 million ($353.21 million), according to a deal published on Thursday.",
+      "pub_date": "2026-08-27T16:17:05Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/technology/articles/google-agrees-settle-uk-app-161127465.html"
+    },
+    {
+      "title": "Micron Spent The Memory Shortage Signing Multiyear Contracts",
+      "summary": "Rising memory prices explain the earnings; the multiyear contracts Micron signed on the back of them are what the price now depends on.",
+      "pub_date": "2026-08-27T14:01:54Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-spent-memory-shortage-signing-140154724.html"
+    },
+    {
+      "title": "Broadcom Looks Expensive Until You Price The Order Book",
+      "summary": "What looks like a valuation argument is really a delivery schedule with named customers attached, plus one assumption about margins.",
+      "pub_date": "2026-08-27T13:44:34Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-looks-expensive-until-price-134434255.html"
+    },
     {
       "title": "Qualcomm Targets AI Memory Bottleneck With HPC Technology Roadmap",
       "summary": "Qualcomm (NASDAQ:QCOM) is positioning its newly announced High Bandwidth Compute, or HPC, technology as a way to address memory-bandwidth constraints in artificial intelligence data centers, while also expanding its server CPU, custom silicon and software efforts. During a fireside chat, Durga Mall",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-26T12:31:50Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/technology/ai/articles/broadcoms-real-risk-customer-list-123150324.html"
-    },
-    {
-      "title": "Qualcomm Stock: A 38% Drop and Improving Analyst Sentiment Signal a Buying Opportunity",
-      "summary": "The significant decline has made Qualcomm\u2019s risk-reward more attractive. At the same time, analyst sentiment toward QCOM has improved.",
-      "pub_date": "2026-08-26T11:30:02Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-38-drop-improving-113002552.html"
-    },
-    {
-      "title": "3 Semiconductor Stocks We Steer Clear Of",
-      "summary": "Semiconductors are the core infrastructure powering the Information Age. Compute-intensive AI workloads are also priming them for the next wave of secular growth, so it\u2019s no wonder the industry has outperformed the market over the past six months, delivering returns of 38.4% compared to 10.8% for the S&P 500.",
-      "pub_date": "2026-08-26T08:59:13Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-semiconductor-stocks-steer-clear-085913198.html"
-    },
-    {
-      "title": "What You Actually Pay To Join The AMD Run",
-      "summary": "The chipmaker's long-term surge is powered by real AI demand, but a recent pullback and a steep valuation force investors to ask what's left in the tank.",
-      "pub_date": "2026-08-25T22:34:27Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/actually-pay-join-amd-run-223427146.html"
     }
   ]
 }

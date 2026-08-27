@@ -1,13 +1,20 @@
 {
   "ticker": "INTU",
-  "generated_at": "2026-08-27T06:41:50.910113+00:00",
+  "generated_at": "2026-08-27T18:44:25.725516+00:00",
   "items": [
     {
-      "title": "Earnings live updates: Salesforce, CrowdStrike, Okta stocks surge as AI boom helps lift Q2 results",
-      "summary": "The second quarter earnings season is nearly complete, with Nvidia's (NVDA) Q2 results on Wednesday serving as a keystone to a remarkably strong stretch of corporate reports.",
+      "title": "Earnings live updates: Salesforce, CrowdStrike, Okta stocks soar as AI boom helps lift Q2 results",
+      "summary": "The second quarter earnings season is nearly complete. Nvidia's Q2 results on Wednesday served as a keystone to a remarkably strong stretch of corporate reports.",
       "pub_date": "2026-08-25T11:53:14Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-q2-nvidia-115314802.html"
+    },
+    {
+      "title": "Stocks making big moves yesterday: Intuit, Xponential Fitness, Abercrombie and Fitch, Lattice Semiconductor, and Photronics",
+      "summary": "Check out the companies making headlines yesterday:",
+      "pub_date": "2026-08-27T16:17:07Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-161707152.html"
     },
     {
       "title": "Nvidia, Meta, Revolution Medicines, Abercrombie, Intuit, Salesforce, Moderna, and More Stocks That Explain Today\u2019s Market",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-26T20:29:46Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-traders-assess-inflation-202946351.html"
-    },
-    {
-      "title": "Mailchimp Goes Missing: Intuit Says It Is Now A Separate Operating Segment",
-      "summary": "Mailchimp will be a separate reportable segment starting in fiscal 2027.",
-      "pub_date": "2026-08-26T20:16:58Z",
-      "source": "MediaPost",
-      "url": "https://finance.yahoo.com/media-advertising/articles/mailchimp-goes-missing-intuit-says-201658299.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "IT",
-  "generated_at": "2026-08-27T06:41:51.727713+00:00",
+  "generated_at": "2026-08-27T18:44:26.781237+00:00",
   "items": [
+    {
+      "title": "KEEL Stock Jumps 56% in 6 Months: Here's What You Should Know",
+      "summary": "Keel's 56% six-month surge reflects its HPC/AI pivot, a 2.2-GW pipeline and progress at key data-center sites as tenant talks advance.",
+      "pub_date": "2026-08-27T15:51:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/keel-stock-jumps-56-6-155100830.html"
+    },
     {
       "title": "Gartner (IT) Flags AI Driven Cyber Risks As Top Emerging Enterprise Threat",
       "summary": "Gartner (NYSE:IT) reports new research that identifies AI driven cyber vulnerabilities as the top emerging enterprise risk. The firm highlights a surge in the AI security market as organizations assess how to protect AI models, data and infrastructure. The findings point to rising demand for security tooling that can monitor, test and govern AI systems across large enterprises. Gartner is far from the only stock exposed to this theme, so it is worth looking at a broader group of companies...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-24T16:37:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-hold-icfi-stock-163700871.html"
-    },
-    {
-      "title": "AI data center spending drives growth in semiconductor market",
-      "summary": "CIOs are contending with rising compute costs, looking to cheaper models to rein in spending amid rapid infrastructure expansion.",
-      "pub_date": "2026-08-24T15:15:09Z",
-      "source": "CIO Dive",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-data-center-spending-drives-151509278.html"
     }
   ]
 }

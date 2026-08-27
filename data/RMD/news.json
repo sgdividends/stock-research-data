@@ -1,7 +1,14 @@
 {
   "ticker": "RMD",
-  "generated_at": "2026-08-27T06:42:08.081548+00:00",
+  "generated_at": "2026-08-27T18:44:50.592150+00:00",
   "items": [
+    {
+      "title": "2 S&P 500 Stocks with Promising Prospects and 1 We Ignore",
+      "summary": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials, or structural headwinds.",
+      "pub_date": "2026-08-27T16:01:07Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-promising-160107232.html"
+    },
     {
       "title": "ResMed Stock: Analyst Estimates & Ratings",
       "summary": "Although ResMed has underperformed the broader market over the past year, Wall Street analysts maintain a moderately optimistic outlook on the stock\u2019s prospects.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-11T16:23:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/healthcare/articles/inogen-cuts-2026-revenue-outlook-162300728.html"
-    },
-    {
-      "title": "Should Investors Buy Inogen as Low Valuation Meets Execution Risk?",
-      "summary": "Inogen's steep sales-multiple discount, improving margins and firm international demand clash with U.S. sales and rental weakness.",
-      "pub_date": "2026-08-11T16:22:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-buy-inogen-low-valuation-162200792.html"
     }
   ]
 }
