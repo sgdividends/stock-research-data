@@ -1,20 +1,27 @@
 {
   "ticker": "FDS",
-  "generated_at": "2026-08-26T22:39:11.689312+00:00",
+  "generated_at": "2026-08-27T06:41:43.664359+00:00",
   "items": [
+    {
+      "title": "Nvidia Reports Blowout Quarter, Says Demand for AI Chips Is Getting Even Hotter",
+      "summary": "Shares rallied as the chip giant forecast 70% revenue growth next year and defended its financial support of AI companies.",
+      "pub_date": "2026-08-26T23:27:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/nvidia-earnings-q2-2027-nvda-stock-8983c8d1?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "HP Keeps Getting Squeezed by \u2018RAMageddon\u2019",
+      "summary": "Investors are worried about rising memory costs, which have hurt the company\u2019s earnings in recent quarters.",
+      "pub_date": "2026-08-26T21:06:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/hp-earnings-stock-price-96beee6b?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Update: Salesforce Fiscal Q2 Adjusted Earnings, Revenue Rise; Shares Jump After Hours",
       "summary": "(Updates with the latest stock price movement in the headline and first paragraph and details on Cla",
       "pub_date": "2026-08-26T20:58:47Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-fiscal-q2-adjusted-earnings-205847899.html"
-    },
-    {
-      "title": "HP Revenue Rises as Higher Prices Offset Fewer PC Sales",
-      "summary": "The printer and computer maker reported a profit of $661 million, or 71 cents a share, down from $763 million, or 80 cents a share, a year earlier.",
-      "pub_date": "2026-08-26T20:36:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/hp-revenue-rises-as-higher-prices-offset-fewer-pc-sales-5c0d8754?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Kohl's Continues to Expect Subdued Full-Year Sales Amid Macro Pressures",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-26T11:41:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/business/earnings/j-m-smucker-lifts-outlook-swings-to-profit-as-sales-climb-8bc33e9e?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Zoom Communications Third-Quarter Earnings Outlook Misses Street Views; Shares Down Pre-Bell",
-      "summary": "Zoom Communications (ZM) shares fell early Wednesday as the video communication platform provided a",
-      "pub_date": "2026-08-26T11:13:15Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zoom-communications-third-quarter-earnings-111315697.html"
     }
   ]
 }

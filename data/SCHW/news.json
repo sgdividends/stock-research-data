@@ -1,7 +1,14 @@
 {
   "ticker": "SCHW",
-  "generated_at": "2026-08-26T22:39:41.929026+00:00",
+  "generated_at": "2026-08-27T06:42:09.164423+00:00",
   "items": [
+    {
+      "title": "Charles Schwab (SCHW) Opens Digital Account API To Third Party Fintechs",
+      "summary": "Charles Schwab (NYSE:SCHW) has launched its Digital Account Opening API, now live through wealth management platform OneVest. The new API supports digital onboarding for advisors and enterprise clients that use OneVest. The rollout expands Schwab's third party fintech integration options and broadens distribution for its custody and platform services. The tool is aimed at advisors, enterprises and AI engineering teams that want tighter integration with Schwab's technology stack. This kind...",
+      "pub_date": "2026-08-26T23:11:12Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/articles/charles-schwab-schw-opens-digital-231112194.html"
+    },
     {
       "title": "Vanguard Takes On Fidelity, Charles Schwab With $4 Billion Altruist Deal",
       "summary": "Vanguard bolsters its wealth custody, advisory offerings with a reported $4 billion acquisition for AI-forward platform Altruist.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-25T12:14:44Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-long-121444133.html"
-    },
-    {
-      "title": "Why Schwab Hiked Minimum Assets to $5M for Client Referral Program",
-      "summary": "The discount brokerage had already increased client asset minimums from $500,000 to $2 million earlier this year without any adjustments in more than two decades.",
-      "pub_date": "2026-08-25T04:03:00Z",
-      "source": "The Daily Upside",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-schwab-hiked-minimum-assets-040300737.html"
     }
   ]
 }

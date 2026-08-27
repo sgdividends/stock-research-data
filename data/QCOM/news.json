@@ -1,7 +1,14 @@
 {
   "ticker": "QCOM",
-  "generated_at": "2026-08-26T22:39:39.775319+00:00",
+  "generated_at": "2026-08-27T06:42:07.290729+00:00",
   "items": [
+    {
+      "title": "Qualcomm Targets AI Memory Bottleneck With HPC Technology Roadmap",
+      "summary": "Qualcomm (NASDAQ:QCOM) is positioning its newly announced High Bandwidth Compute, or HPC, technology as a way to address memory-bandwidth constraints in artificial intelligence data centers, while also expanding its server CPU, custom silicon and software efforts. During a fireside chat, Durga Mall",
+      "pub_date": "2026-08-27T00:02:55Z",
+      "source": "MarketBeat",
+      "url": "https://tech.yahoo.com/ai/articles/qualcomm-targets-ai-memory-bottleneck-000255473.html"
+    },
     {
       "title": "Qualcomm's Costs Are Inside The Guidance And Its Replacement Growth Is Not",
       "summary": "The company nearly doubled its long-term non-handset target in June, while a faster Apple exit and a cost squeeze went straight into the near-term numbers.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-25T22:34:27Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/actually-pay-join-amd-run-223427146.html"
-    },
-    {
-      "title": "Can You Stomach The Plunge In Micron Stock?",
-      "summary": "The memory chip maker's history of deep, prolonged drawdowns is the real risk for shareholders today.",
-      "pub_date": "2026-08-25T22:23:44Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stomach-plunge-micron-stock-222344363.html"
     }
   ]
 }

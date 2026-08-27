@@ -1,6 +1,6 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-08-26T22:39:02.518047+00:00",
+  "generated_at": "2026-08-27T06:41:35.920507+00:00",
   "items": [
     {
       "title": "Decoding ANET Stock's Premium Valuation",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-26T21:25:29Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/decoding-anet-stocks-premium-valuation-212529836.html"
+    },
+    {
+      "title": "Cisco Could Be Entering a More Lasting Growth Phase, Says Morgan Stanley",
+      "summary": "There are several key catalysts, including upgrades to networking equipment, demand for artificial intelligence, and cybersecurity.",
+      "pub_date": "2026-08-26T19:50:09Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/technology/articles/cisco-could-entering-more-lasting-195009265.html"
     },
     {
       "title": "What Could Super Micro Computer (SMCI) Gain From This AI Infrastructure Partnership?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-26T16:27:05Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-stock-ran-orders-162705176.html"
-    },
-    {
-      "title": "Strong Datacenter Growth Boosts TER's Prospects Against CSCO & VRT",
-      "summary": "Teradyne's AI-driven datacenter growth, strong memory demand, and strategic moves strengthen its prospects against Cisco Systems and Vertiv.",
-      "pub_date": "2026-08-26T16:26:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/articles/strong-datacenter-growth-boosts-ters-162600424.html"
     }
   ]
 }

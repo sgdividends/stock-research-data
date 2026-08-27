@@ -1,6 +1,6 @@
 {
   "ticker": "KR",
-  "generated_at": "2026-08-26T22:39:24.582416+00:00",
+  "generated_at": "2026-08-27T06:41:54.077133+00:00",
   "items": [
     {
       "title": "Gatik Raises $200 Million as It Ramps Up Driverless Truck Fleet",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-26T17:00:35Z",
       "source": "Sourcing Journal",
       "url": "https://finance.yahoo.com/technology/ai/articles/gatik-raises-200-million-ramps-170035744.html"
+    },
+    {
+      "title": "California-based grocer Raley's to shut several stores in state",
+      "summary": "The West Sacramento-based company plans to close outlets in NorCal city of Brentwood and elsewhere.",
+      "pub_date": "2026-08-26T10:00:00Z",
+      "source": "LA Times",
+      "url": "https://finance.yahoo.com/small-business/articles/californian-grocer-raleys-shut-brentwood-100000101.html"
     },
     {
       "title": "Kroger (KR) Expands Instacart Delivery, Is The 17% Upside Still There?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-25T16:51:07Z",
       "source": "Supermarket News",
       "url": "https://finance.yahoo.com/healthcare/articles/kroger-instacart-team-prescription-delivery-165107326.html"
-    },
-    {
-      "title": "Berkshire Boosts Its Bet: This AI Hyperscaler Is Now a Top-3 Holding",
-      "summary": "Berkshire Hathaway's Q2 filing shows an 83% boost in its Alphabet stake to $37.8 billion, added to Lennar, and cut Capital One, Nucor, Kroger, and Constellation Brands holdings.",
-      "pub_date": "2026-08-25T14:25:00Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-boosts-bet-ai-hyperscaler-142500120.html"
     }
   ]
 }

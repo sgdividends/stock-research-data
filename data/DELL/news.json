@@ -1,7 +1,14 @@
 {
   "ticker": "DELL",
-  "generated_at": "2026-08-26T22:39:04.699273+00:00",
+  "generated_at": "2026-08-27T06:41:37.720572+00:00",
   "items": [
+    {
+      "title": "Nutanix Q4 Earnings Call Highlights",
+      "summary": "Nutanix (NASDAQ:NTNX) reported fourth-quarter fiscal 2026 results above its guided ranges, citing broad-based demand for its hybrid multicloud platform, external storage support, public-cloud offering and portfolio products despite continued server supply constraints. Fourth-quarter revenue reached",
+      "pub_date": "2026-08-26T23:04:17Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nutanix-q4-earnings-call-highlights-230417635.html"
+    },
     {
       "title": "Dell Technologies (DELL) Advances While Market Declines: Some Information for Investors",
       "summary": "Dell Technologies (DELL) concluded the recent trading session at $463.82, signifying a +2.73% move from its prior day's close.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-26T15:06:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/pengs-backlog-keeps-growing-revenue-150600326.html"
-    },
-    {
-      "title": "HPE's Private Cloud AI Gains Momentum: What Lies Ahead?",
-      "summary": "Hewlett Packard Enterprise/'s Private Cloud AI gains momentum as enterprise demand, AI orders and backlog point to continued growth opportunities ahead.",
-      "pub_date": "2026-08-26T14:29:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/hpes-private-cloud-ai-gains-142900902.html"
     }
   ]
 }

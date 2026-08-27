@@ -1,7 +1,14 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-08-26T22:38:59.954864+00:00",
+  "generated_at": "2026-08-27T06:41:33.689962+00:00",
   "items": [
+    {
+      "title": "Are Precious Metals Set to Rebound?",
+      "summary": "Gold and other precious metals have fallen sharply from their early 2026 peaks. Have they hit bottom?",
+      "pub_date": "2026-08-27T06:00:00Z",
+      "source": "CME Group",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/precious-metals-set-rebound-060000001.html"
+    },
     {
       "title": "What Could CME Group (CME) Gain From Its New U.S. Zinc Futures?",
       "summary": "CME Group (NasdaqGS:CME) recorded the first trades in its new U.S. Zinc Futures contracts, with participation from Glencore and Trafigura. The contracts expand CME Group's regional industrial metals offering aimed at U.S. price risk management and transparency. The launch targets participants across the U.S. zinc supply chain, including producers, traders and end users. For readers looking beyond metals into companies building the market plumbing for data and trading infrastructure, the...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-25T17:58:50Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-mixed-tuesday-175850258.html"
-    },
-    {
-      "title": "Top Midday Stories: Dick's Sporting Goods Earnings, Guidance Undershoot Targets; SpaceX Targets Q4 2027 for First AI Satellite Launches",
-      "summary": "The Nasdaq Composite and S&P 500 Index were up, while the Dow Jones Industrial Average was roughly f",
-      "pub_date": "2026-08-25T15:55:26Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-dick-apos-155526611.html"
     }
   ]
 }

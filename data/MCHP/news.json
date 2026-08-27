@@ -1,7 +1,14 @@
 {
   "ticker": "MCHP",
-  "generated_at": "2026-08-26T22:39:28.312960+00:00",
+  "generated_at": "2026-08-27T06:41:57.157264+00:00",
   "items": [
+    {
+      "title": "Microchip Technology (MCHP) Unveiled A Radiation Tolerant Atomic Clock For Satellites",
+      "summary": "Microchip Technology (NasdaqGS:MCHP) announced the Space CSAC-SA65, a radiation tolerant Chip Scale Atomic Clock designed for satellite systems. The Space CSAC-SA65 targets compact, low power timing needs for electronics operating in challenging environments such as Low Earth Orbit. The product is aimed at improving timing accuracy for growing satellite and space technology applications while helping reduce system complexity and costs. This kind of timing hardware is only one piece of the...",
+      "pub_date": "2026-08-27T02:13:03Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/articles/microchip-technology-mchp-unveiled-radiation-021303750.html"
+    },
     {
       "title": "Lam Research vs. Microchip: Which Chip Stock Is the Better Buy?",
       "summary": "LRCX looks like the better chip-stock buy, supported by AI-driven growth, strong earnings momentum, recurring services and a robust balance sheet.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-20T17:18:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/microchip-stock-drops-9-month-171800036.html"
-    },
-    {
-      "title": "Deflated Microchip Technology Stock Could Target a Contrarian Move to $85",
-      "summary": "While the surface-level print of MCHP stock is unenticing, historical trends have demonstrated a propensity for a bounce-back move.",
-      "pub_date": "2026-08-19T13:42:40Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/options/articles/deflated-microchip-technology-stock-could-134240950.html"
     }
   ]
 }

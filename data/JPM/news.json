@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-08-26T22:39:22.919868+00:00",
+  "generated_at": "2026-08-27T06:41:52.733126+00:00",
   "items": [
     {
       "title": "Top Analyst Reports for JPMorgan, Johnson & Johnson & Mastercard",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-26T22:21:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-jpmorgan-johnson-222100729.html"
+    },
+    {
+      "title": "J.P. Morgan Files Contempt Motion Against Ex-Advisor for TRO Violation",
+      "summary": "The firm alleges Christopher Lee violated a court order by soliciting clients after moving to Morgan Stanley, with $375 million in assets transferred post-restraining order.",
+      "pub_date": "2026-08-26T21:29:20Z",
+      "source": "Wealth Management",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/j-p-morgan-files-contempt-212920422.html"
     },
     {
       "title": "Sector Update: Financial Stocks Mixed Late Afternoon",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-26T15:58:00Z",
       "source": "CryptoProwl",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-eases-spacex-lending-rules-155800513.html"
-    },
-    {
-      "title": "JPMorgan Weighs Stablecoin as Bank Push Accelerates",
-      "summary": "JPMorgan weighs its own stablecoin as major banks explore a global consortium and thousands of smaller banks launch BankChain Alliance.",
-      "pub_date": "2026-08-26T15:53:44Z",
-      "source": "Bankless",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-weighs-stablecoin-bank-push-155344255.html"
     }
   ]
 }

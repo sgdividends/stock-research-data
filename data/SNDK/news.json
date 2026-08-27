@@ -1,6 +1,6 @@
 {
   "ticker": "SNDK",
-  "generated_at": "2026-08-26T22:39:42.735661+00:00",
+  "generated_at": "2026-08-27T06:42:09.865825+00:00",
   "items": [
     {
       "title": "Stocks in holding pattern ahead of Nvidia earnings: AlphaCheck",
@@ -15,6 +15,13 @@
       "pub_date": "2026-08-26T13:59:59Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/why-sustainability-ai-boom-could-135959475.html"
+    },
+    {
+      "title": "MU, SNDK, SKHY: Memory Stocks Surge Overnight After Nvidia More Than Doubles Purchases",
+      "summary": "Nvidia\u2019s purchase commitments tied primarily to memory procurement more than doubled to $279 billion last quarter, underscoring the scramble to lock in supply.",
+      "pub_date": "2026-08-27T04:18:05Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mu-sndk-skhy-memory-stocks-041805353.html"
     },
     {
       "title": "Stock Market Today: Dow Slides On Inflation; Nvidia Loses Ahead Of Earnings, Micron Climbs",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-26T09:04:24Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/stocks/articles/mu-sndk-see-august-rebound-090424981.html"
-    },
-    {
-      "title": "Nvidia Earnings Give Investors a Barometer for State of AI Trade",
-      "summary": "Wall Street is eagerly anticipating Nvidia Corp.'s earnings on Wednesday afternoon, not so much for what the numbers will say about the chip giant, but for what they mean to artificial intelligence investors and the market itself.",
-      "pub_date": "2026-08-26T07:48:56Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-earnings-give-investors-a-barometer-for-state-of-ai-trade-074856874.html"
     }
   ]
 }

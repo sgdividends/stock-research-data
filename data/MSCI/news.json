@@ -1,7 +1,14 @@
 {
   "ticker": "MSCI",
-  "generated_at": "2026-08-26T22:39:31.121917+00:00",
+  "generated_at": "2026-08-27T06:41:59.626486+00:00",
   "items": [
+    {
+      "title": "Hotel Sales Jump 28% as Buyers Take On Renovations",
+      "summary": "Hotel sales climbed 28% year over year in the first half as buyers took on capital-heavy properties and luxury demand stayed strong.",
+      "pub_date": "2026-08-27T05:18:39Z",
+      "source": "CRE Daily",
+      "url": "https://finance.yahoo.com/real-estate/articles/hotel-sales-jump-28-buyers-051839004.html"
+    },
     {
       "title": "Michael Saylor Faces Fresh Funding Threat on MSCI-Exit Risk",
       "summary": "A rebound in Bitcoin has brought some relief for Michael Saylor\u2019s Strategy Inc. But just as market pressure begins to ease, an old threat from index provider MSCI is resurfacing.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-24T11:05:36Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/1-large-cap-stock-impressive-110536686.html"
-    },
-    {
-      "title": "Can SPGI's Mobility Spin and AI Push Unlock More Profitable Growth?",
-      "summary": "S&P Global's post-Mobility focus, rising AI adoption and margin gains sharpen its growth story, though Market Intelligence execution remains a key test.",
-      "pub_date": "2026-08-21T14:21:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/spgis-mobility-spin-ai-push-142100496.html"
     }
   ]
 }
