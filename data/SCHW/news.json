@@ -1,7 +1,14 @@
 {
   "ticker": "SCHW",
-  "generated_at": "2026-08-27T18:44:52.346971+00:00",
+  "generated_at": "2026-08-28T03:59:30.992657+00:00",
   "items": [
+    {
+      "title": "$13 trillion brokerage giant adds three popular assets",
+      "summary": "U.S. brokerage giant plans to expand its crypto platform with three more established assets.",
+      "pub_date": "2026-08-27T19:55:22Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/13-trillion-brokerage-giant-adds-195522968.html"
+    },
     {
       "title": "Charles Schwab to Expand Crypto Offering for Clients. What to Know.",
       "summary": "When Schwab started allowing customers to hold and trade cryptocurrencies directly in May, it limited their options to the two largest assets by market capitalization: Bitcoin and Ethereum.  \u201cWith this expansion, clients will have more choices to build a digital asset allocation alongside the investing and banking experience they know and trust at Schwab,\u201d said Joe Vietri, head of digital assets at Schwab.  Shares of Schwab were down 1.3% Thursday morning.",
@@ -15,6 +22,13 @@
       "pub_date": "2026-08-27T15:44:00Z",
       "source": "CryptoProwl",
       "url": "https://finance.yahoo.com/markets/crypto/articles/charles-schwab-adds-solana-avalanche-154400480.html"
+    },
+    {
+      "title": "Solana Price Targets $120 as Schwab Adds SOL, ETF Inflows Rise",
+      "summary": "Solana price targets $120 after Schwab adds SOL and ETFs log $104M in 7-day inflows, though an overbought RSI puts $100 support in focus.",
+      "pub_date": "2026-08-27T15:31:52Z",
+      "source": "FX Empire",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/solana-price-targets-120-schwab-153152972.html"
     },
     {
       "title": "Can Vanguard's Altruist Acquisition Turn Up the Heat on Schwab?",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-26T20:30:33Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/vanguard-altruist-acquisition-4-billion-wealth-management-fintech-charles-schwab-fidelity/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Vanguard to Buy Wealth Platform Altruist. It\u2019s Going After a Business Schwab and Fidelity Dominate.",
-      "summary": "Vanguard\u2019s Altruist acquisition may advance its goal of drumming up more business with independent financial advisors, one of the fastest growing areas of wealth management.",
-      "pub_date": "2026-08-26T19:43:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/advisor/articles/vanguard-acquire-altruist-wealth-management-d7cc5151?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Wealth Management Stocks Fall After Vanguard Aquires Tech Platform",
-      "summary": "Vanguard's ambition to expand in financial advice is causing some trepidation among investors in the industry's incumbents.  Shares of Charles Schwab and LPL Financial were off more than 2% in morning trading Wednesday after Vanguard announced the acquisition of Altruist, a fintech wealth management platform.  Altruist competes with Schwab to custody assets on behalf of financial advisers, and offers AI tools for tax and financial planning.",
-      "pub_date": "2026-08-26T14:19:09Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/nvidia-earnings-stock-market-today-08-26-2026/card/wealth-management-stocks-fall-after-vanguard-aquires-tech-platform-49Q2PoRCDbrxg0szHcKW?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

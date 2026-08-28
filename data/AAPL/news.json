@@ -1,62 +1,62 @@
 {
   "ticker": "AAPL",
-  "generated_at": "2026-08-27T18:43:39.632116+00:00",
+  "generated_at": "2026-08-28T03:58:16.712408+00:00",
   "items": [
     {
-      "title": "Here are the launches John Ternus needs to nail as Apple's next CEO",
-      "summary": "Market Catalyst's Brooke DiPalma talks with TECHnalysis Research President Bob O'Donnell about the biggest hardware changes and AI integrations that could be coming to Apple as John Ternus prepares to take the reins from CEO Tim Cook on Sept. 1.",
-      "pub_date": "2026-08-27T15:24:31Z",
+      "title": "Wearable AI devices are creating a whole new generation of privacy concerns",
+      "summary": "Clarip CEO Andy Sambandam assesses the privacy concerns associated with wearable devices \u2014 such as Apple's (AAPL) latest generation of AirPods featuring cameras or Meta (META) Glasses \u2014 and the cloud processing centers associated with this tech.",
+      "pub_date": "2026-08-27T21:28:35Z",
       "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/launches-john-ternus-needs-nail-152431046.html"
+      "url": "https://finance.yahoo.com/video/wearable-ai-devices-creating-whole-212835059.html"
+    },
+    {
+      "title": "Dividends could be the next big Nvidia stock catalyst, just like they were for Apple",
+      "summary": "Nvidia is picking up its cash handouts to shareholders finally.",
+      "pub_date": "2026-08-27T11:08:50Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/dividends-could-be-the-next-big-nvidia-stock-catalyst-just-like-they-were-for-apple-110850043.html"
+    },
+    {
+      "title": "Why Is Wall Street Doubting Google Stock?",
+      "summary": "After a sharp pullback, one of the world's most dominant companies is trading at a steep discount to the market, forcing investors to decide if they are looking at a bargain or a warning sign.",
+      "pub_date": "2026-08-27T23:39:51Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-wall-street-doubting-google-233951392.html"
+    },
+    {
+      "title": "The Bull Case For Apple (AAPL) Could Change Following Its AI-Centric Mac Refresh With New M6 Chip",
+      "summary": "Apple recently launched new Mac mini and Mac Studio desktops powered by its first 2-nanometer M6 chip and high-end M5 Ultra, sharply boosting on-device AI performance, connectivity, and support for next-generation Siri AI and Apple Intelligence features. This AI-centric hardware refresh, paired with anticipation for September\u2019s first major product event under incoming CEO John Ternus, underlines how Apple is trying to anchor future growth in local AI computing rather than cloud-heavy...",
+      "pub_date": "2026-08-27T23:11:53Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bull-case-apple-aapl-could-231153158.html"
+    },
+    {
+      "title": "S&P 500 investors are quietly making a huge shift",
+      "summary": "The ETF milestone challenging the S&P\u2019s biggest names",
+      "pub_date": "2026-08-27T21:17:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-investors-quietly-making-211700649.html"
+    },
+    {
+      "title": "Stock Market Today, Aug. 27: HP Slips 3% on Weak PC Shipments Despite Fiscal Q3 Beat",
+      "summary": "Today, Aug. 27, 2026, margin pressure from higher memory and commodity costs weighed on the stock despite strong quarterly results.",
+      "pub_date": "2026-08-27T21:13:10Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-27-211310615.html"
     },
     {
       "title": "Nvidia, Micron, Salesforce, Marvell, Veeva, Okta, Hormel, and More Stocks That Explain Today\u2019s Market",
-      "summary": "FEATURE  Stocks rallied Thursday as a batch of stellar earnings reports, including one from Nvidia revived Wall Street\u2019s appetite for tech stocks.  Nvidia shares rose 8.6% after the chip maker\u2019s second-quarter earnings topped analysts\u2019 expectations.",
-      "pub_date": "2026-08-27T18:25:00Z",
+      "summary": "FEATURE  Stocks rallied Thursday as a batch of stellar earnings reports, including Nvidia revived Wall Street\u2019s appetite for tech stocks.  Nvidia shares rose 8.7% after the chip maker\u2019s second-quarter earnings topped analysts\u2019 expectations.",
+      "pub_date": "2026-08-27T20:57:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/stock-movers-8aa1c4cd?siteid=yhoof2&yptr=yahoo"
     },
     {
-      "title": "Nvidia Leads the AI Boom as Microsoft, Amazon and Apple Stocks Fall Behind",
-      "summary": "Megacap Tech Stocks Lag Nvidia as AI Money Pours Into Chips and Software",
-      "pub_date": "2026-08-27T17:00:46Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-leads-ai-boom-microsoft-170046634.html"
-    },
-    {
-      "title": "Is Microsoft Stock A True Safe Haven When The Market Stumbles?",
-      "summary": "The correlation to the index is high, the five-year record shows wider swings for slightly less return, and neither of those says diversification.",
-      "pub_date": "2026-08-27T16:52:34Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-true-safe-haven-165234035.html"
-    },
-    {
-      "title": "Google agrees to settle UK app developers' lawsuit for $353 million",
-      "summary": "LONDON, Aug 27 (Reuters) - Google has agreed to settle a mass London lawsuit brought on behalf of app developers for \u00a3260 million ($353.21 million), according to a deal published on Thursday.",
-      "pub_date": "2026-08-27T16:17:05Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/articles/google-agrees-settle-uk-app-161127465.html"
-    },
-    {
-      "title": "Greg Abel Has Kept 60% of Berkshire's $359 Billion Stock Portfolio in Just 5 Companies, Even After Eliminating 16 Other Positions in His First Quarter. Is That Concentration a Risk for Shareholders?",
-      "summary": "Performance risk is the larger issue moving forward with Berkshire and its stock portfolio.",
-      "pub_date": "2026-08-27T15:52:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/greg-abel-kept-60-berkshires-155200567.html"
-    },
-    {
-      "title": "Apple Is Cutting Jobs From the Teams Fixing Siri. Is Its AI Comeback Already in Trouble?",
-      "summary": "Apple just laid off over 100 people from Siri and machine learning teams while simultaneously betting its future on a rebuilt Siri that has already missed its own reliability bar once. Whether this is smart pruning or a dangerous gamble depends on what comes next.",
-      "pub_date": "2026-08-27T14:36:05Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/apple-cutting-jobs-teams-fixing-143605323.html"
-    },
-    {
-      "title": "The Magnificent 7 Divergence: Why Megacap Tech Stocks Are Missing Today\u2019s AI Boom",
-      "summary": "The tech sector looks set for an everything rally Thursday.  Nvidia blowout earnings and a flurry of encouraging results from software companies, including  Salesforce  and  Okta  have reignited the artificial-intelligence trade.  Apple  was down 0.6% and  Microsoft  was up just 0.1%, while  Alphabet  and  Amazon  were also lower and  Meta Platforms  was up 0.7%.",
-      "pub_date": "2026-08-27T14:11:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/magnificent-seven-stock-divergence-megacaps-miss-ai-boom-b897a64f?siteid=yhoof2&yptr=yahoo"
+      "title": "Tech Was the Only Sector to Finish Positive Thursday",
+      "summary": "23% That\u2019s how much Salesforce\u2019s shares jumped on Thursday. Big days for Salesforce, Nvidia, CrowdStrike and other tech stocks helped power the S&P 500 to a 0.7% gain. The tech sector overall soared 3.",
+      "pub_date": "2026-08-27T20:41:12Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-27-2026/card/tech-was-the-only-sector-to-finish-positive-thursday-nqhW5qyxMJEj6ewycDle?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

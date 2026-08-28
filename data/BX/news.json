@@ -1,7 +1,14 @@
 {
   "ticker": "BX",
-  "generated_at": "2026-08-27T18:43:54.172197+00:00",
+  "generated_at": "2026-08-28T03:58:29.933865+00:00",
   "items": [
+    {
+      "title": "Nvidia Stock Soars After Q2 Earnings: Is NVDA Still a Buy?",
+      "summary": "Nvidia stock has surged more than 7% on Thursday after the AI chip giant delivered another blockbuster quarterly report yesterday evening.",
+      "pub_date": "2026-08-27T18:45:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-soars-q2-earnings-184500091.html"
+    },
     {
       "title": "BDCs Are Selling Investment-Grade Bonds Again After a Frozen Quarter",
       "summary": "Are the headwinds clearing for business development companies, or is there more to consider?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-26T11:52:38Z",
       "source": "QSR",
       "url": "https://finance.yahoo.com/markets/stocks/articles/making-case-why-jersey-mike-184806121.html"
-    },
-    {
-      "title": "Broadcom Credit Risk Soars on Mega AI Debt Financing Backstops",
-      "summary": "Bond traders have ramped up measures of credit risk associated with Broadcom Inc. as it backstops mega financing packages for the buildout of artificial intelligence.",
-      "pub_date": "2026-08-24T17:21:16Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-credit-risk-soars-mega-172116287.html"
     }
   ]
 }

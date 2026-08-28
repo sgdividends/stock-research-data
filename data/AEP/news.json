@@ -1,7 +1,14 @@
 {
   "ticker": "AEP",
-  "generated_at": "2026-08-27T18:43:42.483422+00:00",
+  "generated_at": "2026-08-28T03:58:19.168766+00:00",
   "items": [
+    {
+      "title": "George Soros Is Betting Big on Utility Stocks as AI Power Demand Surges",
+      "summary": "Soros Fund Management opened a $105 million position in American Electric Power.",
+      "pub_date": "2026-08-27T18:47:35Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/george-soros-betting-big-utility-184735423.html"
+    },
     {
       "title": "GE Vernova vs. American Electric Power: Which Power Stock Has the Edge?",
       "summary": "Both GEV and AEP are positioned to benefit from surging electricity demand, AI data centers, and the massive U.S. grid expansion.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-18T04:01:00Z",
       "source": "The Daily Upside",
       "url": "https://finance.yahoo.com/energy/articles/peter-thiel-places-big-bets-040100111.html"
-    },
-    {
-      "title": "AEP Stock Stalls as NVIDIA Backs $105 Billion Ohio AI Project",
-      "summary": "NVIDIA's guarantee strengthens the financial foundation beneath an enormous data-center campus requiring $4.2 billion of new grid infrastructure.",
-      "pub_date": "2026-08-17T16:59:10Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/aep-stock-stalls-nvidia-backs-165910720.html"
     }
   ]
 }
