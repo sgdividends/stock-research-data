@@ -1,7 +1,21 @@
 {
   "ticker": "BAC",
-  "generated_at": "2026-08-28T03:58:26.570203+00:00",
+  "generated_at": "2026-08-28T15:57:38.882792+00:00",
   "items": [
+    {
+      "title": "1 S&P 500 Stock with Promising Prospects and 2 Facing Challenges",
+      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn\u2019t mean every stock is worth owning. Some companies face significant challenges, whether it\u2019s stagnating growth, heavy debt, or disruptive new competitors.",
+      "pub_date": "2026-08-28T11:44:52Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-promising-114452202.html"
+    },
+    {
+      "title": "Step Aside, Coca-Cola and Bank of America: There's a New Apple of Berkshire Hathaway's Eye, and It's a Virtual Monopoly",
+      "summary": "Warren Buffett's successor, Greg Abel, has anointed a new No. 3 holding in Berkshire's $359 billion investment portfolio.",
+      "pub_date": "2026-08-28T09:26:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/step-aside-coca-cola-bank-092600682.html"
+    },
     {
       "title": "Bank Of America (BAC) Joins Clash Over Fed GSIB Capital Rule",
       "summary": "Bank of America (NYSE:BAC) and other major US banks are publicly disputing the Federal Reserve's proposed revision to the GSIB capital surcharge for large institutions. The clash centers on how the updated surcharge would affect required capital buffers for the biggest banks and the rules that govern those calculations. Bank executives are warning that higher required capital could influence lending activity and overall balance sheet use across the largest US lenders. The disagreement has...",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-27T17:21:46Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-172146991.html"
-    },
-    {
-      "title": "Bank of America doubles down on Nvidia stock",
-      "summary": "Bank of America\u2019s analysis had more to do with what the company is hiding in its balance sheet than what it reported for Q2 2027.",
-      "pub_date": "2026-08-27T15:30:54Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-doubles-down-nvidia-153054071.html"
-    },
-    {
-      "title": "Market Chatter: Major US Banks Clash Over Fed's GSIB Capital Surcharge Revision",
-      "summary": "JPMorgan Chase (JPM), Bank of America (BAC), Goldman Sachs (GS) and Morgan Stanley (MS) are clashing",
-      "pub_date": "2026-08-27T14:40:55Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/economy/policy/articles/market-chatter-major-us-banks-144055239.html"
     }
   ]
 }

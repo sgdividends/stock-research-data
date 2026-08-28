@@ -1,7 +1,14 @@
 {
   "ticker": "CMCSA",
-  "generated_at": "2026-08-28T03:58:35.248738+00:00",
+  "generated_at": "2026-08-28T15:57:45.926500+00:00",
   "items": [
+    {
+      "title": "AT&T Stock's Margin Hit A Multi-Year Best As Its Copper Network Winds Down",
+      "summary": "The satellite scare has defined the telecom debate, but the profit line moved on operating leverage and the legacy costs coming out with the copper.",
+      "pub_date": "2026-08-28T14:30:26Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/t-stocks-margin-hit-multi-143026501.html"
+    },
     {
       "title": "Comcast (CMCSA) Builds Unified TV Ad Platform To Expand AI Driven Advertising",
       "summary": "Comcast (NasdaqGS: CMCSA) and Tracer announced a partnership to create a unified operational layer for Universal Ads, aimed at modernizing ad workflows across TV. The collaboration is designed to give brands centralized tools to create, buy, and measure TV ads with real-time visibility into campaign performance and revenue metrics. The new setup is expected to support AI-driven, self-service advertising products within Comcast's Universal Ads offering. Comcast is far from the only stock...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-26T17:43:53Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/comcast-corporation-cmcsa-vs-charter-174353158.html"
-    },
-    {
-      "title": "Netflix Stock Could Swing A Third Lower Or Half Higher In The Year Ahead",
-      "summary": "The band its options price for the year ahead is wide on both sides, and the optimistic end does not quite reach the stock's high of the past twelve months.",
-      "pub_date": "2026-08-26T17:38:42Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/netflix-stock-could-swing-third-173842024.html"
     }
   ]
 }

@@ -1,7 +1,21 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-08-28T03:59:31.601256+00:00",
+  "generated_at": "2026-08-28T15:58:33.516697+00:00",
   "items": [
+    {
+      "title": "Cisco (CSCO) Unveils Sovereign And AI Infrastructure Offerings",
+      "summary": "Cisco Systems (NasdaqGS:CSCO) launched a Sovereign Critical Infrastructure portfolio in Canada, targeting sectors that require national control of data and networks. The company expanded its Secure AI Factory through partnerships with NVIDIA and Supermicro to support liquid cooled, high density AI infrastructure. The expanded offering is aimed at enterprises, neocloud providers, and sovereign cloud customers looking to run AI workloads with integrated compute, cooling, and AI focused...",
+      "pub_date": "2026-08-28T10:21:33Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-unveils-sovereign-ai-102133581.html"
+    },
+    {
+      "title": "Zacks Industry Outlook Western Digital, Sandisk and Super Micro Computer",
+      "summary": "Digital, Sandisk and Super Micro Computer have been highlighted in this Industry Outlook article.",
+      "pub_date": "2026-08-28T07:15:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-western-digital-071500602.html"
+    },
     {
       "title": "Super Micro Stock And 2 AI Infrastructure Names Trading Below Fair Value",
       "summary": "With US PCE inflation steady at 3.7% and core PCE at 3.3% as of July, the focus is firmly on how reliably companies can turn revenue into cash. Markets are watching central banks, yet some stocks on the Undervalued Stocks Based On Cash Flows screener trade below SWS DCF fair value. This article highlights three of those stocks and explains why their cash flow profiles may interest value oriented investors. The three stocks discussed below are just a sample. The full screen has surfaced 810...",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-26T19:08:50Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/could-super-micro-computer-smci-190850097.html"
-    },
-    {
-      "title": "Super Micro Rallied On A Stamp Of Approval, Not On Demand",
-      "summary": "Cisco putting Super Micro's liquid-cooled servers in its own AI product line ended a slide the record order book had not.",
-      "pub_date": "2026-08-26T18:03:30Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-rallied-stamp-approval-180330601.html"
-    },
-    {
-      "title": "Cisco just broke its biggest hardware rule to chase the AI boom",
-      "summary": "A new partnership pulls rack-scale compute into Cisco\u2019s stack, and it changes who else gets a cut of the AI buildout.",
-      "pub_date": "2026-08-26T17:33:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-just-broke-biggest-hardware-173300319.html"
     }
   ]
 }

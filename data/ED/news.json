@@ -1,7 +1,14 @@
 {
   "ticker": "ED",
-  "generated_at": "2026-08-28T03:58:45.843670+00:00",
+  "generated_at": "2026-08-28T15:57:55.162884+00:00",
   "items": [
+    {
+      "title": "My mother, 91, has dementia. Every bank says I need her signature to unlock her $100,000 stock certificate. What can I do?",
+      "summary": "\u201cThese shares are the only assets in her estate without designated beneficiaries.\u201d",
+      "pub_date": "2026-08-28T10:15:00Z",
+      "source": "MarketWatch",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mother-91-dementia-every-bank-101500357.html"
+    },
     {
       "title": "5 Dividend Aristocrats That Belong in Every Income Portfolio",
       "summary": "Not every Dividend Aristocrat deserves space in your portfolio right now, and with tariffs, rate pressure, and AI capex reshaping entire industries, picking the wrong ones could cost you real income. These five names survived a brutal four-factor ranking, but only one scored clean across the board.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-07T14:56:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/consolidated-edison-q2-earnings-top-145600115.html"
-    },
-    {
-      "title": "Consolidated Edison Q2 Profit Rises 25% on Higher Electric and Gas Rate Base",
-      "summary": "Con Edison reported higher second-quarter earnings as growth in its regulated electric and gas rate base lifted utility profits.",
-      "pub_date": "2026-08-07T01:15:00Z",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/energy/articles/consolidated-edison-q2-profit-rises-011500302.html"
     }
   ]
 }

@@ -1,7 +1,21 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-08-28T03:58:39.070830+00:00",
+  "generated_at": "2026-08-28T15:57:49.442629+00:00",
   "items": [
+    {
+      "title": "1 Growth Stock with Explosive Upside and 2 We Question",
+      "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
+      "pub_date": "2026-08-28T13:28:52Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-explosive-upside-132852047.html"
+    },
+    {
+      "title": "Cisco (CSCO) Unveils Sovereign And AI Infrastructure Offerings",
+      "summary": "Cisco Systems (NasdaqGS:CSCO) launched a Sovereign Critical Infrastructure portfolio in Canada, targeting sectors that require national control of data and networks. The company expanded its Secure AI Factory through partnerships with NVIDIA and Supermicro to support liquid cooled, high density AI infrastructure. The expanded offering is aimed at enterprises, neocloud providers, and sovereign cloud customers looking to run AI workloads with integrated compute, cooling, and AI focused...",
+      "pub_date": "2026-08-28T10:21:33Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-unveils-sovereign-ai-102133581.html"
+    },
     {
       "title": "Morgan Stanley reveals Cisco's quiet edge over rivals",
       "summary": "Cisco is navigating a shortage that\u2019s squeezing the whole AI infrastructure industry.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-27T15:41:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/hpe-vs-csco-stock-edge-154100468.html"
-    },
-    {
-      "title": "Is PANW Stock Gearing Up For A Massive Volatility Shock?",
-      "summary": "The options market is charging more than this stock's own past year of movement would justify, and the range it prices runs from a level inside the past year's trading range to one well above the top of it.",
-      "pub_date": "2026-08-27T13:09:54Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/panw-stock-gearing-massive-volatility-130954075.html"
-    },
-    {
-      "title": "Cisco Gave All 90,000 Employees Their Own AI Agent",
-      "summary": "Networking-equipment maker Cisco rolled out a personal AI agent for all of its 90,000 global employees this week.  The AI agent, called MyAgent, is personalized to each employee,  Cisco  Executive Vice President of Operations Thimaya\u00a0Subaiya recently told me in an exclusive interview.  Cisco\u2019s AI agent program is one of the first examples of a widespread agent rollout inside a large company, and one where the autonomous bots are set to accomplish a variety of tasks on behalf of their humans.",
-      "pub_date": "2026-08-27T13:09:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/cio-journal/cisco-gave-all-90-000-employees-their-own-ai-agent-1a4ad8bc?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
