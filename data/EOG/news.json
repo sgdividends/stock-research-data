@@ -1,7 +1,14 @@
 {
   "ticker": "EOG",
-  "generated_at": "2026-08-28T15:57:56.473419+00:00",
+  "generated_at": "2026-08-29T00:26:19.534120+00:00",
   "items": [
+    {
+      "title": "S&P 500 Posts Slight Weekly Gain as Tech Earnings Top Expectations",
+      "summary": "The Standard & Poor's 500 index edged up 0.5% this week amid stronger-than-expected quarterly report",
+      "pub_date": "2026-08-28T20:47:27Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-slight-weekly-204727382.html"
+    },
     {
       "title": "Why ExxonMobil's Financial Strength Matters for Investors",
       "summary": "XOM's low debt load and balance sheet provide flexibility when oil and gas prices fall, supporting operations, acquisitions and shareholder rewards.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T19:41:46Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/occidental-petroleum-stock-climb-without-194146402.html"
-    },
-    {
-      "title": "Cost Savings and Production Growth Strengthen ExxonMobil's Outlook",
-      "summary": "XOM's advantaged Guyana and Permian assets, cost savings and production growth support its earnings and cash-flow outlook.",
-      "pub_date": "2026-08-21T16:40:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/energy/articles/cost-savings-production-growth-strengthen-164000346.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-08-28T15:58:33.516697+00:00",
+  "generated_at": "2026-08-29T00:26:51.922923+00:00",
   "items": [
+    {
+      "title": "Vertiv (VRT) Is Down From Its Peak. Is the Selloff Overdone",
+      "summary": "Has Vertiv Holdings Co (NYSE:VRT) hit a bottom? That\u2019s the big question as the stock has pulled back by roughly 32% from its peak reached in May. While even after the decline, the stock remains up nearly 45% year to date, it\u2019s been under immense pressure in recent weeks amid a broad sell-off around semiconductor [\u2026]",
+      "pub_date": "2026-08-28T21:27:42Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-vrt-down-peak-selloff-212742782.html"
+    },
     {
       "title": "Cisco (CSCO) Unveils Sovereign And AI Infrastructure Offerings",
       "summary": "Cisco Systems (NasdaqGS:CSCO) launched a Sovereign Critical Infrastructure portfolio in Canada, targeting sectors that require national control of data and networks. The company expanded its Secure AI Factory through partnerships with NVIDIA and Supermicro to support liquid cooled, high density AI infrastructure. The expanded offering is aimed at enterprises, neocloud providers, and sovereign cloud customers looking to run AI workloads with integrated compute, cooling, and AI focused...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-27T03:54:17Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/technology/ai/articles/us-probes-apex-logistics-over-alleged-nvidia-ai-chip-smuggling-035417401.html"
-    },
-    {
-      "title": "What Could Super Micro Computer (SMCI) Gain From This AI Infrastructure Partnership?",
-      "summary": "Super Micro Computer (NasdaqGS:SMCI) is expanding its AI infrastructure partnership with Cisco and NVIDIA to deliver integrated rack scale solutions for neocloud and sovereign cloud customers. The collaboration incorporates Supermicro high density, liquid cooled and air cooled servers into Cisco's Secure AI Factory infrastructure for next generation AI data centers. The joint offering is aimed at enterprises and cloud providers that want to deploy efficient and secure AI workloads at...",
-      "pub_date": "2026-08-26T19:08:50Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/could-super-micro-computer-smci-190850097.html"
     }
   ]
 }

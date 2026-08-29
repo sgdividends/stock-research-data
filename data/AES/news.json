@@ -1,7 +1,14 @@
 {
   "ticker": "AES",
-  "generated_at": "2026-08-28T15:57:33.644677+00:00",
+  "generated_at": "2026-08-29T00:25:59.810954+00:00",
   "items": [
+    {
+      "title": "Sector Update: Energy Stocks Mixed Late Afternoon",
+      "summary": "Energy stocks were mixed late Friday afternoon, with the NYSE Energy Sector Index easing 0.1% and th",
+      "pub_date": "2026-08-28T20:04:38Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-afternoon-200438758.html"
+    },
     {
       "title": "Are Wall Street Analysts Predicting AES\u2019 Stock Will Climb or Sink?",
       "summary": "As AES moves closer to its pending acquisition, Wall Street maintains a cautious stance on the stock.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-06-29T14:54:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/energy/articles/constellations-long-term-nuclear-ppas-145400226.html"
-    },
-    {
-      "title": "AI fuels record $200bn M&A boom in US power sector",
-      "summary": "The AI boom is fuelling a record surge in dealmaking in the US power and utility industry, as companies compete for capital to build energy infrastructure...",
-      "pub_date": "2026-06-29T04:00:07Z",
-      "source": "Financial Times",
-      "url": "https://finance.yahoo.com/energy/articles/ai-fuels-record-200bn-m-040007730.html"
     }
   ]
 }

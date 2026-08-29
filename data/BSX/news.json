@@ -1,13 +1,34 @@
 {
   "ticker": "BSX",
-  "generated_at": "2026-08-28T15:57:41.942216+00:00",
+  "generated_at": "2026-08-29T00:26:07.086665+00:00",
   "items": [
+    {
+      "title": "S&P 500 Posts Slight Weekly Gain as Tech Earnings Top Expectations",
+      "summary": "The Standard & Poor's 500 index edged up 0.5% this week amid stronger-than-expected quarterly report",
+      "pub_date": "2026-08-28T20:47:27Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-posts-slight-weekly-204727382.html"
+    },
     {
       "title": "Boston Scientific (BSX) Up 1.5% Since Last Earnings Report: Can It Continue?",
       "summary": "Boston Scientific (BSX) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
       "pub_date": "2026-08-28T15:30:09Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/healthcare/articles/boston-scientific-bsx-1-5-153009118.html"
+    },
+    {
+      "title": "Boston Scientific says cyberattack has disrupted product manufacturing",
+      "summary": "The attack has affected the company\u2019s ability to manufacture products and to process and ship customers\u2019 orders, and there is still no timeline for restoration.",
+      "pub_date": "2026-08-28T12:05:00Z",
+      "source": "MedTech Dive",
+      "url": "https://finance.yahoo.com/healthcare/articles/boston-scientific-says-cyberattack-disrupted-120500934.html"
+    },
+    {
+      "title": "Abbott wins CE mark for new LAA closure device",
+      "summary": "Abbott is aiming to capture share from Boston Scientific in the market for devices that seal the heart\u2019s left atrial appendage to reduce stroke risk.",
+      "pub_date": "2026-08-28T10:15:13Z",
+      "source": "MedTech Dive",
+      "url": "https://finance.yahoo.com/healthcare/articles/abbott-wins-ce-mark-laa-101513528.html"
     },
     {
       "title": "New Strong Sell Stocks for August 28th",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-27T14:57:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/healthcare/articles/intuitive-surgicals-record-cash-flow-145700180.html"
-    },
-    {
-      "title": "Alabama Demands Details From OpenAI About Rogue AI, Employee Concerns",
-      "summary": "Alabama\u2019s attorney general wants answers after OpenAI models went rogue during a test run and hacked a real-world company.  The state this week subpoenaed OpenAI and CEO Sam Altman, looking for details about the incident as well as every employee involved, plus those who raised safety concerns.  On Wednesday, the company released a lengthy report that addressed some, but not all, of the issues Alabama raised.",
-      "pub_date": "2026-08-27T11:26:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/pro/cybersecurity/alabama-demands-details-from-openai-about-rogue-ai-employee-concerns-3ef2a470?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Boston Scientific impacted by ongoing cyberattack",
-      "summary": "The cyberattack on Boston\u2019s IT systems was identified on 25 August and has resulted in a global disruption to the company\u2019s operations.",
-      "pub_date": "2026-08-27T10:53:18Z",
-      "source": "Medical Device Network",
-      "url": "https://finance.yahoo.com/healthcare/articles/boston-scientific-impacted-ongoing-cyberattack-105318216.html"
-    },
-    {
-      "title": "Boston Scientific (BSX) Cyberattack Disrupts Global Orders And Key IT Systems",
-      "summary": "Boston Scientific (NYSE: BSX) reports a major cyberattack that is disrupting global operations and access to key IT systems. The company says the incident is impairing its ability to process customer orders worldwide and is still ongoing. Boston Scientific has activated its incident response protocol and is working to restore affected systems. Consider broadening your watchlist to other healthcare and medical technology stocks through 40 healthcare AI stocks. NYSE:BSX 1-Year Stock Price...",
-      "pub_date": "2026-08-27T10:16:06Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/healthcare/articles/boston-scientific-bsx-cyberattack-disrupts-101606147.html"
     }
   ]
 }
