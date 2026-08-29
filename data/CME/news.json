@@ -1,7 +1,14 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-08-29T00:26:10.724811+00:00",
+  "generated_at": "2026-08-29T10:39:23.597116+00:00",
   "items": [
+    {
+      "title": "White House teleprompter operator settles prediction market trading probe",
+      "summary": "Investing.com -- A White House teleprompter operator has settled a federal probe into wagers made using advance knowledge of President Donald Trump\u2019s speeches, The Wall Street Journal reported Friday.",
+      "pub_date": "2026-08-29T01:19:48Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/options/articles/white-house-teleprompter-operator-settles-011948177.html"
+    },
     {
       "title": "Markets Brace for Possible Rate Hike After Kevin Warsh\u2019s Hawkish Turn",
       "summary": "The Federal Reserve chairman surprised investors Friday by signaling greater concern about inflation than many had anticipated, prompting a sharp increase in short-term U.S. Treasury yields, a more modest rise in longer-term bond yields and declines in major stock indexes.  Warsh\u2019s suggestion that the Fed might have more \u201cwork to do\u201d to fight inflation suddenly put a  September interest-rate increase in play.  Interest-rate futures showed traders now see a roughly 58% chance that the Fed will raise rates at its next meeting, up from 35% on Thursday, according to CME Group data.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-28T14:14:55Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-global-stock-paid-membership-141455723.html"
-    },
-    {
-      "title": "Can you regulate a machine? Walt Lukken on the CFTC's Innovation Committee",
-      "summary": "CoinDesk's The Policy Protocol host Renato Mariotti takes a deep dive into the CFTC's inaugural Innovation Advisory Committee. Renato breaks down the viral, spicy exchange between CME Group CEO Terry Duffy and CFTC Chairman Michael Selig over event contracts and market manipulation, and introduces his own comment-letter concept \"accountability arbitrage\" that focuses on the enforcement gap that opens up when an AI agent authors a trading strategy. He then sits down with the committee's chair, Walt Lukken, President and CEO of the Futures Industry Association and a former acting CFTC chairman, who explains why Chairman Selig stood up the committee, how FIA is welcoming retail-first and formerly-offshore entrants while holding the line on customer protections, and why the hardest open question in the room was how to hold a machine accountable.",
-      "pub_date": "2026-08-28T12:57:36Z",
-      "source": "CoinDesk",
-      "url": "https://finance.yahoo.com/video/regulate-machine-walt-lukken-cftcs-125736801.html"
     }
   ]
 }

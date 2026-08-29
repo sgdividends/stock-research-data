@@ -1,7 +1,21 @@
 {
   "ticker": "LITE",
-  "generated_at": "2026-08-29T00:26:35.315062+00:00",
+  "generated_at": "2026-08-29T10:39:46.715901+00:00",
   "items": [
+    {
+      "title": "How networking became the critical layer of AI",
+      "summary": "Investing.com -- Networking is replacing raw computing power as the main constraint on artificial intelligence performance as AI systems grow larger and more complex, Citi analysts said following the second day of the Hot Chips conference.",
+      "pub_date": "2026-08-29T07:16:54Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/networking-became-critical-layer-ai-071654651.html"
+    },
+    {
+      "title": "Marvell Fell After Its Google Deal. Why Did Investors Sell These Two AI Optics Stocks Too?",
+      "summary": "Marvell\u2019s shares fell after investors decided its giant Google AI deal would take too long to move the numbers. Then Coherent Corp. (NYSE:COHR) and Lumentum Holdings Inc. (NASDAQ:LITE) fell with it on August 28. Barron\u2019s argued the sympathy selloff made little sense because Marvell\u2019s actual data-center results remained strong, especially for the optical demand that [\u2026]",
+      "pub_date": "2026-08-29T02:55:45Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-fell-google-deal-why-025545596.html"
+    },
     {
       "title": "Marvell, Nvidia, PayPal, Workday, Iren, Elastic, Pasqal, Affirm, and More Stocks That Explain Today\u2019s Market",
       "summary": "Marvell drops after so-so earnings fail to wow investors, while PayPal slumps after a report says its takeover may be off.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-28T01:02:06Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/technology/ai/articles/lumentum-sees-ai-data-centers-010206172.html"
-    },
-    {
-      "title": "Amgen Stock Signals Its Confidence. The Market Agrees.",
-      "summary": "The real bet is on what lies beyond this year's performance: a pipeline that could change everything.",
-      "pub_date": "2026-08-28T00:19:49Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amgen-stock-signals-confidence-market-001949063.html"
-    },
-    {
-      "title": "Super Micro Stock And 2 AI Infrastructure Names Trading Below Fair Value",
-      "summary": "With US PCE inflation steady at 3.7% and core PCE at 3.3% as of July, the focus is firmly on how reliably companies can turn revenue into cash. Markets are watching central banks, yet some stocks on the Undervalued Stocks Based On Cash Flows screener trade below SWS DCF fair value. This article highlights three of those stocks and explains why their cash flow profiles may interest value oriented investors. The three stocks discussed below are just a sample. The full screen has surfaced 810...",
-      "pub_date": "2026-08-28T00:17:30Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-stock-2-ai-001730952.html"
     }
   ]
 }

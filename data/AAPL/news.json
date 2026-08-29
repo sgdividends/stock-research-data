@@ -1,6 +1,6 @@
 {
   "ticker": "AAPL",
-  "generated_at": "2026-08-29T00:25:58.042684+00:00",
+  "generated_at": "2026-08-29T10:39:11.364349+00:00",
   "items": [
     {
       "title": "Trending: Take-Two Interactive price ascends as 'Grand Theft Auto VI' is teased",
@@ -15,6 +15,20 @@
       "pub_date": "2026-08-28T15:28:37Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/end-lag-7-nvidias-earnings-152837709.html"
+    },
+    {
+      "title": "Apple implements price hikes for its TV streaming service and 'One' subscription bundle",
+      "summary": "Apple TV now costs $14.99 per month after a $2 streaming price increase, while the Apple One bundle was also hiked to $21.95.",
+      "pub_date": "2026-08-29T02:09:16Z",
+      "source": "Fox Business",
+      "url": "https://finance.yahoo.com/media-advertising/articles/apple-implements-price-hikes-tv-020916047.html"
+    },
+    {
+      "title": "Apple CEO Tim Cook Pays Tribute to Yayoi Kusama, the Legendary Artist Behind Iconic Pumpkin Sculptures and Polka-Dots",
+      "summary": "Apple Inc. CEO Tim Cook has expressed his admiration for the late Japanese artist Yayoi Kusama, praising her as a visionary who transformed the art world. Cook took to X to pay tribute to Kusama, who passed away at the...",
+      "pub_date": "2026-08-28T23:31:05Z",
+      "source": "Benzinga",
+      "url": "https://www.yahoo.com/entertainment/celebrity/articles/apple-ceo-tim-cook-pays-233105418.html"
     },
     {
       "title": "Apple Makes Costly Move Subscribers Won't Miss",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-28T21:53:54Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/much-upside-aapl-stocks-growth-215354374.html"
-    },
-    {
-      "title": "Dell Stock Widens Your Portfolio Instead Of Steadying It",
-      "summary": "Its five-year correlation to the broad market leaves real room for behavior of its own, but the swing that comes with it is far wider than the index's.",
-      "pub_date": "2026-08-28T21:05:59Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-widens-portfolio-instead-210559770.html"
-    },
-    {
-      "title": "Apple's Mac Is 'Hostile' to AI Agents, Legendary Coder Warns: Could It Hurt Apple's AI Future?",
-      "summary": "Apple Inc. (NASDAQ:AAPL) spent decades turning the Mac into a tightly controlled, carefully curated machine. David Heinemeier Hansson, the creator of Ruby on Rails, believes the AI agent era may turn that strength into a weakness. Speaking on the Lex...",
-      "pub_date": "2026-08-28T18:04:40Z",
-      "source": "Benzinga Prediction Markets",
-      "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apples-mac-hostile-ai-agents-180440793.html"
     }
   ]
 }

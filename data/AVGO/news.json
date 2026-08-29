@@ -1,6 +1,6 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-08-29T00:26:03.836882+00:00",
+  "generated_at": "2026-08-29T10:39:17.046007+00:00",
   "items": [
     {
       "title": "6 things investors need to watch in the week ahead",
@@ -8,6 +8,20 @@
       "pub_date": "2026-08-28T21:03:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/6-things-investors-need-to-watch-in-the-week-ahead-210300637.html"
+    },
+    {
+      "title": "How networking became the critical layer of AI",
+      "summary": "Investing.com -- Networking is replacing raw computing power as the main constraint on artificial intelligence performance as AI systems grow larger and more complex, Citi analysts said following the second day of the Hot Chips conference.",
+      "pub_date": "2026-08-29T07:16:54Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/networking-became-critical-layer-ai-071654651.html"
+    },
+    {
+      "title": "Broadcom\u2019s Debt Deal Could Reach $100 Billion in the AI Buildout\u2019s Latest Mega-Financing",
+      "summary": "A Broadcom Inc. (NASDAQ:AVGO)-backed financing vehicle is reportedly in talks to raise $70 billion to $80 billion in debt for a chip-financing deal that would support AI companies like Anthropic, CNBC\u2019s David Faber confirmed on August 20, with Bloomberg separately reporting that the total arrangement could reach $100 billion once all pieces are counted. The [\u2026]",
+      "pub_date": "2026-08-29T03:11:37Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-debt-deal-could-reach-031137813.html"
     },
     {
       "title": "Stock Market Today, Aug. 28: Marvell Slides 10% on Softer Fiscal 2028 Guidance and Google Deal Timing",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-28T17:10:54Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/broadcoms-16-billion-ai-quarter-171054558.html"
-    },
-    {
-      "title": "Broadcom Is About to Face Nvidia's Impossible AI Bar",
-      "summary": "Wall Street is looking to Broadcom for the next signal on whether AI spending can keep accelerating.",
-      "pub_date": "2026-08-28T17:04:36Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-face-nvidias-impossible-ai-170436080.html"
-    },
-    {
-      "title": "Broadcom (AVGO) Nears $70B Debt Financing Deal, Sources Say",
-      "summary": "CNBC reported on August 21, 2026, that Broadcom Inc. (NASDAQ:AVGO) is in talks to raise $70 billion to $80 billion in debt for a chip financing deal supporting AI companies, including Anthropic. The senior tranche, repaid first, is expected to be around $45 billion, with a junior tranche around $35 billion, though the figures remain [\u2026]",
-      "pub_date": "2026-08-28T16:42:36Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-nears-70b-debt-164236440.html"
     }
   ]
 }

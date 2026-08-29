@@ -1,7 +1,14 @@
 {
   "ticker": "ANET",
-  "generated_at": "2026-08-29T00:26:02.314330+00:00",
+  "generated_at": "2026-08-29T10:39:15.493596+00:00",
   "items": [
+    {
+      "title": "How networking became the critical layer of AI",
+      "summary": "Investing.com -- Networking is replacing raw computing power as the main constraint on artificial intelligence performance as AI systems grow larger and more complex, Citi analysts said following the second day of the Hot Chips conference.",
+      "pub_date": "2026-08-29T07:16:54Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/networking-became-critical-layer-ai-071654651.html"
+    },
     {
       "title": "Arista's Price Assumes The Parts Arrive On Time",
       "summary": "Consensus cuts the stock's earnings multiple by about a third within two years, and what decides whether that happens is component supply rather than customer demand.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-27T08:18:27Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081827345.html"
-    },
-    {
-      "title": "Decoding ANET Stock's Premium Valuation",
-      "summary": "This is an aggressive supply-chase year for Arista Networks. The company builds high-performance networking gear for its two largest partners, Microsoft and Meta.",
-      "pub_date": "2026-08-26T21:25:29Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/decoding-anet-stocks-premium-valuation-212529836.html"
     }
   ]
 }
