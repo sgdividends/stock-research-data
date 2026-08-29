@@ -1,7 +1,14 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-08-29T16:03:59.146434+00:00",
+  "generated_at": "2026-08-29T22:11:27.414010+00:00",
   "items": [
+    {
+      "title": "I'd Rather Bet on AI's Electric Bill Than Its Chips. Here's Why.",
+      "summary": "Technology changes fast, but electricity doesn't.",
+      "pub_date": "2026-08-29T16:35:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/id-rather-bet-ais-electric-163500690.html"
+    },
     {
       "title": "Intel Sold Its NAND Memory Business for About $9 Billion. Micron Is Now Worth More Than Twice What Intel Is.",
       "summary": "The chipmaker exited NAND memory in one of the semiconductor industry's biggest asset sales. Nearly six years later, the market has put a price on what it walked away from.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-28T20:14:17Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-unveils-enterprise-ai-201417837.html"
-    },
-    {
-      "title": "Nvidia Breaks Ranks With Chip Stocks as Correlation Hits Just 0.03",
-      "summary": "Nvidia Breaks Away From the Chip Pack as Sector Correlation Falls Near Zero",
-      "pub_date": "2026-08-28T17:48:24Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-breaks-ranks-chip-stocks-174824369.html"
     }
   ]
 }

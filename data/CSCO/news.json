@@ -1,7 +1,14 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-08-29T16:03:37.410712+00:00",
+  "generated_at": "2026-08-29T22:11:04.893446+00:00",
   "items": [
+    {
+      "title": "'I Don't Know John Ternus,' Jim Cramer Says \u2014 but He Trusts Tim Cook's Word on Apple's Next CEO",
+      "summary": "On CNBC\u2019s \u201cMad Money Lightning Round,\u201d Jim Cramer recommended buying Cisco Systems Inc., noting that it had a really good quarter. \u201cI know that they gave very conservative guidance, but that\u2019s all it was,\u201d he added. On Aug. 12, Cisco...",
+      "pub_date": "2026-08-29T15:46:09Z",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dont-know-john-ternus-jim-154609628.html"
+    },
     {
       "title": "Why ZM Stock Prints So Much Cash Right Now",
       "summary": "The video-call giant is generating far more cash than the average company, yet the market is treating it like a business in decline. Here\u2019s the offer on the table.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-28T13:28:52Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-explosive-upside-132852047.html"
-    },
-    {
-      "title": "Cisco (CSCO) Unveils Sovereign And AI Infrastructure Offerings",
-      "summary": "Cisco Systems (NasdaqGS:CSCO) launched a Sovereign Critical Infrastructure portfolio in Canada, targeting sectors that require national control of data and networks. The company expanded its Secure AI Factory through partnerships with NVIDIA and Supermicro to support liquid cooled, high density AI infrastructure. The expanded offering is aimed at enterprises, neocloud providers, and sovereign cloud customers looking to run AI workloads with integrated compute, cooling, and AI focused...",
-      "pub_date": "2026-08-28T10:21:33Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-csco-unveils-sovereign-ai-102133581.html"
     }
   ]
 }

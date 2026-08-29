@@ -1,7 +1,14 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-08-29T16:03:58.242866+00:00",
+  "generated_at": "2026-08-29T22:11:26.497812+00:00",
   "items": [
+    {
+      "title": "Why I Think the Best Dividend Stock Isn't a Tech Name: It's Realty Income",
+      "summary": "Realty Income is a reliable dividend payer and more innovative than you may realize.",
+      "pub_date": "2026-08-29T20:35:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/real-estate/articles/why-think-best-dividend-stock-203500371.html"
+    },
     {
       "title": "IBM Introduces New Mainframe Processor Combining Its Own Tech With Arm Architecture",
       "summary": "On August 24, International Business Machines Corporation (NYSE:IBM) introduced its next-generation dual-architecture processor for IBM Z and LinuxONE, the first processor milestone to emerge from a relationship with Arm Holdings plc (NASDAQ:ARM) announced in April. The new chip will enable companies to run operating systems and applications on both IBM\u2019s custom compute platform and the [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-28T15:22:19Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/high-gate-fidelity-justify-buying-152219928.html"
-    },
-    {
-      "title": "Is IBM\u2019s Dual-Architecture 2nm Mainframe Reshaping The Investment Case For International Business Machines (IBM)?",
-      "summary": "In August 2026, IBM unveiled a dual-architecture 2-nanometer mainframe processor capable of running IBM and Arm workloads on the same core, advanced its modular cryogenic quantum system, and powered new AI fan experiences for the US Open with the USTA. Together, these moves highlight IBM\u2019s push to blend enterprise-grade mainframes, applied AI, and scalable quantum hardware into a single, interoperable technology stack for large organizations. Now we\u2019ll examine how IBM\u2019s dual-architecture...",
-      "pub_date": "2026-08-28T14:26:52Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/articles/ibm-dual-architecture-2nm-mainframe-142652602.html"
     }
   ]
 }

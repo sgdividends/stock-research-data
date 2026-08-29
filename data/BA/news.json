@@ -1,6 +1,6 @@
 {
   "ticker": "BA",
-  "generated_at": "2026-08-29T16:03:25.522616+00:00",
+  "generated_at": "2026-08-29T22:10:53.249191+00:00",
   "items": [
     {
       "title": "Boeing's Back in the Defense Business With a Big $131.2 Billion Order for New F-15 Fighters",
@@ -22,6 +22,13 @@
       "pub_date": "2026-08-28T22:04:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/dual-fuel-for-u-s-manufacturing-4ceecb33?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Boeing's $131B F-15 Win: Mach 1 Momentum or Just Altitude?",
+      "summary": "Boeing secured a $131.23 billion Pentagon contract ceiling for F-15 sustainment through 2037, bolstering its defense backlog even as commercial aviation headwinds and heavy debt persist.",
+      "pub_date": "2026-08-28T16:00:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/boeings-131b-f-15-win-160000136.html"
     },
     {
       "title": "What Is The Real Risk Still Haunting JOBY Stock?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-28T07:39:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ge-aerospaces-leap-engine-deliveries-073900503.html"
-    },
-    {
-      "title": "Boeing lands $131 billion deal, but Americans should read the fine print",
-      "summary": "Boeing just landed a $131 billion deal that taxpayers may help fund.",
-      "pub_date": "2026-08-28T02:33:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-lands-131-billion-deal-023300753.html"
     }
   ]
 }

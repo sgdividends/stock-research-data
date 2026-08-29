@@ -1,7 +1,14 @@
 {
   "ticker": "PLTR",
-  "generated_at": "2026-08-29T16:04:20.054299+00:00",
+  "generated_at": "2026-08-29T22:11:48.346972+00:00",
   "items": [
+    {
+      "title": "A Judge Just Called This Pentagon AI Ban Illegal. Why Palantir Could Rally",
+      "summary": "A federal court just ruled the Pentagon's retaliation against an AI supplier illegal, and the fallout lands squarely on one of Palantir's most critical defense programs before a make-or-break September deadline.",
+      "pub_date": "2026-08-29T16:20:27Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/judge-just-called-pentagon-ai-162027148.html"
+    },
     {
       "title": "The Next Palantir? 100 Federal Agencies Already Use Cloudflare, and It\u2019s Cleared For More",
       "summary": "Cloudflare just cleared the government's highest civilian security bar, giving it access to contracts it was previously locked out of entirely. Whether that clearance turns into the kind of compounding federal revenue Palantir built depends on a template that has worked exactly once so far.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-28T17:10:34Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-palantir-technologies-pltr-171034656.html"
-    },
-    {
-      "title": "As Palantir Stock Jumps, An Income-Generating Trade Aims For A Big Annualized Return",
-      "summary": "Palantir Technologies is a highly rated stock that broke out to a recent high on Thursday, closing up 4.75% for the day.  Income investors who want to generate some option premium on Palantir stock could look at a covered-call trade.  A covered-call strategy is one way to slightly reduce the risk on a long stock position while also generating some premium.",
-      "pub_date": "2026-08-28T17:02:35Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/research/options/as-palantir-stock-jumps-an-income-generating-trade-aims-for-a-big-annualized-return/?src=A00220&yptr=yahoo"
     }
   ]
 }
