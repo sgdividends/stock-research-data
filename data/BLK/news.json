@@ -1,7 +1,14 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-08-29T10:39:19.439904+00:00",
+  "generated_at": "2026-08-29T16:03:27.801766+00:00",
   "items": [
+    {
+      "title": "Is Bitcoin a 'Buy' Right Now? BlackRock Slashes ETF Swap Minimum 96% From $25M to $1M",
+      "summary": "BlackRock has cut the minimum Bitcoin-to-IBIT in-kind conversion from $25 million to $1 million, a 96% reduction. IBIT has already processed more than $5 billion ...",
+      "pub_date": "2026-08-29T15:02:15Z",
+      "source": "CCN",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-buy-now-blackrock-slashes-150215484.html"
+    },
     {
       "title": "ETHB Emerges as a Favorite Among Ethereum ETFs",
       "summary": "<p>BlackRock's newest Ethereum fund is gathering assets quickly.\u00a0</p>",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-28T10:20:02Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-russell-2000-growth-etf-102002016.html"
-    },
-    {
-      "title": "Bitcoin ETFs Extend Inflow Streak to 9 Days With $242M Added",
-      "summary": "Spot Bitcoin ETFs booked $242 million on Aug. 27, extending their inflow streak to nine straight trading days.",
-      "pub_date": "2026-08-28T05:01:05Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-extend-inflow-streak-050105869.html"
     }
   ]
 }

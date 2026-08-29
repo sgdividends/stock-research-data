@@ -1,7 +1,14 @@
 {
   "ticker": "TRV",
-  "generated_at": "2026-08-29T10:40:05.823321+00:00",
+  "generated_at": "2026-08-29T16:04:32.341086+00:00",
   "items": [
+    {
+      "title": "Travelers (TRV) Stock Looks Cheap On Earnings But Pricey On Past Returns",
+      "summary": "After a strong five year run, Travelers Companies now looks closer to fairly priced, which raises questions for investors who are trying to judge how much of that success is already reflected in the share price. Travelers Companies has returned 156.1% over the past 5 years, which means recent shareholders have already seen substantial value creation baked into the stock price. AM Best's affirmation of Travelers Companies' A++ rating may support confidence in balance sheet strength, while any...",
+      "pub_date": "2026-08-29T13:05:41Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/travelers-trv-stock-looks-cheap-130541126.html"
+    },
     {
       "title": "Top Stock Reports for NVIDIA, ExxonMobil & HSBC",
       "summary": "NVIDIA, ExxonMobil and HSBC see growth from AI demand, energy expansion and Asia wealth momentum, but face distinct execution and market risks.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-25T13:38:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/healthcare/articles/3-insurers-focus-insurance-pricing-133800487.html"
-    },
-    {
-      "title": "Travelers builds its own LLM, cutting AI costs",
-      "summary": "The insurer built TravelersLLM to handle insurance-specific queries, while broad reasoning, research and coding queries are saved for frontier models.",
-      "pub_date": "2026-08-24T07:00:00Z",
-      "source": "CIO Dive",
-      "url": "https://finance.yahoo.com/technology/ai/articles/travelers-builds-own-llm-cutting-070000237.html"
     }
   ]
 }

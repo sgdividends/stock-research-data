@@ -1,7 +1,21 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-08-29T10:39:23.597116+00:00",
+  "generated_at": "2026-08-29T16:03:33.763334+00:00",
   "items": [
+    {
+      "title": "Wall Street is turning Nvidia's AI chips into a new futures market: Chart of the Day",
+      "summary": "AI spending keeps getting bigger \u2014 figuring out how to price it is still hard.",
+      "pub_date": "2026-08-29T11:51:18Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/wall-street-is-turning-nvidias-ai-chips-into-a-new-futures-market-chart-of-the-day-115118331.html"
+    },
+    {
+      "title": "Will CME\u2019s New Factor and Wind Power Futures Suite Change CME Group\u2019s (CME) Narrative?",
+      "summary": "CME Group recently broadened its derivatives lineup by announcing E-mini Equity Factor futures and financially settled Wind Power futures and options, aimed at giving investors more targeted tools for managing equity factor exposures and wind generation risk across major global regions. By moving into both factor-based equity contracts and weather-linked power instruments, CME Group is extending futures-style hedging into increasingly specialized corners of portfolio construction and the...",
+      "pub_date": "2026-08-29T12:11:51Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/options/articles/cme-factor-wind-power-futures-121151935.html"
+    },
     {
       "title": "White House teleprompter operator settles prediction market trading probe",
       "summary": "Investing.com -- A White House teleprompter operator has settled a federal probe into wagers made using advance knowledge of President Donald Trump\u2019s speeches, The Wall Street Journal reported Friday.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-28T16:09:08Z",
       "source": "Benzinga Prediction Markets",
       "url": "https://finance.yahoo.com/economy/policy/articles/fed-september-hike-odds-spike-160908230.html"
-    },
-    {
-      "title": "Analyzing CME Group\u2019s (CME) Stock Performance Amidst Market Volatility",
-      "summary": "Baron Capital, an investment management company, released its second-quarter 2026 investor letter for its \u201cBaron Financials ETF\u201d. A letter can be downloaded here. In the quarter ended June 30, 2026, Baron Financials ETF (the Fund) increased by 1.82%, underperforming both the MSCI USA Financials Index (up 8.93%) and the FactSet Global FinTech Index (up 6.14%). [\u2026]",
-      "pub_date": "2026-08-28T15:39:34Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/analyzing-cme-group-cme-stock-153934249.html"
-    },
-    {
-      "title": "Coinbase Global Stock: Paid Membership Set A Record While Trading Volumes Fell",
-      "summary": "A record paid membership in a falling market says the customers, at least, are not going anywhere.",
-      "pub_date": "2026-08-28T14:14:55Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-global-stock-paid-membership-141455723.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "NVDA",
-  "generated_at": "2026-08-29T10:39:53.387943+00:00",
+  "generated_at": "2026-08-29T16:04:14.989140+00:00",
   "items": [
+    {
+      "title": "Wall Street is turning Nvidia's AI chips into a new futures market: Chart of the Day",
+      "summary": "AI spending keeps getting bigger \u2014 figuring out how to price it is still hard.",
+      "pub_date": "2026-08-29T11:51:18Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/wall-street-is-turning-nvidias-ai-chips-into-a-new-futures-market-chart-of-the-day-115118331.html"
+    },
     {
       "title": "6 things investors need to watch in the week ahead",
       "summary": "Asking for a Trend Host, Josh Lipton, tees up the key events investors should watch in the week ahead, starting Monday, August 31, with earnings from Dell (DELL), Palo Alto Networks (PANW), Lululemon (LULU), and Snowflake. (SNOW) On Wednesday, Broadcom's (AVGO) results will offer another read on the AI trade. Then on Friday, investors will get the August jobs report, with economists expecting the unemployment rate to hold steady at 4.1%",
@@ -10,53 +17,46 @@
       "url": "https://finance.yahoo.com/video/6-things-investors-need-to-watch-in-the-week-ahead-210300637.html"
     },
     {
-      "title": "If a Bear Market Is Coming, History Says the Smartest Investors Are All Making This 1 Move Right Now",
-      "summary": "Experienced investors have learned to take advantage of market downturns by following this single rule.",
-      "pub_date": "2026-08-29T10:32:00Z",
+      "title": "Nvidia's CFO Just Explained Why the AI Boom Is Eating Its Gross Margin -- and It's a Green Light for Micron",
+      "summary": "Nvidia guided for a lower gross margin over the next two quarters.",
+      "pub_date": "2026-08-29T15:50:00Z",
       "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bear-market-coming-history-says-103200888.html"
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-cfo-just-explained-why-155000009.html"
     },
     {
-      "title": "If a Bear Market Is Coming, History Has Good News for Investors",
-      "summary": "Investors shouldn't fear the next market downturn.",
-      "pub_date": "2026-08-29T10:20:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bear-market-coming-history-good-102000573.html"
-    },
-    {
-      "title": "Billionaire Stanley Druckenmiller Has Roughly 17% of His $5.2 Billion Duquesne Portfolio in Natera Stock. Is It Still a Buy After an 80% Run?",
-      "summary": "The billionaire has good reasons to like this genetic testing leader.",
-      "pub_date": "2026-08-29T10:12:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-roughly-17-101200878.html"
-    },
-    {
-      "title": "Prediction: Tesla Stock Will Plummet Below $100 if the S&P 500 Enters a Bear Market",
-      "summary": "Tesla stock is vulnerable to a significant correction due to its lofty valuation.",
-      "pub_date": "2026-08-29T09:51:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-tesla-stock-plummet-below-095100925.html"
-    },
-    {
-      "title": "A Nationwide, Industry-Owned Blockchain Network for Banks Will Launch in 2027. Here's What Crypto Investors Need to Know.",
-      "summary": "Thirty-nine state banking associations are planning to build their own blockchain.",
-      "pub_date": "2026-08-29T09:50:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/nationwide-industry-owned-blockchain-network-095000054.html"
-    },
-    {
-      "title": "This \u201cBoring\u201d Vanguard Dividend ETF Is Quietly Beating the S&P 500 in 2026",
-      "summary": "Dividend ETFs spent a decade quietly losing ground to the S&P 500 for three very specific reasons. One of Vanguard's most overlooked funds may finally be turning that story on its head.",
-      "pub_date": "2026-08-29T09:41:04Z",
+      "title": "XRP\u2019s Price Is Halfway Back to $3. Here\u2019s What XRP Needs to Reclaim Its Old High",
+      "summary": "XRP buyers just delivered a 30% gain in August, but several layers of resistance still stand between the coin and its all-time high, and whether two major catalysts can break those barriers remains the critical question.",
+      "pub_date": "2026-08-29T15:44:28Z",
       "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/boring-vanguard-dividend-etf-quietly-094104958.html"
+      "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-price-halfway-back-3-154428564.html"
     },
     {
-      "title": "Just Hit $100,000 in Your Portfolio? Here's What I'd Do Next",
-      "summary": "Just because you've begun amassing real wealth doesn't mean you need to make radical changes to your portfolio.",
-      "pub_date": "2026-08-29T09:39:00Z",
+      "title": "The Next Palantir? 100 Federal Agencies Already Use Cloudflare, and It\u2019s Cleared For More",
+      "summary": "Cloudflare just cleared the government's highest civilian security bar, giving it access to contracts it was previously locked out of entirely. Whether that clearance turns into the kind of compounding federal revenue Palantir built depends on a template that has worked exactly once so far.",
+      "pub_date": "2026-08-29T15:35:44Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/next-palantir-100-federal-agencies-153544183.html"
+    },
+    {
+      "title": "Meta Continues to Trade Jobs for AI: Robots Are \u201cComing For Us All\u201d",
+      "summary": "Meta is quietly testing robots inside its data centers, and at least one employee believes physical workers are no longer safe from automation. The experiment hints at a much larger shift in how AI spending could reshape labor costs across the entire economy.",
+      "pub_date": "2026-08-29T15:31:52Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-continues-trade-jobs-ai-153152757.html"
+    },
+    {
+      "title": "Altman-Musk Feud Escalates as OpenAI Cuts Off Cursor Access After SpaceX Merger",
+      "summary": "The long-running dispute between OpenAI CEO Sam Altman and Elon Musk has simmered for years, rooted in Musk\u2019s exit from the AI lab he co-founded and his subsequent legal and public challenges over its direction. That rivalry just moved from boardroom barbs to operational consequences. On Friday, OpenAI cut off model access for Cursor after [\u2026]",
+      "pub_date": "2026-08-29T15:05:10Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/altman-musk-feud-escalates-openai-150510914.html"
+    },
+    {
+      "title": "Chevron's Microsoft Data Center Deal Was a Bigger Story Than Its Earnings. Here's Why.",
+      "summary": "Chevron is getting in on the AI boom with its recent long-term energy agreement with Microsoft.",
+      "pub_date": "2026-08-29T15:05:00Z",
       "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/just-hit-100-000-portfolio-093900285.html"
+      "url": "https://finance.yahoo.com/energy/articles/chevrons-microsoft-data-center-deal-150500998.html"
     }
   ]
 }

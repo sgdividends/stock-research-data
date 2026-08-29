@@ -1,6 +1,6 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-08-29T10:39:17.046007+00:00",
+  "generated_at": "2026-08-29T16:03:24.569956+00:00",
   "items": [
     {
       "title": "6 things investors need to watch in the week ahead",
@@ -8,6 +8,20 @@
       "pub_date": "2026-08-28T21:03:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/6-things-investors-need-to-watch-in-the-week-ahead-210300637.html"
+    },
+    {
+      "title": "Jim Cramer Sold 1 AI Chipmaker Over $80 Billion in Debt. But He Defended NVIDIA",
+      "summary": "Jim Cramer dumped one AI chipmaker over an $80 billion debt raise, then turned around and shrugged off the identical financing practice at NVIDIA. Whether that double standard holds up depends entirely on what NVIDIA reports after the bell tonight.",
+      "pub_date": "2026-08-29T14:00:06Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sold-1-ai-140006668.html"
+    },
+    {
+      "title": "VUG vs. VOOG Is Not a Fee Fight | How the Cheaper Vanguard Growth ETF Is Losing",
+      "summary": "Two nearly identical Vanguard growth ETFs are posting returns that differ by five full percentage points this year, and the cheaper one is losing. The reason has nothing to do with fees.",
+      "pub_date": "2026-08-29T13:53:18Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/vug-vs-voog-not-fee-135318978.html"
     },
     {
       "title": "How networking became the critical layer of AI",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-28T19:43:02Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/technology/articles/marvell-technology-issues-soft-quarterly-194302077.html"
-    },
-    {
-      "title": "Broadcom vs. AMD: Which AI Chip Stock Has the Better Risk-Reward?",
-      "summary": "Broadcom's stronger AI diversification and lower valuation give it an edge over AMD in risk-reward potential.",
-      "pub_date": "2026-08-28T19:00:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-vs-amd-ai-chip-190000795.html"
-    },
-    {
-      "title": "Broadcom's $16 Billion AI Quarter Faces the Marvell Timing Trap",
-      "summary": "Wednesday's earnings must prove custom-chip agreements can become current revenue without sacrificing Broadcom's exceptional cash conversion.",
-      "pub_date": "2026-08-28T17:10:54Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcoms-16-billion-ai-quarter-171054558.html"
     }
   ]
 }

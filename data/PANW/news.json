@@ -1,6 +1,6 @@
 {
   "ticker": "PANW",
-  "generated_at": "2026-08-29T10:39:55.329234+00:00",
+  "generated_at": "2026-08-29T16:04:17.634941+00:00",
   "items": [
     {
       "title": "Is now the time to buy software stocks?",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-28T16:06:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/now-time-buy-software-stocks-160600652.html"
+    },
+    {
+      "title": "CrowdStrike's AI bet just paid off in a big way",
+      "summary": "A blowout quarter sent shares soaring and made three Wall Street firms rethink what this stock is worth.",
+      "pub_date": "2026-08-29T14:37:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrikes-ai-bet-just-paid-143700769.html"
     },
     {
       "title": "Palo Alto Networks Stock Surged With The Whole Security Group",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-28T14:05:14Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/research/earnings-preview/dell-stock-earnings-snowflake-palo-alto-networks-software-earnings/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Palo Alto Networks Gets a $400 Target \u2014 But Earnings Need to Prove the AI Story",
-      "summary": "Ahead of the fourth-quarter fiscal 2026 report on September 1, Benchmark raised its price target on Palo Alto Networks, Inc. (NASDAQ:PANW) to $400 from $340 while maintaining a Buy rating. According to analyst Yi Fu Lee, PANW is positioned to exceed consensus expectations for next generation security annual recurring revenue, revenue, operating income and margin, [\u2026]",
-      "pub_date": "2026-08-28T11:15:53Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-gets-400-111553249.html"
     }
   ]
 }
