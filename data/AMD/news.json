@@ -1,6 +1,6 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-08-30T03:02:48.291529+00:00",
+  "generated_at": "2026-08-30T09:39:40.406481+00:00",
   "items": [
     {
       "title": "Intel vs. AMD: Why the Market Share Number Is Misleading",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-29T18:30:02Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/intel-vs-amd-why-market-183002932.html"
+    },
+    {
+      "title": "5 big analyst AI moves: Downgrades for SAP and Intuit; AMD lifted to Strong Buy",
+      "summary": "Investing.com -- Here are the biggest analyst moves in the area of artificial intelligence (AI) for this week.",
+      "pub_date": "2026-08-29T14:44:01Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/5-big-analyst-ai-moves-144401731.html"
     },
     {
       "title": "This AI Fund Is Crushing QQQ, and Nvidia Is Barely 2% of It",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-28T17:55:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/nvidia-amd-stocks-charts-technical-analysis-d4e77364?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "IREN Just Locked In $4 Billion in ARR \u2014 Wall Street Still Sees Only Losses",
-      "summary": "IREN signed enough AI cloud contracts to dwarf its reported revenue, yet shares collapsed after earnings. The reason why reveals a growing fault line between how Wall Street reads a balance sheet and how this company is actually building its business.",
-      "pub_date": "2026-08-28T16:19:20Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/iren-just-locked-4-billion-161920720.html"
     }
   ]
 }
