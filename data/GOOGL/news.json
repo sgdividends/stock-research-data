@@ -1,13 +1,34 @@
 {
   "ticker": "GOOGL",
-  "generated_at": "2026-08-29T22:11:22.144277+00:00",
+  "generated_at": "2026-08-30T03:03:11.410820+00:00",
   "items": [
+    {
+      "title": "Morgan Stanley delivers candid verdict after Elastic\u2019s stunning earnings",
+      "summary": "Here\u2019s what could happen to ESTC shares next.",
+      "pub_date": "2026-08-30T02:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-delivers-candid-verdict-020300588.html"
+    },
+    {
+      "title": "SK Hynix CEO Warns Memory Shortage Will Persist Through 2030 as Chipmaker Builds $4 Billion Indiana Fab",
+      "summary": "South Korean chipmaker SK Hynix said Thursday it will begin volume production of next-generation HBM4E chips at its Indiana facility in the third quarter of 2029, as CEO Kwak Noh-Jung warned the current memory shortage will persist through 2030. Billion-Dollar...",
+      "pub_date": "2026-08-30T01:30:49Z",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/technology/articles/sk-hynix-ceo-warns-memory-013049149.html"
+    },
     {
       "title": "Billionaire Stanley Druckenmiller Sold Broadcom and Bought These Artificial Intelligence (AI) Giants Instead",
       "summary": "Druckenmiller is shifting toward different parts of the AI compute supply chain.",
       "pub_date": "2026-08-29T20:20:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-stanley-druckenmiller-sold-broadcom-202000494.html"
+    },
+    {
+      "title": "Alphabet Stock: 3 Reasons to Buy Before It Hits a New All-Time High",
+      "summary": "AI is expanding the value of Google Search; subscriptions are adding a more predictable and diversified revenue stream.",
+      "pub_date": "2026-08-29T17:30:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-3-reasons-buy-173002809.html"
     },
     {
       "title": "VUG vs. VOOG Is Not a Fee Fight | How the Cheaper Vanguard Growth ETF Is Losing",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-29T12:00:21Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/research/best-stocks-seven-magnificent-stocks-earnings-growth/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "SpaceX vs. Alphabet: Which Is the Best Artificial Intelligence (AI) Stock to Buy Now?",
-      "summary": "SpaceX and Alphabet are a comparison that not many investors are making.",
-      "pub_date": "2026-08-29T08:20:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/technology/ai/articles/spacex-vs-alphabet-best-artificial-082000324.html"
-    },
-    {
-      "title": "How networking became the critical layer of AI",
-      "summary": "Investing.com -- Networking is replacing raw computing power as the main constraint on artificial intelligence performance as AI systems grow larger and more complex, Citi analysts said following the second day of the Hot Chips conference.",
-      "pub_date": "2026-08-29T07:16:54Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/networking-became-critical-layer-ai-071654651.html"
-    },
-    {
-      "title": "Google Bets Deutsche Bank Can Make AI Agents Work Inside a Global Bank\u2019s Compliance Framework",
-      "summary": "On August 25, 2026, Google Cloud officially launched Gemini Enterprise for Financial Services, moving its agentic AI strategy into the highly regulated territory of capital markets and corporate banking. The platform is now available in preview, marking a shift toward what Google hopes will be a more governed, audit-ready approach to workplace automation. At the [\u2026]",
-      "pub_date": "2026-08-29T07:00:22Z",
-      "source": "Forkast News",
-      "url": "https://finance.yahoo.com/technology/ai/articles/google-bets-deutsche-bank-ai-070022053.html"
     }
   ]
 }

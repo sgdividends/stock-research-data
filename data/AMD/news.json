@@ -1,7 +1,14 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-08-29T22:10:49.049104+00:00",
+  "generated_at": "2026-08-30T03:02:48.291529+00:00",
   "items": [
+    {
+      "title": "Intel vs. AMD: Why the Market Share Number Is Misleading",
+      "summary": "AMD crossed 30% in client CPUs, yet its bigger win over Intel is in the data center that actually drives profits.",
+      "pub_date": "2026-08-29T18:30:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-vs-amd-why-market-183002932.html"
+    },
     {
       "title": "This AI Fund Is Crushing QQQ, and Nvidia Is Barely 2% of It",
       "summary": "A niche AI fund with almost no Nvidia is somehow lapping QQQ by a massive margin, and the reason why reveals a blind spot most investors have about where AI profits actually come from.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-28T16:19:20Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/iren-just-locked-4-billion-161920720.html"
-    },
-    {
-      "title": "Why Is AMD Stock Sliding on Friday?",
-      "summary": "Advanced Micro Devices Inc (NASDAQ:AMD) stock fell nearly 1% on Friday as investors weighed new semiconductor tariff risks that could raise costs across chips, data center servers and other technology hardware. Tariff Uncertainty Adds Risk For AI Hardware The Trump administration is reportedly considering new semiconductor tariffs that could extend beyond chips to products containing semiconductors, including laptops, gaming consoles and data center servers. Commerce Secretary Howard Lutnick rep",
-      "pub_date": "2026-08-28T16:04:38Z",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-sliding-friday-160438236.html"
     }
   ]
 }

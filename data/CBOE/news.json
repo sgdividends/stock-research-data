@@ -1,7 +1,14 @@
 {
   "ticker": "CBOE",
-  "generated_at": "2026-08-29T22:10:58.674048+00:00",
+  "generated_at": "2026-08-30T03:02:54.732478+00:00",
   "items": [
+    {
+      "title": "Robinhood and Interactive Brokers Both Ride Retail Volume. Only One Earns on Idle Cash.",
+      "summary": "Record trading volumes are leading to strong earnings for Robinhood and IBKR, but will subscription revenues be the big long-term winner?",
+      "pub_date": "2026-08-30T02:35:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-interactive-brokers-both-ride-023500084.html"
+    },
     {
       "title": "What Options Traders Expect After Nvidia Earnings",
       "summary": "Options traders expect Nvidia\u2019s earnings report to cause swings in its stock.  The options market is pricing in a 5.4% swing, higher or lower, in Nvidia shares during the session following earnings, according to Option Research & Technology Services.  In recent days, some of the most actively-traded Nvidia options contracts were put options tied to the shares falling to $205 and $195 apiece, down from its Tuesday closing price of $213.05, according to Cboe Global Markets Data.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-15T09:09:47Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/investors-reacting-cboe-global-markets-090947542.html"
-    },
-    {
-      "title": "Cboe Global Strengthens Shareholder Returns With Dividend Hike",
-      "summary": "CBOE raises its dividend 19% as strong cash generation, balance-sheet flexibility and shareholder returns support its capital strategy.",
-      "pub_date": "2026-08-14T14:51:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cboe-global-strengthens-shareholder-returns-145100567.html"
     }
   ]
 }
