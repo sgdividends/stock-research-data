@@ -1,7 +1,14 @@
 {
   "ticker": "FSLR",
-  "generated_at": "2026-08-30T09:39:59.137610+00:00",
+  "generated_at": "2026-08-30T15:52:47.590712+00:00",
   "items": [
+    {
+      "title": "Street Calls of the Week",
+      "summary": "Monday - Chipotle Mexican Grill assumed, downgraded to Neutral with a $40 price target",
+      "pub_date": "2026-08-30T10:30:02Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/street-calls-week-103002740.html"
+    },
     {
       "title": "First Solar (FSLR) Looks Repriced As Policy Support Shapes A More Bullish Valuation View",
       "summary": "Recent share performance and valuation snapshot First Solar (FSLR) has drawn fresh attention after a period of mixed share performance, with the stock higher over the past month but lower across the past 3 months and year to date. At a last close of $204.46, First Solar carries a market value of about $22.6b. Recent annual figures show revenue of $5.38b and net income of $1.75b, which investors often use as starting points for further fundamental work. Across the year, First Solar\u2019s share...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-27T12:01:28Z",
       "source": "Benzinga",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-put-stock-away-120128401.html"
-    },
-    {
-      "title": "Why Are ENPH, FSLR, ARRY, SEDG Stocks Rising Overnight?",
-      "summary": "On Wednesday, U.S. President Donald Trump signed an emergency order to ban the American purchase or installation of certain foreign, bulk-power system electrical equipment, and associated software.",
-      "pub_date": "2026-08-27T02:03:39Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-enph-fslr-arry-sedg-020339213.html"
     }
   ]
 }

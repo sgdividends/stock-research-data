@@ -1,7 +1,14 @@
 {
   "ticker": "CMG",
-  "generated_at": "2026-08-30T09:39:48.218202+00:00",
+  "generated_at": "2026-08-30T15:52:30.132259+00:00",
   "items": [
+    {
+      "title": "Street Calls of the Week",
+      "summary": "Monday - Chipotle Mexican Grill assumed, downgraded to Neutral with a $40 price target",
+      "pub_date": "2026-08-30T10:30:02Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/street-calls-week-103002740.html"
+    },
     {
       "title": "The $37 Billion Consolation Prize For MCD Shareholders",
       "summary": "The fast-food giant showered its owners with cash, yet the stock fell far behind the market. Here\u2019s the accounting of what that trade-off actually bought.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-27T11:55:13Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-115513636.html"
-    },
-    {
-      "title": "Chipotle CEO Scott Boatwright offloaded $1.1M in stock \u2014 but it wasn't a bearish signal for investors",
-      "summary": "Scott Boatwright \u2018selling\u2019 $1.1 million in shares isn\u2019t necessarily bad news for investors. Learn about this recent Chipotle SEC filing and how to better scrutinize insider stock sales.",
-      "pub_date": "2026-08-27T09:45:00Z",
-      "source": "Moneywise",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/chipotle-ceo-scott-boatwright-offloaded-094500742.html"
     }
   ]
 }

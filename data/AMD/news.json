@@ -1,7 +1,28 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-08-30T09:39:40.406481+00:00",
+  "generated_at": "2026-08-30T15:52:17.388228+00:00",
   "items": [
+    {
+      "title": "Nvidia Just Delivered Bad News for AMD and Intel",
+      "summary": "Nvidia announced stellar second-quarter results, but one number is particularly bad news for some of its chip competitors.",
+      "pub_date": "2026-08-30T15:42:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-delivered-bad-news-154200130.html"
+    },
+    {
+      "title": "Broadcom or AMD? Here's Why the Market Is Pricing the Same AI Boom So Differently Across 2 Chip Stocks.",
+      "summary": "Broadcom is a steady AI infrastructure bet, while AMD offers higher-risk, higher-reward potential as it challenges Nvidia in AI chips.",
+      "pub_date": "2026-08-30T12:40:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-amd-heres-why-market-124000112.html"
+    },
+    {
+      "title": "Street Calls of the Week",
+      "summary": "Monday - Chipotle Mexican Grill assumed, downgraded to Neutral with a $40 price target",
+      "pub_date": "2026-08-30T10:30:02Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/street-calls-week-103002740.html"
+    },
     {
       "title": "Intel vs. AMD: Why the Market Share Number Is Misleading",
       "summary": "AMD crossed 30% in client CPUs, yet its bigger win over Intel is in the data center that actually drives profits.",
@@ -17,6 +38,13 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/5-big-analyst-ai-moves-144401731.html"
     },
     {
+      "title": "MarketBeat Week in Review \u2013 08/24 - 08/28",
+      "summary": "MarketBeat analysts recap a mixed earnings week, covering AI infrastructure demand, retail's K-shaped consumer trends, Meta's $18 billion settlement, and stock picks across tech, biotech, and retail sectors.",
+      "pub_date": "2026-08-29T11:00:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-08-24-110000738.html"
+    },
+    {
       "title": "This AI Fund Is Crushing QQQ, and Nvidia Is Barely 2% of It",
       "summary": "A niche AI fund with almost no Nvidia is somehow lapping QQQ by a massive margin, and the reason why reveals a blind spot most investors have about where AI profits actually come from.",
       "pub_date": "2026-08-28T21:05:17Z",
@@ -29,34 +57,6 @@
       "pub_date": "2026-08-28T20:17:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/history-says-nasdaq-100-does-201700725.html"
-    },
-    {
-      "title": "Broadcom vs. AMD: Which AI Chip Stock Has the Better Risk-Reward?",
-      "summary": "Broadcom's stronger AI diversification and lower valuation give it an edge over AMD in risk-reward potential.",
-      "pub_date": "2026-08-28T19:00:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-vs-amd-ai-chip-190000795.html"
-    },
-    {
-      "title": "ARM's Expanding AI Growth Opportunity Goes Beyond Market Hype",
-      "summary": "Arm Holdings' AI opportunity spans data centers, devices and custom silicon, supported by its royalty model and energy-efficient processor architecture.",
-      "pub_date": "2026-08-28T18:30:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/arms-expanding-ai-growth-opportunity-183000282.html"
-    },
-    {
-      "title": "NVIDIA (NVDA)\u2019s Real Advantage Isn\u2019t Chips Anymore. It\u2019s Money",
-      "summary": "CNBC reported on August 18, 2026, that NVIDIA Corporation (NASDAQ:NVDA) agreed within the same week to a $500 billion financing pact with major Wall Street firms and up to $105 billion in support for an OpenAI data center in Ohio as rivals AMD and Google chip away at its once-dominant technology lead. Why This Matters [\u2026]",
-      "pub_date": "2026-08-28T18:07:00Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-real-advantage-isn-180700556.html"
-    },
-    {
-      "title": "Nvidia vs. AMD: The Charts Point to a Clear Winner",
-      "summary": "Nvidia, the world\u2019s largest company, began outperforming rival Advanced Micro Devices in early July.",
-      "pub_date": "2026-08-28T17:55:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/nvidia-amd-stocks-charts-technical-analysis-d4e77364?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
