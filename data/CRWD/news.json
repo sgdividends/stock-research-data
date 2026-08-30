@@ -1,13 +1,27 @@
 {
   "ticker": "CRWD",
-  "generated_at": "2026-08-30T18:59:19.921570+00:00",
+  "generated_at": "2026-08-30T22:18:31.676705+00:00",
   "items": [
     {
-      "title": "Dow Jones Futures Due Amid Bullish, Bearish Market Signals. What To Do Now.",
+      "title": "Dow Jones Futures Fall Amid Bullish, Bearish Market Signals. What To Do Now.",
       "summary": "Microsoft and other titans lifted the major indexes for the week, masking declines for small caps and many sectors as yields jump.",
-      "pub_date": "2026-08-30T13:28:30Z",
+      "pub_date": "2026-08-30T22:07:18Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-microsoft-titans-mask-market-weakness/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "CrowdStrike Just Lit a Fire Under Cybersecurity Stocks. Is Palo Alto Networks Next?",
+      "summary": "CrowdStrike just posted its best quarter ever and sent cybersecurity stocks surging, but history shows Palo Alto Networks has a nasty habit of falling on strong earnings reports, and the buy side has already baked in a beat.",
+      "pub_date": "2026-08-30T21:15:20Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-just-lit-fire-under-211520650.html"
+    },
+    {
+      "title": "Is It Too Late to Buy CrowdStrike Stock After Its 20% Surge?",
+      "summary": "CrowdStrike shares surged after a strong earnings report.",
+      "pub_date": "2026-08-30T19:00:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/too-buy-crowdstrike-stock-20-190000185.html"
     },
     {
       "title": "Morgan Stanley resets CrowdStrike stock price target after earnings",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-29T08:15:01Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-best-quarter-company-history-081501397.html"
-    },
-    {
-      "title": "CrowdStrike Just Had Its Best Quarter Ever, and I'm Not Buying the Stock at 43 Times Revenue",
-      "summary": "Record new business, record second-quarter cash flow, raised guidance -- and a price that already assumes years more of all three.",
-      "pub_date": "2026-08-28T23:01:02Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-just-had-best-quarter-230102677.html"
-    },
-    {
-      "title": "What Is CrowdStrike Holdings (CRWD) Adding With Its New AI Governance Integration?",
-      "summary": "CrowdStrike Holdings (NasdaqGS:CRWD) and Theta Lake announced a new AI governance telemetry integration for the CrowdStrike Falcon Next-Gen SIEM platform. The integration allows security teams to correlate AI interaction data with broader security events and workflows. Organizations can apply automated retention policies to AI interaction records to support oversight and compliance needs. The new capability targets rising enterprise demand for tools that manage AI risk within existing...",
-      "pub_date": "2026-08-28T21:07:08Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-holdings-crwd-adding-ai-210708628.html"
     }
   ]
 }

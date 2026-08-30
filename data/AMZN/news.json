@@ -1,7 +1,21 @@
 {
   "ticker": "AMZN",
-  "generated_at": "2026-08-30T18:59:05.864878+00:00",
+  "generated_at": "2026-08-30T22:18:17.209385+00:00",
   "items": [
+    {
+      "title": "This Newly Public Nuclear IPO Is Already Using AI to Speed Up Reactor Design. Is It a Buy?",
+      "summary": "AI could accelerate X-Energy's path toward commercial nuclear power.",
+      "pub_date": "2026-08-30T20:25:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/newly-public-nuclear-ipo-already-202500169.html"
+    },
+    {
+      "title": "Marvell Wins Wall Street. Google Bets $12 Billion. Amazon Fears Fade.",
+      "summary": "Marvell is emerging as a key supplier to the biggest AI cloud companies, with new Google and Amazon deals strengthening its case for a major custom-chip opportunity.",
+      "pub_date": "2026-08-30T14:45:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-wins-wall-street-google-144502254.html"
+    },
     {
       "title": "Amazon Has Badly Underperformed the S&P 500 and Nasdaq-100 Since Jeff Bezos Stepped Down as CEO. Could Apple Do the Same Starting Sept. 1 When Tim Cook Steps Down?",
       "summary": "Tim Cook has set Apple's course at a pivotal time, and now he's walking away.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-29T23:45:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/media-advertising/articles/amazons-200-ring-doorbell-camera-234500895.html"
-    },
-    {
-      "title": "Billionaire Stanley Druckenmiller Sold Broadcom and Bought These Artificial Intelligence (AI) Giants Instead",
-      "summary": "Druckenmiller is shifting toward different parts of the AI compute supply chain.",
-      "pub_date": "2026-08-29T20:20:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-stanley-druckenmiller-sold-broadcom-202000494.html"
-    },
-    {
-      "title": "Amazon.com (AMZN) Triples AI Chip Orders As Robotaxi Supplier Network Expands",
-      "summary": "Amazon.com (NasdaqGS: AMZN) is expanding its partnership with Nvidia and has moved to triple its orders of Nvidia GPU chips to support rising demand for AI workloads on Amazon Web Services and internal projects. The expanded Nvidia deal reflects Amazon's continued use of third party GPUs alongside its own proprietary chip efforts for AI infrastructure. Separately, LG Innotek has been selected to supply advanced camera modules for Zoox's autonomous robotaxi, a company backed by Amazon. The LG...",
-      "pub_date": "2026-08-29T18:09:50Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-com-amzn-triples-ai-180950072.html"
     }
   ]
 }
