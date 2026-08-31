@@ -1,62 +1,62 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-08-31T10:21:27.630072+00:00",
+  "generated_at": "2026-08-31T18:36:40.057617+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Softer Monday Afternoon",
+      "summary": "Financial stocks were lower in Monday afternoon trading, with the NYSE Financial Index decreasing 0.",
+      "pub_date": "2026-08-31T17:51:34Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-softer-monday-175134875.html"
+    },
+    {
+      "title": "Top 3 Crypto & Blockchain Stocks to Watch as Crypto Demand Accelerates",
+      "summary": "Figure Technology Solutions, BlackRock and Block span tokenized markets, crypto products and bitcoin payments as digital finance adoption expands.",
+      "pub_date": "2026-08-31T17:22:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/top-3-crypto-blockchain-stocks-172200661.html"
+    },
+    {
+      "title": "Bitcoin Gets $924 Million Boost but Hits Major Wall",
+      "summary": "Heavy fund demand has yet to trigger a breakout",
+      "pub_date": "2026-08-31T15:31:52Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-gets-924-million-boost-153152710.html"
+    },
+    {
+      "title": "Nvidia Investing $3.5 Billion in MediaTek, Partners on NVLink Fusion Platform",
+      "summary": "Nvidia (NVDA) expanded its partnership with chip designer MediaTek, including a $3.5 billion investm",
+      "pub_date": "2026-08-31T15:04:38Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-investing-3-5-billion-150438390.html"
+    },
+    {
+      "title": "Should You Invest in the iShares U.S. Financials ETF (IYF)?",
+      "summary": "Sector ETF report for IYF",
+      "pub_date": "2026-08-31T10:20:02Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/invest-ishares-u-financials-etf-102002090.html"
+    },
+    {
+      "title": "Should You Invest in the iShares U.S. Financial Services ETF (IYG)?",
+      "summary": "Sector ETF report for IYG",
+      "pub_date": "2026-08-31T10:20:02Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/invest-ishares-u-financial-services-102002358.html"
+    },
+    {
+      "title": "Should iShares S&P Small-Cap 600 Growth ETF (IJT) Be on Your Investing Radar?",
+      "summary": "Style Box ETF report for IJT",
+      "pub_date": "2026-08-31T10:20:02Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-p-small-cap-600-102002136.html"
+    },
     {
       "title": "CLARITY Act Lags as Bitcoin ETFs Slip",
       "summary": "U.S. spot Bitcoin ETFs turned negative at the end of last week, ending a nine-day inflow streak that had brought in a total of $2.8 billion. Meanwhile, Robert Mitchnick, BlackRock\u2019s head of digital assets, said the CLARITY Act is less critical for Bitcoin than for the rest of the crypto ...",
       "pub_date": "2026-08-31T09:20:29Z",
       "source": "Cryptonews",
       "url": "https://finance.yahoo.com/markets/crypto/articles/clarity-act-lags-bitcoin-etfs-092029191.html"
-    },
-    {
-      "title": "Bitcoin ETFs Pulled In Near $1 Billion Last Week, So Why Is BTC Stuck Below $80,000?",
-      "summary": "Bitcoin ETFs pulled in $924 million last week, yet BTC remains stuck below $80,000 as traders eye the Fed.",
-      "pub_date": "2026-08-31T06:40:00Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-pulled-near-1-064000785.html"
-    },
-    {
-      "title": "BlackRock's BUIDL Reclaims Top Spot for Tokenized Treasuries, Bolstering RWA Market",
-      "summary": "BlackRock's BUIDL fund has retaken the lead in tokenized US Treasuries with a $2.8 billion market cap, edging out Circle's USYC.",
-      "pub_date": "2026-08-31T03:04:29Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/blackrocks-buidl-reclaims-top-spot-030429087.html"
-    },
-    {
-      "title": "According to BlackRock, Bitcoin Is Still a Great Portfolio Diversifier. So How Much Bitcoin Should You Be Holding in Your Portfolio?",
-      "summary": "Even if you're bullish on Bitcoin, it still shouldn't take up much of your portfolio.",
-      "pub_date": "2026-08-30T23:50:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/according-blackrock-bitcoin-still-great-235000591.html"
-    },
-    {
-      "title": "BlackRock's Exec Says CLARITY Act Is 'Less Critical' for Bitcoin Other Cryptos",
-      "summary": "BlackRock\u2019s head of digital assets Robert Mitchnick told CNBC Wednesday that the CLARITY Act is \u201cless critical\u201d for Bitcoin than for the rest of crypto. What Mitchnick Said About Bitcoin and Regulation Bitcoin has already achieved a level of regulatory...",
-      "pub_date": "2026-08-30T21:31:30Z",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/blackrocks-exec-says-clarity-act-213130929.html"
-    },
-    {
-      "title": "Is Bitcoin a 'Buy' Right Now? BlackRock Slashes ETF Swap Minimum 96% From $25M to $1M",
-      "summary": "BlackRock has cut the minimum Bitcoin-to-IBIT in-kind conversion from $25 million to $1 million, a 96% reduction. IBIT has already processed more than $5 billion ...",
-      "pub_date": "2026-08-29T15:02:15Z",
-      "source": "CCN",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-buy-now-blackrock-slashes-150215484.html"
-    },
-    {
-      "title": "ETHB Emerges as a Favorite Among Ethereum ETFs",
-      "summary": "<p>BlackRock's newest Ethereum fund is gathering assets quickly.\u00a0</p>",
-      "pub_date": "2026-08-29T04:41:29Z",
-      "source": "etf.com",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/ethb-emerges-favorite-among-ethereum-044129802.html"
-    },
-    {
-      "title": "BlackRock (BLK) Hands Off Jessup Power Plant Control As Data Center Demand Climbs",
-      "summary": "BlackRock (NYSE:BLK) has agreed to sell a majority stake in the Jessup power plant to Equinor, transferring control of the asset from a BlackRock subsidiary. The deal comes as electricity demand from regional data centers rises and pushes utilities and investors to secure dependable power sources. The transaction highlights BlackRock's current focus on reshaping its infrastructure portfolio around energy assets linked to digital and AI growth. Equinor's entry as the lead owner of Jessup...",
-      "pub_date": "2026-08-29T03:09:31Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/energy/articles/blackrock-blk-hands-off-jessup-030931257.html"
     }
   ]
 }

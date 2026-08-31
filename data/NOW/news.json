@@ -1,7 +1,21 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-08-31T10:22:02.027662+00:00",
+  "generated_at": "2026-08-31T18:37:19.282531+00:00",
   "items": [
+    {
+      "title": "Salesforce Stock Repriced A Fear, Not A Forecast",
+      "summary": "Most of the increase in the full-year outlook comes from two deals that have not closed, so the jump says more about what investors stopped believing than about what changed in the numbers.",
+      "pub_date": "2026-08-31T16:36:29Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-stock-repriced-fear-not-163629809.html"
+    },
+    {
+      "title": "ServiceNow Vs. Salesforce: Who\u2019s Better Positioned to Capitalize on AI?",
+      "summary": "ServiceNow and Salesforce both posted AI-fueled earnings and both claim the future of enterprise automation, but they are attacking the problem from opposite ends of the stack, and only one positioning survives when agentic consumption scales.",
+      "pub_date": "2026-08-31T12:42:01Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-vs-salesforce-better-positioned-124201104.html"
+    },
     {
       "title": "TEAM Stock Heads For Best Month Ever As Software Stocks Swing From \u2018SaaSpocalypse\u2019 To Full Revival In One Month",
       "summary": "Strong quarterly results from Atlassian and a few other major SaaS firms are forcing investors to rethink the \u201cSaaSpocalypse\u201d thesis.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-28T15:07:53Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/leadership-shuffle-globant-ai-unit-150753370.html"
-    },
-    {
-      "title": "Our Palantir Price Target Is Higher Than Wall Street\u2019s",
-      "summary": "Wall Street has a consensus target for Palantir, and we think analysts are leaving real money on the table. Here is what the sovereign AI trade reveals that the Street's models keep missing.",
-      "pub_date": "2026-08-28T14:00:20Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-price-target-higher-wall-140020223.html"
-    },
-    {
-      "title": "Is It Worth Investing in ServiceNow (NOW) Based on Wall Street's Bullish Views?",
-      "summary": "The average brokerage recommendation (ABR) for ServiceNow (NOW) is equivalent to a Buy. The overly optimistic recommendations of Wall Street analysts make the effectiveness of this highly sought-after metric questionable. So, is it worth buying the stock?",
-      "pub_date": "2026-08-28T13:30:02Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/worth-investing-servicenow-now-based-133002028.html"
     }
   ]
 }

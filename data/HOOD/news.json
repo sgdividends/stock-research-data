@@ -1,7 +1,21 @@
 {
   "ticker": "HOOD",
-  "generated_at": "2026-08-31T10:21:47.831667+00:00",
+  "generated_at": "2026-08-31T18:37:03.962632+00:00",
   "items": [
+    {
+      "title": "Zacks Investment Ideas feature highlights: Salesforce, Cisco, Dell, Uber and Robinhood",
+      "summary": "Salesforce's AI momentum, stronger cash flow and raised guidance fuel its post-earnings rally, but investment gains cloud the EPS picture.",
+      "pub_date": "2026-08-31T15:15:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-151500562.html"
+    },
+    {
+      "title": "Robinhood Chain Hits Record $874.8 Million Volume \u2014 Are Meme Coins Back?",
+      "summary": "Robinhood Chain set a record $874.8 million DEX day on August 30 as PONS trading extended the chain's meme coin run.",
+      "pub_date": "2026-08-31T10:07:25Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/robinhood-chain-hits-record-874-100725632.html"
+    },
     {
       "title": "Robinhood and Interactive Brokers Both Ride Retail Volume. Only One Earns on Idle Cash.",
       "summary": "Record trading volumes are leading to strong earnings for Robinhood and IBKR, but will subscription revenues be the big long-term winner?",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-28T20:15:28Z",
       "source": "Quartz",
       "url": "https://finance.yahoo.com/markets/options/articles/ninth-circuit-rules-states-regulate-201528091.html"
-    },
-    {
-      "title": "Update: Market Chatter: Robinhood, Kalshi, Crypto.com Lose Appeals for Injunctive Relief Against Nevada Gaming Control Board",
-      "summary": "(Updates with responses from Robinhood and Kalshi in the fourth and fifth paragraphs.) Robinhood",
-      "pub_date": "2026-08-28T20:07:08Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/market-chatter-robinhood-kalshi-crypto-200708490.html"
-    },
-    {
-      "title": "Market Chatter: Robinhood, Kalshi, Crypto.com Lose Appeals for Injunctive Relief Against Nevada Gaming Control Board",
-      "summary": "Robinhood Markets (HOOD), Kalshi and Crypto.com's requests for injunctive relief against the Nevada",
-      "pub_date": "2026-08-28T19:54:23Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/options/articles/market-chatter-robinhood-kalshi-crypto-195423946.html"
     }
   ]
 }

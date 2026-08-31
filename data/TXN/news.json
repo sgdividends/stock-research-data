@@ -1,7 +1,21 @@
 {
   "ticker": "TXN",
-  "generated_at": "2026-08-31T10:22:16.467285+00:00",
+  "generated_at": "2026-08-31T18:37:35.370293+00:00",
   "items": [
+    {
+      "title": "The TPU Mix Is Thinning Broadcom's Gross Margin, Not Its Profit",
+      "summary": "The mix shift toward custom AI silicon is pulling Broadcom's gross margin lower while its operating margin has gone the other way, and that gap is the case for the stock.",
+      "pub_date": "2026-08-31T15:49:46Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tpu-mix-thinning-broadcoms-gross-154946679.html"
+    },
+    {
+      "title": "Vicor Rides on Strong Backlog Growth: Can It Beat ADI & TXN?",
+      "summary": "VICR's $380M backlog and surging ATE demand support growth, but rising pressure from Analog Devices and Texas Instruments clouds the outlook.",
+      "pub_date": "2026-08-31T15:46:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/vicor-rides-strong-backlog-growth-154600790.html"
+    },
     {
       "title": "SCHD Is Up Nearly 30% and Its Yield Is Back Near 3% | Did Dividend Investors Miss the Easy Money?",
       "summary": "SCHD just delivered a return most dividend investors spend a decade waiting for, and that success created a problem nobody predicted. Whether fresh money belongs in the fund right now depends on a tradeoff that long-term holders never had to face.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-27T15:09:09Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-txn-stock-may-150909085.html"
-    },
-    {
-      "title": "Broadcom Looks Expensive Until You Price The Order Book",
-      "summary": "What looks like a valuation argument is really a delivery schedule with named customers attached, plus one assumption about margins.",
-      "pub_date": "2026-08-27T13:44:34Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-looks-expensive-until-price-134434255.html"
-    },
-    {
-      "title": "Qualcomm's Costs Are Inside The Guidance And Its Replacement Growth Is Not",
-      "summary": "The company nearly doubled its long-term non-handset target in June, while a faster Apple exit and a cost squeeze went straight into the near-term numbers.",
-      "pub_date": "2026-08-26T17:53:06Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomms-costs-inside-guidance-replacement-175306374.html"
     }
   ]
 }

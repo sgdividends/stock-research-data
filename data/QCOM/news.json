@@ -1,7 +1,49 @@
 {
   "ticker": "QCOM",
-  "generated_at": "2026-08-31T10:22:08.047475+00:00",
+  "generated_at": "2026-08-31T18:37:26.283948+00:00",
   "items": [
+    {
+      "title": "Wall Street May Be Sleeping on This Massive AI CPU Opportunity",
+      "summary": "Arm has quietly captured the CPU backbone of the AI data center buildout, yet its current price tells a strikingly different story than its growth numbers do. Here is what Wall Street keeps missing.",
+      "pub_date": "2026-08-31T16:00:13Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-may-sleeping-massive-160013910.html"
+    },
+    {
+      "title": "The TPU Mix Is Thinning Broadcom's Gross Margin, Not Its Profit",
+      "summary": "The mix shift toward custom AI silicon is pulling Broadcom's gross margin lower while its operating margin has gone the other way, and that gap is the case for the stock.",
+      "pub_date": "2026-08-31T15:49:46Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tpu-mix-thinning-broadcoms-gross-154946679.html"
+    },
+    {
+      "title": "Intel Stock Is Paying Now For Revenue Due Later",
+      "summary": "Intel's capital spending keeps climbing while outside customers still contribute almost none of the foundry's revenue, and that gap is the main risk in the stock.",
+      "pub_date": "2026-08-31T14:51:04Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-paying-now-revenue-145104013.html"
+    },
+    {
+      "title": "The Floor Under Micron's Worst Case Is Written Into Its Contracts, Not Memory Prices",
+      "summary": "The take-or-pay agreements that bears read as a cap on upside are the same ones that put a priced floor under Micron's worst case.",
+      "pub_date": "2026-08-31T13:52:02Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/floor-under-microns-worst-case-135202920.html"
+    },
+    {
+      "title": "Qualcomm vs. Sandisk: Comparing Gradual Revenue Contraction Against Rapid Revenue Acceleration",
+      "summary": "Qualcomm's revenue has declined over two years while Sandisk's surged nearly 5x, narrowing a once-massive gap.",
+      "pub_date": "2026-08-31T12:52:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-vs-sandisk-comparing-gradual-125201230.html"
+    },
+    {
+      "title": "How Is QUALCOMM's Stock Performance Compared to Other Semiconductor Stocks?",
+      "summary": "Despite QUALCOMM's underperformance relative to its industry peers over the past year, Wall Street analysts maintain a moderately optimistic outlook on the stock\u2019s prospects.",
+      "pub_date": "2026-08-31T11:46:24Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomms-stock-performance-compared-other-114624562.html"
+    },
     {
       "title": "SCHD Is Up Nearly 30% and Its Yield Is Back Near 3% | Did Dividend Investors Miss the Easy Money?",
       "summary": "SCHD just delivered a return most dividend investors spend a decade waiting for, and that success created a problem nobody predicted. Whether fresh money belongs in the fund right now depends on a tradeoff that long-term holders never had to face.",
@@ -15,48 +57,6 @@
       "pub_date": "2026-08-28T16:42:28Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-qcom-moving-beyond-164228903.html"
-    },
-    {
-      "title": "Qualcomm (QCOM) Up 8.7% Since Last Earnings Report: Can It Continue?",
-      "summary": "Qualcomm (QCOM) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
-      "pub_date": "2026-08-28T15:30:29Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-8-7-since-153029363.html"
-    },
-    {
-      "title": "Advanced Micro Devices Stock Ran The Roadmap It Had Already Published",
-      "summary": "The rack platform and the server line behind the run were both named in the company's own calls before the stock moved.",
-      "pub_date": "2026-08-28T15:07:08Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-stock-ran-150708131.html"
-    },
-    {
-      "title": "Tobii AB (TBIIF) (Q2 2026) Earnings Call Highlights: Strategic Pivots and AutoSense Momentum ...",
-      "summary": "Despite a 46% revenue decline, Tobii AB (TBIIF) posts strong gross margins and AutoSense growth, while navigating a strained cash position and restructuring efforts.",
-      "pub_date": "2026-08-28T15:01:26Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tobii-ab-tbiif-q2-2026-150126561.html"
-    },
-    {
-      "title": "Intel's Comeback Is Being Paid For By Intel",
-      "summary": "Intel's factories are still losing money on wafers they mostly sell to Intel, and the stock's multiple likely assumes that changes.",
-      "pub_date": "2026-08-28T14:54:36Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intels-comeback-being-paid-intel-145436109.html"
-    },
-    {
-      "title": "Vietnam urges Qualcomm, Samsung to deepen AI, chip investment as it seeks tech upgrade",
-      "summary": "HANOI, August 28 (Reuters) - Vietnamese leaders have urged U.S. chip designer Qualcomm and South Korea's Samsung Electronics to expand their investment in artificial intelligence, semiconductors and",
-      "pub_date": "2026-08-28T03:53:24Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/ai/articles/vietnam-urges-qualcomm-samsung-deepen-035324366.html"
-    },
-    {
-      "title": "What Does Applied Materials (AMAT) Gain From Its New Board Appointment?",
-      "summary": "Applied Materials (NasdaqGS: AMAT) has appointed Akash Palkhiwala, CFO and COO of Qualcomm, to its Board of Directors and Audit Committee. Palkhiwala brings senior finance and operations experience from a major semiconductor company to Applied Materials' board. The board appointment reflects a focus on semiconductor industry expertise during a period of sector disruption and growth. For readers looking to explore more companies tied to the build out of chip capacity and related compute...",
-      "pub_date": "2026-08-27T22:13:44Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-applied-materials-amat-gain-221344664.html"
     }
   ]
 }

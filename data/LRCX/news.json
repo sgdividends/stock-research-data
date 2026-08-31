@@ -1,7 +1,14 @@
 {
   "ticker": "LRCX",
-  "generated_at": "2026-08-31T10:21:55.832082+00:00",
+  "generated_at": "2026-08-31T18:37:12.576472+00:00",
   "items": [
+    {
+      "title": "Does ASML's Dominant Position in EUV Signal Further Upside?",
+      "summary": "ASML's EUV dominance, rising AI chip demand and High-NA systems position it to capitalize on the semiconductor investment cycle.",
+      "pub_date": "2026-08-31T16:05:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/does-asmls-dominant-position-euv-160500592.html"
+    },
     {
       "title": "Top 10 S&P 500 Stocks of the Past Decade Share One Clear Theme",
       "summary": "Nine of the decade's best-performing S&P 500 stocks trace their gains to AI chips, networking, and data center demand.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-27T15:04:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/crwd-q2-earnings-beat-estimates-150400518.html"
-    },
-    {
-      "title": "NVIDIA Q2 Earnings Beat on Blackwell Ultra & Data Center Strength",
-      "summary": "NVDA's Q2 results top expectations as Blackwell Ultra fuels record Data Center growth, while Vera Rubin is set to gain prominence in Q3.",
-      "pub_date": "2026-08-27T14:45:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-q2-earnings-beat-blackwell-144500017.html"
     }
   ]
 }

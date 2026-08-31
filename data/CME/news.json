@@ -1,7 +1,14 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-08-31T10:21:31.608784+00:00",
+  "generated_at": "2026-08-31T18:36:44.648362+00:00",
   "items": [
+    {
+      "title": "Best Leveraged ETFs of Last Week",
+      "summary": "Leveraged ETFs surged last week as strong earnings lifted Salesforce and Okta, while declines in AXT and D-Wave boosted inverse ETFs.",
+      "pub_date": "2026-08-31T12:00:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/options/articles/best-leveraged-etfs-last-week-120000706.html"
+    },
     {
       "title": "Will CME\u2019s New Factor and Wind Power Futures Suite Change CME Group\u2019s (CME) Narrative?",
       "summary": "CME Group recently broadened its derivatives lineup by announcing E-mini Equity Factor futures and financially settled Wind Power futures and options, aimed at giving investors more targeted tools for managing equity factor exposures and wind generation risk across major global regions. By moving into both factor-based equity contracts and weather-linked power instruments, CME Group is extending futures-style hedging into increasingly specialized corners of portfolio construction and the...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-28T16:55:01Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/economy/policy/articles/fed-chair-kevin-warsh-expresses-165501465.html"
-    },
-    {
-      "title": "Fed September Hike Odds Spike to 59% After Warsh\u2019s Hawkish Jackson Hole Speech",
-      "summary": "Federal Reserve rate-hike odds spiked Friday after Chairman Kevin Warsh delivered a hawkish Jackson Hole message: inflation remains too high, the labor market is effectively at full employment and financial conditions may not be restraining the economy much at all....",
-      "pub_date": "2026-08-28T16:09:08Z",
-      "source": "Benzinga Prediction Markets",
-      "url": "https://finance.yahoo.com/economy/policy/articles/fed-september-hike-odds-spike-160908230.html"
     }
   ]
 }
