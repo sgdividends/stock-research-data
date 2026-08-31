@@ -1,7 +1,14 @@
 {
   "ticker": "UBER",
-  "generated_at": "2026-08-30T22:19:27.589955+00:00",
+  "generated_at": "2026-08-31T02:57:47.497203+00:00",
   "items": [
+    {
+      "title": "Uber Spent Its Entire 2026 AI Budget in 4 Months. It Just Found a Way to Fix It.",
+      "summary": "Uber has increased AI usage more than ninefold while keeping spending flat, showing how falling costs could turn AI into a margin booster.",
+      "pub_date": "2026-08-30T19:30:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/technology/ai/articles/uber-spent-entire-2026-ai-193002803.html"
+    },
     {
       "title": "Uber (UBER) Stock May Still Look Reasonable As Takeover Offer Lands",
       "summary": "Uber Technologies stock has delivered a return of 95.5% over the past five years, yet current valuation checks still point to a company that screens as relatively cheap rather than stretched. Recent share price moves have been mixed over shorter periods, which keeps the question open for you as to whether the current level offers enough compensation for the risks around regulation, competition and execution. Over five years the stock has gained 95.5%, which means anyone looking at Uber...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-28T00:15:04Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/articles/uber-uber-966-million-fine-001504395.html"
-    },
-    {
-      "title": "Uber's AI Usage Jumped 9.4x Without Sending Costs Higher",
-      "summary": "The company is scaling AI agents while cutting the cost per request.",
-      "pub_date": "2026-08-27T19:34:57Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ubers-ai-usage-jumped-9-193457577.html"
     }
   ]
 }

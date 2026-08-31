@@ -1,7 +1,14 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-08-30T22:18:19.721215+00:00",
+  "generated_at": "2026-08-31T02:56:54.061802+00:00",
   "items": [
+    {
+      "title": "Stock Futures Drift Lower, Oil Rises Ahead of Jobs Data, Tech Earnings",
+      "summary": "This week features earnings from Nvidia rival Broadcom plus reports from Dell and Hewlett Packard Enterprise.",
+      "pub_date": "2026-08-30T22:13:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/futures-stock-sunday-trading-52f040e8?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Prediction: Broadcom Stock Will Go Parabolic After Sept. 2",
       "summary": "Broadcom has underperformed the semiconductor sector this year, but its fortunes could change following its quarterly report.",
@@ -17,11 +24,11 @@
       "url": "https://www.barrons.com/articles/jobs-broadcom-dell-hewlett-planet-labs-3211f95e?siteid=yhoof2&yptr=yahoo"
     },
     {
-      "title": "Futures Set to Trade Ahead of Jobs Data, Tech Earnings",
-      "summary": "This week features earnings from Nvidia rival Broadcom plus reports from Dell and Hewlett Packard Enterprise.",
-      "pub_date": "2026-08-30T16:55:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/futures-stock-sunday-trading-52f040e8?siteid=yhoof2&yptr=yahoo"
+      "title": "Interest Rates, Jobs Data and Other Key Things to Watch this Week",
+      "summary": "Markets reacted sharply to Fed Chair Kevin Warsh's hawkish Jackson Hole comments suggesting potential future interest rate hikes.",
+      "pub_date": "2026-08-30T17:00:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/economy/policy/articles/interest-rates-jobs-data-other-170002500.html"
     },
     {
       "title": "Hock Tan Guided Broadcom Past $100 Billion of AI Revenue in 2027. The Stock Is 25% off Its High.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-29T14:00:06Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-sold-1-ai-140006668.html"
-    },
-    {
-      "title": "VUG vs. VOOG Is Not a Fee Fight | How the Cheaper Vanguard Growth ETF Is Losing",
-      "summary": "Two nearly identical Vanguard growth ETFs are posting returns that differ by five full percentage points this year, and the cheaper one is losing. The reason has nothing to do with fees.",
-      "pub_date": "2026-08-29T13:53:18Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/vug-vs-voog-not-fee-135318978.html"
     }
   ]
 }

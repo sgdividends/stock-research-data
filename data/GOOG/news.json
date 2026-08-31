@@ -1,6 +1,6 @@
 {
   "ticker": "GOOG",
-  "generated_at": "2026-08-30T22:18:47.309442+00:00",
+  "generated_at": "2026-08-31T02:57:14.901120+00:00",
   "items": [
     {
       "title": "Congressman Sold Alphabet Stock Three Months After Buying It, and He Might Have Lost Money",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-30T19:31:04Z",
       "source": "Benzinga",
       "url": "https://finance.yahoo.com/markets/stocks/articles/congressman-sold-alphabet-stock-three-193104909.html"
+    },
+    {
+      "title": "AI Was Supposed to Kill Wix. Google Just Gave It a Way to Fight Back.",
+      "summary": "Wix was seen as an AI victim, but its Gemini integration could turn the threat into a powerful source of customers.",
+      "pub_date": "2026-08-30T18:37:51Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-supposed-kill-wix-google-183751576.html"
     },
     {
       "title": "Marvell Wins Wall Street. Google Bets $12 Billion. Amazon Fears Fade.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-29T20:20:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-stanley-druckenmiller-sold-broadcom-202000494.html"
-    },
-    {
-      "title": "Alphabet Stock: 3 Reasons to Buy Before It Hits a New All-Time High",
-      "summary": "AI is expanding the value of Google Search; subscriptions are adding a more predictable and diversified revenue stream.",
-      "pub_date": "2026-08-29T17:30:02Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-stock-3-reasons-buy-173002809.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "LITE",
-  "generated_at": "2026-08-30T22:18:59.477562+00:00",
+  "generated_at": "2026-08-31T02:57:23.760520+00:00",
   "items": [
+    {
+      "title": "Top 10 S&P 500 Stocks of the Past Decade Share One Clear Theme",
+      "summary": "Nine of the decade's best-performing S&P 500 stocks trace their gains to AI chips, networking, and data center demand.",
+      "pub_date": "2026-08-31T02:13:36Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-10-p-500-stocks-021336532.html"
+    },
     {
       "title": "How networking became the critical layer of AI",
       "summary": "Investing.com -- Networking is replacing raw computing power as the main constraint on artificial intelligence performance as AI systems grow larger and more complex, Citi analysts said following the second day of the Hot Chips conference.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-28T15:12:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/-marvell-mrvl-earnings-sympathy-selloff-cohr-lite-1a21d246?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Lumentum Sees AI Data Centers Driving Major Optical Connectivity Growth",
-      "summary": "Lumentum (NASDAQ:LITE) CEO Michael Hurlston said the growing bandwidth requirements of artificial intelligence data centers are accelerating a shift from copper connections to optical technologies, creating new demand across racks, clusters and data centers. Speaking at Deutsche Bank\u2019s 20th Annual",
-      "pub_date": "2026-08-28T01:02:06Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/technology/ai/articles/lumentum-sees-ai-data-centers-010206172.html"
     }
   ]
 }

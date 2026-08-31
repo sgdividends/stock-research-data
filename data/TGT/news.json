@@ -1,6 +1,6 @@
 {
   "ticker": "TGT",
-  "generated_at": "2026-08-30T22:19:24.037180+00:00",
+  "generated_at": "2026-08-31T02:57:44.207027+00:00",
   "items": [
     {
       "title": "Come on, Target. Do better.",
@@ -8,6 +8,20 @@
       "pub_date": "2026-08-30T12:30:00Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/article/come-on-target-do-better-123000000.html"
+    },
+    {
+      "title": "Corporate America\u2019s Profits Are Booming\u2014and Signal More Good Times Ahead",
+      "summary": "Tariff refunds and the ever-resilient U.S. consumer are fueling the heftiest rise in big-company profits in years",
+      "pub_date": "2026-08-31T01:00:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/earnings/corporate-profit-america-44836dc6?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Target Is Still an Attractive Value Stock",
+      "summary": "Target is up by 67% this year but still remains undervalued.",
+      "pub_date": "2026-08-30T22:25:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/target-still-attractive-value-stock-222500258.html"
     },
     {
       "title": "Target Is Up 66% This Year. Here's Whether the Dividend King Still Has Room to Run After Earnings.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-28T18:38:23Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-advised-letting-walmart-183823547.html"
-    },
-    {
-      "title": "Is The Slide In eBay Stock Actually Worth Buying?",
-      "summary": "When eBay falls in a crisis, the damage is concentrated in the depth of the drop, not the time it takes to climb back out.",
-      "pub_date": "2026-08-28T18:23:04Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/slide-ebay-stock-actually-worth-182304224.html"
-    },
-    {
-      "title": "Amazon Keeps Its Pricing Engine--for Now",
-      "summary": "California's requested injunction is faltering, but the underlying antitrust case is still heading toward trial.",
-      "pub_date": "2026-08-28T17:56:52Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-keeps-pricing-engine-now-175652454.html"
     }
   ]
 }
