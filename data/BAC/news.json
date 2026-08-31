@@ -1,7 +1,14 @@
 {
   "ticker": "BAC",
-  "generated_at": "2026-08-31T18:36:38.300303+00:00",
+  "generated_at": "2026-08-31T23:33:43.335267+00:00",
   "items": [
+    {
+      "title": "Top Analyst Reports for Microsoft, Intel & Bank of America",
+      "summary": "Microsoft's AI momentum and Azure expansion support growth, while capacity constraints and competition remain key challenges ahead.",
+      "pub_date": "2026-08-31T20:10:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-microsoft-intel-201000476.html"
+    },
     {
       "title": "BAC Records 9% Y/Y Growth in NII in 1H26: Will the Uptrend Continue?",
       "summary": "Bank of America's NII rises 9% y/y to $31.7B in 1H26, led by loan and deposit growth and asset repricing, with gains expected through the rest of 2026.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-31T10:34:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-fallen-56-septembers-103400820.html"
-    },
-    {
-      "title": "Bank of America sends strong message to stock market investors",
-      "summary": "Bank of America sees downside risk for a key semiconductor index.",
-      "pub_date": "2026-08-29T13:03:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sends-strong-message-130300264.html"
     }
   ]
 }

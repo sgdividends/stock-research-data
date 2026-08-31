@@ -1,7 +1,28 @@
 {
   "ticker": "V",
-  "generated_at": "2026-08-31T18:37:37.274134+00:00",
+  "generated_at": "2026-08-31T23:34:42.316303+00:00",
   "items": [
+    {
+      "title": "Bank of England governor warns AI could trigger global downturn",
+      "summary": "Yahoo Finance Breaking Business New Report Jake Conley joins Josh Lipton on Market Domination to discuss Bank of England Governor Andrew Bailey\u2019s warning that an AI-driven attack could lead to the disruption of financial systems",
+      "pub_date": "2026-08-31T20:42:00Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/bank-england-governor-warns-ai-204200256.html"
+    },
+    {
+      "title": "Can you use a credit card on Venmo?",
+      "summary": "Yes, you can use a credit card on Venmo to send payments. Before you do, it's important to understand the potential costs involved.",
+      "pub_date": "2024-01-26T22:26:20Z",
+      "source": "Yahoo Personal Finance",
+      "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/can-you-use-a-credit-card-on-venmo-205730213.html"
+    },
+    {
+      "title": "Visa, Mastercard, and Fiserv Just Joined a Group Writing the Rules for AI Agent Payments",
+      "summary": "The Agentic Payments Alliance will keep everyone on the same page in the growing market.",
+      "pub_date": "2026-08-31T19:15:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/visa-mastercard-fiserv-just-joined-191500106.html"
+    },
     {
       "title": "Affirm Q4 Earnings Beat on Strong GMV Growth, Rising Card Adoption",
       "summary": "AFRM's Q4 earnings beat is driven by 36% GMV growth, rising transactions and card adoption, while credit losses and expenses increase.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-29T11:00:00Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-08-24-110000738.html"
-    },
-    {
-      "title": "Is Visa\u2019s AI Cybersecurity and New Markets Push Reshaping the Investment Case for Visa (V)?",
-      "summary": "In recent days, Visa reported strong fiscal Q3 2026 results, expanded its open-source AI-powered cybersecurity framework, deepened payment security collaborations such as with Bluefin, re-entered Syria with its first live international transaction, and saw Bill Ackman\u2019s Pershing Square add Visa to its concentrated portfolio. Together, these developments highlight how Visa is pushing further into AI-driven cybersecurity, secure in-person and stablecoin-enabled payments while broadening its...",
-      "pub_date": "2026-08-29T01:07:47Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/visa-ai-cybersecurity-markets-push-010747642.html"
-    },
-    {
-      "title": "Bill Ackman Just Bought Visa, Mastercard, and S&P Global Stock. Each One Collects a Toll on Somebody Else's Sale.",
-      "summary": "Pershing Square's three biggest new stakes are in companies that get paid when somebody else's customer transacts. Together, they were bigger than any single bet in the filing.",
-      "pub_date": "2026-08-29T00:54:01Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-just-bought-visa-005401077.html"
-    },
-    {
-      "title": "Solana Neobank Avici Hacked for $650,000. Token Crashes 40%",
-      "summary": "An Avici exploit drained $653,000 from Solana card vaults the company said only users could touch. AVICI fell 44%.",
-      "pub_date": "2026-08-28T21:07:40Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/solana-neobank-avici-hacked-650-210740451.html"
     }
   ]
 }

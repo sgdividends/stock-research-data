@@ -1,7 +1,14 @@
 {
   "ticker": "MS",
-  "generated_at": "2026-08-31T18:37:16.922178+00:00",
+  "generated_at": "2026-08-31T23:34:22.279602+00:00",
   "items": [
+    {
+      "title": "Morgan Stanley sees key catalyst in vital tech stock before earnings",
+      "summary": "The game-changer could boost a little-known tech company that\u2019s critical to internet infrastructure.",
+      "pub_date": "2026-08-31T21:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/articles/morgan-stanley-sees-key-catalyst-210300166.html"
+    },
     {
       "title": "Morgan Stanley rattles investors with bombshell HP stock verdict",
       "summary": "HP just beat earnings, yet one Wall Street firm thinks the stock still has a long way to fall.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-30T02:03:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-delivers-candid-verdict-020300588.html"
-    },
-    {
-      "title": "Morgan Stanley resets CrowdStrike stock price target after earnings",
-      "summary": "Following historic performance, here\u2019s what could happen to CRWD shares next.",
-      "pub_date": "2026-08-29T18:47:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-resets-crowdstrike-stock-184700186.html"
     }
   ]
 }

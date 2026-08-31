@@ -1,7 +1,14 @@
 {
   "ticker": "ADSK",
-  "generated_at": "2026-08-31T18:36:32.486855+00:00",
+  "generated_at": "2026-08-31T23:33:37.642675+00:00",
   "items": [
+    {
+      "title": "Adobe's Options Price A Year That Runs Past Its Own Range",
+      "summary": "Adobe\u2019s option-implied range runs from below anything the stock has traded at in the past year to far above its high, and that width is the real question for anyone who owns it.",
+      "pub_date": "2026-08-31T19:22:01Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/adobes-options-price-runs-past-192201700.html"
+    },
     {
       "title": "Autodesk (ADSK) Q2 2027 Earnings Call Transcript",
       "summary": "Revenue hit $2.05 billion, up 16%, with MaintainX acquisition fueling growth.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-28T19:36:52Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/technology/ai/articles/adsk-q2-deep-dive-ai-193652742.html"
-    },
-    {
-      "title": "Autodesk's 27% Cash Margin Cannot Silence Its AI Problem",
-      "summary": "Current execution is strong, but acquisition costs and automation fears are raising the next-quarter hurdle.",
-      "pub_date": "2026-08-28T18:01:44Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/autodesks-27-cash-margin-cannot-180144709.html"
     }
   ]
 }

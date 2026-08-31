@@ -1,7 +1,14 @@
 {
   "ticker": "KKR",
-  "generated_at": "2026-08-31T18:37:10.003559+00:00",
+  "generated_at": "2026-08-31T23:34:14.696616+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Fall Late Afternoon",
+      "summary": "Financial stocks were lower in late Monday afternoon trading, with the NYSE Financial Index and the",
+      "pub_date": "2026-08-31T19:58:19Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-fall-afternoon-195819260.html"
+    },
     {
       "title": "Sector Update: Financial Stocks Softer Monday Afternoon",
       "summary": "Financial stocks were lower in Monday afternoon trading, with the NYSE Financial Index decreasing 0.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-31T13:59:26Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/aon-acquire-usi-insurance-services-135926436.html"
-    },
-    {
-      "title": "Exchange-Traded Funds, Equity Futures Lower Pre-Bell Monday as US, Iran Exchange Attacks",
-      "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.3%, and the actively t",
-      "pub_date": "2026-08-31T13:28:01Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-132801663.html"
     }
   ]
 }

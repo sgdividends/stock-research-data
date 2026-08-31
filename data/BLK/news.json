@@ -1,7 +1,35 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-08-31T18:36:40.057617+00:00",
+  "generated_at": "2026-08-31T23:33:45.409318+00:00",
   "items": [
+    {
+      "title": "Nvidia just lined up $500 billion. Frank Holmes says the thing that\u2019s scarce isn\u2019t money, it\u2019s copper",
+      "summary": "The HIVE Digital Chairman calls the Wall Street financing platforms \u201chuge,\u201d then points at the bottleneck nobody\u2019s pricing: one gigawatt of data center eats 50,000 tons of copper, the supply isn\u2019t there, and China hasn\u2019t started squeezing yet.",
+      "pub_date": "2026-08-31T21:59:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/nvidia-just-lined-500-billion-215900262.html"
+    },
+    {
+      "title": "Bitwave\u2019s CEO puts a clock on the software selloff: \u201ctwo years at most\u201d",
+      "summary": "Software stocks have been hit hard by AI disruption fears in 2026. Pat White says enterprises start dumping traditional ERP and CRM within two years.",
+      "pub_date": "2026-08-31T20:56:45Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitwave-ceo-puts-clock-software-205645361.html"
+    },
+    {
+      "title": "Sector Update: Financial Stocks Fall Late Afternoon",
+      "summary": "Financial stocks were lower in late Monday afternoon trading, with the NYSE Financial Index and the",
+      "pub_date": "2026-08-31T19:58:19Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-fall-afternoon-195819260.html"
+    },
+    {
+      "title": "How Nvidia Tried to Profit Twice From Every Chip Sale\u2014and Why It Backfired",
+      "summary": "Nvidia announced a program to collect revenue on the same chip twice, once at sale and again through ongoing cloud profits, then paused it weeks later after internal warnings about antitrust exposure. The retreat raises a question the market has not priced in.",
+      "pub_date": "2026-08-31T19:50:35Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-tried-profit-twice-every-195035192.html"
+    },
     {
       "title": "Sector Update: Financial Stocks Softer Monday Afternoon",
       "summary": "Financial stocks were lower in Monday afternoon trading, with the NYSE Financial Index decreasing 0.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-08-31T15:04:38Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-investing-3-5-billion-150438390.html"
-    },
-    {
-      "title": "Should You Invest in the iShares U.S. Financials ETF (IYF)?",
-      "summary": "Sector ETF report for IYF",
-      "pub_date": "2026-08-31T10:20:02Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/invest-ishares-u-financials-etf-102002090.html"
-    },
-    {
-      "title": "Should You Invest in the iShares U.S. Financial Services ETF (IYG)?",
-      "summary": "Sector ETF report for IYG",
-      "pub_date": "2026-08-31T10:20:02Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/invest-ishares-u-financial-services-102002358.html"
-    },
-    {
-      "title": "Should iShares S&P Small-Cap 600 Growth ETF (IJT) Be on Your Investing Radar?",
-      "summary": "Style Box ETF report for IJT",
-      "pub_date": "2026-08-31T10:20:02Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-p-small-cap-600-102002136.html"
-    },
-    {
-      "title": "CLARITY Act Lags as Bitcoin ETFs Slip",
-      "summary": "U.S. spot Bitcoin ETFs turned negative at the end of last week, ending a nine-day inflow streak that had brought in a total of $2.8 billion. Meanwhile, Robert Mitchnick, BlackRock\u2019s head of digital assets, said the CLARITY Act is less critical for Bitcoin than for the rest of the crypto ...",
-      "pub_date": "2026-08-31T09:20:29Z",
-      "source": "Cryptonews",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/clarity-act-lags-bitcoin-etfs-092029191.html"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-08-31T18:37:05.878551+00:00",
+  "generated_at": "2026-08-31T23:34:10.741348+00:00",
   "items": [
     {
       "title": "Why you need an AI agent workforce today: Open Machine CEO",
@@ -8,6 +8,34 @@
       "pub_date": "2026-08-31T10:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/why-ai-agent-workforce-today-100000464.html"
+    },
+    {
+      "title": "Dell Stock Could Halve Or Double Within Thirteen Months",
+      "summary": "The width of that range is not the market panicking; it reflects how far and how quickly the stock has already run, not fresh doubt about the setup, and the cost of owning a company whose own revenue guidance moved by billions in a single quarter.",
+      "pub_date": "2026-08-31T22:48:13Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-could-halve-double-224813891.html"
+    },
+    {
+      "title": "Fresh Off a U.S. Funding Deal, This Quantum Start-Up Is Moving Into Data Centers",
+      "summary": "Diraq is deploying a quantum computer directly into a commercial data center, marking a real-world example of hybrid computing.",
+      "pub_date": "2026-08-31T20:01:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/quantum-data-center-ibm-diraq-4ef7729d?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "IBM (IBM) Emerges As A Leading Enterprise Blockchain Provider In New Market Report",
+      "summary": "International Business Machines (NYSE: IBM) is highlighted as a leading provider of enterprise blockchain platforms and Blockchain-as-a-Service in a new global sector report. The report points to significant projected growth in the worldwide blockchain market and cites IBM's cloud native blockchain offerings as a key contributor to enterprise adoption. This focus on blockchain extends IBM's footprint beyond its established hardware and AI lines into newer digital infrastructure segments that...",
+      "pub_date": "2026-08-31T19:05:29Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-ibm-emerges-leading-enterprise-190529316.html"
+    },
+    {
+      "title": "The Bill For Oracle's AI Build Arrived Before The Revenue",
+      "summary": "Record bookings are not near-term revenue, and the spending needed to serve them lands first.",
+      "pub_date": "2026-08-31T18:51:18Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bill-oracles-ai-build-arrived-185118557.html"
     },
     {
       "title": "AMD Enters a Sovereign AI Showcase, Not a Revenue Windfall",
@@ -29,34 +57,6 @@
       "pub_date": "2026-08-31T14:15:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/ibms-hrl-acquisition-boost-quantum-141500305.html"
-    },
-    {
-      "title": "Why I Think the Best Dividend Stock Isn't a Tech Name: It's Realty Income",
-      "summary": "Realty Income is a reliable dividend payer and more innovative than you may realize.",
-      "pub_date": "2026-08-29T20:35:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/real-estate/articles/why-think-best-dividend-stock-203500371.html"
-    },
-    {
-      "title": "IBM Introduces New Mainframe Processor Combining Its Own Tech With Arm Architecture",
-      "summary": "On August 24, International Business Machines Corporation (NYSE:IBM) introduced its next-generation dual-architecture processor for IBM Z and LinuxONE, the first processor milestone to emerge from a relationship with Arm Holdings plc (NASDAQ:ARM) announced in April. The new chip will enable companies to run operating systems and applications on both IBM\u2019s custom compute platform and the [\u2026]",
-      "pub_date": "2026-08-29T03:00:48Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/articles/ibm-introduces-mainframe-processor-combining-030048930.html"
-    },
-    {
-      "title": "Can PLTR Stock Live Up To Its Multiple?",
-      "summary": "This is a hyper-growth chapter for Palantir Technologies. The company now provides a complete sovereign AI stack, with its AIP platform as the core engine for government and commercial clients.",
-      "pub_date": "2026-08-28T21:48:50Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/pltr-stock-live-multiple-214850826.html"
-    },
-    {
-      "title": "Dell Stock Widens Your Portfolio Instead Of Steadying It",
-      "summary": "Its five-year correlation to the broad market leaves real room for behavior of its own, but the swing that comes with it is far wider than the index's.",
-      "pub_date": "2026-08-28T21:05:59Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-widens-portfolio-instead-210559770.html"
     }
   ]
 }

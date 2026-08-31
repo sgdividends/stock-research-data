@@ -1,7 +1,14 @@
 {
   "ticker": "EQIX",
-  "generated_at": "2026-08-31T18:36:54.010270+00:00",
+  "generated_at": "2026-08-31T23:33:59.595677+00:00",
   "items": [
+    {
+      "title": "Fresh Off a U.S. Funding Deal, This Quantum Start-Up Is Moving Into Data Centers",
+      "summary": "Diraq is deploying a quantum computer directly into a commercial data center, marking a real-world example of hybrid computing.",
+      "pub_date": "2026-08-31T20:01:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/quantum-data-center-ibm-diraq-4ef7729d?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Equinix\u2019s AI Power-Grid Push Might Change The Case For Investing In Equinix (EQIX)",
       "summary": "In recent months, Equinix submitted detailed comments to US energy regulators on PJM\u2019s proposed one-time Reliability Backstop Procurement and expanded its AI-focused presence through conference presentations as enterprise AI demand and data center construction trends accelerate. By pushing for clearer reliability rules, more transparent cost allocation, and workable bilateral procurement, Equinix is trying to shape how power-constrained grids support large, AI-driven data center loads...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-24T13:56:37Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-sga-betting-equinix-eqix-135637661.html"
-    },
-    {
-      "title": "3 Data Center Stocks Powering the AI Buildout",
-      "summary": "The AI spending boom has moved past GPUs and into the physical infrastructure holding it all together, and three US-listed stocks are quietly capturing billions in locked-in demand across power, connectivity, and real estate.",
-      "pub_date": "2026-08-23T11:00:28Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/3-data-center-stocks-powering-110028373.html"
     }
   ]
 }
