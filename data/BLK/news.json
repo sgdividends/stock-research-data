@@ -1,7 +1,28 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-08-31T02:56:56.173206+00:00",
+  "generated_at": "2026-08-31T10:21:27.630072+00:00",
   "items": [
+    {
+      "title": "CLARITY Act Lags as Bitcoin ETFs Slip",
+      "summary": "U.S. spot Bitcoin ETFs turned negative at the end of last week, ending a nine-day inflow streak that had brought in a total of $2.8 billion. Meanwhile, Robert Mitchnick, BlackRock\u2019s head of digital assets, said the CLARITY Act is less critical for Bitcoin than for the rest of the crypto ...",
+      "pub_date": "2026-08-31T09:20:29Z",
+      "source": "Cryptonews",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/clarity-act-lags-bitcoin-etfs-092029191.html"
+    },
+    {
+      "title": "Bitcoin ETFs Pulled In Near $1 Billion Last Week, So Why Is BTC Stuck Below $80,000?",
+      "summary": "Bitcoin ETFs pulled in $924 million last week, yet BTC remains stuck below $80,000 as traders eye the Fed.",
+      "pub_date": "2026-08-31T06:40:00Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-pulled-near-1-064000785.html"
+    },
+    {
+      "title": "BlackRock's BUIDL Reclaims Top Spot for Tokenized Treasuries, Bolstering RWA Market",
+      "summary": "BlackRock's BUIDL fund has retaken the lead in tokenized US Treasuries with a $2.8 billion market cap, edging out Circle's USYC.",
+      "pub_date": "2026-08-31T03:04:29Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/blackrocks-buidl-reclaims-top-spot-030429087.html"
+    },
     {
       "title": "According to BlackRock, Bitcoin Is Still a Great Portfolio Diversifier. So How Much Bitcoin Should You Be Holding in Your Portfolio?",
       "summary": "Even if you're bullish on Bitcoin, it still shouldn't take up much of your portfolio.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-29T03:09:31Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/energy/articles/blackrock-blk-hands-off-jessup-030931257.html"
-    },
-    {
-      "title": "Wall Street Wanted 45% Growth From Nvidia. It Guided to 70%, and the Real Number Is Higher.",
-      "summary": "Nvidia guided to 70% revenue growth and the stock jumped, but a KeyBanc analyst revealed the real demand figure is significantly higher, and understanding why the company cannot meet it changes everything about what you are actually buying.",
-      "pub_date": "2026-08-28T18:18:27Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-wanted-45-growth-181827554.html"
-    },
-    {
-      "title": "Ethereum ETFs Take $226M in a Day, Almost Matching Bitcoin's Haul",
-      "summary": "Nine straight sessions have brought in $1.4 billion, with Thursday marking the funds' strongest day in 10 months.",
-      "pub_date": "2026-08-28T14:17:21Z",
-      "source": "decrypt",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-226m-day-almost-141721439.html"
-    },
-    {
-      "title": "Nvidia\u2019s Blockbuster Quarter Has One Ugly Loose End. $27 Billion of Free Cash Flow Vanished",
-      "summary": "Nvidia posted the kind of revenue numbers that silence critics, yet something inside the balance sheet quietly swallowed tens of billions in cash. The explanation touches on extended payment terms, $279 billion in supply commitments, and a growing web of financing partnerships that raises a question few analysts are asking out loud.",
-      "pub_date": "2026-08-28T13:41:04Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-blockbuster-quarter-one-ugly-134104617.html"
     }
   ]
 }

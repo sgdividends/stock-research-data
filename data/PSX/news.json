@@ -1,7 +1,14 @@
 {
   "ticker": "PSX",
-  "generated_at": "2026-08-31T02:57:37.117918+00:00",
+  "generated_at": "2026-08-31T10:22:07.492826+00:00",
   "items": [
+    {
+      "title": "Energy stocks rally as fresh U.S.-Iran attacks drive oil prices higher",
+      "summary": "Investing.com -- U.S.-listed energy stocks climbed in premarket trading Monday, tracking a more than 2% jump in oil prices after American forces struck an Iranian island in the Strait of Hormuz and Tehran retaliated.",
+      "pub_date": "2026-08-31T09:35:50Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/energy/articles/energy-stocks-rally-fresh-u-093550675.html"
+    },
     {
       "title": "Phillips 66: Refining Upside Backed by Stable Midstream Operations",
       "summary": "PSX combines profitable refining conditions with stable midstream cash flows, helping limit exposure to commodity price volatility.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T21:05:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-dell-marvell-210500147.html"
-    },
-    {
-      "title": "WTI Surges, Yet Phillips 66's Refining Backdrop Looks Supportive",
-      "summary": "PSX could benefit from tight global fuel supplies, low inventories and high crack spreads, even as WTI above $85 raises refiners' input costs.",
-      "pub_date": "2026-08-21T14:35:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/energy/articles/wti-surges-yet-phillips-66s-143500208.html"
     }
   ]
 }

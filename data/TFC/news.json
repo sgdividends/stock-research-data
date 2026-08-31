@@ -1,7 +1,14 @@
 {
   "ticker": "TFC",
-  "generated_at": "2026-08-31T02:57:44.100873+00:00",
+  "generated_at": "2026-08-31T10:22:14.028458+00:00",
   "items": [
+    {
+      "title": "Market Chatter: Truist Financial, Fifth Third Bancorp. Pause Distribution of Delaware Life Insurance's Products",
+      "summary": "Truist Financial and Fifth Third Bancorp. have paused distribution of products tied to Mark Walter's",
+      "pub_date": "2026-08-31T09:44:17Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-truist-financial-fifth-094417968.html"
+    },
     {
       "title": "Why Retail Traders Couldn\u2019t Take Their Eyes Off These Stocks Last Week: NVDA, CRWD, MRVL, CRM, ASTS",
       "summary": "Investors assessed whether the massive AI investment cycle can continue beyond infrastructure and into enterprise applications.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-27T20:06:39Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-gpu-price-hikes-look-200639918.html"
-    },
-    {
-      "title": "Veeva Systems Executing Successfully Across CRM, AI, Commercial Cloud, Truist Securities Says",
-      "summary": "Veeva Systems (VEEV) is executing successfully across customer relationship management, artificial i",
-      "pub_date": "2026-08-27T19:09:08Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/ai/articles/veeva-systems-executing-successfully-across-190908839.html"
     }
   ]
 }

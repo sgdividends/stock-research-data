@@ -1,11 +1,32 @@
 {
   "ticker": "MSFT",
-  "generated_at": "2026-08-31T02:57:29.555594+00:00",
+  "generated_at": "2026-08-31T10:22:00.196847+00:00",
   "items": [
+    {
+      "title": "Market Chatter: Apple's Bulkier Mac Computers Popular for AI Use, Development",
+      "summary": "Apple's (AAPL) Mac mini and Mac Studio computers are selling well because they are well-suited to ru",
+      "pub_date": "2026-08-31T10:09:40Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-apple-apos-bulkier-100940248.html"
+    },
+    {
+      "title": "Bull of the Day: Advanced Energy Industries, Inc. (AEIS)",
+      "summary": "AEIS is a leader in precision power conversion, measurement, and control solutions riding two of the strongest spending cycles in tech: AI data centers and advanced semiconductor manufacturing.",
+      "pub_date": "2026-08-31T08:00:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bull-day-advanced-energy-industries-080000092.html"
+    },
+    {
+      "title": "Can Microsoft Stock Surge to a New All-Time High by the End of 2026 as Azure Cloud Demand Accelerates?",
+      "summary": "Microsoft stock has rebounded in the past couple of months, but is it still a good pick?",
+      "pub_date": "2026-08-31T03:35:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-surge-time-high-033500300.html"
+    },
     {
       "title": "Dow Jones Futures Fall, Oil Prices Pop As U.S. Strikes Iran",
       "summary": "Dow Jones futures fell slightly while oil prices bounced as the U.S. struck Iran publicly for the first time in a month.",
-      "pub_date": "2026-08-31T02:37:41Z",
+      "pub_date": "2026-08-31T03:10:53Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-microsoft-titans-mask-market-weakness/?src=A00220&yptr=yahoo"
     },
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-29T20:13:23Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stronger-analyst-focus-earnings-power-201323308.html"
-    },
-    {
-      "title": "Oracle vs. Microsoft: Big Tech\u2019s AI Cloud Battle Has a New Underdog",
-      "summary": "Microsoft had the early AI lead, but Oracle is quickly turning itself into a serious AI contender.",
-      "pub_date": "2026-08-29T18:30:02Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-vs-microsoft-big-tech-183002599.html"
-    },
-    {
-      "title": "Elastic (ESTC) Is Up 16.3% After AI-Fueled Q1 Beat And Higher 2027 Revenue Guidance \u2013 Has The Bull Case Changed?",
-      "summary": "Elastic N.V. recently reported fiscal first-quarter 2027 results, with revenue rising to US$478.11 million and net loss narrowing to US$16.73 million, while also issuing guidance that points to continued revenue growth through fiscal 2027. Alongside the earnings beat and raised outlook, Elastic highlighted growing enterprise adoption of its AI-powered search and cloud platform, and disclosed that non-executive director Caryn Marooney will step down after her term ends in October...",
-      "pub_date": "2026-08-29T16:14:52Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/elastic-estc-16-3-ai-161452465.html"
-    },
-    {
-      "title": "Meta Continues to Trade Jobs for AI: Robots Are \u201cComing For Us All\u201d",
-      "summary": "Meta is quietly testing robots inside its data centers, and at least one employee believes physical workers are no longer safe from automation. The experiment hints at a much larger shift in how AI spending could reshape labor costs across the entire economy.",
-      "pub_date": "2026-08-29T15:31:52Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/meta-continues-trade-jobs-ai-153152757.html"
     }
   ]
 }
