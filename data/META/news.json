@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "generated_at": "2026-09-01T03:05:27.343791+00:00",
+  "generated_at": "2026-09-01T09:05:28.626042+00:00",
   "items": [
     {
       "title": "Here comes the AI capex shocker, Goldman Sachs says",
@@ -8,6 +8,27 @@
       "pub_date": "2026-08-31T17:10:26Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/here-comes-the-ai-capex-shocker-goldman-sachs-says-171026577.html"
+    },
+    {
+      "title": "Trump Says \u2018Let Data Reign\u2019 As He Slams Data Center Backlash: Communities Risk Being \u2018Backwards And Poor\u2019",
+      "summary": "President Donald Trump has backed the AI infrastructure buildout as data center projects face growing public resistance.",
+      "pub_date": "2026-09-01T07:12:50Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/technology/ai/articles/trump-says-let-data-reign-071250156.html"
+    },
+    {
+      "title": "AI startup Manus says resumes independent operations",
+      "summary": "AI startup Manus said Tuesday it had resumed independent operations, months after China blocked Facebook-owner Meta from buying the Chinese-developed, Singapore-based firm.\"Manus has formally resumed independent operations,\" the company said in a statement posted to its website.",
+      "pub_date": "2026-09-01T07:02:53Z",
+      "source": "AFP",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-startup-manus-says-resumes-070253840.html"
+    },
+    {
+      "title": "Meta Pulls Dozens of Facebook, Instagram Ads After India Finds Porn-Bait Scam Designed to Steal Bank Credentials",
+      "summary": "Meta Platforms, Inc. (NASDAQ:META) has removed dozens of Facebook and Instagram ads after Indian authorities flagged a scam using sexually explicit content to trick users into downloading malware that steals sensitive banking information. India Flags Malware Scam on Facebook and Instagram The Indian government said it identified a pattern involving ads operating under names including \"Night Play\" and \"Kyss,\" Reuters reported on Monday. The advertisements allegedly directed users to phishing webs",
+      "pub_date": "2026-09-01T05:26:32Z",
+      "source": "Benzinga",
+      "url": "https://tech.yahoo.com/cybersecurity/articles/meta-pulls-dozens-facebook-instagram-052632659.html"
     },
     {
       "title": "OpenAI Shocks the Ad Industry in 200 Days",
@@ -36,27 +57,6 @@
       "pub_date": "2026-08-31T20:39:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-buy-q3-203900190.html"
-    },
-    {
-      "title": "Meta just turned teen safety into a competitive advantage",
-      "summary": "Meta may have just rewritten the rules its rivals must follow.",
-      "pub_date": "2026-08-31T20:23:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/articles/meta-just-turned-teen-safety-202300523.html"
-    },
-    {
-      "title": "US trade regulator and 22 states accuse Amazon of taking $20bn with secret surcharges",
-      "summary": "FTC alleges in lawsuit that online retailer \u2018secretly and systematically overcharged\u2019 advertisers for years",
-      "pub_date": "2026-08-31T19:41:52Z",
-      "source": "The Guardian",
-      "url": "https://finance.yahoo.com/economy/policy/articles/us-trade-regulator-22-states-194152421.html"
-    },
-    {
-      "title": "SLB Wants In on the AI Data Center Boom. This $4B Deal Could Help.",
-      "summary": "Public backlash against artificial intelligence data centers is real, but investors still like it when companies gain a toehold in the booming business.  The latest example comes from  SLB  the oilfield services provider formerly known as Schlumberger whose stock jumped 2.5% on Monday after announcing its acquisition of thermal management company Kelvion.  The deal is designed to build out SLB\u2019s data center solutions business.",
-      "pub_date": "2026-08-31T19:22:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/slb-ai-strategy-4-billion-data-center-deal-b6b99c63?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

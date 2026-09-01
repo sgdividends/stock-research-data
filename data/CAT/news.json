@@ -1,6 +1,6 @@
 {
   "ticker": "CAT",
-  "generated_at": "2026-09-01T03:04:56.401732+00:00",
+  "generated_at": "2026-09-01T09:04:56.970433+00:00",
   "items": [
     {
       "title": "Top Stock Picks for Week of August 31, 2026",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-31T19:57:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-picks-week-august-195700958.html"
+    },
+    {
+      "title": "Deere and AGCO Rally 4% as Baird Upgrades Both on North America Row Crop Demand",
+      "summary": "Baird just handed two farm equipment stocks a rare double upgrade on the same morning, but the reasoning behind each call points to a very different bet on how the ag cycle turns.",
+      "pub_date": "2026-08-31T18:08:44Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/deere-agco-rally-4-baird-180844623.html"
     },
     {
       "title": "Jim Cramer Warns AI Is Making Even \u201cDiversified\u201d Portfolios More Concentrated",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-30T17:35:43Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ai-power-demand-transformed-caterpillar-173543057.html"
-    },
-    {
-      "title": "Caterpillar (CAT) Commits $100 Million To AI And Robotics Training",
-      "summary": "Caterpillar (NYSE:CAT) is rolling out new AI tools across industrial and construction operations, drawing on its experience with autonomous mining systems. The company is developing products such as the Cat AI Assistant to support technicians and equipment operators in the field. Caterpillar has committed $100 million to workforce training focused on AI and robotics adoption. The group is also positioned to serve ongoing demand for power generation equipment linked to expansion of data...",
-      "pub_date": "2026-08-30T17:04:42Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/caterpillar-cat-commits-100-million-170442904.html"
     }
   ]
 }

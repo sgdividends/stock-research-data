@@ -1,7 +1,14 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-09-01T03:05:01.800134+00:00",
+  "generated_at": "2026-09-01T09:05:02.247193+00:00",
   "items": [
+    {
+      "title": "Can Dell\u2019s AI Server Business Live Up to Wall Street\u2019s Sky-High Expectations?",
+      "summary": "Dell is scheduled to report second-quarter financial results after the stock market closes on Tuesday.",
+      "pub_date": "2026-09-01T07:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/dell-earnings-stock-price-d07d0ee7?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Dell Stock Could Halve Or Double Within Thirteen Months",
       "summary": "The width of that range is not the market panicking; it reflects how far and how quickly the stock has already run, not fresh doubt about the setup, and the cost of owning a company whose own revenue guidance moved by billions in a single quarter.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-31T15:31:46Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/amds-saudi-ai-bet-scaling-153146397.html"
-    },
-    {
-      "title": "AMD and Cisco Expand AI Infrastructure in Saudi Arabia",
-      "summary": "New Saudi AI Platform Puts AMD Chips to Work",
-      "pub_date": "2026-08-31T15:31:31Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amd-cisco-expand-ai-infrastructure-153131991.html"
     }
   ]
 }

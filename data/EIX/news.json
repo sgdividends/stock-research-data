@@ -1,7 +1,21 @@
 {
   "ticker": "EIX",
-  "generated_at": "2026-09-01T03:05:07.247307+00:00",
+  "generated_at": "2026-09-01T09:05:07.530803+00:00",
   "items": [
+    {
+      "title": "US Stock Market Today: S&P 500 Futures Edge Lower As Inflation Concerns Resurface",
+      "summary": "The Morning Bull - US Market Morning Update Tuesday, Sep, 1 2026 US stock futures are slightly weaker this morning, with E-mini S&P 500 contracts down around 0.1%, as investors react to higher long term interest rates and fresh signals on inflation. The 10 year US Treasury yield is holding near 4.7%, after Federal Reserve official Kevin Warsh said inflation has not slowed meaningfully. That matters because higher borrowing costs can pressure mortgages, car loans, and valuations for growth...",
+      "pub_date": "2026-09-01T08:13:48Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081348825.html"
+    },
+    {
+      "title": "Dow Futures Climb While S&P 500, Nasdaq Futures Slide After Strong August Rally: TTWO, TSLA, EIX, MDB Stocks In Focus",
+      "summary": "All three indexes ended August higher, bolstered by strong earnings from marquee names and stronger investor sentiment despite a turbulent month when Treasury yields jumped to historic highs.",
+      "pub_date": "2026-09-01T03:02:33Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-futures-climb-while-p-030233695.html"
+    },
     {
       "title": "Who Pays for Wildfire Damage? California Can\u2019t Agree",
       "summary": "Lawmakers balk at Newsom\u2019s proposal to limit utilities\u2019 wildfire liabilities, sending shares down sharply.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-31T20:36:40Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-us-iran-conflict-203640906.html"
-    },
-    {
-      "title": "US Equity Markets End Lower After Crude Oil, Government Bond Yields Rise Following US-Iran Military Escalation",
-      "summary": "US equity indexes ended lower Monday after crude oil prices and government bond yields rose followin",
-      "pub_date": "2026-08-31T20:14:39Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-lower-201439769.html"
-    },
-    {
-      "title": "Sector Update: Energy Stocks Gain Monday",
-      "summary": "Energy stocks rose Monday with the NYSE Energy Sector Index gaining 1.9% and the State Street Energy",
-      "pub_date": "2026-08-31T20:10:50Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-monday-201050077.html"
     }
   ]
 }

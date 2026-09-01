@@ -1,7 +1,14 @@
 {
   "ticker": "BMY",
-  "generated_at": "2026-09-01T03:04:54.709217+00:00",
+  "generated_at": "2026-09-01T09:04:55.387412+00:00",
   "items": [
+    {
+      "title": "Novartis Pauses Autoimmune Cell Therapy Studies After Deaths",
+      "summary": "Novartis paused eight clinical trials of an experimental therapy targeting autoimmune and neurological disorders in late August, after three patients died.",
+      "pub_date": "2026-09-01T04:14:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/health/pharma/novartis-pauses-autoimmune-cell-therapy-studies-after-deaths-62113d35?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "This Popular Healthcare ETF Is Diluting Your Dividend Income",
       "summary": "XLV bundles the entire healthcare sector into one tidy package, but its cap-weighted structure quietly siphons off the income that dividend investors came for. Three stocks already inside the fund tell a very different yield story.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-29T11:06:46Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bristol-myers-squibb-bmy-stock-110646651.html"
-    },
-    {
-      "title": "Johnson & Johnson (JNJ) Taps Sail Biomedicines in Bid for CAR-T Edge Over Bristol Myers Squibb",
-      "summary": "CAR-T therapies are transforming treatment for certain cancers and raising hopes for patients. Several approved therapies have delivered strong responses for patients with advanced blood cancers where conventional treatments have failed. It\u2019s no wonder the CAR-T market is expanding rapidly. The global CAR-T therapy market is projected to grow from $2.69 billion in 2022 to [\u2026]",
-      "pub_date": "2026-08-29T02:28:05Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-jnj-taps-sail-022805825.html"
     }
   ]
 }
