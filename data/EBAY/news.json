@@ -1,6 +1,6 @@
 {
   "ticker": "EBAY",
-  "generated_at": "2026-09-01T09:05:06.820549+00:00",
+  "generated_at": "2026-09-01T15:56:28.255150+00:00",
   "items": [
     {
       "title": "GameStop's Q2 profit gets lift from eBay stake. Stock rises.",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-31T19:40:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/gamestops-q2-profit-gets-lift-194000128.html"
+    },
+    {
+      "title": "GameStop projects revenue drops ahead of Q2",
+      "summary": "Despite the lower revenue outlook, GameStop expects operating income of $150m to $170m, up from $66.4m in Q2 2025.",
+      "pub_date": "2026-09-01T09:15:45Z",
+      "source": "Retail Insight Network",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gamestop-projects-revenue-drops-ahead-091545721.html"
     },
     {
       "title": "A rejected $56B takeover bid just rescued GameStop's quarter",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-31T13:38:58Z",
       "source": "Quartz",
       "url": "https://finance.yahoo.com/markets/stocks/articles/gamestop-q2-2026-preliminary-results-133858780.html"
-    },
-    {
-      "title": "GameStop Climbs 4% as $358M Cash Payment Caps Dilution, Roblox Slips, Take-Two Interactive Treads Water",
-      "summary": "GameStop just rewrote the terms of a billion-dollar note exchange overnight, and the stock is responding, but the earnings story behind the move is more complicated than the headline gain suggests.",
-      "pub_date": "2026-08-31T12:47:38Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gamestop-climbs-4-358m-cash-124738395.html"
     }
   ]
 }

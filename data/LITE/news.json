@@ -1,7 +1,14 @@
 {
   "ticker": "LITE",
-  "generated_at": "2026-09-01T09:05:25.859615+00:00",
+  "generated_at": "2026-09-01T15:56:52.244751+00:00",
   "items": [
+    {
+      "title": "This Week In Cloud AI - AI-Driven Optical Networks Reshape Global Market Dynamics",
+      "summary": "The global optical transceiver market is experiencing significant transformation, propelled by the increasing convergence of artificial intelligence (AI) and high-speed optical networking. Recent developments highlight substantial investments, including NVIDIA's $2 billion commitment to Lumentum and Marvell's planned acquisition of Celestial AI for up to $5.5 billion, underscoring the increasing demand for high-bandwidth connectivity driven by hyperscale AI infrastructures. Domestic...",
+      "pub_date": "2026-09-01T12:37:32Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/week-cloud-ai-ai-driven-123732221.html"
+    },
     {
       "title": "LITE's AI Optics Push Boosts Growth Prospects Against MRVL & NVDA",
       "summary": "Lumentum rides AI-driven optical demand as OCS, CPO and NPO expand its market amid rising competition from Marvell and NVIDIA.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-31T02:13:36Z",
       "source": "BeInCrypto",
       "url": "https://finance.yahoo.com/markets/stocks/articles/top-10-p-500-stocks-021336532.html"
-    },
-    {
-      "title": "How networking became the critical layer of AI",
-      "summary": "Investing.com -- Networking is replacing raw computing power as the main constraint on artificial intelligence performance as AI systems grow larger and more complex, Citi analysts said following the second day of the Hot Chips conference.",
-      "pub_date": "2026-08-29T07:16:54Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/networking-became-critical-layer-ai-071654651.html"
     }
   ]
 }

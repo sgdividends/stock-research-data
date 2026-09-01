@@ -1,7 +1,14 @@
 {
   "ticker": "FDS",
-  "generated_at": "2026-09-01T09:05:11.108752+00:00",
+  "generated_at": "2026-09-01T15:56:33.871859+00:00",
   "items": [
+    {
+      "title": "How you can quickly tell Wall Street still really loves tech stocks",
+      "summary": "The Street remains all in on tech.",
+      "pub_date": "2026-09-01T10:23:24Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/how-you-can-quickly-tell-wall-street-still-really-loves-tech-stocks-102324025.html"
+    },
     {
       "title": "Science Applications International Boosts Outlook as Second-Quarter Results Beat Estimates",
       "summary": "Science Applications International (SAIC) raised its fiscal 2027 outlook on Monday as its second-qua",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-27T22:48:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/business/earnings/workday-reports-higher-profit-revenue-on-ai-agent-adoption-a94e8f10?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Marvell Lifts Long-Term Targets as AI Demand Boosts Second-Quarter Profit, Revenue",
-      "summary": "The decision to boost guidance was driven by growth in the semiconductor company\u2019s data-center business, Chief Executive Officer Matt Murphy said.",
-      "pub_date": "2026-08-27T22:39:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/marvell-sees-accelerating-growth-as-ai-demand-boosts-second-quarter-profit-revenue-786b8c74?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

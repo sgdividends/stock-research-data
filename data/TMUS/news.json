@@ -1,6 +1,6 @@
 {
   "ticker": "TMUS",
-  "generated_at": "2026-09-01T09:05:45.970488+00:00",
+  "generated_at": "2026-09-01T15:57:20.103056+00:00",
   "items": [
     {
       "title": "Here's how much it could cost SpaceX to take on Verizon, T-Mobile, and AT&T",
@@ -15,6 +15,13 @@
       "pub_date": "2026-08-31T16:01:09Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/number-verizon-no-longer-leads-160109065.html"
+    },
+    {
+      "title": "AST SpaceMobile Is Down 54%\u2014Can FCC Progress and BlueBirds Reverse the Slide?",
+      "summary": "AST SpaceMobile stock has dropped nearly 54% since May amid cash burn, dilution, and insider selling concerns, while FCC testing and carrier partnerships offer potential catalysts.",
+      "pub_date": "2026-08-31T15:35:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-down-54-fcc-153500877.html"
     },
     {
       "title": "How Is T-Mobile\u2019s Stock Performance Compared to Other Communication Stocks",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-28T14:30:26Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/t-stocks-margin-hit-multi-143026501.html"
-    },
-    {
-      "title": "SpaceX May Need Up to 1.5 Billion Small Cells to Challenge T-Mobile",
-      "summary": "BofA says Starlink is more likely to complement wireless networks.",
-      "pub_date": "2026-08-27T14:36:56Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/articles/spacex-may-1-5-billion-143656349.html"
     }
   ]
 }
