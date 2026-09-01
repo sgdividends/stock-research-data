@@ -1,7 +1,21 @@
 {
   "ticker": "EIX",
-  "generated_at": "2026-09-01T19:09:33.652967+00:00",
+  "generated_at": "2026-09-01T22:18:44.727697+00:00",
   "items": [
+    {
+      "title": "California Wildfire Legislation Postponed, Utility Stocks Bounce",
+      "summary": "A deal between Gov. Gavin Newsom and state legislators fell apart at the last minute. PG&E and Edison International recovered on the news, after plummeting on Monday.",
+      "pub_date": "2026-09-01T20:10:12Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/gavin-newsom-california-wildfire-bill-postponed-pge-edison-international/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "PG&E Stock, Edison International Rise as California Lawmakers Kill Wildfire Bill",
+      "summary": "PG&E stock rises after a report that California lawmakers kill a key wildfire bill that didn\u2019t include liability protection for utilities.",
+      "pub_date": "2026-09-01T19:09:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/pge-stock-edison-international-california-wildfire-bill-4016fab7?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Sector Update: Energy Stocks Rise Tuesday Afternoon",
       "summary": "Energy stocks were higher Tuesday afternoon, with the NYSE Energy Sector Index rising 1.1% and the S",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-01T08:13:48Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081348825.html"
-    },
-    {
-      "title": "Dow Futures Climb While S&P 500, Nasdaq Futures Slide After Strong August Rally: TTWO, TSLA, EIX, MDB Stocks In Focus",
-      "summary": "All three indexes ended August higher, bolstered by strong earnings from marquee names and stronger investor sentiment despite a turbulent month when Treasury yields jumped to historic highs.",
-      "pub_date": "2026-09-01T03:02:33Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-futures-climb-while-p-030233695.html"
-    },
-    {
-      "title": "Who Pays for Wildfire Damage? California Can\u2019t Agree",
-      "summary": "Lawmakers balk at Newsom\u2019s proposal to limit utilities\u2019 wildfire liabilities, sending shares down sharply.",
-      "pub_date": "2026-09-01T00:57:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/us-news/who-pays-for-wildfire-damage-california-cant-agree-45ad8ea6?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

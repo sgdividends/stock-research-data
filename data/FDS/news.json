@@ -1,6 +1,6 @@
 {
   "ticker": "FDS",
-  "generated_at": "2026-09-01T19:09:37.336452+00:00",
+  "generated_at": "2026-09-01T22:18:47.756408+00:00",
   "items": [
     {
       "title": "How you can quickly tell Wall Street still really loves tech stocks",
@@ -8,6 +8,20 @@
       "pub_date": "2026-09-01T10:23:24Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/article/how-you-can-quickly-tell-wall-street-still-really-loves-tech-stocks-102324025.html"
+    },
+    {
+      "title": "Credo Shares Slump Despite Earnings Beat",
+      "summary": "FEATURE  Shares of Credo Technology, which makes electrical cables and digital signal processors used in artificial intelligence data centers, fell sharply Tuesday despite an earnings beat. The AI connectivity firm reported adjusted earnings for the three months ending on Aug.",
+      "pub_date": "2026-09-01T21:20:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/credo-earnings-stock-price-9f8c1d24?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Palo Alto Projects Double-Digit Growth as AI Drives Cybersecurity Spending",
+      "summary": "The cybersecurity company said it is expecting revenue to rise between 23% and 24% to a range of $14.1 billion to $14.2 billion in fiscal 2027.",
+      "pub_date": "2026-09-01T20:36:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/earnings/palo-alto-projects-double-digit-growth-as-ai-drives-cybersecurity-spending-5993c397?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Science Applications International Boosts Outlook as Second-Quarter Results Beat Estimates",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-28T13:36:35Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/factset-stock-outlook-wall-street-133635556.html"
-    },
-    {
-      "title": "Workday Raises Full-Year Subscription Revenue Outlook Following Fiscal Second-Quarter Beat",
-      "summary": "Workday (WDAY) raised the low end of its full-year subscription revenue outlook after the finance an",
-      "pub_date": "2026-08-28T10:53:25Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/articles/workday-raises-full-subscription-revenue-105325565.html"
-    },
-    {
-      "title": "Workday Reports Higher Profit, Revenue on AI Agent Adoption",
-      "summary": "The human resources software company reported a fiscal second-quarter profit of $632 million, up from $228 million a year earlier.",
-      "pub_date": "2026-08-27T22:48:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/workday-reports-higher-profit-revenue-on-ai-agent-adoption-a94e8f10?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

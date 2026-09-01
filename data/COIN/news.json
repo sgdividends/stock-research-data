@@ -1,7 +1,14 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-09-01T19:09:25.952911+00:00",
+  "generated_at": "2026-09-01T22:18:37.383667+00:00",
   "items": [
+    {
+      "title": "Jim Cramer sends blunt response to Coinbase rally",
+      "summary": "Jim Cramer picks Wall Street\u2019s best performers in August.",
+      "pub_date": "2026-09-01T20:23:27Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/jim-cramer-breaks-silence-major-202327311.html"
+    },
     {
       "title": "Coinbase Powers Webull's Crypto Trading Expansion in Canada",
       "summary": "COIN expands its Webull partnership into Canada to offer crypto trading, liquidity and custody infrastructure as digital-asset demand rises.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-31T20:15:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/crypto/articles/cathie-wood-ark-invest-continues-201500969.html"
-    },
-    {
-      "title": "Coinbase And Webull Join Forces In Canada",
-      "summary": "Cryptocurrency exchange Coinbase Global (NASDAQ: $COIN) has expanded its partnership with online trading platform W...",
-      "pub_date": "2026-08-31T19:55:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-webull-join-forces-canada-195500186.html"
     }
   ]
 }

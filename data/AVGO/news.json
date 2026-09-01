@@ -1,13 +1,41 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-09-01T19:09:17.179643+00:00",
+  "generated_at": "2026-09-01T22:18:28.707139+00:00",
   "items": [
+    {
+      "title": "Two Stocks That Will Benefit From OpenAI Announcement",
+      "summary": "During a recent episode of The AI Investor Podcast, Eric Bleeker covered the news regarding OpenAI's new custom chip, Jalape\u00f1o, and its comparison to Nvidia's Blackwell. OpenAI designed the chip with Broadcom and Celestica, which could be a boon to each of those company's stocks as we look ahead to 2027 and 2028. Eric also explored the implications for the broader semiconductor landscape now that the news about this latest chip is official.",
+      "pub_date": "2026-09-01T21:50:01Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/video/two-stocks-benefit-openai-announcement-215001257.html"
+    },
+    {
+      "title": "Nvidia Just Broke the Stock Market (Again)",
+      "summary": "During a recent episode of The AI Investor Podcast, Eric Bleeker broke down Nvidia's massive earnings report and staggering 70 percent revenue growth forecast for 2028. Eric analyzed Nvidia's attractive valuation relative to the broader market, contrasting its growth trajectory with Broadcom, and explored reports that Nvidia is in talks to acquire Hugging Face for over 13 billion dollars, signaling an even deeper push into AI model infrastructure.",
+      "pub_date": "2026-09-01T21:25:30Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/video/nvidia-just-broke-stock-market-212530537.html"
+    },
+    {
+      "title": "Broadcom Faces Crucial Earnings Test After AI Chip Sales Surge 143%",
+      "summary": "The company expects $16 billion in third-quarter AI semiconductor revenue as investors assess whether its powerful growth can continue.",
+      "pub_date": "2026-09-01T19:52:19Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-faces-crucial-earnings-test-195219708.html"
+    },
     {
       "title": "Broadcom Boosts VMware AI Push to Challenge Nutanix & Microsoft",
       "summary": "AVGO's VMware AI push gains traction with VCF 9.1, while NTNX and MSFT intensify competition across enterprise AI and hybrid cloud.",
       "pub_date": "2026-09-01T17:59:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-boosts-vmware-ai-push-175900642.html"
+    },
+    {
+      "title": "There's a 750% Reason You Should Check Which S&P 500 ETF You're Invested In",
+      "summary": "Disruptive innovation has made stocks a winning asset class over time, and a top-heavy index has helped accelerate long-term wealth creation for investors.",
+      "pub_date": "2026-09-01T17:28:37Z",
+      "source": "Kiplinger",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/theres-750-reason-check-p-172837411.html"
     },
     {
       "title": "Broadcom (AVGO) Launches Private AI Cloud Tools, Is It Still Below Fair Value?",
@@ -29,34 +57,6 @@
       "pub_date": "2026-09-01T15:02:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-set-report-q3-earnings-150200149.html"
-    },
-    {
-      "title": "I Keep Buying Marvell Technology Because Its Type Historically Wins",
-      "summary": "Every time the hyperscalers write a check to build out AI, one mid-cap chip company's name keeps appearing on the invoice, and the pattern behind that is exactly why this stock stays in the buy column.",
-      "pub_date": "2026-09-01T13:49:27Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/keep-buying-marvell-technology-because-134927714.html"
-    },
-    {
-      "title": "Semiconductor Stocks Slide as Global Bond Selloff Lifts Yields: Intel Drops 3%, NVIDIA and AMD Slip",
-      "summary": "A global bond selloff sent long-term yields surging to levels not seen in over a year, and the chips sector is bearing the brunt as traders reprice the market's most ambitious AI growth bets.",
-      "pub_date": "2026-09-01T13:15:16Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-slide-global-bond-131516395.html"
-    },
-    {
-      "title": "The Zacks Analyst Blog Highlights Broadcom, Nvidia, Palantir, Fortinet and Quanta Services",
-      "summary": "Broadcom, Nvidia, Palantir, Fortinet and Quanta Services draw attention as markets brace for key data and rate decisions.",
-      "pub_date": "2026-09-01T13:04:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-broadcom-130400276.html"
-    },
-    {
-      "title": "Broadcom Has Floundered For Several Months: A Respected Wall Street Team Expects 80% Returns Ahead",
-      "summary": "Broadcom sits 25% below its peak while 44 Wall Street analysts line up behind a price target that towers above the current price, and one respected firm sees something in the backlog numbers that the broader market appears to be ignoring entirely.",
-      "pub_date": "2026-09-01T12:53:58Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-floundered-several-months-respected-125358577.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "BX",
-  "generated_at": "2026-09-01T19:09:21.022620+00:00",
+  "generated_at": "2026-09-01T22:18:32.831758+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Decline Late Afternoon",
+      "summary": "Financial stocks fell in late Tuesday afternoon trading with the NYSE Financial Index declining 0.7%",
+      "pub_date": "2026-09-01T19:50:18Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-afternoon-195018983.html"
+    },
     {
       "title": "Sector Update: Financial Stocks Softer Tuesday Afternoon",
       "summary": "Financial stocks fell in Tuesday afternoon trading with the NYSE Financial Index declining 0.5% and",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-28T13:57:24Z",
       "source": "Reuters",
       "url": "https://finance.yahoo.com/news/blackstone-offers-sell-25-indias-135724239.html"
-    },
-    {
-      "title": "Nvidia Stock Soars After Q2 Earnings: Is NVDA Still a Buy?",
-      "summary": "Nvidia stock has surged more than 7% on Thursday after the AI chip giant delivered another blockbuster quarterly report yesterday evening.",
-      "pub_date": "2026-08-27T18:45:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-soars-q2-earnings-184500091.html"
     }
   ]
 }
