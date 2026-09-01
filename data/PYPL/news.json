@@ -1,13 +1,27 @@
 {
   "ticker": "PYPL",
-  "generated_at": "2026-09-01T15:57:09.891113+00:00",
+  "generated_at": "2026-09-01T19:10:07.118777+00:00",
   "items": [
+    {
+      "title": "Why the PayPal takeover fell apart",
+      "summary": "Stripe's efforts to buy PayPal might have died the moment PayPal reported Q2 earnings, even if the bid remained active for another month.",
+      "pub_date": "2026-09-01T17:03:28Z",
+      "source": "Axios",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-paypal-takeover-fell-apart-170328853.html"
+    },
     {
       "title": "Social Networking Stocks Q2 In Review: Yelp (NYSE:YELP) Vs Peers",
       "summary": "As the Q2 earnings season comes to a close, it\u2019s time to take stock of this quarter\u2019s best and worst performers in the social networking industry, including Yelp (NYSE:YELP) and its peers.",
       "pub_date": "2026-09-01T11:54:20Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/social-networking-stocks-q2-review-115420513.html"
+    },
+    {
+      "title": "PayPal makes job cuts",
+      "summary": "The digital payments pioneer turned to cutting back its workforce this week following a May plan, after reportedly bypassing a possible sale.",
+      "pub_date": "2026-09-01T11:14:00Z",
+      "source": "Payments Dive",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-makes-job-cuts-111400764.html"
     },
     {
       "title": "The PayPal (PYPL) Buyout Is No More. Now Investors Have to Decide if the Business Is Worth It.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-31T18:21:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/intuit-paypal-fintech-built-future-182100508.html"
-    },
-    {
-      "title": "Affirm Drops 4% as Post-Earnings Rally Unwinds Despite 36% GMV Growth",
-      "summary": "Affirm just posted one of its strongest quarters in years, yet its stock is sliding twice as fast as the broad market to start the week. The disconnect between the numbers and the price action points to something happening beneath the surface that every investor in the name needs to understand.",
-      "pub_date": "2026-08-31T14:52:22Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/affirm-drops-4-post-earnings-145222503.html"
-    },
-    {
-      "title": "This Week In Digital Payment - Array and Narmi Partner to Transform Digital Banking Services",
-      "summary": "Array has teamed up with Narmi to integrate comprehensive financial tools directly into digital banking platforms, marking a significant development in the digital payments landscape. This collaboration enables financial institutions to seamlessly offer tools for credit monitoring, identity protection, and financial management within the trusted banking interface. The partnership aims to enhance user engagement and loyalty by providing consumers with advanced financial empowerment solutions...",
-      "pub_date": "2026-08-31T12:37:10Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/week-digital-payment-array-narmi-123710648.html"
     }
   ]
 }

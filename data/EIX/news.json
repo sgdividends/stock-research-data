@@ -1,7 +1,21 @@
 {
   "ticker": "EIX",
-  "generated_at": "2026-09-01T15:56:29.307779+00:00",
+  "generated_at": "2026-09-01T19:09:33.652967+00:00",
   "items": [
+    {
+      "title": "Sector Update: Energy Stocks Rise Tuesday Afternoon",
+      "summary": "Energy stocks were higher Tuesday afternoon, with the NYSE Energy Sector Index rising 1.1% and the S",
+      "pub_date": "2026-09-01T17:51:37Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-tuesday-175137526.html"
+    },
+    {
+      "title": "PG&E Shares Trim Losses Ahead of High-Stakes Wildfire Bill Vote",
+      "summary": "PG&E and Edison International both rise with California lawmakers expected to vote on wildfire legislation that doesn\u2019t include liability protection for utilities.",
+      "pub_date": "2026-09-01T17:27:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/california-utility-stocks-pge-edison-international-sempra-wildlife-bill-598106fc?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "California Wildfire Bill Fails to Address Utility Financing Risks, BofA Says, Downgrading PG&E, Edison International",
       "summary": "Proposed legislation by California lawmakers to address wildfire risk and increase utility accountab",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-01T00:57:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/us-news/who-pays-for-wildfire-damage-california-cant-agree-45ad8ea6?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "PG&E, Edison Suffer Biggest Stock Drops in Years on California Wildfire Legislation",
-      "summary": "Shares of publicly traded utilities tumbled today after an effort by California Gov. Gavin Newsom to shield the sector from wildfire-related lawsuits was rejected by state lawmakers.  California utility PG&E shares tumbled 20%, their biggest drop since the Covid-19 selloff of March 2020.  Other California-based utility stocks also sank, including Edison International.",
-      "pub_date": "2026-08-31T21:45:37Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/pg-e-edison-head-for-biggest-stock-drop-in-years-on-california-wildfire-legislation-M0IinB8pyEibcOyZpMbQ?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Stocks to Watch Recap: Amazon, PG&E, Nvidia, Chevron",
-      "summary": "\u2198\ufe0f Amazon (AMZN): Shares fell about 2.5% after The Wall Street Journal reported that the Federal Trade Commission planned to file a lawsuit against the ecommerce giant. The FTC filed its suit later Monday.",
-      "pub_date": "2026-08-31T21:26:37Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-31-2026/card/stocks-to-watch-pg-e-intel-chevron-eLbKJqWCN3hjlHXGy9qp?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

@@ -1,7 +1,28 @@
 {
   "ticker": "MRVL",
-  "generated_at": "2026-09-01T15:56:58.401508+00:00",
+  "generated_at": "2026-09-01T19:09:57.153731+00:00",
   "items": [
+    {
+      "title": "Marvell\u2019s $120B AI deal came with an unexpected catch",
+      "summary": "Marvell just learned why a huge AI deal may not be enough.",
+      "pub_date": "2026-09-01T18:47:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/marvell-120b-ai-deal-came-184700645.html"
+    },
+    {
+      "title": "Apple, Tesla, Nvidia, Medtronic, Alumis, Robinhood, Fervo, and More Stocks That Explain Today\u2019s Market",
+      "summary": "Tesla trades lower even as investors anticipate the potential entry of Cybercab into the company\u2019s fleet of self-driving cabs.",
+      "pub_date": "2026-09-01T16:52:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stock-movers-4302d398?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Nvidia-Backed Anthropic Inks $35 Billion Deal\u2014Just Don\u2019t Call It \u2018Circular Financing\u2019",
+      "summary": "Nvidia stock was edging down early Tuesday as investors assess its role in the latest AI cloud-computing deal with Anthropic.",
+      "pub_date": "2026-09-01T16:14:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/nvidia-stock-price-anthropic-deal-ai-circular-financing-6be908a3?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Should NVIDIA Stock Be in Your Portfolio Post Solid Q2 Earnings?",
       "summary": "NVDA's Q2 revenues double as Data Center demand surges, while strong Q3 guidance and Vera Rubin adoption support its long-term AI growth case.",
@@ -10,25 +31,11 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-portfolio-post-solid-144700128.html"
     },
     {
-      "title": "Nvidia, Medtronic, Robinhood, Novartis, Fervo Energy, and More Stocks That Explain Today\u2019s Market",
-      "summary": "FEATURE  Stocks dropped on Tuesday as rising bond yields set the market on edge at the start of what is historically the worst month for the  Artificial-intelligence stocks were struggling as investors ditched risk assets.",
-      "pub_date": "2026-09-01T14:10:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-4302d398?siteid=yhoof2&yptr=yahoo"
-    },
-    {
       "title": "Cramer Says Not to Bet Against the AI Chipmaker That Lost Nearly 10% the Day After NVIDIA\u2019s Huge Gain",
       "summary": "Marvell Technology dropped nearly 10% the same morning NVIDIA added $442 billion in a single session, and Jim Cramer thinks that selloff is the setup, not the warning sign. One date in October could prove him right or very wrong.",
       "pub_date": "2026-09-01T14:00:38Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/cramer-says-not-bet-against-140038126.html"
-    },
-    {
-      "title": "Nvidia\u2019s Latest Deal Is Even More Confusing Than Usual\u2014Just Don\u2019t Call It \u2018Circular Financing\u2019",
-      "summary": "Nvidia stock was edging down early Tuesday as investors assess its role in the latest AI cloud-computing deal with Anthropic.",
-      "pub_date": "2026-09-01T13:53:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/nvidia-stock-price-deal-circular-financing-anthropic-6be908a3?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "I Keep Buying Marvell Technology Because Its Type Historically Wins",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-01T12:37:32Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/week-cloud-ai-ai-driven-123732221.html"
-    },
-    {
-      "title": "Custom Silicon Kings: When to Choose Broadcom and When to Choose Marvell Technology",
-      "summary": "Broadcom and Marvell both design custom chips for the same hyperscaler clients, both raised their outlooks, and both trade on the AI ASIC boom. So why do their risk profiles, valuations, and investor theses point in completely opposite directions?",
-      "pub_date": "2026-09-01T11:41:23Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/articles/custom-silicon-kings-choose-broadcom-114123160.html"
     }
   ]
 }

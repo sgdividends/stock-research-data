@@ -1,7 +1,14 @@
 {
   "ticker": "DLR",
-  "generated_at": "2026-09-01T15:56:26.071508+00:00",
+  "generated_at": "2026-09-01T19:09:30.737446+00:00",
   "items": [
+    {
+      "title": "EQIX Strengthens Advanced Computing With Diraq Quantum Deployment",
+      "summary": "Equinix teams up with Diraq to deploy a silicon spin quantum computer in its Sydney data center by October 2026.",
+      "pub_date": "2026-09-01T17:12:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/eqix-strengthens-advanced-computing-diraq-171200792.html"
+    },
     {
       "title": "Zillow Expands Rent Reporting to Support Renters' Homeownership Goals",
       "summary": "Zillow's rent-reporting program is helping renters build credit while expanding its housing platform from rental search to homeownership.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-25T10:10:02Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/real-estate/articles/digital-realty-trust-dlr-wins-101002674.html"
-    },
-    {
-      "title": "The AI Debt Boom Is Helping Push Everyone\u2019s Cost of Capital Higher",
-      "summary": "Every bond a hyperscaler sells to fund its next GPU cluster competes directly with Treasuries for the same pool of capital, and the ripple is now hitting five companies in ways most investors have not priced in.",
-      "pub_date": "2026-08-23T23:18:17Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-debt-boom-helping-push-231817517.html"
     }
   ]
 }
