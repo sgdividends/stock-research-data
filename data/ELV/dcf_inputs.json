@@ -1,8 +1,8 @@
 {
   "ticker": "ELV",
-  "price": 379.31,
-  "beta": 0.683,
-  "market_cap": 82260688896,
+  "price": 392.54,
+  "beta": 0.692,
+  "market_cap": 85129871360,
   "ocf_ttm": 7464000000.0,
   "capex_ttm": 1175000000.0,
   "da_ttm": 1513000000.0,
@@ -12,5 +12,5 @@
   "shares": 216869290,
   "rev_cagr": 0.0834,
   "latest_rev_yoy": 0.014,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

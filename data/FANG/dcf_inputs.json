@@ -1,16 +1,16 @@
 {
   "ticker": "FANG",
-  "price": 205.49,
-  "beta": 0.407,
-  "market_cap": 57807073280,
-  "ocf_ttm": 8231000000.0,
-  "capex_ttm": 9016000000.0,
-  "da_ttm": 5235000000.0,
+  "price": 200.48,
+  "beta": 0.419,
+  "market_cap": 56397692928,
+  "ocf_ttm": 10143000000.0,
+  "capex_ttm": 6461000000.0,
+  "da_ttm": 5242000000.0,
   "sbc_est": null,
-  "cash": 174000000,
-  "debt": 13898000384,
+  "cash": 462000000,
+  "debt": 12613999616,
   "shares": 281313297,
   "rev_cagr": 0.1599,
-  "latest_rev_yoy": 0.042,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.525,
+  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

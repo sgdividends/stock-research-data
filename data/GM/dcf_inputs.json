@@ -1,8 +1,8 @@
 {
   "ticker": "GM",
-  "price": 80.67,
-  "beta": 1.309,
-  "market_cap": 72962105344,
+  "price": 86.32,
+  "beta": 1.329,
+  "market_cap": 78072258560,
   "ocf_ttm": 23202000000.0,
   "capex_ttm": 22597000000.0,
   "da_ttm": 14746000000.0,
@@ -12,5 +12,5 @@
   "shares": 904451541,
   "rev_cagr": 0.0569,
   "latest_rev_yoy": 0.019,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

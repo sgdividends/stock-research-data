@@ -1,16 +1,17 @@
 {
   "ticker": "APTV",
-  "price": 56.1,
-  "beta": 1.344,
-  "market_cap": 11871910912,
-  "ocf_ttm": 1769000000.0,
-  "capex_ttm": 678000000.0,
-  "da_ttm": 999000000.0,
+  "price": 44.76,
+  "beta": 1.36,
+  "market_cap": 9472134144,
+  "ocf_ttm": 1351000000.0,
+  "capex_ttm": 667000000.0,
+  "da_ttm": 996000000.0,
   "sbc_est": null,
-  "cash": 3172999936,
-  "debt": 9886000128,
+  "cash": 761000000,
+  "debt": 5683999744,
   "shares": 211620527,
   "rev_cagr": 0.0526,
-  "latest_rev_yoy": 0.054,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.023,
+  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}
 }

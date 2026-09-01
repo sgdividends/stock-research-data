@@ -1,16 +1,16 @@
 {
   "ticker": "CTAS",
-  "price": 203.25,
-  "beta": 0.933,
-  "market_cap": 81329881088,
-  "ocf_ttm": 2202925000.0,
-  "capex_ttm": 413731000.0,
-  "da_ttm": 503997000.0,
+  "price": 201.79,
+  "beta": 0.918,
+  "market_cap": 80750215168,
+  "ocf_ttm": 2276280000.0,
+  "capex_ttm": 395105000.0,
+  "da_ttm": 512846000.0,
   "sbc_est": null,
   "cash": 289017984,
   "debt": 2705957120,
-  "shares": 400147000,
-  "rev_cagr": 0.096,
+  "shares": 400169561,
+  "rev_cagr": 0.0851,
   "latest_rev_yoy": 0.089,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

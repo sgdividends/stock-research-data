@@ -1,16 +1,16 @@
 {
   "ticker": "CHTR",
-  "price": 126.5,
-  "beta": 0.704,
-  "market_cap": 19819812864,
-  "ocf_ttm": 16145000000.0,
-  "capex_ttm": 11919000000.0,
-  "da_ttm": 8741000000.0,
+  "price": 152.44,
+  "beta": 0.678,
+  "market_cap": 20545480704,
+  "ocf_ttm": 16470000000.0,
+  "capex_ttm": 12112000000.0,
+  "da_ttm": 8762000000.0,
   "sbc_est": null,
-  "cash": 517000000,
-  "debt": 96822001664,
-  "shares": 156678370,
+  "cash": 509000000,
+  "debt": 96710000640,
+  "shares": 134777493,
   "rev_cagr": 0.0046,
-  "latest_rev_yoy": -0.01,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": -0.017,
+  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

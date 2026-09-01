@@ -1,16 +1,16 @@
 {
   "ticker": "CMS",
-  "price": 74.15,
-  "beta": 0.342,
-  "market_cap": 22906390528,
-  "ocf_ttm": 1940000000.0,
-  "capex_ttm": 4231000000.0,
-  "da_ttm": 1331000000.0,
+  "price": 68.06,
+  "beta": 0.339,
+  "market_cap": 21025069056,
+  "ocf_ttm": 2148000000.0,
+  "capex_ttm": 4251000000.0,
+  "da_ttm": 1350000000.0,
   "sbc_est": null,
-  "cash": 175000000,
-  "debt": 19081000960,
+  "cash": 241000000,
+  "debt": 19300999168,
   "shares": 308919602,
   "rev_cagr": -0.0022,
-  "latest_rev_yoy": 0.116,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": -0.005,
+  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

@@ -1,16 +1,16 @@
 {
   "ticker": "PM",
-  "price": 191.12,
-  "beta": null,
-  "market_cap": 297871769600,
-  "ocf_ttm": 12184000000.0,
-  "capex_ttm": 1518000000.0,
-  "da_ttm": 2026000000.0,
+  "price": 187.3,
+  "beta": 0.4,
+  "market_cap": 291928276992,
+  "ocf_ttm": 14264000000.0,
+  "capex_ttm": 1542000000.0,
+  "da_ttm": 2049000000.0,
   "sbc_est": null,
-  "cash": 5999000064,
-  "debt": 49113001984,
-  "shares": 1558558846,
+  "cash": 6002999808,
+  "debt": 49138999296,
+  "shares": 1558613439,
   "rev_cagr": 0.0857,
   "latest_rev_yoy": 0.104,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

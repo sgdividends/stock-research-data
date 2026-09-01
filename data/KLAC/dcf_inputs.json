@@ -1,16 +1,16 @@
 {
   "ticker": "KLAC",
-  "price": 218.73,
-  "beta": 1.407,
-  "market_cap": 285721559040,
-  "ocf_ttm": 4401640000.0,
-  "capex_ttm": 389165000.0,
-  "da_ttm": 391624000.0,
+  "price": 175.45,
+  "beta": 1.458,
+  "market_cap": 229233639424,
+  "ocf_ttm": 4143079000.0,
+  "capex_ttm": 375945000.0,
+  "da_ttm": 393978000.0,
   "sbc_est": null,
-  "cash": 4957938176,
-  "debt": 6145359872,
-  "shares": 1306275210,
-  "rev_cagr": 0.0969,
-  "latest_rev_yoy": 0.115,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "cash": 4902408192,
+  "debt": 6151712768,
+  "shares": 1306546783,
+  "rev_cagr": 0.0896,
+  "latest_rev_yoy": 0.152,
+  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

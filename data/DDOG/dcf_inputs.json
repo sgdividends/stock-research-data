@@ -1,16 +1,16 @@
 {
   "ticker": "DDOG",
-  "price": 244.39,
-  "beta": 1.543,
-  "market_cap": 86993108992,
-  "ocf_ttm": 1113216000.0,
-  "capex_ttm": 153799000.0,
-  "da_ttm": 62424000.0,
+  "price": 237.04,
+  "beta": 1.509,
+  "market_cap": 85115133952,
+  "ocf_ttm": 1229034000.0,
+  "capex_ttm": 156265000.0,
+  "da_ttm": 69091000.0,
   "sbc_est": null,
-  "cash": 4758617088,
-  "debt": 1285052032,
-  "shares": 355960189,
+  "cash": 4985438208,
+  "debt": 1277800960,
+  "shares": 359075024,
   "rev_cagr": 0.2695,
-  "latest_rev_yoy": 0.322,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.356,
+  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

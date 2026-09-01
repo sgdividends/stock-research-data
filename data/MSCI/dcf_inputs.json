@@ -1,8 +1,8 @@
 {
   "ticker": "MSCI",
-  "price": 552.51,
-  "beta": 1.241,
-  "market_cap": 40167477248,
+  "price": 570.64,
+  "beta": 1.222,
+  "market_cap": 41485529088,
   "ocf_ttm": 1628146000.0,
   "capex_ttm": 135661000.0,
   "da_ttm": 220870000.0,
@@ -12,5 +12,5 @@
   "shares": 72700000,
   "rev_cagr": 0.1171,
   "latest_rev_yoy": 0.122,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

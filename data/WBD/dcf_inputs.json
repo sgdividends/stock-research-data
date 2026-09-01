@@ -1,16 +1,16 @@
 {
   "ticker": "WBD",
-  "price": 25.95,
-  "beta": 1.548,
-  "market_cap": 65060200448,
-  "ocf_ttm": 3558000000.0,
-  "capex_ttm": 1248000000.0,
-  "da_ttm": 16572000000.0,
+  "price": 28.53,
+  "beta": 1.565,
+  "market_cap": 71528611840,
+  "ocf_ttm": 3423000000.0,
+  "capex_ttm": 1243000000.0,
+  "da_ttm": 15114000000.0,
   "sbc_est": null,
-  "cash": 3296000000,
-  "debt": 32465999872,
+  "cash": 3411000064,
+  "debt": 32022999040,
   "shares": 2507136702,
   "rev_cagr": 0.0332,
-  "latest_rev_yoy": -0.01,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": -0.112,
+  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

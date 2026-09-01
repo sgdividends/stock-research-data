@@ -1,16 +1,16 @@
 {
   "ticker": "VRSK",
-  "price": 193.17,
-  "beta": 0.688,
-  "market_cap": 25309489152,
-  "ocf_ttm": 1381700000.0,
-  "capex_ttm": 254400000.0,
-  "da_ttm": 327800000.0,
+  "price": 193.78,
+  "beta": 0.664,
+  "market_cap": 25389412352,
+  "ocf_ttm": 1503200000.0,
+  "capex_ttm": 266700000.0,
+  "da_ttm": 326100000.0,
   "sbc_est": null,
-  "cash": 525200000,
-  "debt": 4625200128,
+  "cash": 552200000,
+  "debt": 4617099776,
   "shares": 131021840,
   "rev_cagr": 0.0716,
-  "latest_rev_yoy": 0.039,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.044,
+  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

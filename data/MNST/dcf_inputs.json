@@ -1,16 +1,16 @@
 {
   "ticker": "MNST",
-  "price": 93.56,
-  "beta": 0.527,
-  "market_cap": 91502436352,
-  "ocf_ttm": 2195563000.0,
-  "capex_ttm": 147265000.0,
-  "da_ttm": 117993000.0,
+  "price": 45.92,
+  "beta": 0.524,
+  "market_cap": 89959653376,
+  "ocf_ttm": 2238762000.0,
+  "capex_ttm": 157268000.0,
+  "da_ttm": 120220000.0,
   "sbc_est": null,
-  "cash": 2984993024,
-  "debt": 94469000,
-  "shares": 978008110,
+  "cash": 3419256064,
+  "debt": 92932000,
+  "shares": 1959051764,
   "rev_cagr": 0.0954,
-  "latest_rev_yoy": 0.269,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.202,
+  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

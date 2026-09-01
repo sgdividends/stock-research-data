@@ -1,16 +1,16 @@
 {
   "ticker": "GD",
-  "price": 381.79,
-  "beta": 0.338,
-  "market_cap": 103247536128,
-  "ocf_ttm": 7423000000.0,
-  "capex_ttm": 1222000000.0,
-  "da_ttm": 933000000.0,
+  "price": 371.35,
+  "beta": 0.328,
+  "market_cap": 100471414784,
+  "ocf_ttm": 7705000000.0,
+  "capex_ttm": 1258000000.0,
+  "da_ttm": 941000000.0,
   "sbc_est": null,
-  "cash": 3654000128,
-  "debt": 9831999488,
-  "shares": 270430187,
+  "cash": 4333000192,
+  "debt": 9479000064,
+  "shares": 270557195,
   "rev_cagr": 0.1007,
-  "latest_rev_yoy": 0.103,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.081,
+  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

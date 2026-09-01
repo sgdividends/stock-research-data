@@ -1,16 +1,16 @@
 {
   "ticker": "TTWO",
-  "price": 230.25,
-  "beta": 0.961,
-  "market_cap": 42749747200,
-  "ocf_ttm": 624300000.0,
-  "capex_ttm": 162800000.0,
-  "da_ttm": 1278000000.0,
+  "price": 219.7,
+  "beta": 0.983,
+  "market_cap": 41079603200,
+  "ocf_ttm": 500200000.0,
+  "capex_ttm": 162700000.0,
+  "da_ttm": 1331100000.0,
   "sbc_est": null,
-  "cash": 1989299968,
-  "debt": 2958299904,
-  "shares": 185666663,
+  "cash": 1826599936,
+  "debt": 2944699904,
+  "shares": 186980443,
   "rev_cagr": 0.0756,
-  "latest_rev_yoy": 0.061,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.02,
+  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

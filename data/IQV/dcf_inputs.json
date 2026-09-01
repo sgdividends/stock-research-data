@@ -1,16 +1,16 @@
 {
   "ticker": "IQV",
-  "price": 207.32,
-  "beta": 1.2,
-  "market_cap": 34601709568,
-  "ocf_ttm": 1969000000.0,
-  "capex_ttm": 588000000.0,
-  "da_ttm": 1167000000.0,
+  "price": 261.19,
+  "beta": 1.175,
+  "market_cap": 42991874048,
+  "ocf_ttm": 2819000000.0,
+  "capex_ttm": 635000000.0,
+  "da_ttm": 1183000000.0,
   "sbc_est": null,
-  "cash": 2103000064,
-  "debt": 16097000448,
-  "shares": 166900000,
+  "cash": 2080000000,
+  "debt": 16254999552,
+  "shares": 164600000,
   "rev_cagr": 0.0421,
-  "latest_rev_yoy": 0.084,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.087,
+  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

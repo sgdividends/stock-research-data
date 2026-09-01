@@ -1,16 +1,16 @@
 {
   "ticker": "SW",
-  "price": 43.71,
-  "beta": 0.935,
-  "market_cap": 22924322816,
-  "ocf_ttm": 3361000000.0,
-  "capex_ttm": 2339000000.0,
-  "da_ttm": 2675000000.0,
+  "price": 46.9,
+  "beta": 0.93,
+  "market_cap": 24600125440,
+  "ocf_ttm": 3297000000.0,
+  "capex_ttm": 2282000000.0,
+  "da_ttm": 2740000000.0,
   "sbc_est": null,
-  "cash": 674000000,
-  "debt": 14254999552,
-  "shares": 524464078,
+  "cash": 677000000,
+  "debt": 14163999744,
+  "shares": 524522908,
   "rev_cagr": 0.3215,
-  "latest_rev_yoy": 0.007,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.011,
+  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

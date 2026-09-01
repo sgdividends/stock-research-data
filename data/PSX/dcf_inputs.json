@@ -1,16 +1,16 @@
 {
   "ticker": "PSX",
-  "price": 206.98,
-  "beta": 0.681,
-  "market_cap": 82985525248,
-  "ocf_ttm": 2511000000.0,
-  "capex_ttm": 2392000000.0,
-  "da_ttm": 3018000000.0,
+  "price": 246.58,
+  "beta": 0.687,
+  "market_cap": 98390581248,
+  "ocf_ttm": 8925000000.0,
+  "capex_ttm": 2531000000.0,
+  "da_ttm": 2787000000.0,
   "sbc_est": null,
-  "cash": 5150000128,
-  "debt": 27124000768,
-  "shares": 400935020,
+  "cash": 4099000064,
+  "debt": 20565000192,
+  "shares": 399020916,
   "rev_cagr": -0.08,
-  "latest_rev_yoy": 0.069,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.531,
+  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

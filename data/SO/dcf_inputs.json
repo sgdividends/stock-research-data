@@ -1,16 +1,16 @@
 {
   "ticker": "SO",
-  "price": 96.6,
-  "beta": 0.332,
-  "market_cap": 108897288192,
-  "ocf_ttm": 9778000000.0,
-  "capex_ttm": 13244000000.0,
-  "da_ttm": 6199000000.0,
+  "price": 88.0,
+  "beta": 0.327,
+  "market_cap": 101231943680,
+  "ocf_ttm": 10651000000.0,
+  "capex_ttm": 13920000000.0,
+  "da_ttm": 6346000000.0,
   "sbc_est": null,
-  "cash": 981000000,
-  "debt": 76004999168,
-  "shares": 1127301098,
+  "cash": 2984000000,
+  "debt": 77086998528,
+  "shares": 1150362966,
   "rev_cagr": 0.0031,
-  "latest_rev_yoy": 0.08,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.001,
+  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

@@ -1,16 +1,16 @@
 {
   "ticker": "WSM",
-  "price": 218.6,
-  "beta": 1.485,
-  "market_cap": 25739409408,
+  "price": 228.25,
+  "beta": 1.47,
+  "market_cap": 26880546816,
   "ocf_ttm": 1352263000.0,
   "capex_ttm": 258873000.0,
   "da_ttm": 231161000.0,
   "sbc_est": null,
-  "cash": 651601024,
-  "debt": 1493564032,
-  "shares": 117746611,
+  "cash": 1028936000,
+  "debt": 1527945984,
+  "shares": 117768000,
   "rev_cagr": -0.0345,
-  "latest_rev_yoy": 0.044,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.067,
+  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

@@ -1,16 +1,16 @@
 {
   "ticker": "ETN",
-  "price": 415.13,
-  "beta": 1.181,
-  "market_cap": 161194983424,
+  "price": 401.88,
+  "beta": 1.177,
+  "market_cap": 156049997824,
   "ocf_ttm": 4741000000.0,
   "capex_ttm": 965000000.0,
   "da_ttm": 1046000000.0,
   "sbc_est": null,
-  "cash": 751000000,
-  "debt": 21833000960,
+  "cash": 695000000,
+  "debt": 21326000128,
   "shares": 388300000,
   "rev_cagr": 0.0977,
-  "latest_rev_yoy": 0.168,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.214,
+  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

@@ -1,16 +1,16 @@
 {
   "ticker": "LUV",
-  "price": 44.71,
-  "beta": null,
-  "market_cap": 21853073408,
-  "ocf_ttm": 2401000000.0,
-  "capex_ttm": 2802000000.0,
-  "da_ttm": 1563000000.0,
+  "price": 38.53,
+  "beta": 1.143,
+  "market_cap": 18849191936,
+  "ocf_ttm": 2530000000.0,
+  "capex_ttm": 2985000000.0,
+  "da_ttm": 1565000000.0,
   "sbc_est": null,
   "cash": 3791000064,
   "debt": 6888999936,
-  "shares": 488773713,
+  "shares": 489208201,
   "rev_cagr": 0.0563,
   "latest_rev_yoy": 0.164,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

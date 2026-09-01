@@ -1,8 +1,8 @@
 {
   "ticker": "HPE",
-  "price": 47.64,
-  "beta": 1.438,
-  "market_cap": 63085056000,
+  "price": 52.24,
+  "beta": 1.436,
+  "market_cap": 69176393728,
   "ocf_ttm": 6358000000.0,
   "capex_ttm": 2369000000.0,
   "da_ttm": 3313000000.0,
@@ -12,5 +12,5 @@
   "shares": 1324203521,
   "rev_cagr": 0.0637,
   "latest_rev_yoy": 0.4,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }
