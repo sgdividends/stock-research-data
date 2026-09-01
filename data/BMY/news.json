@@ -1,7 +1,14 @@
 {
   "ticker": "BMY",
-  "generated_at": "2026-08-31T23:33:45.529247+00:00",
+  "generated_at": "2026-09-01T03:04:54.709217+00:00",
   "items": [
+    {
+      "title": "This Popular Healthcare ETF Is Diluting Your Dividend Income",
+      "summary": "XLV bundles the entire healthcare sector into one tidy package, but its cap-weighted structure quietly siphons off the income that dividend investors came for. Three stocks already inside the fund tell a very different yield story.",
+      "pub_date": "2026-08-31T18:02:08Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/healthcare/articles/popular-healthcare-etf-diluting-dividend-180208659.html"
+    },
     {
       "title": "Novartis, Bristol Myers pause autoimmune CAR-T trials due to safety concerns",
       "summary": "Side effects observed in testing have led Novartis to halt development of rap-cel in multiple indications and Bristol Myers to voluntarily pause its zola-cel program.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-29T02:28:05Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-jnj-taps-sail-022805825.html"
-    },
-    {
-      "title": "Cytokinetics Boasts A First-Ever In Heart Disease \u2014 And Shares Drop",
-      "summary": "Cytokinetics scored the first-ever win for a Phase 3 study in non-obstructive hypertrophic cardiomyopathy on Friday.",
-      "pub_date": "2026-08-28T20:05:57Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/cytokinetics-acacia-study-non-obstructive-hcm/?src=A00220&yptr=yahoo"
     }
   ]
 }

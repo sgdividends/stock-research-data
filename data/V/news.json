@@ -1,6 +1,6 @@
 {
   "ticker": "V",
-  "generated_at": "2026-08-31T23:34:42.316303+00:00",
+  "generated_at": "2026-09-01T03:05:49.970670+00:00",
   "items": [
     {
       "title": "Bank of England governor warns AI could trigger global downturn",
@@ -15,6 +15,13 @@
       "pub_date": "2024-01-26T22:26:20Z",
       "source": "Yahoo Personal Finance",
       "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/can-you-use-a-credit-card-on-venmo-205730213.html"
+    },
+    {
+      "title": "PayPal Stock's Real Risk Is Not How Far It Falls",
+      "summary": "PayPal has survived every market crash on its record, but it still sits below two pre-shock highs it has never reclaimed.",
+      "pub_date": "2026-08-31T23:44:17Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-stocks-real-risk-not-234417744.html"
     },
     {
       "title": "Visa, Mastercard, and Fiserv Just Joined a Group Writing the Rules for AI Agent Payments",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-29T14:57:30Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/visa-stock-underperforming-dow-145730618.html"
-    },
-    {
-      "title": "MarketBeat Week in Review \u2013 08/24 - 08/28",
-      "summary": "MarketBeat analysts recap a mixed earnings week, covering AI infrastructure demand, retail's K-shaped consumer trends, Meta's $18 billion settlement, and stock picks across tech, biotech, and retail sectors.",
-      "pub_date": "2026-08-29T11:00:00Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-08-24-110000738.html"
     }
   ]
 }

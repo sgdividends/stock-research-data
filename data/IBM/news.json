@@ -1,6 +1,6 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-08-31T23:34:10.741348+00:00",
+  "generated_at": "2026-09-01T03:05:18.594769+00:00",
   "items": [
     {
       "title": "Why you need an AI agent workforce today: Open Machine CEO",
@@ -8,6 +8,13 @@
       "pub_date": "2026-08-31T10:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/why-ai-agent-workforce-today-100000464.html"
+    },
+    {
+      "title": "ACN Got Cheaper. The Business Did Not Get Worse",
+      "summary": "After a steep sell-off, this consulting giant looks cheap next to the broader market, forcing investors to decide if the discount is a gift or a warning sign.",
+      "pub_date": "2026-09-01T00:33:40Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/acn-got-cheaper-business-did-003340640.html"
     },
     {
       "title": "Dell Stock Could Halve Or Double Within Thirteen Months",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-31T15:11:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/ibm-stock-quantum-computing-1384b7c4?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Can IBM's HRL Acquisition Boost Its Quantum Computing Capabilities?",
-      "summary": "International Business Machines' acquisition of HRL Laboratories adds silicon-spin qubit, materials and manufacturing expertise to advance scalable quantum systems.",
-      "pub_date": "2026-08-31T14:15:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ibms-hrl-acquisition-boost-quantum-141500305.html"
     }
   ]
 }

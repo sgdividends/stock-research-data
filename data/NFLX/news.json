@@ -1,7 +1,21 @@
 {
   "ticker": "NFLX",
-  "generated_at": "2026-08-31T23:34:23.907876+00:00",
+  "generated_at": "2026-09-01T03:05:31.265257+00:00",
   "items": [
+    {
+      "title": "GOOGL Stock Delivers Like The Leader, Priced Like The Laggard",
+      "summary": "In a group of tech giants, one company delivers top-tier growth but wears the group's lowest price tag, forcing investors to decide if it's a bargain or a warning sign.",
+      "pub_date": "2026-09-01T00:41:25Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/googl-stock-delivers-leader-priced-004125038.html"
+    },
+    {
+      "title": "Duolingo Stock Gets an Upgrade. This Analyst Sees a Netflix-Like Comeback.",
+      "summary": "Duolingo\u2019s latest results showed that users are still flocking to the app. Second-quarter revenue rose 18% from a year earlier.",
+      "pub_date": "2026-08-31T23:35:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/duolingo-stock-upgrade-9a11aa76?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Netflix vs. Meta: The Better Media Stock May Surprise You",
       "summary": "Netflix and Meta both reported strong revenue growth in Q2 2026, yet the market punished both stocks hard. One of them is now setting up as a surprisingly calm compounder while the other bets everything on a $140 billion AI wager.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-31T13:15:02Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/options/articles/netflix-puts-worth-shorting-high-131502429.html"
-    },
-    {
-      "title": "Apple Enters Phase 2 of its AI Long Game",
-      "summary": "Apple's returning to a familiar playbook in the AI age: leveraging a massive consumer reach to become Silicon Valley\u2019s top rent collector.",
-      "pub_date": "2026-08-31T04:01:00Z",
-      "source": "The Daily Upside",
-      "url": "https://finance.yahoo.com/technology/ai/articles/apple-enters-phase-2-ai-040100318.html"
-    },
-    {
-      "title": "Netflix (NFLX) Is Recasting Itself As A Hybrid TV Platform",
-      "summary": "Netflix (NasdaqGS:NFLX) is shifting toward a hybrid traditional-TV model that mixes on-demand streaming with scheduled and episodic programming. The company is integrating live sports and ad-supported content into its platform as part of a broader effort to widen its audience and deepen engagement. Netflix has secured an exclusive preview tie-in for Grand Theft Auto VI, aiming to draw interest from gamers and expand its entertainment reach. Netflix is only one example of how entertainment...",
-      "pub_date": "2026-08-30T20:17:14Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/media-advertising/articles/netflix-nflx-recasting-itself-hybrid-201714855.html"
     }
   ]
 }

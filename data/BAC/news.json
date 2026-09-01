@@ -1,7 +1,14 @@
 {
   "ticker": "BAC",
-  "generated_at": "2026-08-31T23:33:43.335267+00:00",
+  "generated_at": "2026-09-01T03:04:53.088058+00:00",
   "items": [
+    {
+      "title": "Bank of America Spots Major Shift in Gold",
+      "summary": "A broader shift in positioning may be taking hold",
+      "pub_date": "2026-09-01T01:48:20Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/bank-america-spots-major-shift-014820983.html"
+    },
     {
       "title": "Top Analyst Reports for Microsoft, Intel & Bank of America",
       "summary": "Microsoft's AI momentum and Azure expansion support growth, while capacity constraints and competition remain key challenges ahead.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-31T12:18:45Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-turns-p-500-signals-121845957.html"
-    },
-    {
-      "title": "The S&P 500 Has Fallen in 56% of Septembers Since 1928. Here's What That Means for Artificial Intelligence (AI) Stocks.",
-      "summary": "Don't fret too much about the possibility of another September slump.",
-      "pub_date": "2026-08-31T10:34:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-fallen-56-septembers-103400820.html"
     }
   ]
 }
