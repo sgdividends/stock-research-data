@@ -1,7 +1,14 @@
 {
   "ticker": "UNH",
-  "generated_at": "2026-09-01T22:19:29.542919+00:00",
+  "generated_at": "2026-09-02T02:25:52.694153+00:00",
   "items": [
+    {
+      "title": "Dow Falls 419 Points as Bond Yields Rise: Stock Market Today",
+      "summary": "The energy shock is not going away, and it's only making things worse for the bond market, as well as the stock market, over the long term.",
+      "pub_date": "2026-09-01T20:16:57Z",
+      "source": "Kiplinger",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-falls-419-points-bond-201657396.html"
+    },
     {
       "title": "UnitedHealth Stock Rallies as Insurer Targets Prior-Authorization Removal for 30% of Services",
       "summary": "UnitedHealthcare will begin removing requirements October 1 across cardiology, laboratory testing, therapy and selected musculoskeletal services.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-30T05:48:07Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/unitedhealth-groups-stock-performance-compared-054807553.html"
-    },
-    {
-      "title": "Is CVS Stock Set for a Rebound?",
-      "summary": "Its market-shock drawdowns have been ordinary in depth, and some of its longest waits back to the old high came after falls the index barely noticed.",
-      "pub_date": "2026-08-28T18:06:01Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cvs-stock-set-rebound-180601435.html"
     }
   ]
 }
