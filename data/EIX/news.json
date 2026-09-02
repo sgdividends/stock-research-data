@@ -1,20 +1,27 @@
 {
   "ticker": "EIX",
-  "generated_at": "2026-09-02T02:25:10.381476+00:00",
+  "generated_at": "2026-09-02T08:18:39.266056+00:00",
   "items": [
+    {
+      "title": "PCG, EIX Stocks Head For Worst Week In A Year As They Reel From California Wildfire Reform Setback: BoFA Turns Neutral, Slashes Targets",
+      "summary": "BofA downgraded both utilities after SB 492 failed to address key wildfire financing risks.",
+      "pub_date": "2026-09-02T07:04:57Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pcg-eix-stocks-head-worst-070457317.html"
+    },
+    {
+      "title": "In Surprise Twist, California Lawmakers Fail to Pass Watered-Down Wildfire Bill",
+      "summary": "The debate over who pays for damage from fires, including utilities linked to major blazers, remains unresolved.",
+      "pub_date": "2026-09-02T02:19:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/politics/policy/in-surprise-twist-california-lawmakers-fail-to-pass-watered-down-wildfire-bill-f54df9bc?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Edison International (EIX) Stock Looks Cheap Even With Wildfire Risk",
       "summary": "Edison International stock has just absorbed a steep pullback, even though its longer term return profile and valuation checks still lean supportive. After the wildfire liability bill in California hit sentiment hard, the current pricing raises questions about whether investors are now overcompensating for legal and regulatory risk. Over the past 5 years, Edison International has returned about 27.0%, which points to a more resilient long run outcome than the recent selloff suggests. The...",
       "pub_date": "2026-09-02T00:20:00Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/edison-international-eix-stock-looks-002000805.html"
-    },
-    {
-      "title": "In Surprise Twist, California Lawmakers Fail to Pass Watered-Down Wildfire Bill",
-      "summary": "The debate over who pays for damage from fires, including utilities linked to major blazers, remains unresolved.",
-      "pub_date": "2026-09-01T22:39:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/politics/policy/in-surprise-twist-california-lawmakers-fail-to-pass-watered-down-wildfire-bill-f54df9bc?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "California Wildfire Legislation Postponed, Utility Stocks Bounce",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-01T15:45:37Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/energy/articles/california-wildfire-bill-fails-address-154537559.html"
-    },
-    {
-      "title": "Robinhood upgraded, Uber initiated: Wall Street's top analyst calls",
-      "summary": "Robinhood upgraded, Uber initiated: Wall Street's top analyst calls",
-      "pub_date": "2026-09-01T13:36:50Z",
-      "source": "The Fly",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-upgraded-uber-initiated-wall-133650211.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "SNDK",
-  "generated_at": "2026-09-02T02:25:45.694307+00:00",
+  "generated_at": "2026-09-02T08:19:11.247562+00:00",
   "items": [
+    {
+      "title": "Billionaire David Tepper just dumped a red-hot AI stock",
+      "summary": "Tepper just abandoned one AI winner for another",
+      "pub_date": "2026-09-02T04:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-david-tepper-just-dumped-040300596.html"
+    },
     {
       "title": "ARM vs. Sandisk: Comparing Steady Historical Revenue Generation Against Rapid Sequential Revenue Expansion",
       "summary": "Sandisk's revenue has nearly tripled in just two years, while ARM has grown more modestly.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-01T13:52:37Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/micron-no-longer-keep-loading-135237386.html"
-    },
-    {
-      "title": "Palantir Leads Tech Stocks as Nasdaq Rebounds",
-      "summary": "Nasdaq Recovers in August as Big Tech Earnings Outshine Oil and Rate Fears",
-      "pub_date": "2026-09-01T12:09:49Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-leads-tech-stocks-nasdaq-120949654.html"
     }
   ]
 }

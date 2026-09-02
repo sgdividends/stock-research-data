@@ -1,7 +1,28 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-09-02T02:24:55.455695+00:00",
+  "generated_at": "2026-09-02T08:18:24.370213+00:00",
   "items": [
+    {
+      "title": "Broadcom Looks for a Reset with Third-Quarter Earnings",
+      "summary": "Though Wall Street analysts expect around 70% earnings growth this year and next, the stock is down 30% from its all-time high in June.",
+      "pub_date": "2026-09-02T05:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/broadcom-earnings-stock-ai-chips-13672771?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Billionaire David Tepper just dumped a red-hot AI stock",
+      "summary": "Tepper just abandoned one AI winner for another",
+      "pub_date": "2026-09-02T04:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-david-tepper-just-dumped-040300596.html"
+    },
+    {
+      "title": "Broadcom Reports Wednesday. Its Profit Is Growing Nearly 4 Times as Fast as Its Revenue.",
+      "summary": "The chip giant's operating costs have barely moved while its revenue soars. The next test comes at $29.4 billion.",
+      "pub_date": "2026-09-02T03:26:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-reports-wednesday-profit-growing-032601156.html"
+    },
     {
       "title": "Review & Preview: September Blues",
       "summary": "REVIEW PREVIEW NEWSLETTER Feeling the Chill. It\u2019s a new month, and suddenly investors have fresh worries about old problems like interest rates, the bond market, and the Iran War. The Dow Jones Industrial Average lost 0.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-01T21:50:01Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/video/two-stocks-benefit-openai-announcement-215001257.html"
-    },
-    {
-      "title": "Nvidia Just Broke the Stock Market (Again)",
-      "summary": "During a recent episode of The AI Investor Podcast, Eric Bleeker broke down Nvidia's massive earnings report and staggering 70 percent revenue growth forecast for 2028. Eric analyzed Nvidia's attractive valuation relative to the broader market, contrasting its growth trajectory with Broadcom, and explored reports that Nvidia is in talks to acquire Hugging Face for over 13 billion dollars, signaling an even deeper push into AI model infrastructure.",
-      "pub_date": "2026-09-01T21:25:30Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/video/nvidia-just-broke-stock-market-212530537.html"
-    },
-    {
-      "title": "Broadcom Faces Crucial Earnings Test After AI Chip Sales Surge 143%",
-      "summary": "The company expects $16 billion in third-quarter AI semiconductor revenue as investors assess whether its powerful growth can continue.",
-      "pub_date": "2026-09-01T19:52:19Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-faces-crucial-earnings-test-195219708.html"
-    },
-    {
-      "title": "Broadcom Boosts VMware AI Push to Challenge Nutanix & Microsoft",
-      "summary": "AVGO's VMware AI push gains traction with VCF 9.1, while NTNX and MSFT intensify competition across enterprise AI and hybrid cloud.",
-      "pub_date": "2026-09-01T17:59:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-boosts-vmware-ai-push-175900642.html"
     }
   ]
 }

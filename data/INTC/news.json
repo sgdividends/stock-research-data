@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-09-02T02:25:22.708704+00:00",
+  "generated_at": "2026-09-02T08:18:49.958286+00:00",
   "items": [
     {
       "title": "Nvidia makes its biggest investment abroad with Mediatek: Why it's a uniquely important deal",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-01T15:05:20Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/nvidia-makes-its-biggest-investment-abroad-with-mediatek-why-its-a-uniquely-important-deal-150520120.html"
+    },
+    {
+      "title": "What Is Intel (INTC) Doing In Open Source 5G And NextG Networks?",
+      "summary": "Intel (NasdaqGS: INTC) is collaborating with COSMOS and Airspan Networks on open source 5G to NextG infrastructure using the OCUDU software stack. The partnership centers on a city scale testbed aimed at advancing open source 5G deployments and evaluating NextG solutions toward 6G networks. The project brings together academic and industry partners and focuses on open source software in wireless connectivity infrastructure. This push into open and programmable wireless networks points to a...",
+      "pub_date": "2026-09-02T03:07:35Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-doing-open-source-030735977.html"
     },
     {
       "title": "Strategy's CEO Says Bitcoin Buys Come Down to Capital Costs, Not Price",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-01T18:34:56Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/billionaires-were-buying-two-nancy-183456888.html"
-    },
-    {
-      "title": "Broadcom Boosts VMware AI Push to Challenge Nutanix & Microsoft",
-      "summary": "AVGO's VMware AI push gains traction with VCF 9.1, while NTNX and MSFT intensify competition across enterprise AI and hybrid cloud.",
-      "pub_date": "2026-09-01T17:59:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-boosts-vmware-ai-push-175900642.html"
     }
   ]
 }

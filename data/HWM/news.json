@@ -1,7 +1,14 @@
 {
   "ticker": "HWM",
-  "generated_at": "2026-09-02T02:25:21.380525+00:00",
+  "generated_at": "2026-09-02T08:18:49.088629+00:00",
   "items": [
+    {
+      "title": "SpaceX just targeted a key AI supplier: The stock tanked",
+      "summary": "A top supplier\u2019s stock tumbled, but Wall Street calls the plunge a buying opportunity.",
+      "pub_date": "2026-09-02T03:07:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-just-targeted-key-ai-030700492.html"
+    },
     {
       "title": "How SpaceX\u2019s Speed and Ambition Are Threatening Legacy Defense and Telecom",
       "summary": "Elon Musk\u2019s plan to manufacture gas turbine blades is just the latest example of SpaceX\u2019s disruptive approach to business.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-31T21:16:04Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-spacex-blade-plan-211604495.html"
-    },
-    {
-      "title": "GE Vernova Stock Drops. Is SpaceX Coming for Them Too?",
-      "summary": "FEATURE   GE Vernova stock and shares of its suppliers might be facing a new threat: Elon Musk. His rocket and AI company, SpaceX might start producing turbine blades for power-generation applications, according to a report from The Information, which cited sources.",
-      "pub_date": "2026-08-31T20:26:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/spacex-elon-musk-ge-vernova-stock-c4b3e6e6?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

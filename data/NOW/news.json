@@ -1,6 +1,6 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-09-02T02:25:34.996338+00:00",
+  "generated_at": "2026-09-02T08:19:01.936308+00:00",
   "items": [
     {
       "title": "Dow Jones Software Giant Microsoft, AI Leader Palantir Eye Latest Entries",
@@ -15,6 +15,13 @@
       "pub_date": "2026-09-01T18:14:28Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/servicenows-stock-performance-compared-other-181428569.html"
+    },
+    {
+      "title": "CrowdStrike Falls 7% Despite $2 Billion Optiv Milestone, Palo Alto Drops 6%",
+      "summary": "CrowdStrike just announced a landmark partnership milestone from its own conference stage, yet the stock is cratering anyway. The reason behind the selloff has nothing to do with the company's business, and everything to do with a market force now hitting software stocks harder than anything else in tech.",
+      "pub_date": "2026-09-01T15:58:32Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-falls-7-despite-2-155832901.html"
     },
     {
       "title": "FJTSY or NOW: Which Is the Better Value Stock Right Now?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-31T16:36:29Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-stock-repriced-fear-not-163629809.html"
-    },
-    {
-      "title": "UiPath vs. ServiceNow: 1 Stock Is the Better Buy in the Enterprise AI Automation Battle",
-      "summary": "Both UiPath and ServiceNow are betting on AI automation, but only one has the stronger position.",
-      "pub_date": "2026-08-31T15:27:33Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/technology/ai/articles/uipath-vs-servicenow-1-stock-152733863.html"
     }
   ]
 }
