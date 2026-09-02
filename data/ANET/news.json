@@ -1,7 +1,21 @@
 {
   "ticker": "ANET",
-  "generated_at": "2026-09-02T19:09:17.896856+00:00",
+  "generated_at": "2026-09-02T22:15:19.804259+00:00",
   "items": [
+    {
+      "title": "The Real Risk Inside Cisco Stock",
+      "summary": "The company is firing on all cylinders, but its biggest success story, the networking super cycle, carries a vulnerability that could challenge its premium price.",
+      "pub_date": "2026-09-02T21:20:36Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/real-risk-inside-cisco-stock-212036109.html"
+    },
+    {
+      "title": "ANET Has Left Its Peers Behind. Or Has It?",
+      "summary": "This networking leader's fundamentals are near the top of its class, but its stock performance has been left behind, forcing investors to ask if the market is right to be so cautious.",
+      "pub_date": "2026-09-02T21:12:21Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anet-left-peers-behind-211221818.html"
+    },
     {
       "title": "The AI Infrastructure Stock Nobody Talks About Enough",
       "summary": "Cisco is posting hyperscaler AI order numbers that would make pure-play networking rivals jealous, yet its valuation still reflects a company selling switches to office parks. Something in that gap deserves a closer look.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-31T04:31:27Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-stock-2-ai-043127920.html"
-    },
-    {
-      "title": "Top 10 S&P 500 Stocks of the Past Decade Share One Clear Theme",
-      "summary": "Nine of the decade's best-performing S&P 500 stocks trace their gains to AI chips, networking, and data center demand.",
-      "pub_date": "2026-08-31T02:13:36Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/top-10-p-500-stocks-021336532.html"
-    },
-    {
-      "title": "3 AI Infrastructure Stocks to Watch Beyond NVIDIA",
-      "summary": "Broadcom, Arista Networks, and Vertiv each address a different AI infrastructure bottleneck beyond NVIDIA's GPUs, covering custom chips, networking, and power and cooling systems.",
-      "pub_date": "2026-08-30T12:00:00Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-watch-120000798.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "CMI",
-  "generated_at": "2026-09-02T19:09:31.712609+00:00",
+  "generated_at": "2026-09-02T22:15:28.268208+00:00",
   "items": [
+    {
+      "title": "Can CAT Stock Compound Its Way Higher?",
+      "summary": "In the second quarter of 2026, Caterpillar's retail sales to users in power generation surged 72% year-over-year, a pace that looks more like a high-growth tech supplier than a traditional industrial giant. This growth is not from traditional sources but from the immense energy needs of new data centers. Caterpillar is quietly becoming a critical infrastructure provider for cloud computing and generative AI.",
+      "pub_date": "2026-09-02T19:49:52Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cat-stock-compound-way-higher-194952766.html"
+    },
     {
       "title": "Can CAT's Power & Energy Segment Sustain Its Rapid Growth Momentum?",
       "summary": "Caterpillar's Power & Energy segment is scaling rapidly as data centers and AI infrastructure drive demand for reliable power.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-27T18:23:43Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cummins-cmi-stock-still-looks-182343236.html"
-    },
-    {
-      "title": "Does Cummins\u2019 Landmark AI Data Center BESS Win Reshape The Bull Case For Cummins (CMI)?",
-      "summary": "In August 2026, Cummins Inc. announced that its Power Generation business was chosen to supply its largest battery energy storage systems to date for a major U.S. data center project, using LFP-based, utility-scale BESS to smooth AI-driven load fluctuations and support grid requirements. This move highlights Cummins\u2019 push beyond traditional backup generators into grid-interactive, always-on power infrastructure for hyperscale AI campuses, positioning its BESS offering as a key tool for data...",
-      "pub_date": "2026-08-27T14:16:26Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/does-cummins-landmark-ai-data-141626731.html"
     }
   ]
 }

@@ -1,7 +1,49 @@
 {
   "ticker": "MRVL",
-  "generated_at": "2026-09-02T19:10:14.506854+00:00",
+  "generated_at": "2026-09-02T22:15:54.960421+00:00",
   "items": [
+    {
+      "title": "Broadcom shares fall 3% after revenue forecast misses estimates",
+      "summary": "Investing.com -- Broadcom shares fell about 3% in extended trading on Wednesday after the chipmaker forecast fourth-quarter revenue below Wall Street estimates, raising concerns that intensifying competition in custom artificial intelligence processors could limit growth.",
+      "pub_date": "2026-09-02T21:15:57Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-shares-fall-3-revenue-211557374.html"
+    },
+    {
+      "title": "The Real Price of Marvell Stock's Growth",
+      "summary": "If you hold Marvell Technology (MRVL) stock, you\u2019ve seen its price fluctuate. The company is posting strong growth, raising its revenue outlook for next year by $1.5 billion in a single quarter. Yet the stock is well off its highs, and it recently dropped even after reporting those results. This isn't a contradiction; it\u2019s a signal that the market is focused on a new, more complicated question. The central risk for Marvell isn't that its AI-driven growth will stop. It\u2019s that the very nature of t",
+      "pub_date": "2026-09-02T21:03:33Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/real-price-marvell-stocks-growth-210333774.html"
+    },
+    {
+      "title": "Broadcom\u2019s Outlook Weighs on Stock Even as AI Business Booms",
+      "summary": "Broadcom, a key beneficiary of AI data center investment, grew its revenue by 86% in the latest quarter.",
+      "pub_date": "2026-09-02T21:03:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/broadcom-earnings-todya-stock-price-13672771?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Broadcom Q3 FY2026 earnings: Record revenue on AI chip demand",
+      "summary": "The chipmaker's semiconductor solutions segment more than doubled year over year, driven by custom AI accelerator demand",
+      "pub_date": "2026-09-02T20:46:17Z",
+      "source": "Quartz",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-q3-fy2026-earnings-record-204617208.html"
+    },
+    {
+      "title": "Broadcom Beats Third-Quarter Estimates on Strong AI Chip Sales",
+      "summary": "Broadcom's (AVGO) fiscal third-quarter results topped Wall Street estimates, driven by a surge in ar",
+      "pub_date": "2026-09-02T20:45:44Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-beats-third-quarter-estimates-204544601.html"
+    },
+    {
+      "title": "Adobe Poised for Solid Third Quarter as ARR Seen Topping Views, RBC Says",
+      "summary": "Adobe (ADBE) is expected to report solid fiscal third-quarter results, with its annual recurring rev",
+      "pub_date": "2026-09-02T20:17:43Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-poised-solid-third-quarter-201743662.html"
+    },
     {
       "title": "Beyond The Cloud Giants: What Could Power NVIDIA Stock From Here?",
       "summary": "The market is obsessed with a handful of hyperscalers, but the real story might be the thousands of customers you've never heard of.",
@@ -15,48 +57,6 @@
       "pub_date": "2026-09-02T15:07:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-reports-q1-results-150700193.html"
-    },
-    {
-      "title": "Bloom Energy and 7 More Stocks That Could Join the S&P 500 This Month",
-      "summary": "Bloom Energy Corp. Astera Labs Cheniere Energy  and  Everpure  top a list of companies that could be added to the S&P 500 as part of the index\u2019s quarterly rebalancing that will occur later this month.  Any changes to the benchmark index likely will be announced Friday after the close of trading, and the changes likely will go into effect around the time of the rebalancing on Sept. 21.  Each quarter, S&P Dow Jones Indices, which oversees the  rebalances the index\u2014along with the  and S&P SmallCap 600)\u2014to reflect changes in component share counts and other factors.",
-      "pub_date": "2026-09-02T14:56:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/bloom-energy-s-p-500-stock-index-9e4bf0dc?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Micron Stock Soars 685% in a Year: Is the Momentum Still Sustainable?",
-      "summary": "MU's 685% rally is backed by surging AI memory demand, sold-out 2026 HBM output, soaring profits and a valuation below the sector average.",
-      "pub_date": "2026-09-02T14:19:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-soars-685-momentum-141900647.html"
-    },
-    {
-      "title": "Jim Cramer Cheered Marvell\u2019s $12 Billion Google Deal but the Stock Just Fell Nearly 10%",
-      "summary": "Jim Cramer celebrated a blockbuster Google deal as proof that Marvell's CEO scores again, but the stock just shed nearly 10% after the earnings call revealed something the headline never mentioned.",
-      "pub_date": "2026-09-02T14:00:42Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-cheered-marvell-12-140042408.html"
-    },
-    {
-      "title": "Marvell vs. Broadcom: One AI Stock Looks More Attractive Right Now",
-      "summary": "Marvell and Broadcom both rode the AI wave to blowout quarters, but the businesses behind the tickers are built on completely different gambles, and only one of them offers a cushion if a major hyperscaler changes course.",
-      "pub_date": "2026-09-02T14:00:21Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/marvell-vs-broadcom-one-ai-140021751.html"
-    },
-    {
-      "title": "Credo's Optical Bet: Is a $600M+ Revenue Opportunity Taking Shape?",
-      "summary": "CRDO's AI-driven connectivity boom is accelerating, with optical growth and new silicon photonics products poised to fuel a major fiscal 2027 revenue inflection.",
-      "pub_date": "2026-09-02T12:40:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/articles/credos-optical-bet-600m-revenue-124000281.html"
-    },
-    {
-      "title": "Will Broadcom Earnings Rebuild Confidence in Its AI Growth Story?",
-      "summary": "Though Wall Street analysts expect around 70% earnings growth this year and next, the stock is down 30% from its all-time high in June.",
-      "pub_date": "2026-09-02T12:40:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/broadcom-earnings-todya-stock-price-13672771?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

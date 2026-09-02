@@ -1,7 +1,42 @@
 {
   "ticker": "CRWD",
-  "generated_at": "2026-09-02T19:09:34.780180+00:00",
+  "generated_at": "2026-09-02T22:15:30.605056+00:00",
   "items": [
+    {
+      "title": "AI Agents Should Scare Everyone",
+      "summary": "\u201cThings are going to go very wrong with cybersecurity unless people act quite urgently,\u201d OpenAI CEO Sam Altman said Wednesday.",
+      "pub_date": "2026-09-02T20:57:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/rogue-ai-agents-crowdstrike-palo-alto-stock-a3ce8d02?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "The Real Question Behind CrowdStrike Stock's Premium Price",
+      "summary": "The cybersecurity leader looks expensive on paper, but the price you pay falls sharply on future earnings, if you believe the growth story.",
+      "pub_date": "2026-09-02T20:20:05Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/real-behind-crowdstrike-stocks-premium-202005883.html"
+    },
+    {
+      "title": "Stocks to Watch Recap: GitLab, Dell, Palo Alto Networks",
+      "summary": "\u2197\ufe0f GitLab (GTLB). Shares of the maker of software-development tools jumped 10% after its second-quarter results topped expectations both on revenue and earnings. \u2198\ufe0f Palo Alto Networks (PANW): The cybersecurity company's stock dropped 9.",
+      "pub_date": "2026-09-02T20:18:08Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-02-2026/card/stocks-to-watch-gitlab-dell-broadcom-2m7ydfkeWDkuDp7Ttt44?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Why Palo Alto Stock Is Getting Crushed After a Huge Earnings Beat",
+      "summary": "Adjusted earnings per share were $1.02, up from 95 cents last year, ahead of Wall Street projections of 98 cents.",
+      "pub_date": "2026-09-02T19:36:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/palo-alto-networks-q4-earnings-ai-demand-stock-dip-577cbe9d?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Buy Palo Alto Networks Stock? Earnings Reveal a $9.1B AI Security Boom",
+      "summary": "Palo Alto Networks' surging NGS ARR, strong cash flow and attractive valuation strengthen the case for PANW stock.",
+      "pub_date": "2026-09-02T19:00:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-palo-alto-networks-stock-190000275.html"
+    },
     {
       "title": "1 S&P 500 Stock with Impressive Fundamentals and 2 We Avoid",
       "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn\u2019t mean every stock is worth owning. Some companies face significant challenges, whether it\u2019s stagnating growth, heavy debt, or disruptive new competitors.",
@@ -22,41 +57,6 @@
       "pub_date": "2026-09-02T18:03:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-panicked-over-ai-180300698.html"
-    },
-    {
-      "title": "CrowdStrike\u2019s AI Security Boom May Still Have Room to Run",
-      "summary": "Wall Street experts believe that AI adoption continues to create a cybersecurity spending cycle, with companies increasingly needing to secure AI agents, applications, and cloud workloads. CrowdStrike Holdings, Inc. (NASDAQ:CRWD) is benefiting from this trend, posting record net new ARR of $333 million in Q2 2027, up 51% year-over-year, and upgrading FY27 net new ARR [\u2026]",
-      "pub_date": "2026-09-02T16:54:58Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-ai-security-boom-may-165458612.html"
-    },
-    {
-      "title": "Zscaler's Next Earnings Report on September 3 Could Send the Stock Soaring. Here's Why.",
-      "summary": "Cybersecurity companies have been firing on all cylinders. Here\u2019s what I\u2019m watching with Zscaler tomorrow.",
-      "pub_date": "2026-09-02T16:46:01Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zscalers-next-earnings-report-september-164601626.html"
-    },
-    {
-      "title": "Stocks to Watch: GitLab, Dell, Broadcom, Palo Alto Networks",
-      "summary": "\u2197\ufe0f GitLab (GTLB). Shares of the maker of software-development tools soared 15% after its second-quarter results topped expectations both on revenue and earnings. \u2198\ufe0f Palo Alto Networks (PANW): The cybersecurity company's stock dropped 9% after results released late yesterday showed a quarterly loss.",
-      "pub_date": "2026-09-02T16:01:58Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-02-2026/card/stocks-to-watch-gitlab-dell-broadcom-2m7ydfkeWDkuDp7Ttt44?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Why Palo Alto Stock Is Getting Crushed After a Huge Earnings Beat",
-      "summary": "Adjusted earnings per share were $1.02, up from 95 cents last year, ahead of Wall Street projections of 98 cents.",
-      "pub_date": "2026-09-02T15:15:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/palo-alto-networks-q4-earnings-ai-demand-stock-dip-577cbe9d?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "CrowdStrike Expands OpenAI Partnership to Secure Codex Agents and Integrate GPT-5.6 Cyber",
-      "summary": "CrowdStrike (NASDAQ:CRWD) has expanded its OpenAI partnership to secure Codex agents with Falcon Guardian and bring GPT-5. 6 Cyber into the Falcon platform, extending its cybersecurity strategy deeper into enterprise AI deployment and AI-assisted defense.",
-      "pub_date": "2026-09-02T14:59:55Z",
-      "source": "InvestorsHub",
-      "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-expands-openai-partnership-secure-145955421.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "ABBV",
-  "generated_at": "2026-09-02T19:09:11.861300+00:00",
+  "generated_at": "2026-09-02T22:15:15.180322+00:00",
   "items": [
+    {
+      "title": "Amgen Stock Signals Its Confidence. The Market Agrees.",
+      "summary": "The real bet is on what lies beyond this year's performance: a pipeline that could change everything.",
+      "pub_date": "2026-09-02T20:55:36Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amgen-stock-signals-confidence-market-205536189.html"
+    },
     {
       "title": "Can AI Save Pfizer Stock Before Its Patent Cliff Hits?",
       "summary": "Management's story has pivoted from concrete wins today to a distant, AI-powered future, a move that coincides with declining revenue in its core business.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-01T13:43:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/gsk-stock-down-14-six-134300555.html"
-    },
-    {
-      "title": "This Popular Healthcare ETF Is Diluting Your Dividend Income",
-      "summary": "XLV bundles the entire healthcare sector into one tidy package, but its cap-weighted structure quietly siphons off the income that dividend investors came for. Three stocks already inside the fund tell a very different yield story.",
-      "pub_date": "2026-08-31T18:02:08Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/healthcare/articles/popular-healthcare-etf-diluting-dividend-180208659.html"
     }
   ]
 }

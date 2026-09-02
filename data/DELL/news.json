@@ -1,7 +1,14 @@
 {
   "ticker": "DELL",
-  "generated_at": "2026-09-02T19:09:38.183849+00:00",
+  "generated_at": "2026-09-02T22:15:32.773228+00:00",
   "items": [
+    {
+      "title": "Tech stocks today: Snowflake stock soars on upbeat outlook as CEO touts AI 'flywheel'",
+      "summary": "Tech stocks were little changed as Uber announced layoffs and Dell earnings impressed.",
+      "pub_date": "2026-08-31T14:56:23Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-apple-ceo-steps-down-nvidia-mag-7-145623375.html"
+    },
     {
       "title": "Dell stock surges on record orders for AI servers",
       "summary": "Dell stock surged following the server maker's quarterly results on Tuesday.",
@@ -10,53 +17,46 @@
       "url": "https://finance.yahoo.com/markets/article/dell-stock-surges-on-record-orders-for-ai-servers-205629050.html"
     },
     {
-      "title": "Dell and GitLab stocks soar, MongoDB sinks on Q2 earnings",
-      "summary": "Asking for a Trend Host Josh Lipton eyes several stocks making moves in extended hours trading after releasing second quarter earnings results, including Dell Technologies (DELL), MongoDB (MDB), and GitLab (GTLB).",
-      "pub_date": "2026-09-01T20:49:10Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/dell-gitlab-stocks-soar-mongodb-204910637.html"
-    },
-    {
-      "title": "MongoDB Beat Every Estimate and Raised Guidance, Then Lost 13.6% in a Single Session",
-      "summary": "MongoDB crushed estimates and lifted guidance, then watched investors punish the stock anyway. The reason comes down to a single line buried in the earnings report that separates what the company reported from what it actually earned.",
-      "pub_date": "2026-09-02T18:40:53Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mongodb-beat-every-estimate-raised-184053697.html"
-    },
-    {
-      "title": "Stock Market Today: Dow, Small Caps Lead Rise; Palo Alto Networks Triggers Sell Rule (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index rises Tuesday after surprise jobs data. AI stock Credo plunges on earnings.",
-      "pub_date": "2026-09-02T18:28:29Z",
+      "title": "Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due",
+      "summary": "The stock market rose modestly Wednesday. Snowflake surged late on earnings while Broadcom and HPE fell. A Tesla Cybercab event looms.",
+      "pub_date": "2026-09-02T21:40:40Z",
       "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-data-ai-stock-credo-earnings/?src=A00220&yptr=yahoo"
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-snowflake-broadcom-hpe-earnings-tesla-cybercab-event/?src=A00220&yptr=yahoo"
     },
     {
-      "title": "Update: Equities Rise Intraday as Yield Rally Fades",
-      "summary": "(Updates with latest market prices and developments.) US benchmark equity indexes were higher int",
-      "pub_date": "2026-09-02T18:27:08Z",
+      "title": "Stock Market Today, Sept. 2: Dell Helps Stocks Edge Higher Despite Geopolitical Tensions",
+      "summary": "Today, Sept. 2, 2026, major indexes snapped losing streaks amid Iran-U.S. hostilities and rising Treasury yields pressuring tech valuations.",
+      "pub_date": "2026-09-02T21:31:13Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-2-213113460.html"
+    },
+    {
+      "title": "The Real Risk Inside Cisco Stock",
+      "summary": "The company is firing on all cylinders, but its biggest success story, the networking super cycle, carries a vulnerability that could challenge its premium price.",
+      "pub_date": "2026-09-02T21:20:36Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/real-risk-inside-cisco-stock-212036109.html"
+    },
+    {
+      "title": "ANET Has Left Its Peers Behind. Or Has It?",
+      "summary": "This networking leader's fundamentals are near the top of its class, but its stock performance has been left behind, forcing investors to ask if the market is right to be so cautious.",
+      "pub_date": "2026-09-02T21:12:21Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anet-left-peers-behind-211221818.html"
+    },
+    {
+      "title": "Stock Market Today, Sept. 2: Dell Surges 16% on Soaring AI Backlog",
+      "summary": "On Sept. 2, 2026, the infrastructure giant posted stronger-than-expected results backed by a $95 billion AI backlog, keeping investors focused on order conversion.",
+      "pub_date": "2026-09-02T21:03:53Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-2-210353722.html"
+    },
+    {
+      "title": "Update: US Equity Indexes Close Higher Amid Declining Treasury Yields, Rising Crude Oil",
+      "summary": "(Updates with index/price moves, macroeconomic data and company/geopolitical news from the first par",
+      "pub_date": "2026-09-02T20:55:52Z",
       "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/equities-rise-intraday-yield-rally-182708421.html"
-    },
-    {
-      "title": "DELL Q2 Earnings Beat Estimates, Strong AI Demand Aids Revenue Growth",
-      "summary": "Dell's Q2 fiscal 2027 results beat estimates as AI server demand surges, ISG revenues hit a record and management raises its full-year outlook.",
-      "pub_date": "2026-09-02T18:25:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-q2-earnings-beat-estimates-182500028.html"
-    },
-    {
-      "title": "Dell shares jump as Wall Street lifts price targets on AI server demand",
-      "summary": "Shares of Dell Technologies Inc (NASDAQ:DELL) climbed more than 10% Wednesday after the company posted broad-based earnings strength and raised its full-year guidance well above expectations, driven by surging demand for AI servers. Fiscal second-quarter revenue was $47 billion, up 58% year...",
-      "pub_date": "2026-09-02T18:18:00Z",
-      "source": "Proactive",
-      "url": "https://finance.yahoo.com/technology/ai/articles/dell-shares-jump-wall-street-181800061.html"
-    },
-    {
-      "title": "Is Lenovo's Cheap Valuation an Opportunity to Invest in the Stock?",
-      "summary": "LNVGY's low valuation, AI expansion and strong growth outlook offer upside potential, but PC weakness, rising costs and trade risks warrant caution.",
-      "pub_date": "2026-09-02T17:55:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lenovos-cheap-valuation-opportunity-invest-175500700.html"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-close-higher-205552192.html"
     }
   ]
 }

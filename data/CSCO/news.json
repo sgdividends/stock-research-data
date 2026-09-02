@@ -1,7 +1,35 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-09-02T19:09:35.009743+00:00",
+  "generated_at": "2026-09-02T22:15:30.732929+00:00",
   "items": [
+    {
+      "title": "The Real Risk Inside Cisco Stock",
+      "summary": "The company is firing on all cylinders, but its biggest success story, the networking super cycle, carries a vulnerability that could challenge its premium price.",
+      "pub_date": "2026-09-02T21:20:36Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/real-risk-inside-cisco-stock-212036109.html"
+    },
+    {
+      "title": "ANET Has Left Its Peers Behind. Or Has It?",
+      "summary": "This networking leader's fundamentals are near the top of its class, but its stock performance has been left behind, forcing investors to ask if the market is right to be so cautious.",
+      "pub_date": "2026-09-02T21:12:21Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anet-left-peers-behind-211221818.html"
+    },
+    {
+      "title": "Advanced Micro Devices (AMD) Dropped, So What Is Driving Attention Now?",
+      "summary": "Advanced Micro Devices (AMD) stock is back in focus after the company and partners Cisco and HUMAIN outlined plans to deploy up to 250 MW of AI infrastructure in Saudi Arabia starting in 2027. Despite the Saudi AI announcement and other partnerships around secure AI infrastructure, Advanced Micro Devices\u2019 recent share price has eased, with the 7-day share price return down 4.08% and the 90-day share price return down 15.28%. At the same time, the year-to-date share price return is up 105.67%...",
+      "pub_date": "2026-09-02T19:06:37Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-dropped-190637709.html"
+    },
+    {
+      "title": "Dell Stock Is Surging Thanks to Massive AI Demand Driven by Tech Infrastructure Spending",
+      "summary": "Dell reported better-than-expected second-quarter financial results after the stock market closed on Tuesday.",
+      "pub_date": "2026-09-02T18:50:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/ell-stock-soars-q2-earnings-guidance-beat-d07d0ee7?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Can AMD's Saudi AI Buildout Challenge NVIDIA and Broadcom?",
       "summary": "AMD is scaling its Saudi AI push with HUMAIN, targeting 250 MW from 2027 and up to 1 GW by 2030 as it challenges NVIDIA and Broadcom.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-09-02T17:00:57Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ai-infrastructure-stock-nobody-talks-170057218.html"
-    },
-    {
-      "title": "3 Reasons CSCO is Risky and 1 Stock to Buy Instead",
-      "summary": "Cisco has had an impressive run over the past six months as its shares have beaten the S&P 500 by 26.4%. The stock now trades at $109.75, marking a 38.2% gain. This was partly due to its solid quarterly results, and the run-up might have investors contemplating their next move.",
-      "pub_date": "2026-09-02T13:16:23Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-csco-risky-1-131623149.html"
-    },
-    {
-      "title": "Dell Stock Is Surging Thanks to Massive AI Demand Driven by Tech Infrastructure Spending",
-      "summary": "Dell reported better-than-expected second-quarter financial results after the stock market closed on Tuesday.",
-      "pub_date": "2026-09-02T12:36:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/ell-stock-soars-q2-earnings-guidance-beat-d07d0ee7?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "What Does Cisco Systems (CSCO) Fire Ant Router Espionage Mean For Investors?",
-      "summary": "Cisco Systems (NasdaqGS:CSCO) disclosed that a China linked group known as \"Fire Ant\" has been targeting Cisco IOS XR routers in a cyber espionage campaign. The threat actor has reportedly secured persistent access to high value network infrastructure, raising concerns over the security of affected routers and customer traffic. The incident highlights elevated cyber risks around Cisco's core networking platforms, which are distinct from its recently discussed AI infrastructure and sovereign...",
-      "pub_date": "2026-09-01T20:14:44Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-cisco-systems-csco-fire-201444427.html"
-    },
-    {
-      "title": "Deutsche Bank Names Lumentum and Coherent Top AI Picks as Spending Surges",
-      "summary": "Deutsche Bank Unveils Its Top AI Hardware Stocks as Demand Keeps Growing",
-      "pub_date": "2026-09-01T18:00:35Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/deutsche-bank-names-lumentum-coherent-180035804.html"
     }
   ]
 }

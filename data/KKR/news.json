@@ -1,7 +1,14 @@
 {
   "ticker": "KKR",
-  "generated_at": "2026-09-02T19:10:04.781176+00:00",
+  "generated_at": "2026-09-02T22:15:48.550791+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Higher Late Afternoon",
+      "summary": "Financial stocks were advancing late Wednesday afternoon, with the NYSE Financial Index adding 1% an",
+      "pub_date": "2026-09-02T19:44:21Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-higher-afternoon-194421053.html"
+    },
     {
       "title": "Sector Update: Financial Stocks Rise Wednesday Afternoon",
       "summary": "Financial stocks were advancing Wednesday afternoon, with the NYSE Financial Index and the State Str",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-01T02:35:07Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/kkr-rises-1-7-3-023507649.html"
-    },
-    {
-      "title": "Sector Update: Financial Stocks Fall Late Afternoon",
-      "summary": "Financial stocks were lower in late Monday afternoon trading, with the NYSE Financial Index and the",
-      "pub_date": "2026-08-31T19:58:19Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-fall-afternoon-195819260.html"
     }
   ]
 }
