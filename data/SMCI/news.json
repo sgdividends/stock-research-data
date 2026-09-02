@@ -1,13 +1,41 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-09-02T08:19:10.780505+00:00",
+  "generated_at": "2026-09-02T15:49:15.897439+00:00",
   "items": [
     {
-      "title": "Dell Stock Gains After Earnings Come In Way Ahead of Estimates",
+      "title": "Dell Surges 9% on Record $95B AI Backlog, Hewlett Packard Enterprise Climbs 4%, Super Micro Ticks Up",
+      "summary": "Dell just handed Wall Street a number so large it forced analysts to reopen their models on a Wednesday morning, and the ripple through enterprise hardware is anything but even.",
+      "pub_date": "2026-09-02T13:20:01Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/dell-surges-9-record-95b-132001959.html"
+    },
+    {
+      "title": "Dell Stock Is Surging Thanks to Massive AI Demand Driven by Tech Infrastructure Spending",
       "summary": "Dell reported better-than-expected second-quarter financial results after the stock market closed on Tuesday.",
-      "pub_date": "2026-09-01T20:52:00Z",
+      "pub_date": "2026-09-02T12:36:00Z",
       "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/dell-earnings-stock-price-d07d0ee7?siteid=yhoof2&yptr=yahoo"
+      "url": "https://www.barrons.com/articles/ell-stock-soars-q2-earnings-guidance-beat-d07d0ee7?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights NVIDIA, Super Micro Computer, Semtech, SiTime and Keysight Technologies",
+      "summary": "NVIDIA, Super Micro Computer, Semtech, SiTime and Keysight ride AI demand, with rising estimates and momentum supporting September prospects.",
+      "pub_date": "2026-09-02T12:34:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-nvidia-123400462.html"
+    },
+    {
+      "title": "Premarket movers: Dell, GitLab surge and MongoDB tumbles",
+      "summary": "Investing.com - U.S. stock index futures edged lower on Wednesday as investors contended with a global bond selloff, elevated energy prices and growing expectations that the Federal Reserve could raise interest rates later this month, putting pressure on rate-sensitive technology stocks.",
+      "pub_date": "2026-09-02T12:14:08Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-dell-gitlab-surge-121408389.html"
+    },
+    {
+      "title": "Jim Cramer Rejected This AI Stock Before It Rose Over 30% in August",
+      "summary": "Jim Cramer dismissed Super Micro Computer on a Monday and then had to explain its massive August gain on a Monday just six trading days later. The bear case he keeps citing never went away, so what exactly is the market seeing that he is not?",
+      "pub_date": "2026-09-02T10:58:10Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-rejected-ai-stock-105810052.html"
     },
     {
       "title": "Dell Falls 4% Ahead of Earnings as Its 266% Rally Raises the Bar, Super Micro and Hewlett Packard Enterprise Slip",
@@ -29,34 +57,6 @@
       "pub_date": "2026-09-01T13:16:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-albertsons-companies-131600374.html"
-    },
-    {
-      "title": "Zacks Investment Ideas feature highlights: Dell, Nvidia, Hewlett Packard, Super Micro Computer and Lenovo",
-      "summary": "Dell heads into Q2 with surging AI server demand, rising EPS estimates and high expectations ahead of its earnings report.",
-      "pub_date": "2026-09-01T12:58:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-125800574.html"
-    },
-    {
-      "title": "Buy 5 AI-Powered Momentum Stocks for September After a Strong August",
-      "summary": "NVDA, SMCI, SMTC, SITM and KEYS are five AI-powered stocks that combine strong momentum with robust growth prospects as September begins.",
-      "pub_date": "2026-09-01T12:44:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-5-ai-powered-momentum-124400320.html"
-    },
-    {
-      "title": "SMCI vs. CoreWeave: 1 AI Infrastructure Model Has the Bigger Opportunity",
-      "summary": "SMCI is betting on the AI buildout, while CoreWeave is betting on what comes after. Only one has the bigger long-term opportunity.",
-      "pub_date": "2026-09-01T11:30:02Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/technology/ai/articles/smci-vs-coreweave-1-ai-113002988.html"
-    },
-    {
-      "title": "DELL, HPE Stocks Draw Focus Ahead Of Earnings This Week \u2014 And SMCI Bulls Are Watching Closely",
-      "summary": "The AI infrastructure boom is facing another key readout as investors gauge whether demand remains strong enough to support elevated valuations.",
-      "pub_date": "2026-09-01T08:21:09Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-hpe-stocks-draw-focus-082109508.html"
     }
   ]
 }

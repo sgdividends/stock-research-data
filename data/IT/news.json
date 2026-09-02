@@ -1,7 +1,14 @@
 {
   "ticker": "IT",
-  "generated_at": "2026-09-02T08:18:51.195917+00:00",
+  "generated_at": "2026-09-02T15:48:49.429266+00:00",
   "items": [
+    {
+      "title": "2 S&P 500 Stocks to Target This Week and 1 That Underwhelm",
+      "summary": "The S&P 500 (^GSPC) is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are created equal - some are struggling with slowing growth, declining margins, or increased competition.",
+      "pub_date": "2026-09-02T10:52:23Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-target-105223066.html"
+    },
     {
       "title": "Q2 Earnings Recap: Gartner (NYSE:IT) Tops IT Services & Consulting Stocks",
       "summary": "Wrapping up Q2 earnings, we look at the numbers and key takeaways for the it services & consulting stocks, including Gartner (NYSE:IT) and its peers.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-28T15:07:59Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-optimism-gartner-leadership-could-150759303.html"
-    },
-    {
-      "title": "GDS Stock Jumps 13% in a Month: Here's What You Should Know",
-      "summary": "GDS jumps 13% in a month as AI-led bookings, rising utilization and a heavily pre-committed expansion pipeline support growth.",
-      "pub_date": "2026-08-28T14:22:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gds-stock-jumps-13-month-142200521.html"
     }
   ]
 }

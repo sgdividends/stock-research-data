@@ -1,7 +1,14 @@
 {
   "ticker": "MCK",
-  "generated_at": "2026-09-02T08:18:57.053673+00:00",
+  "generated_at": "2026-09-02T15:48:57.308021+00:00",
   "items": [
+    {
+      "title": "McKesson confirms data theft in cyberattack involving third-party apps",
+      "summary": "The healthcare distributor said the incident affected a subset of customers in its oncology and medical-surgical businesses.",
+      "pub_date": "2026-09-02T10:51:16Z",
+      "source": "Healthcare Dive",
+      "url": "https://finance.yahoo.com/healthcare/articles/mckesson-confirms-data-theft-cyberattack-105116261.html"
+    },
     {
       "title": "Here's How Much a $1000 Investment in McKesson Made 10 Years Ago Would Be Worth Today",
       "summary": "Why investing for the long run, especially if you buy certain popular stocks, could reap huge rewards.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-26T10:11:35Z",
       "source": "BioPharma Dive",
       "url": "https://finance.yahoo.com/healthcare/articles/zepbound-may-cut-healthcare-costs-101135076.html"
-    },
-    {
-      "title": "McKesson to acquire Precision Medicine Group for $2.25bn",
-      "summary": "McKesson believes that the deal will support its clinical research and biopharmaceutical commercialisation services.",
-      "pub_date": "2026-08-26T09:46:14Z",
-      "source": "Pharmaceutical Technology",
-      "url": "https://finance.yahoo.com/healthcare/articles/mckesson-acquire-precision-medicine-group-094614883.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "FIS",
-  "generated_at": "2026-09-02T08:18:43.128897+00:00",
+  "generated_at": "2026-09-02T15:48:38.263016+00:00",
   "items": [
+    {
+      "title": "Visa Turns A2A Fraud Risk Into a New Growth Opportunity",
+      "summary": "Visa is turning A2A fraud protection into a growth opportunity, using AI to detect scams earlier while opening new software revenue streams.",
+      "pub_date": "2026-09-02T13:24:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/visa-turns-a2a-fraud-risk-132400983.html"
+    },
     {
       "title": "How Can FIS' Wallet Partnership With Ericsson Drive Long-Term Growth?",
       "summary": "Fidelity National's Ericsson partnership will likely speed digital wallet launches, cut integration costs and drive recurring payment, issuing and service revenues.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-21T17:10:36Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/fidelity-national-information-services-fis-171036252.html"
-    },
-    {
-      "title": "Flagstar picks cloud-native core to replace legacy patchwork",
-      "summary": "While there\u2019s plenty of industry chatter about cloud-native and API-powered capabilities, Flagstar Bank executives found \u201ca lot of variation\u201d as they evaluated different core systems.",
-      "pub_date": "2026-08-21T09:17:06Z",
-      "source": "Banking Dive",
-      "url": "https://finance.yahoo.com/technology/articles/flagstar-picks-cloud-native-core-091706733.html"
     }
   ]
 }
