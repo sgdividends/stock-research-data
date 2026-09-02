@@ -1,62 +1,62 @@
 {
   "ticker": "JNJ",
-  "generated_at": "2026-09-02T15:48:51.094185+00:00",
+  "generated_at": "2026-09-02T19:10:03.433472+00:00",
   "items": [
+    {
+      "title": "Can AI Save Pfizer Stock Before Its Patent Cliff Hits?",
+      "summary": "Management's story has pivoted from concrete wins today to a distant, AI-powered future, a move that coincides with declining revenue in its core business.",
+      "pub_date": "2026-09-02T18:19:07Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/healthcare/articles/ai-save-pfizer-stock-patent-181907900.html"
+    },
+    {
+      "title": "The Wide Divide Priced Into Boston Scientific Stock",
+      "summary": "The market's valuation reflects a wide breadth of potential outcomes for the company, exposing shareholders to the full magnitude of that underlying risk.",
+      "pub_date": "2026-09-02T17:52:36Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/wide-divide-priced-boston-scientific-175236085.html"
+    },
+    {
+      "title": "Sector Update: Healthcare Stocks Advance Wednesday Afternoon",
+      "summary": "Healthcare stocks were higher Wednesday afternoon, with the NYSE Healthcare Index adding 0.7% and th",
+      "pub_date": "2026-09-02T17:38:22Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-advance-wednesday-173822708.html"
+    },
+    {
+      "title": "How Did Merck Stock Beat The Market With Slowing Sales?",
+      "summary": "Before the eighty-five percent surge, the company's pipeline story was getting louder just as its revenue trajectory was getting quieter.",
+      "pub_date": "2026-09-02T17:16:51Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/did-merck-stock-beat-market-171651441.html"
+    },
+    {
+      "title": "J&J Jumps as UBS Lifts Its Target to $320",
+      "summary": "The new objective implies roughly 16% upside and reflects stronger expectations for J&J's pharmaceutical pipeline.",
+      "pub_date": "2026-09-02T16:42:53Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/j-j-jumps-ubs-lifts-164253043.html"
+    },
+    {
+      "title": "Johnson & Johnson's Drug Pipeline Supports Growth Outlook, UBS Securities Says",
+      "summary": "Johnson & Johnson (JNJ) is positioned for accelerating growth, supported by a strong pharma pipeline",
+      "pub_date": "2026-09-02T15:48:49Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-apos-drug-pipeline-154849671.html"
+    },
+    {
+      "title": "Dow Adds 300 Points, With Most Stocks Taking Part in the Rally",
+      "summary": "The Dow was on the rise early in Wednesday's trading session, and the gains were being felt broadly across the blue-chip index. The Dow Jones Industrial Average was up 0.6%, or 326 points, while the S&P 500 and Nasdaq Composite ticked higher, rising 0.",
+      "pub_date": "2026-09-02T14:13:43Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-090226/card/dow-adds-300-points-with-most-stocks-taking-part-in-the-rally-hAL0KEduBV4ObpZFTJWR?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "AZN Stock Down 20% in 6 Months: How to Play After Pipeline Setbacks",
       "summary": "AstraZeneca's pipeline setbacks weigh on the stock, but blockbuster drugs, oncology growth and a strong launch pipeline offer reasons to stay invested.",
       "pub_date": "2026-09-02T14:10:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/azn-stock-down-20-6-141000290.html"
-    },
-    {
-      "title": "J&J Faces Multiple Headwinds: Can the Healthcare Giant Sustain Growth?",
-      "summary": "JNJ faces Stelara and upcoming drug LOEs, MedTech weakness and talc litigation, but targets accelerated growth in 2026 and beyond.",
-      "pub_date": "2026-09-02T13:47:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/healthcare/articles/j-j-faces-multiple-headwinds-134700670.html"
-    },
-    {
-      "title": "Enovis inks eCential takeover to develop surgical ortho robots",
-      "summary": "The orthopedics specialist aims to launch a knee robot in late 2028, followed by a shoulder robot in 2029.",
-      "pub_date": "2026-09-02T10:00:00Z",
-      "source": "MedTech Dive",
-      "url": "https://finance.yahoo.com/healthcare/articles/enovis-inks-ecential-takeover-develop-100000844.html"
-    },
-    {
-      "title": "Does Johnson & Johnson (JNJ) Talc Verdict Add To Its Legal Risk?",
-      "summary": "Johnson & Johnson (NYSE: JNJ) was found liable by a Louisiana jury in a high-profile talc-related mesothelioma case, adding a fresh verdict to its ongoing talc litigation. The jury decision centers on alleged asbestos exposure from Johnson & Johnson talc products and raises questions about potential future legal costs for the company. This verdict contributes to the broader legal overhang that investors weigh alongside Johnson & Johnson's core healthcare operations and balance sheet...",
-      "pub_date": "2026-09-02T02:10:51Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/healthcare/articles/does-johnson-johnson-jnj-talc-021051392.html"
-    },
-    {
-      "title": "Johnson & Johnson (JNJ) Rises As Market Takes a Dip: Key Facts",
-      "summary": "Johnson & Johnson (JNJ) closed at $271.19 in the latest trading session, marking a +2.01% move from the prior day.",
-      "pub_date": "2026-09-01T21:45:02Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-jnj-rises-market-214502046.html"
-    },
-    {
-      "title": "Three Dividend Kings That Pay a 75-Year-Old $3,900 a Month: KO, JNJ, and PEP",
-      "summary": "Replacing nearly $47,000 a year in retirement income without touching principal sounds like a math problem, but the real trap is choosing the wrong yield tier and watching either your paycheck or your nest egg quietly shrink.",
-      "pub_date": "2026-09-01T20:42:24Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/three-dividend-kings-pay-75-204224599.html"
-    },
-    {
-      "title": "Medtronic Raises Full-Year Outlook Following Fiscal First-Quarter Beat",
-      "summary": "Medtronic (MDT) lifted its full-year outlook on Tuesday as the medical-device maker reported better-",
-      "pub_date": "2026-09-01T13:09:07Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/healthcare/articles/medtronic-raises-full-outlook-following-130907056.html"
-    },
-    {
-      "title": "Why Procter & Gamble\u2019s Quieter Dividend Outpaces Johnson & Johnson\u2019s Growth Story",
-      "summary": "Both Johnson and Johnson and Procter & Gamble just refreshed decades-long dividend streaks, but one company has a corporate event on the horizon that has derailed other legendary payout records before.",
-      "pub_date": "2026-09-01T13:05:16Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-procter-gamble-quieter-dividend-130516567.html"
     }
   ]
 }

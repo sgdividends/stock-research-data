@@ -1,7 +1,14 @@
 {
   "ticker": "ICE",
-  "generated_at": "2026-09-02T15:48:47.029563+00:00",
+  "generated_at": "2026-09-02T19:09:58.888719+00:00",
   "items": [
+    {
+      "title": "NYSE uses Anthropic\u2019s Mythos to find cyber security flaws",
+      "summary": "Investing.com -- The New York Stock Exchange has used Anthropic PBC's Project Glasswing to identify and address vulnerabilities in its cyber security systems, according to exchange President Lynn Martin.",
+      "pub_date": "2026-09-02T17:32:19Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nyse-uses-anthropic-mythos-cyber-173219625.html"
+    },
     {
       "title": "Intercontinental Exchange (ICE) Stays Resilient Amidst Competition and Innovation",
       "summary": "Sands Capital, an investment management company, released its \u201cSands Capital Select Growth Fund\u201d Q2 2026 investor letter. The letter can be downloaded here. Select Growth Fund targets U.S. businesses driving significant structural change through disruptive innovation. The fund returned 23.2% in the quarter, outperforming the Russell 1000 Growth Index\u2019s 16.7%. U.S. large-cap growth equities rebounded [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-31T17:31:24Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/markets/crypto/articles/ice-nasdaq-shares-fall-rumor-173124260.html"
-    },
-    {
-      "title": "NYSE Owner ICE Taps tZERO to Build Infrastructure for Tokenized Securities",
-      "summary": "Intercontinental Exchange (ICE) (NYSE: $ICE), the parent company of the New York Stock Exchange, has partnered with...",
-      "pub_date": "2026-08-31T15:41:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/nyse-owner-ice-taps-tzero-154100655.html"
     }
   ]
 }
