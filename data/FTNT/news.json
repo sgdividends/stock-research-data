@@ -1,7 +1,14 @@
 {
   "ticker": "FTNT",
-  "generated_at": "2026-09-03T08:28:15.431467+00:00",
+  "generated_at": "2026-09-03T15:37:52.711298+00:00",
   "items": [
+    {
+      "title": "The Zacks Analyst Blog Highlights Palo Alto Networks, CrowdStrike and Fortinet",
+      "summary": "Palo Alto Networks' $9.1B NGS ARR, strong profitability and 22-23% FY27 growth outlook highlight rising AI security demand.",
+      "pub_date": "2026-09-03T12:46:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-palo-124600873.html"
+    },
     {
       "title": "The Real Risk Inside Cisco Stock",
       "summary": "The company is firing on all cylinders, but its biggest success story, the networking super cycle, carries a vulnerability that could challenge its premium price.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-01T14:50:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/top-ai-powered-security-stocks-145000072.html"
-    },
-    {
-      "title": "Fortinet (FTNT) Stock May Be Fully Priced Despite Strong Cash Flow And Rich Earnings",
-      "summary": "Fortinet stock has delivered very strong returns over the past three years, yet current valuation checks suggest the market price is at a premium to its intrinsic value estimate and to broader peer-based multiples. Fortinet has returned 180.8% over the past three years, which puts extra focus on whether the current share price already reflects high expectations. The recent Cybersecurity Maturity Model Certification Level 2 for Fortinet Federal may support investor confidence in the company\u2019s...",
-      "pub_date": "2026-09-01T13:06:44Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fortinet-ftnt-stock-may-fully-130644709.html"
     }
   ]
 }

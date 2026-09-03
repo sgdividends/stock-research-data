@@ -1,62 +1,62 @@
 {
   "ticker": "MRVL",
-  "generated_at": "2026-09-03T08:28:30.174118+00:00",
+  "generated_at": "2026-09-03T15:38:11.427590+00:00",
   "items": [
+    {
+      "title": "How Nvidia's latest deal continues to target all points of the AI trade",
+      "summary": "Yahoo Finance Senior Business Reporter Ines Ferr\u00e9 joins Yahoo Finance Executive Editor Brian Sozzi to report on Nvidia's $12.9 billion acquisition of Hugging Face, the company's bet on open AI models, and now accounting for 8% of the S&P 500 market cap.",
+      "pub_date": "2026-09-03T14:37:17Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/nvidias-latest-deal-continues-target-143717372.html"
+    },
+    {
+      "title": "Can PENG Turn Integrated Memory Growth Into an Edge Over Competitors?",
+      "summary": "Penguin Solutions' Integrated Memory surge, CXL offerings and MemoryAI performance gains are sharpening its competitive position in AI infrastructure.",
+      "pub_date": "2026-09-03T14:44:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/articles/peng-turn-integrated-memory-growth-144400115.html"
+    },
+    {
+      "title": "Will Credo's Neocloud Expansion Broaden Its AEC Growth Runway?",
+      "summary": "CRDO's AEC growth runway is widening as hyperscaler penetration deepens, 1.6T transition advances and Neocloud demand broadens its customer base.",
+      "pub_date": "2026-09-03T14:34:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/credos-neocloud-expansion-broaden-aec-143400269.html"
+    },
+    {
+      "title": "Why Nvidia Is the Big Winner From Broadcom Earnings",
+      "summary": "Score one to  Nvidia  The chip company emerged as the clear winner over rival  Broadcom  when it comes to the market reaction to their latest earnings report.  It\u2019s not that there was much wrong with Broadcom\u2019s earnings.  Nvidia\u2019s projections were well ahead of what Wall Street analysts had penciled in.",
+      "pub_date": "2026-09-03T14:17:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/nvidia-stock-broadcom-earnings-winner-0e2d44a3?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Broadcom Falls 6% as Soft Guidance Overshadows 221% AI Revenue Surge; NVIDIA Inches Higher, AMD Slips",
+      "summary": "Broadcom's AI revenue just posted a triple-digit surge, yet the stock is getting punished while its biggest rival is trading higher on the same report. The reason comes down to a margin story that is splitting the entire custom-silicon trade in two.",
+      "pub_date": "2026-09-03T14:05:56Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-falls-6-soft-guidance-140556754.html"
+    },
+    {
+      "title": "Marvell Technology Knows Synopsys Is a Huge Threat",
+      "summary": "Marvell and Synopsys both profit from the AI chip boom, but one company is quietly handing hyperscalers the tools to cut the other out entirely. The tension between them reveals something uncomfortable about where custom silicon money actually flows.",
+      "pub_date": "2026-09-03T13:22:12Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-technology-knows-synopsys-huge-132212639.html"
+    },
+    {
+      "title": "Jim Cramer's Says This Stock Is Primed for a \u201cHuge Move\u201d",
+      "summary": "Jim Cramer says Snowflake stock faces a huge move after a 23% pop, while Broadcom's AI beat gets a cooler read.",
+      "pub_date": "2026-09-03T11:28:13Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramers-says-stock-primed-112813256.html"
+    },
     {
       "title": "Broadcom\u2019s Outlook Shows Surging AI Chip Sales",
       "summary": "Broadcom, a key beneficiary of AI data center investment, grew its revenue by 86% in the latest quarter.",
-      "pub_date": "2026-09-02T21:31:00Z",
+      "pub_date": "2026-09-03T08:16:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/broadcom-earnings-todya-stock-price-13672771?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Broadcom pares losses as revenue is projected to double in both 2027 and 2028",
-      "summary": "Investing.com -- Broadcom shares pared losses to 0.3% in extended trading on Wednesday after CEO Hock Tan shared predictions of revenue doubling in both 2027 and 2028 during the company\u2019s earnings call. The news helped the stock reverse course after Broadcom forecasted fourth-quarter revenue below Wall Street estimates, raising concerns that intensifying competition in custom artificial intelligence processors could limit growth.",
-      "pub_date": "2026-09-02T21:15:57Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-shares-fall-3-revenue-211557374.html"
-    },
-    {
-      "title": "The Real Price of Marvell Stock's Growth",
-      "summary": "If you hold Marvell Technology (MRVL) stock, you\u2019ve seen its price fluctuate. The company is posting strong growth, raising its revenue outlook for next year by $1.5 billion in a single quarter. Yet the stock is well off its highs, and it recently dropped even after reporting those results. This isn't a contradiction; it\u2019s a signal that the market is focused on a new, more complicated question. The central risk for Marvell isn't that its AI-driven growth will stop. It\u2019s that the very nature of t",
-      "pub_date": "2026-09-02T21:03:33Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/real-price-marvell-stocks-growth-210333774.html"
-    },
-    {
-      "title": "Broadcom Q3 FY2026 earnings: Record revenue on AI chip demand",
-      "summary": "The chipmaker's semiconductor solutions segment more than doubled year over year, driven by custom AI accelerator demand",
-      "pub_date": "2026-09-02T20:46:17Z",
-      "source": "Quartz",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-q3-fy2026-earnings-record-204617208.html"
-    },
-    {
-      "title": "Broadcom Beats Third-Quarter Estimates on Strong AI Chip Sales",
-      "summary": "Broadcom's (AVGO) fiscal third-quarter results topped Wall Street estimates, driven by a surge in ar",
-      "pub_date": "2026-09-02T20:45:44Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-beats-third-quarter-estimates-204544601.html"
-    },
-    {
-      "title": "Adobe Poised for Solid Third Quarter as ARR Seen Topping Views, RBC Says",
-      "summary": "Adobe (ADBE) is expected to report solid fiscal third-quarter results, with its annual recurring rev",
-      "pub_date": "2026-09-02T20:17:43Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-poised-solid-third-quarter-201743662.html"
-    },
-    {
-      "title": "Beyond The Cloud Giants: What Could Power NVIDIA Stock From Here?",
-      "summary": "The market is obsessed with a handful of hyperscalers, but the real story might be the thousands of customers you've never heard of.",
-      "pub_date": "2026-09-02T16:24:47Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/beyond-cloud-giants-could-power-162447468.html"
-    },
-    {
-      "title": "Credo Technology Reports Q1 Results: Should Investors Hold or Fold?",
-      "summary": "CRDO's strong Q1 growth and AI demand face a key test as optical ramps, customer concentration and valuation raise risks.",
-      "pub_date": "2026-09-02T15:07:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-reports-q1-results-150700193.html"
     }
   ]
 }

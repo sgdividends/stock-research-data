@@ -1,13 +1,48 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-09-03T08:28:21.234725+00:00",
+  "generated_at": "2026-09-03T15:37:59.266289+00:00",
   "items": [
     {
-      "title": "Here's the biggest thing keeping AI stock investors up at night",
-      "summary": "Investors in AI stocks are not without their long list of worries \u2014 chief among them is that demand is peaking.",
-      "pub_date": "2026-09-02T09:55:13Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/article/heres-the-biggest-thing-keeping-ai-stock-investors-up-at-night-095513638.html"
+      "title": "This One Metric Is Why I\u2019m Going to Keep Buying Nvidia Hand-Over-Fist",
+      "summary": "One stubborn number buried in Nvidia's latest earnings report signals something that almost never survives at hardware scale, and it is the reason this investor keeps adding shares despite a valuation that looks stretched on the surface.",
+      "pub_date": "2026-09-03T15:30:40Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/one-metric-why-m-going-153040042.html"
+    },
+    {
+      "title": "Nebius Group And 2 Top AI Stocks To Watch",
+      "summary": "With global inflation signals starting to moderate and market expectations for policy rates adjusting, investors are paying closer attention to companies that already turn heavy AI spending into real earnings. That is where profitable AI builders come in. Instead of chasing hopeful stories, you can focus on stocks using AI to support cash flow today. This article walks through three of the strongest examples from that profitable AI universe. The three stocks covered below are just a starting...",
+      "pub_date": "2026-09-03T14:12:21Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nebius-group-2-top-ai-141221092.html"
+    },
+    {
+      "title": "Memory Costs Rise: Can NVIDIA Protect Its 70%+ Gross Margin?",
+      "summary": "NVDA's rising memory costs may pressure margins, but pricing power, Blackwell demand and supplier ties could keep profitability above 70%.",
+      "pub_date": "2026-09-03T12:31:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/memory-costs-rise-nvidia-protect-123100346.html"
+    },
+    {
+      "title": "AMD is Quietly Eating Intel\u2019s Lunch",
+      "summary": "AMD and Intel both posted blockbuster data center quarters, but one company is bleeding billions from its own factories while the other signs gigawatt GPU deals with Anthropic and Microsoft. The gap between their margin stories reveals which x86 giant is actually winning the AI era.",
+      "pub_date": "2026-09-03T12:24:46Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-quietly-eating-intel-lunch-122446788.html"
+    },
+    {
+      "title": "75% of Nvidia's $63 Billion Investment Portfolio Has Been Put to Work in Just 2 Game-Changing AI Stocks",
+      "summary": "Two timely investments over the last year have significantly appreciated in value.",
+      "pub_date": "2026-09-03T11:26:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/75-nvidias-63-billion-investment-112600966.html"
+    },
+    {
+      "title": "Intel (INTC) Could Be 82% Below Fair Value After Kasm AI Partnership",
+      "summary": "Intel (INTC) is back in focus after Kasm Technologies expanded their partnership to run private large language models on Intel Xeon 6 processors with Advanced Matrix Extensions, targeting regulated industries that need local, compliant AI. Against this backdrop, Intel\u2019s share price has cooled in recent months, with a 90 day share price return down 19.44%, even as the year-to-date share price return is 128.67% and the 1 year total shareholder return is 275.21%. This suggests powerful long-term...",
+      "pub_date": "2026-09-03T10:11:07Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-could-82-below-101107945.html"
     },
     {
       "title": "Intel Stock Tripled in a Year, So Where Will It Be in 5 Years?",
@@ -22,41 +57,6 @@
       "pub_date": "2026-09-02T21:03:33Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/real-price-marvell-stocks-growth-210333774.html"
-    },
-    {
-      "title": "Why Is Nvidia Willing to Pay $14 Billion for Hugging Face?",
-      "summary": "Nvidia is reportedly nearing a deal to buy AI platform Hugging Face for about $14 billion. It could be a long-term boost for the stock.",
-      "pub_date": "2026-09-02T17:42:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/nvidia-stock-price-hugging-face-deal-93d524fe?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Prediction: Intel Stock Could Have a Major Catalyst Ahead",
-      "summary": "Intel has staged one of the most dramatic reversals in semiconductor history, but the real question is whether the forces driving its comeback can hold long enough to justify where the stock sits today.",
-      "pub_date": "2026-09-02T17:30:12Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-intel-stock-could-major-173012959.html"
-    },
-    {
-      "title": "Beyond The Cloud Giants: What Could Power NVIDIA Stock From Here?",
-      "summary": "The market is obsessed with a handful of hyperscalers, but the real story might be the thousands of customers you've never heard of.",
-      "pub_date": "2026-09-02T16:24:47Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/beyond-cloud-giants-could-power-162447468.html"
-    },
-    {
-      "title": "Micron Stock Offers More Than A Market Ride",
-      "summary": "The memory chip maker's recent tear has investors chasing, but its real value lies in how it moves on its own.",
-      "pub_date": "2026-09-02T16:02:27Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-stock-offers-more-market-160227280.html"
-    },
-    {
-      "title": "Nvidia Nears $12.9 Billion Deal for Hugging Face",
-      "summary": "Hugging Face was valued at $4.5 billion three years ago",
-      "pub_date": "2026-09-02T15:45:38Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nears-12-9-billion-154538468.html"
     }
   ]
 }

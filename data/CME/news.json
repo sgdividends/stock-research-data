@@ -1,7 +1,14 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-09-03T08:28:02.211950+00:00",
+  "generated_at": "2026-09-03T15:37:38.032733+00:00",
   "items": [
+    {
+      "title": "Gold Extends Gains, Climbing Above $4,500 a Troy Ounce",
+      "summary": "Gold extended gains, supported by a weaker dollar and as Treasury yields declined from multi-year highs.",
+      "pub_date": "2026-09-03T13:50:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-markets-await-further-u-s-jobs-data-926919c4?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Morning Bid: Bonds breathe sigh of relief",
       "summary": "A look at the day ahead in European and global markets from Rocky Swift Battered bond markets licked their wounds on Thursday, with yields in the U.S. and Japan edging lower, but little has changed to",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-29T12:11:51Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/options/articles/cme-factor-wind-power-futures-121151935.html"
-    },
-    {
-      "title": "Wall Street is turning Nvidia's AI chips into a new futures market: Chart of the Day",
-      "summary": "AI spending keeps getting bigger \u2014 figuring out how to price it is still hard.",
-      "pub_date": "2026-08-29T11:51:18Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/wall-street-is-turning-nvidias-ai-chips-into-a-new-futures-market-chart-of-the-day-115118331.html"
     }
   ]
 }

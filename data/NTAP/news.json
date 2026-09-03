@@ -1,20 +1,48 @@
 {
   "ticker": "NTAP",
-  "generated_at": "2026-09-03T08:28:32.525793+00:00",
+  "generated_at": "2026-09-03T15:38:14.342656+00:00",
   "items": [
+    {
+      "title": "NetApp Expands AWS Transform Support to Accelerate Enterprise Storage Migrations",
+      "summary": "Amazon FSx for NetApp ONTAP is now supported by AWS Transform, allowing enterprises to migrate attached storage and database workloads directly to AWS through a more integrated cloud migration process. Key Investor TakeawaysNetApp (NASDAQ:NTAP) and AWS have expanded their collaboration by adding Amazon FSx for NetApp ONTAP as a supported storage target within AWS Transform.",
+      "pub_date": "2026-09-03T14:13:38Z",
+      "source": "InvestorsHub",
+      "url": "https://finance.yahoo.com/technology/ai/articles/netapp-expands-aws-transform-support-141338315.html"
+    },
+    {
+      "title": "NTAP Q1 Earnings & Revenues Top Estimates on AI and All-Flash Strength",
+      "summary": "NetApp posts record fiscal Q1 results as AI and modernization demand fuels revenue growth, flash momentum and a raised fiscal 2027 outlook.",
+      "pub_date": "2026-09-03T14:13:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ntap-q1-earnings-revenues-top-141300605.html"
+    },
+    {
+      "title": "Why NetApp Stock Is Falling Despite A Big Earnings Beat",
+      "summary": "NetApp stock slid Thursday despite the enterprise data storage firm reporting fiscal Q1 results easily ahead of views.",
+      "pub_date": "2026-09-03T13:00:24Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/technology/netapp-stock-earnings-july-2026-ntap-news/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Dow Jones Futures Rise, Oil Prices Keep Climbing; Snowflake, Victoria's Secret Are Big Movers With Tesla Cybercab Event Due",
+      "summary": "The stock market rose modestly Wednesday. Snowflake surged late on earnings while Broadcom and HPE fell. A Tesla Cybercab event looms.",
+      "pub_date": "2026-09-03T12:11:48Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-snowflake-broadcom-hpe-earnings-tesla-cybercab-event/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "NetApp Earnings Beat Estimates. The Stock Is Falling in a Big Way.",
+      "summary": "The company\u2019s fiscal first-quarter revenue grew 30% to $2.03 billion, beating Wall Street estimates of $1.84 billion.",
+      "pub_date": "2026-09-03T08:53:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/netapp-earnings-stock-price-1c10379c?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "NetApp Inc (NTAP) (Q1 2027) Earnings Call Highlights: Record Revenue Surges 30% on AI-Driven Demand",
       "summary": "NetApp Inc (NTAP) raises full-year guidance after posting strong Q1 results with EPS up 66% year-over-year.",
       "pub_date": "2026-09-03T07:00:37Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/netapp-inc-ntap-q1-2027-070037079.html"
-    },
-    {
-      "title": "Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due",
-      "summary": "The stock market rose modestly Wednesday. Snowflake surged late on earnings while Broadcom and HPE fell. A Tesla Cybercab event looms.",
-      "pub_date": "2026-09-03T03:09:46Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-snowflake-broadcom-hpe-earnings-tesla-cybercab-event/?src=A00220&yptr=yahoo"
     },
     {
       "title": "NetApp Q1 Earnings Call Highlights",
@@ -29,34 +57,6 @@
       "pub_date": "2026-09-02T22:00:03Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-netapp-ntap-q1-220003546.html"
-    },
-    {
-      "title": "NetApp Earnings Beat Estimates. The Stock Is Falling Anyway.",
-      "summary": "The company\u2019s fiscal first-quarter revenue grew 30% to $2.03 billion, beating Wall Street estimates of $1.84 billion.",
-      "pub_date": "2026-09-02T21:38:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/netapp-earnings-stock-price-1c10379c?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "NetApp (NTAP) Surpasses Q1 Earnings and Revenue Estimates",
-      "summary": "NetApp (NTAP) delivered earnings and revenue surprises of +21.13% and +9.86%, respectively, for the quarter ended July 2026. Do the numbers hold clues to what lies ahead for the stock?",
-      "pub_date": "2026-09-02T21:25:03Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netapp-ntap-surpasses-q1-earnings-212503395.html"
-    },
-    {
-      "title": "NetApp Stock Slides Despite Earnings Beat",
-      "summary": "NetApp stock slid late Wednesday despite the enterprise data storage firm reporting fiscal Q1 results easily ahead of views.",
-      "pub_date": "2026-09-02T20:45:36Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/netapp-stock-earnings-july-2026-ntap-news/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "NetApp (NASDAQ:NTAP) Delivers Strong Q2 CY2026 Numbers But Stock Drops",
-      "summary": "Data storage company NetApp (NASDAQ:NTAP) reported Q2 CY2026 results topping the market\u2019s revenue expectations, with sales up 29.9% year on year to $2.03 billion. On top of that, next quarter\u2019s revenue guidance ($2.1 billion at the midpoint) was surprisingly good and 13.2% above what analysts were expecting. Its non-GAAP profit of $2.58 per share was 21.5% above analysts\u2019 consensus estimates.",
-      "pub_date": "2026-09-02T20:16:58Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netapp-nasdaq-ntap-delivers-strong-201658430.html"
     }
   ]
 }

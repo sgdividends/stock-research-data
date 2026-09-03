@@ -1,7 +1,21 @@
 {
   "ticker": "BA",
-  "generated_at": "2026-09-03T08:27:55.611149+00:00",
+  "generated_at": "2026-09-03T15:37:31.483219+00:00",
   "items": [
+    {
+      "title": "Boeing paid $3.1M FAA safety fine without public disclosure",
+      "summary": "The fine, paid in January, covered violations tied to the 2024 Alaska Airlines door plug blowout and interference with safety oversight",
+      "pub_date": "2026-09-03T13:06:49Z",
+      "source": "Quartz",
+      "url": "https://finance.yahoo.com/economy/policy/articles/boeing-paid-3-1m-faa-130649780.html"
+    },
+    {
+      "title": "Boeing\u2019s $8.4 Billion Deal Is Bleeding Red Ink",
+      "summary": "The jet maker bought Spirit AeroSystems in December, and has since uncovered large liabilities it initially hadn\u2019t identified.",
+      "pub_date": "2026-09-03T09:30:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/boeings-8-4-billion-deal-is-bleeding-red-ink-6a7bfb69?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "1 Growth Stock Set to Flourishand 2 We Brush Off",
       "summary": "Growth is a hallmark of all great companies, but the laws of gravity eventually take hold. Those who rode the COVID boom and ensuing tech selloff in 2022 will surely remember that the market\u2019s punishment can be swift and severe when trajectories fall.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-02T14:11:35Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-top-defense-stocks-watch-141135975.html"
-    },
-    {
-      "title": "Can Boeing's Defense Business Become a Bigger Growth Driver?",
-      "summary": "BA's defense business is gaining momentum, with $85 billion in backlog and key programs moving into low-rate production.",
-      "pub_date": "2026-09-01T15:21:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/boeings-defense-business-become-bigger-152100771.html"
-    },
-    {
-      "title": "Boeing, Deere and US Steel navigate labor union contract negotiations",
-      "summary": "The aerospace maker plans to resume contractual talks after Labor Day. Meanwhile, U.S. Steel and Cleveland-Cliffs agreed to extend their steelworker contracts by 30 days.",
-      "pub_date": "2026-09-01T12:11:00Z",
-      "source": "Manufacturing Dive",
-      "url": "https://finance.yahoo.com/small-business/articles/boeing-deere-us-steel-navigate-121100376.html"
     }
   ]
 }

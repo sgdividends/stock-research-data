@@ -1,7 +1,14 @@
 {
   "ticker": "IT",
-  "generated_at": "2026-09-03T08:28:22.158597+00:00",
+  "generated_at": "2026-09-03T15:38:00.365590+00:00",
   "items": [
+    {
+      "title": "How marketers can navigate machine bias as AI takes over media",
+      "summary": "As 80% of U.S. ad spending is expected to flow through AI-powered platforms by 2028, marketers must work harder to preserve their autonomy.",
+      "pub_date": "2026-09-03T09:00:00Z",
+      "source": "Marketing Dive",
+      "url": "https://finance.yahoo.com/media-advertising/articles/marketers-navigate-machine-bias-ai-090000498.html"
+    },
     {
       "title": "2 S&P 500 Stocks to Target This Week and 1 That Underwhelm",
       "summary": "The S&P 500 (^GSPC) is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are created equal - some are struggling with slowing growth, declining margins, or increased competition.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-28T19:04:52Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/1-unpopular-stock-more-attention-190452052.html"
-    },
-    {
-      "title": "How Analyst Optimism and Gartner Leadership Could Shape NetApp\u2019s (NTAP) Earnings Narrative",
-      "summary": "In recent days, analysts became more optimistic about NetApp\u2019s July 2026-quarter earnings, highlighting an anticipated earnings beat on rising consensus estimates and positive Earnings ESP. At the same time, NetApp\u2019s repeated recognition as a Leader in Gartner\u2019s 2026 Magic Quadrant for Enterprise Storage Platforms underscored its positioning in hybrid cloud and AI-ready storage, adding to the improving sentiment ahead of results. We will now examine how this growing analyst optimism around...",
-      "pub_date": "2026-08-28T15:07:59Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-optimism-gartner-leadership-could-150759303.html"
     }
   ]
 }

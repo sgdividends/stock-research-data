@@ -1,13 +1,41 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-09-03T08:28:04.723169+00:00",
+  "generated_at": "2026-09-03T15:37:40.653315+00:00",
   "items": [
     {
-      "title": "What to watch: Broadcom, Snowflake earnings and ADP jobs data",
-      "summary": "Asking for a Trend Host Josh Lipton previews the stories that will be making headlines tomorrow, including earnings from Broadcom (AVGO) and Snowflake (SNOW), plus a fresh look at the labor market with ADP's private payrolls report ahead of Friday's highly anticipated jobs report.",
-      "pub_date": "2026-09-02T12:00:00Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/watch-broadcom-snowflake-earnings-adp-120000424.html"
+      "title": "Palantir Rallies 7% as PwC Alliance Counters Michael Burry Bear Case, ServiceNow Climbs 5%, Salesforce Gains 3%",
+      "summary": "Michael Burry just renewed his short case against Palantir, and Palantir answered with a major alliance announcement that sent the stock surging. Whether that response actually addresses the receivables quality problem Burry flagged is a different question entirely.",
+      "pub_date": "2026-09-03T15:11:00Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-rallies-7-pwc-alliance-151100126.html"
+    },
+    {
+      "title": "Oracle Stock Could Be Software\u2019s Next Big Winner",
+      "summary": "Salesforce Elastic  and  Okta  have all enjoyed 20+% gains after earnings recently.  Oracle\u2019s  spending and its debt pile are two major areas of concern that weighed down the shares.  The analysts, led by Brent Thill, are optimistic despite reducing their price target to $290 from $320 in a note earlier this week.",
+      "pub_date": "2026-09-03T14:43:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/oracle-orcl-stock-jefferies-earnings-peak-negative-5877e325?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Atlassian Stock Surges 85% in 3 Months: Time to Hold or Book Profits?",
+      "summary": "TEAM's 84.9% three-month surge reflects strong AI adoption and cloud growth, but rising AI costs and a premium valuation warrant caution.",
+      "pub_date": "2026-09-03T14:37:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/atlassian-stock-surges-85-3-143700769.html"
+    },
+    {
+      "title": "Salesforce Stock Up 22% in a Week After Anthropic Deal, Breaking 20-Month Downtrend",
+      "summary": "Salesforce stock jumped 22% on record earnings and the Claudeforce deal. CRM now tests $256 with $282 in view.",
+      "pub_date": "2026-09-03T13:00:00Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-stock-22-week-anthropic-130000910.html"
+    },
+    {
+      "title": "Wonderful secures $550m to scale enterprise AI platform",
+      "summary": "The company has grown to 650 employees across more than 35 markets since its $150m Series B in March 2026.",
+      "pub_date": "2026-09-03T09:05:54Z",
+      "source": "Verdict",
+      "url": "https://finance.yahoo.com/technology/ai/articles/wonderful-secures-550m-scale-enterprise-090554895.html"
     },
     {
       "title": "Why Figma Stock Climbed 13% in August",
@@ -29,34 +57,6 @@
       "pub_date": "2026-09-02T23:40:23Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/2-dow-jones-stocks-worth-234023025.html"
-    },
-    {
-      "title": "Adobe Poised for Solid Third Quarter as ARR Seen Topping Views, RBC Says",
-      "summary": "Adobe (ADBE) is expected to report solid fiscal third-quarter results, with its annual recurring rev",
-      "pub_date": "2026-09-02T20:17:43Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-poised-solid-third-quarter-201743662.html"
-    },
-    {
-      "title": "Is Microsoft Stock Winning The Move To The Cloud Or Just The AI Boom?",
-      "summary": "The engine driving one of the world's largest companies has quietly changed, and management's new story is a more honest signal of where your money is now at risk.",
-      "pub_date": "2026-09-02T19:14:03Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-winning-move-cloud-191403381.html"
-    },
-    {
-      "title": "This Payroll Software Company Bought Back 20% of Its Shares and the Stock Has Nearly Doubled Since April",
-      "summary": "While most software companies were retreating, Paycom made an aggressive and unconventional bet on itself, and the market delivered a verdict that caught even seasoned analysts off guard.",
-      "pub_date": "2026-09-02T18:42:48Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/payroll-software-company-bought-back-184248421.html"
-    },
-    {
-      "title": "Cramer Says This Software Giant Is Fighting a Takeover With a $4 Billion Buyback",
-      "summary": "Silver Lake wants Workday, but Workday just fired back with $4 billion and a packed calendar of public commitments. Jim Cramer says the company is fighting its own takeover, and the five-year chart reveals what investors are actually betting on.",
-      "pub_date": "2026-09-02T18:19:59Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cramer-says-software-giant-fighting-181959838.html"
     }
   ]
 }

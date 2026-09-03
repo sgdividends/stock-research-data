@@ -1,7 +1,14 @@
 {
   "ticker": "FICO",
-  "generated_at": "2026-09-03T08:28:14.173090+00:00",
+  "generated_at": "2026-09-03T15:37:51.105347+00:00",
   "items": [
+    {
+      "title": "3 Growth Stocks to Stash",
+      "summary": "Growth is a hallmark of all great companies, but the laws of gravity eventually take hold. Those who rode the COVID boom and ensuing tech selloff in 2022 will surely remember that the market\u2019s punishment can be swift and severe when trajectories fall.",
+      "pub_date": "2026-09-03T12:23:18Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-stash-122318606.html"
+    },
     {
       "title": "2 Profitable Stocks with Exciting Potential and 1 That Underwhelm",
       "summary": "While profitability is essential, it doesn\u2019t guarantee long-term success. Some companies that rest on their margins will lose ground as competition intensifies \u2014 as Jeff Bezos said, \u201cYour margin is my opportunity\u201d.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-14T18:12:23Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/does-fico-fico-marketplace-integrations-181223093.html"
-    },
-    {
-      "title": "Fair Isaac (FICO) Adds AI Fraud Intelligence To Its Marketplace",
-      "summary": "Fair Isaac (NYSE:FICO) added Alogram's AI-powered fraud intelligence suite to the FICO Marketplace, expanding tools available to clients on the FICO Platform ecosystem. The partnership brings explainable, audit-ready fraud detection and behavioral analytics that enterprises can plug into existing decisioning workflows. FICO customers can use Alogram's offerings to support real-time risk assessment and management of complex fraud and abuse scenarios. For readers looking to compare this move...",
-      "pub_date": "2026-08-14T14:12:58Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/fair-isaac-fico-adds-ai-141258879.html"
     }
   ]
 }

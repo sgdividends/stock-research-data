@@ -1,7 +1,14 @@
 {
   "ticker": "FDS",
-  "generated_at": "2026-09-03T08:28:13.591329+00:00",
+  "generated_at": "2026-09-03T15:37:50.485324+00:00",
   "items": [
+    {
+      "title": "Campbell's Issues Downbeat Outlook, Cuts Dividend Amid Inflation Headwinds",
+      "summary": "Campbell's (CPB) guided for a soft fiscal 2027 outlook amid persistent inflation worries and cut qua",
+      "pub_date": "2026-09-03T15:04:27Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/economy/articles/campbell-apos-issues-downbeat-outlook-150427631.html"
+    },
     {
       "title": "GitLab Stock Rises After Earnings. It\u2019s Still Not a Buy, Analyst Says.",
       "summary": "GitLab stock advances after the company beat earnings expectations. Be wary of chasing the rally, with shares already up 46% over the past three months.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-02T12:12:35Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/factset-research-systems-fds-could-121235751.html"
-    },
-    {
-      "title": "Palo Alto Beats Fiscal Fourth-Quarter Estimates; Gross Margin Declines",
-      "summary": "Palo Alto Networks (PANW) fiscal fourth-quarter results came in ahead of Wall Street's estimates, bu",
-      "pub_date": "2026-09-02T11:23:02Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-beats-fiscal-fourth-112302237.html"
     }
   ]
 }
