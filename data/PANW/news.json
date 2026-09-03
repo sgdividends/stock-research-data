@@ -1,13 +1,20 @@
 {
   "ticker": "PANW",
-  "generated_at": "2026-09-02T22:15:59.377117+00:00",
+  "generated_at": "2026-09-03T02:32:23.092388+00:00",
   "items": [
     {
       "title": "Dow Jones Futures: Snowflake, Broadcom, HPE Are Big Earnings Movers; Tesla Cybercab Event Due",
       "summary": "The stock market rose modestly Wednesday. Snowflake surged late on earnings while Broadcom and HPE fell. A Tesla Cybercab event looms.",
-      "pub_date": "2026-09-02T21:40:40Z",
+      "pub_date": "2026-09-03T02:18:35Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-snowflake-broadcom-hpe-earnings-tesla-cybercab-event/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "summary": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+      "pub_date": "2026-09-02T22:44:56Z",
+      "source": "TechCrunch",
+      "url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-paid-500m-224456461.html"
     },
     {
       "title": "The Real Risk Inside Cisco Stock",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-02T20:33:44Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-snaps-3-day-203344546.html"
-    },
-    {
-      "title": "Credo, Dell, Palo Alto, PG&E, Uber, MongoDB, and More Stocks That Explain Today\u2019s Market",
-      "summary": "Dell\u2019s second-quarter earnings top expectations thanks to the AI boom, but Palo Alto Networks tumbles as investors take profits.",
-      "pub_date": "2026-09-02T20:21:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-4fed2750?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

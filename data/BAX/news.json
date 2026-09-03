@@ -1,7 +1,14 @@
 {
   "ticker": "BAX",
-  "generated_at": "2026-09-02T22:15:22.515485+00:00",
+  "generated_at": "2026-09-03T02:31:40.094128+00:00",
   "items": [
+    {
+      "title": "3 Value Stocks We Keep Off Our Radar",
+      "summary": "Value investing has produced some of the world\u2019s most famous investing billionaires, including Warren Buffett, David Einhorn, and Seth Klarman, who built their fortunes by purchasing wonderful businesses at reasonable prices. But these hidden gems are few and far between - many stocks that appear cheap often stay that way because they face structural issues.",
+      "pub_date": "2026-09-03T01:00:23Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-value-stocks-keep-off-010023767.html"
+    },
     {
       "title": "3 Healthcare Stocks We Keep Off Our Radar",
       "summary": "Healthcare companies are pushing the status quo by innovating in areas like drug development and digital health. Those leading the charge have not only realized strong financial performance but also propelled the broader industry\u2019s returns as healthcare stocks have gained 22.1% over the past six months while the S&P 500 was up 12.1%.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-18T11:13:02Z",
       "source": "MedTech Dive",
       "url": "https://finance.yahoo.com/healthcare/articles/baxter-interim-cfo-leaves-cardinal-111302551.html"
-    },
-    {
-      "title": "3 Stocks Under $50 with Questionable Fundamentals",
-      "summary": "The $10-50 price range often includes mid-sized businesses with proven track records and plenty of growth runway ahead. They also usually carry less risk than penny stocks, though they\u2019re not immune to volatility as many lack the scale advantages of their larger peers.",
-      "pub_date": "2026-08-16T12:29:00Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-under-50-questionable-122900140.html"
     }
   ]
 }

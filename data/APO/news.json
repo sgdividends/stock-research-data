@@ -1,7 +1,14 @@
 {
   "ticker": "APO",
-  "generated_at": "2026-09-02T22:15:20.465948+00:00",
+  "generated_at": "2026-09-03T02:31:37.696058+00:00",
   "items": [
+    {
+      "title": "Bankrupt casino owner closes two locations, lays off 238 workers",
+      "summary": "The bankrupt gaming company has closed four casinos since July 2026.",
+      "pub_date": "2026-09-03T02:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/small-business/articles/bankrupt-casino-owner-closes-two-020300336.html"
+    },
     {
       "title": "Is Ares Management on Track to Hit Its $750B AUM Target by 2028?",
       "summary": "ARES is progressing well to reach its $750 billion 2028 AUM target, backed by strong fundraising and rising fee-paying assets.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-01T17:58:37Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-softer-tuesday-175837600.html"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang Drops a Bombshell on AI Spending",
-      "summary": "Nvidia CEO Jensen Huang says AI infrastructure spending remains in the early stages as demand from hyperscalers, enterprises and governments continues to expand.",
-      "pub_date": "2026-09-01T17:37:13Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-drops-173713170.html"
     }
   ]
 }

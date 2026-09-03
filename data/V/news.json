@@ -1,7 +1,14 @@
 {
   "ticker": "V",
-  "generated_at": "2026-09-02T22:16:12.929479+00:00",
+  "generated_at": "2026-09-03T02:32:38.604637+00:00",
   "items": [
+    {
+      "title": "2 Dow Jones Stocks Worth Investigating and 1 We Question",
+      "summary": "While the Dow Jones (^DJI) represents industry leaders, not every stock in the index is a safe bet. Some are facing headwinds like declining demand, rising costs, or disruptive new competitors.",
+      "pub_date": "2026-09-02T23:40:23Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-dow-jones-stocks-worth-234023025.html"
+    },
     {
       "title": "Visa (V) Exceeds Market Returns: Some Facts to Consider",
       "summary": "Visa (V) concluded the recent trading session at $378.4, signifying a +1.54% move from its prior day's close.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-02T12:12:19Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-hedge-funds-121219022.html"
-    },
-    {
-      "title": "Ethena Launches Neobank App on Avalanche",
-      "summary": "Ethena launches Ethena Pay, offering USDe yields, card rewards, global transfers, and new utility for ENA.",
-      "pub_date": "2026-09-01T18:11:27Z",
-      "source": "Bankless",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/ethena-launches-neobank-app-avalanche-181127603.html"
     }
   ]
 }
