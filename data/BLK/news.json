@@ -1,6 +1,6 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-09-03T19:01:42.596357+00:00",
+  "generated_at": "2026-09-03T22:08:37.020757+00:00",
   "items": [
     {
       "title": "Securitize is trying to tokenize equity ownership in sports teams. Here's how.",
@@ -15,6 +15,13 @@
       "pub_date": "2026-09-03T17:30:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/uk-trading-platform-hargreaves-lansdown-173000945.html"
+    },
+    {
+      "title": "Can the \u2018Vanguard Effect\u2019 Extend to Wealth Management?",
+      "summary": "CEO Salim Ramji is pushing Vanguard further into financial advice with the deal to acquire Altruist, but the hill may be steep to win over RIAs.",
+      "pub_date": "2026-09-03T20:34:30Z",
+      "source": "Wealth Management",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/vanguard-effect-extend-wealth-management-203430787.html"
     },
     {
       "title": "Bitcoin ETFs Rebound as Ethereum and XRP ETFs End Winning Streaks",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-03T10:20:01Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/invest-ishares-u-power-infrastructure-102001760.html"
-    },
-    {
-      "title": "Federated Hermes' APAC Tokenization Push: A New AUM Growth Lever?",
-      "summary": "FHI is expanding APAC tokenization with Conduit while leveraging its money market franchise. Can this boost AUM growth?",
-      "pub_date": "2026-09-02T17:36:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/federated-hermes-apac-tokenization-push-173600065.html"
     }
   ]
 }

@@ -1,13 +1,27 @@
 {
   "ticker": "NTAP",
-  "generated_at": "2026-09-03T19:02:22.647968+00:00",
+  "generated_at": "2026-09-03T22:09:16.877880+00:00",
   "items": [
     {
-      "title": "Stock Market Today: Nasdaq Leads Charge As Jobs Data Looms; NetApp Tests Support (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index rises Thursday as Treasury yields fall. Nvidia stock rallies on its Hugging Face deal.",
-      "pub_date": "2026-09-03T17:47:55Z",
+      "title": "NetApp CEO defends growth outlook as investors remain divided",
+      "summary": "NetApp (NTAP) CEO George Kurian joins Yahoo Finance's Julie Hyman to discuss the company's performance, as investors remain divided on its revenue guidance.",
+      "pub_date": "2026-09-03T21:19:13Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/netapp-ceo-defends-growth-outlook-211913586.html"
+    },
+    {
+      "title": "NetApp Stock Climbs After Earnings Beat, Shaking Off Initial Slide",
+      "summary": "NetApp stock climbed Thursday, with the enterprise data storage firm reporting fiscal Q1 results easily ahead of views.",
+      "pub_date": "2026-09-03T19:31:32Z",
       "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-broadcom-stock-avgo/?src=A00220&yptr=yahoo"
+      "url": "https://www.investors.com/news/technology/netapp-stock-earnings-july-2026-ntap-news/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "What Does NetApp (NTAP) Mean For Private And Hybrid Cloud Customers?",
+      "summary": "NetApp (NasdaqGS:NTAP) introduced new ONTAP capabilities that have been tested and validated for VMware Cloud Foundation 9.1, targeting private and hybrid cloud deployments. The release focuses on secure, cost aware storage for VMware environments, with tools aimed at cyber resilience and consistent operations across data centers and clouds. The integration is designed to support AI focused workloads for enterprises that rely on VMware for virtualized infrastructure. The move adds another...",
+      "pub_date": "2026-09-03T19:05:06Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/articles/does-netapp-ntap-mean-private-190506572.html"
     },
     {
       "title": "NetApp Q1 Earnings Call Highlights Durable AI-Led Demand",
@@ -31,13 +45,6 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/ntap-q1-earnings-revenues-top-141300605.html"
     },
     {
-      "title": "Why NetApp Stock Is Falling Despite A Big Earnings Beat",
-      "summary": "NetApp stock slid Thursday despite the enterprise data storage firm reporting fiscal Q1 results easily ahead of views.",
-      "pub_date": "2026-09-03T13:00:24Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/netapp-stock-earnings-july-2026-ntap-news/?src=A00220&yptr=yahoo"
-    },
-    {
       "title": "Dow Jones Futures Rise, Oil Prices Keep Climbing; Snowflake, Victoria's Secret Are Big Movers With Tesla Cybercab Event Due",
       "summary": "The stock market rose modestly Wednesday. Snowflake surged late on earnings while Broadcom and HPE fell. A Tesla Cybercab event looms.",
       "pub_date": "2026-09-03T12:11:48Z",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-03T08:53:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/netapp-earnings-stock-price-1c10379c?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "NetApp Inc (NTAP) (Q1 2027) Earnings Call Highlights: Record Revenue Surges 30% on AI-Driven Demand",
-      "summary": "NetApp Inc (NTAP) raises full-year guidance after posting strong Q1 results with EPS up 66% year-over-year.",
-      "pub_date": "2026-09-03T07:00:37Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netapp-inc-ntap-q1-2027-070037079.html"
     }
   ]
 }

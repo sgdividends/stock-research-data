@@ -1,13 +1,20 @@
 {
   "ticker": "NVDA",
-  "generated_at": "2026-09-03T19:02:23.057913+00:00",
+  "generated_at": "2026-09-03T22:09:17.253435+00:00",
   "items": [
     {
-      "title": "Tech stocks today: Nvidia to acquire Hugging Face for $13 billion in strategic move",
-      "summary": "Nvidia (NVDA) stock edged higher on Thursday after the AI leader announced it\u2019s buying open-source AI platform Hugging Face for roughly $13 billion.",
+      "title": "Tech stocks today: Tesla stock pops ahead of Cybercab event, Nvidia acquires Hugging Face",
+      "summary": "Tech stocks surged on Thursday as fading rate-hike worries lifted market sentiment across the board.",
       "pub_date": "2026-08-31T14:56:23Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-apple-ceo-steps-down-nvidia-mag-7-145623375.html"
+    },
+    {
+      "title": "AI demand is 'exceptional,' but the supply chain is not: HPE CEO",
+      "summary": "HPE (HPE) reported third quarter earnings results on Wednesday. HPE CEO Antonio Neri sits down with Yahoo Finance Executive Editor Brian Sozzi to discuss the relationship between the roaring demand for AI and the industry's extreme supply-chain constraints.",
+      "pub_date": "2026-09-03T20:10:52Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/ai-demand-exceptional-supply-chain-201052714.html"
     },
     {
       "title": "How Nvidia's latest deal continues to target all points of the AI trade",
@@ -24,39 +31,32 @@
       "url": "https://finance.yahoo.com/video/why-nvidias-purchase-hugging-face-132058312.html"
     },
     {
-      "title": "Jim Cramer Explains Why CrowdStrike (CRWD) Upended the Tech Bear Thesis",
-      "summary": "During the August 27 Mad Money episode, Jim Cramer turned his attention to CrowdStrike Holdings, Inc. (NASDAQ:CRWD). He highlighted the cybersecurity giant\u2019s latest earnings report as evidence that the prevailing tech bear cases had completely collapsed. He said: Like I mentioned at the top of the show, last night every major bear thesis in tech [\u2026]",
-      "pub_date": "2026-09-03T18:54:16Z",
+      "title": "Dow Jones Futures: Stocks Jump On Fed's Waller; Tesla Cybercab Event Private, Jobs Report Looms",
+      "summary": "The stock market jumped above key levels Thursday, buoyed by Snowflake and dovish Fed comments. Tesla held a private Cybercab event. The jobs report is on tap.",
+      "pub_date": "2026-09-03T22:01:49Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-waller-tesla-cybercab-jobs-report/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "BioNTech vs. Moderna: Which Is the Better Cancer Vaccine Stock to Buy Now?",
+      "summary": "Both have attracted considerable attention from Wall Street recently.",
+      "pub_date": "2026-09-03T21:50:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/healthcare/articles/biontech-vs-moderna-better-cancer-215000079.html"
+    },
+    {
+      "title": "Nvidia\u2019s $5 Billion Intel Bet Was Worth $30 Billion by June. Is the Partnership Still Mispriced?",
+      "summary": "Nvidia\u2019s $5 billion Intel investment has produced an extraordinary paper gain, but the timeline matters. The companies announced the investment and product collaboration on September 18, 2025. Intel\u2019s SEC filing shows that NVIDIA Corporation (NASDAQ:NVDA) actually completed the purchase on December 26, 2025, acquiring 214,776,632 Intel shares at $23.28 each for $5 billion. Nvidia\u2019s June [\u2026]",
+      "pub_date": "2026-09-03T21:39:40Z",
       "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-why-crowdstrike-185416478.html"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-5-billion-intel-bet-213940172.html"
     },
     {
-      "title": "Could a $10,000 Investment in AMD Double by the End of 2028?",
-      "summary": "The chipmaker just posted a great quarter, but a lot of its expected success is already priced into the stock.",
-      "pub_date": "2026-09-03T18:53:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/could-10-000-investment-amd-185300749.html"
-    },
-    {
-      "title": "Anthropic Is Reportedly Gearing Up for an IPO This Year That Could Be Bigger Than SpaceX. 3 Things Investors Should Know.",
-      "summary": "Anthropic would be the first pure-play large language model company to go public.",
-      "pub_date": "2026-09-03T18:49:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-reportedly-gearing-ipo-could-184900286.html"
-    },
-    {
-      "title": "Michael Burry doubles down on his surprising AI bet",
-      "summary": "August was supposed to test whether Burry\u2019s AI bet had merit. The market gave him a very clear answer.",
-      "pub_date": "2026-09-03T18:47:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-doubles-down-surprising-184700665.html"
-    },
-    {
-      "title": "Greg Abel Bought $39.4 Billion of Stocks in 6 Months, Up From the $7.1 Billion Berkshire Purchased a Year Earlier Under Warren Buffett",
-      "summary": "The Omaha conglomerate has now shifted gears into becoming a net purchaser of equities.",
-      "pub_date": "2026-09-03T18:35:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/greg-abel-bought-39-4-183500705.html"
+      "title": "Rosenblatt Doubles Down on Nvidia After Massive Deal",
+      "summary": "The acquisition may be about far more than software",
+      "pub_date": "2026-09-03T21:25:20Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/rosenblatt-doubles-down-nvidia-massive-212520777.html"
     }
   ]
 }

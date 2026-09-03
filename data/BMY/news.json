@@ -1,7 +1,14 @@
 {
   "ticker": "BMY",
-  "generated_at": "2026-09-03T19:01:42.768687+00:00",
+  "generated_at": "2026-09-03T22:08:37.140503+00:00",
   "items": [
+    {
+      "title": "Drugmakers Halt Autoimmune Trials After Deaths, Life-Threatening Side Effects",
+      "summary": "Trial freezes by Novartis and Bristol Myers have triggered a race to understand why a promising autoimmune treatment turned risky.",
+      "pub_date": "2026-09-03T22:00:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/health/pharma/drugmakers-halt-autoimmune-trials-after-deaths-life-threatening-side-effects-14e786fd?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Is Merck Stock Pricing In A Post-Keytruda Future Too Soon?",
       "summary": "Merck\u2019s stock is the top performer in its group, but its profitability sits at the very bottom of the pack, forcing a hard question on investors.",
@@ -24,6 +31,13 @@
       "url": "https://finance.yahoo.com/healthcare/articles/abbv-stock-returned-62-billion-155426377.html"
     },
     {
+      "title": "Bristol-Myers Squibb Stock: Is BMY Outperforming the Healthcare Sector?",
+      "summary": "Despite Bristol-Myers Squibb's outperformance relative to the healthcare sector over the past year, Wall Street analysts remain cautiously optimistic about the stock\u2019s prospects.",
+      "pub_date": "2026-09-03T15:39:52Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bristol-myers-squibb-stock-bmy-153952807.html"
+    },
+    {
       "title": "Why Is Gilead (GILD) Up 13.6% Since Last Earnings Report?",
       "summary": "Gilead (GILD) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
       "pub_date": "2026-09-03T15:30:13Z",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-03T04:31:19Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/healthcare/articles/does-bristol-myers-squibb-bmy-043119770.html"
-    },
-    {
-      "title": "Amgen Stock Signals Its Confidence. The Market Agrees.",
-      "summary": "The real bet is on what lies beyond this year's performance: a pipeline that could change everything.",
-      "pub_date": "2026-09-02T20:55:36Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amgen-stock-signals-confidence-market-205536189.html"
-    },
-    {
-      "title": "Can CYTK's Aficamten Strengthen Its HCM Growth Prospects?",
-      "summary": "Cytokinetics' aficamten shows added benefits in HCM studies, strengthening its potential in non-obstructive and obstructive disease.",
-      "pub_date": "2026-09-02T18:30:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/healthcare/articles/cytks-aficamten-strengthen-hcm-growth-183000656.html"
     }
   ]
 }
