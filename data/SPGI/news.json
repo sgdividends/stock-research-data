@@ -1,6 +1,6 @@
 {
   "ticker": "SPGI",
-  "generated_at": "2026-09-03T02:32:31.228802+00:00",
+  "generated_at": "2026-09-03T08:28:41.939594+00:00",
   "items": [
     {
       "title": "What to expect over the next 12 months from S&P 500 returns",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-02T14:21:05Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/what-to-expect-over-the-next-12-months-from-sp-500-returns-142105313.html"
+    },
+    {
+      "title": "India's services growth picks up in August but stays near four-year low, PMI shows",
+      "summary": "BENGALURU, Sept 3 (Reuters) - India's dominant services sector accelerated slightly in August but persistently subdued new business kept overall activity near its weakest in more than four years, a",
+      "pub_date": "2026-09-03T05:06:33Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/economy/articles/indias-services-growth-picks-august-050633651.html"
     },
     {
       "title": "Is Oracle Stock A Hedge Or A Downside Trap?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-01T20:41:26Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/articles/wall-street-apos-pullback-deepens-204126809.html"
-    },
-    {
-      "title": "Sector Update: Financial Stocks Decline Late Afternoon",
-      "summary": "Financial stocks fell in late Tuesday afternoon trading with the NYSE Financial Index declining 0.7%",
-      "pub_date": "2026-09-01T19:50:18Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-afternoon-195018983.html"
     }
   ]
 }

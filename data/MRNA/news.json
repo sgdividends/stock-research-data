@@ -1,6 +1,6 @@
 {
   "ticker": "MRNA",
-  "generated_at": "2026-09-03T02:32:17.456504+00:00",
+  "generated_at": "2026-09-03T08:28:29.820870+00:00",
   "items": [
     {
       "title": "Jim Cramer Explains Why Heavily Shorted Moderna (MRNA) Has Room to Run",
@@ -22,6 +22,13 @@
       "pub_date": "2026-09-02T08:10:55Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081055905.html"
+    },
+    {
+      "title": "Biotech Is Popping. No One Seems to Care.",
+      "summary": "The State Street SPDR S&P Biotech ETF is up 33% this year, but fund flows remain muted.",
+      "pub_date": "2026-09-02T04:02:00Z",
+      "source": "The Daily Upside",
+      "url": "https://finance.yahoo.com/healthcare/articles/biotech-popping-no-one-seems-040200722.html"
     },
     {
       "title": "Did Merck\u2019s (MRK) First Positive Phase 3 Individualized mRNA Cancer Trial Just Redefine Its Moat?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-01T17:12:13Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/healthcare/articles/novavax-jumps-6-matrix-m-171213256.html"
-    },
-    {
-      "title": "GSK hopes to take on Moderna as it moves mRNA flu vaccine to Phase III trial",
-      "summary": "The company progresses its mRNA-based candidate just under a month after Moderna won FDA approval for the first seasonal flu mRNA vaccine.",
-      "pub_date": "2026-09-01T15:12:13Z",
-      "source": "Clinical Trials Arena",
-      "url": "https://finance.yahoo.com/healthcare/articles/gsk-hopes-moderna-moves-mrna-151213855.html"
     }
   ]
 }

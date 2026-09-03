@@ -1,7 +1,14 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-09-03T02:31:45.812555+00:00",
+  "generated_at": "2026-09-03T08:28:02.211950+00:00",
   "items": [
+    {
+      "title": "Morning Bid: Bonds breathe sigh of relief",
+      "summary": "A look at the day ahead in European and global markets from Rocky Swift Battered bond markets licked their wounds on Thursday, with yields in the U.S. and Japan edging lower, but little has changed to",
+      "pub_date": "2026-09-03T04:33:39Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/articles/morning-bid-bonds-breathe-sigh-043339392.html"
+    },
     {
       "title": "Hyperliquid's HYPE Joins Hashdex Crypto ETF as Fifth-Largest Holding",
       "summary": "HYPE joins Hashdex's NCIQ crypto ETF at a 3.4% weighting, becoming its fifth-largest holding as Bitcoin's share dips.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-29T11:51:18Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/wall-street-is-turning-nvidias-ai-chips-into-a-new-futures-market-chart-of-the-day-115118331.html"
-    },
-    {
-      "title": "White House teleprompter operator settles prediction market trading probe",
-      "summary": "Investing.com -- A White House teleprompter operator has settled a federal probe into wagers made using advance knowledge of President Donald Trump\u2019s speeches, The Wall Street Journal reported Friday.",
-      "pub_date": "2026-08-29T01:19:48Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/options/articles/white-house-teleprompter-operator-settles-011948177.html"
     }
   ]
 }
