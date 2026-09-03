@@ -1,7 +1,14 @@
 {
   "ticker": "ICE",
-  "generated_at": "2026-09-03T15:37:58.652545+00:00",
+  "generated_at": "2026-09-03T19:02:08.767454+00:00",
   "items": [
+    {
+      "title": "Is Intercontinental Exchange Stock Underperforming the Dow?",
+      "summary": "Intercontinental Exchange has underperformed the broader market over the past year, while analysts remain strongly bullish on its future outlook.",
+      "pub_date": "2026-09-03T10:44:32Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intercontinental-exchange-stock-underperforming-dow-104432613.html"
+    },
     {
       "title": "NYSE uses Anthropic\u2019s Mythos to find cyber security flaws",
       "summary": "Investing.com -- The New York Stock Exchange has used Anthropic PBC's Project Glasswing to identify and address vulnerabilities in its cyber security systems, according to exchange President Lynn Martin.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-31T17:57:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ice-stock-trades-8-3-175700797.html"
-    },
-    {
-      "title": "ICE and Nasdaq shares fall on rumor Hyperliquid is eyeing U.S. entry",
-      "summary": "Investing.com -- Intercontinental Exchange and Nasdaq shares declined on Monday following a Bloomberg report that decentralized crypto trading platform Hyperliquid is in talks with Kraken's parent company about entering the U.S. market.",
-      "pub_date": "2026-08-31T17:31:24Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/ice-nasdaq-shares-fall-rumor-173124260.html"
     }
   ]
 }

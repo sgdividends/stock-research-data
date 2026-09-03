@@ -1,13 +1,13 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-09-03T15:37:38.032733+00:00",
+  "generated_at": "2026-09-03T19:01:48.768565+00:00",
   "items": [
     {
-      "title": "Gold Extends Gains, Climbing Above $4,500 a Troy Ounce",
-      "summary": "Gold extended gains, supported by a weaker dollar and as Treasury yields declined from multi-year highs.",
-      "pub_date": "2026-09-03T13:50:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-markets-await-further-u-s-jobs-data-926919c4?siteid=yhoof2&yptr=yahoo"
+      "title": "Trump Wants Lower Rates. That Won\u2019t Stop a Fed Rate Hike.",
+      "summary": "President Donald Trump says the U.S. \u201cshould have the lowest interest rates in the world.\u201d But he appears to be giving Fed Chair Kevin Warsh breathing room for now.",
+      "pub_date": "2026-09-03T18:50:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/federal-reserve-interest-rates-warsh-trump-7f755a44?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Morning Bid: Bonds breathe sigh of relief",
@@ -22,13 +22,6 @@
       "pub_date": "2026-09-03T01:45:26Z",
       "source": "BeInCrypto",
       "url": "https://finance.yahoo.com/markets/crypto/articles/hyperliquids-hype-joins-hashdex-crypto-014526222.html"
-    },
-    {
-      "title": "Trump Wants Lower Rates. That Won\u2019t Stop a Fed Rate Hike.",
-      "summary": "President Donald Trump says the U.S. \u201cshould have the lowest interest rates in the world.\u201d But he appears to be giving Fed Chair Kevin Warsh breathing room for now.",
-      "pub_date": "2026-09-02T20:38:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/federal-reserve-interest-rates-warsh-trump-7f755a44?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "A Macro Storm Is Threatening Stocks. Corporate Earnings Can\u2019t Stop It.",
@@ -57,6 +50,13 @@
       "pub_date": "2026-08-29T12:11:51Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/options/articles/cme-factor-wind-power-futures-121151935.html"
+    },
+    {
+      "title": "Wall Street is turning Nvidia's AI chips into a new futures market: Chart of the Day",
+      "summary": "AI spending keeps getting bigger \u2014 figuring out how to price it is still hard.",
+      "pub_date": "2026-08-29T11:51:18Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/wall-street-is-turning-nvidias-ai-chips-into-a-new-futures-market-chart-of-the-day-115118331.html"
     }
   ]
 }

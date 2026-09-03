@@ -1,7 +1,14 @@
 {
   "ticker": "KO",
-  "generated_at": "2026-09-03T15:38:03.192594+00:00",
+  "generated_at": "2026-09-03T19:02:13.030995+00:00",
   "items": [
+    {
+      "title": "Campbell\u2019s and Other Staples Stocks Have Hit a Rough Patch",
+      "summary": "Campbells cut its full-year guidance and slashed its dividend, as a consumer staples ETF lags behind the market. Staples are not the safe haven they usually are.",
+      "pub_date": "2026-09-03T17:16:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/campbells-staples-stocks-5b7ffa41?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Brown-Forman Q1 Earnings Meet, Sales Miss on Tequila & Barrel Weakness",
       "summary": "BF.B's Q1 EPS meets estimates, but sales fall 1% y/y as tequila, used barrels and Korbel weigh, while RTD sales jump 20%.",
@@ -24,6 +31,13 @@
       "url": "https://finance.yahoo.com/media-advertising/articles/pepsico-hands-global-media-publicis-104800676.html"
     },
     {
+      "title": "J.M. Smucker Stock's Rally Has More Than Tariffs Behind It",
+      "summary": "J.M. Smucker stock jumped after an earnings beat and debt reduction to 2.9x leverage, though weak volume trends and an overbought RSI raise questions about the rally's durability.",
+      "pub_date": "2026-09-02T17:20:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/j-m-smucker-stocks-rally-172000576.html"
+    },
+    {
       "title": "3 Mega-Cap Stocks with Solid Fundamentals",
       "summary": "Megacap stocks are behemoths that set the tone for their industries, and their massive scale typically leads to wide moats. However, the downside is that most have already exploited their existing market opportunities and must invest heavily to expand further, a risky proposition.",
       "pub_date": "2026-09-02T15:56:23Z",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-02T12:08:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/want-income-life-coca-cola-120800955.html"
-    },
-    {
-      "title": "Coca-Cola (KO) Faces Supply Chain Scrutiny, Is The Stock Already Fully Valued?",
-      "summary": "Indian authorities recently seized thousands of beverage cartons in an alleged expiry date relabeling case, with Coca-Cola (KO) products among those affected through a third party exporter. For investors, the spotlight is on supply chain oversight and brand protection. Coca-Cola shares have eased in the very short term, with a 1-day share price return of 0.76% and a 7-day share price return of 3.97%. However, the stock still shows strong momentum, with a 90-day share price return of 11.73%...",
-      "pub_date": "2026-09-02T07:05:24Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-ko-faces-supply-070524576.html"
-    },
-    {
-      "title": "Soda giant makes another warehouse change, cuts 105 jobs",
-      "summary": "The latest move adds to four U.S. warehouse and distribution actions affecting hundreds of workers this year.",
-      "pub_date": "2026-09-02T00:37:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/small-business/articles/soda-giant-makes-another-warehouse-003700153.html"
     }
   ]
 }

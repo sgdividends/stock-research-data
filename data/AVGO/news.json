@@ -1,14 +1,7 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-09-03T15:37:30.339724+00:00",
+  "generated_at": "2026-09-03T19:01:39.517994+00:00",
   "items": [
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq rise, yields fall as investors weigh Middle East tensions",
-      "summary": "Markets searched for gains after three days of declines and as investors looked ahead to Friday's labor market report.",
-      "pub_date": "2026-09-03T08:15:25Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-3-dow-sp-500-nasdaq-futures-081525933.html"
-    },
     {
       "title": "Tech stocks today: Nvidia to acquire Hugging Face for $13 billion in strategic move",
       "summary": "Nvidia (NVDA) stock edged higher on Thursday after the AI leader announced it\u2019s buying open-source AI platform Hugging Face for roughly $13 billion.",
@@ -17,46 +10,53 @@
       "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-apple-ceo-steps-down-nvidia-mag-7-145623375.html"
     },
     {
-      "title": "This One Metric Is Why I\u2019m Going to Keep Buying Nvidia Hand-Over-Fist",
-      "summary": "One stubborn number buried in Nvidia's latest earnings report signals something that almost never survives at hardware scale, and it is the reason this investor keeps adding shares despite a valuation that looks stretched on the surface.",
-      "pub_date": "2026-09-03T15:30:40Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/one-metric-why-m-going-153040042.html"
+      "title": "Stocks edge up as Nvidia leads tech higher following Hugging Face deal announcement: AlphaCheck",
+      "summary": "Stocks edged higher as Treasury yields slipped ahead of Friday's jobs report.",
+      "pub_date": "2026-09-03T14:04:48Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/stocks-edge-up-as-nvidia-leads-tech-higher-following-hugging-face-deal-announcement-alphacheck-140448366.html"
     },
     {
-      "title": "Top Midday Stories: Nvidia to Acquire Hugging Face for $12.93 Billion; Broadcom Q3 Adjusted Earnings, Guidance Top Estimates",
-      "summary": "All three major US stock indexes were up in late-morning trading Thursday, while the rise in Treasur",
-      "pub_date": "2026-09-03T15:25:44Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-nvidia-acquire-152544097.html"
+      "title": "AVGO Q2 Deep Dive: AI Semiconductor Surge Faces Supply Headwinds and Guidance Caution",
+      "summary": "Fabless chip and software maker Broadcom (NASDAQ:AVGO) met Wall Street\u2019s revenue expectations in Q2 CY2026, with sales up 85.5% year on year to $29.59 billion. On the other hand, next quarter\u2019s revenue guidance of $34.8 billion was less impressive, coming in 1.1% below analysts\u2019 estimates. Its non-GAAP profit of $3.32 per share was 2.5% above analysts\u2019 consensus estimates.",
+      "pub_date": "2026-09-03T18:15:18Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/technology/ai/articles/avgo-q2-deep-dive-ai-181518961.html"
     },
     {
-      "title": "AVGO Stock Sinks To Near 5-Month Lows Despite Exploding AI Sales \u2014 Wall Street Reactions Are Mixed",
-      "summary": "Broadcom reported third-quarter revenue of $29.6 billion, ahead of Wall Street\u2019s expectations of $29.4 billion, according to Fiscal.ai.",
-      "pub_date": "2026-09-03T15:13:40Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/avgo-stock-sinks-near-5-151340043.html"
+      "title": "AVGO Q3 Earnings Beat Estimates, Revenues Rise on Strong AI Demand",
+      "summary": "Broadcom's fiscal Q3 earnings and revenues beat estimates as AI chip demand surges, with AI semiconductor sales up 221% and a higher fiscal 2026 outlook.",
+      "pub_date": "2026-09-03T17:49:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/avgo-q3-earnings-beat-estimates-174900006.html"
     },
     {
-      "title": "Why Broadcom Stock Dropped Today",
-      "summary": "Don't be fooled by guidance -- or by the sell-off. Broadcom stock remains fairly priced.",
-      "pub_date": "2026-09-03T15:05:44Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-broadcom-stock-dropped-today-150544888.html"
-    },
-    {
-      "title": "Stock Market Today: Dow Leads Charge As Fed's Waller Signals This; Ciena Drops (Live Coverage)",
+      "title": "Stock Market Today: Nasdaq Leads Charge As Jobs Data Looms; NetApp Tests Support (Live Coverage)",
       "summary": "Stock Market Today: The Dow Jones index rises Thursday as Treasury yields fall. Nvidia stock rallies on its Hugging Face deal.",
-      "pub_date": "2026-09-03T15:03:51Z",
+      "pub_date": "2026-09-03T17:47:55Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-broadcom-stock-avgo/?src=A00220&yptr=yahoo"
     },
     {
-      "title": "Broadcom's Valuation Remains 'Compelling' for Investors, Morgan Stanley Says",
-      "summary": "Broadcom's (AVGO) valuation remains \"compelling\" for investors as its growth continues to be robust,",
-      "pub_date": "2026-09-03T14:59:33Z",
+      "title": "Equities Jump Intraday, Yields Fall as Markets Split Over Fed's Next Move",
+      "summary": "US benchmark equity indexes were advancing intraday and Treasury yields dropped as markets remained",
+      "pub_date": "2026-09-03T17:31:07Z",
       "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-apos-valuation-remains-apos-145933995.html"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equities-jump-intraday-yields-fall-173107853.html"
+    },
+    {
+      "title": "Broadcom's AI outlook draws mixed market reaction",
+      "summary": "Broadcom Inc (NASDAQ:AVGO, XETRA:1YD) shares fell 3.3% Thursday afternoon despite the company issuing a bullish long-term forecast for its artificial intelligence business, projecting AI revenue of $230 billion in fiscal 2028. The company also raised its fiscal 2027 AI revenue outlook to $115...",
+      "pub_date": "2026-09-03T17:23:00Z",
+      "source": "Proactive",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcoms-ai-outlook-draws-mixed-172300992.html"
+    },
+    {
+      "title": "Broadcom Tripled AI Chip Sales and the Stock Still Fell. Is AVGO the Nvidia Alternative Investors Missed?",
+      "summary": "Broadcom just posted AI chip growth that dwarfs nearly every semiconductor result this year, yet the stock sold off anyway. The real question is whether the market priced in the wrong number entirely.",
+      "pub_date": "2026-09-03T17:22:39Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-tripled-ai-chip-sales-172239474.html"
     }
   ]
 }

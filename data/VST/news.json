@@ -1,7 +1,14 @@
 {
   "ticker": "VST",
-  "generated_at": "2026-09-03T15:38:32.869740+00:00",
+  "generated_at": "2026-09-03T19:02:41.099903+00:00",
   "items": [
+    {
+      "title": "Peter Thiel\u2019s Fund Disclosed $59 Million in This Beaten-Down Power Stock",
+      "summary": "Billionaire technology investor Peter Thiel\u2019s hedge fund, Thiel Macro LLC, disclosed 372,755 shares of Vistra Corp. (NYSE:VST) at the end of Q2 2026, worth about $59.1 million. The position is interesting because Vistra sits directly in the argument over whether electricity, rather than GPUs, becomes the scarce asset in the next leg of the AI [\u2026]",
+      "pub_date": "2026-09-03T18:50:30Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/peter-thiel-fund-disclosed-59-185030291.html"
+    },
     {
       "title": "Bridgewater Cut Nvidia 18% and More Than Doubled Vistra. Is It Rotating From Chips to Power?",
       "summary": "Bridgewater Associates made opposite moves in two of AI\u2019s most important bottlenecks during Q2, disclosed in its August 14 filing. The firm reduced its Nvidia position 18% to 3,866,195 shares while increasing Vistra 116% to 751,695 shares. That looks like a rotation from compute toward electricity, but a Form 13F cannot establish the intent behind [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-31T11:32:52Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-won-t-stop-declining-113252369.html"
-    },
-    {
-      "title": "Thanks Nvidia, But These Power Stocks Have Other Ways to Win",
-      "summary": "The midterm elections can\u2019t come soon enough for AI power stocks.  Politicians in red and blue states are vowing to slow data center development.  Developers and power companies may be more inclined to announce deals after voting ends and the political pressure eases.",
-      "pub_date": "2026-08-31T09:55:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/ai-data-centers-power-stocks-talen-vistra-c06b4b3e?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

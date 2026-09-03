@@ -1,6 +1,6 @@
 {
   "ticker": "SJM",
-  "generated_at": "2026-09-03T15:38:23.203471+00:00",
+  "generated_at": "2026-09-03T19:02:31.448993+00:00",
   "items": [
     {
       "title": "Campbell's Issues Downbeat Outlook, Cuts Dividend Amid Inflation Headwinds",
@@ -22,6 +22,13 @@
       "pub_date": "2026-09-03T09:59:18Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-mid-cap-stocks-approach-095918951.html"
+    },
+    {
+      "title": "J.M. Smucker Stock's Rally Has More Than Tariffs Behind It",
+      "summary": "J.M. Smucker stock jumped after an earnings beat and debt reduction to 2.9x leverage, though weak volume trends and an overbought RSI raise questions about the rally's durability.",
+      "pub_date": "2026-09-02T17:20:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/j-m-smucker-stocks-rally-172000576.html"
     },
     {
       "title": "Smucker CFO Marshall Tucker Sells 18,482 Shares for $2.4 Million",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-31T10:00:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/world/americas-biggest-companies-ring-up-hefty-sales-and-raise-their-outlooks-1b78875a?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Corporate America\u2019s Profits Are Booming\u2014and Signal More Good Times Ahead",
-      "summary": "Tariff refunds and the ever-resilient U.S. consumer are fueling the heftiest rise in big-company profits in years",
-      "pub_date": "2026-08-31T01:00:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/corporate-profit-america-44836dc6?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

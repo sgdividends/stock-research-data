@@ -1,7 +1,21 @@
 {
   "ticker": "NTAP",
-  "generated_at": "2026-09-03T15:38:14.342656+00:00",
+  "generated_at": "2026-09-03T19:02:22.647968+00:00",
   "items": [
+    {
+      "title": "Stock Market Today: Nasdaq Leads Charge As Jobs Data Looms; NetApp Tests Support (Live Coverage)",
+      "summary": "Stock Market Today: The Dow Jones index rises Thursday as Treasury yields fall. Nvidia stock rallies on its Hugging Face deal.",
+      "pub_date": "2026-09-03T17:47:55Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-broadcom-stock-avgo/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "NetApp Q1 Earnings Call Highlights Durable AI-Led Demand",
+      "summary": "NTAP raises its fiscal 2027 outlook as broad-based demand, AI-led infrastructure upgrades and flash momentum strengthen confidence in growth.",
+      "pub_date": "2026-09-03T17:24:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/netapp-q1-earnings-call-highlights-172400980.html"
+    },
     {
       "title": "NetApp Expands AWS Transform Support to Accelerate Enterprise Storage Migrations",
       "summary": "Amazon FSx for NetApp ONTAP is now supported by AWS Transform, allowing enterprises to migrate attached storage and database workloads directly to AWS through a more integrated cloud migration process. Key Investor TakeawaysNetApp (NASDAQ:NTAP) and AWS have expanded their collaboration by adding Amazon FSx for NetApp ONTAP as a supported storage target within AWS Transform.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-03T07:00:37Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/netapp-inc-ntap-q1-2027-070037079.html"
-    },
-    {
-      "title": "NetApp Q1 Earnings Call Highlights",
-      "summary": "NetApp (NASDAQ:NTAP) reported a record start to fiscal 2027, with first-quarter revenue rising 30% year over year to $2.03 billion and non-GAAP earnings per share increasing 66% to $2.58. The company said results exceeded the high end of its guidance ranges and reflected broad demand across its hybr",
-      "pub_date": "2026-09-03T00:02:14Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netapp-q1-earnings-call-highlights-000214675.html"
-    },
-    {
-      "title": "Compared to Estimates, NetApp (NTAP) Q1 Earnings: A Look at Key Metrics",
-      "summary": "Although the revenue and EPS for NetApp (NTAP) give a sense of how its business performed in the quarter ended July 2026, it might be worth considering how some key metrics compare with Wall Street estimates and the year-ago numbers.",
-      "pub_date": "2026-09-02T22:00:03Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-netapp-ntap-q1-220003546.html"
     }
   ]
 }
