@@ -1,7 +1,21 @@
 {
   "ticker": "FTNT",
-  "generated_at": "2026-09-04T18:45:57.575402+00:00",
+  "generated_at": "2026-09-04T22:01:05.215167+00:00",
   "items": [
+    {
+      "title": "The Gap Between CRWD Stock And Its Own Numbers",
+      "summary": "CrowdStrike's stock has soared past its rivals, but a look at the books shows a very different pecking order. Is the market seeing the future, or just a mirage.",
+      "pub_date": "2026-09-04T21:39:22Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gap-between-crwd-stock-own-213922288.html"
+    },
+    {
+      "title": "Cisco Systems Stock Rose On More Than Its AI Orders",
+      "summary": "Cisco Systems (CSCO) stock has returned about 64% over the past year, against roughly 21% for the S&P 500. The easy explanation is that Cisco sells the switches and optics that hyperscalers are buying for AI. That business is real, and it is the smaller part of the story. The larger part is that the rest of Cisco started growing again, much of it as customers ready their networks for AI.",
+      "pub_date": "2026-09-04T20:51:33Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-stock-rose-more-205133634.html"
+    },
     {
       "title": "Zscaler Q4 Earnings Beat Estimates, Revenues Surge 25% Y/Y",
       "summary": "ZS' Q4 earnings and revenues top estimates as rising platform adoption, AI demand and broad geographic growth drive 25% revenue growth and stronger ARR.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-02T20:20:05Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/real-behind-crowdstrike-stocks-premium-202005883.html"
-    },
-    {
-      "title": "Stocks to Watch Recap: GitLab, Dell, Palo Alto Networks",
-      "summary": "\u2197\ufe0f GitLab (GTLB). Shares of the maker of software-development tools jumped 10% after its second-quarter results topped expectations both on revenue and earnings. \u2198\ufe0f Palo Alto Networks (PANW): The cybersecurity company's stock dropped 9.",
-      "pub_date": "2026-09-02T20:18:08Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-02-2026/card/stocks-to-watch-gitlab-dell-broadcom-2m7ydfkeWDkuDp7Ttt44?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Buy Palo Alto Networks Stock? Earnings Reveal a $9.1B AI Security Boom",
-      "summary": "Palo Alto Networks' surging NGS ARR, strong cash flow and attractive valuation strengthen the case for PANW stock.",
-      "pub_date": "2026-09-02T19:00:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-palo-alto-networks-stock-190000275.html"
     }
   ]
 }

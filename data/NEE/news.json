@@ -1,7 +1,14 @@
 {
   "ticker": "NEE",
-  "generated_at": "2026-09-04T18:46:25.448889+00:00",
+  "generated_at": "2026-09-04T22:01:24.685526+00:00",
   "items": [
+    {
+      "title": "Sector Update: Energy Stocks Softer Late Afternoon",
+      "summary": "Energy stocks declined late Friday afternoon, with the NYSE Energy Sector Index decreasing 0.7% and",
+      "pub_date": "2026-09-04T19:57:37Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-softer-afternoon-195737210.html"
+    },
     {
       "title": "Sector Update: Energy Stocks Lower in Afternoon Trading",
       "summary": "Energy stocks declined Friday afternoon, with the NYSE Energy Sector Index decreasing 0.6% and the S",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-03T16:35:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/energy/articles/better-energy-play-nextera-vs-163500573.html"
-    },
-    {
-      "title": "NextEra, Santee Cooper Point to Real Dollar Savings From AI Deployments",
-      "summary": "NextEra Energy says an artificial intelligence (AI)\u2013driven dispatch and outage-scheduling tool has saved its customers more than $20 million so far this year. Santee Cooper expects a custom AI weather-forecasting model to help it avoid spot-market purchases that can cost $100,000 an hour during extreme weather. Both utilities say the tools moved from concept to [\u2026]",
-      "pub_date": "2026-09-03T15:31:36Z",
-      "source": "POWER Magazine",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nextera-santee-cooper-point-real-153136767.html"
     }
   ]
 }

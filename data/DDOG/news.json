@@ -1,7 +1,14 @@
 {
   "ticker": "DDOG",
-  "generated_at": "2026-09-04T18:45:43.429860+00:00",
+  "generated_at": "2026-09-04T22:00:55.603633+00:00",
   "items": [
+    {
+      "title": "Snowflake Falls 5% as Traders Take Profits on Its Guidance Surge; Datadog Holds Steady",
+      "summary": "Snowflake surged 17% on earnings night, then spent Friday giving it back while every benchmark around it barely budged. That split-screen moment raises a pointed question about who is actually selling and why.",
+      "pub_date": "2026-09-04T19:02:47Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/snowflake-falls-5-traders-profits-190247250.html"
+    },
     {
       "title": "Datadog, Amplitude, Zscaler, DocuSign, and Salesforce Shares Skyrocket, What You Need To Know",
       "summary": "A number of stocks jumped in the afternoon session after software equities broadly gained momentum following a pullback in treasury yields and second-quarter financial results from Snowflake.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-02T15:30:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-hold-datadog-stock-153000304.html"
-    },
-    {
-      "title": "Okta, Datadog, JFrog, Zscaler, and Elastic Shares Are Falling, What You Need To Know",
-      "summary": "A number of stocks fell in the afternoon session after escalating geopolitical tensions in the Middle East and climbing global bond yields dampened investor risk appetite.",
-      "pub_date": "2026-09-01T20:50:20Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/okta-datadog-jfrog-zscaler-elastic-205020337.html"
     }
   ]
 }

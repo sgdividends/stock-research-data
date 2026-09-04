@@ -1,7 +1,28 @@
 {
   "ticker": "EQIX",
-  "generated_at": "2026-09-04T18:45:50.404501+00:00",
+  "generated_at": "2026-09-04T22:01:00.080271+00:00",
   "items": [
+    {
+      "title": "3 REITs Getting Paid as Big Tech Builds Out AI",
+      "summary": "Hyperscalers are signing multi-year leases at a pace that is rewriting the income playbook, and three REITs are quietly collecting the rent on every server warehouse in the deal. The question is which one fits a portfolio built for the long haul.",
+      "pub_date": "2026-09-04T19:22:57Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/real-estate/articles/3-reits-getting-paid-big-192257109.html"
+    },
+    {
+      "title": "Is Equinix Stock Outperforming the Dow?",
+      "summary": "Due to Equinix's strong performance relative to the Dow over the past year, Wall Street analysts maintain a bullish outlook on the stock\u2019s prospects.",
+      "pub_date": "2026-09-04T14:35:36Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equinix-stock-outperforming-dow-143536799.html"
+    },
+    {
+      "title": "Here Is How to Play Nvidia Stock After Its Blockbuster AI Deal",
+      "summary": "Nvidia is set to acquire AI company Hugging Face for a record $13 billion fee.",
+      "pub_date": "2026-09-04T12:52:27Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/technology/ai/articles/play-nvidia-stock-blockbuster-ai-125227937.html"
+    },
     {
       "title": "Equinix & CPP Investments Complete $4 Billion atNorth Acquisition",
       "summary": "EQIX and CPP Investments complete a $4B atNorth deal, expanding Nordic data center exposure for AI, cloud and high-performance computing.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-02T14:34:02Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-equinix-deepen-ai-inference-143402756.html"
-    },
-    {
-      "title": "Equinix Shares Rise 2% After Launch of AI Inference Program With Nvidia and Together AI",
-      "summary": "Equinix (NASDAQ:EQIX) shares rose 2% on Wednesday after the company announced Equinix Inference Exchange, a distributed artificial intelligence inference program developed in collaboration with Nvidia and Together AI. The program brings together Nvidia Enterprise Reference Architectures, Together AI\u2019s inference platform and Equinix\u2019s global infrastructure for enterprises deploying AI workloads.",
-      "pub_date": "2026-09-02T13:52:35Z",
-      "source": "InvestorsHub",
-      "url": "https://finance.yahoo.com/technology/ai/articles/equinix-shares-rise-2-launch-135235363.html"
-    },
-    {
-      "title": "EQIX Strengthens Advanced Computing With Diraq Quantum Deployment",
-      "summary": "Equinix teams up with Diraq to deploy a silicon spin quantum computer in its Sydney data center by October 2026.",
-      "pub_date": "2026-09-01T17:12:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/eqix-strengthens-advanced-computing-diraq-171200792.html"
-    },
-    {
-      "title": "Fresh Off a U.S. Funding Deal, This Quantum Start-Up Is Moving Into Data Centers",
-      "summary": "Diraq is deploying a quantum computer directly into a commercial data center, marking a real-world example of hybrid computing.",
-      "pub_date": "2026-08-31T20:01:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/quantum-data-center-ibm-diraq-4ef7729d?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

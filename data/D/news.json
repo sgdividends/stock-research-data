@@ -1,7 +1,14 @@
 {
   "ticker": "D",
-  "generated_at": "2026-09-04T18:45:42.606780+00:00",
+  "generated_at": "2026-09-04T22:00:54.993569+00:00",
   "items": [
+    {
+      "title": "Sector Update: Energy Stocks Softer Late Afternoon",
+      "summary": "Energy stocks declined late Friday afternoon, with the NYSE Energy Sector Index decreasing 0.7% and",
+      "pub_date": "2026-09-04T19:57:37Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-softer-afternoon-195737210.html"
+    },
     {
       "title": "Sector Update: Energy Stocks Lower in Afternoon Trading",
       "summary": "Energy stocks declined Friday afternoon, with the NYSE Energy Sector Index decreasing 0.6% and the S",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-31T13:55:22Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/makes-dominion-energy-d-attractive-135522118.html"
-    },
-    {
-      "title": "NextEra (NEE) Wants Dominion (D) But States Push Back",
-      "summary": "In May, NextEra Energy, Inc. (NYSE:NEE) announced plans to acquire Dominion Energy, Inc. (NYSE:D) in a $66.8 billion deal, creating the world\u2019s largest regulated electric utility business by market capitalization. The proposed merger has since come under increased political and regulatory scrutiny. It was reported on August 19 that five New England states, led by [\u2026]",
-      "pub_date": "2026-08-29T02:14:42Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/energy/articles/nextera-nee-wants-dominion-d-021442322.html"
     }
   ]
 }
