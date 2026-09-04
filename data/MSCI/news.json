@@ -1,7 +1,14 @@
 {
   "ticker": "MSCI",
-  "generated_at": "2026-09-04T02:28:16.978071+00:00",
+  "generated_at": "2026-09-04T08:24:21.529713+00:00",
   "items": [
+    {
+      "title": "Rising Bond Yields Threaten Commercial Real Estate Recovery",
+      "summary": "Rising bond yields threaten the CRE recovery by pressuring property values, liquidity, and institutional investment worldwide.",
+      "pub_date": "2026-09-04T07:50:12Z",
+      "source": "CRE Daily",
+      "url": "https://finance.yahoo.com/real-estate/articles/rising-bond-yields-threaten-commercial-075012010.html"
+    },
     {
       "title": "Saylor Urges MSCI to Drop 'Discriminatory' Rule That Would Delete Strategy",
       "summary": "The proposed screen would cut three companies from MSCI's global indexes in November, with Strategy the largest by some distance.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-25T17:01:19Z",
       "source": "Bisnow",
       "url": "https://finance.yahoo.com/real-estate/articles/data-center-deals-propel-july-170119225.html"
-    },
-    {
-      "title": "Dollar Debasement Frees Emerging-Markets Currencies From Treasuries\u2019 Weight",
-      "summary": "US Treasuries and emerging-market currencies are diverging the most in more than four years as higher US yields fail to fuel the dollar\u2019s strength like they once did.",
-      "pub_date": "2026-08-25T09:38:22Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-debasement-frees-emerging-markets-093822130.html"
     }
   ]
 }

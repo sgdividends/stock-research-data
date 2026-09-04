@@ -1,7 +1,14 @@
 {
   "ticker": "NDAQ",
-  "generated_at": "2026-09-04T02:28:17.852737+00:00",
+  "generated_at": "2026-09-04T08:24:22.348681+00:00",
   "items": [
+    {
+      "title": "Prediction: U.S. Options Volume Will Set a Record for the Seventh Straight Year",
+      "summary": "Options trading is booming again. New highs in volume are lifting exchange profits, and new products could keep the momentum going.",
+      "pub_date": "2026-09-04T06:20:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/options/articles/prediction-u-options-volume-set-062000365.html"
+    },
     {
       "title": "3 Surging  Stocks Worth Investigating",
       "summary": "Each stock in this article is trading near its 52-week high. These elevated prices usually indicate some degree of investor confidence, business improvements, or favorable market conditions.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-28T11:01:02Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/5-safe-dividend-stocks-retirees-110102976.html"
-    },
-    {
-      "title": "Bitcoin Climbs Above $80,000 As Tech Stocks Rally",
-      "summary": "Bitcoin (CRYPTO: $BTC) is trading above $80,000 U.S. on Aug. 27, propelled higher by a rally in technology stocks a...",
-      "pub_date": "2026-08-27T20:01:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-climbs-above-80-000-200100203.html"
     }
   ]
 }

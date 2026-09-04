@@ -1,7 +1,14 @@
 {
   "ticker": "CRWD",
-  "generated_at": "2026-09-04T02:27:52.362248+00:00",
+  "generated_at": "2026-09-04T08:23:56.632855+00:00",
   "items": [
+    {
+      "title": "US Just Took Down a 20-Year-Old Russian-Linked Cybercrime Operation \u2014 CrowdStrike Helps Disrupt Sality Botnet Behind Years of Attacks",
+      "summary": "A more than 20-year-old Russian cybercrime operation known as Sality is being dismantled by U.S. law enforcement agencies in collaboration with cybersecurity company CrowdStrike Holdings Inc., the Department of Justice said. On Monday, CrowdStrike, in collaboration with the Department of...",
+      "pub_date": "2026-09-04T03:31:10Z",
+      "source": "Benzinga",
+      "url": "https://www.yahoo.com/news/us/articles/us-just-took-down-20-033110652.html"
+    },
     {
       "title": "Zscaler Makes Bid to Join the Ranks of AI Winners",
       "summary": "The cybersecurity company reports adjusted earnings of $1.19 a share on revenue of $898.2 million, beating Wall Street expectations.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-03T17:17:14Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-calls-crowdstrike-crwd-171714906.html"
-    },
-    {
-      "title": "The malware that hijacked crypto payments for 8 years",
-      "summary": "CrowdStrike and federal authorities dismantled Sality, a botnet that spent eight years swapping copied wallet addresses for the attacker's, so victims unknowingly sent crypto to a stranger. The fix is simple: check the first and last characters of any address after you paste it. CoinDesk's Jennifer Sanasie hosts \"CoinDesk Daily.\"",
-      "pub_date": "2026-09-03T16:45:56Z",
-      "source": "CoinDesk",
-      "url": "https://finance.yahoo.com/video/malware-hijacked-crypto-payments-8-164556601.html"
     }
   ]
 }
