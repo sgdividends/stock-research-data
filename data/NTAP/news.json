@@ -1,6 +1,6 @@
 {
   "ticker": "NTAP",
-  "generated_at": "2026-09-04T08:24:23.608448+00:00",
+  "generated_at": "2026-09-04T15:36:38.513493+00:00",
   "items": [
     {
       "title": "NetApp CEO defends growth outlook as investors remain divided",
@@ -8,6 +8,20 @@
       "pub_date": "2026-09-03T21:19:13Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/netapp-ceo-defends-growth-outlook-211913586.html"
+    },
+    {
+      "title": "NTAP Q1 Earnings Beat Estimates on Hybrid, Public Cloud Revenue Growth",
+      "summary": "NetApp's record Q1 FY27 results show strong Hybrid and Public Cloud momentum as AI demand and modernization drive growth.",
+      "pub_date": "2026-09-04T14:44:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ntap-q1-earnings-beat-estimates-144400058.html"
+    },
+    {
+      "title": "Company News for Sep 4, 2026",
+      "summary": "Companies In The News Are: NVDA, AVGO, NTAP, CPB.",
+      "pub_date": "2026-09-04T09:15:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/company-news-sep-4-2026-091500709.html"
     },
     {
       "title": "How To Earn $500 A Month From NetApp Stock Ahead Of Q1 Earnings",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-03T17:24:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/netapp-q1-earnings-call-highlights-172400980.html"
-    },
-    {
-      "title": "NetApp Expands AWS Transform Support to Accelerate Enterprise Storage Migrations",
-      "summary": "Amazon FSx for NetApp ONTAP is now supported by AWS Transform, allowing enterprises to migrate attached storage and database workloads directly to AWS through a more integrated cloud migration process. Key Investor TakeawaysNetApp (NASDAQ:NTAP) and AWS have expanded their collaboration by adding Amazon FSx for NetApp ONTAP as a supported storage target within AWS Transform.",
-      "pub_date": "2026-09-03T14:13:38Z",
-      "source": "InvestorsHub",
-      "url": "https://finance.yahoo.com/technology/ai/articles/netapp-expands-aws-transform-support-141338315.html"
-    },
-    {
-      "title": "NTAP Q1 Earnings & Revenues Top Estimates on AI and All-Flash Strength",
-      "summary": "NetApp posts record fiscal Q1 results as AI and modernization demand fuels revenue growth, flash momentum and a raised fiscal 2027 outlook.",
-      "pub_date": "2026-09-03T14:13:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ntap-q1-earnings-revenues-top-141300605.html"
     }
   ]
 }

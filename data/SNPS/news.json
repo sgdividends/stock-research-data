@@ -1,7 +1,14 @@
 {
   "ticker": "SNPS",
-  "generated_at": "2026-09-04T08:24:32.199500+00:00",
+  "generated_at": "2026-09-04T15:36:48.957644+00:00",
   "items": [
+    {
+      "title": "Synopsys Fell 11% This Year. Wall Street Expects It to Gain 50% in the Next 12 Months",
+      "summary": "Synopsys powers nearly every advanced chip on the planet, yet its stock has cratered while the broader market surged, and Wall Street analysts are betting that gap closes in a hurry.",
+      "pub_date": "2026-09-04T13:29:56Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/synopsys-fell-11-wall-street-132956688.html"
+    },
     {
       "title": "Synopsys' Core Engine Grew Far Slower Than Its Revenue",
       "summary": "Synopsys (SNPS) booked revenue of $2.477 billion in fiscal Q3 2026, up about 42% year over year, and the shares have still lost about 30% over the past twelve months. Look past that headline at the line underneath it: EDA grew 8.5%. That single-digit number is the pace of the design tools business Synopsys had before the Ansys deal.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-01T16:03:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-stock-slides-19-month-160300637.html"
-    },
-    {
-      "title": "The Market May Be Underestimating This AI Chip-Design Stock",
-      "summary": "Synopsys just posted explosive revenue growth that dwarfs its closest EDA rival, yet the market prices it at a fraction of that rival's multiple. Something in that gap tells a story most investors are missing.",
-      "pub_date": "2026-09-01T14:00:51Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/market-may-underestimating-ai-chip-140051760.html"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-09-04T08:24:25.468572+00:00",
+  "generated_at": "2026-09-04T15:36:40.398129+00:00",
   "items": [
     {
       "title": "AI demand is 'exceptional,' but the supply chain is not: HPE CEO",
@@ -8,6 +8,41 @@
       "pub_date": "2026-09-03T20:10:52Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/ai-demand-exceptional-supply-chain-201052714.html"
+    },
+    {
+      "title": "Snowflake Gains 17% Post Q2 Earnings: Buy, Sell or Hold the Stock?",
+      "summary": "SNOW stock jumps 16.6% after Q2 second-quarter results as AI adoption, enterprise growth, and higher product revenue guidance fuel momentum.",
+      "pub_date": "2026-09-04T15:05:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/snowflake-gains-17-post-q2-150500656.html"
+    },
+    {
+      "title": "Crusoe signs $13 billion AI cloud deal with market maker Jane Street: Bloomberg",
+      "summary": "The five-year agreement would add a major trading firm to Crusoe\u2019s customer base as the AI infrastructure operator pursues private capital and a potential IPO.",
+      "pub_date": "2026-09-04T13:59:56Z",
+      "source": "Blockspace",
+      "url": "https://finance.yahoo.com/technology/ai/articles/crusoe-signs-13-billion-ai-135956316.html"
+    },
+    {
+      "title": "This Week In Cloud AI - Opti9 Expands Canadian Reach with Strategic Hut 8 Acquisition",
+      "summary": "Opti9 Technologies has recently expanded its presence in the Canadian cloud market by acquiring Hut 8's Canadian managed cloud business. This transaction enhances Opti9\u2019s cloud services and geographic reach within Canada, allowing customers to access a more robust technology platform and an experienced team. The acquisition also includes a multi-year colocation agreement, enabling Opti9 to operate its cloud infrastructure at Hut 8's Canadian data centers, providing increased flexibility for...",
+      "pub_date": "2026-09-04T12:37:50Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/week-cloud-ai-opti9-expands-123750589.html"
+    },
+    {
+      "title": "TikTok owner ByteDance said to secure $29.6bn loan for AI push",
+      "summary": "Investing.com -- ByteDance secured a $29.6 billion loan from nearly 30 banks on Friday, Reuters reported on Friday. The Chinese social media company's focus on artificial intelligence development attracted strong interest from lenders.",
+      "pub_date": "2026-09-04T11:56:15Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tiktok-owner-bytedance-said-secure-115615239.html"
+    },
+    {
+      "title": "Nasdaq Futures Edge Higher As Jobs Report Takes Center Stage: TSLA, LULU, ORCL, PL, NVDA, PLTR, RKLB In Focus",
+      "summary": "Retail sentiment on Stocktwits remained \u2018bearish\u2019 on SPY and flipped to \u2018bullish\u2019 on QQQ.",
+      "pub_date": "2026-09-04T08:47:09Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-edge-higher-jobs-084709437.html"
     },
     {
       "title": "What We\u2019ve Learned Since 9/11",
@@ -22,41 +57,6 @@
       "pub_date": "2026-09-04T04:54:34Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/stocks/articles/orcl-stock-spikes-hpe-equipment-045434497.html"
-    },
-    {
-      "title": "Oracle (ORCL) Stock Gets Fair Value Trim As Analysts Split On AI And Capex",
-      "summary": "Oracle\u2019s updated pricing framework now reflects a fair value estimate of US$241.97, compared with the previous US$248.15 level. This adjustment lines up with a more mixed analyst narrative, as stronger interest in Oracle Cloud Infrastructure and large AI contracts is being balanced against concerns about funding needs, capital expenditure and potential pressure on earnings quality. As you read on, you will see how these moving pieces are shaping the evolving Oracle story and what to watch as...",
-      "pub_date": "2026-09-04T03:08:52Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-stock-gets-fair-030852432.html"
-    },
-    {
-      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-      "pub_date": "2026-09-04T00:48:42Z",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/technology/ai/articles/crusoe-reportedly-raises-3b-30b-004842708.html"
-    },
-    {
-      "title": "Intuit Stock Still Carries The Same Swing It Just Delivered",
-      "summary": "Intuit (INTU) stock trades at about $342.94, down 47.6% over the trailing twelve months. The options market has now priced how far it can travel from here, and the band is wide: a floor near $210 and a ceiling near $705.1, a little over a year out.",
-      "pub_date": "2026-09-04T00:16:45Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/intuit-stock-still-carries-same-001645072.html"
-    },
-    {
-      "title": "BlackLine, Upland Software, Zeta Global, Oracle, and Okta Shares Are Soaring and Falling, What You Need To Know",
-      "summary": "A number of stocks traded in opposite directions in the afternoon session after software equities broadly gained momentum following a pullback in treasury yields and second-quarter financial results from Snowflake.",
-      "pub_date": "2026-09-03T21:51:18Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/blackline-upland-software-zeta-global-215118296.html"
-    },
-    {
-      "title": "Why Is Oracle Stock Up Today?",
-      "summary": "Oracle has taken on tens of billions in debt to fund its AI data center build-out, a lower-rate outlook offers it outsize relief.",
-      "pub_date": "2026-09-03T21:20:08Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-oracle-stock-today-212008025.html"
     }
   ]
 }

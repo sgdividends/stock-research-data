@@ -1,7 +1,14 @@
 {
   "ticker": "LITE",
-  "generated_at": "2026-09-04T08:24:17.072394+00:00",
+  "generated_at": "2026-09-04T15:36:30.252851+00:00",
   "items": [
+    {
+      "title": "Update: Market Chatter: Nvidia Increases Equity Investments to $99 Billion",
+      "summary": "(Updates with Nvidia's response in the fifth paragraph.) Nvidia (NVDA) has increased its equity i",
+      "pub_date": "2026-09-04T10:27:04Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-nvidia-increases-equity-102704254.html"
+    },
     {
       "title": "Is COHR Stock a Buy as AI Growth Meets Premium Valuation and Risk?",
       "summary": "Coherent's AI-optics growth and rising estimates support upside, but premium valuation, heavy capex and weak cash flow raise execution risk.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-01T15:40:00Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-see-major-upside-top-154000546.html"
-    },
-    {
-      "title": "Bond Woes Weigh on the AI Buildout, Dragging Tech Stocks",
-      "summary": "Tech stocks were feeling the brunt of Tuesday's selloff. The tech-heavy Nasdaq Composite was leading declines, down 0.8%. The S&P 500 fell 0.5%. The Dow Jones Industrial Average dropped 0.4%, or 208 points.",
-      "pub_date": "2026-09-01T15:06:28Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-090126/card/bond-woes-weigh-on-the-ai-buildout-dragging-tech-stocks-oE9OToBRkQ1bniCHuw5X?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

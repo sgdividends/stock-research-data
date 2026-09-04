@@ -1,13 +1,20 @@
 {
   "ticker": "BMY",
-  "generated_at": "2026-09-04T08:23:50.250482+00:00",
+  "generated_at": "2026-09-04T15:35:58.593643+00:00",
   "items": [
     {
       "title": "Drugmakers Halt Autoimmune Trials After Deaths, Life-Threatening Side Effects",
       "summary": "Trial freezes by Novartis and Bristol Myers have triggered a race to understand why a promising autoimmune treatment turned risky.",
-      "pub_date": "2026-09-03T22:00:00Z",
+      "pub_date": "2026-09-04T13:42:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/health/pharma/drugmakers-halt-autoimmune-trials-after-deaths-life-threatening-side-effects-14e786fd?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Market Chatter: Bristol Myers Squibb Paused Zola-Cel Trials Over Safety Concerns",
+      "summary": "Bristol Myers Squibb (BMY) has told regulators, researchers and patient groups in early June that it",
+      "pub_date": "2026-09-04T09:10:29Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/healthcare/articles/market-chatter-bristol-myers-squibb-091029806.html"
     },
     {
       "title": "Is Merck Stock Pricing In A Post-Keytruda Future Too Soon?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-03T05:51:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/revisiting-stock-picks-dexcom-bristol-myers-quanta-services-charts-8ca397e2?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "What Does Bristol Myers Squibb (BMY) Trial Pause Mean For Its Pipeline?",
-      "summary": "Bristol Myers Squibb (NYSE:BMY) has paused enrollment in its zola-cel cell therapy trials for autoimmune conditions following emerging safety concerns. The voluntary pause comes after inflammatory side effects were detected during ongoing safety surveillance in the program. The move raises fresh questions around the risk profile of cell-based therapies in autoimmune diseases, as well as the pace of Bristol Myers Squibb's clinical pipeline. For readers interested in more ideas in this corner...",
-      "pub_date": "2026-09-03T04:31:19Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/healthcare/articles/does-bristol-myers-squibb-bmy-043119770.html"
     }
   ]
 }

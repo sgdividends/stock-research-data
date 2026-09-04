@@ -1,7 +1,14 @@
 {
   "ticker": "AME",
-  "generated_at": "2026-09-04T08:23:45.565956+00:00",
+  "generated_at": "2026-09-04T15:35:53.332864+00:00",
   "items": [
+    {
+      "title": "1 S&P 500 Stock on Our Watchlist and 2 We Question",
+      "summary": "The S&P 500 (^GSPC) is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are created equal - some are struggling with slowing growth, declining margins, or increased competition.",
+      "pub_date": "2026-09-04T11:02:10Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-watchlist-110210757.html"
+    },
     {
       "title": "Why Is Ametek (AME) Down 8.5% Since Last Earnings Report?",
       "summary": "Ametek (AME) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-20T14:03:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/accenture-stock-gains-26-7-140300412.html"
-    },
-    {
-      "title": "Has Analog Devices (ADI) Outpaced Other Computer and Technology Stocks This Year?",
-      "summary": "Here is how Analog Devices (ADI) and Ametek (AME) have performed compared to their sector so far this year.",
-      "pub_date": "2026-08-19T13:40:03Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-adi-outpaced-other-134003188.html"
     }
   ]
 }

@@ -1,7 +1,21 @@
 {
   "ticker": "BKR",
-  "generated_at": "2026-09-04T08:23:49.834484+00:00",
+  "generated_at": "2026-09-04T15:35:58.127000+00:00",
   "items": [
+    {
+      "title": "Sector Update: Energy Stocks Fall Pre-Bell Friday",
+      "summary": "Energy stocks were falling pre-bell Friday, with the State Street Energy Select Sector SPDR ETF (XLE",
+      "pub_date": "2026-09-04T13:26:29Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-pre-132629779.html"
+    },
+    {
+      "title": "Baker Hughes Deepens Pakistan Footprint With OGDC's Multi-Year Deal",
+      "summary": "BKR's multi-year OGDC contract covers more than 120 wells, combining AI-enabled solutions and well services to boost mature-field production in Pakistan.",
+      "pub_date": "2026-09-04T11:49:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/energy/articles/baker-hughes-deepens-pakistan-footprint-114900915.html"
+    },
     {
       "title": "Nano Nuclear Advances KRONOS Helium Circulator to Detailed Design Phase",
       "summary": "Nano Nuclear Energy (NASDAQ:NNE) said its engineering collaboration with Howden, a Baker Hughes business, has progressed to the detailed design phase for the primary helium circulator of its KRONOS MMR\u2122 Energy System. The helium circulator is a mechanical subsystem designed to move helium coolant through the reactor core to transfer heat.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-29T03:32:18Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/technology/ai/articles/c3-ai-vs-uipath-artificial-033218830.html"
-    },
-    {
-      "title": "Basin rig count steady as prices drop",
-      "summary": "The rig count in the Permian Basin was unchanged this week, the latest count Friday by Baker Hughes shows, with 267 rigs active in the region. A year ago, 255 rigs were active in the region. Nationally, the oil and gas rig count is unchanged from last week at 588 rigs. A year ago, 536 rigs were active. The count shows that 447 rigs sought oil, down five from the previous week, and 132 explored ...",
-      "pub_date": "2026-08-29T00:02:00Z",
-      "source": "Odessa American, Texas",
-      "url": "https://finance.yahoo.com/energy/articles/basin-rig-count-steady-prices-000200368.html"
-    },
-    {
-      "title": "U.S. Oil Rig Count Falls by 5 as Gas Rigs Rise",
-      "summary": "The total number of active drilling rigs for oil and gas in the United States stayed the same this week, according to new data that Baker Hughes published on Friday",
-      "pub_date": "2026-08-28T17:24:00Z",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/energy/articles/u-oil-rig-count-falls-172400900.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "KEYS",
-  "generated_at": "2026-09-04T08:24:14.904487+00:00",
+  "generated_at": "2026-09-04T15:36:27.896008+00:00",
   "items": [
+    {
+      "title": "Synopsys Fell 11% This Year. Wall Street Expects It to Gain 50% in the Next 12 Months",
+      "summary": "Synopsys powers nearly every advanced chip on the planet, yet its stock has cratered while the broader market surged, and Wall Street analysts are betting that gap closes in a hurry.",
+      "pub_date": "2026-09-04T13:29:56Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/synopsys-fell-11-wall-street-132956688.html"
+    },
     {
       "title": "Synopsys' Core Engine Grew Far Slower Than Its Revenue",
       "summary": "Synopsys (SNPS) booked revenue of $2.477 billion in fiscal Q3 2026, up about 42% year over year, and the shares have still lost about 30% over the past twelve months. Look past that headline at the line underneath it: EDA grew 8.5%. That single-digit number is the pace of the design tools business Synopsys had before the Ansys deal.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-31T15:57:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cadences-cash-generation-support-both-155700915.html"
-    },
-    {
-      "title": "Can Keysight's Solutions Accelerate Advanced IC Development?",
-      "summary": "KEYS' EDA solutions are accelerating advanced chip design, cutting cycles by over 50% and enabling AI chips to reach tape-out in under six weeks.",
-      "pub_date": "2026-08-31T14:10:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/articles/keysights-solutions-accelerate-advanced-ic-141000709.html"
     }
   ]
 }

@@ -1,13 +1,27 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-09-04T08:24:23.205307+00:00",
+  "generated_at": "2026-09-04T15:36:38.085270+00:00",
   "items": [
     {
-      "title": "Dow Jones Futures: Jobs Report Due After Bullish Market Move; Tesla Falls After Cybercab News",
+      "title": "Software Stocks Are Back. 2 Winners, 2 Losers\u2014and Salesforce.",
+      "summary": "Salesforce and other software stocks have impressed the market this earnings season but investors need to be careful about which ones to back.",
+      "pub_date": "2026-09-04T14:40:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/salesforce-stock-software-ai-winners-losers-ed4679cb?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Dow Jones Futures Fall, Techs Rise After Market Rally; Tesla Cybercab, Jobs Report In Focus",
       "summary": "The stock market jumped above key levels Thursday, buoyed by Snowflake and dovish Fed comments. Tesla Cybercabs are now live in Austin robotaxi app. The jobs report is on tap.",
-      "pub_date": "2026-09-04T08:17:31Z",
+      "pub_date": "2026-09-04T12:13:23Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-waller-tesla-cybercab-jobs-report/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "2 Profitable Stocks for Long-Term Investors and 1 That Underwhelm",
+      "summary": "While profitability is essential, it doesn\u2019t guarantee long-term success. Some companies that rest on their margins will lose ground as competition intensifies \u2014 as Jeff Bezos said, \u201cYour margin is my opportunity\u201d.",
+      "pub_date": "2026-09-04T08:30:10Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-profitable-stocks-long-term-083010160.html"
     },
     {
       "title": "Guidewire Software, HubSpot, CrowdStrike, ServiceNow, and Dynatrace Shares Are Soaring, What You Need To Know",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-03T16:30:54Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/1-trillion-hanging-over-palantir-163054242.html"
-    },
-    {
-      "title": "Michael Burry Just Put a $100 Billion Warning on Palantir",
-      "summary": "This article first appeared on GuruFocus.  Data analytics and artificial intelligence startup Palantir Technologies Inc. (PLTR, Financials) is back on Michael Burry (Trades, Portfolio)'s radar.  The Big Short investor said Palantir's market valuation, which is around $432 billion, may eventually sink below $100 billion, saying investors are pricing the company more like a high-margin software platform than the business its financial profile suggests.",
-      "pub_date": "2026-09-03T15:41:10Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-just-put-100-154110908.html"
-    },
-    {
-      "title": "Palantir Rallies 7% as PwC Alliance Counters Michael Burry Bear Case, ServiceNow Climbs 5%, Salesforce Gains 3%",
-      "summary": "Michael Burry just renewed his short case against Palantir, and Palantir answered with a major alliance announcement that sent the stock surging. Whether that response actually addresses the receivables quality problem Burry flagged is a different question entirely.",
-      "pub_date": "2026-09-03T15:11:00Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-rallies-7-pwc-alliance-151100126.html"
     }
   ]
 }

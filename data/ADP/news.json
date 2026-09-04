@@ -1,7 +1,21 @@
 {
   "ticker": "ADP",
-  "generated_at": "2026-09-04T08:23:43.271297+00:00",
+  "generated_at": "2026-09-04T15:35:50.453855+00:00",
   "items": [
+    {
+      "title": "US added 162,000 jobs in August, with unemployment rate holding steady",
+      "summary": "Number of new jobs being added has been fluctuating, with private companies adding 38,000 jobs in August",
+      "pub_date": "2026-09-04T12:40:44Z",
+      "source": "The Guardian",
+      "url": "https://finance.yahoo.com/economy/policy/articles/us-added-162-000-jobs-124044968.html"
+    },
+    {
+      "title": "Does Automatic Data Processing (ADP) Look Too Pricey After Slower Hiring?",
+      "summary": "Automatic Data Processing has delivered solid long term share gains over the past five years, yet current valuation checks suggest the stock is trading at a premium to its intrinsic value estimate. At the same time, market based multiples look roughly in line with peers, which creates a more nuanced picture for investors trying to assess where Automatic Data Processing stock now sits on the pricing spectrum. Automatic Data Processing is up about 55.0% over five years, which points to a...",
+      "pub_date": "2026-09-04T12:12:53Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/does-automatic-data-processing-adp-121253849.html"
+    },
     {
       "title": "Intuit Stock Still Carries The Same Swing It Just Delivered",
       "summary": "Intuit (INTU) stock trades at about $342.94, down 47.6% over the trailing twelve months. The options market has now priced how far it can travel from here, and the band is wide: a floor near $210 and a ceiling near $705.1, a little over a year out.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-02T20:06:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/jgbs-edge-lower-tracking-declines-in-u-s-treasurys-999492da?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Daily Roundup of Key US Economic Data for Sept. 2",
-      "summary": "ADP private payrolls rose by 38,000 in August after a 46,000 gain in July, led by a jobs increase of",
-      "pub_date": "2026-09-02T18:50:28Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/economy/articles/daily-roundup-key-us-economic-185028768.html"
-    },
-    {
-      "title": "Gold Futures Edge Up as Treasury Yields Ease",
-      "summary": "Gold futures snap a three-session losing streak as Treasury yields ease. The market is closely watching for Friday's employment report, where a strong jobs showing could add to Fed rate-hike expectations.",
-      "pub_date": "2026-09-02T18:42:20Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-090226/card/gold-futures-edge-up-as-treasury-yields-ease-b6523LVsNTFx7Yma1QcL?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
