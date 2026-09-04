@@ -1,7 +1,14 @@
 {
   "ticker": "CMI",
-  "generated_at": "2026-09-03T22:08:42.147712+00:00",
+  "generated_at": "2026-09-04T02:27:50.332038+00:00",
   "items": [
+    {
+      "title": "Eaton Stock Looks Expensive Until You Price The Factory Ramp",
+      "summary": "Eaton (ETN) trades near $390 a share, about 39.7 times the adjusted earnings it made over the past twelve months. That basis is normalized net income with stock-based compensation added back, meant to sit closer to the analyst-consensus basis than a GAAP figure would, though the two adjusted measures are not defined identically. On that figure alone the stock looks dear. But it prices a year Eaton has already finished.",
+      "pub_date": "2026-09-03T22:29:01Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-stock-looks-expensive-until-222901628.html"
+    },
     {
       "title": "That Dip In Caterpillar Stock Looks Tempting, But Don't Ignore The Catch",
       "summary": "The heavy-equipment giant is firing on all cylinders, so a recent pullback has investors asking if this is the moment to pounce.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-28T20:16:01Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/options/articles/eaton-stock-swing-far-more-201601524.html"
-    },
-    {
-      "title": "Is Caterpillar Stock Relying on an Artificial Demand Story?",
-      "summary": "The demand explanation management leaned on for its construction business has dropped out of the lead, and what replaced it leans on the dealer channel.",
-      "pub_date": "2026-08-28T17:18:19Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-stock-relying-artificial-demand-171819746.html"
     }
   ]
 }

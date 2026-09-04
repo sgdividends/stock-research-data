@@ -1,7 +1,14 @@
 {
   "ticker": "HUBB",
-  "generated_at": "2026-09-03T22:09:02.382141+00:00",
+  "generated_at": "2026-09-04T02:28:06.722211+00:00",
   "items": [
+    {
+      "title": "Eaton Stock Looks Expensive Until You Price The Factory Ramp",
+      "summary": "Eaton (ETN) trades near $390 a share, about 39.7 times the adjusted earnings it made over the past twelve months. That basis is normalized net income with stock-based compensation added back, meant to sit closer to the analyst-consensus basis than a GAAP figure would, though the two adjusted measures are not defined identically. On that figure alone the stock looks dear. But it prices a year Eaton has already finished.",
+      "pub_date": "2026-09-03T22:29:01Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-stock-looks-expensive-until-222901628.html"
+    },
     {
       "title": "Can Power Utility Demand Boost nVent Electric's Long-Term Growth?",
       "summary": "NVT's power utility growth is benefiting from rising electricity demand, AI data centers and grid modernization, adding another growth avenue.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-27T19:57:05Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/much-upside-etn-stocks-growth-195705429.html"
-    },
-    {
-      "title": "Can Maverick Power Acquisition Boost NVT's Data Center Growth?",
-      "summary": "nVent Electric's planned $1.75B Maverick Power deal can expand its data center portfolio, add power distribution products and drive growth.",
-      "pub_date": "2026-08-27T15:02:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/articles/maverick-power-acquisition-boost-nvts-150200521.html"
     }
   ]
 }

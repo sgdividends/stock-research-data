@@ -1,7 +1,14 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-09-03T22:08:41.903329+00:00",
+  "generated_at": "2026-09-04T02:27:50.113379+00:00",
   "items": [
+    {
+      "title": "Fed Rate Hike Odds Fall to 50/50: Will Bitcoin's Rally Above 80,000 Hold?",
+      "summary": "CME FedWatch odds for a September Fed rate hike fell to 50/50 Friday as Bitcoin extended its rally toward $82,000.",
+      "pub_date": "2026-09-04T01:17:55Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/fed-rate-hike-odds-fall-011755371.html"
+    },
     {
       "title": "Bitcoin Climbs to Highest Intraday Level Since May as Risk Assets Get Boost From Waller\u2019s Comments",
       "summary": "The price of the world\u2019s most well-known cryptocurrency surged along with major stock indexes Thursday.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-31T12:00:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/options/articles/best-leveraged-etfs-last-week-120000706.html"
-    },
-    {
-      "title": "Will CME\u2019s New Factor and Wind Power Futures Suite Change CME Group\u2019s (CME) Narrative?",
-      "summary": "CME Group recently broadened its derivatives lineup by announcing E-mini Equity Factor futures and financially settled Wind Power futures and options, aimed at giving investors more targeted tools for managing equity factor exposures and wind generation risk across major global regions. By moving into both factor-based equity contracts and weather-linked power instruments, CME Group is extending futures-style hedging into increasingly specialized corners of portfolio construction and the...",
-      "pub_date": "2026-08-29T12:11:51Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/options/articles/cme-factor-wind-power-futures-121151935.html"
     }
   ]
 }

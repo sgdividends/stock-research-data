@@ -1,7 +1,14 @@
 {
   "ticker": "ETN",
-  "generated_at": "2026-09-03T22:08:52.369713+00:00",
+  "generated_at": "2026-09-04T02:27:58.876832+00:00",
   "items": [
+    {
+      "title": "Eaton Stock Looks Expensive Until You Price The Factory Ramp",
+      "summary": "Eaton (ETN) trades near $390 a share, about 39.7 times the adjusted earnings it made over the past twelve months. That basis is normalized net income with stock-based compensation added back, meant to sit closer to the analyst-consensus basis than a GAAP figure would, though the two adjusted measures are not defined identically. On that figure alone the stock looks dear. But it prices a year Eaton has already finished.",
+      "pub_date": "2026-09-03T22:29:01Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-stock-looks-expensive-until-222901628.html"
+    },
     {
       "title": "Is This Pullback In Vertiv Stock A Glitch Or A Warning?",
       "summary": "The data center infrastructure provider is growing fast, but its stock just hit a rough patch, leaving investors to weigh a powerful history against a pricey present.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-31T19:33:34Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jepi-monthly-payouts-shrunk-bull-193334291.html"
-    },
-    {
-      "title": "Is Eaton Stock Riskier Than It Was A Year Ago?",
-      "summary": "Debt takes a far bigger share of Eaton's assets than it historically has, and shareholders stand behind every dollar of it.",
-      "pub_date": "2026-08-31T18:41:39Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-stock-riskier-ago-184139978.html"
     }
   ]
 }

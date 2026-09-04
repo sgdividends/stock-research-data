@@ -1,7 +1,14 @@
 {
   "ticker": "MCD",
-  "generated_at": "2026-09-03T22:09:11.197709+00:00",
+  "generated_at": "2026-09-04T02:28:14.356921+00:00",
   "items": [
+    {
+      "title": "McDonald's launches exclusive state-themed meal",
+      "summary": "McDonald\u2019s also brought back a menu favorite and is rolling out a new item for customers across the country.",
+      "pub_date": "2026-09-04T00:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/small-business/articles/mcdonalds-launches-exclusive-state-themed-000300275.html"
+    },
     {
       "title": "Dutch Bros Stock Is Down Sharply, But History Has A Warning For Dip Buyers",
       "summary": "The high-growth coffee chain is executing its playbook, but a look at the stock\u2019s past performance after similar drops tells a more complicated story.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-02T09:24:23Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/1-dow-jones-stock-worth-092423377.html"
-    },
-    {
-      "title": "Panera makes major change to how customers earn rewards",
-      "summary": "Panera\u2019s latest offering rewards loyalty.",
-      "pub_date": "2026-09-02T02:33:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/small-business/articles/panera-makes-major-change-customers-023300725.html"
     }
   ]
 }

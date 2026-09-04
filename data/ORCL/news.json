@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-09-03T22:09:18.796207+00:00",
+  "generated_at": "2026-09-04T02:28:20.670506+00:00",
   "items": [
     {
       "title": "AI demand is 'exceptional,' but the supply chain is not: HPE CEO",
@@ -8,6 +8,20 @@
       "pub_date": "2026-09-03T20:10:52Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/ai-demand-exceptional-supply-chain-201052714.html"
+    },
+    {
+      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
+      "pub_date": "2026-09-04T00:48:42Z",
+      "source": "TechCrunch",
+      "url": "https://finance.yahoo.com/technology/ai/articles/crusoe-reportedly-raises-3b-30b-004842708.html"
+    },
+    {
+      "title": "Intuit Stock Still Carries The Same Swing It Just Delivered",
+      "summary": "Intuit (INTU) stock trades at about $342.94, down 47.6% over the trailing twelve months. The options market has now priced how far it can travel from here, and the band is wide: a floor near $210 and a ceiling near $705.1, a little over a year out.",
+      "pub_date": "2026-09-04T00:16:45Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/intuit-stock-still-carries-same-001645072.html"
     },
     {
       "title": "BlackLine, Upland Software, Zeta Global, Oracle, and Okta Shares Are Soaring and Falling, What You Need To Know",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-03T17:35:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/snowflake-q2-earnings-beat-product-173500650.html"
-    },
-    {
-      "title": "Oracle To Face Earnings Test After Wild Year Riding AI Wave",
-      "summary": "It was nearly 12 months ago that Oracle stock surged a record 36% on AI optimism. The company has had a rough run since then.",
-      "pub_date": "2026-09-03T16:57:56Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/oracle-stock-q1-2027-earnings-ai-openai/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Microsoft, Amazon and 8 More Stocks Set to Win in a $26 Trillion AI Market",
-      "summary": "Microsoft, Amazon and a raft of cloud-computing and software companies will be the AI winners, according to Jefferies analysts.",
-      "pub_date": "2026-09-03T15:39:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/microsoft-stock-amazon-google-ai-c1f27f95?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
