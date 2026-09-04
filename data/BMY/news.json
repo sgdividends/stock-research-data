@@ -1,7 +1,14 @@
 {
   "ticker": "BMY",
-  "generated_at": "2026-09-04T15:35:58.593643+00:00",
+  "generated_at": "2026-09-04T18:45:30.020702+00:00",
   "items": [
+    {
+      "title": "Sector Update: Healthcare Stocks Decline Friday Afternoon",
+      "summary": "Healthcare stocks were lower Friday afternoon, with the NYSE Healthcare Index and the State Street H",
+      "pub_date": "2026-09-04T17:41:05Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-decline-friday-174105757.html"
+    },
     {
       "title": "Drugmakers Halt Autoimmune Trials After Deaths, Life-Threatening Side Effects",
       "summary": "Trial freezes by Novartis and Bristol Myers have triggered a race to understand why a promising autoimmune treatment turned risky.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-03T15:30:13Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/healthcare/articles/why-gilead-gild-13-6-153013197.html"
-    },
-    {
-      "title": "Revisiting Stock Picks Dexcom, Bristol Myers Squibb, Quanta Services",
-      "summary": "Reviewing prior stock picks is how investors turn experience into valuable feedback.  A recommendation is only a thesis until the market tests it.  Watch Doug discuss recent stock picks, provide input on the current market environment\u2014and take your questions.",
-      "pub_date": "2026-09-03T05:51:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/revisiting-stock-picks-dexcom-bristol-myers-quanta-services-charts-8ca397e2?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

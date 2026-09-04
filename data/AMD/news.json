@@ -1,7 +1,28 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-09-04T15:35:53.205896+00:00",
+  "generated_at": "2026-09-04T18:45:21.633775+00:00",
   "items": [
+    {
+      "title": "Here\u2019s the Real Reason Nvidia Is Buying Hugging Face",
+      "summary": "Nvidia stock rose after it announced a $12.9 billion deal for Hugging Face. This is what's behind the move.",
+      "pub_date": "2026-09-04T17:55:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/nvidia-stock-hugging-face-ai-b814c729?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "How Far AMD Stock Can Swing In Its Calm Case",
+      "summary": "Advanced Micro Devices (AMD) trades at about $456.16, and its option chain has already put numbers on how far the stock can travel from here. Over roughly the next 380 days that chain marks out a band running from $260 to $792.23. The width is what matters if you hold the shares. That is the risk you are carrying, whichever way it breaks.",
+      "pub_date": "2026-09-04T16:31:14Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/far-amd-stock-swing-calm-163114102.html"
+    },
+    {
+      "title": "OpenAI Has Launched GPT-6 Astra. These Stocks Will Benefit.",
+      "summary": "Move over Anthropic, OpenAI is back to take the artificial-intelligence crown.  At least that\u2019s the ChatGPT developer\u2019s claim with the launch of a new AI model that could boost a number of its partners.  OpenAI late Thursday announced its GPT-6 Astra model.",
+      "pub_date": "2026-09-04T15:40:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/openai-gpt-6-astra-microsoft-stock-066362a7?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Intel Climbs 4%, AMD Rises 3%, NVIDIA Ticks Up as Chip Stocks Shrug Off Rising Rate Hike Odds",
       "summary": "A blowout jobs report pushed September rate hike odds past 60%, which should have hammered high-multiple chip stocks. Instead, the semiconductor complex ran straight into the headwind and left the rest of tech behind.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-04T14:07:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/silicon-motion-surges-186-past-140700702.html"
-    },
-    {
-      "title": "Cathie Wood Just Bought 705,102 Shares of a Rocket Company 50 Times Smaller Than SpaceX",
-      "summary": "ARK Invest just loaded up on a rocket company trading at a fraction of SpaceX's valuation, and the timing raises a pointed question about whether the recent selloff is a warning sign or a once-in-a-cycle entry point.",
-      "pub_date": "2026-09-04T14:00:27Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-just-bought-705-140027433.html"
-    },
-    {
-      "title": "Here\u2019s the Real Reason Nvidia Is Buying Hugging Face",
-      "summary": "Nvidia stock rose after it announced a $12.9 billion deal for Hugging Face. This is what's behind the move.",
-      "pub_date": "2026-09-04T14:00:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/nvidia-stock-hugging-face-ai-b814c729?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Cathie Wood Cuts AMD and Puts $53 Million Into Nvidia",
-      "summary": "ARK Invest shifted its semiconductor exposure after Nvidia's latest earnings, selling about $72.8 million of AMD while adding to Nvidia.",
-      "pub_date": "2026-09-04T13:34:12Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cathie-wood-cuts-amd-puts-133412523.html"
     }
   ]
 }

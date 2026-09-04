@@ -1,7 +1,14 @@
 {
   "ticker": "NEE",
-  "generated_at": "2026-09-04T15:36:37.046280+00:00",
+  "generated_at": "2026-09-04T18:46:25.448889+00:00",
   "items": [
+    {
+      "title": "Sector Update: Energy Stocks Lower in Afternoon Trading",
+      "summary": "Energy stocks declined Friday afternoon, with the NYSE Energy Sector Index decreasing 0.6% and the S",
+      "pub_date": "2026-09-04T17:55:10Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-lower-afternoon-175510988.html"
+    },
     {
       "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Friday After August Jobs Report Tops Estimates",
       "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.03%, and the actively tr",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-03T15:31:36Z",
       "source": "POWER Magazine",
       "url": "https://finance.yahoo.com/technology/ai/articles/nextera-santee-cooper-point-real-153136767.html"
-    },
-    {
-      "title": "Can Hedging and Long-Term PPAs Strengthen Vistra's Growth?",
-      "summary": "VST's heavy hedging and 20-year nuclear PPAs with AWS and Meta aim to lock in revenues, steady cash flow and support long-term growth.",
-      "pub_date": "2026-09-02T14:49:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/energy/articles/hedging-long-term-ppas-strengthen-144900574.html"
     }
   ]
 }

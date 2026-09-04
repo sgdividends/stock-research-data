@@ -1,7 +1,35 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-09-04T15:36:24.720637+00:00",
+  "generated_at": "2026-09-04T18:46:07.837603+00:00",
   "items": [
+    {
+      "title": "Lone Star JV Acquires 2M SF Of R&D Space In Silicon Valley",
+      "summary": "A JV led by Lone Star acquired more than 50 buildings across six R&D campuses in San Jose, Milpitas and Santa Clara.",
+      "pub_date": "2026-09-04T18:08:47Z",
+      "source": "Bisnow",
+      "url": "https://finance.yahoo.com/real-estate/articles/lone-star-jv-acquires-2m-180847305.html"
+    },
+    {
+      "title": "Here\u2019s the Real Reason Nvidia Is Buying Hugging Face",
+      "summary": "Nvidia stock rose after it announced a $12.9 billion deal for Hugging Face. This is what's behind the move.",
+      "pub_date": "2026-09-04T17:55:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/nvidia-stock-hugging-face-ai-b814c729?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Why Intel Stock Popped Today",
+      "summary": "Intel Stock Gets Powerful Wall Street Catalyst From Explosive Dell Server Growth",
+      "pub_date": "2026-09-04T17:04:00Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-popped-today-170400410.html"
+    },
+    {
+      "title": "How Far AMD Stock Can Swing In Its Calm Case",
+      "summary": "Advanced Micro Devices (AMD) trades at about $456.16, and its option chain has already put numbers on how far the stock can travel from here. Over roughly the next 380 days that chain marks out a band running from $260 to $792.23. The width is what matters if you hold the shares. That is the risk you are carrying, whichever way it breaks.",
+      "pub_date": "2026-09-04T16:31:14Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/far-amd-stock-swing-calm-163114102.html"
+    },
     {
       "title": "Dell\u2019s earning report was bullish for Intel CPU demand, analyst says",
       "summary": "Intel (NASDAQ: INTC) is the most direct equity expression of the structural shift Chowdhry describes. The firm's $200 price target and a 2031 EPS estimate of $20 rest on three interlocking arguments: rising CPU-to-GPU ratios in AI clusters, x86's entrenched enterprise position, and the architectural advantages of Intel's Clearwater Forest processor.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-09-04T14:40:20Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/qcom-showered-owners-cash-stock-144020301.html"
-    },
-    {
-      "title": "SMCI Rises 29% Year to Date: Time to Buy, Sell or Hold the Stock?",
-      "summary": "Super Micro Computer gains 29% YTD as record backlog, AI partnerships and rising shipments fuel growth, while improving margins add to its appeal.",
-      "pub_date": "2026-09-04T14:28:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/smci-rises-29-date-time-142800925.html"
-    },
-    {
-      "title": "Here\u2019s the Real Reason Nvidia Is Buying Hugging Face",
-      "summary": "Nvidia stock rose after it announced a $12.9 billion deal for Hugging Face. This is what's behind the move.",
-      "pub_date": "2026-09-04T14:00:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/nvidia-stock-hugging-face-ai-b814c729?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "5-Star Analyst Resets Intel Stock Price Target on Weaker PC Demand",
-      "summary": "Top Mizuho Analyst Warns Intel's AI Boom Can't Hide Near-Term Margin Pressure",
-      "pub_date": "2026-09-04T12:27:39Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/5-star-analyst-resets-intel-122739043.html"
-    },
-    {
-      "title": "Nvidia's $13 Billion Hugging Face Deal Expands Open-Source AI",
-      "summary": "NVDA's $12.9 billion Hugging Face deal expands its AI reach into open-source models, developers and software while boosting demand for computing.",
-      "pub_date": "2026-09-04T12:18:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-13-billion-hugging-face-121800081.html"
     }
   ]
 }

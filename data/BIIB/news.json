@@ -1,7 +1,21 @@
 {
   "ticker": "BIIB",
-  "generated_at": "2026-09-04T15:35:57.861881+00:00",
+  "generated_at": "2026-09-04T18:45:28.869999+00:00",
   "items": [
+    {
+      "title": "This Biotech Wins a Big FDA Approval. Why Wall Street Is Shrugging.",
+      "summary": "Ionis Pharmaceuticals wins regulatory clearance for its quarterly injection, Zanvastro, in Alexander disease. Analysts are focused elsewhere.",
+      "pub_date": "2026-09-04T16:13:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/ionis-stock-fda-zanvastro-9865d3d7?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Exelixis (EXEL) Up 13.3% Since Last Earnings Report: Can It Continue?",
+      "summary": "Exelixis (EXEL) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+      "pub_date": "2026-09-04T15:30:06Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/healthcare/articles/exelixis-exel-13-3-since-153006855.html"
+    },
     {
       "title": "Why Is Veeva Systems (VEEV) Winning Big In AI For Biopharma?",
       "summary": "Veeva Systems (NYSE: VEEV) announced that Regeneron and Biogen have adopted its AI powered Vault CRM suite globally. The company also introduced Veeva Falcon Safety, a new agentic safety operations product for biopharma clients. Both moves expand Veeva Systems' AI focused offering across commercial and safety workflows in life sciences. These updates highlight how AI heavy software is becoming core infrastructure for healthcare and biopharma workflows. This connects directly to a wider set...",
@@ -43,20 +57,6 @@
       "pub_date": "2026-08-30T13:45:07Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/healthcare/articles/josh-brown-says-break-ai-134507001.html"
-    },
-    {
-      "title": "Why Is Biogen (BIIB) Up 6.5% Since Last Earnings Report?",
-      "summary": "Biogen (BIIB) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
-      "pub_date": "2026-08-28T15:30:24Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/healthcare/articles/why-biogen-biib-6-5-153024739.html"
-    },
-    {
-      "title": "Veeva Systems Inc (VEEV) (Q2 2027) Earnings Call Highlights: Record CRM Quarter and AI Momentum ...",
-      "summary": "Veeva Systems Inc (VEEV) reports $928 million in revenue and best-ever CRM performance, with Veeva Falcon AI gaining traction.",
-      "pub_date": "2026-08-27T05:01:23Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/healthcare/articles/veeva-systems-inc-veev-q2-050123914.html"
     }
   ]
 }

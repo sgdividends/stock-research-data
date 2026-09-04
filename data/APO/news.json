@@ -1,14 +1,7 @@
 {
   "ticker": "APO",
-  "generated_at": "2026-09-04T15:35:54.798372+00:00",
+  "generated_at": "2026-09-04T18:45:24.240944+00:00",
   "items": [
-    {
-      "title": "Is AI displacing workers? The data says no.",
-      "summary": "Worries have coalesced around the potential for AI to displace workers. So far, that's not what the data shows.",
-      "pub_date": "2026-09-04T10:00:00Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/is-ai-displacing-workers-the-data-says-no-100000514.html"
-    },
     {
       "title": "Private Equity Wants Your Broken Garage Door. Why KKR Thinks They Are Worth $2 Billion",
       "summary": "KKR manages nearly $800 billion in assets, yet its next big bet is a Phoenix company that fixes broken garage doors. The logic behind a $2 billion valuation reveals something unsettling about where private equity is hunting for returns.",
@@ -57,6 +50,13 @@
       "pub_date": "2026-09-03T07:22:32Z",
       "source": "Benzinga",
       "url": "https://finance.yahoo.com/technology/ai/articles/why-broadcom-ceo-hock-tan-072232809.html"
+    },
+    {
+      "title": "Bankrupt casino owner closes two locations, lays off 238 workers",
+      "summary": "The bankrupt gaming company has closed four casinos since July 2026.",
+      "pub_date": "2026-09-03T02:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/small-business/articles/bankrupt-casino-owner-closes-two-020300336.html"
     }
   ]
 }

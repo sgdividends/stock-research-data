@@ -1,7 +1,21 @@
 {
   "ticker": "ABBV",
-  "generated_at": "2026-09-04T15:35:49.458563+00:00",
+  "generated_at": "2026-09-04T18:45:16.690779+00:00",
   "items": [
+    {
+      "title": "Was JNJ Stock Rally Actually Its Own?",
+      "summary": "Johnson & Johnson (JNJ) stock returned 59.9% over the past year, against 21.1% for the S&P 500. The company has a clean story for it. The biosimilar hit it had been bracing for arrived and was absorbed, and its talc litigation now has a proposed ending. Both are real. The first does not explain a move that size, and the second is not finished.",
+      "pub_date": "2026-09-04T16:57:27Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jnj-stock-rally-actually-own-165727562.html"
+    },
+    {
+      "title": "Lilly (LLY) Down 2.7% Since Last Earnings Report: Can It Rebound?",
+      "summary": "Lilly (LLY) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
+      "pub_date": "2026-09-04T15:30:31Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lilly-lly-down-2-7-153031973.html"
+    },
     {
       "title": "ABBV's Etentamig Meets Goals in Phase III Multiple Myeloma Study",
       "summary": "AbbVie's etentamig meets key phase III goals in multiple myeloma, improving response rates and progression-free survival versus standard therapies.",
@@ -31,32 +45,18 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/5-etfs-retirees-skip-stock-120036429.html"
     },
     {
-      "title": "AbbVie (ABBV) Reports Positive Phase 3 Results For Etentamig In Multiple Myeloma",
-      "summary": "AbbVie (NYSE: ABBV) reported positive Phase 3 CERVINO trial results for etentamig, an investigational BCMA x CD3 bispecific T-cell engager in relapsed or refractory multiple myeloma. The study found etentamig outperformed standard therapies with strong efficacy and a manageable safety profile in a difficult-to-treat patient group. The data may support a future regulatory submission and potential market entry for etentamig in the BCMA-targeted therapies space. Consider reviewing other...",
-      "pub_date": "2026-09-04T08:19:32Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/healthcare/articles/abbvie-abbv-reports-positive-phase-081932831.html"
+      "title": "Trailing rivals, AbbVie scores win with dual-acting myeloma drug",
+      "summary": "The drugmaker is leaning on a better side effect profile compared to drugs from J&J, Pfizer and Regeneron as it pushes etentamig toward FDA submission.",
+      "pub_date": "2026-09-04T12:00:00Z",
+      "source": "BioPharma Dive",
+      "url": "https://finance.yahoo.com/healthcare/articles/trailing-rivals-abbvie-scores-win-120000312.html"
     },
     {
-      "title": "AbbVie (ABBV)\u2019s Blood Cancer Success Adds Weight to its Pipeline Story",
-      "summary": "AbbVie Inc. (NYSE:ABBV)\u2019s experimental blood-cancer therapy etentamig delivered positive results in a late-stage trial for patients with relapsed or refractory multiple myeloma, meeting the trial\u2019s main objectives. The drug produced an objective response rate of 74%, compared with 45.7% for standard treatments selected by investigators. More importantly, etentamig reduced the risk of disease progression or [\u2026]",
-      "pub_date": "2026-09-04T01:24:34Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/healthcare/articles/abbvie-abbv-blood-cancer-success-012434988.html"
-    },
-    {
-      "title": "AbbVie's Etentamig Delivers 74% Response Rate in Pivotal Cancer Trial",
-      "summary": "Etentamig beat standard treatment by 28.3 percentage points and met the Phase 3 study's progression-free-survival goal.",
-      "pub_date": "2026-09-03T21:31:59Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/healthcare/articles/abbvies-etentamig-delivers-74-response-213159336.html"
-    },
-    {
-      "title": "J&J Gains as AbbVie Posts 74% Myeloma Response",
-      "summary": "Etentamig could expand treatment after CAR-T therapy without immediately displacing J&J's fast-growing Carvykti franchise.",
-      "pub_date": "2026-09-03T21:26:23Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/healthcare/articles/j-j-gains-abbvie-posts-212623009.html"
+      "title": "This week in charts: China deals, stock flatlines and Lilly\u2019s M&A spree",
+      "summary": "Deals with Chinese drugmakers are continuing at a steady pace, while two mid-cap biotechs' stock prices took a tumble this week. Meanwhile, Lilly has outpaced other pharmas in dealmaking this year.",
+      "pub_date": "2026-09-04T11:56:31Z",
+      "source": "BioPharma Dive",
+      "url": "https://finance.yahoo.com/healthcare/articles/week-charts-china-deals-stock-115631040.html"
     }
   ]
 }
