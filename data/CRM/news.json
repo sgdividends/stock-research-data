@@ -1,7 +1,14 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-09-05T17:51:24.826996+00:00",
+  "generated_at": "2026-09-05T21:50:41.393461+00:00",
   "items": [
+    {
+      "title": "Salesforce (CRM) Expands Agentic AI Footprint Across Enterprise Customer Deployments",
+      "summary": "Salesforce (NYSE:CRM) is seeing a wave of agentic AI integrations as partners including S-Docs, Smarsh, Genesys, and F5/MuleSoft expand deployments on Agentforce and Agent Fabric. S-Docs is rolling out governed document automation on Salesforce for regulated customers using Agentforce in live production environments. Smarsh, Genesys, and F5/MuleSoft are using Salesforce agentic AI to support compliance heavy customer service, cross platform AI orchestration, and security guardrails in real...",
+      "pub_date": "2026-09-05T21:07:29Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-expands-agentic-ai-210729169.html"
+    },
     {
       "title": "Palantir Jumped 7.7% on an Expanded PwC Alliance as Globant Launched a Salesforce AI Pod. Which Services Model Scales Better?",
       "summary": "Palantir shares gained 7.7% on September 3, the same day PwC US expanded an alliance built around enterprise AI, M&A, and ERP modernization. The companies described an AI-native deals platform intended to execute transactions up to 50% faster and cut one-time costs by as much as 45%, but disclosed no new contract value. The same [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T15:25:43Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/ai-model-competition-fantastic-docusign-152543840.html"
-    },
-    {
-      "title": "Software Stocks Are Back. 2 Winners, 2 Losers\u2014and Salesforce.",
-      "summary": "Salesforce and other software stocks have impressed the market this earnings season but investors need to be careful about which ones to back.",
-      "pub_date": "2026-09-04T14:40:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/salesforce-stock-software-ai-winners-losers-ed4679cb?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
