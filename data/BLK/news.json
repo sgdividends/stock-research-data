@@ -1,6 +1,6 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-09-05T11:43:44.412165+00:00",
+  "generated_at": "2026-09-05T14:24:27.735786+00:00",
   "items": [
     {
       "title": "Bitcoin ETFs see $731M inflow surge",
@@ -15,6 +15,13 @@
       "pub_date": "2026-09-04T16:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/bitcoin-etfs-just-had-best-160000838.html"
+    },
+    {
+      "title": "Bitcoin Just Exploded 40% From Its July Low \u2014 Is $100,000 Back on the Table?",
+      "summary": "Bitcoin has clawed back tens of thousands of dollars from its summer lows, putting a once-abandoned price target back within striking distance. But a wall of macro headwinds stands between here and there, and the next move could go either direction fast.",
+      "pub_date": "2026-09-05T14:03:17Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-just-exploded-40-july-140317197.html"
     },
     {
       "title": "BlackRock (BLK) Draws Fresh Valuation Debate, Where Does Fair Value Sit?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T16:00:14Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-stocks-fall-160014336.html"
-    },
-    {
-      "title": "Bitcoin ETFs post best day in 9 months as price hits $82,000",
-      "summary": "Bitcoin ETF inflows hit nearly $731 million, with BlackRock leading demand.",
-      "pub_date": "2026-09-04T15:54:46Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-post-best-day-155446523.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "EQIX",
-  "generated_at": "2026-09-05T11:43:56.575942+00:00",
+  "generated_at": "2026-09-05T14:24:42.420263+00:00",
   "items": [
+    {
+      "title": "Can Equinix (EQIX) Justify A Pricey Earnings Valuation On AI Growth?",
+      "summary": "Equinix has delivered a 43.1% gain over the past 3 years, yet its valuation checks are mixed. An intrinsic value estimate from a Discounted Cash Flow (DCF) approach suggests the stock trades below that estimate, while market based multiples point to a richer price tag. Over 3 years, Equinix is up 43.1%. This puts recent weakness over the past few weeks into context as part of a longer positive run rather than a sudden move. Recent moves to expand AI focused infrastructure and services,...",
+      "pub_date": "2026-09-05T12:13:36Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equinix-eqix-justify-pricey-earnings-121336903.html"
+    },
     {
       "title": "What Does Equinix (EQIX) Gain From Fabric One, atNorth, And Quantum Infrastructure?",
       "summary": "Equinix (NasdaqGS: EQIX) launched Equinix Fabric One, a managed connectivity service for cloud, AI, and networking environments. The company completed its acquisition of atNorth, expanding its data center presence in the Nordic region. Diraq deployed a quantum computer in an Equinix data center, creating an industry first by integrating quantum, AI, and classical computing infrastructure. These moves put a spotlight on the broader build out of AI and data infrastructure, which is worth...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-03T14:39:57Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/ai/articles/billionaires-2-ai-data-center-143957217.html"
-    },
-    {
-      "title": "Digital Realty vs. Equinix: Which AI Dividend Scores Higher?",
-      "summary": "Both data center REITs just paid shareholders, both ride the same AI wave, but their dividend scorecards look nothing alike. One has raised its payout for over a decade while the other has frozen shareholders out for four years despite surging earnings.",
-      "pub_date": "2026-09-03T11:49:09Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/digital-realty-vs-equinix-ai-114909621.html"
     }
   ]
 }

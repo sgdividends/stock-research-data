@@ -1,7 +1,14 @@
 {
   "ticker": "MS",
-  "generated_at": "2026-09-05T11:44:16.479188+00:00",
+  "generated_at": "2026-09-05T14:25:02.587456+00:00",
   "items": [
+    {
+      "title": "Morgan Stanley delivers bold Carvana stock verdict",
+      "summary": "Carvana just posted its best quarter ever, yet the stock is down for the year.",
+      "pub_date": "2026-09-05T14:07:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-delivers-bold-carvana-140700577.html"
+    },
     {
       "title": "Anthropic Weighs Morgan Stanley And Goldman Sachs For Key Roles In $2 Trillion IPO, Says Report",
       "summary": "The Claude maker could reportedly file its prospectus as soon as next week, setting the stage for a potential debut in late September or early October.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T15:07:58Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/video/could-bank-research-vanish-x-150758085.html"
-    },
-    {
-      "title": "Anthropic's IPO Push Just Got a $15 Billion Backstop",
-      "summary": "The company is reportedly preparing an IPO that could rival or exceed SpaceX's",
-      "pub_date": "2026-09-04T14:30:56Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropics-ipo-push-just-got-143056473.html"
     }
   ]
 }
