@@ -1,7 +1,14 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-09-05T02:28:50.388440+00:00",
+  "generated_at": "2026-09-05T07:58:53.453341+00:00",
   "items": [
+    {
+      "title": "Thinking Machines Lab Seeks $40B Valuation as Nvidia Extends Its Capital Allocator Role Into Model-Space",
+      "summary": "Thinking Machines Lab, the AI startup founded by former OpenAI CTO Mira Murati, is in talks to raise between $5 billion and $6 billion at a pre-money valuation of at least $40 billion. Nvidia is separately in discussions to invest approximately $2.5 billion, while existing backer Accel is reportedly in talks to lead the round. [\u2026]",
+      "pub_date": "2026-09-05T02:24:14Z",
+      "source": "Forkast News",
+      "url": "https://finance.yahoo.com/technology/ai/articles/thinking-machines-lab-seeks-40b-022414055.html"
+    },
     {
       "title": "Elon Musk Committed SpaceX to Building \"Exclusively on Nvidia.\" Here's What That Locks In for SpaceX's Compute Bill.",
       "summary": "The commitment covers the company's largest capital outlay, and now there is no second bidder for it.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T15:12:07Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/intel-climbs-4-chip-stocks-151207394.html"
-    },
-    {
-      "title": "Intel Witnesses an Uptrend in Estimate Revisions: Is it Worth Buying?",
-      "summary": "INTC's estimate revisions point higher as AI demand, manufacturing gains and expanding custom silicon offset supply and competition risks.",
-      "pub_date": "2026-09-04T14:57:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-witnesses-uptrend-estimate-revisions-145700180.html"
     }
   ]
 }

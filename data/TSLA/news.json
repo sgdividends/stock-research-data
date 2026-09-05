@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "generated_at": "2026-09-05T02:30:03.959693+00:00",
+  "generated_at": "2026-09-05T07:59:50.748435+00:00",
   "items": [
     {
       "title": "No steering wheel, no problem: Can Tesla speed by Cybercab probe?",
@@ -15,6 +15,13 @@
       "pub_date": "2026-09-04T12:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/are-meta-and-nvidia-redefining-value-vs-growth-stocks-in-the-era-of-ai-120000681.html"
+    },
+    {
+      "title": "Tesla (TSLA) Faces NHTSA Cybercab Safety Probe After Austin Robotaxi Rollout",
+      "summary": "US National Highway Traffic Safety Administration opens investigation into Tesla (NasdaqGS:TSLA) Cybercab robotaxi safety compliance after commercial rollout in Austin, Texas. Probe centers on whether Cybercab vehicles without traditional steering wheels and pedals meet federal motor vehicle safety standards. Review focuses on Tesla's self-certification process and how the company addresses occupant safety in fully autonomous commercial service. Investigation outcome may affect regulatory...",
+      "pub_date": "2026-09-05T06:12:45Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tesla-tsla-faces-nhtsa-cybercab-061245889.html"
     },
     {
       "title": "SpaceX is now in your 401(k), and Musk is the risk",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T22:18:49Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-end-lower-221849556.html"
-    },
-    {
-      "title": "From Launch Party to Federal Probe: What Went Wrong With Tesla's Cybercab in 24 Hours",
-      "summary": "The much-anticipated launch led to a share price plunge.",
-      "pub_date": "2026-09-04T21:50:01Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/launch-party-federal-probe-went-215001526.html"
     }
   ]
 }
