@@ -1,7 +1,14 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-09-04T22:00:39.967719+00:00",
+  "generated_at": "2026-09-05T02:28:50.388440+00:00",
   "items": [
+    {
+      "title": "Elon Musk Committed SpaceX to Building \"Exclusively on Nvidia.\" Here's What That Locks In for SpaceX's Compute Bill.",
+      "summary": "The commitment covers the company's largest capital outlay, and now there is no second bidder for it.",
+      "pub_date": "2026-09-04T22:03:06Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-committed-spacex-building-220306355.html"
+    },
     {
       "title": "Marvell Stock Had A Huge Year And Still Sits Well Below Its High",
       "summary": "Marvell Technology (MRVL) stock returned 235.9% over the past year, climbing from $62.18 to $208.83. The company kept raising what it expects to sell, and buyers repriced it each time. Then the shares pulled back, and they now sit well below their best.",
@@ -15,6 +22,13 @@
       "pub_date": "2026-09-04T17:55:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/nvidia-stock-hugging-face-ai-b814c729?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "AMD\u2019s Data Center Revenue and EPS to Double by 2027 \u2014 With Shares Down 19%, It\u2019s a Buy",
+      "summary": "Strong demand for AMD\u2019s AI accelerators and server CPUs, combined with an improving product mix, positions it to deliver solid growth.",
+      "pub_date": "2026-09-04T17:23:38Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-data-center-revenue-eps-172338901.html"
     },
     {
       "title": "How Far AMD Stock Can Swing In Its Calm Case",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-04T14:57:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/intel-witnesses-uptrend-estimate-revisions-145700180.html"
-    },
-    {
-      "title": "QCOM Showered Owners With Cash. The Stock Still Lagged The Market",
-      "summary": "The chipmaker showered its owners with cash while the stock price went nowhere fast, raising a sharp question about what all that money actually bought.",
-      "pub_date": "2026-09-04T14:40:20Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qcom-showered-owners-cash-stock-144020301.html"
-    },
-    {
-      "title": "SMCI Rises 29% Year to Date: Time to Buy, Sell or Hold the Stock?",
-      "summary": "Super Micro Computer gains 29% YTD as record backlog, AI partnerships and rising shipments fuel growth, while improving margins add to its appeal.",
-      "pub_date": "2026-09-04T14:28:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/smci-rises-29-date-time-142800925.html"
     }
   ]
 }

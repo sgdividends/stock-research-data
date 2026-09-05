@@ -1,7 +1,14 @@
 {
   "ticker": "CDNS",
-  "generated_at": "2026-09-04T22:00:48.476384+00:00",
+  "generated_at": "2026-09-05T02:28:59.557927+00:00",
   "items": [
+    {
+      "title": "What Sets Cadence Design Systems (CDNS) Apart After Its PCIe 6.0 Milestone?",
+      "summary": "Cadence Design Systems (NasdaqGS: CDNS) reported that its PCIe 6.0 subsystem achieved first pass compliance at an official PCI-SIG workshop and is now listed on the PCI-SIG Integrators List. The production ready subsystem targets high bandwidth connectivity needs in AI and high performance computing markets. The compliance result extends Cadence's technology offering from AI chip design tools to advanced interconnect subsystems aligned with the PCI Express 6.0 specification. This kind of...",
+      "pub_date": "2026-09-04T22:13:34Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/sets-cadence-design-systems-cdns-221334856.html"
+    },
     {
       "title": "Synopsys Fell 11% This Year. Wall Street Expects It to Gain 50% in the Next 12 Months",
       "summary": "Synopsys powers nearly every advanced chip on the planet, yet its stock has cratered while the broader market surged, and Wall Street analysts are betting that gap closes in a hurry.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-01T16:03:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ceva-stock-slides-19-month-160300637.html"
-    },
-    {
-      "title": "The Market May Be Underestimating This AI Chip-Design Stock",
-      "summary": "Synopsys just posted explosive revenue growth that dwarfs its closest EDA rival, yet the market prices it at a fraction of that rival's multiple. Something in that gap tells a story most investors are missing.",
-      "pub_date": "2026-09-01T14:00:51Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/market-may-underestimating-ai-chip-140051760.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "CAT",
-  "generated_at": "2026-09-04T22:00:47.485492+00:00",
+  "generated_at": "2026-09-05T02:28:58.645576+00:00",
   "items": [
+    {
+      "title": "Jim Cramer flagged one stock quietly concentrating portfolios",
+      "summary": "The portfolio looks diversified. Cramer says look again",
+      "pub_date": "2026-09-04T22:07:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-flagged-one-stock-220700386.html"
+    },
     {
       "title": "CAT Has Left Its Peers Behind. Or Has It?",
       "summary": "Caterpillar's stock is the undisputed champion of its group, but its business performance isn't. The market is betting on a future that hasn't fully arrived.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-03T17:52:42Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-explains-reason-behind-175242696.html"
-    },
-    {
-      "title": "Can CAT's AI Push With FieldAI Redefine Industrial Operations?",
-      "summary": "Caterpillar is advancing industrial AI through FieldAI, combining robotics and operational data to build safer, smarter and more productive job sites.",
-      "pub_date": "2026-09-03T17:39:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cats-ai-push-fieldai-redefine-173900652.html"
     }
   ]
 }
