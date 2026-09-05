@@ -1,6 +1,6 @@
 {
   "ticker": "HOOD",
-  "generated_at": "2026-09-05T07:59:20.879876+00:00",
+  "generated_at": "2026-09-05T11:44:04.883700+00:00",
   "items": [
     {
       "title": "'Detestable, inexcusable, vile': AMC CEO slams Robinhood for tokenized stock offerings",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-04T16:20:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/detestable-inexcusable-vile-amc-ceo-162000374.html"
+    },
+    {
+      "title": "Watch Out, Solana and Ethereum. Robinhood's Blockchain Is Eating Your Lunch.",
+      "summary": "Robinhood's new blockchain is soaking up a lot of attention and capital that might otherwise go to Solana or Ethereum.",
+      "pub_date": "2026-09-05T10:20:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/watch-solana-ethereum-robinhoods-blockchain-102000687.html"
     },
     {
       "title": "Robinhood Chain Brings Arbitrum Token Back from the Dead. ARB is Up 90%",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T19:56:42Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-retreat-afternoon-195642569.html"
-    },
-    {
-      "title": "Robinhood and AMC Clash Over Tokenized Stock Listing",
-      "summary": "Robinhood refuses AMC\u2019s demand to remove its tokenized stock, escalating a dispute over investor ownership, regulation, and synthetic shares.",
-      "pub_date": "2026-09-04T19:16:51Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-amc-clash-over-tokenized-191651549.html"
     }
   ]
 }
