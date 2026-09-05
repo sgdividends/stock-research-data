@@ -1,6 +1,6 @@
 {
   "ticker": "ETN",
-  "generated_at": "2026-09-05T14:24:43.118866+00:00",
+  "generated_at": "2026-09-05T17:51:32.126017+00:00",
   "items": [
     {
       "title": "Eaton to Boost U.S. Power Capacity With $242M Arkansas Plant",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-04T18:05:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/articles/eaton-boost-u-power-capacity-180500406.html"
+    },
+    {
+      "title": "Vertiv\u2019s UIG Deal Targets the Next Big Constraint in AI Data Centers",
+      "summary": "Vertiv Holdings will acquire microgrid specialist UtilityInnovation Group, betting that solving data center power bottlenecks is key to AI infrastructure growth.",
+      "pub_date": "2026-09-04T14:20:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/technology/ai/articles/vertiv-uig-deal-targets-next-142000177.html"
     },
     {
       "title": "Is Eaton (ETN) Cheap As It Doubles Fibrebond Capacity With A $242 Million Expansion?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-03T15:41:33Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-stock-keeps-cooling-off-154133274.html"
-    },
-    {
-      "title": "Is Eaton Corporation Stock Underperforming the Nasdaq?",
-      "summary": "Eaton Corporation has underperformed the Nasdaq Composite over the past year, yet analysts remain highly bullish about the stock\u2019s outlook.",
-      "pub_date": "2026-09-01T10:03:30Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-corporation-stock-underperforming-nasdaq-100330259.html"
     }
   ]
 }
