@@ -1,7 +1,21 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-09-05T21:50:58.513960+00:00",
+  "generated_at": "2026-09-06T02:25:37.745975+00:00",
   "items": [
+    {
+      "title": "Intel\u2019s AI Tailwinds Are Real. Mizuho Cut the Target Anyway.",
+      "summary": "On September 3, Mizuho lowered the price target on Intel Corporation (NASDAQ:INTC) to $92 from $109. Mizuho\u2019s note reads more bullish on INTC\u2019s business than the price target suggests, but the firm is stopping short of turning bullish. The firm noted multiple operating tailwinds working in favor of Intel, namely Agentic AI demand, enterprise server [\u2026]",
+      "pub_date": "2026-09-05T22:58:25Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/intel-ai-tailwinds-real-mizuho-225825483.html"
+    },
+    {
+      "title": "Why Intel Stock Climbed This Week",
+      "summary": "Dell's torrid revenue growth bodes well for the semiconductor leader.",
+      "pub_date": "2026-09-05T22:40:17Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-climbed-week-224017728.html"
+    },
     {
       "title": "Coatue Opened Positions in Intel and Cerebras. Is the AI Chip Trade Broadening Beyond NVIDIA?",
       "summary": "Coatue Management\u2019s Q2 filing disclosed a new position in Intel and, for the first time, a reportable position in newly public Cerebras. Coatue reported 12,084,027 Intel shares and roughly 7.01 million Cerebras shares at June 30. Intel Corporation (NASDAQ:INTC) offers manufacturing and established distribution, while Cerebras Systems Inc. (NASDAQ:CBRS) offers a radically different wafer-scale architecture. [\u2026]",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-04T17:04:00Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-popped-today-170400410.html"
-    },
-    {
-      "title": "How Far AMD Stock Can Swing In Its Calm Case",
-      "summary": "Advanced Micro Devices (AMD) trades at about $456.16, and its option chain has already put numbers on how far the stock can travel from here. Over roughly the next 380 days that chain marks out a band running from $260 to $792.23. The width is what matters if you hold the shares. That is the risk you are carrying, whichever way it breaks.",
-      "pub_date": "2026-09-04T16:31:14Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/far-amd-stock-swing-calm-163114102.html"
-    },
-    {
-      "title": "Dell\u2019s earning report was bullish for Intel CPU demand, analyst says",
-      "summary": "Intel (NASDAQ: INTC) is the most direct equity expression of the structural shift Chowdhry describes. The firm's $200 price target and a 2031 EPS estimate of $20 rest on three interlocking arguments: rising CPU-to-GPU ratios in AI clusters, x86's entrenched enterprise position, and the architectural advantages of Intel's Clearwater Forest processor.",
-      "pub_date": "2026-09-04T15:21:01Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-earning-report-bullish-intel-152101599.html"
     }
   ]
 }
