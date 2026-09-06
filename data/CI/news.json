@@ -1,7 +1,14 @@
 {
   "ticker": "CI",
-  "generated_at": "2026-09-06T08:17:11.394481+00:00",
+  "generated_at": "2026-09-06T14:46:20.303984+00:00",
   "items": [
+    {
+      "title": "The GLP-1 Squeeze: How Soaring Healthcare Costs Are Forcing Employers to Act",
+      "summary": "As employers brace for a fresh round of rising healthcare costs that outpace inflation, the stakes are getting higher for companies to contain spending on treatments such as popular GLP-1 medications for weight loss.",
+      "pub_date": "2026-09-06T07:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/healthcare-costs-glp1-weight-loss-drugs-89fa7d96?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "UnitedHealth Stock Recovered Before Its Margins Did",
       "summary": "UnitedHealth (UNH) stock has gained about 41% since early March, and at roughly $400 a share the market has already paid for a recovery. The easy reading is that the turnaround is finished. It is not. One half got better over those six months, the other got worse, and the price reflects the good half.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-31T18:25:28Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/healthcare/articles/unh-stock-gets-cheaper-only-182528438.html"
-    },
-    {
-      "title": "Is CVS Stock Set for a Rebound?",
-      "summary": "Its market-shock drawdowns have been ordinary in depth, and some of its longest waits back to the old high came after falls the index barely noticed.",
-      "pub_date": "2026-08-28T18:06:01Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cvs-stock-set-rebound-180601435.html"
     }
   ]
 }

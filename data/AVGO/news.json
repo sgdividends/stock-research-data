@@ -1,13 +1,41 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-09-06T08:17:05.130942+00:00",
+  "generated_at": "2026-09-06T14:46:14.189076+00:00",
   "items": [
+    {
+      "title": "These AI numbers are getting crazy",
+      "summary": "The past two weeks have been bonkers for the AI investment thesis, and any talk about peak AI needs to be tossed aside.",
+      "pub_date": "2026-09-06T12:30:00Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/these-ai-numbers-are-getting-crazy-123000121.html"
+    },
+    {
+      "title": "Broadcom And 2 Top Growth Stocks To Watch",
+      "summary": "Strong US jobs data has kept the prospect of further Federal Reserve rate hikes firmly on the table, which keeps pressure on companies that rely too heavily on cheap borrowing. That is exactly why investors are paying closer attention to businesses that combine solid balance sheets with strong earnings growth potential. This article highlights three stocks from a high quality US growth list that screen well on both fronts. The three stocks in this article are just a starting sample, since the...",
+      "pub_date": "2026-09-06T12:10:16Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-2-top-growth-stocks-121016991.html"
+    },
+    {
+      "title": "Nvidia\u2019s Hugging Face Deal Is a Hedge against Broadcom\u2019s Custom Silicon Threat",
+      "summary": "NVIDIA Corporation (NASDAQ:NVDA) has officially committed billions on AI developer platform Hugging Face for a $12.9 billion. The deal signifies the chipmaker\u2019s move beyond hardware and up the AI stack. The AI chipmaker buying the open-source model hub millions of developers are already using reads differently when compared to Broadcom\u2019s earlier forecast to double its [\u2026]",
+      "pub_date": "2026-09-06T10:51:11Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-hugging-face-deal-hedge-105111039.html"
+    },
     {
       "title": "Broadcom vs. Nvidia: 1 Critical Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Buy After Earnings",
       "summary": "Both companies are delivering impressive revenue growth.",
       "pub_date": "2026-09-05T19:05:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-vs-nvidia-1-critical-190500703.html"
+    },
+    {
+      "title": "5 big analyst AI moves: iPhone launch to be negative for Apple stock",
+      "summary": "Investing.com -- Here are the biggest analyst moves in the area of artificial intelligence (AI) for this week.",
+      "pub_date": "2026-09-05T18:25:36Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/5-big-analyst-ai-moves-182536563.html"
     },
     {
       "title": "With AI Revenue Set to Surge 400% Over the Next 2 Years, Broadcom Stock Looks Like a Buy on Recent Dip",
@@ -24,39 +52,11 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-ai-revenue-soars-145838390.html"
     },
     {
-      "title": "Broadcom And 2 Other Undervalued Stocks To Own",
-      "summary": "Resilient US services activity and solid composite PMI data keep attention on cash flow, since companies that keep money moving through the business can often ride out mixed macro signals better than those that cannot. When some investors focus on headline growth stories, stocks with strong cash generation that trade below estimated fair value can get ignored. This article highlights three such opportunities from our cash flow value screener. The three stocks below are just a starting sample...",
-      "pub_date": "2026-09-05T06:14:53Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-2-other-undervalued-stocks-061453375.html"
-    },
-    {
-      "title": "Why Broadcom CEO Hock Tan Called Anthropic and OpenAI 'Two Geniuses in the Middle of Mongolia'",
-      "summary": "Broadcom Inc. CEO Hock Tan has an unusual way of explaining why the company is helping finance Anthropic\u2018s and OpenAI\u2018s AI infrastructure buildout: he compares them to two geniuses stranded in the middle of Mongolia who need help getting to...",
-      "pub_date": "2026-09-05T00:30:26Z",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/technology/ai/articles/why-broadcom-ceo-hock-tan-003026400.html"
-    },
-    {
-      "title": "Jim Cramer Says \u201cSomeone Must Know Something\u201d About Broadcom Inc. (NASDAQ:AVGO)\u2019s Post-Earnings Share Dip",
-      "summary": "Broadcom Inc. (NASDAQ:AVGO) dipped on September 3rd, the day after the firm reported its fiscal third quarter earnings report. The results saw the firm post $29.6 billion in revenue and $3.32 in earnings per share to beat analyst estimates on both counts. More importantly, Broadcom Inc. (NASDAQ:AVGO)\u2019s semiconductor revenue jumped by 221% annually to sit [\u2026]",
-      "pub_date": "2026-09-04T22:51:41Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-someone-must-225141015.html"
-    },
-    {
-      "title": "Broadcom (AVGO) Stock Is Down After Q3 Earnings: Is It Too Soon to Buy the Dip?",
-      "summary": "Despite posting strong quarterly results this week, Broadcom stock is down almost 15% over the last month and more than 25% below its all-time high reached in June.",
-      "pub_date": "2026-09-04T22:20:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-stock-down-q3-222000523.html"
-    },
-    {
-      "title": "Top Research Reports for Apple, Broadcom & Shell",
-      "summary": "Apple, Broadcom and Shell show long-term strengths, but rising costs, AI execution risks and market volatility cloud their near-term outlooks.",
-      "pub_date": "2026-09-04T21:16:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-apple-broadcom-211600532.html"
+      "title": "MarketBeat Week in Review \u2013 08/31 - 09/04",
+      "summary": "Stocks pulled back after a strong jobs report stoked rate-hike concerns. MarketBeat writers recap earnings-season themes, covering AI, cybersecurity, retail, energy, and dividend stocks.",
+      "pub_date": "2026-09-05T11:00:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-08-31-110000926.html"
     }
   ]
 }

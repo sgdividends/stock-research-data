@@ -1,7 +1,14 @@
 {
   "ticker": "ULTA",
-  "generated_at": "2026-09-06T08:18:03.653775+00:00",
+  "generated_at": "2026-09-06T14:47:11.138268+00:00",
   "items": [
+    {
+      "title": "MarketBeat Week in Review \u2013 08/31 - 09/04",
+      "summary": "Stocks pulled back after a strong jobs report stoked rate-hike concerns. MarketBeat writers recap earnings-season themes, covering AI, cybersecurity, retail, energy, and dividend stocks.",
+      "pub_date": "2026-09-05T11:00:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-08-31-110000926.html"
+    },
     {
       "title": "Ulta\u2019s use of Flock technology causes upset online",
       "summary": "The retailer drew attention on social media this week for its use of automated license plate readers at some locations as the technology has drawn widespread public criticism.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-01T15:23:50Z",
       "source": "AfroTech",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ulta-beauty-cfo-praises-c-152350641.html"
-    },
-    {
-      "title": "Ulta Beauty Climbs 4%, e.l.f. Beauty Rises 5% as Post-Earnings Selloff Reverses",
-      "summary": "Friday's post-earnings selloff in beauty stocks is reversing sharply, but the rebound in Ulta Beauty and e.l.f. Beauty is telling two very different stories depending on where each stock started the year.",
-      "pub_date": "2026-08-31T16:35:14Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ulta-beauty-climbs-4-e-163514135.html"
     }
   ]
 }
