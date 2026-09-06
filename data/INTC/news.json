@@ -1,7 +1,14 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-09-06T14:46:41.422778+00:00",
+  "generated_at": "2026-09-06T17:57:04.572902+00:00",
   "items": [
+    {
+      "title": "China Is Still Chasing Nvidia\u2019s 3-Year-Old Chip \u2014 While Nvidia Has Moved Generations Ahead",
+      "summary": "Huawei's best AI chip cannot keep pace with Nvidia hardware that is already three generations old, and the gap is widening faster than most investors realize.",
+      "pub_date": "2026-09-06T14:35:11Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/china-still-chasing-nvidia-3-143511624.html"
+    },
     {
       "title": "Intel (INTC) Enters Trusted AI Standards as Enterprise Infrastructure Role Grows",
       "summary": "Intel (NasdaqGS: INTC) was featured at ASUS AI Tech 2026, where ASUS expanded its AI infrastructure ecosystem using Intel technologies for cloud and industrial edge solutions. The Linux Foundation adopted the TRACE open specification for trusted AI execution, with Intel as a key contributor to the framework for secure and verifiable AI workloads. These developments highlight Intel\u2019s role in enterprise AI adoption across data center and edge infrastructure, as well as in setting governance...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T18:08:47Z",
       "source": "Bisnow",
       "url": "https://finance.yahoo.com/real-estate/articles/lone-star-jv-acquires-2m-180847305.html"
-    },
-    {
-      "title": "Here\u2019s the Real Reason Nvidia Is Buying Hugging Face",
-      "summary": "Nvidia stock rose after it announced a $12.9 billion deal for Hugging Face. This is what's behind the move.",
-      "pub_date": "2026-09-04T17:55:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/nvidia-stock-hugging-face-ai-b814c729?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
