@@ -1,7 +1,14 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-09-06T17:56:48.145755+00:00",
+  "generated_at": "2026-09-06T21:54:00.312878+00:00",
   "items": [
+    {
+      "title": "Salesforce (CRM)\u2019s AI Numbers Just Gave Benioff His Swagger Back",
+      "summary": "CNBC reported that Salesforce, Inc. (NYSE:CRM) reported fiscal second-quarter revenue of $11.35 billion, up 11% year over year and above the $11.32 billion analysts expected. Net income rose to $3.53 billion from $1.89 billion a year earlier, boosted by a $2.6 billion gain on its Anthropic investment. Shares surged more than 12% on the results [\u2026]",
+      "pub_date": "2026-09-06T20:56:54Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-ai-numbers-just-205654689.html"
+    },
     {
       "title": "Salesforce (CRM) Expands Agentic AI Footprint Across Enterprise Customer Deployments",
       "summary": "Salesforce (NYSE:CRM) is seeing a wave of agentic AI integrations as partners including S-Docs, Smarsh, Genesys, and F5/MuleSoft expand deployments on Agentforce and Agent Fabric. S-Docs is rolling out governed document automation on Salesforce for regulated customers using Agentforce in live production environments. Smarsh, Genesys, and F5/MuleSoft are using Salesforce agentic AI to support compliance heavy customer service, cross platform AI orchestration, and security guardrails in real...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T16:32:07Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-grew-agentforce-data-163207657.html"
-    },
-    {
-      "title": "Adobe Names New CEO As Earnings Approach And AI Fears Persist; Navan, SailPoint Also Due",
-      "summary": "Adobe stock has been a laggard in the software in the sector, but new CEO Anil Chakravarthy hopes to turn things around.",
-      "pub_date": "2026-09-04T16:24:30Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/research/earnings-preview/adobe-stock-earnings-ai-fears-sailpoint-earnings/?src=A00220&yptr=yahoo"
     }
   ]
 }
