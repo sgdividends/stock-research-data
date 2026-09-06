@@ -1,6 +1,6 @@
 {
   "ticker": "DELL",
-  "generated_at": "2026-09-06T02:25:22.637692+00:00",
+  "generated_at": "2026-09-06T08:17:17.196454+00:00",
   "items": [
     {
       "title": "Dell Technologies (DELL) Stock Fair Value Rises After Guidance And AI Server Focus",
@@ -15,6 +15,13 @@
       "pub_date": "2026-09-05T14:00:02Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dell-monster-quarter-just-confirmed-140002996.html"
+    },
+    {
+      "title": "Blowout jobs report and Dell earnings dominate Wall Street's week",
+      "summary": "The Bureau of Labor Statistics reported nonfarm payrolls rose 162,000 in August, nearly three times the 55,000 consensus.",
+      "pub_date": "2026-09-05T11:03:08Z",
+      "source": "Detroit Free Press",
+      "url": "https://finance.yahoo.com/economy/policy/articles/blowout-jobs-report-dell-earnings-110308871.html"
     },
     {
       "title": "SanDisk (SNDK) Soars on S&P 100 Inclusion; Hedge Fund Ownership More-Than-Doubles",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T22:31:18Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-shares-cautious-oracle-223118242.html"
-    },
-    {
-      "title": "How Much Track Is Left For ANET Stock?",
-      "summary": "This AI networking star has a powerful business engine and a stock chart to match, but a recent pullback raises the question of whether the price of admission is simply too high.",
-      "pub_date": "2026-09-04T21:14:47Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/much-track-left-anet-stock-211447991.html"
     }
   ]
 }
