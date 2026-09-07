@@ -1,7 +1,14 @@
 {
   "ticker": "FFIV",
-  "generated_at": "2026-09-07T08:50:09.044370+00:00",
+  "generated_at": "2026-09-07T17:03:09.951701+00:00",
   "items": [
+    {
+      "title": "BILL vs. FFIV: Which Stock Is the Better Value Option?",
+      "summary": "BILL vs. FFIV: Which Stock Is the Better Value Option?",
+      "pub_date": "2026-09-07T15:40:04Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-vs-ffiv-stock-better-154004741.html"
+    },
     {
       "title": "Unpacking Q2 Earnings: F5 (NASDAQ:FFIV) In The Context Of Other Content Delivery Stocks",
       "summary": "As the Q2 earnings season comes to a close, it\u2019s time to take stock of this quarter\u2019s best and worst performers in the content delivery industry, including F5 (NASDAQ:FFIV) and its peers.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-27T12:49:07Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/2-software-stocks-target-week-124907083.html"
-    },
-    {
-      "title": "Enhanced AI Gateway Launch Could Be A Game Changer For F5\u2019s AI Strategy (FFIV)",
-      "summary": "Earlier this month, F5 expanded its AI Security Platform by rolling out enhanced F5 AI Gateway capabilities that centralize model access, agent governance, and AI guardrails across SaaS, hybrid, and multicloud environments. The upgrade gives enterprises a single control plane to enforce AI usage policies and track token-level costs, directly targeting governance, security, and spend optimization for production AI workloads. We\u2019ll now examine how F5\u2019s enhanced AI Gateway, with its centralized...",
-      "pub_date": "2026-08-27T00:21:54Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/enhanced-ai-gateway-launch-could-002154163.html"
     }
   ]
 }

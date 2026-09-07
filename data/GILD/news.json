@@ -1,7 +1,14 @@
 {
   "ticker": "GILD",
-  "generated_at": "2026-09-07T08:50:11.980505+00:00",
+  "generated_at": "2026-09-07T17:03:12.451293+00:00",
   "items": [
+    {
+      "title": "IBB Just Beat the S&P 500 by 22 Points in Three Months. Are You Late to the Party?",
+      "summary": "Biotech just staged one of its sharpest reversals in years, and whether you caught it or completely missed it, the same uncomfortable question now sits in front of every portfolio: does the trade still have teeth, or did the easy money already leave?",
+      "pub_date": "2026-09-07T16:22:05Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ibb-just-beat-p-500-162205004.html"
+    },
     {
       "title": "Gilead Sciences Just Won Its Third FDA Approval in Less Than 4 Months. Is the Stock Still Underrating This Turnaround Play?",
       "summary": "Gilead Sciences is branching out beyond its HIV franchise into oncology and immunology therapies.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-03T09:56:24Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/gilead-sciences-stock-outperforming-p-095624149.html"
-    },
-    {
-      "title": "Can Bixlenvo Unlock New Growth for Gilead's HIV Business?",
-      "summary": "GILD's FDA approval of Bixlenvo expands its HIV portfolio with a first-of-its-kind single-tablet option for underserved patients.",
-      "pub_date": "2026-09-01T18:32:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/healthcare/articles/bixlenvo-unlock-growth-gileads-hiv-183200573.html"
     }
   ]
 }
