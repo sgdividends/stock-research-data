@@ -1,7 +1,14 @@
 {
   "ticker": "HOOD",
-  "generated_at": "2026-09-07T17:03:15.757825+00:00",
+  "generated_at": "2026-09-07T22:27:34.330767+00:00",
   "items": [
+    {
+      "title": "Robinhood Wins a New Role in the Oura IPO: Underwriter",
+      "summary": "Playing an official part in the IPO process could give Robinhood more influence over the number of shares allocated to its customers.",
+      "pub_date": "2026-09-07T20:08:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/robinhood-wins-a-new-role-in-the-oura-ipo-underwriter-9a76c632?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Robinhood Markets, Inc. (HOOD) Is Up 17.12% in One Week: What You Should Know",
       "summary": "Does Robinhood Markets, Inc. (HOOD) have what it takes to be a top stock pick for momentum investors? Let's find out.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-06T00:00:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/tech/ai/the-ai-shift-turning-everyday-investors-into-mini-quant-funds-ebe4d45f?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Man turns Robinhood-AMC feud into $2 million gain in 12 hours",
-      "summary": "A smart trader takes advantage of the Robinhood-AMC feud.",
-      "pub_date": "2026-09-05T22:38:25Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/man-turns-robinhood-amc-feud-223825523.html"
     }
   ]
 }

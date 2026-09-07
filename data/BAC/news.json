@@ -1,7 +1,14 @@
 {
   "ticker": "BAC",
-  "generated_at": "2026-09-07T17:02:50.765379+00:00",
+  "generated_at": "2026-09-07T22:27:07.719127+00:00",
   "items": [
+    {
+      "title": "DBS, Citi Complete First Weekend Cross-Border Payment",
+      "summary": "DBS (SGX: D05) and Citi (NYSE: $C) have completed a cross-border US dollar payment between Singapore and the United...",
+      "pub_date": "2026-09-07T20:56:00Z",
+      "source": "CryptoProwl",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/dbs-citi-complete-first-weekend-205600114.html"
+    },
     {
       "title": "BofA stays bullish on a cloud titan that is down 25%",
       "summary": "A $240 price target implies nearly 65% upside, but debt rating agencies warn a $42 billion cash drain looms ahead.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T20:50:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/lower-income-households-outpaced-higher-205000716.html"
-    },
-    {
-      "title": "Bank of America Falls as 21 Firms Challenge Tether",
-      "summary": "Institutional distribution solves stablecoin access, but it cannot guarantee that customers will abandon the incumbent.",
-      "pub_date": "2026-09-04T19:29:39Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bank-america-falls-21-firms-192939889.html"
     }
   ]
 }

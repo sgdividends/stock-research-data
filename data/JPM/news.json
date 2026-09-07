@@ -1,7 +1,21 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-09-07T17:03:20.143884+00:00",
+  "generated_at": "2026-09-07T22:27:39.269310+00:00",
   "items": [
+    {
+      "title": "DBS, Citi Complete First Weekend Cross-Border Payment",
+      "summary": "DBS (SGX: D05) and Citi (NYSE: $C) have completed a cross-border US dollar payment between Singapore and the United...",
+      "pub_date": "2026-09-07T20:56:00Z",
+      "source": "CryptoProwl",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/dbs-citi-complete-first-weekend-205600114.html"
+    },
+    {
+      "title": "Robinhood Wins a New Role in the Oura IPO: Underwriter",
+      "summary": "Playing an official part in the IPO process could give Robinhood more influence over the number of shares allocated to its customers.",
+      "pub_date": "2026-09-07T20:08:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/robinhood-wins-a-new-role-in-the-oura-ipo-underwriter-9a76c632?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "C Nears China Brokerage License: Can Onshore Expansion Boost Growth?",
       "summary": "Citigroup is nearing a China brokerage license that could deepen client ties and help raise investment-banking wallet share above 6%. Can it boost growth?",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-06T14:45:00Z",
       "source": "Moneywise",
       "url": "https://finance.yahoo.com/markets/articles/heres-stark-reality-1-5-144500049.html"
-    },
-    {
-      "title": "JPMorgan's Market Value Is Flirting With $1 Trillion Under Jamie Dimon, a Premium Some Call the 'Jamie Premium.' Does That Valuation Price in Too Much Confidence in His Succession Plan?",
-      "summary": "Highly public CEOs can be good or bad for a business, but sometimes, even when things are good, they can be bad.",
-      "pub_date": "2026-09-06T02:35:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgans-market-value-flirting-1-023500751.html"
-    },
-    {
-      "title": "What new data reveals about Americans and AI financial decisions",
-      "summary": "Banks are racing to automate financial decisions, and new data shows most Americans are fine with that, until there is no one left to call.",
-      "pub_date": "2026-09-06T02:03:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/ai/articles/data-reveals-americans-ai-financial-020300982.html"
     }
   ]
 }

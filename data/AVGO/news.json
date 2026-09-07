@@ -1,17 +1,45 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-09-07T17:02:49.592880+00:00",
+  "generated_at": "2026-09-07T22:27:06.827708+00:00",
   "items": [
     {
+      "title": "How a 64-Year-Old\u2019s $1.2 Million in VOO Turned Into a $456,000 Bet on a Single Sector",
+      "summary": "A $1.2 million position in Vanguard's most popular S&P 500 fund looks like broad diversification until you open the shareholder report and see where most of that money actually sits. For a 64-year-old counting on this portfolio for the next 30 years, the sector breakdown changes the risk calculation entirely.",
+      "pub_date": "2026-09-07T21:25:21Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/64-old-1-2-million-212521924.html"
+    },
+    {
+      "title": "Broadcom\u2019s AI Forecast Suggests Hyperscalers Want More Than Just Nvidia GPUs",
+      "summary": "Big Tech\u2019s appetite for AI infrastructure isn\u2019t being sated anytime soon, and Broadcom Inc. (NASDAQ:AVGO) is proof of that. On Wednesday, the custom AI chipmaker said it now expects AI chip revenue of about $115 billion in the fiscal year ending October 2027, up from a prior forecast of over $100 billion. Broadcom also expects [\u2026]",
+      "pub_date": "2026-09-07T21:11:02Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-ai-forecast-suggests-hyperscalers-211102090.html"
+    },
+    {
+      "title": "Broadcom Inc. (AVGO)\u2019s AI Opportunity Expands Across AI Infrastructure",
+      "summary": "The AI infrastructure market is in a powerful expansion phase, with hyperscalers making significant investments in custom AI accelerators, high-speed networking, as well as complex data-center architectures. Even though Nvidia is the dominant GPU supplier, Broadcom Inc. (NASDAQ:AVGO) happens to be a key beneficiary of the transition towards customized AI infrastructure. In its latest results, [\u2026]",
+      "pub_date": "2026-09-07T18:18:17Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-inc-avgo-ai-opportunity-181909723.html"
+    },
+    {
+      "title": "Should You Buy Marvell Technology Stock Before Oct. 6?",
+      "summary": "The company's Investor Day event is coming up next month, which may feature some big announcements.",
+      "pub_date": "2026-09-07T18:14:21Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-marvell-technology-stock-oct-181421448.html"
+    },
+    {
       "title": "AI Is Moving Into Everyday Business \u2014 These 5 Stocks Sit Squarely in the Path of the Surge",
-      "summary": "AI is embedding itself in ordinary business operations, and the compute footprint required to sustain that shift is expanding faster than the industry can build. Goldman Sachs Global Investment Research finds that 22.4% of firms are already using AI in their regular business functions, while another 25.9% expect to begin using it within the next [\u2026]",
+      "summary": "Goldman Sachs data suggests nearly half of all businesses could be running AI in daily operations within months, and the physical infrastructure scrambling to keep up has created a very specific set of winners. Five companies sit at the exact bottlenecks where that buildout cannot proceed without them.",
       "pub_date": "2026-09-07T16:52:50Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ai-moving-everyday-business-5-165250986.html"
     },
     {
       "title": "Nvidia Is No Longer Just a Chip Company. It\u2019s the Infrastructure Platform for All of AI",
-      "summary": "Every AI story eventually collapses back to one question: who makes the silicon? This is the layer that sits at the physical floor of the AI stack, and it is where supply sets the pace. On its August earnings call, NVIDIA told investors that fiscal 2028 revenue should grow approximately 70% and explicitly described that [\u2026]",
+      "summary": "Jensen Huang calls it a full-stack AI factory platform, not a chip company, and that distinction is reshaping where billions in hyperscaler spending actually land across five companies fighting over the same supply-constrained foundation.",
       "pub_date": "2026-09-07T16:50:14Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-no-longer-just-chip-165014878.html"
@@ -29,34 +57,6 @@
       "pub_date": "2026-09-07T13:38:52Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-vs-marvell-one-ai-133852173.html"
-    },
-    {
-      "title": "Broadcom Inc. (AVGO) Is a Trending Stock: Facts to Know Before Betting on It",
-      "summary": "Recently, Zacks.com users have been paying close attention to Broadcom Inc. (AVGO). This makes it worthwhile to examine what the stock has in store.",
-      "pub_date": "2026-09-07T13:00:04Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-trending-stock-130004580.html"
-    },
-    {
-      "title": "Lam Research Nearly Triples in a Year: Is the Stock Still Worth Buying?",
-      "summary": "LRCX nearly triples in a year, yet AI chip demand, record revenues, margin gains and strong earnings forecasts point to further upside potential.",
-      "pub_date": "2026-09-07T12:58:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lam-research-nearly-triples-stock-125800548.html"
-    },
-    {
-      "title": "AMD\u2019s Whole AI Story Has One Threat It Cannot Ignore: Broadcom",
-      "summary": "AMD is posting explosive AI growth, but one rival is quietly locking in the same hyperscaler customers through a strategy that could shrink AMD's market before anyone notices the ceiling.",
-      "pub_date": "2026-09-07T12:47:28Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amd-whole-ai-story-one-124728876.html"
-    },
-    {
-      "title": "Nvidia Is Near Its High While Its Biggest Chip Peers Sit 18% to 32% Below Theirs. These Are the Chip Stocks to Buy.",
-      "summary": "One wave of AI spending pays all five of these companies. Why do their discounts run from 2.6% to 32%?",
-      "pub_date": "2026-09-06T17:34:01Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-near-high-while-biggest-173401947.html"
     }
   ]
 }
