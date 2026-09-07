@@ -1,7 +1,14 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-09-07T02:22:18.122869+00:00",
+  "generated_at": "2026-09-07T08:49:57.393976+00:00",
   "items": [
+    {
+      "title": "Docusign Is Opening Its AI Tools to Every Agent. What It Means for Salesforce",
+      "summary": "Docusign said on September 4 that its Model Context Protocol server will become generally available worldwide on September 30. The system lets agents in ChatGPT, Claude, Gemini, Copilot, Slack, and other compatible clients call agreement intelligence and governed actions. That turns Docusign, Inc. (NASDAQ:DOCU) into a potential agreement layer inside other vendors\u2019 agents, including products [\u2026]",
+      "pub_date": "2026-09-07T03:37:27Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/docusign-opening-ai-tools-every-033727068.html"
+    },
     {
       "title": "Salesforce (CRM)\u2019s AI Numbers Just Gave Benioff His Swagger Back",
       "summary": "CNBC reported that Salesforce, Inc. (NYSE:CRM) reported fiscal second-quarter revenue of $11.35 billion, up 11% year over year and above the $11.32 billion analysts expected. Net income rose to $3.53 billion from $1.89 billion a year earlier, boosted by a $2.6 billion gain on its Anthropic investment. Shares surged more than 12% on the results [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T17:24:15Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/pays-adobe-stock-owners-while-172415240.html"
-    },
-    {
-      "title": "Salesforce (CRM) Grew Agentforce and Data 360 ARR More Than 200%. Is AI Finally Becoming Material to Growth?",
-      "summary": "Salesforce, Inc. (NYSE:CRM) reported fiscal 2027 second-quarter revenue of $11.345 billion, up 11% year over year. Agentforce and Data 360 annual recurring revenue, or ARR, reached nearly $3.9 billion, an increase of more than 210%, while Agentforce ARR exceeded $1.5 billion and grew more than 240%. Salesforce, Inc. (NYSE:CRM) defines Agentforce and Data 360 ARR [\u2026]",
-      "pub_date": "2026-09-04T16:32:07Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-crm-grew-agentforce-data-163207657.html"
     }
   ]
 }

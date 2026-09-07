@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-09-07T02:22:54.582967+00:00",
+  "generated_at": "2026-09-07T08:50:34.369548+00:00",
   "items": [
     {
       "title": "Inflation data, Oracle earnings, and an energy supply crunch: What to watch this week",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-06T12:04:29Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/economy/article/inflation-data-oracle-earnings-and-an-energy-supply-crunch-what-to-watch-this-week-120429533.html"
+    },
+    {
+      "title": "Oracle Is Putting HPE Juniper Gear Into Its AI Data Centers. Is HPE Finally Getting Paid for the GPU Networking Bottleneck?",
+      "summary": "Hewlett Packard Enterprise said on September 2 that Oracle may deploy its Juniper networking equipment across Oracle Cloud Infrastructure data centers under a multi-year collaboration. The potential footprint includes PTX and MX routing plus QFX and EX switching, along with support and financing. Hewlett Packard Enterprise Company (NYSE:HPE) also issued warrants to Oracle Corporation (NYSE:ORCL), [\u2026]",
+      "pub_date": "2026-09-07T08:33:09Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-putting-hpe-juniper-gear-083309249.html"
     },
     {
       "title": "Inflation, Apple, Adobe, Oracle, Macy\u2019s, and More to Watch This Week",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-06T10:12:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/own-both-oracle-nuscale-different-101200827.html"
-    },
-    {
-      "title": "What Could IonQ (IONQ) Gain From Adding Two Veteran Board Members?",
-      "summary": "IonQ (NYSE: IONQ) appointed Dr. Eric Ball and Timothy Baxter to its board of directors, adding technology and finance leadership experience. Ball previously served as Chairman of SkyWater Technology, which IonQ recently acquired. Baxter spent many years in senior roles at Oracle and brings large scale enterprise and operational expertise. The appointments expand IonQ's board experience in M&A, financing, and corporate governance. For a wider view on how quantum computing and AI...",
-      "pub_date": "2026-09-05T00:17:27Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/could-ionq-ionq-gain-adding-001727292.html"
     }
   ]
 }
