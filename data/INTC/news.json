@@ -1,7 +1,21 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-09-08T02:35:13.257019+00:00",
+  "generated_at": "2026-09-08T08:30:29.861234+00:00",
   "items": [
+    {
+      "title": "ASML Wins Over TSMC, Samsung for New EUV Machines as AI Demand Surges",
+      "summary": "ASML Holding NV has won commitments from top chipmakers to use its latest semiconductor production gear, while embarking on a broader agreement to meet surging demand for more powerful artificial intelligence technology.",
+      "pub_date": "2026-09-08T06:05:00Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/technology/ai/articles/asml-wins-over-tsmc-samsung-060500993.html"
+    },
+    {
+      "title": "INTC Jumps Overnight: Trump Touts Intel Stock In AI-Generated Trading Image, Claims He Made \u2018Billions\u2019 For US",
+      "summary": "President Donald Trump\u2019s latest stock-market post adds fresh momentum to Intel\u2019s already explosive 160% year-to-date rally.",
+      "pub_date": "2026-09-08T06:01:35Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intc-jumps-overnight-trump-touts-060135305.html"
+    },
     {
       "title": "Dow, S&P 500 Futures Decline Amid Rising Oil Prices As Iran War Escalates: MU, ORCL, INTC, BE Stocks In Focus",
       "summary": "The U.S. struck three Iranian oil tankers on Saturday, while Iran\u2019s Islamic Revolutionary Guard Corps (IRGC) responded by striking three tankers and three U.S.-linked vessels in other areas.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-07T14:07:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/nvidia-investment-portfolio-intel-spacex-fa97899f?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "NVIDIA's Hugging Face Buyout: Can It Further Strengthen AI Dominance?",
-      "summary": "NVDA's $12.93B Hugging Face deal is likely to deepen its AI moat by combining chip leadership with a vast open-model platform and developer ecosystem.",
-      "pub_date": "2026-09-07T13:02:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-hugging-face-buyout-further-130200882.html"
-    },
-    {
-      "title": "Nvidia just sent a strong signal to AMD and Intel investors",
-      "summary": "Nvidia\u2019s earnings report had a number buried inside that AMD and Intel investors needed to see.",
-      "pub_date": "2026-09-07T11:03:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-sent-strong-signal-110300677.html"
     }
   ]
 }
