@@ -1,7 +1,28 @@
 {
   "ticker": "ACN",
-  "generated_at": "2026-09-08T08:29:59.108526+00:00",
+  "generated_at": "2026-09-08T15:49:39.903141+00:00",
   "items": [
+    {
+      "title": "Accenture and Google Cloud Launch Gemini Enterprise Business Group to Scale AI Adoption",
+      "summary": "Accenture (NYSE:ACN) and Google Cloud (NASDAQ:GOOG) have launched the Accenture Gemini Enterprise Business Group, a new joint initiative designed to help organisations adopt and scale Google\u2019s Gemini Enterprise artificial intelligence platform. The initiative will draw on Accenture\u2019s existing workforce of nearly 50,000 Google Cloud-skilled professionals while establishing a dedicated team of 1,000 forward deployed engineers.",
+      "pub_date": "2026-09-08T13:48:31Z",
+      "source": "InvestorsHub",
+      "url": "https://finance.yahoo.com/technology/ai/articles/accenture-google-cloud-launch-gemini-134831688.html"
+    },
+    {
+      "title": "AI Infrastructure Will Cost Trillions More",
+      "summary": "Global spending on AI infrastructure is expected to reach a whopping $31.6 trillion through 2050, according to projections from PricewaterhouseCoopers.  Right now, annual data center capital expenditure lands roughly at $800 billion, but that\u2019s expected to increase to $1.8 trillion in 2050.  For one, unlike traditional infrastructure booms\u2014which taper off after the initial build-out\u2014AI infrastructure investment is expected to accelerate, according to PwC\u2019 s Global Data Centre Outlook.",
+      "pub_date": "2026-09-08T13:11:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/cio-journal/ai-infrastructure-will-cost-trillions-more-f16af49a?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Google Cloud, Accenture Launch Unit to Put AI Engineers On-Site With Customers",
+      "summary": "Google Cloud and  Accenture  are the latest companies to bet that forward-deployed engineers are key to unlocking business value from generative AI.  The two companies have formed Accenture Gemini Enterprise Business Group, a new unit at the professional-services firm aimed at helping customers deploy Google Cloud\u2019s agentic AI platform.  As part of the arrangement, Google Cloud will help train up to 1,000 Accenture forward deployed engineers, or FDEs, who will work with clients on-site to plan and build AI applications on the Gemini Enterprise platform.",
+      "pub_date": "2026-09-08T12:00:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/cio-journal/google-cloud-accenture-launch-unit-to-put-ai-engineers-on-site-with-customers-698a8628?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Burry\u2019s Palantir Warning Is Back. Accenture Shows What Investors Should Check",
       "summary": "Michael Burry\u2019s accounting critique of Palantir Technologies Inc. (NASDAQ:PLTR) resurfaced in September 5 coverage, reviving the question of whether its economics resemble a software company or a consultant. His original post dates to February 19. Accenture plc (NYSE:ACN) offers a useful comparison because it earns money helping companies deploy technology, including Palantir\u2019s. A billing balance [\u2026]",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-03T22:16:52Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/business-accenture-now-mentions-passing-221652453.html"
-    },
-    {
-      "title": "Accenture (ACN) Rises Higher Than Market: Key Facts",
-      "summary": "Accenture (ACN) closed the most recent trading day at $193.12, moving +2.9% from the previous trading session.",
-      "pub_date": "2026-09-03T21:50:01Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/accenture-acn-rises-higher-market-215001547.html"
-    },
-    {
-      "title": "Zscaler (ZS) Q4 Earnings and Revenues Top Estimates",
-      "summary": "Zscaler (ZS) delivered earnings and revenue surprises of +9.17% and +2.40%, respectively, for the quarter ended July 2026. Do the numbers hold clues to what lies ahead for the stock?",
-      "pub_date": "2026-09-03T21:20:03Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zscaler-zs-q4-earnings-revenues-212003547.html"
-    },
-    {
-      "title": "Michael Burry Just Put a $100 Billion Warning on Palantir",
-      "summary": "This article first appeared on GuruFocus.  Data analytics and artificial intelligence startup Palantir Technologies Inc. (PLTR, Financials) is back on Michael Burry (Trades, Portfolio)'s radar.  The Big Short investor said Palantir's market valuation, which is around $432 billion, may eventually sink below $100 billion, saying investors are pricing the company more like a high-margin software platform than the business its financial profile suggests.",
-      "pub_date": "2026-09-03T15:41:10Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-just-put-100-154110908.html"
     }
   ]
 }

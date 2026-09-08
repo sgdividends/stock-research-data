@@ -1,7 +1,14 @@
 {
   "ticker": "VRT",
-  "generated_at": "2026-09-08T08:30:57.051783+00:00",
+  "generated_at": "2026-09-08T15:50:58.333844+00:00",
   "items": [
+    {
+      "title": "Flex's $4.4B EPC Power Buyout: A Bigger Bet on AI Data Center Growth?",
+      "summary": "FLEX's $4.4 billion EPC Power deal strengthens its AI infrastructure portfolio, targeting 800V power architectures and potential growth in revenue and margins.",
+      "pub_date": "2026-09-08T15:06:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/flexs-4-4b-epc-power-150600259.html"
+    },
     {
       "title": "Top M&A Deals In September: Nvidia, Dominion Energy, Nextera Energy, Vertiv In Focus",
       "summary": "Nvidia\u2019s acquisition of Hugging Face, shareholder approval of the merger of NextEra Energy and Dominion Energy, and Vertiv Holdings\u2019 acquisition of UtilityInnovation Group are in focus this week.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T18:05:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/articles/eaton-boost-u-power-capacity-180500406.html"
-    },
-    {
-      "title": "Vertiv\u2019s UIG Deal Targets the Next Big Constraint in AI Data Centers",
-      "summary": "Vertiv Holdings will acquire microgrid specialist UtilityInnovation Group, betting that solving data center power bottlenecks is key to AI infrastructure growth.",
-      "pub_date": "2026-09-04T14:20:00Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/technology/ai/articles/vertiv-uig-deal-targets-next-142000177.html"
     }
   ]
 }

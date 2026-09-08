@@ -1,7 +1,14 @@
 {
   "ticker": "DGX",
-  "generated_at": "2026-09-08T08:30:15.453840+00:00",
+  "generated_at": "2026-09-08T15:50:01.993634+00:00",
   "items": [
+    {
+      "title": "Quest Diagnostics CEO Sells 10,000 Shares for $2.4 Million",
+      "summary": "J. E. Davis disposed of 8% of his direct equity stake under a pre-planned Rule 10b5-1 trading arrangement, retaining $28.9 million in company stock.",
+      "pub_date": "2026-09-08T13:21:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/quest-diagnostics-ceo-sells-10-132101055.html"
+    },
     {
       "title": "Could Roche and Lilly\u2019s Blood Test Make Alzheimer\u2019s Assessment More Accessible?",
       "summary": "Testing for Alzheimer\u2019s-related brain changes has traditionally depended on procedures that can be expensive, invasive, or difficult to access. Roche Holding AG and Eli Lilly and Company (NYSE:LLY) may now have a simpler way to help physicians evaluate certain patients. The FDA has cleared Elecsys pTau217, which is a blood test that helps identify whether [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-24T13:00:20Z",
       "source": "InvestorsHub",
       "url": "https://finance.yahoo.com/healthcare/articles/roche-eli-lilly-win-fda-130020174.html"
-    },
-    {
-      "title": "Beat the Market Like Zacks: Amgen, FirstCash, Delek in Focus",
-      "summary": "AMGN, FCFS and DK delivered strong gains, highlighting Zacks research successes across several model portfolios.",
-      "pub_date": "2026-08-24T12:21:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/beat-market-zacks-amgen-firstcash-122100090.html"
     }
   ]
 }

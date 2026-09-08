@@ -1,7 +1,21 @@
 {
   "ticker": "NDAQ",
-  "generated_at": "2026-09-08T08:30:38.942300+00:00",
+  "generated_at": "2026-09-08T15:50:34.035935+00:00",
   "items": [
+    {
+      "title": "Bill Ackman Sees an AI Bargain in the Company That Owns the New York Stock Exchange",
+      "summary": "Bill Ackman just placed a major bet on the owner of the New York Stock Exchange, arguing that investors have the AI threat to this business exactly backwards.",
+      "pub_date": "2026-09-08T14:41:57Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-sees-ai-bargain-144157388.html"
+    },
+    {
+      "title": "SpaceX Set for Boost From Potential Jump in Nasdaq 100 Weighting",
+      "summary": "SpaceX\u2019s stock has been stuck in a tight trading range recently, but a wave of new buying may soon arrive when the Nasdaq 100 Index goes through its quarterly rebalancing later this month.",
+      "pub_date": "2026-09-08T11:00:02Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-set-boost-potential-jump-110002191.html"
+    },
     {
       "title": "NDAQ Boosts AI and Data-Driven Investment Technology With Dasseti",
       "summary": "Nasdaq's Dasseti acquisition expands eVestment with AI-powered due diligence and monitoring, deepening institutional investment technology capabilities.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-02T19:24:23Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-surging-stocks-worth-investigating-192423748.html"
-    },
-    {
-      "title": "George Santos Gets Kalshi's First-Ever Lifetime Ban",
-      "summary": "Former Rep. George Santos has become the first person ever permanently banned from Kalshi, with the prediction market exchange also imposing a $71,356 penalty over his trading in a market asking whether he would attend President Trump\u2019s State of the...",
-      "pub_date": "2026-08-31T18:02:23Z",
-      "source": "Benzinga Prediction Markets",
-      "url": "https://finance.yahoo.com/markets/options/articles/george-santos-gets-kalshis-first-180223829.html"
-    },
-    {
-      "title": "ICE Stock Trades at 8.3% Discount to 52-Week High: More Upside Left?",
-      "summary": "Intercontinental Exchange trades 8.3% below its 52-week high. Its growth is supported by data, mortgage workflows and strategic investments.",
-      "pub_date": "2026-08-31T17:57:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ice-stock-trades-8-3-175700797.html"
     }
   ]
 }

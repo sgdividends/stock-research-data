@@ -1,7 +1,14 @@
 {
   "ticker": "ICE",
-  "generated_at": "2026-09-08T08:30:29.342588+00:00",
+  "generated_at": "2026-09-08T15:50:20.221801+00:00",
   "items": [
+    {
+      "title": "Bill Ackman Sees an AI Bargain in the Company That Owns the New York Stock Exchange",
+      "summary": "Bill Ackman just placed a major bet on the owner of the New York Stock Exchange, arguing that investors have the AI threat to this business exactly backwards.",
+      "pub_date": "2026-09-08T14:41:57Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-sees-ai-bargain-144157388.html"
+    },
     {
       "title": "NDAQ Boosts AI and Data-Driven Investment Technology With Dasseti",
       "summary": "Nasdaq's Dasseti acquisition expands eVestment with AI-powered due diligence and monitoring, deepening institutional investment technology capabilities.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-03T10:44:32Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/intercontinental-exchange-stock-underperforming-dow-104432613.html"
-    },
-    {
-      "title": "NYSE uses Anthropic\u2019s Mythos to find cyber security flaws",
-      "summary": "Investing.com -- The New York Stock Exchange has used Anthropic PBC's Project Glasswing to identify and address vulnerabilities in its cyber security systems, according to exchange President Lynn Martin.",
-      "pub_date": "2026-09-02T17:32:19Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nyse-uses-anthropic-mythos-cyber-173219625.html"
     }
   ]
 }

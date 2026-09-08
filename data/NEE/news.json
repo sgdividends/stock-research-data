@@ -1,7 +1,42 @@
 {
   "ticker": "NEE",
-  "generated_at": "2026-09-08T08:30:39.193991+00:00",
+  "generated_at": "2026-09-08T15:50:34.315337+00:00",
   "items": [
+    {
+      "title": "Google\u2019s revived nuclear power plant gets $1.9B loan from US government",
+      "summary": "Google said it would bring an Iowa nuclear power plant back from the dead. Now, the plant's owner is getting a $1.9B loan from the U.S. Energy Department.",
+      "pub_date": "2026-09-08T15:25:35Z",
+      "source": "TechCrunch",
+      "url": "https://finance.yahoo.com/energy/articles/google-revived-nuclear-power-plant-152535672.html"
+    },
+    {
+      "title": "DOE Closes $1.9-Billion Loan to Restart Duane Arnold Nuclear Plant",
+      "summary": "The U.S. Dept. of Energy (DOE) said the agency has closed a loan of as much as $1.9 billion to NextEra Energy to support the restart of the Duane Arnold Energy Center in Iowa.",
+      "pub_date": "2026-09-08T14:50:44Z",
+      "source": "POWER Magazine",
+      "url": "https://finance.yahoo.com/energy/articles/doe-closes-1-9-billion-145044536.html"
+    },
+    {
+      "title": "NextEra Energy, DOE Close on $1.9 Billion Loan for Nuclear Power Plant in Iowa",
+      "summary": "NextEra Energy said it reached a deal with the U.S. Department of Energy, closing on a loan of up to $1.9 billion to support the restart of the company\u2019s Duane Arnold Energy Center in Iowa.",
+      "pub_date": "2026-09-08T12:50:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/energy-oil/nextera-energy-doe-close-on-1-9-billion-loan-for-nuclear-power-plant-in-iowa-381c2994?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "US Loans $1.9 Billion to Restart Shuttered NextEra Nuclear Plant",
+      "summary": "The Trump administration is loaning as much as $1.9 billion to restart a shuttered NextEra Energy Inc. nuclear power plant in Iowa, part of a broader push to revive the US nuclear industry.",
+      "pub_date": "2026-09-08T12:45:16Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/energy/articles/us-loans-1-9-billion-124516336.html"
+    },
+    {
+      "title": "NextEra secures $1.9B DOE loan for Duane Arnold nuclear restart",
+      "summary": "The U.S. Department of Energy under the Trump administration has financed three plant restarts and made other conditional commitments to bring nuclear power online.",
+      "pub_date": "2026-09-08T09:22:16Z",
+      "source": "Utility Dive",
+      "url": "https://finance.yahoo.com/energy/articles/nextera-secures-1-9b-doe-092216610.html"
+    },
     {
       "title": "Top M&A Deals In September: Nvidia, Dominion Energy, Nextera Energy, Vertiv In Focus",
       "summary": "Nvidia\u2019s acquisition of Hugging Face, shareholder approval of the merger of NextEra Energy and Dominion Energy, and Vertiv Holdings\u2019 acquisition of UtilityInnovation Group are in focus this week.",
@@ -22,41 +57,6 @@
       "pub_date": "2026-09-07T15:40:04Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/exc-vs-nee-stock-better-154004062.html"
-    },
-    {
-      "title": "XLU\u2019s AI Power Story Crumbles as Texas Freezes Data-Center Demand",
-      "summary": "Texas regulators just froze data-center hookups, and one application fee cut AEP Ohio's pipeline by more than half overnight. Whether that unravels the entire investment case for the most popular utility ETF on the market depends on a number almost no one is auditing.",
-      "pub_date": "2026-09-07T14:22:05Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/xlu-ai-power-story-crumbles-142205667.html"
-    },
-    {
-      "title": "Sector Update: Energy Stocks Softer Late Afternoon",
-      "summary": "Energy stocks declined late Friday afternoon, with the NYSE Energy Sector Index decreasing 0.7% and",
-      "pub_date": "2026-09-04T19:57:37Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-softer-afternoon-195737210.html"
-    },
-    {
-      "title": "Sector Update: Energy Stocks Lower in Afternoon Trading",
-      "summary": "Energy stocks declined Friday afternoon, with the NYSE Energy Sector Index decreasing 0.6% and the S",
-      "pub_date": "2026-09-04T17:55:10Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-lower-afternoon-175510988.html"
-    },
-    {
-      "title": "Exchange-Traded Funds Higher, Equity Futures Mixed Pre-Bell Friday After August Jobs Report Tops Estimates",
-      "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.03%, and the actively tr",
-      "pub_date": "2026-09-04T13:33:30Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-higher-equity-133330774.html"
-    },
-    {
-      "title": "Sector Update: Energy Stocks Fall Pre-Bell Friday",
-      "summary": "Energy stocks were falling pre-bell Friday, with the State Street Energy Select Sector SPDR ETF (XLE",
-      "pub_date": "2026-09-04T13:26:29Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-pre-132629779.html"
     }
   ]
 }

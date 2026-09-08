@@ -1,7 +1,14 @@
 {
   "ticker": "EBAY",
-  "generated_at": "2026-09-08T08:30:17.448165+00:00",
+  "generated_at": "2026-09-08T15:50:04.788855+00:00",
   "items": [
+    {
+      "title": "GameStop Profit Rises, Boosts Full Year Outlook",
+      "summary": "GameStop  reported higher profit in its latest quarter, boosted by an increase in collectibles sales, and raised its full-year outlook.  The videogame retailer on Tuesday posted a second-quarter profit of $298.7 million, or 51 cents a share, compared with $168.6 million, or 31 cents a share, a year earlier.  Adjusted earnings per share were 27 cents.",
+      "pub_date": "2026-09-08T14:03:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/earnings/gamestop-profit-rises-boosts-full-year-outlook-dacd2245?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "GameStop Earnings Put Its Profit Turnaround to the Test",
       "summary": "Sales are still shrinking, but GameStop expects quarterly profit to rise sharply when it reports Sept. 8.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-01T18:44:24Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dear-gamestop-stock-fans-mark-184424585.html"
-    },
-    {
-      "title": "GameStop projects revenue drops ahead of Q2",
-      "summary": "Despite the lower revenue outlook, GameStop expects operating income of $150m to $170m, up from $66.4m in Q2 2025.",
-      "pub_date": "2026-09-01T09:15:45Z",
-      "source": "Retail Insight Network",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gamestop-projects-revenue-drops-ahead-091545721.html"
     }
   ]
 }

@@ -1,62 +1,62 @@
 {
   "ticker": "PLTR",
-  "generated_at": "2026-09-08T08:30:43.873730+00:00",
+  "generated_at": "2026-09-08T15:50:41.126771+00:00",
   "items": [
+    {
+      "title": "Nebius Becomes Palantir\u2019s Secret Weapon as AI Compute Wars Heat Up",
+      "summary": "Palantir is winning the AI sovereignty race but has a glaring gap in its stack, and a little-known European cloud player just stepped in to fill it at a scale that could reshape how enterprises buy sovereign AI.",
+      "pub_date": "2026-09-08T14:38:16Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nebius-becomes-palantir-secret-weapon-143816554.html"
+    },
+    {
+      "title": "Nebius Rises 6% as Palantir Names It Preferred Sovereign AI Partner; Palantir Stock Slips",
+      "summary": "Palantir just handed Nebius a coveted sovereign AI label, but traders are punishing one side of the partnership and rewarding the other in ways that reveal exactly where the market thinks the real leverage sits.",
+      "pub_date": "2026-09-08T14:19:00Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nebius-rises-6-palantir-names-141900899.html"
+    },
+    {
+      "title": "Investors Are Buying Palantir for a Story That Is Not Quite True",
+      "summary": "Palantir's blowout growth numbers look like pure software success, but a closer look at how the company actually wins its deals reveals a business model that the current valuation may be dangerously misreading.",
+      "pub_date": "2026-09-08T13:39:31Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-buying-palantir-story-not-133931800.html"
+    },
+    {
+      "title": "Palantir and Nebius Partner on Sovereign AI Infrastructure",
+      "summary": "Palantir Technologies (NASDAQ:PLTR) and Nebius Group (NASDAQ:NBIS) have entered into a partnership that will integrate Nebius\u2019s cloud and artificial intelligence computing infrastructure with Palantir\u2019s enterprise platform for commercial customers. Under the agreement, Palantir has selected Nebius as its preferred sovereign AI infrastructure partner, with the companies aiming to give eligible customers greater control over the computing resources, data and models used to run artificial intellige",
+      "pub_date": "2026-09-08T13:03:53Z",
+      "source": "InvestorsHub",
+      "url": "https://finance.yahoo.com/technology/ai/articles/palantir-nebius-partner-sovereign-ai-130353486.html"
+    },
+    {
+      "title": "Palantir Just Gave Nebius a Major Sovereign AI Endorsemen",
+      "summary": "Palantir named Nebius its preferred sovereign AI infrastructure partner",
+      "pub_date": "2026-09-08T12:42:54Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/palantir-just-gave-nebius-major-124254012.html"
+    },
+    {
+      "title": "NBIS Stock Jumps After Palantir, Nebius Team Up to Let Companies Own Their AI Models, Not Rent Them",
+      "summary": "The deal extends Palantir CEO Alex Karp\u2019s broader push for sovereign AI and his criticism of pay-per-token pricing models used by major AI providers.",
+      "pub_date": "2026-09-08T12:32:43Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nbis-stock-jumps-palantir-nebius-123243409.html"
+    },
+    {
+      "title": "Nvidia, Palantir, and Meta Platforms Are Rattling Wall Street With This $18.6 Billion Warning",
+      "summary": "The people who know Nvidia, Palantir, and Meta best are sending all the wrong signals to investors.",
+      "pub_date": "2026-09-08T09:26:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-palantir-meta-platforms-rattling-092601179.html"
+    },
     {
       "title": "Palantir Stock Leads August Rally -- Nvidia, Salesforce and Super Micro Jump",
       "summary": "Palantir Crushes Tech Stocks in August: Salesforce Nears 40% Gain, Super Micro Jumps",
       "pub_date": "2026-09-07T21:58:55Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-leads-august-rally-215855985.html"
-    },
-    {
-      "title": "Burry\u2019s Palantir Warning Is Back. Accenture Shows What Investors Should Check",
-      "summary": "Michael Burry\u2019s accounting critique of Palantir Technologies Inc. (NASDAQ:PLTR) resurfaced in September 5 coverage, reviving the question of whether its economics resemble a software company or a consultant. His original post dates to February 19. Accenture plc (NYSE:ACN) offers a useful comparison because it earns money helping companies deploy technology, including Palantir\u2019s. A billing balance [\u2026]",
-      "pub_date": "2026-09-07T20:43:32Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/burry-palantir-warning-back-accenture-204332089.html"
-    },
-    {
-      "title": "Cathie Wood Is Moving Money From Palantir Into Rocket Lab and Fintech",
-      "summary": "ARK's latest trades show a shift toward space and financial technology while trimming several of its high-profile AI holdings.",
-      "pub_date": "2026-09-07T19:21:33Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-moving-money-palantir-192133259.html"
-    },
-    {
-      "title": "Cathie Wood Dumps $25 Million of Palantir Shares. Should PLTR Investors Worry?",
-      "summary": "Ark Invest Pulls $25 Million From Palantir Stock",
-      "pub_date": "2026-09-07T17:24:03Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-dumps-25-million-172403799.html"
-    },
-    {
-      "title": "Palantir Surged 51% in August. The Rest of Tech Wasn't Even Close",
-      "summary": "Strong earnings and a bigger full-year outlook pushed Palantir far ahead of the broader technology sector.",
-      "pub_date": "2026-09-07T17:20:23Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-surged-51-august-rest-172023418.html"
-    },
-    {
-      "title": "Palantir Stock Could Make a Dramatic Move Over the Next Year (Hint: It Implies a Big Move)",
-      "summary": "Palantir has seen a parabolic jump in its stock price following its earnings report, and it can sustain its impressive momentum in the coming year.",
-      "pub_date": "2026-09-07T13:43:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-could-dramatic-move-134300329.html"
-    },
-    {
-      "title": "Investors Pulled $700 Million From IGV Hours Before Snowflake Reignited Software",
-      "summary": "Investors yanked $700 million from the top software ETF in a single session, and within hours a major earnings report threatened to make that timing look catastrophic. Whether the selloff was a blunder or a bullet dodged depends on a deeper AI disruption debate that has kept the fund negative all year.",
-      "pub_date": "2026-09-07T13:37:45Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-pulled-700-million-igv-133745603.html"
-    },
-    {
-      "title": "Down Nearly 50% in 2026, Is BigBear.ai Stock Cheap Enough to Finally Buy?",
-      "summary": "The tech stock has fallen considerably from a high of more than $9 that it hit last year.",
-      "pub_date": "2026-09-07T12:20:01Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/down-nearly-50-2026-bigbear-122001649.html"
     }
   ]
 }
