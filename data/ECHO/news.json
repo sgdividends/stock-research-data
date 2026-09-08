@@ -1,7 +1,14 @@
 {
   "ticker": "ECHO",
-  "generated_at": "2026-09-08T19:11:56.140088+00:00",
+  "generated_at": "2026-09-08T22:17:22.143705+00:00",
   "items": [
+    {
+      "title": "Tech, Media & Telecom Roundup: Market Talk",
+      "summary": "Find insight on ASML Holdings, Adobe, EchoStar and more in the latest Market Talks covering Technology, Media and Telecom.",
+      "pub_date": "2026-09-08T21:18:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-dfa40493?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "EchoStar Shares Could Follow SpaceX's Catalyst Path, UBS Securities Says",
       "summary": "EchoStar's (ECHO) stock upside could be primarily driven by its expected 2% stake in SpaceX's (SPCX)",
@@ -17,7 +24,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/echostar-shares-rise-ubs-says-164200164.html"
     },
     {
-      "title": "Dow slides as oil nears $100, US-Canada trade tensions escalate",
+      "title": "Dow closes sharply lower as oil surge fuels inflation fears",
       "summary": "An escalating US-Canada trade dispute added to inflation concerns at the start of the holiday-shortened week",
       "pub_date": "2026-09-08T14:10:00Z",
       "source": "Proactive",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-26T14:01:06Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/echostar-spacex-payday-faces-1-140106411.html"
-    },
-    {
-      "title": "Does EchoStar (ECHO) Stock Still Look Overvalued After Chapter 11?",
-      "summary": "EchoStar stock has delivered a very large 3 year return while current valuation checks suggest the shares are trading at a premium to the intrinsic value estimate and to traditional market multiples. EchoStar has returned about 4x over the past 3 years, which puts extra focus on whether the current price already builds in optimistic expectations. The recent restructuring gains and asset monetization may support future cash generation, while the Chapter 11 process for Hughes Satellite Systems...",
-      "pub_date": "2026-08-22T11:09:19Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-echostar-echo-stock-still-110919431.html"
     }
   ]
 }

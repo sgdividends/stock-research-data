@@ -1,11 +1,18 @@
 {
   "ticker": "CAT",
-  "generated_at": "2026-09-08T19:11:45.074310+00:00",
+  "generated_at": "2026-09-08T22:17:08.335224+00:00",
   "items": [
     {
-      "title": "Stock Market Today: Dow Dives, These Stocks Lose Key Level; Aerospace Play Up After Trump Attack (Live Coverage)",
-      "summary": "The Dow Jones index falls on the stock market today as Amgen plummets. An aerospace play jumps after President Trump hit out at a rival.",
-      "pub_date": "2026-09-08T17:36:46Z",
+      "title": "Chip, Drug Makers to Drive Non-Residential Construction Rebound, UBS Says",
+      "summary": "US non-residential construction is approaching a reacceleration, driven by semiconductor and pharmac",
+      "pub_date": "2026-09-08T21:14:12Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/real-estate/articles/chip-drug-makers-drive-non-211412328.html"
+    },
+    {
+      "title": "Stock Market Today: Dow Dives, Qualcomm Clears Key Level On Amazon Deal; Fertilizer Leader Rises (Live Coverage)",
+      "summary": "The Dow Jones index falls on the stock market today as Amgen plummets. Fertilizer stocks rose amid more U.S.-Iran tensions. SK Hynix shines.",
+      "pub_date": "2026-09-08T20:51:53Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-attacks-oil-prices-jump-brent-crude/?src=A00220&yptr=yahoo"
     },
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T16:00:03Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-upgraded-strong-buy-160003617.html"
-    },
-    {
-      "title": "Caterpillar partners with FieldAI for equipment automation",
-      "summary": "The heavy equipment manufacturer will combine its construction industry expertise with the startup\u2019s tech to enable autonomous capabilities for its machines.",
-      "pub_date": "2026-09-04T12:46:15Z",
-      "source": "Construction Dive",
-      "url": "https://finance.yahoo.com/technology/ai/articles/caterpillar-partners-fieldai-equipment-automation-124615276.html"
     }
   ]
 }
