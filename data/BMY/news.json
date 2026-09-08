@@ -1,7 +1,14 @@
 {
   "ticker": "BMY",
-  "generated_at": "2026-09-08T15:49:49.468022+00:00",
+  "generated_at": "2026-09-08T19:11:43.211758+00:00",
   "items": [
+    {
+      "title": "Is AbbVie Stock Too Reliant On Skyrizi?",
+      "summary": "AbbVie (ABBV) trades at $256.46, roughly 96% of its 52-week high, after returning 24.1% over the past twelve months against 19.7% for the S&P 500. That price buys a business where about a third of guided 2026 revenue comes from one drug. The market reads that concentration as strength. It is worth reading it the other way too.",
+      "pub_date": "2026-09-08T17:08:51Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/abbvie-stock-too-reliant-skyrizi-170851105.html"
+    },
     {
       "title": "Here\u2019s How Much You Need Invested to Collect $1,000 a Month in Dividends",
       "summary": "Collecting $1,000 a month in dividends sounds simple until you realize the capital required shifts every time prices move, and choosing the wrong yield can leave you exposed to a dividend cut when you can least afford it.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T21:45:03Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-bristol-myers-squibb-bmy-214503995.html"
-    },
-    {
-      "title": "Sector Update: Healthcare Stocks Decline Late Afternoon",
-      "summary": "Healthcare stocks were lower late Friday afternoon, with the NYSE Healthcare Index falling 1.2% and",
-      "pub_date": "2026-09-04T19:48:43Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-decline-afternoon-194843740.html"
     }
   ]
 }

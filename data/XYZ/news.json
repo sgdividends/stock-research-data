@@ -1,7 +1,14 @@
 {
   "ticker": "XYZ",
-  "generated_at": "2026-09-08T15:51:02.812067+00:00",
+  "generated_at": "2026-09-08T19:12:47.337596+00:00",
   "items": [
+    {
+      "title": "Is Block Underperforming the Nasdaq?",
+      "summary": "Block has outperformed the broader market over the past year, while analysts remain cautiously optimistic about its future prospects.",
+      "pub_date": "2026-09-08T12:13:33Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/block-underperforming-nasdaq-121333253.html"
+    },
     {
       "title": "Cathie Wood Is Moving Money From Palantir Into Rocket Lab and Fintech",
       "summary": "ARK's latest trades show a shift toward space and financial technology while trimming several of its high-profile AI holdings.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T12:28:59Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-stock-jumps-fresh-takeover-122859647.html"
-    },
-    {
-      "title": "A $50 Billion Bid Just Put PayPal Back in the Takeover Spotlight",
-      "summary": "PayPal shares moved higher as takeover speculation resurfaced",
-      "pub_date": "2026-09-03T21:23:35Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/50-billion-bid-just-put-212335771.html"
     }
   ]
 }

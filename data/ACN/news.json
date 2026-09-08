@@ -1,7 +1,21 @@
 {
   "ticker": "ACN",
-  "generated_at": "2026-09-08T15:49:39.903141+00:00",
+  "generated_at": "2026-09-08T19:11:33.711561+00:00",
   "items": [
+    {
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+      "pub_date": "2026-09-08T16:20:31Z",
+      "source": "TechCrunch",
+      "url": "https://finance.yahoo.com/technology/ai/articles/google-cloud-races-catch-ai-162031041.html"
+    },
+    {
+      "title": "Google Cloud, Accenture Launch Unit to Put AI Engineers On-Site With Customers",
+      "summary": "Google Cloud and  Accenture  are the latest companies to bet that forward-deployed engineers are key to unlocking business value from generative AI.  The two companies have formed Accenture Gemini Enterprise Business Group, a new unit at the professional-services firm aimed at helping customers deploy Google Cloud\u2019s agentic AI platform.  As part of the arrangement, Google Cloud will help train up to 1,000 Accenture forward deployed engineers, or FDEs, who will work with clients on-site to plan and build AI applications on the Gemini Enterprise platform.",
+      "pub_date": "2026-09-08T15:36:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/cio-journal/google-cloud-accenture-launch-unit-to-put-ai-engineers-on-site-with-customers-698a8628?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Accenture and Google Cloud Launch Gemini Enterprise Business Group to Scale AI Adoption",
       "summary": "Accenture (NYSE:ACN) and Google Cloud (NASDAQ:GOOG) have launched the Accenture Gemini Enterprise Business Group, a new joint initiative designed to help organisations adopt and scale Google\u2019s Gemini Enterprise artificial intelligence platform. The initiative will draw on Accenture\u2019s existing workforce of nearly 50,000 Google Cloud-skilled professionals while establishing a dedicated team of 1,000 forward deployed engineers.",
@@ -15,13 +29,6 @@
       "pub_date": "2026-09-08T13:11:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/cio-journal/ai-infrastructure-will-cost-trillions-more-f16af49a?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Google Cloud, Accenture Launch Unit to Put AI Engineers On-Site With Customers",
-      "summary": "Google Cloud and  Accenture  are the latest companies to bet that forward-deployed engineers are key to unlocking business value from generative AI.  The two companies have formed Accenture Gemini Enterprise Business Group, a new unit at the professional-services firm aimed at helping customers deploy Google Cloud\u2019s agentic AI platform.  As part of the arrangement, Google Cloud will help train up to 1,000 Accenture forward deployed engineers, or FDEs, who will work with clients on-site to plan and build AI applications on the Gemini Enterprise platform.",
-      "pub_date": "2026-09-08T12:00:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/cio-journal/google-cloud-accenture-launch-unit-to-put-ai-engineers-on-site-with-customers-698a8628?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Burry\u2019s Palantir Warning Is Back. Accenture Shows What Investors Should Check",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T03:15:49Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-posts-best-day-031549736.html"
-    },
-    {
-      "title": "The Business Accenture Now Mentions In Passing",
-      "summary": "Accenture (ACN) is redirecting where its next growth comes from, and the business underneath is in decent shape. What deserves a second look is what got left behind. Two years ago management was presenting a learning arm it had built itself. On the June 2026 call it survived as one item in a list.",
-      "pub_date": "2026-09-03T22:16:52Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/business-accenture-now-mentions-passing-221652453.html"
     }
   ]
 }

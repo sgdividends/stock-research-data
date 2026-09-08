@@ -1,7 +1,14 @@
 {
   "ticker": "GM",
-  "generated_at": "2026-09-08T15:50:15.179635+00:00",
+  "generated_at": "2026-09-08T19:12:04.443222+00:00",
   "items": [
+    {
+      "title": "General Motors\u2019 Stock: Is GM Outperforming the Consumer Discretionary Sector?",
+      "summary": "General Motors\u2019 stock has outpaced the broader consumer discretionary sector over the past year, and analysts remain reasonably upbeat about its prospects.",
+      "pub_date": "2026-09-08T11:59:48Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/general-motors-stock-gm-outperforming-115948399.html"
+    },
     {
       "title": "GM, Ford Turn EV Battery Bust Into Energy Storage Bet",
       "summary": "Ford and GM are repurposing underused EV battery capacity for energy storage, seeking new revenue after taking billions of dollars in EV-related write-downs",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T11:26:31Z",
       "source": "Construction Dive",
       "url": "https://finance.yahoo.com/small-business/articles/lowe-foundation-wants-train-1-112631198.html"
-    },
-    {
-      "title": "Lowe\u2019s Foundation launches skilled trades coalition to train 1M workers by 2035",
-      "summary": "The move comes amid a significant skilled trades labor shortage in the U.S.",
-      "pub_date": "2026-09-04T11:19:00Z",
-      "source": "HR Dive",
-      "url": "https://finance.yahoo.com/small-business/articles/lowe-foundation-launches-skilled-trades-111900397.html"
     }
   ]
 }

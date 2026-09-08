@@ -1,7 +1,14 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-09-08T15:50:20.065951+00:00",
+  "generated_at": "2026-09-08T19:12:08.557578+00:00",
   "items": [
+    {
+      "title": "Betting Big on Bits: Washington\u2019s New Quantum Plays",
+      "summary": "Rigetti Computing, D-Wave Quantum, and Quantinuum are set to receive $100 million each from the U.S. Commerce Department.",
+      "pub_date": "2026-09-08T17:25:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/rigetti-stock-price-dwave-quantum-chips-act-government-stakes-705998f8?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Oracle Stock Keeps Falling While Wall Street Holds Firm\u2014Who\u2019s Right?",
       "summary": "Oracle's stock has cratered while Wall Street analysts stubbornly hold some of the most bullish price targets in the mega-cap space. With earnings dropping Thursday, something has to give.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T15:30:14Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-ionq-down-1-8-153014416.html"
-    },
-    {
-      "title": "Silicon Motion Surges 186% in Past Year: Reason to Buy the Stock?",
-      "summary": "SIMO's 186.1% surge reflects strength in NAND controllers, expanding customer ties, product innovation and growth across AI, cloud and autos.",
-      "pub_date": "2026-09-04T14:07:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/silicon-motion-surges-186-past-140700702.html"
     }
   ]
 }
