@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "generated_at": "2026-09-08T22:17:51.259496+00:00",
+  "generated_at": "2026-09-09T02:36:17.936874+00:00",
   "items": [
     {
       "title": "What investors 'really' need to see from Oracle earnings this week",
@@ -8,6 +8,20 @@
       "pub_date": "2026-09-08T15:07:10Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/investors-really-see-oracle-earnings-150710768.html"
+    },
+    {
+      "title": "Constellation Energy's Biggest AI Power Deal Doesn't Start Paying Until June 2027",
+      "summary": "Meta signed a 20-year deal built around one Illinois nuclear plant. The first contracted dollar is still nine months away.",
+      "pub_date": "2026-09-08T23:58:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/energy/articles/constellation-energys-biggest-ai-power-235801730.html"
+    },
+    {
+      "title": "Microsoft\u2019s \u2018Useful Yield\u2019 Test Raises the Stakes for NVIDIA\u2019s AI Economics",
+      "summary": "Microsoft Corporation (NASDAQ:MSFT) is asking a more demanding question about AI infrastructure: how much useful output does each dollar and watt actually produce? NVIDIA Corporation (NASDAQ:NVDA) has a substantial stake in the answer. At SEMICON Taiwan, described in a September 2 Microsoft update, Azure hardware chief Rani Borkar argued that capacity expansion must be accompanied [\u2026]",
+      "pub_date": "2026-09-08T22:58:32Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-useful-yield-test-raises-225832059.html"
     },
     {
       "title": "Goldman's New AI Office Adds Just 1% to Its Engineering Army",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-08T19:15:28Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/direct-tpu-sales-rate-google-191528440.html"
-    },
-    {
-      "title": "Qualcomm Stock Pops as Amazon Deal Ramps Up AI Ambitions",
-      "summary": "The chip maker and online retailer are teaming up to build data-center infrastructure, including chips and optical networking products.",
-      "pub_date": "2026-09-08T18:59:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/qualcomm-stock-amazon-deal-ai-438de808?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "The Market Marked AMZN Stock Down. The Numbers Push Back",
-      "summary": "When a corporate giant appears to trade for less than the average stock after a pullback, investors must look past headline multiples to distinguish a genuine bargain from an optical distortion.",
-      "pub_date": "2026-09-08T18:46:39Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/market-marked-amzn-stock-down-184639226.html"
     }
   ]
 }

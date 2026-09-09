@@ -1,13 +1,20 @@
 {
   "ticker": "LITE",
-  "generated_at": "2026-09-08T22:17:44.771721+00:00",
+  "generated_at": "2026-09-09T02:36:12.891226+00:00",
   "items": [
     {
       "title": "Dow Jones Futures: Dow Skids But AMD, HPE Are New Buys; Apple iPhone Event Due",
       "summary": "Stocks fell Tuesday as oil prices and Treasury yields rose, but AMD and HPE led AI plays flashing buy signals. An Apple iPhone event is on tap.",
-      "pub_date": "2026-09-08T21:57:10Z",
+      "pub_date": "2026-09-09T02:16:27Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Review & Preview: A Slippery Start to Fall",
+      "summary": "The Nasdaq Composite dipped 0.3%.  It comes down to the \u201cusual suspects,\u201d notes Joe Mazzola, head trading and derivatives strategist at Charles Schwab: oil, Treasuries, and tariffs.  Reports that Yemen\u2019s Houthis attacked Saudi Arabian oil facilities caused oil prices to spike today.",
+      "pub_date": "2026-09-08T23:55:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stocks-today-geopolitical-fears-weigh-stocks-down-b3e94c37?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "AMD, Amgen, Novartis, Qualcomn, Corning, and More Stocks That Explain Today\u2019s Market",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-08T13:55:51Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/ai/articles/stewart-asset-management-ai-infrastructure-135551486.html"
-    },
-    {
-      "title": "AAOI Dips 46% in Three Months: Should You Buy the Stock Now or Wait?",
-      "summary": "Applied Optoelectronics plunges 46.3% in three months as supply constraints and a rich valuation offset surging AI-driven demand for 800G and 1.6T products.",
-      "pub_date": "2026-09-07T16:28:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/aaoi-dips-46-three-months-162800982.html"
     }
   ]
 }

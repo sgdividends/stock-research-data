@@ -1,6 +1,6 @@
 {
   "ticker": "HOOD",
-  "generated_at": "2026-09-08T22:17:35.812159+00:00",
+  "generated_at": "2026-09-09T02:36:05.364380+00:00",
   "items": [
     {
       "title": "Can Robinhood compete with banks after underwriting Oura's IPO?",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-08T15:24:50Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/robinhood-compete-banks-underwriting-ouras-152450783.html"
+    },
+    {
+      "title": "HOOD Stock Ticks Up Overnight \u2014 Why This Analyst Sees Upside Of Over 19% From Here",
+      "summary": "Jefferies raised the price target on Robinhood to $140 from $127 and kept a \u2018Buy\u2019 rating, as per The Fly \u2014 an upside of more than 19% from its last close.",
+      "pub_date": "2026-09-09T02:18:37Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hood-stock-ticks-overnight-why-021837166.html"
     },
     {
       "title": "Bernstein has a new message for Robinhood investors",
@@ -38,25 +45,18 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-fall-tuesday-200828119.html"
     },
     {
+      "title": "Why AMC CEO Adam Aron Dislikes Robinhood\u2019s New Tokenized Assets",
+      "summary": "Aron has raised concerns around investor rights and securities regulation.",
+      "pub_date": "2026-09-08T18:38:28Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/why-amc-ceo-adam-aron-183828841.html"
+    },
+    {
       "title": "Different Use Cases For Different Tokenization: Krupetsky",
       "summary": "Morgan Krupetsky, vice president of Onchain Finance at Ava Labs, joins Scarlet Fu and Tim Stenovec on \"Bloomberg Crypto.\" They the recent spat between AMC and Robinhood over tokenized trading and the different use cases for different tokenization models.",
       "pub_date": "2026-09-08T18:36:22Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/video/different-cases-different-tokenization-krupetsky-183622045.html"
-    },
-    {
-      "title": "AMC, Robinhood CEOs Feud Over Tokenization",
-      "summary": "Bloomberg's Anna Irrerea joins Scarlet Fu and Tim Stenovec on \"Bloomberg Crypto.\" AMC CEO Adam Aron traded barbs with Robinhood CEO Vlad Tenev last week after discovering a token bearing the theater chain's name was trading on the brokerage's blockchain. AMC CEO dubbed it \"outrageous\" and demanded that Robinhood cease trading it.",
-      "pub_date": "2026-09-08T18:31:35Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/video/amc-robinhood-ceos-feud-over-183135848.html"
-    },
-    {
-      "title": "Sector Update: Financial Stocks Retreat Tuesday Afternoon",
-      "summary": "Financial stocks were lower in Tuesday afternoon trading, with the NYSE Financial Index down 0.8% an",
-      "pub_date": "2026-09-08T17:47:41Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-retreat-tuesday-174741051.html"
     }
   ]
 }
