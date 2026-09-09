@@ -1,6 +1,6 @@
 {
   "ticker": "T",
-  "generated_at": "2026-09-09T19:00:56.325332+00:00",
+  "generated_at": "2026-09-09T22:10:28.646297+00:00",
   "items": [
     {
       "title": "AT&T CEO John Stankey on $1,999 Apple iPhone Duo: 'This is not new'",
@@ -15,6 +15,13 @@
       "pub_date": "2026-09-09T14:12:32Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/foldable-iphone-nice-apple-still-141232195.html"
+    },
+    {
+      "title": "Are Construction Stocks Lagging  Quanta Services (PWR) This Year?",
+      "summary": "Here is how Quanta Services (PWR) and Tutor Perini (TPC) have performed compared to their sector so far this year.",
+      "pub_date": "2026-09-09T19:54:27Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/construction-stocks-lagging-quanta-services-195427747.html"
     },
     {
       "title": "AT&T Becomes Amazon\u2019s First Major Satellite Broadband Telecom Customer",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-09T13:02:20Z",
       "source": "InvestorsHub",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ww-international-appoints-stephen-bye-130220524.html"
-    },
-    {
-      "title": "Tech, Media & Telecom Roundup: Market Talk",
-      "summary": "Find insight on ASML Holdings, Adobe, EchoStar and more in the latest Market Talks covering Technology, Media and Telecom.",
-      "pub_date": "2026-09-08T21:18:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-dfa40493?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

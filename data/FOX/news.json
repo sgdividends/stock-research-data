@@ -1,7 +1,14 @@
 {
   "ticker": "FOX",
-  "generated_at": "2026-09-09T19:00:23.601072+00:00",
+  "generated_at": "2026-09-09T22:09:55.508983+00:00",
   "items": [
+    {
+      "title": "Sector Update: Consumer Stocks Fall Late Afternoon",
+      "summary": "Consumer stocks were lower late Wednesday afternoon, with the State Street Consumer Staples Select S",
+      "pub_date": "2026-09-09T19:45:54Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-fall-afternoon-194554738.html"
+    },
     {
       "title": "DOJ Requests Additional Information Regarding Fox, Roku Deal",
       "summary": "Fox and Roku said they would work cooperatively with the Justice Department, providing the requested additional information and documentary material.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-28T17:33:26Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-rise-friday-173326645.html"
-    },
-    {
-      "title": "Market Chatter: Fox-News Corp. Re-Merger Push Could Still Be Revived",
-      "summary": "Fox (FOX) could still be part of a future re-merger with News Corp. (NWSA), Reuters reported Thursda",
-      "pub_date": "2026-08-28T08:13:52Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-fox-news-corp-081352314.html"
     }
   ]
 }

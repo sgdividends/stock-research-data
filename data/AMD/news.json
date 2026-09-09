@@ -1,62 +1,62 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-09-09T18:59:57.507093+00:00",
+  "generated_at": "2026-09-09T22:09:29.636608+00:00",
   "items": [
+    {
+      "title": "Dow Jones Futures: Oil Prices, Yields Hit Stocks, Apple Unfolds iPhone. Inflation Data Due.",
+      "summary": "Oil prices and Treasury yields weighed on the indexes, But Meta, AMD were winners. Apple unveiled its foldable iPhone. Inflation data looms.",
+      "pub_date": "2026-09-09T21:54:44Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-yields-meta-spacex-apple-iphone-inflation-data/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Advanced Micro Devices (AMD) Ascends While Market Falls: Some Facts to Note",
+      "summary": "In the most recent trading session, Advanced Micro Devices (AMD) closed at $519.73, indicating a +2.77% shift from the previous trading day.",
+      "pub_date": "2026-09-09T21:45:04Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-ascends-214504877.html"
+    },
+    {
+      "title": "Could Advanced Micro Devices (AMD)\u2019s Partnership With Cisco Systems (CSCO) Unlock a Massive Middle East AI Opportunity?",
+      "summary": "On August 31, Advanced Micro Devices, Inc. (NASDAQ:AMD), Cisco Systems, Inc. (NASDAQ:CSCO), and Humain announced that their joint AI infrastructure buildout in Saudi Arabia is officially live. The deployment links AMD\u2019s Instinct MI355X GPUs and EPYC CPUs directly with Cisco\u2019s Silicon One-based 800G switches, giving Humain a foundation to offer GPU-as-a-service across the Middle East. [\u2026]",
+      "pub_date": "2026-09-09T21:32:47Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/could-advanced-micro-devices-amd-213247998.html"
+    },
+    {
+      "title": "AMD, IBD Stock Of The Day, Runs Past Early Buy Point As Chipmaker Returns To Favor",
+      "summary": "AMD is the IBD Stock Of The Day after the chipmaker's shares surged above a key technical level.",
+      "pub_date": "2026-09-09T20:49:07Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/research/ibd-stock-of-the-day/amd-stock-regains-investor-favor/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "The Overlooked Chip Stock Poised to Outperform Nvidia, AMD, and Broadcom in the AI Semiconductor Boom",
+      "summary": "Qualcomm is gradually making a dent in the AI chip market.",
+      "pub_date": "2026-09-09T20:43:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/overlooked-chip-stock-poised-outperform-204300185.html"
+    },
+    {
+      "title": "Why Qualcomm\u2019s AI Chip Deal Proves Nvidia Is Still Top Dog",
+      "summary": "Nvidia stock was slipping after Qualcomm's announcement of an AI infrastructure deal with Amazon.",
+      "pub_date": "2026-09-09T19:34:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/nvidia-stock-price-ai-chips-qualcomm-amazon-28cb9ee5?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Bank of America Spots a Major Semiconductor. Micron and AMD Are Big Winners",
+      "summary": "Bank of America Flags a Major Shift in Semiconductor Bets. Micron and AMD Gain Ground",
+      "pub_date": "2026-09-09T19:06:24Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-spots-major-semiconductor-190624043.html"
+    },
     {
       "title": "AMD Jumps 3.5% as Its $2 Trillion-Plus AI Promise Raises the Stakes",
       "summary": "The opportunity dwarfs AMD's current business, leaving execution and supply--not market size--as the decisive tests.",
       "pub_date": "2026-09-09T18:24:33Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/amd-jumps-3-5-2-182433703.html"
-    },
-    {
-      "title": "What Qualcomm Has Stopped Leading With",
-      "summary": "Qualcomm (QCOM) has spent years telling shareholders it is becoming more than a smartphone chip company. What changed is where the new growth is expected to come from. Two years ago the big non-handset targets were automotive and IoT. Today, the newest leg of the story runs through the data center, and management has already put a number on it.",
-      "pub_date": "2026-09-09T17:50:16Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stopped-leading-175016006.html"
-    },
-    {
-      "title": "Did You Already Pay For NVIDIA's Bigger Guide?",
-      "summary": "NVIDIA (NVDA) trades at $225.73, about 4% below its 52-week high after a 35% total return over the past twelve months. Management has just told the market to expect a much larger revenue quarter, and the easy read is that a step that size cannot already be in the price. But the stock's reaction suggests investors have already absorbed much of the news. The question is how much of the revenue step translates into value for shareholders.",
-      "pub_date": "2026-09-09T17:16:30Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/did-already-pay-nvidias-bigger-171630096.html"
-    },
-    {
-      "title": "Defiance Politely Asks the SEC to Let It Sell An ETF 8-Ball",
-      "summary": "Sixteen new Defiance ETFs would reset 2x leverage six times a session, which is more leverage than the SEC\u2019s current 3x line in the sand",
-      "pub_date": "2026-09-09T17:05:04Z",
-      "source": "Moby",
-      "url": "https://finance.yahoo.com/markets/options/articles/defiance-politely-asks-sec-let-170504737.html"
-    },
-    {
-      "title": "AMD Rises 8% in a Month: Should You Buy, Sell or Hold the Stock?",
-      "summary": "AMD returns 7.7% in a month as AI and Data Center growth strengthens, but premium valuation, competition and supply constraints support a hold.",
-      "pub_date": "2026-09-09T16:54:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-rises-8-month-buy-165400514.html"
-    },
-    {
-      "title": "Should You Buy Intel Stock Because The Comeback Is Working?",
-      "summary": "Intel (INTC) has been repriced as a comeback over the past year, and the products are cooperating. Revenue reached $16.1 billion in the second quarter of 2026, up 25% from a year earlier, while trailing-twelve-month revenue was up 7.5% to $57.0 billion. The server line is supply-constrained. The harder question is what your money buys at this price.",
-      "pub_date": "2026-09-09T16:06:21Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-intel-stock-because-comeback-160621106.html"
-    },
-    {
-      "title": "Could Marvell Be the Next AI Stock to Deliver 100% Upside?",
-      "summary": "Marvell has already handed investors a 242% gain over the past year, yet Wall Street analysts are piling on fresh buy ratings ahead of an October catalyst that could define the next leg of the trade.",
-      "pub_date": "2026-09-09T16:00:51Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/could-marvell-next-ai-stock-160051977.html"
-    },
-    {
-      "title": "AMD, IBD Stock Of The Day, Runs Past Early Buy Point As Chipmaker Returns To Favor",
-      "summary": "AMD is the IBD Stock Of The Day after the chipmaker's shares surged above a key technical level.",
-      "pub_date": "2026-09-09T15:51:53Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/research/ibd-stock-of-the-day/amd-stock-regains-investor-favor/?src=A00220&yptr=yahoo"
     }
   ]
 }

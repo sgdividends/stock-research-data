@@ -1,7 +1,14 @@
 {
   "ticker": "ADI",
-  "generated_at": "2026-09-09T18:59:54.934371+00:00",
+  "generated_at": "2026-09-09T22:09:27.089627+00:00",
   "items": [
+    {
+      "title": "Sector Update: Tech Stocks Ease Late Afternoon",
+      "summary": "Tech stocks eased late Wednesday afternoon with the State Street Technology Select Sector SPDR ETF (",
+      "pub_date": "2026-09-09T19:46:47Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-ease-afternoon-194647709.html"
+    },
     {
       "title": "MCHP Rides on Open-Standard Connectivity: Can It Beat ADI & TXN?",
       "summary": "Microchip Technologies' open-standard display connectivity push targets software-defined vehicles as automotive sales rise and competition intensifies.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-03T12:34:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/buy-texas-instruments-stock-despite-123400905.html"
-    },
-    {
-      "title": "Is Analog Devices Stock Outperforming the Nasdaq?",
-      "summary": "Analog Devices has outperformed the Nasdaq over the past year, and analysts are highly optimistic about the stock\u2019s prospects.",
-      "pub_date": "2026-09-02T15:28:57Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-stock-outperforming-nasdaq-152857321.html"
     }
   ]
 }

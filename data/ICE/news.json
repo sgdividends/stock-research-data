@@ -1,7 +1,14 @@
 {
   "ticker": "ICE",
-  "generated_at": "2026-09-09T19:00:30.506180+00:00",
+  "generated_at": "2026-09-09T22:10:01.795350+00:00",
   "items": [
+    {
+      "title": "Market Chatter: Energy Transfer set to Switch Primary Listing To TXSE From NYSE",
+      "summary": "Energy Transfer LP (ET) is set to become the first major company to switch its primary listing from",
+      "pub_date": "2026-09-09T21:39:44Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-energy-transfer-set-213944721.html"
+    },
     {
       "title": "Bill Ackman Sees an AI Bargain in the Company That Owns the New York Stock Exchange",
       "summary": "Bill Ackman just placed a major bet on the owner of the New York Stock Exchange, arguing that investors have the AI threat to this business exactly backwards.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T01:59:18Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/atlanticus-holdings-intercontinental-exchange-paypal-015918125.html"
-    },
-    {
-      "title": "Is Intercontinental Exchange Stock Underperforming the Dow?",
-      "summary": "Intercontinental Exchange has underperformed the broader market over the past year, while analysts remain strongly bullish on its future outlook.",
-      "pub_date": "2026-09-03T10:44:32Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intercontinental-exchange-stock-underperforming-dow-104432613.html"
     }
   ]
 }

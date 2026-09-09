@@ -1,7 +1,14 @@
 {
   "ticker": "CBRE",
-  "generated_at": "2026-09-09T19:00:05.653230+00:00",
+  "generated_at": "2026-09-09T22:09:38.049732+00:00",
   "items": [
+    {
+      "title": "CBRE IM Buys Net Lease REIT For $1.6B, Plans More Investment",
+      "summary": "Cerberus Investment Management formed Tenant Equity in 2021. The company has 208 assets totaling 12M SF across 39 states.",
+      "pub_date": "2026-09-09T18:13:28Z",
+      "source": "Bisnow",
+      "url": "https://finance.yahoo.com/real-estate/articles/cbre-im-buys-net-lease-181328493.html"
+    },
     {
       "title": "Lower Manhattan Office Leasing Surges as Rents Rise",
       "summary": "Lower Manhattan office leasing is accelerating as cheaper space, AI tenants, and rising rents strengthen downtown momentum.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T09:10:10Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-cash-producing-stocks-skeptical-091010283.html"
-    },
-    {
-      "title": "Data Center Demand Doubles, Fueling New AI Boomtowns",
-      "summary": "Data center demand has soared to new highs this year as vacancy stays near zero, fueling even more growth in emerging markets, reports from JLL and CBRE found.",
-      "pub_date": "2026-09-03T19:20:54Z",
-      "source": "Bisnow",
-      "url": "https://finance.yahoo.com/technology/ai/articles/data-center-demand-doubles-fueling-192054678.html"
     }
   ]
 }
