@@ -1,7 +1,14 @@
 {
   "ticker": "MSCI",
-  "generated_at": "2026-09-09T02:36:17.744032+00:00",
+  "generated_at": "2026-09-09T08:32:56.129544+00:00",
   "items": [
+    {
+      "title": "Garden Apartment Pricing Reflects Rising Supply Risk",
+      "summary": "Garden apartment pricing is reflecting higher supply risk as cap-rate pressure grows and July transaction volume remains soft.",
+      "pub_date": "2026-09-09T08:20:20Z",
+      "source": "CRE Daily",
+      "url": "https://finance.yahoo.com/real-estate/articles/garden-apartment-pricing-reflects-rising-082020679.html"
+    },
     {
       "title": "Rising Bond Yields Threaten Commercial Real Estate Recovery",
       "summary": "Rising bond yields threaten the CRE recovery by pressuring property values, liquidity, and institutional investment worldwide.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-26T07:09:31Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/msci-elevated-2026-expense-outlook-070931110.html"
-    },
-    {
-      "title": "Data Center Deals Propel July CRE Sales Volume To Best Performance Since 2005",
-      "summary": "CRE transactions reached their highest level since 2005, with BlackRock's acquisition of Aligned Data Centers driving activity.",
-      "pub_date": "2026-08-25T17:01:19Z",
-      "source": "Bisnow",
-      "url": "https://finance.yahoo.com/real-estate/articles/data-center-deals-propel-july-170119225.html"
     }
   ]
 }

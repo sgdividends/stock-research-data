@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "generated_at": "2026-09-09T02:36:17.936874+00:00",
+  "generated_at": "2026-09-09T08:32:56.242693+00:00",
   "items": [
     {
       "title": "What investors 'really' need to see from Oracle earnings this week",
@@ -8,6 +8,27 @@
       "pub_date": "2026-09-08T15:07:10Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/investors-really-see-oracle-earnings-150710768.html"
+    },
+    {
+      "title": "Google to invest $15 billion AI infrastructure in Finland",
+      "summary": "HELSINKI, Sept 9 (Reuters) - Alphabet's Google will invest at least \u20ac13 billion ($15.1 billion) in artificial intelligence infrastructure in Finland over the next two years, it said on Wednesday,",
+      "pub_date": "2026-09-09T07:01:19Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/technology/ai/articles/google-invest-15-billion-ai-070119247.html"
+    },
+    {
+      "title": "SpaceX, Nvidia Lead Schwab Buys As Software Rally Spurs Profit-Taking \u2013 Trading Gauge Posts First Dip Since April",
+      "summary": "Clients bought SPCX, NVDA, MU, INTC, and GOOGL, while net selling PLTR, MSFT, NOW, CRM, and ORCL.",
+      "pub_date": "2026-09-09T05:27:01Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-nvidia-lead-schwab-buys-052701125.html"
+    },
+    {
+      "title": "AI Is Splitting the Magnificent Seven Into Winners and Laggards, Says Lo Toney",
+      "summary": "Plexo Capital's Lo Toney says AI is splitting the Magnificent Seven into distinct winners, with Google positioned to gain the most.",
+      "pub_date": "2026-09-09T04:44:50Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-splitting-magnificent-seven-winners-044450933.html"
     },
     {
       "title": "Constellation Energy's Biggest AI Power Deal Doesn't Start Paying Until June 2027",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-08T20:47:12Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/microsofts-openai-partnership-draws-fresh-204712188.html"
-    },
-    {
-      "title": "Can Selling Puts On Adobe Stock Yield Nearly 10%?",
-      "summary": "Generate upfront option premium while targeting an entry on a software giant at an effective discount below the current market price.",
-      "pub_date": "2026-09-08T19:55:37Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/selling-puts-adobe-stock-yield-195537223.html"
-    },
-    {
-      "title": "Google Cloud Boss Makes Bold Claim About AI Chip Business",
-      "summary": "In a boost for Google stock, cloud computing chief Thomas Kurian says AI chip business is more than twice the size of its closest rival.",
-      "pub_date": "2026-09-08T19:30:27Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/google-stock-cloud-kurian-ai-chip-business/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Will Direct TPU Sales Re-Rate Google Stock?",
-      "summary": "Quietly, a merchant silicon business is emerging inside the world's largest advertising platform. The company has now started delivering its custom TPU systems directly into customer data centers. This marks a fundamental expansion of the business model, moving from selling services to selling the core hardware that powers the AI transition.",
-      "pub_date": "2026-09-08T19:15:28Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/direct-tpu-sales-rate-google-191528440.html"
     }
   ]
 }

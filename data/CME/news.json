@@ -1,7 +1,14 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-09-09T02:35:46.775333+00:00",
+  "generated_at": "2026-09-09T08:32:28.122944+00:00",
   "items": [
+    {
+      "title": "Gold Rises, With Middle East and Fed Policy in Focus",
+      "summary": "Gold prices rose as escalating attacks in the Middle East pushed oil higher, raising concerns over inflation and interest-rate hikes.",
+      "pub_date": "2026-09-09T07:34:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-slips-traders-eye-inflation-data-a5ad1d66?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Bill Ackman Sees an AI Bargain in the Company That Owns the New York Stock Exchange",
       "summary": "Bill Ackman just placed a major bet on the owner of the New York Stock Exchange, arguing that investors have the AI threat to this business exactly backwards.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-03T19:03:42Z",
       "source": "Investopedia",
       "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-climbs-highest-intraday-level-190342799.html"
-    },
-    {
-      "title": "Trump Wants Lower Rates. That Won\u2019t Stop a Fed Rate Hike.",
-      "summary": "President Donald Trump says the U.S. \u201cshould have the lowest interest rates in the world.\u201d But he appears to be giving Fed Chair Kevin Warsh breathing room for now.",
-      "pub_date": "2026-09-03T18:50:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/federal-reserve-interest-rates-warsh-trump-7f755a44?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

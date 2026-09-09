@@ -1,7 +1,21 @@
 {
   "ticker": "CRWD",
-  "generated_at": "2026-09-09T02:35:49.433964+00:00",
+  "generated_at": "2026-09-09T08:32:30.563665+00:00",
   "items": [
+    {
+      "title": "Jensen Huang's AI Capex Pulse Check",
+      "summary": "Nvidia's CEO stunned investors with a bold prediction for AI capex spending, and Marvell's blowout earnings seem to back him up.",
+      "pub_date": "2026-09-09T04:13:35Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huangs-ai-capex-pulse-041335811.html"
+    },
+    {
+      "title": "Nvidia Earnings Blow Everyone Away",
+      "summary": "Nvidia's most recent earnings and guidance blew past expectations and set up another stellar year for anything AI-related.",
+      "pub_date": "2026-09-09T03:55:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-blow-everyone-away-035501884.html"
+    },
     {
       "title": "CrowdStrike vs. OKTA: What Revenue Trends Between These Cybersecurity Giants Tell Investors",
       "summary": "CrowdStrike's revenue has nearly doubled in eight quarters while OKTA's has grown steadily \u2014 but the profitability picture tells a starkly different story.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-06T22:10:12Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-ceo-warns-ai-221012462.html"
-    },
-    {
-      "title": "Up 90% in 2026, This Cybersecurity Growth Stock Under $300 Is the Best One to Buy Now",
-      "summary": "After a strong Q2, CrowdStrike has given investors more reasons to remain bullish on the stock.",
-      "pub_date": "2026-09-06T10:49:39Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/90-2026-cybersecurity-growth-stock-104939003.html"
-    },
-    {
-      "title": "CrowdStrike (CRWD) Unveiled A Broad AI Security Platform Push",
-      "summary": "CrowdStrike Holdings (NasdaqGS:CRWD) announced a broad set of AI security products and deeper integrations across the cybersecurity and enterprise AI ecosystem. The company introduced tools such as Falcon Guardian, Agentic Identity Provider and real-time supply chain protection to cover AI agents, data pipelines and software supply chains. CrowdStrike expanded partnerships with OpenAI, Google, Anthropic, NVIDIA, Rubrik, Fortanix, EY and others to embed its Falcon platform into emerging AI...",
-      "pub_date": "2026-09-06T00:14:30Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-unveiled-broad-ai-001430063.html"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "GM",
-  "generated_at": "2026-09-09T02:36:02.709656+00:00",
+  "generated_at": "2026-09-09T08:32:42.312604+00:00",
   "items": [
     {
       "title": "General Motors\u2019 Stock: Is GM Outperforming the Consumer Discretionary Sector?",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-08T11:59:48Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/general-motors-stock-gm-outperforming-115948399.html"
+    },
+    {
+      "title": "How Much Longer Can Blue-Chip Companies Keep Up High Performance?",
+      "summary": "Earnings per share for S&P 500 companies skyrocketed 53% from a year earlier in Q2 and sales jumped almost 16%, according to LSEG data.",
+      "pub_date": "2026-09-08T04:01:00Z",
+      "source": "The Daily Upside",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/much-longer-blue-chip-companies-040100072.html"
     },
     {
       "title": "GM, Ford Turn EV Battery Bust Into Energy Storage Bet",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T14:13:46Z",
       "source": "AFP",
       "url": "https://finance.yahoo.com/economy/articles/workers-reeling-vw-cuts-open-141346844.html"
-    },
-    {
-      "title": "The Lowe\u2019s Foundation wants to train 1 million craft workers",
-      "summary": "The tool and DIY retailer\u2019s foundation has partnered with Nvidia, General Motors and other U.S. businesses to help bolster the construction labor force by 2035.",
-      "pub_date": "2026-09-04T11:26:31Z",
-      "source": "Construction Dive",
-      "url": "https://finance.yahoo.com/small-business/articles/lowe-foundation-wants-train-1-112631198.html"
     }
   ]
 }

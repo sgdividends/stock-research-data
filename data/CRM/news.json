@@ -1,6 +1,6 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-09-09T02:35:49.318718+00:00",
+  "generated_at": "2026-09-09T08:32:30.408836+00:00",
   "items": [
     {
       "title": "Snowflake CEO explains how software companies can survive in the AI era",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-08T20:55:56Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/snowflake-ceo-explains-software-companies-205556481.html"
+    },
+    {
+      "title": "SpaceX, Nvidia Lead Schwab Buys As Software Rally Spurs Profit-Taking \u2013 Trading Gauge Posts First Dip Since April",
+      "summary": "Clients bought SPCX, NVDA, MU, INTC, and GOOGL, while net selling PLTR, MSFT, NOW, CRM, and ORCL.",
+      "pub_date": "2026-09-09T05:27:01Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-nvidia-lead-schwab-buys-052701125.html"
     },
     {
       "title": "S&P 500 falls as AI worries hit software makers",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-08T16:30:15Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/could-ai-stock-keeps-surprising-163015159.html"
-    },
-    {
-      "title": "UiPath Slides 24% After Q2 Earnings: Is PATH Stock a Buy?",
-      "summary": "PATH's 24% post-earnings slide contrasts with a revenue beat, raised annual guidance and stronger profitability, creating a potential entry point.",
-      "pub_date": "2026-09-08T15:29:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/uipath-slides-24-q2-earnings-152900821.html"
     }
   ]
 }
