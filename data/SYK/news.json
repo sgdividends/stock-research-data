@@ -1,7 +1,14 @@
 {
   "ticker": "SYK",
-  "generated_at": "2026-09-09T15:46:32.403675+00:00",
+  "generated_at": "2026-09-09T19:00:56.057644+00:00",
   "items": [
+    {
+      "title": "BSX Stock: Is It Time To Buy Or Sell Puts?",
+      "summary": "Trading near $45 a share, Boston Scientific (BSX) sits roughly 58% below its 52-week peak.  Instead of buying the dip outright, selling cash-secured put options allows investors to generate immediate income while locking in an even deeper entry point.  Sell a put option on BSX expiring 9/17/2027, with a strike price of $30.",
+      "pub_date": "2026-09-09T18:06:50Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/bsx-stock-time-buy-sell-180650387.html"
+    },
     {
       "title": "ISRG Stock Trading at its Cheapest in 10 Years: Should You Buy Now?",
       "summary": "Intuitive Surgical trades at its cheapest valuation in 10 years as strong growth, innovation and procedure gains face rising costs and market pressures.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T14:27:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/healthcare/articles/boston-scientifics-icvt-business-gains-142700121.html"
-    },
-    {
-      "title": "Stryker Launches FDA-Cleared Apple Vision Pro Surgical App",
-      "summary": "SYK's FDA-cleared SportSuite Vision brings Apple Vision Pro into hip arthroscopy, strengthening its digital surgery push and Sports Medicine portfolio.",
-      "pub_date": "2026-09-03T17:37:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/healthcare/articles/stryker-launches-fda-cleared-apple-173700748.html"
     }
   ]
 }

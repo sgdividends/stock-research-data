@@ -1,6 +1,6 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-09-09T15:45:47.114211+00:00",
+  "generated_at": "2026-09-09T19:00:09.357401+00:00",
   "items": [
     {
       "title": "1 Surging  Stock to Target This Week and 2 Facing Headwinds",
@@ -22,6 +22,13 @@
       "pub_date": "2026-09-09T13:35:00Z",
       "source": "CryptoProwl",
       "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-firm-block-files-u-133500765.html"
+    },
+    {
+      "title": "Exclusive: Latitude, founded by Stripe and Uber alums, raises $35 million to turn stablecoins into local payments",
+      "summary": "The startup is targeting the gap between instant digital transfers and money people can actually spend.",
+      "pub_date": "2026-09-09T13:30:00Z",
+      "source": "Fortune",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/exclusive-latitude-founded-stripe-uber-133000051.html"
     },
     {
       "title": "Coinbase Expands USDC Stablecoin Rewards via Morpho Onchain Lending to Brazil",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-09T12:28:19Z",
       "source": "Benzinga Prediction Markets",
       "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-kalshi-push-gets-backbone-122819341.html"
-    },
-    {
-      "title": "XRP Price May Double by 2027 on Midterm Boost, Says Analyst, as Rich-List Threshold Falls",
-      "summary": "Dominic Basulto sees a path to $2.80 XRP price by the end of 2027 if the midterms support a pro-crypto agenda. Around 2,119 XRP places ...",
-      "pub_date": "2026-09-09T10:38:59Z",
-      "source": "CCN",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-price-may-double-2027-103859596.html"
     }
   ]
 }

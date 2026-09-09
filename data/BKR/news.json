@@ -1,7 +1,14 @@
 {
   "ticker": "BKR",
-  "generated_at": "2026-09-09T15:45:41.425273+00:00",
+  "generated_at": "2026-09-09T19:00:02.889749+00:00",
   "items": [
+    {
+      "title": "Sector Update: Energy Stocks Gain Wednesday Afternoon",
+      "summary": "Energy stocks were higher Wednesday afternoon, with the NYSE Energy Sector Index rising 0.7% and the",
+      "pub_date": "2026-09-09T17:45:08Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-gain-wednesday-174508614.html"
+    },
     {
       "title": "Baker Hughes (BKR) Lands Multi-Year Contract with Pakistan\u2019s OGDC",
       "summary": "Baker Hughes Company (NASDAQ:BKR) announced on September 3 that it had secured a multi-year contract with Pakistan\u2019s Oil & Gas Development Company to maximize production performance from its mature oil and gas fields. The company did not disclose the financial terms of the deal. As per the agreement, Baker Hughes will assess over 120 wells [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T11:49:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/energy/articles/baker-hughes-deepens-pakistan-footprint-114900915.html"
-    },
-    {
-      "title": "Nano Nuclear Advances KRONOS Helium Circulator to Detailed Design Phase",
-      "summary": "Nano Nuclear Energy (NASDAQ:NNE) said its engineering collaboration with Howden, a Baker Hughes business, has progressed to the detailed design phase for the primary helium circulator of its KRONOS MMR\u2122 Energy System. The helium circulator is a mechanical subsystem designed to move helium coolant through the reactor core to transfer heat.",
-      "pub_date": "2026-09-03T13:48:44Z",
-      "source": "InvestorsHub",
-      "url": "https://finance.yahoo.com/energy/articles/nano-nuclear-advances-kronos-helium-134844337.html"
     }
   ]
 }

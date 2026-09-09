@@ -1,6 +1,6 @@
 {
   "ticker": "CRWD",
-  "generated_at": "2026-09-09T15:45:48.587370+00:00",
+  "generated_at": "2026-09-09T19:00:10.916247+00:00",
   "items": [
     {
       "title": "OpenAI, Anthropic are 'gambling with our lives': Fmr. employee warns of AI's threat to humanity",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-09T15:13:34Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/openai-anthropic-gambling-lives-fmr-151334296.html"
+    },
+    {
+      "title": "Top Chip Analyst: Memory Prices Won\u2019t Ease \u2018For Years\u2019 and Even Apple Can\u2019t Dodge It",
+      "summary": "A top chip analyst just went on national television to argue that memory prices will punish even Apple for years, and the supply data behind that call points to one name printing money on the other side of the trade.",
+      "pub_date": "2026-09-09T17:10:37Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/articles/top-chip-analyst-memory-prices-171037540.html"
     },
     {
       "title": "Cloudflare Surges 9% on OpenAI Security Partnership, Zscaler Rises 3%",
@@ -45,18 +52,11 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-vs-okta-revenue-trends-215226676.html"
     },
     {
-      "title": "These software stocks are in a prime spot to benefit from a rapidly shifting AI landscape",
-      "summary": "Adobe tops a list of software companies ranked by cash generation, while sector heavyweights Microsoft and Oracle are at the bottom.",
-      "pub_date": "2026-09-08T16:04:00Z",
-      "source": "MarketWatch",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/software-stocks-prime-spot-benefit-160400817.html"
-    },
-    {
-      "title": "Zscaler's Z-Flex Surges: Can Flexible Deals Boost Customer Adoption?",
-      "summary": "ZS' Z-Flex tops $1.7 billion in fiscal 2026 TCV, lifting customer ARR nearly 30% as flexible contracts support broader platform adoption.",
-      "pub_date": "2026-09-08T13:11:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zscalers-z-flex-surges-flexible-131100797.html"
+      "title": "AI Is Making Cybersecurity Harder to Ignore\u2014These 3 ETFs Offer a Broad Bet",
+      "summary": "Cybersecurity demand is surging on AI growth, with stocks like Palo Alto, CrowdStrike, and Okta, plus ETFs HACK, CIBR, and BUG, rallying despite chart patterns signaling a possible correction.",
+      "pub_date": "2026-09-08T16:40:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-making-cybersecurity-harder-ignore-164000538.html"
     }
   ]
 }

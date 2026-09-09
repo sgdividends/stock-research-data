@@ -1,7 +1,14 @@
 {
   "ticker": "MDT",
-  "generated_at": "2026-09-09T15:46:14.950619+00:00",
+  "generated_at": "2026-09-09T19:00:39.142987+00:00",
   "items": [
+    {
+      "title": "BSX Stock: Is It Time To Buy Or Sell Puts?",
+      "summary": "Trading near $45 a share, Boston Scientific (BSX) sits roughly 58% below its 52-week peak.  Instead of buying the dip outright, selling cash-secured put options allows investors to generate immediate income while locking in an even deeper entry point.  Sell a put option on BSX expiring 9/17/2027, with a strike price of $30.",
+      "pub_date": "2026-09-09T18:06:50Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/bsx-stock-time-buy-sell-180650387.html"
+    },
     {
       "title": "Medtronic Is on the Cusp of Becoming a Dividend King. Is the Stock a Buy for Income Investors?",
       "summary": "Medtronic implemented its 49th consecutive annual dividend increase in June.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-08T15:43:23Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-second-quarter-earnings-154323821.html"
-    },
-    {
-      "title": "Is Medtronic Worth Buying as Growth Improves but Risks Stay Elevated?",
-      "summary": "MDT's stronger growth and earnings outlook improve its case, but margin, currency and execution risks keep investors selective.",
-      "pub_date": "2026-09-08T12:58:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/healthcare/articles/medtronic-worth-buying-growth-improves-125800041.html"
     }
   ]
 }

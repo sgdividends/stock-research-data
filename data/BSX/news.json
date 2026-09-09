@@ -1,7 +1,14 @@
 {
   "ticker": "BSX",
-  "generated_at": "2026-09-09T15:45:42.512870+00:00",
+  "generated_at": "2026-09-09T19:00:04.105831+00:00",
   "items": [
+    {
+      "title": "BSX Stock: Is It Time To Buy Or Sell Puts?",
+      "summary": "Trading near $45 a share, Boston Scientific (BSX) sits roughly 58% below its 52-week peak.  Instead of buying the dip outright, selling cash-secured put options allows investors to generate immediate income while locking in an even deeper entry point.  Sell a put option on BSX expiring 9/17/2027, with a strike price of $30.",
+      "pub_date": "2026-09-09T18:06:50Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/bsx-stock-time-buy-sell-180650387.html"
+    },
     {
       "title": "2 Healthcare Stocks with Competitive Advantages and 1 We Question",
       "summary": "Healthcare companies are pushing the status quo by innovating in areas like drug development and digital health. Those leading the charge have not only realized strong financial performance but also propelled the broader industry\u2019s returns as healthcare stocks have gained 25.7% over the past six months while the S&P 500 was up 13.6%.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-08T18:21:32Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-intraday-traders-track-182132327.html"
-    },
-    {
-      "title": "Boston Scientific Flags Guidance Miss Amid 'Material Impact' From Cybersecurity Incident; Shares Fall",
-      "summary": "Boston Scientific (BSX) flagged its inability to meet its near-term financial outlooks amid a \"mater",
-      "pub_date": "2026-09-08T17:45:58Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/healthcare/articles/boston-scientific-flags-guidance-miss-174558467.html"
     }
   ]
 }

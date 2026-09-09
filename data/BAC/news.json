@@ -1,7 +1,14 @@
 {
   "ticker": "BAC",
-  "generated_at": "2026-09-09T15:45:39.934874+00:00",
+  "generated_at": "2026-09-09T19:00:01.175787+00:00",
   "items": [
+    {
+      "title": "Bank of America\u2019s unique take on Apple stock as Ternus takes reins",
+      "summary": "The rating did not move. The estimates underneath it are doing the real work.",
+      "pub_date": "2026-09-09T16:47:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-unique-apple-stock-164700464.html"
+    },
     {
       "title": "U.S. Bancorp To Launch Its Own Stablecoin",
       "summary": "U.S. Bancorp (NYSE: $USB), the fifth largest lender in America, is preparing to launch its own stablecoin.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-08T03:00:18Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/economy/articles/study-reveals-strongest-state-economies-181834728.html"
-    },
-    {
-      "title": "DBS, Citi Complete First Weekend Cross-Border Payment",
-      "summary": "DBS (SGX: D05) and Citi (NYSE: $C) have completed a cross-border US dollar payment between Singapore and the United...",
-      "pub_date": "2026-09-07T20:56:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/dbs-citi-complete-first-weekend-205600114.html"
     }
   ]
 }

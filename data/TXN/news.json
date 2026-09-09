@@ -1,7 +1,28 @@
 {
   "ticker": "TXN",
-  "generated_at": "2026-09-09T15:46:36.510328+00:00",
+  "generated_at": "2026-09-09T19:00:59.773255+00:00",
   "items": [
+    {
+      "title": "MCHP Rides on Open-Standard Connectivity: Can It Beat ADI & TXN?",
+      "summary": "Microchip Technologies' open-standard display connectivity push targets software-defined vehicles as automotive sales rise and competition intensifies.",
+      "pub_date": "2026-09-09T18:34:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/articles/mchp-rides-open-standard-connectivity-183400900.html"
+    },
+    {
+      "title": "What Qualcomm Has Stopped Leading With",
+      "summary": "Qualcomm (QCOM) has spent years telling shareholders it is becoming more than a smartphone chip company. What changed is where the new growth is expected to come from. Two years ago the big non-handset targets were automotive and IoT. Today, the newest leg of the story runs through the data center, and management has already put a number on it.",
+      "pub_date": "2026-09-09T17:50:16Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stopped-leading-175016006.html"
+    },
+    {
+      "title": "Broadcom Stock Slipped While Its Revenue Schedule Got Longer",
+      "summary": "Broadcom (AVGO) stock sits about 23% below its 52-week high, and it has lost 6.9% over the past three months while the S&P 500 gained 3.6%. The latest drop followed a fiscal Q4 2026 revenue guide that fell short of Wall Street expectations. Set beside that guide was a revenue schedule stretching to fiscal 2028. That schedule is where the upside case lives.",
+      "pub_date": "2026-09-09T15:40:36Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-slipped-while-revenue-154036534.html"
+    },
     {
       "title": "3 Value Stocks with Questionable Fundamentals",
       "summary": "The low valuation multiples for value stocks provide a margin of safety that growth stocks rarely offer. However, the challenge lies in determining whether these cheap assets are genuinely undervalued or simply on sale due to their potentially deteriorating business models.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-04T21:32:06Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/market-really-expecting-mpwr-stock-213206230.html"
-    },
-    {
-      "title": "QCOM Showered Owners With Cash. The Stock Still Lagged The Market",
-      "summary": "The chipmaker showered its owners with cash while the stock price went nowhere fast, raising a sharp question about what all that money actually bought.",
-      "pub_date": "2026-09-04T14:40:20Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qcom-showered-owners-cash-stock-144020301.html"
-    },
-    {
-      "title": "Nvidia's $13 Billion Hugging Face Deal Expands Open-Source AI",
-      "summary": "NVDA's $12.9 billion Hugging Face deal expands its AI reach into open-source models, developers and software while boosting demand for computing.",
-      "pub_date": "2026-09-04T12:18:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-13-billion-hugging-face-121800081.html"
-    },
-    {
-      "title": "1 S&P 500 Stock on Our Watchlist and 2 We Question",
-      "summary": "The S&P 500 (^GSPC) is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are created equal - some are struggling with slowing growth, declining margins, or increased competition.",
-      "pub_date": "2026-09-04T11:02:10Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-watchlist-110210757.html"
     }
   ]
 }

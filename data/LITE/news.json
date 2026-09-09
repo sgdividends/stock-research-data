@@ -1,7 +1,28 @@
 {
   "ticker": "LITE",
-  "generated_at": "2026-09-09T15:46:12.294470+00:00",
+  "generated_at": "2026-09-09T19:00:36.550877+00:00",
   "items": [
+    {
+      "title": "Stock Market Today: Dow Cuts Losses, Gold And Silver Rise; AI Stock Tops Entry (Live Coverage)",
+      "summary": "Stock Market Today: The Dow Jones index drops Wednesday on rising oil prices. Apple stock falls ahead of the iPhone event.",
+      "pub_date": "2026-09-09T18:24:58Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-stock-aapl-iphone-event/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "LITE's Laser Growth Accelerates: Can It Challenge AVGO & AAOI?",
+      "summary": "Lumentum is scaling pump, EML and CW laser capacity as AI-driven optical demand rises, positioning it against Broadcom and Applied Optoelectronics.",
+      "pub_date": "2026-09-09T16:42:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lites-laser-growth-accelerates-challenge-164200195.html"
+    },
+    {
+      "title": "AXT's Liquidity Supports InP Capacity Expansion: Can Growth Continue?",
+      "summary": "AXTI's $748.8M liquidity, $100M-plus InP backlog and planned capacity expansions position it to meet strong AI data-center demand.",
+      "pub_date": "2026-09-09T15:32:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/axts-liquidity-supports-inp-capacity-153200067.html"
+    },
     {
       "title": "Lumentum President Sells 1,500 Shares",
       "summary": "Wupen Yuen executed this sale under a Rule 10b5-1 plan adopted in May, signaling routine portfolio management rather than concern about company fundamentals.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-08T18:52:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/corning-stock-price-verizon-fiber-deal-f6c42e68?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Optical Stocks Surge as Corning Inks Multibillion-Dollar Deal With Verizon",
-      "summary": "Corning shares are soaring after the company agreed to a lucrative supply agreement with Verizon.",
-      "pub_date": "2026-09-08T18:28:30Z",
-      "source": "Investopedia",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/optical-stocks-surge-corning-inks-182830128.html"
-    },
-    {
-      "title": "AI-Related Stocks Are Soaring After OpenAI\u2019s Astra Model Release",
-      "summary": "Stocks tied to AI are having a big day amid growing enthusiasm over OpenAI's latest model, called Astra. Shares of CoreWeave, an AI cloud infrastructure company, rose 12% Tuesday. Shares of Lumentum and Coherent, which manufacture optical and laser equipment used by AI data centers, were up 11% and 7% respectively.",
-      "pub_date": "2026-09-08T17:56:53Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-08-2026/card/ai-related-stocks-are-soaring-after-openai-s-astra-model-release-pMAxtBgGBhiatoCaqBwS?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "FN's AI Optical Growth Accelerates: Can It Challenge LITE & AAOI?",
-      "summary": "Fabrinet rides on surging AI data-center demand, with strong DCI, HPC and transceiver growth supporting its push against optical rivals.",
-      "pub_date": "2026-09-08T17:18:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/fns-ai-optical-growth-accelerates-171800911.html"
     }
   ]
 }
