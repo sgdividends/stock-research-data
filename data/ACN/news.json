@@ -1,7 +1,21 @@
 {
   "ticker": "ACN",
-  "generated_at": "2026-09-09T08:32:16.182581+00:00",
+  "generated_at": "2026-09-09T15:45:33.917810+00:00",
   "items": [
+    {
+      "title": "Accenture and Google Cloud establish Gemini Enterprise Business Group",
+      "summary": "The partnership aims to accelerate enterprise adoption of agentic AI, offering expanded industry expertise and technical resources.",
+      "pub_date": "2026-09-09T12:21:09Z",
+      "source": "Verdict",
+      "url": "https://finance.yahoo.com/technology/ai/articles/accenture-google-cloud-establish-gemini-122109411.html"
+    },
+    {
+      "title": "Accenture Dedicates 1,000 Engineers to Google\u2019s Agentic AI \u2014 And Exposes Where the Real Bottleneck Lives",
+      "summary": "Accenture\u2019s decision to dedicate 1,000 forward-deployed engineers (FDEs) to a new joint group with Google Cloud is less of a standard hiring announcement and more of a high-stakes capital signal. When a global consultancy commits that level of specialized human capital, they aren\u2019t just chasing a trend; they are betting that the primary friction in [\u2026]",
+      "pub_date": "2026-09-09T08:38:23Z",
+      "source": "Forkast News",
+      "url": "https://finance.yahoo.com/technology/ai/articles/accenture-dedicates-1-000-engineers-083823295.html"
+    },
     {
       "title": "Why Accenture (ACN) Stock Is Trading Lower Today",
       "summary": "Shares of global professional services company Accenture (NYSE:ACN) fell 4.7% in the afternoon session after an expanded partnership with Google Cloud failed to offset severe macroeconomic pressures weighing on consulting and technology equities. According to Accenture\u2019s press release, the company launched the Accenture Gemini Enterprise Business Group to help enterprise clients scale generative artificial intelligence capabilities using Gemini Enterprise. The joint program is designed to deploy",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-08T13:11:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/cio-journal/ai-infrastructure-will-cost-trillions-more-f16af49a?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Burry\u2019s Palantir Warning Is Back. Accenture Shows What Investors Should Check",
-      "summary": "Michael Burry\u2019s accounting critique of Palantir Technologies Inc. (NASDAQ:PLTR) resurfaced in September 5 coverage, reviving the question of whether its economics resemble a software company or a consultant. His original post dates to February 19. Accenture plc (NYSE:ACN) offers a useful comparison because it earns money helping companies deploy technology, including Palantir\u2019s. A billing balance [\u2026]",
-      "pub_date": "2026-09-07T20:43:32Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/burry-palantir-warning-back-accenture-204332089.html"
-    },
-    {
-      "title": "Can Innodata Make Agentic AI Deployment an Enterprise Growth Driver?",
-      "summary": "Can INOD turn agentic AI deployment into a new enterprise growth driver as customer programs scale and pilots take shape?",
-      "pub_date": "2026-09-07T14:36:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/innodata-agentic-ai-deployment-enterprise-143600031.html"
     }
   ]
 }

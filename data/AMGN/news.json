@@ -1,7 +1,21 @@
 {
   "ticker": "AMGN",
-  "generated_at": "2026-09-09T08:32:18.835276+00:00",
+  "generated_at": "2026-09-09T15:45:36.721895+00:00",
   "items": [
+    {
+      "title": "Stock Market News for Sep 9, 2026",
+      "summary": "Wall Street ended lower as market participants weighed inflation concerns, rising oil prices and interest-rate expectations.",
+      "pub_date": "2026-09-09T11:11:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-sep-9-111100502.html"
+    },
+    {
+      "title": "Amgen, AstraZeneca combination improves survival measures in late-stage lung cancer study",
+      "summary": "Amgen Inc. (NASDAQ:AMGN) and AstraZeneca PLC (LSE:AZN) said a late-stage study of Imdelltra combined with Imfinzi produced improved outcomes in patients with extensive-stage small-cell lung cancer.",
+      "pub_date": "2026-09-09T10:10:23Z",
+      "source": "InvestorsHub",
+      "url": "https://finance.yahoo.com/healthcare/articles/amgen-astrazeneca-combination-improves-survival-101023389.html"
+    },
     {
       "title": "Takeaways From Tuesday\u2019s Markets: Heard on the Street",
       "summary": "Here are four highlights of a rocky day in markets Tuesday.  Canadian tariffs on U.S. goods kicked in.   Oil rose, while stocks fell.   Amgen stock shed 10%   Howmet Aerospace was the worst performer in the S&P.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-08T20:44:36Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-08-2026/card/stocks-to-watch-amgen-nike-bloom-energy-cg2CI9iPuPrPrQKnUDxu?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "How Novartis' Double-Stacked Failures Reverberated Through Biopharma",
-      "summary": "Novartis and Ionis' high-profile Lp(a) flop on Friday reverberated through biotech stocks on Tuesday, leading to a widespread drop.",
-      "pub_date": "2026-09-08T20:26:33Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/novartis-ionis-pharmaceuticals-heart-disease-dm1/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Novartis Stock Tanks Following Third Major Pipeline Setback",
-      "summary": "Following two trial misses and a third clinical setback, analysts fear Novartis may miss its 2030 growth targets without further acquisitions.",
-      "pub_date": "2026-09-08T20:26:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/novartis-stock-price-drug-trial-failures-914e1bd1?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

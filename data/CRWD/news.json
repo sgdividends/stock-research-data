@@ -1,7 +1,28 @@
 {
   "ticker": "CRWD",
-  "generated_at": "2026-09-09T08:32:30.563665+00:00",
+  "generated_at": "2026-09-09T15:45:48.587370+00:00",
   "items": [
+    {
+      "title": "OpenAI, Anthropic are 'gambling with our lives': Fmr. employee warns of AI's threat to humanity",
+      "summary": "A former Anthropic employee stated on X on Tuesday that both Anthropic and OpenAI are \"not acting responsibly\" and are \"gambling with our lives.\" He also noted that many people building AI technology believe it could kill humanity in the next decade. Sherwood News head of markets Luke Kawa and Investopedia editor in chief Caleb Silver discuss the details with Morning Brief host Julie Hyman.",
+      "pub_date": "2026-09-09T15:13:34Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/openai-anthropic-gambling-lives-fmr-151334296.html"
+    },
+    {
+      "title": "Cloudflare Surges 9% on OpenAI Security Partnership, Zscaler Rises 3%",
+      "summary": "A security partnership with OpenAI sent Cloudflare shares surging while cybersecurity giants CrowdStrike and Palo Alto sat out the rally entirely, raising a pointed question about which AI security narrative investors actually believe.",
+      "pub_date": "2026-09-09T15:28:01Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-surges-9-openai-security-152801146.html"
+    },
+    {
+      "title": "Zscaler Stock Lags Industry Returns in Six Months: Time to Exit?",
+      "summary": "ZS' slowing revenue and ARR growth, rising capital spending and weaker cash flow margins cloud its cheap valuation and near-term outlook.",
+      "pub_date": "2026-09-09T13:41:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zscaler-stock-lags-industry-returns-134100972.html"
+    },
     {
       "title": "Jensen Huang's AI Capex Pulse Check",
       "summary": "Nvidia's CEO stunned investors with a bold prediction for AI capex spending, and Marvell's blowout earnings seem to back him up.",
@@ -24,39 +45,18 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-vs-okta-revenue-trends-215226676.html"
     },
     {
+      "title": "These software stocks are in a prime spot to benefit from a rapidly shifting AI landscape",
+      "summary": "Adobe tops a list of software companies ranked by cash generation, while sector heavyweights Microsoft and Oracle are at the bottom.",
+      "pub_date": "2026-09-08T16:04:00Z",
+      "source": "MarketWatch",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/software-stocks-prime-spot-benefit-160400817.html"
+    },
+    {
       "title": "Zscaler's Z-Flex Surges: Can Flexible Deals Boost Customer Adoption?",
       "summary": "ZS' Z-Flex tops $1.7 billion in fiscal 2026 TCV, lifting customer ARR nearly 30% as flexible contracts support broader platform adoption.",
       "pub_date": "2026-09-08T13:11:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/zscalers-z-flex-surges-flexible-131100797.html"
-    },
-    {
-      "title": "Investors Pulled $700 Million From IGV Hours Before Snowflake Reignited Software",
-      "summary": "Investors yanked $700 million from the top software ETF in a single session, and within hours a major earnings report threatened to make that timing look catastrophic. Whether the selloff was a blunder or a bullet dodged depends on a deeper AI disruption debate that has kept the fund negative all year.",
-      "pub_date": "2026-09-07T13:37:45Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-pulled-700-million-igv-133745603.html"
-    },
-    {
-      "title": "Brokers Suggest Investing in CrowdStrike (CRWD): Read This Before Placing a Bet",
-      "summary": "According to the average brokerage recommendation (ABR), one should invest in CrowdStrike (CRWD). It is debatable whether this highly sought-after metric is effective because Wall Street analysts' recommendations tend to be overly optimistic. Would it be worth investing in the stock?",
-      "pub_date": "2026-09-07T13:30:04Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/brokers-suggest-investing-crowdstrike-crwd-133004050.html"
-    },
-    {
-      "title": "Breakfast News: Selling Is an Art. Your Art.",
-      "summary": "Selling is less formula than judgment. Thoughtful investors reach different judgments from identical facts...",
-      "pub_date": "2026-09-07T11:50:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/breakfast-news-selling-art-art-115000372.html"
-    },
-    {
-      "title": "CrowdStrike (CRWD)\u2019s CEO Warns AI Is Exposing Gaps in Legacy Cybersecurity Tools",
-      "summary": "CrowdStrike Holdings, Inc. (NASDAQ:CRWD) CEO George Kurtz said AI is exposing gaps in corporate cybersecurity defenses that older, legacy tools cannot handle, speaking on CNBC\u2019s \u201cMad Money\u201d a day after the company posted record quarterly results that sent shares up more than 20% to a record-high close near $228. He said, \u201cA lot of companies [\u2026]",
-      "pub_date": "2026-09-06T22:10:12Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-ceo-warns-ai-221012462.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "EQIX",
-  "generated_at": "2026-09-09T08:32:36.249210+00:00",
+  "generated_at": "2026-09-09T15:45:55.256200+00:00",
   "items": [
+    {
+      "title": "3 Stocks Built for Higher Rates\u2014And 2 That Could Break",
+      "summary": "As Treasury yields near 4.79% amid rising rates, analysts argue the borrowing-cost-versus-return spread, not the headline rate, best explains winners like ASML and GE Vernova versus laggards like Oracle and Rocket.",
+      "pub_date": "2026-09-08T15:30:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-built-higher-rates-153000026.html"
+    },
     {
       "title": "Equinix Is Doubling Down on AI Data Centers. How to Play EQIX Stock Here",
       "summary": "Equinix is strengthening its AI infrastructure push through an expanded partnership with Nvidia. Could this be the next growth catalyst for EQIX?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-03T16:31:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/articles/equinix-cpp-investments-complete-4-163100999.html"
-    },
-    {
-      "title": "Equinix, NVIDIA & Together AI Accelerate Enterprise AI Inference",
-      "summary": "EQIX teams with NVIDIA and Together AI on Inference Exchange, aiming to speed enterprise AI deployment with flexible, efficient infrastructure.",
-      "pub_date": "2026-09-03T16:30:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/equinix-nvidia-together-ai-accelerate-163000613.html"
     }
   ]
 }
