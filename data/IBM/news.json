@@ -1,7 +1,14 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-09-10T02:37:46.363296+00:00",
+  "generated_at": "2026-09-10T08:35:00.117668+00:00",
   "items": [
+    {
+      "title": "IBM and Lockheed Bet Big on Europe\u2019s Thriving Quantum Scene",
+      "summary": "International Business Machines  and  Lockheed Martin  are strengthening their existing relationship by creating a quantum innovation hub in Switzerland, the partners announced early Thursday.  At the heart of the agreement is the deployment of an IBM Quantum System Two, the latest generation of the company\u2019s flagship quantum computer, which will be accessible to academics, researchers, and enterprises in the country.  The IBM system will be deployed at the Swiss National Supercomputing Center, which is affiliated with ETH Zurich, a prominent public research university.",
+      "pub_date": "2026-09-10T07:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/ibm-lockheed-martin-stocks-quantum-computing-3fead7ad?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Is Accenture's Business Falling As Fast As Its Stock?",
       "summary": "Accenture (ACN) trades at $179.03, about 53% below its two-year high, the price of a business the market thinks is ending. Over the last twelve months, it generated $12.58 billion of free cash flow, a yield of 11.5% on its market value against a 4.4% median for the S&P 500. Both facts are true. The argument between them is about growth.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-09T13:46:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/arista-vs-ibm-cloud-ai-134600028.html"
-    },
-    {
-      "title": "Circle Buys Payments Firm Tazapay For $400 Million",
-      "summary": "Stablecoin issuer Circle Internet Group (NYSE: $CRCL) has agreed to buy Singapore-based cross-border payments compa...",
-      "pub_date": "2026-09-09T13:01:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/circle-buys-payments-firm-tazapay-130100622.html"
     }
   ]
 }

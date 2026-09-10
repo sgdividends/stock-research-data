@@ -1,7 +1,14 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-09-10T02:37:47.280586+00:00",
+  "generated_at": "2026-09-10T08:35:00.959475+00:00",
   "items": [
+    {
+      "title": "Intel stock surges 9% as surprising turnaround takes shape",
+      "summary": "Intel just proved its comeback may be more real than investors thought",
+      "pub_date": "2026-09-10T04:24:23Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stock-surges-9-surprising-042423646.html"
+    },
     {
       "title": "Marvell Or NVIDIA: Which One Costs Less Per Dollar Of Profit?",
       "summary": "If you own Marvell Technology (MRVL) or NVIDIA, you own one idea: the world is building AI data centers as fast as the supply chain allows. NVIDIA sells the whole factory and rents its architecture to everybody. Marvell designs the custom parts hyperscalers use to build alternatives to NVIDIA's chips. Same trend, opposite ends, which is why these two belong side by side.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-09T19:01:47Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/intel-rises-120-target-meets-190147656.html"
-    },
-    {
-      "title": "What Qualcomm Has Stopped Leading With",
-      "summary": "Qualcomm (QCOM) has spent years telling shareholders it is becoming more than a smartphone chip company. What changed is where the new growth is expected to come from. Two years ago the big non-handset targets were automotive and IoT. Today, the newest leg of the story runs through the data center, and management has already put a number on it.",
-      "pub_date": "2026-09-09T17:50:16Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stopped-leading-175016006.html"
     }
   ]
 }

@@ -1,7 +1,21 @@
 {
   "ticker": "AMZN",
-  "generated_at": "2026-09-10T02:37:15.443544+00:00",
+  "generated_at": "2026-09-10T08:34:29.648324+00:00",
   "items": [
+    {
+      "title": "A University\u2019s Distaste for Hedge Funds Created This New ETF. It\u2019s Still Risky.",
+      "summary": "State Street has an ETF that invests 90% of assets in the S&P 500 and 10% in investment-grade corporate bonds. But it\u2019s a concentrated bet on AI.",
+      "pub_date": "2026-09-10T08:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/uc-endowment-stock-bond-etf-939e10df?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Miami Crash Puts Focus on Houston Astros Owner\u2019s Cargo-Jet Business",
+      "summary": "Former employees alleged that 21 Air previously ignored protocol and suppressed safety reports. The company said it has been deploying the right training and procedures.",
+      "pub_date": "2026-09-10T04:08:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/airlines/miami-crash-puts-focus-on-houston-astros-owners-cargo-jet-business-a9e2eb31?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Qualcomm\u2019s $60 billion deal reveals what comes after smartphones",
       "summary": "Qualcomm just found a potential replacement for its fading Apple business",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-09T21:29:22Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/economy/policy/articles/amzn-meta-googl-might-lose-212922700.html"
-    },
-    {
-      "title": "Amazon lends boost to Europe's Ariane at Paris space gathering",
-      "summary": "By Tim Hepher, Joey Roulette and Gianluca Lo Nostro PARIS, Sept 9 (Reuters) - The Amazon Leo satellite network has ordered six additional launches on Europe's Ariane 6 launcher, operator Arianespace",
-      "pub_date": "2026-09-09T21:27:32Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/articles/europes-ariane-wins-amazon-boost-160655928.html"
-    },
-    {
-      "title": "This billionaire is now worth more than Jeff Bezos",
-      "summary": "A tech billionaire just passed Jeff Bezos in Forbes' global wealth rankings, reaching No. 3 for the first time.",
-      "pub_date": "2026-09-09T21:01:35Z",
-      "source": "USA TODAY",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-now-worth-more-jeff-210135939.html"
     }
   ]
 }

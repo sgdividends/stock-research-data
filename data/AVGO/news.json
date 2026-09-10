@@ -1,7 +1,35 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-09-10T02:37:17.220866+00:00",
+  "generated_at": "2026-09-10T08:34:31.515559+00:00",
   "items": [
+    {
+      "title": "A University\u2019s Distaste for Hedge Funds Created This New ETF. It\u2019s Still Risky.",
+      "summary": "State Street has an ETF that invests 90% of assets in the S&P 500 and 10% in investment-grade corporate bonds. But it\u2019s a concentrated bet on AI.",
+      "pub_date": "2026-09-10T08:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/uc-endowment-stock-bond-etf-939e10df?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "OpenAI\u2019s Samsung Pivot: The Reality of Manufacturing Diversification",
+      "summary": "At a press conference in Seoul on September 9, 2026, Harrison Kim, General Manager of OpenAI Korea, offered a clear signal regarding the company\u2019s hardware strategy: \u201cOne of the areas where we have made the most progress and gained the most recognition with Samsung Electronics is our joint production and research on the next-generation chips [\u2026]",
+      "pub_date": "2026-09-10T07:32:16Z",
+      "source": "Forkast News",
+      "url": "https://finance.yahoo.com/technology/ai/articles/openai-samsung-pivot-reality-manufacturing-073216260.html"
+    },
+    {
+      "title": "Marvell Technology Targets $18B as AI Networking and Optics Fuel Growth",
+      "summary": "Marvell Technology (NASDAQ:MRVL) executives outlined the company\u2019s expanding role in AI data-center infrastructure at Citi\u2019s Global TMT Conference, pointing to growth opportunities in networking, optical connectivity, custom silicon and supply-chain-backed capacity expansion. Chairman and CEO Matt",
+      "pub_date": "2026-09-10T06:02:06Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/technology/ai/articles/marvell-technology-targets-18b-ai-060206058.html"
+    },
+    {
+      "title": "Broadcom Is 26% Below Its High. What $10,000 Bought a Decade Ago, and When the Gains Landed.",
+      "summary": "Twenty-two times the money in 10 years -- with nearly nine-tenths of the gain packed into the last four of them.",
+      "pub_date": "2026-09-10T02:54:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-26-below-high-10-025401835.html"
+    },
     {
       "title": "Marvell Or NVIDIA: Which One Costs Less Per Dollar Of Profit?",
       "summary": "If you own Marvell Technology (MRVL) or NVIDIA, you own one idea: the world is building AI data centers as fast as the supply chain allows. NVIDIA sells the whole factory and rents its architecture to everybody. Marvell designs the custom parts hyperscalers use to build alternatives to NVIDIA's chips. Same trend, opposite ends, which is why these two belong side by side.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-09-09T20:43:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/overlooked-chip-stock-poised-outperform-204300185.html"
-    },
-    {
-      "title": "What Investors Need To Understand About Broadcom, Credo and Snowflake Earnings",
-      "summary": "What do massive earnings beats from Broadcom, Credo Technology Group, and Snowflake really tell us about the current state of the AI trade? During a recent episode of The AI Investor Podcast, Eric Bleeker and Austin Smith discussed why stocks like Credo and Broadcom faced brutal pullbacks despite stellar numbers, while Snowflake surged on accelerated cloud and consumption growth. The two also examined forward price-to-earnings multiples, hardware versus software margins, peak earnings anxieties, and why the market is treating today's tech boom differently than past megatrends like the smartphone surge.",
-      "pub_date": "2026-09-09T19:50:11Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/video/investors-understand-broadcom-credo-snowflake-195011802.html"
-    },
-    {
-      "title": "Bank of America Spots a Major Semiconductor. Micron and AMD Are Big Winners",
-      "summary": "Bank of America Flags a Major Shift in Semiconductor Bets. Micron and AMD Gain Ground",
-      "pub_date": "2026-09-09T19:06:24Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-spots-major-semiconductor-190624043.html"
-    },
-    {
-      "title": "Broadcom (AVGO) Faces Google Chip Risks, But Macquarie Sees a $40 Billion Anthropic Opportunity",
-      "summary": "Broadcom Inc. (NASDAQ:AVGO) could be one of the biggest beneficiaries of Anthropic\u2019s accelerating compute requirements. The opportunity comes amid growing concerns that Google\u2019s decision to develop more of its chips internally could threaten Broadcom\u2019s custom silicon business. However, Macquarie analyst Arthur Lai argued on September 3 that many of these concerns may already be priced [\u2026]",
-      "pub_date": "2026-09-09T18:46:06Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-faces-google-chip-184606814.html"
-    },
-    {
-      "title": "What Qualcomm Has Stopped Leading With",
-      "summary": "Qualcomm (QCOM) has spent years telling shareholders it is becoming more than a smartphone chip company. What changed is where the new growth is expected to come from. Two years ago the big non-handset targets were automotive and IoT. Today, the newest leg of the story runs through the data center, and management has already put a number on it.",
-      "pub_date": "2026-09-09T17:50:16Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stopped-leading-175016006.html"
     }
   ]
 }
