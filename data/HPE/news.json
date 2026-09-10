@@ -1,6 +1,6 @@
 {
   "ticker": "HPE",
-  "generated_at": "2026-09-10T18:53:11.785754+00:00",
+  "generated_at": "2026-09-10T22:11:47.474174+00:00",
   "items": [
     {
       "title": "AI Server Stocks Slide as Two-Day Run Unwinds: Hewlett Packard Enterprise Sinks 4%, Dell Pulls Back, Super Micro Sits Out the Selloff",
@@ -15,6 +15,13 @@
       "pub_date": "2026-09-10T14:43:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/hpe-surges-26-3-months-144300471.html"
+    },
+    {
+      "title": "3 High-Momentum AI Hardware Stocks to Buy Now",
+      "summary": "Dell, HPE, and Sandisk show substantial momentum amid the AI infrastructure buildout.",
+      "pub_date": "2026-09-10T13:00:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/technology/ai/articles/3-high-momentum-ai-hardware-130002931.html"
     },
     {
       "title": "HIVE Digital Technologies adds senior VP of revenue as daily revenue tops $1M",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-09T21:28:49Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/hpe-hpe-q3-2026-earnings-212849785.html"
-    },
-    {
-      "title": "Could Hewlett Packard (HPE)\u2019s Oracle Corporation (ORCL) Partnership Turn AI Networking into its Next Growth Engine?",
-      "summary": "Hewlett Packard Enterprise Company (NYSE:HPE) announced an expanded collaboration with Oracle Corporation (NYSE:ORCL) on September 2 to scale Oracle\u2019s global AI infrastructure using HPE Juniper Networking across Oracle Cloud Infrastructure (OCI) data centers. The partnership builds on over a decade of joint engineering, leveraging HPE\u2019s routing and switching platforms to support OCI\u2019s expanding gigawatt-scale GPU [\u2026]",
-      "pub_date": "2026-09-09T21:03:10Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/could-hewlett-packard-hpe-oracle-210310479.html"
     }
   ]
 }

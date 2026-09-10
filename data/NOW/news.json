@@ -1,7 +1,21 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-09-10T18:53:27.595131+00:00",
+  "generated_at": "2026-09-10T22:12:07.260813+00:00",
   "items": [
+    {
+      "title": "Dow Jones Futures: S&P 500 Breaks Support As Oil Prices, Yields Surge; Oracle Jumps Late With CPI Inflation Due",
+      "summary": "The S&P 500 undercut its 50-day as Treasury yields and oil prices surged. Oracle jumped late on earnings. The CPI inflation report could lock in expectations for a Fed rate hike next week.",
+      "pub_date": "2026-09-10T22:05:16Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-oil-prices-treasury-yields-cpi-inflation-oracle-earnings/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Salesforce Just Gained 23% in a Month: Take Profits, or Buy More?",
+      "summary": "Salesforce just posted a blowout quarter and rocketed while the rest of enterprise software slid, but a closer look at what actually drove the earnings beat raises questions every CRM shareholder needs to answer before Dreamforce next week.",
+      "pub_date": "2026-09-10T19:01:15Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-just-gained-23-month-190115206.html"
+    },
     {
       "title": "Prediction: ServiceNow Will be Worth This in 2028",
       "summary": "ServiceNow just crossed a billion dollars in AI revenue while its stock sits near multiyear lows, and the gap between those two realities points toward a very specific number for 2028.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-09T05:27:01Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-nvidia-lead-schwab-buys-052701125.html"
-    },
-    {
-      "title": "S&P 500 falls as AI worries hit software makers",
-      "summary": "By Noel Randewich and Niket Nishant Sept 8 (Reuters) - The S&P 500 ended lower on Tuesday, with Salesforce and other software makers losing ground, while hostilities in the Middle East lifted oil",
-      "pub_date": "2026-09-08T20:17:55Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/articles/wall-st-futures-slip-oil-091327897.html"
-    },
-    {
-      "title": "ServiceNow Jumps 25% in 3 Months: Buy, Sell or Hold the Stock?",
-      "summary": "NOW's AI growth, strong subscription gains and broader demand are offset by stiff competition, margin pressure and a premium valuation.",
-      "pub_date": "2026-09-08T18:37:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-jumps-25-3-months-183700784.html"
     }
   ]
 }

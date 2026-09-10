@@ -1,7 +1,14 @@
 {
   "ticker": "BX",
-  "generated_at": "2026-09-10T18:52:47.647783+00:00",
+  "generated_at": "2026-09-10T22:11:18.768658+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Retreat Late Afternoon",
+      "summary": "Financial stocks declined in late Thursday afternoon trading, with the NYSE Financial Index decreasi",
+      "pub_date": "2026-09-10T20:03:25Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-retreat-afternoon-200325851.html"
+    },
     {
       "title": "Sector Update: Financial Stocks Lower in Afternoon Trading",
       "summary": "Financial stocks declined in Thursday afternoon trading, with the NYSE Financial Index decreasing 0.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-08T22:55:18Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/reflecting-asset-management-stocks-q2-225518138.html"
-    },
-    {
-      "title": "Nvidia-Backed Firmus Passes 900 Megawatts With OpenAI Deal",
-      "summary": "Firmus runs two data centres and has five more under development",
-      "pub_date": "2026-09-08T12:26:35Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-firmus-passes-900-122635680.html"
     }
   ]
 }

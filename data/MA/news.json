@@ -1,7 +1,21 @@
 {
   "ticker": "MA",
-  "generated_at": "2026-09-10T18:53:21.374816+00:00",
+  "generated_at": "2026-09-10T22:11:59.089689+00:00",
   "items": [
+    {
+      "title": "The Merchant Onboarding Gap: When Three Identity Standards Compete, the Merchant Pays the Integration Cost",
+      "summary": "Ant International, Visa, and Mastercard introduced the agentic commerce framework with a specific pitch: register an agent once, and it can transact everywhere. The idea was a single agent identity layer that would let autonomous software operate across merchants without repeated verification. The framework\u2019s merchant-side story has a hole in it. The framework addresses who [\u2026]",
+      "pub_date": "2026-09-10T20:18:32Z",
+      "source": "Forkast News",
+      "url": "https://finance.yahoo.com/technology/ai/articles/merchant-onboarding-gap-three-identity-201832965.html"
+    },
+    {
+      "title": "Is Visa Stock Expensive, Or Just Waiting On Its Margin?",
+      "summary": "Visa (V) trades at about $367 a share. On the last twelve months of adjusted earnings, meaning normalized net income with stock-based compensation added back, that is about 28.6 times earnings. Nobody buys a payments network expecting a bargain. The question is whether the trailing multiple tells you what you are actually paying.",
+      "pub_date": "2026-09-10T20:10:58Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/visa-stock-expensive-just-waiting-201058719.html"
+    },
     {
       "title": "Mastercard's AI Checkout Pact Targets the Internet's Next Fraud Problem",
       "summary": "Autonomous purchasing needs shared identity standards before payment networks can safely scale it across merchants.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-10T13:00:02Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-mastercard-incorporated-130002439.html"
-    },
-    {
-      "title": "Ant International, Visa, and Mastercard Agree on Agent Identity Standard. Now Comes the Hard Part.",
-      "summary": "Autonomous commerce currently hits a wall at the identity layer. The fragmentation of protocols prevents AI agents from moving beyond experimental pilots into reliable financial execution. On September 10, 2026, Ant International, Visa, and Mastercard announced a Know Your Agent (KYA) interoperability framework in S\u00e3o Paulo to address this friction. The initiative targets cross-network operator [\u2026]",
-      "pub_date": "2026-09-10T11:34:52Z",
-      "source": "Forkast News",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ant-international-visa-mastercard-agree-113452904.html"
-    },
-    {
-      "title": "Ant, Mastercard and Visa collaborate on KYA to scale agentic commerce",
-      "summary": "The proposed framework would set shared principles for agent onboarding and identification across participating networks.",
-      "pub_date": "2026-09-10T11:02:37Z",
-      "source": "Electronic Payments",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ant-mastercard-visa-collaborate-kya-110237477.html"
     }
   ]
 }

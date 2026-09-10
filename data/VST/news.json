@@ -1,7 +1,14 @@
 {
   "ticker": "VST",
-  "generated_at": "2026-09-10T18:53:47.588484+00:00",
+  "generated_at": "2026-09-10T22:12:32.507300+00:00",
   "items": [
+    {
+      "title": "Sector Update: Energy Stocks Decline Late Afternoon",
+      "summary": "Energy stocks were lower late Thursday afternoon, with the NYSE Energy Sector Index easing 0.2% and",
+      "pub_date": "2026-09-10T19:58:29Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-afternoon-195829985.html"
+    },
     {
       "title": "Sector Update: Energy Stocks Mixed Thursday Afternoon",
       "summary": "Energy stocks were mixed Thursday afternoon, with the NYSE Energy Sector Index fractionally higher a",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-09T11:26:10Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-edged-lower-throughout-2026-112610310.html"
-    },
-    {
-      "title": "Vistra Is Down 30% From Its High. Here's What I'd Do Now.",
-      "summary": "The retail electricity giant is still a sound long-term investment.",
-      "pub_date": "2026-09-08T18:50:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-down-30-high-heres-185000436.html"
     }
   ]
 }

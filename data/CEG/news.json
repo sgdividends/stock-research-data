@@ -1,7 +1,14 @@
 {
   "ticker": "CEG",
-  "generated_at": "2026-09-10T18:52:49.819956+00:00",
+  "generated_at": "2026-09-10T22:11:21.477211+00:00",
   "items": [
+    {
+      "title": "Sector Update: Energy Stocks Decline Late Afternoon",
+      "summary": "Energy stocks were lower late Thursday afternoon, with the NYSE Energy Sector Index easing 0.2% and",
+      "pub_date": "2026-09-10T19:58:29Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-afternoon-195829985.html"
+    },
     {
       "title": "VST Stock Outperforms Industry in the Past 3 Months: Time to Buy?",
       "summary": "Vistra's hedging, long-term PPAs, diversified generation fleet and improving earnings outlook support growth, though high debt may warrant a better entry point.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-07T14:22:05Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/xlu-ai-power-story-crumbles-142205667.html"
-    },
-    {
-      "title": "Nuclear Stock Face-Off: Is Constellation Energy or Vistra the Better Buy Right Now?",
-      "summary": "Constellation Energy has the bigger nuclear platform, but Vistra's valuation and growth catalysts keep the race close.",
-      "pub_date": "2026-09-07T02:22:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stock-face-off-constellation-022200012.html"
     }
   ]
 }
