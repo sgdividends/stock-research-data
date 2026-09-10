@@ -1,7 +1,14 @@
 {
   "ticker": "BX",
-  "generated_at": "2026-09-10T15:40:43.463802+00:00",
+  "generated_at": "2026-09-10T18:52:47.647783+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Lower in Afternoon Trading",
+      "summary": "Financial stocks declined in Thursday afternoon trading, with the NYSE Financial Index decreasing 0.",
+      "pub_date": "2026-09-10T17:54:00Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-lower-afternoon-175400311.html"
+    },
     {
       "title": "Why Is KNTK Stock Up 5% After-Hours?",
       "summary": "People familiar with the matter told Bloomberg that Kinetik is in the early stages of exploring alternatives and is working with advisers to prepare a potential sale process.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-08T12:26:35Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-backed-firmus-passes-900-122635680.html"
-    },
-    {
-      "title": "IFS vs. BX: Which Stock Is the Better Value Option?",
-      "summary": "IFS vs. BX: Which Stock Is the Better Value Option?",
-      "pub_date": "2026-09-07T15:40:02Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ifs-vs-bx-stock-better-154002266.html"
     }
   ]
 }

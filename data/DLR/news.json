@@ -1,7 +1,14 @@
 {
   "ticker": "DLR",
-  "generated_at": "2026-09-10T15:40:52.784236+00:00",
+  "generated_at": "2026-09-10T18:52:58.201453+00:00",
   "items": [
+    {
+      "title": "SL Green to Sell 110 Greene Street in SoHo for $226 million",
+      "summary": "SLG is set to sell 110 Greene Street for $226 million, with net proceeds earmarked to repay unsecured corporate debt.",
+      "pub_date": "2026-09-10T17:44:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/real-estate/articles/sl-green-sell-110-greene-174400535.html"
+    },
     {
       "title": "How Is Digital Realty Trust's Stock Performance Compared to Other Real Estate Stocks",
       "summary": "Digital Realty Trust has outperformed other real estate stocks, and analysts remain highly optimistic about the stock\u2019s outlook.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T10:15:20Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/digital-realty-trust-dlr-stock-101520822.html"
-    },
-    {
-      "title": "Equinix & CPP Investments Complete $4 Billion atNorth Acquisition",
-      "summary": "EQIX and CPP Investments complete a $4B atNorth deal, expanding Nordic data center exposure for AI, cloud and high-performance computing.",
-      "pub_date": "2026-09-03T16:31:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/articles/equinix-cpp-investments-complete-4-163100999.html"
     }
   ]
 }

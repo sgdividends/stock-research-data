@@ -1,7 +1,14 @@
 {
   "ticker": "ANET",
-  "generated_at": "2026-09-10T15:40:37.515056+00:00",
+  "generated_at": "2026-09-10T18:52:42.242532+00:00",
   "items": [
+    {
+      "title": "3 Stocks Powering the AI Boom That Are Not Named Nvidia",
+      "summary": "Every investor knows Nvidia won the chip race, but the physical layers that actually keep AI data centers alive belong to a different set of companies, and three of them are quietly outpacing the trade everyone is already crowded into.",
+      "pub_date": "2026-09-10T17:02:19Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-powering-ai-boom-170219071.html"
+    },
     {
       "title": "How Far Can Arista Networks Stock Move On You In A Year?",
       "summary": "Arista Networks (ANET) trades near $195, and its option chain prices a range for the coming twelve months running from a floor near $112.90 to a ceiling of $336.68. That spread is wide enough to change what a sensible position looks like. The options market is pricing this move at almost exactly what the stock has already delivered, 0.98 times realized volatility, hardly the calmer outcome the wide band might suggest.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-09T13:46:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/arista-vs-ibm-cloud-ai-134600028.html"
-    },
-    {
-      "title": "Dow Jones Futures Fall As Oil Prices Push Stocks Toward Breaking Point; Apple iPhone Event Due",
-      "summary": "Stocks fell Tuesday as oil prices and Treasury yields rose, but AMD and HPE led AI plays flashing buy signals. An Apple iPhone event is on tap.",
-      "pub_date": "2026-09-09T12:13:35Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/?src=A00220&yptr=yahoo"
     }
   ]
 }

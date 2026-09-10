@@ -1,7 +1,35 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-09-10T15:40:48.264141+00:00",
+  "generated_at": "2026-09-10T18:52:53.231186+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Lower in Afternoon Trading",
+      "summary": "Financial stocks declined in Thursday afternoon trading, with the NYSE Financial Index decreasing 0.",
+      "pub_date": "2026-09-10T17:54:00Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-lower-afternoon-175400311.html"
+    },
+    {
+      "title": "Hyperliquid Just Became the Fifth-Largest Holding in Hashdex\u2019s Crypto ETF. Multicoin Is Selling Into It",
+      "summary": "A regulated ETF just added HYPE to its holdings while one of the token's biggest institutional backers quietly unloaded nearly three quarters of its position. Understanding why each side moved in a different direction reveals something important about where the token may be headed.",
+      "pub_date": "2026-09-10T16:54:12Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/hyperliquid-just-became-fifth-largest-165412986.html"
+    },
+    {
+      "title": "Coinbase, Moov Bring Stablecoin Payments to Over 1,000 US Community Banks",
+      "summary": "Major crypto exchange Coinbase (NASDAQ: $COIN) is partnering with payments infrastructure provider Moov to bring st...",
+      "pub_date": "2026-09-10T15:51:00Z",
+      "source": "CryptoProwl",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-moov-bring-stablecoin-payments-155100196.html"
+    },
+    {
+      "title": "XYZ Stock Upgraded To \u2018Buy,\u2019 Cantor Raises Targets On Crypto Plays, Sees Bear-Market Bottom",
+      "summary": "StoneX analyst Mark Palmer upgraded Block to \u2018Buy\u2019 from \u2018Hold\u2019 and set a $105 price target, citing progress from the company\u2019s AI-focused reorganization.",
+      "pub_date": "2026-09-10T15:38:11Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/xyz-stock-upgraded-buy-cantor-153811381.html"
+    },
     {
       "title": "Coinbase CEO Says Bitcoin Could Hit $400,000 by 2030 \u2014 Here\u2019s Why",
       "summary": "Coinbase CEO Brian Armstrong says Bitcoin could hit $400,000 by 2030. Here are the key catalysts he believes could drive BTC\u2019s next major rally.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-09-10T13:52:16Z",
       "source": "The Fly",
       "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-upgraded-okta-downgraded-134312557.html"
-    },
-    {
-      "title": "Morgan Stanley cautious on Coinbase, but target implies over 40% upside",
-      "summary": "Investing.com -- Morgan Stanley initiated coverage of Coinbase at Equal Weight with a $250 price target in a note Thursday, saying the crypto platform has broadened well beyond its exchange roots but remains tied to the volatile crypto cycle.",
-      "pub_date": "2026-09-10T13:27:35Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-cautious-coinbase-target-132735533.html"
-    },
-    {
-      "title": "Bitcoin at $400K by 2030 Still 'Reasonable Target': Coinbase CEO",
-      "summary": "Brian Armstrong argues the bottom is in, a year into the downturn, with the next halving roughly 18 months out.",
-      "pub_date": "2026-09-10T13:04:27Z",
-      "source": "decrypt",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-400k-2030-still-reasonable-130427305.html"
-    },
-    {
-      "title": "Coinbase and Moov partner to bring stablecoins to community banks",
-      "summary": "The deal gives more than 1,000 community banks and credit unions access to stablecoin payment acceptance, settlement, and real-time funding",
-      "pub_date": "2026-09-10T12:48:38Z",
-      "source": "Quartz",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-moov-partner-bring-stablecoins-124838544.html"
-    },
-    {
-      "title": "Coinbase CEO: Senate Test Could Define Two Paths for US Crypto Rules",
-      "summary": "Coinbase CEO Brian Armstrong said U.S. crypto markets will get greater regulatory clarity regardless of how the Senate\u2019s scheduled Sept. 15 vote on the CLARITY Act turns out. The bill needs 60 votes to advance, and ethics provisions remain among the issues still under negotiation as the vote approaches. This ...",
-      "pub_date": "2026-09-10T12:04:52Z",
-      "source": "Coinspeaker",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-senate-test-could-120452434.html"
     }
   ]
 }

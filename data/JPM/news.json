@@ -1,10 +1,17 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-09-10T15:41:11.526746+00:00",
+  "generated_at": "2026-09-10T18:53:16.784273+00:00",
   "items": [
     {
+      "title": "JPMorgan revisits silver price target ahead of 2027",
+      "summary": "The bank\u2019s revised forecast says something uncomfortable about today\u2019s price.",
+      "pub_date": "2026-09-10T18:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/jpmorgan-revisits-silver-price-target-180300736.html"
+    },
+    {
       "title": "\u2018I Am the House Now,\u2019 Bessent Warns \u2014 But Bond Traders Keep Raising Yields Anyway",
-      "summary": "Treasury Secretary Scott Bessent walked to the microphones this month with a line lifted from a poker table: \u201cI am the house now.\u201d The message to bond traders was blunt. Washington and Tokyo would jointly defend the yen, the Treasury would step up buybacks of longer-dated debt, and anyone shorting the long end of the [\u2026]",
+      "summary": "Scott Bessent declared himself the house and promised bond traders they were playing a losing hand against Washington. The bond market has been calling that bluff ever since, and the pressure is now spreading from Wall Street trading desks to homebuyers at the closing table.",
       "pub_date": "2026-09-10T15:09:14Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/am-house-now-bessent-warns-150914527.html"
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-10T11:00:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/banking/wall-streets-favorite-ai-startup-sets-its-sights-on-wealth-management-61b8b5d1?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "The Zacks Analyst Blog Highlights  JPMorgan Chase, EOG Resources and Bloom Energy",
-      "summary": "JPMorgan Chase, EOG Resources and Bloom Energy offer distinct ways to navigate rate, oil-price and AI power trends ahead of the Fed decision.",
-      "pub_date": "2026-09-10T07:58:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-jpmorgan-075800004.html"
     }
   ]
 }
