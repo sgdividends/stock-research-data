@@ -1,7 +1,14 @@
 {
   "ticker": "CIEN",
-  "generated_at": "2026-09-09T22:09:39.721121+00:00",
+  "generated_at": "2026-09-10T02:37:24.030937+00:00",
   "items": [
+    {
+      "title": "How Far Can Arista Networks Stock Move On You In A Year?",
+      "summary": "Arista Networks (ANET) trades near $195, and its option chain prices a range for the coming twelve months running from a floor near $112.90 to a ceiling of $336.68. That spread is wide enough to change what a sensible position looks like. The options market is pricing this move at almost exactly what the stock has already delivered, 0.98 times realized volatility, hardly the calmer outcome the wide band might suggest.",
+      "pub_date": "2026-09-10T00:57:38Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/far-arista-networks-stock-move-005738192.html"
+    },
     {
       "title": "Ciena (CIEN) Q3 2026 Earnings Call Transcript",
       "summary": "AI-driven network demand propels record revenue and backlog growth.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-08T14:20:00Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-optical-networking-stocks-142000824.html"
-    },
-    {
-      "title": "Zacks Investment Ideas feature highlights: Ciena and NetApp",
-      "summary": "Ciena and NetApp crushed earnings estimates and raised guidance as AI infrastructure demand drives strong growth in networking and storage.",
-      "pub_date": "2026-09-08T13:35:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/articles/zacks-investment-ideas-feature-highlights-133500908.html"
     }
   ]
 }

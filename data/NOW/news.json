@@ -1,7 +1,14 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-09-09T22:10:15.719508+00:00",
+  "generated_at": "2026-09-10T02:38:00.017163+00:00",
   "items": [
+    {
+      "title": "Dips In UiPath Stock Have Mostly Kept Falling, Will This One Too?",
+      "summary": "UiPath (PATH) has dropped about 25% from its late-August high, and the question is whether that is an opening or a warning. Its own history leans toward warning: most declines this size kept falling. What that history cannot see is a company that is profitable now, consolidating its biggest customers' automation onto one platform while its smallest ones leave.",
+      "pub_date": "2026-09-10T01:43:08Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dips-uipath-stock-mostly-kept-014308637.html"
+    },
     {
       "title": "What CRM Shareholders Got Paid While The Stock Stood Still",
       "summary": "The company sent owners a fortune in cash, yet the stock went backward. Here is the accounting on what that trade-off actually bought, and what it means now.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-08T15:29:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/uipath-slides-24-q2-earnings-152900821.html"
-    },
-    {
-      "title": "ServiceNow Leads Five Stocks To Watch Near Buy Points",
-      "summary": "Meanwhile, several stocks showed bullish signs, including software giant ServiceNow.  Digital bank Dave Inc., commodities trading platform Marex Group, senior living REIT Welltower and cancer treatment developer Exelixis round out the list of stocks to watch in or near buy zones.  ServiceNow is in a buy zone after breaking out of a cup base with a buy point of 139.20 on Aug. 28, reclaiming the entry on Sept. 2.",
-      "pub_date": "2026-09-05T12:00:14Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/servicenow-stocks-to-watch-buy-points/?src=A00220&yptr=yahoo"
     }
   ]
 }

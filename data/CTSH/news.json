@@ -1,7 +1,14 @@
 {
   "ticker": "CTSH",
-  "generated_at": "2026-09-09T22:09:45.509044+00:00",
+  "generated_at": "2026-09-10T02:37:29.016406+00:00",
   "items": [
+    {
+      "title": "Is Accenture's Business Falling As Fast As Its Stock?",
+      "summary": "Accenture (ACN) trades at $179.03, about 53% below its two-year high, the price of a business the market thinks is ending. Over the last twelve months, it generated $12.58 billion of free cash flow, a yield of 11.5% on its market value against a 4.4% median for the S&P 500. Both facts are true. The argument between them is about growth.",
+      "pub_date": "2026-09-09T23:19:35Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/accentures-business-falling-fast-stock-231935298.html"
+    },
     {
       "title": "Why Is Amdocs (DOX) Up 7% Since Last Earnings Report?",
       "summary": "Amdocs (DOX) reported earnings 30 days ago. What's next for the stock? We take a look at earnings estimates for some clues.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-28T15:30:21Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-cognizant-ctsh-18-3-153021845.html"
-    },
-    {
-      "title": "Is Cognizant (CTSH) Quietly Redefining Its Automation Edge With Kyowa Kirin\u2019s AI R&D Deal?",
-      "summary": "Cognizant Technology Solutions recently announced it will support Kyowa Kirin in implementing Benchling, an AI-driven R&D platform, at the Tokyo and Fuji Research Parks in Japan, integrating experiment planning, execution, data capture, and AI tools in a single environment. The engagement highlights Cognizant\u2019s role in life sciences digitalization by providing end-to-end AI and automation support, from platform setup and data migration to ongoing maintenance and workflow optimization for...",
-      "pub_date": "2026-08-26T20:20:30Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cognizant-ctsh-quietly-redefining-automation-202030684.html"
     }
   ]
 }

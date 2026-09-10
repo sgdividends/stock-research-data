@@ -1,7 +1,14 @@
 {
   "ticker": "SPGI",
-  "generated_at": "2026-09-09T22:10:26.827929+00:00",
+  "generated_at": "2026-09-10T02:38:11.170430+00:00",
   "items": [
+    {
+      "title": "Is Accenture's Business Falling As Fast As Its Stock?",
+      "summary": "Accenture (ACN) trades at $179.03, about 53% below its two-year high, the price of a business the market thinks is ending. Over the last twelve months, it generated $12.58 billion of free cash flow, a yield of 11.5% on its market value against a 4.4% median for the S&P 500. Both facts are true. The argument between them is about growth.",
+      "pub_date": "2026-09-09T23:19:35Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/accentures-business-falling-fast-stock-231935298.html"
+    },
     {
       "title": "S&P Dow Jones Indices CEO on Index Restructuring",
       "summary": "Catherine Clay, CEO of S&P Dow Jones Indices, discusses the upcoming S&P reconstitution and rebalance, noting that the process is fully transparent and routine. She says market participants already know which names are entering and leaving the index, including Bloom Energy, Illumina and Everpure joining the S&P this month, and have ample time to adjust portfolios accordingly. She speaks with Romaine Bostick & Tyler Kendall on \"The Close.\"",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-08T18:46:39Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/market-marked-amzn-stock-down-184639226.html"
-    },
-    {
-      "title": "How Far Could RKLB Stock Fall In The Next Shock?",
-      "summary": "Rocket Lab (RKLB) trades near $64, about 57% below the high it set inside the last year, though it is still up 49.5% over twelve months against 19.7% for the S&P 500. The business did not break along the way. What changed is the wait: how long before Neutron flies, and how much cash goes out first.",
-      "pub_date": "2026-09-08T16:43:25Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/far-could-rklb-stock-fall-164325183.html"
     }
   ]
 }

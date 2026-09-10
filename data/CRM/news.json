@@ -1,7 +1,14 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-09-09T22:09:44.403299+00:00",
+  "generated_at": "2026-09-10T02:37:27.962482+00:00",
   "items": [
+    {
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "pub_date": "2026-09-10T00:00:37Z",
+      "source": "TechCrunch",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-research-startup-listen-labs-000037024.html"
+    },
     {
       "title": "Is Salesforce (CRM)\u2019s Agentforce Growth Enough to Outpace F5 (FFIV)\u2019s AI Security Momentum?",
       "summary": "On September 2, F5, Inc. (NASDAQ:FFIV) announced a key integration with MuleSoft, a Salesforce, Inc. (NYSE:CRM) company, federating F5 AI Guardrails directly into MuleSoft\u2019s Agent Fabric Omni Gateway. As enterprises rapidly scale agentic AI capabilities, security teams face growing governance gaps and risks from prompt injection, data leakage, and toxic outputs. This native integration gives [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-09T14:27:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/agentforce-arr-hits-1-5b-142700697.html"
-    },
-    {
-      "title": "Salesforce is Nearly Fully Priced: Why Bulls Say This is Just the Beginning",
-      "summary": "Salesforce bulls are pointing to an AI monetization curve that is bending sharply upward, but the bears have real ammunition too, and with Dreamforce and Investor Day arriving next week, the stock sits at a crossroads where the next few weeks could settle the argument for years.",
-      "pub_date": "2026-09-09T12:28:39Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-nearly-fully-priced-why-122839852.html"
     }
   ]
 }

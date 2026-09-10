@@ -1,13 +1,20 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-09-09T22:09:29.636608+00:00",
+  "generated_at": "2026-09-10T02:37:14.824838+00:00",
   "items": [
     {
-      "title": "Dow Jones Futures: Oil Prices, Yields Hit Stocks, Apple Unfolds iPhone. Inflation Data Due.",
+      "title": "Dow Jones Futures Rise After Oil Prices, Yields Hit Stocks; Inflation Data Due.",
       "summary": "Oil prices and Treasury yields weighed on the indexes, But Meta, AMD were winners. Apple unveiled its foldable iPhone. Inflation data looms.",
-      "pub_date": "2026-09-09T21:54:44Z",
+      "pub_date": "2026-09-10T02:13:08Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-yields-meta-spacex-apple-iphone-inflation-data/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Marvell Or NVIDIA: Which One Costs Less Per Dollar Of Profit?",
+      "summary": "If you own Marvell Technology (MRVL) or NVIDIA, you own one idea: the world is building AI data centers as fast as the supply chain allows. NVIDIA sells the whole factory and rents its architecture to everybody. Marvell designs the custom parts hyperscalers use to build alternatives to NVIDIA's chips. Same trend, opposite ends, which is why these two belong side by side.",
+      "pub_date": "2026-09-09T23:02:12Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-nvidia-one-costs-less-230212940.html"
     },
     {
       "title": "Advanced Micro Devices (AMD) Ascends While Market Falls: Some Facts to Note",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-09T19:06:24Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-spots-major-semiconductor-190624043.html"
-    },
-    {
-      "title": "AMD Jumps 3.5% as Its $2 Trillion-Plus AI Promise Raises the Stakes",
-      "summary": "The opportunity dwarfs AMD's current business, leaving execution and supply--not market size--as the decisive tests.",
-      "pub_date": "2026-09-09T18:24:33Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amd-jumps-3-5-2-182433703.html"
     }
   ]
 }
