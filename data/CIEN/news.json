@@ -1,7 +1,14 @@
 {
   "ticker": "CIEN",
-  "generated_at": "2026-09-10T08:34:39.835253+00:00",
+  "generated_at": "2026-09-10T15:40:46.603061+00:00",
   "items": [
+    {
+      "title": "Can Ciena Convert Its $8.5B Backlog Despite Supply Constraints?",
+      "summary": "CIEN's $8.5B backlog is set to top $10B by fiscal 2026-end, but supply constraints will dictate how fast orders convert into revenue.",
+      "pub_date": "2026-09-10T15:22:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ciena-convert-8-5b-backlog-152200638.html"
+    },
     {
       "title": "How Far Can Arista Networks Stock Move On You In A Year?",
       "summary": "Arista Networks (ANET) trades near $195, and its option chain prices a range for the coming twelve months running from a floor near $112.90 to a ceiling of $336.68. That spread is wide enough to change what a sensible position looks like. The options market is pricing this move at almost exactly what the stock has already delivered, 0.98 times realized volatility, hardly the calmer outcome the wide band might suggest.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-08T15:27:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ciena-stock-down-14-past-152700150.html"
-    },
-    {
-      "title": "3 AI Optical Networking Stocks Positioned for the Data Center Buildout",
-      "summary": "Ciena beat Q3 earnings estimates with record margins, yet shares fell on margin concerns, prompting a look at rivals Lumentum and Coherent for AI optical networking exposure.",
-      "pub_date": "2026-09-08T14:20:00Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-optical-networking-stocks-142000824.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "DOW",
-  "generated_at": "2026-09-10T08:34:46.687009+00:00",
+  "generated_at": "2026-09-10T15:40:53.315468+00:00",
   "items": [
+    {
+      "title": "Dow Stock: Is DOW Outperforming the Materials Sector?",
+      "summary": "While Dow notably outpaced the broader materials sector over the past year, analysts are fairly bullish on its outlook.",
+      "pub_date": "2026-09-10T09:31:28Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-stock-dow-outperforming-materials-093128357.html"
+    },
     {
       "title": "Top Midday Stories: Meta Launches Muse Personal AI Agent; Dow Said to Consider Exiting $20 Billion Chemicals JV With Saudi Aramco",
       "summary": "All three major US stock indexes were down in late-morning trading Wednesday, as oil prices climbed,",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-01T05:04:35Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dow-dow-stock-looks-reasonable-050435350.html"
-    },
-    {
-      "title": "Dow, S&P 500 and Nasdaq Fall as Middle East Conflict Lifts Oil Prices",
-      "summary": "Dow Drops as Iran Conflict Sends Oil Surging Above $90",
-      "pub_date": "2026-08-31T17:56:51Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/economy/articles/dow-p-500-nasdaq-fall-175651937.html"
     }
   ]
 }

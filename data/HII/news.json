@@ -1,7 +1,14 @@
 {
   "ticker": "HII",
-  "generated_at": "2026-09-10T08:34:58.020193+00:00",
+  "generated_at": "2026-09-10T15:41:05.795811+00:00",
   "items": [
+    {
+      "title": "1 of Wall Street\u2019s Favorite Stocks with Promising Prospects and 2 Facing Challenges",
+      "summary": "Wall Street has set ambitious price targets for the stocks in this article. While this suggests attractive upside potential, it\u2019s important to remain skeptical because analysts face institutional pressures that can sometimes lead to overly optimistic forecasts.",
+      "pub_date": "2026-09-10T12:41:04Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-wall-street-favorite-stocks-124104505.html"
+    },
     {
       "title": "1 S&P 500 Stock with Exciting Potential and 2 We Ignore",
       "summary": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials, or structural headwinds.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-20T23:13:23Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/huntington-ingalls-industries-hii-landed-231323121.html"
-    },
-    {
-      "title": "Mercury Systems, BWX, Kratos, Parsons, and Huntington Ingalls Shares Plummet, What You Need To Know",
-      "summary": "A number of stocks fell in the afternoon session after the White House pivoted its Iran strategy toward financial sanctions, signaling a de-escalation of military options. President Donald Trump announced the U.S. will launch \"Economic Warfare and Isolation on an unprecedented scale\" against Iran, CNBC reported.",
-      "pub_date": "2026-08-20T22:11:15Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mercury-systems-bwx-kratos-parsons-221115869.html"
     }
   ]
 }

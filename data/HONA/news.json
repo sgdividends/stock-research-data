@@ -1,7 +1,14 @@
 {
   "ticker": "HONA",
-  "generated_at": "2026-09-10T08:34:58.403347+00:00",
+  "generated_at": "2026-09-10T15:41:06.169609+00:00",
   "items": [
+    {
+      "title": "Nike memo reassures executives it remains in S&P 500",
+      "summary": "Nike's investor relations team circulated talking points after the company's removal from the S&P 100 prompted confusion among staff",
+      "pub_date": "2026-09-10T12:12:59Z",
+      "source": "Quartz",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nike-memo-reassures-executives-remains-121259213.html"
+    },
     {
       "title": "Executive at Newly Spun-Off Aerospace Company Buys 6,400 Shares",
       "summary": "Arnold paid $156 per share, above recent market levels, signaling confidence in the aerospace segment's trajectory.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T15:30:14Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/honeywell-aerospace-hona-down-1-153014653.html"
-    },
-    {
-      "title": "OpenAI\u2019s Astra Model Can Hack With Minimal Human Help",
-      "summary": "Honeywell Aerospace settles cyber whistleblower case; CrowdStrike helps law enforcement take down botnet.",
-      "pub_date": "2026-09-02T11:32:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/pro/cybersecurity/openais-astra-model-can-hack-with-minimal-human-help-e5285d5c?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

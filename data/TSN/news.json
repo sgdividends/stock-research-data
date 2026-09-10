@@ -1,7 +1,14 @@
 {
   "ticker": "TSN",
-  "generated_at": "2026-09-10T08:35:28.716267+00:00",
+  "generated_at": "2026-09-10T15:41:39.060349+00:00",
   "items": [
+    {
+      "title": "Bear of the Day: Tyson Foods (TSN)",
+      "summary": "This meat giant's margins are getting sliced thin.",
+      "pub_date": "2026-09-10T10:30:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bear-day-tyson-foods-tsn-103000659.html"
+    },
     {
       "title": "Phillips 66 and Tyson Foods have been highlighted as Zacks Bull and Bear of the Day",
       "summary": "Phillips 66's strong quarter, soaring estimates, buyback and debt plans fuel the bull case, while Tyson faces mounting pressure on beef margins.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T10:31:23Z",
       "source": "Just Food",
       "url": "https://finance.yahoo.com/markets/stocks/articles/tyson-issues-another-profit-warning-103123965.html"
-    },
-    {
-      "title": "Severe US Cattle Shortage Eats Into Meatpacker Tyson\u2019s Earnings",
-      "summary": "The 28.5 million beef cows as of July 1 marked the lowest headcount since tracking began in 1971 and represented a 1% year-over-year decline.",
-      "pub_date": "2026-09-04T04:01:00Z",
-      "source": "The Daily Upside",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/severe-us-cattle-shortage-eats-040100792.html"
     }
   ]
 }

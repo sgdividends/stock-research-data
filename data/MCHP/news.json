@@ -1,13 +1,27 @@
 {
   "ticker": "MCHP",
-  "generated_at": "2026-09-10T08:35:08.796925+00:00",
+  "generated_at": "2026-09-10T15:41:16.456124+00:00",
   "items": [
+    {
+      "title": "Can Monolithic Power's GFS Production Deal Drive Future Growth?",
+      "summary": "MPWR expands manufacturing with GlobalFoundries, adding capacity for power solutions across AI, automotive and data centers.",
+      "pub_date": "2026-09-10T15:18:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/monolithic-powers-gfs-production-deal-151800282.html"
+    },
     {
       "title": "MCHP Rides on Open-Standard Connectivity: Can It Beat ADI & TXN?",
       "summary": "Microchip Technologies' open-standard display connectivity push targets software-defined vehicles as automotive sales rise and competition intensifies.",
       "pub_date": "2026-09-09T18:34:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/articles/mchp-rides-open-standard-connectivity-183400900.html"
+    },
+    {
+      "title": "Analog Devices Shows Why AI Is Not the Only Story Driving Chip Demand",
+      "summary": "Analog Devices' strong fiscal Q3 results show growth beyond AI, with industrial and automotive revenue surging, a trend also benefiting diversified peer Microchip Technology.",
+      "pub_date": "2026-09-09T14:20:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/technology/articles/analog-devices-shows-why-ai-142000220.html"
     },
     {
       "title": "Is Microchip Technology Stock Underperforming the S&P 500?",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-01T14:10:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/monolithic-surges-54-past-jump-141000557.html"
-    },
-    {
-      "title": "MCHP's Portfolio Expansion Boosts Growth Prospects Against AMD & LSCC",
-      "summary": "Microchip's expanding portfolio targets edge AI, data centers and aerospace, with total system solutions broadening its silicon reach.",
-      "pub_date": "2026-08-28T15:02:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/articles/mchps-portfolio-expansion-boosts-growth-150200072.html"
-    },
-    {
-      "title": "How Far Applied Materials Stock Can Move On You In A Year",
-      "summary": "The options market prices a range just over a year out for the stock running from far below today's price to far above it, and that width is the risk an investor already owns.",
-      "pub_date": "2026-08-28T14:42:04Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/far-applied-materials-stock-move-144204731.html"
     }
   ]
 }

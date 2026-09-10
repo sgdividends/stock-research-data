@@ -1,7 +1,14 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-09-10T08:35:13.388540+00:00",
+  "generated_at": "2026-09-10T15:41:21.355913+00:00",
   "items": [
+    {
+      "title": "ServiceNow Maps AI Control Tower Strategy as Agents, Security Drive Growth",
+      "summary": "ServiceNow (NYSE:NOW) outlined its approach to enterprise artificial intelligence, security and workflow automation during a discussion at the Goldman Sachs Communacopia Conference, with Bill McDermott emphasizing the company\u2019s focus on integrating AI agents, data and security controls on a common p",
+      "pub_date": "2026-09-10T13:02:06Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-maps-ai-control-tower-130206505.html"
+    },
     {
       "title": "Dips In UiPath Stock Have Mostly Kept Falling, Will This One Too?",
       "summary": "UiPath (PATH) has dropped about 25% from its late-August high, and the question is whether that is an opening or a warning. Its own history leans toward warning: most declines this size kept falling. What that history cannot see is a company that is profitable now, consolidating its biggest customers' automation onto one platform while its smallest ones leave.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-08T18:12:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-servicenow-stock-popped-33-181200742.html"
-    },
-    {
-      "title": "UiPath Slides 24% After Q2 Earnings: Is PATH Stock a Buy?",
-      "summary": "PATH's 24% post-earnings slide contrasts with a revenue beat, raised annual guidance and stronger profitability, creating a potential entry point.",
-      "pub_date": "2026-09-08T15:29:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/uipath-slides-24-q2-earnings-152900821.html"
     }
   ]
 }

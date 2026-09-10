@@ -1,7 +1,14 @@
 {
   "ticker": "IT",
-  "generated_at": "2026-09-10T08:35:02.301644+00:00",
+  "generated_at": "2026-09-10T15:41:09.921387+00:00",
   "items": [
+    {
+      "title": "CX workforce budgets take a hit as organizations increase AI spending",
+      "summary": "However, organizations shouldn\u2019t deploy AI to the detriment of the human agents, Gartner says. The two need to work in tandem.",
+      "pub_date": "2026-09-10T07:00:00Z",
+      "source": "CX Dive",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cx-workforce-budgets-hit-organizations-070000200.html"
+    },
     {
       "title": "Zacks.com featured highlights include The Allstate, Arista Networks, Ross Stores, Gartner and Micron Technology",
       "summary": "High-ROE stocks like Allstate, Arista Networks, Ross Stores, Gartner and Micron offer investors cash-generating names amid rate hike fears.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-05T04:16:29Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/gartner-stock-looks-priced-discount-041629796.html"
-    },
-    {
-      "title": "Why Gartner (IT) Shares Are Sliding Today",
-      "summary": "Shares of research and advisory firm Gartner (NYSE:IT) fell 4% in the afternoon session after a company survey showed that only 22% of organizations have successfully scaled artificial intelligence, dampening optimism for near-term service demand. According to the company's press release, a Gartner survey of 1,303 senior executives found that only 22% of organizations have successfully scaled AI across multiple business units or adopted an AI-first approach. Despite the low success rate, 85% of",
-      "pub_date": "2026-09-04T23:50:10Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-gartner-shares-sliding-today-235010728.html"
     }
   ]
 }

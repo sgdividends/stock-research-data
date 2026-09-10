@@ -1,7 +1,14 @@
 {
   "ticker": "XYZ",
-  "generated_at": "2026-09-10T08:35:36.052264+00:00",
+  "generated_at": "2026-09-10T15:41:46.644506+00:00",
   "items": [
+    {
+      "title": "Meta upgraded, Nvidia initiated: Wall Street's top analyst calls",
+      "summary": "Meta upgraded, Nvidia initiated: Wall Street's top analyst calls",
+      "pub_date": "2026-09-10T13:52:16Z",
+      "source": "The Fly",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/meta-platforms-upgraded-okta-downgraded-134312557.html"
+    },
     {
       "title": "Jack Dorsey's Block makes major move to become a U.S. crypto bank",
       "summary": "Jack Dorsey\u2019s Block applies to the OCC to launch a national trust bank.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-08T22:30:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/banking/block-applies-to-establish-builders-bank-trust-3c6c9556?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Block applies for OCC charter to launch digital asset trust bank",
-      "summary": "Investing.com -- Block Inc (NYSE:XYZ) has filed an application with the Office of the Comptroller of the Currency to charter Builders Bank & Trust, N.A., a specialized national trust bank focused on providing digital asset custody and fiduciary services. If approved, the uninsured, non-deposit-taking entity would establish a unified federal supervisory framework for the fintech giant\u2019s growing bitcoin and stablecoin operations. The move reflects Block\u2019s strategic push to streamline its digital a",
-      "pub_date": "2026-09-08T22:04:14Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/block-applies-occ-charter-launch-220414824.html"
     }
   ]
 }
