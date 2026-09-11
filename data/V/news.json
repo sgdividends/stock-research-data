@@ -1,7 +1,42 @@
 {
   "ticker": "V",
-  "generated_at": "2026-09-11T08:30:11.613118+00:00",
+  "generated_at": "2026-09-11T15:43:07.309819+00:00",
   "items": [
+    {
+      "title": "Visa Positions Itself for the Next Wave of Stablecoin Payments",
+      "summary": "Visa Inc. (NYSE:V) is expanding its data offering to blockchain-based lenders as demand for stablecoin-linked cards accelerates. Visa said it is combining its VisaNet settlement data with onchain lending infrastructure to help stablecoin card programs and fintechs obtain working capital more efficiently. The company currently has more than 160 stablecoin-linked card programs, with payment volume [\u2026]",
+      "pub_date": "2026-09-11T15:21:27Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/visa-positions-itself-next-wave-152127340.html"
+    },
+    {
+      "title": "Bill Ackman bets AI will make this old-school business stronger",
+      "summary": "Ackman sees a hidden AI advantage in the latest addition to Pershing Square\u2019s portfolio.",
+      "pub_date": "2026-09-11T14:37:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bill-ackman-bets-ai-old-143700072.html"
+    },
+    {
+      "title": "MoneyGram Launches Stablecoin-Backed Card",
+      "summary": "Global payments firm MoneyGram has launched a stablecoin-backed card that lets users hold a U.S. dollar-denominated...",
+      "pub_date": "2026-09-11T13:31:00Z",
+      "source": "CryptoProwl",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/moneygram-launches-stablecoin-backed-card-133100248.html"
+    },
+    {
+      "title": "Why Visa\u2019s Agentic Commerce Play Isn\u2019t the Threat Wall Street Thinks It Is",
+      "summary": "Wall Street keeps bidding Visa shares higher even as AI shopping agents threaten to reroute every transaction the network touches. The answer lies in a pattern Visa shareholders have watched play out three times before, each time with the same outcome.",
+      "pub_date": "2026-09-11T13:05:42Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-visa-agentic-commerce-play-130542438.html"
+    },
+    {
+      "title": "Visa offers data to back onchain lending",
+      "summary": "The card network aims to offer settlement and blockchain data so fintechs and card programs backed by stablecoins can better access onchain credit.",
+      "pub_date": "2026-09-11T10:55:46Z",
+      "source": "Payments Dive",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/visa-offers-data-back-onchain-105546981.html"
+    },
     {
       "title": "The Merchant Onboarding Gap: When Three Identity Standards Compete, the Merchant Pays the Integration Cost",
       "summary": "Ant International, Visa, and Mastercard introduced the agentic commerce framework with a specific pitch: register an agent once, and it can transact everywhere. The idea was a single agent identity layer that would let autonomous software operate across merchants without repeated verification. The framework\u2019s merchant-side story has a hole in it. The framework addresses who [\u2026]",
@@ -22,41 +57,6 @@
       "pub_date": "2026-09-10T17:52:38Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/mastercards-ai-checkout-pact-targets-175238678.html"
-    },
-    {
-      "title": "AI Agents Are About to Start Spending Your Money. 5 Stocks Sitting in the Line of Fire.",
-      "summary": "AI agents can already pick your next purchase, but they still can't pull the trigger without your permission. Five companies are quietly building the infrastructure that changes that, and they are not all the obvious names.",
-      "pub_date": "2026-09-10T16:15:13Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-agents-start-spending-money-161513233.html"
-    },
-    {
-      "title": "KYA Solves Agent Identity. It Doesn\u2019t Solve Consumer Trust.",
-      "summary": "The Know Your Agent framework announced by Ant International, Visa, and Mastercard on September 10, 2026, addressed the identity layer of autonomous commerce. It did not address the trust layer. For the three payment networks and every merchant hoping to participate in the projected $3-5 trillion agentic commerce market, the distinction matters more than the [\u2026]",
-      "pub_date": "2026-09-10T15:17:28Z",
-      "source": "Forkast News",
-      "url": "https://finance.yahoo.com/technology/ai/articles/kya-solves-agent-identity-doesn-151728682.html"
-    },
-    {
-      "title": "Can Visa's KYA Push Accelerate Agentic Commerce Adoption?",
-      "summary": "V's KYA framework with Ant International and Mastercard aims to build common trust signals for AI agents and accelerate agentic commerce.",
-      "pub_date": "2026-09-10T14:53:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/visas-kya-push-accelerate-agentic-145300389.html"
-    },
-    {
-      "title": "Can Mastercard Turn Digital Wallets Into Its Next Growth Driver?",
-      "summary": "MA's Wallet Pay connects regional digital wallets to its global network, opening new paths for cross-border payments and transaction growth.",
-      "pub_date": "2026-09-10T14:48:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-turn-digital-wallets-next-144800626.html"
-    },
-    {
-      "title": "How Far Could PayPal Stock Bounce From Here?",
-      "summary": "The nearest confirmed ceiling for PayPal (PYPL) stock sits 35.4% above where it trades now. The stock is 30.7% below its 52-week high, and the easy read on a payments company down that far is that the market has given up. The reward is real and wide against what you risk. The floor under it is shakier than the bounce count suggests.",
-      "pub_date": "2026-09-10T13:40:06Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/far-could-paypal-stock-bounce-134006459.html"
     }
   ]
 }

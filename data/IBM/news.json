@@ -1,7 +1,42 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-09-11T08:29:34.480061+00:00",
+  "generated_at": "2026-09-11T15:42:35.183764+00:00",
   "items": [
+    {
+      "title": "Has Oracle Become A Weaker Business, Or Just A Cheaper Stock?",
+      "summary": "Oracle (ORCL) made almost a quarter more operating profit in its last fiscal year. Yet when trading closed on September 10, the stock sat around 53% under the peak it reached a year before. Rising profit and a falling price point to one of two stories: trouble the results have not caught up with, or a sound company that has been repriced. The question is whether Oracle is turning into a weaker business, or has just become a cheaper stock.",
+      "pub_date": "2026-09-11T14:37:43Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-become-weaker-business-just-143743294.html"
+    },
+    {
+      "title": "Can IBM's Latest Innovation Hub Advance Quantum Computing Ecosystem?",
+      "summary": "International Business Machines is expanding its quantum footprint with a new ETH Zurich hub, bringing advanced computing to Swiss researchers and businesses.",
+      "pub_date": "2026-09-11T14:15:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ibms-latest-innovation-hub-advance-141500761.html"
+    },
+    {
+      "title": "IonQ Advances Quantum Computing With Superion 256: What's Ahead?",
+      "summary": "IONQ's Superion 256 advances quantum computing with 256-qubit QPUs, faster chip design and data center deployment planned for 2027.",
+      "pub_date": "2026-09-11T12:37:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ionq-advances-quantum-computing-superion-123700551.html"
+    },
+    {
+      "title": "The Inflation Nightmare Will Hit the Stock Market\u2014Sooner or Later",
+      "summary": "Stock markets rebound ahead of the CPI inflation report, diesel prices soar, and more news to start your day.",
+      "pub_date": "2026-09-11T11:39:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stock-market-things-to-know-today-332901d6?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights D-Wave Quantum, Rigetti, IBM, Alphabet and Amazon",
+      "summary": "Alphabet, Amazon and IBM offer diversified AI and quantum exposure as hyperscalers ramp infrastructure spending and quantum technology advances.",
+      "pub_date": "2026-09-11T09:02:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-d-090200430.html"
+    },
     {
       "title": "What Is The Market Seeing In Accenture Stock That You Are Not?",
       "summary": "Accenture (ACN) produced free cash flow worth 11.7% of its market value over the last twelve months, against 4.4% for the median S&P 500 company. A yield that wide means one of two things: a bargain, or a business the market expects to shrink. Accenture sells its people's time, and the discount is a bet on what AI does to that.",
@@ -22,41 +57,6 @@
       "pub_date": "2026-09-10T20:44:30Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-nvidia-chipmaker-tsmc/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Hyperscalers Bet on AI & Quantum: Watch GOOGL, AMZN, IBM in September",
-      "summary": "Alphabet, Amazon and IBM offer investors AI and quantum exposure, backed by growing cloud, AI and enterprise businesses with current demand.",
-      "pub_date": "2026-09-10T19:00:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/hyperscalers-bet-ai-quantum-watch-190000851.html"
-    },
-    {
-      "title": "IBM Falls While Its Moon AI Scores 23% Better",
-      "summary": "The open model strengthens IBM's scientific-AI credentials, but free availability limits immediate monetization.",
-      "pub_date": "2026-09-10T18:48:10Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-falls-while-moon-ai-184810644.html"
-    },
-    {
-      "title": "Is IBM Stock A Buy After Missing On Transaction Processing?",
-      "summary": "International Business Machines (IBM) has given back 12.9% over the past three months and sits at $239.94, about 73% of its 52-week high. Management sees no evidence of clients moving off the mainframe. What has changed is that a key slice of IBM\u2019s transactional software revenue rides on a purchase those clients have learned they can postpone.",
-      "pub_date": "2026-09-10T17:43:02Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ibm-stock-buy-missing-transaction-174302084.html"
-    },
-    {
-      "title": "IBM Stock Dips as New AI Model Targets Future Moon Missions",
-      "summary": "IBM and NASA Launch Lunar AI Model",
-      "pub_date": "2026-09-10T16:46:24Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-stock-dips-ai-model-164624487.html"
-    },
-    {
-      "title": "Why IBM and Lockheed Martin Are Bringing Their Quantum Parnership to Switzerland",
-      "summary": "International Business Machines  and  Lockheed Martin  might seem like an unlikely pairing, but the storied tech giant and defense titan share common ground: quantum computing.  The companies are taking their existing partnership a step further with the formation of a quantum innovation hub in Switzerland, IBM and Lockheed announced Thursday.  At the heart of the agreement is the deployment of an IBM Quantum System Two, the latest generation of the company\u2019s flagship quantum computer, which will be accessible to academics, researchers, and enterprises in the country.",
-      "pub_date": "2026-09-10T15:42:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/ibm-lockheed-martin-quantum-stocks-3fead7ad?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "TFC",
-  "generated_at": "2026-09-11T08:30:06.174005+00:00",
+  "generated_at": "2026-09-11T15:43:02.676015+00:00",
   "items": [
+    {
+      "title": "The Corporate Name Game Could Cost You",
+      "summary": "Would a rose by any other name be as profitable?  Research by quantitative analyst Alexander H\u00fcbbert shows that companies with a name change not related to a deal underperformed similar ones by more than 5 percentage points on average in the following year.  Altria  formerly Philip Morris, is a happy example.",
+      "pub_date": "2026-09-11T10:11:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/investing/the-corporate-name-game-could-cost-you-fe35037a?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Truist cuts Broadcom stock target on rattling Q4 outlook",
       "summary": "A softer near-term forecast pulled Truist\u2019s price target lower, even as Broadcom\u2019s long-term AI numbers climbed.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T08:19:11Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/gitlab-gtlb-stock-sees-fair-081911238.html"
-    },
-    {
-      "title": "DigitalOcean Holdings (DOCN) Fell On Truist Coverage, Is It Still Below Fair Value?",
-      "summary": "DigitalOcean Holdings (DOCN) recently declined 5% on the day Truist Securities initiated coverage on the stock. The move gives investors fresh information to consider relative to the company\u2019s existing growth profile. Against that backdrop, DigitalOcean Holdings has a 1 day share price return of 4.32%, yet the share price is still down 10.09% over the past week and 35.60% over the past 90 days. This contrasts with a very large 240.60% 1 year total shareholder return and indicates that...",
-      "pub_date": "2026-09-04T07:09:39Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/digitalocean-holdings-docn-fell-truist-070939040.html"
     }
   ]
 }

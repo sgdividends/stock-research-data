@@ -1,7 +1,14 @@
 {
   "ticker": "MSFT",
-  "generated_at": "2026-09-11T08:29:47.939951+00:00",
+  "generated_at": "2026-09-11T15:42:46.601826+00:00",
   "items": [
+    {
+      "title": "Oracle is the most attractive AI cloud, analyst says",
+      "summary": "D.A. Davidson Head of Technology Research Gil Luria joins Julie Hyman on Market Catalyst to break down why he believes Oracle (ORCL) is \"by far the most attractive AI cloud.\"",
+      "pub_date": "2026-09-11T14:45:00Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/oracle-most-attractive-ai-cloud-144500691.html"
+    },
     {
       "title": "People Inc. CEO on rebranding, AI challenges",
       "summary": "People Inc. (PPLI) CEO Neil Vogel joins Yahoo Finance Executive Editor Brian Sozzi to discuss the publisher's rebranding strategy, evolving media business, and the challenges AI poses to its content and audience.",
@@ -10,53 +17,46 @@
       "url": "https://finance.yahoo.com/video/people-inc-ceo-rebranding-ai-205700002.html"
     },
     {
-      "title": "What Is Really Behind CrowdStrike Stock's Doubling?",
-      "summary": "CrowdStrike (CRWD) trades at $210.02, roughly double where it stood a year ago while the S&P 500 returned 19.3%, and it sits at about 91% of its 52-week high. The easy read is that the AI security trade has already happened and you are late to it. But its own recurring revenue base points at something steadier than a spike, and the price now assumes that steadiness.",
-      "pub_date": "2026-09-11T01:06:52Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/really-behind-crowdstrike-stocks-doubling-010652647.html"
-    },
-    {
-      "title": "Dell enters the S&P 100 index after monstrous three-year rally",
-      "summary": "Here\u2019s what\u2019s driving Dell stock and its price target following its 700% climb.",
-      "pub_date": "2026-09-11T00:03:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-enters-p-100-index-000300412.html"
-    },
-    {
-      "title": "Microsoft Eyes Massive Data Center Push To Triple Computing Power And Solve Capacity Bottlenecks, Says Report",
-      "summary": "Microsoft plans to expand its data center network capacity to over 38 gigawatts by 2032 to resolve server shortages.",
-      "pub_date": "2026-09-10T23:30:26Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/technology/articles/microsoft-eyes-massive-data-center-233026556.html"
-    },
-    {
-      "title": "Remain Bullish on AI Beneficiaries Like Bloom Energy",
-      "summary": "Investors have hundreds of billions ($) of reasons why to remain bullish on the AI buildout, particularly for companies like Bloom Energy (BE), which represents a big beneficiary of increased power demands.",
-      "pub_date": "2026-09-10T22:50:00Z",
+      "title": "AI Capex Creates New Investment Cycle: NVIDIA & 2 Other Stocks to Buy",
+      "summary": "AI capex is fueling a new infrastructure cycle, with NVIDIA, Arista Networks and Vertiv well-positioned across computing, networking and power.",
+      "pub_date": "2026-09-11T15:21:00Z",
       "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/remain-bullish-ai-beneficiaries-bloom-225000093.html"
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-capex-creates-investment-cycle-152100533.html"
     },
     {
-      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-      "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
-      "pub_date": "2026-09-10T21:51:59Z",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-explains-why-nvidia-215159365.html"
+      "title": "Advanced Micro Devices vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?",
+      "summary": "AMD's data center momentum clashes with Qualcomm's valuation discount, but customer concentration and geopolitical risks complicate both bets.",
+      "pub_date": "2026-09-11T15:17:37Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-vs-qualcomm-151737535.html"
     },
     {
-      "title": "Nvidia stock edges higher on Microsoft data center expansion report",
-      "summary": "Investing.com -- Nvidia Corporation (NASDAQ:NVDA) edged higher in after-hours trading, rising 0.5%, Thursday following a Bloomberg report that Microsoft plans to more than triple its data center capacity.",
-      "pub_date": "2026-09-10T21:36:55Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-edges-higher-microsoft-213655977.html"
+      "title": "Microsoft Targets 38GW Data Center Buildout as AI Capacity Crunch Bites",
+      "summary": "Demand is so strong that Microsoft is planning to more than triple its computing capacity.",
+      "pub_date": "2026-09-11T15:09:04Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-targets-38gw-data-center-150904165.html"
     },
     {
-      "title": "Oracle Tops First-Quarter Expectations as Cloud Infrastructure Revenue More Than Doubles",
-      "summary": "Oracle's (ORCL) fiscal first-quarter results surpassed Wall Street's estimates as cloud infrastructu",
-      "pub_date": "2026-09-10T21:03:51Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/articles/oracle-tops-first-quarter-expectations-210351667.html"
+      "title": "Can Snowflake Stock Keep Climbing On The Work Its AI Tools Bring In?",
+      "summary": "Snowflake (SNOW) stock has returned about 37% over the past three months, against 4.8% for the S&P 500, and trades about 8% below its 52-week high. The stock has gained more than 30% in under two months on 10 occasions since 2020, most recently in 2026, and six of those gains topped 50%. The case for another leg rests on what sits behind three straight quarters of faster growth: Snowflake's AI tools are getting customers to use more of its core data platform.",
+      "pub_date": "2026-09-11T15:00:28Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/snowflake-stock-keep-climbing-ai-150028337.html"
+    },
+    {
+      "title": "CoreWeave Doubles Down on Physical AI: Can CRWV Capture More Demand?",
+      "summary": "CRWV is targeting physical AI with field engineering that helps industrial teams build, validate and deploy AI across workflows.",
+      "pub_date": "2026-09-11T14:49:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-doubles-down-physical-ai-144900968.html"
+    },
+    {
+      "title": "Has Oracle Become A Weaker Business, Or Just A Cheaper Stock?",
+      "summary": "Oracle (ORCL) made almost a quarter more operating profit in its last fiscal year. Yet when trading closed on September 10, the stock sat around 53% under the peak it reached a year before. Rising profit and a falling price point to one of two stories: trouble the results have not caught up with, or a sound company that has been repriced. The question is whether Oracle is turning into a weaker business, or has just become a cheaper stock.",
+      "pub_date": "2026-09-11T14:37:43Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-become-weaker-business-just-143743294.html"
     }
   ]
 }

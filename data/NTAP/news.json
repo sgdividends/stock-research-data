@@ -1,7 +1,14 @@
 {
   "ticker": "NTAP",
-  "generated_at": "2026-09-11T08:29:50.606382+00:00",
+  "generated_at": "2026-09-11T15:42:49.074153+00:00",
   "items": [
+    {
+      "title": "Stock Market Today: Dow Rallies On Surprise Inflation Data; These Tech Names Lead This List (Live Coverage)",
+      "summary": "Stock Market Today: The Dow Jones index rallies Friday after a surprise CPI inflation report. Nvidia stock rebounded in morning trading.",
+      "pub_date": "2026-09-11T15:21:52Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-cpi-inflation-report-oracle-stock-orcl/?src=A00220&yptr=yahoo"
+    },
     {
       "title": "Quantum Up 322% in the Past 6 Months: Time to Buy, Hold or Sell?",
       "summary": "QMCO's surge reflects strong enterprise demand, rising tape adoption and larger deals, but supply constraints pose a key hurdle.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-09T12:06:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-sales-growth-stocks-buy-120600426.html"
-    },
-    {
-      "title": "STX Stock: The Math Hidden In Its Price",
-      "summary": "This is a cyclical-peak chapter for Seagate Technology. The company sells mass-capacity hard drives, with cloud providers' data centers now representing the vast majority of its shipments.",
-      "pub_date": "2026-09-08T23:57:42Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stx-stock-math-hidden-price-235742795.html"
     }
   ]
 }

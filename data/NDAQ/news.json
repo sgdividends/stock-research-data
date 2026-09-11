@@ -1,7 +1,14 @@
 {
   "ticker": "NDAQ",
-  "generated_at": "2026-09-11T08:29:49.029623+00:00",
+  "generated_at": "2026-09-11T15:42:47.328228+00:00",
   "items": [
+    {
+      "title": "Nasdaq Inc's Dividend Analysis",
+      "summary": "Nasdaq Inc (NASDAQ:NDAQ) recently announced a total dividend of $0.31 per share, with the ex-dividend date set for 2026-09-11.  This includes a $0.31 per share cash dividend payable on 2026-09-25.  As investors look forward to this upcoming payment, the spotlight also shines on the company's dividend history, yield, and growth rates.",
+      "pub_date": "2026-09-11T11:03:38Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-incs-dividend-analysis-110338016.html"
+    },
     {
       "title": "Unpacking Q2 Earnings: Nasdaq (NASDAQ:NDAQ) In The Context Of Other Financial Exchanges & Data Stocks",
       "summary": "Let\u2019s dig into the relative performance of Nasdaq (NASDAQ:NDAQ) and its peers as we unravel the now-completed Q2 financial exchanges & data earnings season.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-08T11:00:02Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-set-boost-potential-jump-110002191.html"
-    },
-    {
-      "title": "NDAQ Boosts AI and Data-Driven Investment Technology With Dasseti",
-      "summary": "Nasdaq's Dasseti acquisition expands eVestment with AI-powered due diligence and monitoring, deepening institutional investment technology capabilities.",
-      "pub_date": "2026-09-07T14:15:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ndaq-boosts-ai-data-driven-141500102.html"
     }
   ]
 }

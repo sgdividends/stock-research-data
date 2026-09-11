@@ -1,7 +1,14 @@
 {
   "ticker": "SPGI",
-  "generated_at": "2026-09-11T08:30:02.431157+00:00",
+  "generated_at": "2026-09-11T15:42:59.739108+00:00",
   "items": [
+    {
+      "title": "How Far Could Intel Stock Fall After More Than Quadrupling In A Year?",
+      "summary": "Intel (INTC) stock fell 5.6% on September 10 and trades near $100, about 29% below its 52-week high. Even so, it has returned 310.5% over the past year. The question is how much of that a market shock could take back, and on average Intel has fallen harder than the S&P 500 when shocks hit.",
+      "pub_date": "2026-09-11T13:44:23Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/far-could-intel-stock-fall-134423316.html"
+    },
     {
       "title": "Is Eaton Stock Amplifying A Risk You Already Own?",
       "summary": "Eaton (ETN) makes the power equipment that goes inside data centers, among much else, and it has climbed 5.0% over the last five trading days while the S&P 500 slipped 0.2%. A run like that pulls money in. The question worth answering is not where the stock goes from here. It is what owning Eaton does to the rest of your money every time the market moves, and it moves further than the index in both directions.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-10T15:24:10Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/far-could-boeing-stock-fall-152410061.html"
-    },
-    {
-      "title": "Is Accenture's Business Falling As Fast As Its Stock?",
-      "summary": "Accenture (ACN) trades at $179.03, about 53% below its two-year high, the price of a business the market thinks is ending. Over the last twelve months, it generated $12.58 billion of free cash flow, a yield of 11.5% on its market value against a 4.4% median for the S&P 500. Both facts are true. The argument between them is about growth.",
-      "pub_date": "2026-09-09T23:19:35Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/accentures-business-falling-fast-stock-231935298.html"
     }
   ]
 }

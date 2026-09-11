@@ -1,7 +1,14 @@
 {
   "ticker": "BX",
-  "generated_at": "2026-09-11T08:29:05.486088+00:00",
+  "generated_at": "2026-09-11T15:42:10.018074+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Advance Pre-Bell Friday",
+      "summary": "Financial stocks were advancing pre-bell Friday, with the State Street Financial Select Sector SPDR",
+      "pub_date": "2026-09-11T13:21:21Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-advance-pre-132121056.html"
+    },
     {
       "title": "Market Chatter: Blackstone's AirTrunk Seeks $1.6 Billion Loan Ahead of Singapore REIT Listing",
       "summary": "Blackstone's (BX) data center operator AirTrunk is in talks with banks to borrow about SG$2 billion",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-09T17:53:58Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-softer-wednesday-175358173.html"
-    },
-    {
-      "title": "Blackstone\u2019s Head of Real Estate Is Leaving the Firm",
-      "summary": "Nadeem Meghji\u2019s departure adds to the list of real-estate executives departing Blackstone over the past three years.",
-      "pub_date": "2026-09-08T23:49:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/real-estate/blackstones-head-of-real-estate-is-leaving-the-firm-b36717a8?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
