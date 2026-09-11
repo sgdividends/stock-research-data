@@ -1,7 +1,21 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-09-10T22:11:26.900766+00:00",
+  "generated_at": "2026-09-11T02:31:09.330945+00:00",
   "items": [
+    {
+      "title": "Salesforce Closed Its $3.6B Fin Acquisition Months Early. The Timing Tells You More Than the Price.",
+      "summary": "Salesforce closed its $3.6 billion acquisition of Fin on September 10, 2026, finishing the deal months ahead of the original Q4 FY2027 schedule. While the speed of the transaction \u2013 likely reflecting smoother-than-expected regulatory clearance \u2013 is notable, the timing is more significant. The completion arrived on the same day Salesforce unveiled its Trusted Enterprise [\u2026]",
+      "pub_date": "2026-09-10T23:09:18Z",
+      "source": "Forkast News",
+      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-closed-3-6b-fin-230918074.html"
+    },
+    {
+      "title": "Salesforce Formalizes the Agent Governance Stack Into a Single Platform",
+      "summary": "Most enterprise AI initiatives are currently stuck in a cycle of pilot projects that never reach production. Data from IDC and Lenovo suggests that 88% of enterprises with agent initiatives never ship to production, while Gartner reports that over 40% of agentic AI projects are cancelled due to escalating costs and inadequate risk controls. For [\u2026]",
+      "pub_date": "2026-09-10T22:30:32Z",
+      "source": "Forkast News",
+      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-formalizes-agent-governance-stack-223032022.html"
+    },
     {
       "title": "Salesforce Is About to Face the AI Test Wall Street Cannot Ignore",
       "summary": "Another acquisition is complete, but Wall Street wants evidence that Salesforce's AI strategy can deliver.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-10T16:23:00Z",
       "source": "HR Dive",
       "url": "https://finance.yahoo.com/technology/ai/articles/age-ai-getting-waymo-first-162300045.html"
-    },
-    {
-      "title": "Can MSFT Stock Rally on the Back of Dynamics 365 Business Applications?",
-      "summary": "Microsoft's Dynamics 365 Activate targets Salesforce migrations as AI agents expand, but slowing growth and softer bookings cloud the stock's rally.",
-      "pub_date": "2026-09-10T15:00:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/msft-stock-rally-back-dynamics-150000786.html"
-    },
-    {
-      "title": "Salesforce Just Gave Investors a Reason to Rethink This Beaten-Down Stock",
-      "summary": "Salesforce spent most of 2026 getting crushed by fears that AI would kill its business model, and then one earnings report flipped the entire narrative. Here is what the numbers actually reveal about whether this recovery has legs or is running on borrowed time.",
-      "pub_date": "2026-09-10T14:30:03Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-just-gave-investors-reason-143003282.html"
     }
   ]
 }

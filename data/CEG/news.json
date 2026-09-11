@@ -1,7 +1,14 @@
 {
   "ticker": "CEG",
-  "generated_at": "2026-09-10T22:11:21.477211+00:00",
+  "generated_at": "2026-09-11T02:31:04.515497+00:00",
   "items": [
+    {
+      "title": "CEG, SHEL Stocks Rise Overnight: Constellation Energy To Acquire Rhode Island State Energy Center From Shell For $715M",
+      "summary": "Constellation Energy announced on Thursday that it would acquire 100% of the Rhode Island State Energy Center from Shell Energy North America for $715 million.",
+      "pub_date": "2026-09-11T01:20:23Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/energy/articles/ceg-shel-stocks-rise-overnight-012023144.html"
+    },
     {
       "title": "Sector Update: Energy Stocks Decline Late Afternoon",
       "summary": "Energy stocks were lower late Thursday afternoon, with the NYSE Energy Sector Index easing 0.2% and",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-07T15:01:20Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/2-ai-power-stocks-jumped-150120214.html"
-    },
-    {
-      "title": "XLU\u2019s AI Power Story Crumbles as Texas Freezes Data-Center Demand",
-      "summary": "Texas regulators just froze data-center hookups, and one application fee cut AEP Ohio's pipeline by more than half overnight. Whether that unravels the entire investment case for the most popular utility ETF on the market depends on a number almost no one is auditing.",
-      "pub_date": "2026-09-07T14:22:05Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/xlu-ai-power-story-crumbles-142205667.html"
     }
   ]
 }

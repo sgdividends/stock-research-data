@@ -1,7 +1,28 @@
 {
   "ticker": "PLTR",
-  "generated_at": "2026-09-10T22:12:13.382688+00:00",
+  "generated_at": "2026-09-11T02:31:46.033672+00:00",
   "items": [
+    {
+      "title": "Dan Ives Says Software Stocks Just Got Their Clearest Buy Signal Yet",
+      "summary": "Dan Ives says Oracle's earnings and a string of AI-fueled beats give software stocks their clearest signal yet.",
+      "pub_date": "2026-09-11T01:22:19Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dan-ives-says-software-stocks-012219552.html"
+    },
+    {
+      "title": "Palantir Technologies Showcases Sovereign AI Wins With NVIDIA, Cisco and FAA",
+      "summary": "Palantir Technologies (NASDAQ:PLTR) used its AIPCon event to highlight customer deployments of its Foundry, Ontology and Artificial Intelligence Platform products across supply chains, aviation safety, defense manufacturing, insurance, media, pharmaceuticals and industrial operations. Speakers repea",
+      "pub_date": "2026-09-10T23:03:11Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/technology/ai/articles/palantir-technologies-showcases-sovereign-ai-230311890.html"
+    },
+    {
+      "title": "Axon beats Palantir by 36 Roundtable 100 spots",
+      "summary": "The weekly technology ranking places Axon at No. 27 and Palantir at No. 63, one of its sharpest valuation calls.",
+      "pub_date": "2026-09-10T22:08:06Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/axon-beats-palantir-36-roundtable-220806288.html"
+    },
     {
       "title": "Michael Burry Dumps Nvidia and Palantir Put Options in Fresh Risk Warning",
       "summary": "Burry Pulls the Trigger on Nvidia and Palantir Put Options as Market Risks Rise",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-10T18:24:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/technology/ai/articles/not-nvidia-not-palantir-might-182400627.html"
-    },
-    {
-      "title": "Palantir Taps Nvidia for High-Stakes AI Push",
-      "summary": "Two AI leaders are targeting a highly sensitive global market",
-      "pub_date": "2026-09-10T17:28:39Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/palantir-taps-nvidia-high-stakes-172839725.html"
-    },
-    {
-      "title": "Nvidia and Palantir Land Historic AI Partnership",
-      "summary": "Nvidia and Palantir Unleash New AI System for Critical Supply Chains",
-      "pub_date": "2026-09-10T16:59:35Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-palantir-land-historic-ai-165935508.html"
-    },
-    {
-      "title": "Nvidia Just Handed Its 1.3 Million-Part Supply Chain to a Stock Cramer Called Ice Cold",
-      "summary": "Jim Cramer wrote off Palantir as ice cold just 48 hours before Nvidia revealed which software company it trusts to run every component inside its most advanced AI rack, and the timing raises an uncomfortable question about who actually understands this platform.",
-      "pub_date": "2026-09-10T16:48:06Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-handed-1-3-164806380.html"
     }
   ]
 }
