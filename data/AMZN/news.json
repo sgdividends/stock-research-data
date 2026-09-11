@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "generated_at": "2026-09-11T02:30:56.907740+00:00",
+  "generated_at": "2026-09-11T08:28:59.106174+00:00",
   "items": [
     {
       "title": "Oracle earnings: Do concentration risks fall on Oracle or the big AI firms?",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-10T20:37:51Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/oracle-earnings-concentration-risks-fall-203751982.html"
+    },
+    {
+      "title": "Amazon Triples Its NVIDIA GPU Orders to 3 Million Chips as AI Demand Surges",
+      "summary": "Amazon.com, Inc. (NASDAQ:AMZN) and NVIDIA Corporation (NASDAQ:NVDA) announced an expanded deal on August 26 that will bring an additional 2 million Nvidia GPU processors to Amazon data centers, building on AWS\u2019s earlier plan to add more than 1 million NVIDIA GPUs starting in 2026. The new processors, which include NVIDIA\u2019s Blackwell Ultra, Rubin and Rubin [\u2026]",
+      "pub_date": "2026-09-11T05:07:39Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-triples-nvidia-gpu-orders-050739503.html"
     },
     {
       "title": "Amazon\u2019s Aviation Network Faces a Sobering Test after the Miami Crash",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-10T21:51:59Z",
       "source": "TechCrunch",
       "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-explains-why-nvidia-215159365.html"
-    },
-    {
-      "title": "NTSB Says Amazon Boeing Pilots Appeared to Consider Aborting Landing Before Deadly Miami Crash",
-      "summary": "The National Transportation Safety Board (NTSB) says that pilots flying the Amazon.com Inc. \u201cPrime Air\u201d Boeing Co. cargo plane could have mulled over aborting the landing of the aircraft before the crash in Miami on Sunday. Interviews Scheduled With Pilots...",
-      "pub_date": "2026-09-10T21:30:13Z",
-      "source": "Benzinga",
-      "url": "https://www.yahoo.com/news/us/articles/ntsb-says-amazon-boeing-pilots-213013150.html"
     }
   ]
 }

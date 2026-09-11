@@ -1,13 +1,20 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-09-11T02:31:40.587468+00:00",
+  "generated_at": "2026-09-11T08:29:50.138359+00:00",
   "items": [
     {
-      "title": "Dow Jones Futures, Oracle Jumps After Oil Prices, Yields Surge; CPI Inflation Due",
-      "summary": "The S&P 500 undercut its 50-day as Treasury yields and oil prices surged. Oracle jumped late on earnings. The CPI inflation report could lock in expectations for a Fed rate hike next week.",
-      "pub_date": "2026-09-11T02:14:12Z",
+      "title": "Dow Jones Futures Rise, Oil Prices Fall, Oracle Jumps; CPI Inflation Data To Inform Fed",
+      "summary": "Dow Jones futures rose modestly early Friday, along with S&P 500 futures and Nasdaq futures, as oil prices turned modestly lower. Oracle and Adobe headlined earnings overnight with the consumer price index due before the open.",
+      "pub_date": "2026-09-11T08:09:12Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-oil-prices-treasury-yields-cpi-inflation-oracle-earnings/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "ServiceNow AI Control Tower Targets Security, Governance and Enterprise ROI",
+      "summary": "ServiceNow (NYSE:NOW) President and Chief Financial Officer Gina Mastantuono said customer conversations are increasingly centered on deploying artificial intelligence at scale while maintaining security, governance and cost controls. Speaking at Citi\u2019s TMT conference, Mastantuono said customers ar",
+      "pub_date": "2026-09-11T06:02:06Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-ai-control-tower-targets-060206182.html"
     },
     {
       "title": "Salesforce Just Gained 23% in a Month: Take Profits, or Buy More?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-09T13:00:04Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-inc-now-trending-stock-130004402.html"
-    },
-    {
-      "title": "SpaceX, Nvidia Lead Schwab Buys As Software Rally Spurs Profit-Taking \u2013 Trading Gauge Posts First Dip Since April",
-      "summary": "Clients bought SPCX, NVDA, MU, INTC, and GOOGL, while net selling PLTR, MSFT, NOW, CRM, and ORCL.",
-      "pub_date": "2026-09-09T05:27:01Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-nvidia-lead-schwab-buys-052701125.html"
     }
   ]
 }

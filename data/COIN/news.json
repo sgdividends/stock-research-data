@@ -1,7 +1,21 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-09-11T02:31:07.875998+00:00",
+  "generated_at": "2026-09-11T08:29:11.161547+00:00",
   "items": [
+    {
+      "title": "Coinbase CEO Calls $400,000 Bitcoin Reasonable as BTC Slips 5.4%",
+      "summary": "Brian Armstrong says $400,000 Bitcoin by 2030 is reasonable. BTC needs a 420% rally from $76,930 to get there.",
+      "pub_date": "2026-09-11T04:57:18Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-calls-400-000-045718581.html"
+    },
+    {
+      "title": "Base App Is Coinbase Wallet Again: Will Traders Notice?",
+      "summary": "Coinbase restores the Coinbase Wallet name. The app now points traders at leverage, prediction markets and tokenized stocks.",
+      "pub_date": "2026-09-11T02:17:46Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/app-coinbase-wallet-again-traders-021746010.html"
+    },
     {
       "title": "Bank of America Turns More Bullish on Cboe, CME, ICE Despite Perps Threat",
       "summary": "Bank of America Corp (BAC) analysts said they are more bullish on Cboe Global Markets, CME Group (CM",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-10T17:54:00Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-lower-afternoon-175400311.html"
-    },
-    {
-      "title": "Hyperliquid Just Became the Fifth-Largest Holding in Hashdex\u2019s Crypto ETF. Multicoin Is Selling Into It",
-      "summary": "A regulated ETF just added HYPE to its holdings while one of the token's biggest institutional backers quietly unloaded nearly three quarters of its position. Understanding why each side moved in a different direction reveals something important about where the token may be headed.",
-      "pub_date": "2026-09-10T16:54:12Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/hyperliquid-just-became-fifth-largest-165412986.html"
-    },
-    {
-      "title": "Coinbase, Moov Bring Stablecoin Payments to Over 1,000 US Community Banks",
-      "summary": "Major crypto exchange Coinbase (NASDAQ: $COIN) is partnering with payments infrastructure provider Moov to bring st...",
-      "pub_date": "2026-09-10T15:51:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-moov-bring-stablecoin-payments-155100196.html"
     }
   ]
 }
