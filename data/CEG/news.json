@@ -1,7 +1,14 @@
 {
   "ticker": "CEG",
-  "generated_at": "2026-09-11T18:55:43.591893+00:00",
+  "generated_at": "2026-09-11T22:09:19.640481+00:00",
   "items": [
+    {
+      "title": "Sector Update: Energy Stocks Mixed Late Afternoon",
+      "summary": "Energy stocks were mixed late Friday afternoon, with the NYSE Energy Sector Index down 0.1% and the",
+      "pub_date": "2026-09-11T19:49:20Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-afternoon-194920218.html"
+    },
     {
       "title": "Can CEG's Expanding Generation Portfolio Drive Long-Term Growth?",
       "summary": "Constellation Energy expands generation with a $715 million RISEC deal and long-term nuclear contracts to support reliability, returns and earnings growth.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-08T23:58:01Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/energy/articles/constellation-energys-biggest-ai-power-235801730.html"
-    },
-    {
-      "title": "Google\u2019s revived nuclear power plant gets $1.9B loan from US government",
-      "summary": "Google said it would bring an Iowa nuclear power plant back from the dead. Now the plant's owner is getting a $1.9 billion loan from the U.S. Energy Department.",
-      "pub_date": "2026-09-08T15:25:35Z",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/energy/articles/google-revived-nuclear-power-plant-152535672.html"
     }
   ]
 }

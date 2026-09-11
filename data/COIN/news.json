@@ -1,6 +1,6 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-09-11T18:55:46.480604+00:00",
+  "generated_at": "2026-09-11T22:09:22.672214+00:00",
   "items": [
     {
       "title": "Coinbase CFO: We have a backup plan if the Clarity Act fails in Congress",
@@ -15,6 +15,20 @@
       "pub_date": "2026-09-11T15:09:24Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/coinbase-not-slowing-down-clarity-150924856.html"
+    },
+    {
+      "title": "Coinbase Is Pushing to Bring Stablecoins to 1,000 Community Banks. Here's Why Everyone Is Talking About Stablecoins Right Now.",
+      "summary": "The cryptocurrency exchange's new partnership strengthens its case against big banks.",
+      "pub_date": "2026-09-11T20:50:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-pushing-bring-stablecoins-1-205000250.html"
+    },
+    {
+      "title": "Senate Republicans Introduce Clarity Act Changes Ahead Of Key Vote",
+      "summary": "Senate Republicans updated the Clarity Act ahead of next week's vote. But the crypto market structure bill needs Democrat support.",
+      "pub_date": "2026-09-11T20:33:41Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/clarity-act-update-senate-vote-changes-bitcoin-cryptocurrency/?src=A00220&yptr=yahoo"
     },
     {
       "title": "Weekly Wrap: Rate Hike Expectations Pressure Crypto",
@@ -38,25 +52,11 @@
       "url": "https://www.investors.com/research/investing-action-plan/federal-reserve-rate-hike-close-to-clarity-act-vote-salesforce-dreamforce/?src=A00220&yptr=yahoo"
     },
     {
-      "title": "Senate Republicans Introduce Clarity Act Changes Ahead Of Key Vote",
-      "summary": "Senate Republicans updated the Clarity Act ahead of next week's vote. But the crypto market structure bill needs Democrat support.",
-      "pub_date": "2026-09-11T15:25:10Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/clarity-act-update-senate-vote-changes-bitcoin-cryptocurrency/?src=A00220&yptr=yahoo"
-    },
-    {
       "title": "White House Adviser Held Up to $5M Coinbase Stake During Crypto Policy Push",
       "summary": "White House National Economic Council Director Kevin Hassett held between $1 million and $5 million in Coinbase (NA...",
       "pub_date": "2026-09-11T15:23:00Z",
       "source": "CryptoProwl",
       "url": "https://finance.yahoo.com/markets/crypto/articles/white-house-adviser-held-5m-152300134.html"
-    },
-    {
-      "title": "Ethereum\u2019s Price Surges Past $2,600 For First Time In 8 Months: Outruns Bitcoin, XRP, Solana",
-      "summary": "About $665 million in crypto positions were liquidated over the past 24 hours, including roughly $400 million in short positions.",
-      "pub_date": "2026-09-11T15:03:49Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-surges-past-2-150349983.html"
     }
   ]
 }

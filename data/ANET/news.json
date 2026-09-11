@@ -1,7 +1,35 @@
 {
   "ticker": "ANET",
-  "generated_at": "2026-09-11T18:55:35.898068+00:00",
+  "generated_at": "2026-09-11T22:09:11.791680+00:00",
   "items": [
+    {
+      "title": "Stock Market Today, Sept. 11: HPE Surges on AI Infrastructure Demand and Recently Raised Guidance",
+      "summary": "Today, Sept. 11, 2026, enterprise server demand from AI spending drove the stock up over 12%, with record quarterly revenue and networking strength fueling investor confidence.",
+      "pub_date": "2026-09-11T21:05:43Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-11-210543572.html"
+    },
+    {
+      "title": "How Far Could Cisco Stock Swing On You As AI Networking Orders Grow?",
+      "summary": "Cisco Systems (CSCO) stock trades at $107.44, and its options price a range over the next twelve months from near $74 to near $156. The market gives the shares about a two-in-three chance of finishing inside that band, and the band carries no view on direction. It measures size, and for Cisco that is about as much movement as the stock has shown over the past year.",
+      "pub_date": "2026-09-11T20:49:23Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/far-could-cisco-stock-swing-204923429.html"
+    },
+    {
+      "title": "Dow Jones Futures: $100 Oil, Surging Yields Pressure Stocks With Fed Rate Hike Seen. Apple Leads New Buys.",
+      "summary": "Dow Jones futures: Despite Friday's bounce, the stock market had a tough week amid $100 oil prices and surging Treasury yields. Apple, Moderna are buys.",
+      "pub_date": "2026-09-11T20:39:22Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-100-oil-surging-yields-pressure-stocks-with-fed-rate-hike-seen-apple-leads-new-buys/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Arista Networks Stock Rallied, But Is It Now A Bet On Its Suppliers?",
+      "summary": "Arista Networks (ANET) stock has gained about 51% since mid-December, against about 12% for the S&P 500. Peers Dell Technologies (DELL) rose 293% and Hewlett Packard Enterprise (HPE) 135%, while Cisco Systems (CSCO) gained about 40%. AI demand is the obvious explanation, and it is real. But management linked its latest outlook raise to a better supply position, and the CEO says the industry is still short of parts. From here, the shares are a bet on those parts arriving.",
+      "pub_date": "2026-09-11T19:49:03Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-stock-rallied-now-194903483.html"
+    },
     {
       "title": "Dell and HPE Stocks Are Surging on the AI Spending Boom",
       "summary": "Dell Technologies and HPE stocks are leading the S&P 500 higher as Oracle\u2019s massive spending plans reinforce optimism about demand for AI data-center hardware.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-09-11T16:53:19Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-sept-11-165319326.html"
-    },
-    {
-      "title": "AI Capex Creates New Investment Cycle: NVIDIA & 2 Other Stocks to Buy",
-      "summary": "AI capex is fueling a new infrastructure cycle, with NVIDIA, Arista Networks and Vertiv well-positioned across computing, networking and power.",
-      "pub_date": "2026-09-11T15:21:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-capex-creates-investment-cycle-152100533.html"
-    },
-    {
-      "title": "Arista Networks Sees AI Demand Fueling 40% Growth, $9.6B in Supply Commitments",
-      "summary": "Arista Networks (NYSE:ANET) executives outlined continued demand tied to artificial intelligence networking, a strengthening supply position and expanding opportunities beyond its largest hyperscale customers during Citi\u2019s Global TMT Conference. Chief Financial Officer Chantelle Breithaupt said the",
-      "pub_date": "2026-09-11T11:02:04Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/technology/ai/articles/arista-networks-sees-ai-demand-110204747.html"
-    },
-    {
-      "title": "Dell enters the S&P 100 index after monstrous three-year rally",
-      "summary": "Here\u2019s what\u2019s driving Dell stock and its price target following its 700% climb.",
-      "pub_date": "2026-09-11T00:03:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-enters-p-100-index-000300412.html"
-    },
-    {
-      "title": "3 Stocks Powering the AI Boom That Are Not Named Nvidia",
-      "summary": "Every investor knows Nvidia won the chip race, but the physical layers that actually keep AI data centers alive belong to a different set of companies, and three of them are quietly outpacing the trade everyone is already crowded into.",
-      "pub_date": "2026-09-10T17:02:19Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-powering-ai-boom-170219071.html"
     }
   ]
 }

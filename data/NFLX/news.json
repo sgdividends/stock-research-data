@@ -1,7 +1,14 @@
 {
   "ticker": "NFLX",
-  "generated_at": "2026-09-11T18:56:17.710636+00:00",
+  "generated_at": "2026-09-11T22:09:56.790199+00:00",
   "items": [
+    {
+      "title": "How Far Could Alphabet Stock Move On You In A Year?",
+      "summary": "Alphabet (GOOGL) stock trades at about $332, and options expiring roughly a year out price a 68% probability range running from roughly $233 to roughly $474. That floor sits just under the stock's 52-week low of $235.96, while the ceiling clears its 52-week high of $402.12. Yet, a range this wide is close to normal for these shares, not a sign of unusual fear.",
+      "pub_date": "2026-09-11T19:34:14Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/far-could-alphabet-stock-move-193414570.html"
+    },
     {
       "title": "The #1 Insider Signal Every Trader Should Know",
       "summary": "It's not just about finding an elusive \"cluster buy\"--it's also about determining if the stock is a worthwhile addition to your portfolio. Tracey Ryniec provides a simple method for finding and analyzing the most powerful indicator in legal insider trading.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-10T13:52:23Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-netflix-growing-fastest-falling-135223862.html"
-    },
-    {
-      "title": "Netflix Now: Welcome To Theatrical Movieland - For Real?",
-      "summary": "Netflix will report box-office revenue for six upcoming theatrical movies, as well as seeing much longer theatrical runs than its typical theatrical releases in the past.",
-      "pub_date": "2026-09-10T13:00:00Z",
-      "source": "MediaPost",
-      "url": "https://finance.yahoo.com/media-advertising/articles/netflix-now-welcome-theatrical-movieland-130000976.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "BDX",
-  "generated_at": "2026-09-11T18:55:39.247023+00:00",
+  "generated_at": "2026-09-11T22:09:15.451781+00:00",
   "items": [
+    {
+      "title": "Is This BSX Stock Pullback Worth The Patience?",
+      "summary": "Boston Scientific (BSX) trades at about $43, roughly 17% below the recent high it set on 19th Aug, 2026. Its own history with sharp drops is encouraging. That history does not cover a cyberattack it says is likely to hit its 2026 results, and the stock is down about 60% over the past twelve months. Start with the history.",
+      "pub_date": "2026-09-11T18:50:32Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bsx-stock-pullback-worth-patience-185032380.html"
+    },
     {
       "title": "BSX Stock: Is It Time To Buy Or Sell Puts?",
       "summary": "Trading near $45 a share, Boston Scientific (BSX) sits roughly 58% below its 52-week peak.  Instead of buying the dip outright, selling cash-secured put options allows investors to generate immediate income while locking in an even deeper entry point.  Sell a put option on BSX expiring 9/17/2027, with a strike price of $30.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-03T03:26:38Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/healthcare/articles/becton-dickinson-bdx-becomes-founding-032638335.html"
-    },
-    {
-      "title": "The Wide Divide Priced Into Boston Scientific Stock",
-      "summary": "The market's valuation reflects a wide breadth of potential outcomes for the company, exposing shareholders to the full magnitude of that underlying risk.",
-      "pub_date": "2026-09-02T17:52:36Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/wide-divide-priced-boston-scientific-175236085.html"
     }
   ]
 }

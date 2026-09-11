@@ -1,7 +1,14 @@
 {
   "ticker": "ICE",
-  "generated_at": "2026-09-11T18:56:05.242759+00:00",
+  "generated_at": "2026-09-11T22:09:43.418468+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Higher Late Afternoon",
+      "summary": "Financial stocks were advancing in late Friday afternoon trading, with the NYSE Financial Index risi",
+      "pub_date": "2026-09-11T20:00:51Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-higher-afternoon-200051514.html"
+    },
     {
       "title": "Sector Update: Financial Stocks Higher Friday Afternoon",
       "summary": "Financial stocks were advancing in Friday afternoon trading, with the NYSE Financial Index rising 0.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-07T14:15:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/ndaq-boosts-ai-data-driven-141500102.html"
-    },
-    {
-      "title": "Record August Futures Volumes Could Be A Game Changer For Intercontinental Exchange (ICE)",
-      "summary": "In August 2026, Intercontinental Exchange, Inc. reported strong operating metrics, with double-digit year-over-year growth in average daily volume and open interest across major asset classes, including record interest rate futures open interest of 16.8 million lots on August 31. An interesting development is the record growth in Agriculture & Metals contracts, where average daily volume rose very large year over year and open interest increased more than half, highlighting broadened...",
-      "pub_date": "2026-09-06T01:07:34Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/record-august-futures-volumes-could-010734230.html"
     }
   ]
 }

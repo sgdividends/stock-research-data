@@ -1,7 +1,21 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-09-11T18:56:18.181050+00:00",
+  "generated_at": "2026-09-11T22:09:57.298743+00:00",
   "items": [
+    {
+      "title": "ServiceNow (NOW) Outperforms Broader Market: What You Need to Know",
+      "summary": "In the most recent trading session, ServiceNow (NOW) closed at $132.53, indicating a +1.04% shift from the previous trading day.",
+      "pub_date": "2026-09-11T21:45:03Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-now-outperforms-broader-market-214503848.html"
+    },
+    {
+      "title": "Is Salesforce Stock Cheap Because Software Is Dying?",
+      "summary": "Salesforce (CRM) trades at 20.6 times earnings, below the S&P 500 median of 22.6, after losing 2.8% over the past twelve months while the index gained 17.9%. A profitable software company priced under the market is the setup value buyers wait for. The question is whether that is a good business on sale or a fair price for a legacy platform facing disintermediation from next-generation AI architectures.",
+      "pub_date": "2026-09-11T19:04:06Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-stock-cheap-because-software-190406517.html"
+    },
     {
       "title": "Is UiPath Stock A Buy After Falling Despite A Raised Outlook?",
       "summary": "UiPath (PATH) sells software that brings AI agents, robots, and people together to run business processes. Its Q2 FY2027 results beat management's guidance and the fiscal 2027 outlook went up, yet the shares fell 16.6% on September 4, the first trading day after the report, while the S&P 500 slipped 0.4%. The earnings call also carried an analyst's question about a new AI model said to be far better at workflow jobs.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-10T19:01:15Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-just-gained-23-month-190115206.html"
-    },
-    {
-      "title": "Prediction: ServiceNow Will be Worth This in 2028",
-      "summary": "ServiceNow just crossed a billion dollars in AI revenue while its stock sits near multiyear lows, and the gap between those two realities points toward a very specific number for 2028.",
-      "pub_date": "2026-09-10T17:00:50Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-servicenow-worth-2028-170050101.html"
-    },
-    {
-      "title": "ServiceNow Maps AI Control Tower Strategy as Agents, Security Drive Growth",
-      "summary": "ServiceNow (NYSE:NOW) outlined its approach to enterprise artificial intelligence, security and workflow automation during a discussion at the Goldman Sachs Communacopia Conference, with Bill McDermott emphasizing the company\u2019s focus on integrating AI agents, data and security controls on a common p",
-      "pub_date": "2026-09-10T13:02:06Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-maps-ai-control-tower-130206505.html"
     }
   ]
 }
