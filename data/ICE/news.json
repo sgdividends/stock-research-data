@@ -1,7 +1,14 @@
 {
   "ticker": "ICE",
-  "generated_at": "2026-09-11T15:42:35.324618+00:00",
+  "generated_at": "2026-09-11T18:56:05.242759+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Higher Friday Afternoon",
+      "summary": "Financial stocks were advancing in Friday afternoon trading, with the NYSE Financial Index rising 0.",
+      "pub_date": "2026-09-11T17:59:03Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-higher-friday-175903868.html"
+    },
     {
       "title": "Can Fenics AI Boost BGC's Trading Efficiency and Operating Leverage?",
       "summary": "BGC's Fenics AI is likely to automate institutional trading, boost transaction capacity and operating leverage as it rolls out to clients in late 2026.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-06T01:07:34Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/record-august-futures-volumes-could-010734230.html"
-    },
-    {
-      "title": "Is Intercontinental Exchange (ICE) Opening New Growth Paths With Its Latest Exchange Deal?",
-      "summary": "Intercontinental Exchange (NYSE: ICE) announced that the New York Stock Exchange and the Korea Exchange have signed a memorandum of understanding to deepen market collaboration. The MOU focuses on cross border business opportunities, new product development and information sharing between the two exchanges. The agreement also targets improvements in trading infrastructure and market operations across both markets. This type of exchange level partnership is only one angle on how markets are...",
-      "pub_date": "2026-09-05T22:11:55Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intercontinental-exchange-ice-opening-growth-221155500.html"
     }
   ]
 }

@@ -1,13 +1,34 @@
 {
   "ticker": "ANET",
-  "generated_at": "2026-09-11T15:42:04.041660+00:00",
+  "generated_at": "2026-09-11T18:55:35.898068+00:00",
   "items": [
     {
-      "title": "Stock Market Today: Dow Rallies On Surprise Inflation Data; These Tech Names Lead This List (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index rallies Friday after a surprise CPI inflation report. Nvidia stock rebounded in morning trading.",
-      "pub_date": "2026-09-11T15:21:52Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-cpi-inflation-report-oracle-stock-orcl/?src=A00220&yptr=yahoo"
+      "title": "Dell and HPE Stocks Are Surging on the AI Spending Boom",
+      "summary": "Dell Technologies and HPE stocks are leading the S&P 500 higher as Oracle\u2019s massive spending plans reinforce optimism about demand for AI data-center hardware.",
+      "pub_date": "2026-09-11T18:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/dell-hpe-stock-ai-spending-oracle-617217e8?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Ciena Climbs 5% as Post-Earnings Selloff Reverses; Arista Networks Rises 5%, Cisco Jumps 4%",
+      "summary": "Networking stocks are surging well beyond the broader tech sector, and no earnings report, contract award, or company announcement explains why Ciena, Arista, and Cisco are all moving together on the same Friday afternoon.",
+      "pub_date": "2026-09-11T17:56:53Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ciena-climbs-5-post-earnings-175653200.html"
+    },
+    {
+      "title": "Ciena's Backlog Or Arista's Margins: Which Should Carry Your AI Network Bet?",
+      "summary": "If you own Ciena (CIEN) or Arista Networks, you own one idea: AI is driving fast growth in network traffic, and both sell the equipment that carries it. Both raised their revenue outlooks in their latest reports, and both say they could ship more if supply loosened. Then the pair splits. Ciena's case rests on orders it cannot yet fill, while Arista already keeps about 43 cents of every sales dollar as operating profit.",
+      "pub_date": "2026-09-11T17:17:18Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/technology/articles/cienas-backlog-aristas-margins-carry-171718720.html"
+    },
+    {
+      "title": "Stock Market Midday, Sept. 11: Stocks Rise as Falling Oil Prices Outweigh Sticky Inflation",
+      "summary": "On Sept. 11, 2026, oil prices retreated intraday, helping investors look past sticky inflation data and fueling risk-on sentiment.",
+      "pub_date": "2026-09-11T16:53:19Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-sept-11-165319326.html"
     },
     {
       "title": "AI Capex Creates New Investment Cycle: NVIDIA & 2 Other Stocks to Buy",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-10T17:02:19Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-powering-ai-boom-170219071.html"
-    },
-    {
-      "title": "How Far Can Arista Networks Stock Move On You In A Year?",
-      "summary": "Arista Networks (ANET) trades near $195, and its option chain prices a range for the coming twelve months running from a floor near $112.90 to a ceiling of $336.68. That spread is wide enough to change what a sensible position looks like. The options market is pricing this move at almost exactly what the stock has already delivered, 0.98 times realized volatility, hardly the calmer outcome the wide band might suggest.",
-      "pub_date": "2026-09-10T00:57:38Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/far-arista-networks-stock-move-005738192.html"
-    },
-    {
-      "title": "How Far Could Cisco Stock Fall With Its Fastest Growth Riding On Hyperscalers?",
-      "summary": "Cisco Systems (CSCO) trades near $109, about 16% below its 52-week high, after falling 10.1% over the past month. It is still up 66.6% over the trailing twelve months, against 19.3% for the S&P 500. Its own record since 2007 says a stock like this falls about as hard as the market and has usually come back within months, though its deepest shock-era fall took years. What Cisco sells, and who buys it, has changed since that record was set.",
-      "pub_date": "2026-09-09T22:15:00Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/far-could-cisco-stock-fall-221500760.html"
-    },
-    {
-      "title": "Arista Networks (ANET) Falls More Steeply Than Broader Market: What Investors Need to Know",
-      "summary": "In the most recent trading session, Arista Networks (ANET) closed at $192.93, indicating a -1.04% shift from the previous trading day.",
-      "pub_date": "2026-09-09T21:45:05Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-anet-falls-more-214505153.html"
     }
   ]
 }

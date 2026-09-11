@@ -1,7 +1,14 @@
 {
   "ticker": "BKR",
-  "generated_at": "2026-09-11T15:42:08.688854+00:00",
+  "generated_at": "2026-09-11T18:55:40.194344+00:00",
   "items": [
+    {
+      "title": "U.S. Oil Rig Count Rises as Oil Tops $100",
+      "summary": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday",
+      "pub_date": "2026-09-11T17:19:17Z",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/u-oil-rig-count-rises-171917717.html"
+    },
     {
       "title": "Baker Hughes (BKR) Stock Trades Down, Here Is Why",
       "summary": "Shares of energy technology company Baker Hughes (NASDAQ:BKR) fell 6.5% in the afternoon session after CEO Lorenzo Simonelli stated at the Barclays conference that integration costs and weaker margins from the Chart Industries acquisition will weigh on near-term financial performance.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-07T08:16:08Z",
       "source": "Offshore Technology",
       "url": "https://finance.yahoo.com/energy/articles/baker-hughes-stimulation-services-bp-081608146.html"
-    },
-    {
-      "title": "Basin rig count up one as prices surge",
-      "summary": "The rig count in the Permian Basin was up one this week, the latest count Friday by Baker Hughes shows, with 268 rigs active in the region. A year ago, 254 rigs were active in the region. Nationally, the oil and gas rig count is unchanged from last week at 588 rigs. A year ago, 537 rigs were active. The count shows that 449 rigs sought oil, up two from the previous week, and 130 explored for ...",
-      "pub_date": "2026-09-05T00:01:00Z",
-      "source": "Odessa American, Texas",
-      "url": "https://finance.yahoo.com/energy/articles/basin-rig-count-one-prices-000100672.html"
     }
   ]
 }

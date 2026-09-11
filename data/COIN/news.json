@@ -1,13 +1,41 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-09-11T15:42:15.138760+00:00",
+  "generated_at": "2026-09-11T18:55:46.480604+00:00",
   "items": [
+    {
+      "title": "Coinbase CFO: We have a backup plan if the Clarity Act fails in Congress",
+      "summary": "Top Coinbase execs level-set on the outlook for crypto, minus the Clarity Act.",
+      "pub_date": "2026-09-11T16:34:28Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/coinbase-cfo-we-have-a-backup-plan-if-the-clarity-act-fails-in-congress-163428584.html"
+    },
     {
       "title": "Coinbase is not slowing down if CLARITY Act fails",
       "summary": "Coinbase (COIN) CFO Alesia Haas and COO Emilie Choi join Yahoo Finance Executive Editor Brian Sozzi to talk about pending crypto legislation and the path of regulation in the event the Clarity Act fails. Disclosure: Yahoo Finance has a partnership with Coinbase.",
       "pub_date": "2026-09-11T15:09:24Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/coinbase-not-slowing-down-clarity-150924856.html"
+    },
+    {
+      "title": "Weekly Wrap: Rate Hike Expectations Pressure Crypto",
+      "summary": "Bitcoin (CRYPTO: $BTC) and other cryptocurrencies were down to end the trading week on Sept. 11 as the odds of an i...",
+      "pub_date": "2026-09-11T18:44:00Z",
+      "source": "CryptoProwl",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-rate-hike-expectations-184400665.html"
+    },
+    {
+      "title": "AMC Gains 5% on Tokenization Truce Signal, Robinhood Barely Budges; Cinemark Treads Water",
+      "summary": "Robinhood's CEO said something softer about AMC, and AMC stock jumped 5% while Robinhood stock barely flinched. The divergence reveals exactly which company investors think has more to gain from a tokenization truce.",
+      "pub_date": "2026-09-11T17:13:25Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amc-gains-5-tokenization-truce-171325013.html"
+    },
+    {
+      "title": "Fed Rate Hike Close To A Lock; Clarity Act Vote Looms: Week Ahead",
+      "summary": "A Federal Reserve rate hike is likely while the crypto Clarity Act faces long odds with a Senate vote on deck. Salesforce holds its Dreamforce conference.",
+      "pub_date": "2026-09-11T15:39:54Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/research/investing-action-plan/federal-reserve-rate-hike-close-to-clarity-act-vote-salesforce-dreamforce/?src=A00220&yptr=yahoo"
     },
     {
       "title": "Senate Republicans Introduce Clarity Act Changes Ahead Of Key Vote",
@@ -29,34 +57,6 @@
       "pub_date": "2026-09-11T15:03:49Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-price-surges-past-2-150349983.html"
-    },
-    {
-      "title": "XRP Price Prediction: We Asked ChatGPT Where XRP Trades in 2 Years",
-      "summary": "ChatGPT handed down a specific two-year price target for XRP, but the road to get there runs straight through a Senate vote, stalling ETF inflows, and a record XRP has never actually broken.",
-      "pub_date": "2026-09-11T12:19:43Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-price-prediction-asked-chatgpt-121943490.html"
-    },
-    {
-      "title": "Coinbase Global Maps \u2018Everything Exchange\u2019 Push Beyond Crypto Trading",
-      "summary": "Coinbase Global (NASDAQ:COIN) executives outlined an expansion strategy centered on diversifying beyond spot cryptocurrency trading, adding new trading products, scaling stablecoin and tokenization offerings, and building infrastructure for on-chain transactions. Speaking at a GS Research event, Pr",
-      "pub_date": "2026-09-11T12:02:03Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-global-maps-everything-exchange-120203770.html"
-    },
-    {
-      "title": "Bitcoin Could Hit $400K, Coinbase CEO Says as Iran War Threatens Rally",
-      "summary": "Coinbase CEO Brian Armstrong believes Bitcoin has bottomed and considers $400,000 a reasonable target by 2030. It comes as Bitcoin is nearing a \"golden cross.\" ...",
-      "pub_date": "2026-09-11T11:52:15Z",
-      "source": "CCN",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-could-hit-400k-coinbase-115215525.html"
-    },
-    {
-      "title": "Coinbase Partners with Moov to Bring Stablecoins to 1,000+ Community Banks",
-      "summary": "Coinbase and Moov are partnering to bring stablecoin payments and settlement infrastructure to Moov\u2019s network of more than 1,000 US community banks and credit unions. ...",
-      "pub_date": "2026-09-11T11:17:15Z",
-      "source": "CCN",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-partners-moov-bring-stablecoins-111715458.html"
     }
   ]
 }

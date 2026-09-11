@@ -1,7 +1,14 @@
 {
   "ticker": "TMUS",
-  "generated_at": "2026-09-11T15:43:03.330718+00:00",
+  "generated_at": "2026-09-11T18:56:32.287943+00:00",
   "items": [
+    {
+      "title": "Fed\u2019s Rate Decision May Have Come Down to Phone Plan Changes",
+      "summary": "A record jump in the price of cellular phone services helped tip a key measure of US inflation above forecasts, likely sealing the deal for a Federal Reserve interest-rate increase next week.",
+      "pub_date": "2026-09-11T15:43:04Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/economy/policy/articles/fed-rate-decision-may-come-154304847.html"
+    },
     {
       "title": "Is The Next Leg In Verizon Stock Riding On Customers Who Stay?",
       "summary": "Verizon Communications (VZ) shares sit at the top of a $36.56-to-$50.59 52-week range, up 22.7% over the past twelve months. The exciting part of that story is the dark fiber Verizon has begun selling into AI infrastructure builds. The part that can actually move the stock is duller. Verizon has finally started keeping its customers.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-09T13:00:02Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/following-activist-investor-elliott-large-130002930.html"
-    },
-    {
-      "title": "T-Mobile makes a significant change to where customers get help",
-      "summary": "T-Mobile\u2019s latest move adds to a broader shift in how it serves customers.",
-      "pub_date": "2026-09-08T20:07:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/articles/t-mobile-continues-significant-store-200700402.html"
     }
   ]
 }

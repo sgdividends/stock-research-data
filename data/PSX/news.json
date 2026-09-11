@@ -1,7 +1,21 @@
 {
   "ticker": "PSX",
-  "generated_at": "2026-09-11T15:42:55.092489+00:00",
+  "generated_at": "2026-09-11T18:56:24.253221+00:00",
   "items": [
+    {
+      "title": "Update: Market Chatter: White House Looking to Expand US Oil Refining Capacity",
+      "summary": "(Updates with White House comment in the last paragraph.) The White House is mulling ways it can",
+      "pub_date": "2026-09-11T18:11:41Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/market-chatter-white-house-looking-181141019.html"
+    },
+    {
+      "title": "Par Pacific Surges 148% in a Year: Should You Bet on the Momentum?",
+      "summary": "PARR's 148% one-year surge is backed by a flexible crude mix, strong refining margins and a 3.50x EV/EBITDA valuation below the industry average.",
+      "pub_date": "2026-09-11T16:15:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/par-pacific-surges-148-bet-161500137.html"
+    },
     {
       "title": "What Does the Future Hold for Par Pacific's Refining Business?",
       "summary": "PARR benefits from strong refining margins, firm fuel demand and tight inventories, though the Hawaii turnaround may curb near-term throughput.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-09T19:54:28Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/oils-energy-stocks-lagging-par-195428828.html"
-    },
-    {
-      "title": "Phillips 66 (PSX) Hit a 52 Week High, Can the Run Continue?",
-      "summary": "Phillips 66 (PSX) is at a 52-week high, but can investors hope for more gains in the future? We take a look at the company's fundamentals for clues.",
-      "pub_date": "2026-09-09T19:53:36Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-psx-hit-52-195336656.html"
-    },
-    {
-      "title": "Trump oil and gas holdings gained up to $4.4M during Iran war",
-      "summary": "A CNBC analysis found Trump's 9 largest energy positions rose between $1.5M and $4.4M in the first six months of fighting",
-      "pub_date": "2026-09-09T11:58:46Z",
-      "source": "Quartz",
-      "url": "https://finance.yahoo.com/energy/articles/trump-oil-gas-holdings-gained-115846187.html"
     }
   ]
 }

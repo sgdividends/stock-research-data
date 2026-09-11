@@ -1,7 +1,14 @@
 {
   "ticker": "V",
-  "generated_at": "2026-09-11T15:43:07.309819+00:00",
+  "generated_at": "2026-09-11T18:56:35.894017+00:00",
   "items": [
+    {
+      "title": "PayPal Expands Its Payment Reach: Buy, Hold or Fold the Stock?",
+      "summary": "PayPal expands into tuition, BNPL and merchant payments, giving the company more ways to reach customers and grow.",
+      "pub_date": "2026-09-11T16:35:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-expands-payment-reach-buy-163500110.html"
+    },
     {
       "title": "Visa Positions Itself for the Next Wave of Stablecoin Payments",
       "summary": "Visa Inc. (NYSE:V) is expanding its data offering to blockchain-based lenders as demand for stablecoin-linked cards accelerates. Visa said it is combining its VisaNet settlement data with onchain lending infrastructure to help stablecoin card programs and fintechs obtain working capital more efficiently. The company currently has more than 160 stablecoin-linked card programs, with payment volume [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-10T20:10:58Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/visa-stock-expensive-just-waiting-201058719.html"
-    },
-    {
-      "title": "Mastercard's AI Checkout Pact Targets the Internet's Next Fraud Problem",
-      "summary": "Autonomous purchasing needs shared identity standards before payment networks can safely scale it across merchants.",
-      "pub_date": "2026-09-10T17:52:38Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mastercards-ai-checkout-pact-targets-175238678.html"
     }
   ]
 }

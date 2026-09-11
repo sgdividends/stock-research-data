@@ -1,7 +1,14 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-09-11T15:42:48.666728+00:00",
+  "generated_at": "2026-09-11T18:56:18.181050+00:00",
   "items": [
+    {
+      "title": "Is UiPath Stock A Buy After Falling Despite A Raised Outlook?",
+      "summary": "UiPath (PATH) sells software that brings AI agents, robots, and people together to run business processes. Its Q2 FY2027 results beat management's guidance and the fiscal 2027 outlook went up, yet the shares fell 16.6% on September 4, the first trading day after the report, while the S&P 500 slipped 0.4%. The earnings call also carried an analyst's question about a new AI model said to be far better at workflow jobs.",
+      "pub_date": "2026-09-11T17:28:28Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/uipath-stock-buy-falling-despite-172828130.html"
+    },
     {
       "title": "Adobe Pulls Back, Then Recovers as CEO Handoff Meets Soft Q4 Outlook; Intuit and ServiceNow Hold Steady",
       "summary": "Adobe beat estimates and raised its full-year outlook, yet the stock still stumbled out of the gate Friday morning. A soft Q4 guide and a simultaneous CEO and CFO transition are now weighing on a franchise already down 30% for the year.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-10T13:02:06Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-maps-ai-control-tower-130206505.html"
-    },
-    {
-      "title": "Dips In UiPath Stock Have Mostly Kept Falling, Will This One Too?",
-      "summary": "UiPath (PATH) has dropped about 25% from its late-August high, and the question is whether that is an opening or a warning. Its own history leans toward warning: most declines this size kept falling. What that history cannot see is a company that is profitable now, consolidating its biggest customers' automation onto one platform while its smallest ones leave.",
-      "pub_date": "2026-09-10T01:43:08Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dips-uipath-stock-mostly-kept-014308637.html"
     }
   ]
 }
