@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "generated_at": "2026-09-12T02:40:42.139756+00:00",
+  "generated_at": "2026-09-12T08:18:13.542660+00:00",
   "items": [
     {
       "title": "Oracle is the most attractive AI cloud, analyst says",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-11T14:45:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/oracle-most-attractive-ai-cloud-144500691.html"
+    },
+    {
+      "title": "Microsoft Signs \u2018Iron-Clad\u2019 AI Safety Deal \u2014 Schools Can Seek Damages if Student Data Is Misused",
+      "summary": "Microsoft Corp, the American Federation of Teachers (AFT) and the United Federation of Teachers (UFT) have agreed on a new \u201cNational AI Safety & Privacy Standard\u201d for schools. The agreement, which was announced in a joint press release on Wednesday,...",
+      "pub_date": "2026-09-12T02:30:05Z",
+      "source": "Benzinga",
+      "url": "https://www.yahoo.com/news/us/articles/microsoft-signs-iron-clad-ai-023005073.html"
     },
     {
       "title": "Microsoft Stock Is Flat So Far in 2026. Is a Rally Coming to End the Year?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-11T21:17:43Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/far-could-two-stock-fall-211743965.html"
-    },
-    {
-      "title": "Microsoft Gains After Signing 10 Enforceable School-AI Guardrails",
-      "summary": "The agreement sacrifices student-data flexibility to reopen a procurement market increasingly threatened by outright AI bans.",
-      "pub_date": "2026-09-11T21:11:30Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-gains-signing-10-enforceable-211130848.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "MS",
-  "generated_at": "2026-09-12T02:40:41.848149+00:00",
+  "generated_at": "2026-09-12T08:18:13.272773+00:00",
   "items": [
+    {
+      "title": "Morgan Stanley warns of possible stock market correction",
+      "summary": "Mike Wilson sees trouble ahead, but his advice is surprising.",
+      "pub_date": "2026-09-12T03:33:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-warns-possible-stock-033300942.html"
+    },
     {
       "title": "Morgan Stanley makes its first call on major crypto stock",
       "summary": "The bank believes Coinbase is becoming a key bridge between traditional finance and digital assets.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-10T21:50:03Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-ms-sees-more-215003477.html"
-    },
-    {
-      "title": "Why Baker Hughes Stock Is Having Its Worst Day in More Than a Year",
-      "summary": "Baker Hughes stock falls as the addition of a key acquisition to the company\u2019s outlook didn\u2019t impress Wall Street.",
-      "pub_date": "2026-09-10T18:13:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/baker-hughes-stock-energy-oil-f0b3bfbc?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

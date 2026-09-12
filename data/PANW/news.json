@@ -1,7 +1,14 @@
 {
   "ticker": "PANW",
-  "generated_at": "2026-09-12T02:40:48.029987+00:00",
+  "generated_at": "2026-09-12T08:18:18.933187+00:00",
   "items": [
+    {
+      "title": "Why Palo Alto Networks (PANW) Shares Are Trading Lower Today",
+      "summary": "Shares of cybersecurity platform provider Palo Alto Networks (NASDAQ:PANW) fell 3% in the afternoon session after the company published a security advisory addressing a critical buffer overflow vulnerability in its PAN-OS software. The security advisory detailed an XML processing flaw in PAN-OS, cataloged as CVE-2026-0310 with a CVSSv4 base score of 9.2. This high-severity vulnerability enables unauthenticated attackers to execute arbitrary code with root privileges or trigger denial-of-service",
+      "pub_date": "2026-09-12T05:31:05Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-palo-alto-networks-panw-053105774.html"
+    },
     {
       "title": "Palo Alto (PANW)\u2019s CEO Puts a Trillion-Dollar Number on the AI Security Gap",
       "summary": "CNBC reported that Palo Alto Networks, Inc. (NASDAQ:PANW) CEO Nikesh Arora said on September 1 that AI is forcing companies to modernize roughly $1 trillion of aging cybersecurity infrastructure that cannot handle attacks moving at machine speed. Arora told CNBC\u2019s Jim Cramer, \u201cYou have to rethink your cyber architecture,\u201d arguing that security modernization is now [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-11T01:06:52Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/really-behind-crowdstrike-stocks-doubling-010652647.html"
-    },
-    {
-      "title": "Dell enters the S&P 100 index after monstrous three-year rally",
-      "summary": "Here\u2019s what\u2019s driving Dell stock and its price target following its 700% climb.",
-      "pub_date": "2026-09-11T00:03:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-enters-p-100-index-000300412.html"
     }
   ]
 }
