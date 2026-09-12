@@ -1,7 +1,14 @@
 {
   "ticker": "V",
-  "generated_at": "2026-09-12T18:02:30.797040+00:00",
+  "generated_at": "2026-09-12T21:54:15.048503+00:00",
   "items": [
+    {
+      "title": "Agentic commerce: Is Payments the winner this time?",
+      "summary": "Investing.com -- Agentic commerce accounts for less than 1% of overall e-commerce activity, even as new AI shopping tools from Meta and Anthropic launched this week.",
+      "pub_date": "2026-09-12T21:33:09Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/agentic-commerce-payments-winner-time-213309351.html"
+    },
     {
       "title": "MoneyGram Launched a Visa Card That Spends USDC. Ripple\u2019s Former Partner Chose Circle",
       "summary": "MoneyGram just built a Visa card that spends stablecoins at any merchant, and the stablecoin it chose raises an uncomfortable question for Ripple's payments ambitions.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-11T13:05:42Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-visa-agentic-commerce-play-130542438.html"
-    },
-    {
-      "title": "Visa offers data to back onchain lending",
-      "summary": "The card network aims to offer settlement and blockchain data so fintechs and card programs backed by stablecoins can better access onchain credit.",
-      "pub_date": "2026-09-11T10:55:46Z",
-      "source": "Payments Dive",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/visa-offers-data-back-onchain-105546981.html"
     }
   ]
 }

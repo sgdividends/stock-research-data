@@ -1,7 +1,14 @@
 {
   "ticker": "ANET",
-  "generated_at": "2026-09-12T18:01:31.754797+00:00",
+  "generated_at": "2026-09-12T21:53:15.277275+00:00",
   "items": [
+    {
+      "title": "Jim Cramer Doubles Down on This $252B AI Stock: \u201cYou Have to Buy\u201d Every Dip",
+      "summary": "Jim Cramer told a grandfather and his granddaughter to keep buying Arista Networks on every dip, calling the CEO \"money\" and refusing to back down despite a valuation that punishes any slip in execution.",
+      "pub_date": "2026-09-12T17:56:53Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-doubles-down-252b-175653335.html"
+    },
     {
       "title": "Dow Jones Futures: Fed Rate Hike Seen As Oil, Yields Pressure Stocks; Apple, Moderna Are New Buys",
       "summary": "Despite Friday's bounce, stocks are struggling amid surging oil prices and yields, though Apple, Moderna are buys. The Fed meeting looms.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-11T17:56:53Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ciena-climbs-5-post-earnings-175653200.html"
-    },
-    {
-      "title": "Ciena's Backlog Or Arista's Margins: Which Should Carry Your AI Network Bet?",
-      "summary": "If you own Ciena (CIEN) or Arista Networks, you own one idea: AI is driving fast growth in network traffic, and both sell the equipment that carries it. Both raised their revenue outlooks in their latest reports, and both say they could ship more if supply loosened. Then the pair splits. Ciena's case rests on orders it cannot yet fill, while Arista already keeps about 43 cents of every sales dollar as operating profit.",
-      "pub_date": "2026-09-11T17:17:18Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/technology/articles/cienas-backlog-aristas-margins-carry-171718720.html"
     }
   ]
 }

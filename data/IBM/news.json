@@ -1,7 +1,14 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-09-12T18:01:59.179073+00:00",
+  "generated_at": "2026-09-12T21:53:43.749376+00:00",
   "items": [
+    {
+      "title": "The Agent Governance Stack Is Forming: Four Products, Two Weeks, One Pattern",
+      "summary": "Four enterprise software vendors shipped standalone AI agent governance products between August 24 and early September 2026. The window between the first launch and the last was roughly two weeks. None of them waited for the agents to figure out their own rules first. Okta went first on August 24, making Agent SSO generally available [\u2026]",
+      "pub_date": "2026-09-12T20:44:05Z",
+      "source": "Forkast News",
+      "url": "https://finance.yahoo.com/technology/ai/articles/agent-governance-stack-forming-four-204405621.html"
+    },
     {
       "title": "IBM just placed two very different tech bets in one day",
       "summary": "Two partnerships. Two industries. One company quietly expanding its reach in ways investors should notice.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-11T14:15:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/ibms-latest-innovation-hub-advance-141500761.html"
-    },
-    {
-      "title": "IonQ Advances Quantum Computing With Superion 256: What's Ahead?",
-      "summary": "IONQ's Superion 256 advances quantum computing with 256-qubit QPUs, faster chip design and data center deployment planned for 2027.",
-      "pub_date": "2026-09-11T12:37:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ionq-advances-quantum-computing-superion-123700551.html"
     }
   ]
 }
