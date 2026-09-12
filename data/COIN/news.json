@@ -1,6 +1,6 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-09-11T22:09:22.672214+00:00",
+  "generated_at": "2026-09-12T02:40:06.952162+00:00",
   "items": [
     {
       "title": "Coinbase CFO: We have a backup plan if the Clarity Act fails in Congress",
@@ -15,6 +15,20 @@
       "pub_date": "2026-09-11T15:09:24Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/coinbase-not-slowing-down-clarity-150924856.html"
+    },
+    {
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "pub_date": "2026-09-11T22:58:17Z",
+      "source": "TechCrunch",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mecka-ai-nears-500m-valuation-225817378.html"
+    },
+    {
+      "title": "Morgan Stanley makes its first call on major crypto stock",
+      "summary": "The bank believes Coinbase is becoming a key bridge between traditional finance and digital assets.",
+      "pub_date": "2026-09-11T22:02:22Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-makes-first-call-220222586.html"
     },
     {
       "title": "Coinbase Is Pushing to Bring Stablecoins to 1,000 Community Banks. Here's Why Everyone Is Talking About Stablecoins Right Now.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-11T17:13:25Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/amc-gains-5-tokenization-truce-171325013.html"
-    },
-    {
-      "title": "Fed Rate Hike Close To A Lock; Clarity Act Vote Looms: Week Ahead",
-      "summary": "A Federal Reserve rate hike is likely while the crypto Clarity Act faces long odds with a Senate vote on deck. Salesforce holds its Dreamforce conference.",
-      "pub_date": "2026-09-11T15:39:54Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/research/investing-action-plan/federal-reserve-rate-hike-close-to-clarity-act-vote-salesforce-dreamforce/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "White House Adviser Held Up to $5M Coinbase Stake During Crypto Policy Push",
-      "summary": "White House National Economic Council Director Kevin Hassett held between $1 million and $5 million in Coinbase (NA...",
-      "pub_date": "2026-09-11T15:23:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/white-house-adviser-held-5m-152300134.html"
     }
   ]
 }

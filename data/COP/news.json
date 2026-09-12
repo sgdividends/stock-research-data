@@ -1,7 +1,14 @@
 {
   "ticker": "COP",
-  "generated_at": "2026-09-11T22:09:22.976864+00:00",
+  "generated_at": "2026-09-12T02:40:07.229138+00:00",
   "items": [
+    {
+      "title": "Saudi Arabia Shuts Key Pipeline, Adding Pressure to Oil Supplies",
+      "summary": "The 750-mile pipeline carries crude from eastern Saudi Arabia to the Red Sea port of Yanbu, avoiding shipping disruptions in the Strait of Hormuz.",
+      "pub_date": "2026-09-11T21:18:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/brent-crude-oil-saudi-arabia-pipeline-7b252b4d?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Update: US Equity Futures Lower Pre-Bell Thursday as Traders Assess Inflation Data Amid Higher Oil Prices",
       "summary": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-08T10:12:16Z",
       "source": "InvestorsHub",
       "url": "https://finance.yahoo.com/energy/articles/u-energy-stocks-rise-premarket-101216428.html"
-    },
-    {
-      "title": "Premarket movers: Energy stocks rise on Iran tensions, Eaton jumps on UBS upgrade",
-      "summary": "Investing.com -- U.S. stock futures fell early Tuesday, kicking off a shortened trading week as Wall Street monitored the U.S.-Iran conflict alongside rising trade tensions between Canada and the U.S. Futures tied to the Dow Jones Industrial Average fell 0.8% by 05:30 ET (09:30 GMT). S&P 500 futures fell 0.3% and Nasdaq-100 futures slipped 0.1%. U.S. markets were closed Monday for Labor Day.",
-      "pub_date": "2026-09-08T09:59:04Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-energy-stocks-rise-095904641.html"
     }
   ]
 }

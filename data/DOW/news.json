@@ -1,7 +1,14 @@
 {
   "ticker": "DOW",
-  "generated_at": "2026-09-11T22:09:28.007213+00:00",
+  "generated_at": "2026-09-12T02:40:13.265012+00:00",
   "items": [
+    {
+      "title": "Dow Inc. (DOW) Stock Sinks As Market Gains: Here's Why",
+      "summary": "Dow Inc. (DOW) concluded the recent trading session at $29.03, signifying a -2.06% move from its prior day's close.",
+      "pub_date": "2026-09-11T22:15:03Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-inc-dow-stock-sinks-221503726.html"
+    },
     {
       "title": "Dow Stock: Is DOW Outperforming the Materials Sector?",
       "summary": "While Dow notably outpaced the broader materials sector over the past year, analysts are fairly bullish on its outlook.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-01T08:12:52Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dow-dow-undervalued-dividend-upside-081252085.html"
-    },
-    {
-      "title": "Dow (DOW) Stock Looks Reasonable With 25% Upside To Fair Value",
-      "summary": "Dow stock has delivered a strong rebound over the past year, yet longer term shareholders still sit on losses while several valuation checks point to a discount to estimated intrinsic value. The key issue is that the Discounted Cash Flow (DCF) intrinsic value estimate and market multiples both suggest the shares trade below what the company\u2019s cash flows may justify. Over 5 years, Dow has declined 35.4% which means long term investors are still under water despite a more recent...",
-      "pub_date": "2026-09-01T05:04:35Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-dow-stock-looks-reasonable-050435350.html"
     }
   ]
 }

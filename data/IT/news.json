@@ -1,7 +1,14 @@
 {
   "ticker": "IT",
-  "generated_at": "2026-09-11T22:09:45.147715+00:00",
+  "generated_at": "2026-09-12T02:40:31.400949+00:00",
   "items": [
+    {
+      "title": "1 Cash-Producing Stock with Competitive Advantages and 2 Facing Challenges",
+      "summary": "Generating cash is essential for any business, but not all cash-rich companies are great investments. Some produce plenty of cash but fail to allocate it effectively, leading to missed opportunities.",
+      "pub_date": "2026-09-12T01:23:05Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-cash-producing-stock-competitive-012305560.html"
+    },
     {
       "title": "Are AI-driven customer service cuts here to stay? Gartner predicts rehiring",
       "summary": "Between AI tools that fail to deliver and leaders miscalculating the cost dynamics of AI, companies are being set up for whiplash and will likely need to rehire some of the staff they laid off.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-08T10:20:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-gartner-stock-skyrocketed-31-102000958.html"
-    },
-    {
-      "title": "The Agent Production Gap: When 171% ROI Isn\u2019t Enough to Ship",
-      "summary": "AI agents that successfully reach production scale deliver a 171% global return on investment, a figure that climbs to 192% in the United States, according to IDC and Microsoft research. These returns highlight a clear path to efficiency and profitability. Yet, if the economics are so compelling, why are so many organizations struggling to move [\u2026]",
-      "pub_date": "2026-09-06T12:36:05Z",
-      "source": "Forkast News",
-      "url": "https://finance.yahoo.com/technology/ai/articles/agent-production-gap-171-roi-123605791.html"
     }
   ]
 }

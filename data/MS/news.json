@@ -1,7 +1,14 @@
 {
   "ticker": "MS",
-  "generated_at": "2026-09-11T22:09:54.870828+00:00",
+  "generated_at": "2026-09-12T02:40:41.848149+00:00",
   "items": [
+    {
+      "title": "Morgan Stanley makes its first call on major crypto stock",
+      "summary": "The bank believes Coinbase is becoming a key bridge between traditional finance and digital assets.",
+      "pub_date": "2026-09-11T22:02:22Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-makes-first-call-220222586.html"
+    },
     {
       "title": "Morgan Stanley Gains After Helping Build Wall Street's New ChatGPT",
       "summary": "GPT-6 Astra can research companies, construct models and assemble pitchbooks behind bank-grade access and audit controls.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-10T18:13:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/baker-hughes-stock-energy-oil-f0b3bfbc?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "XYZ Stock Upgraded To \u2018Buy,\u2019 Cantor Raises Targets On Crypto Plays, Sees Bear-Market Bottom",
-      "summary": "StoneX analyst Mark Palmer upgraded Block to \u2018Buy\u2019 from \u2018Hold\u2019 and set a $105 price target, citing progress from the company\u2019s AI-focused reorganization.",
-      "pub_date": "2026-09-10T15:38:11Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/xyz-stock-upgraded-buy-cantor-153811381.html"
     }
   ]
 }

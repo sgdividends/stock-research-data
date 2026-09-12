@@ -1,7 +1,14 @@
 {
   "ticker": "F",
-  "generated_at": "2026-09-11T22:09:33.318123+00:00",
+  "generated_at": "2026-09-12T02:40:18.707228+00:00",
   "items": [
+    {
+      "title": "Ford to invest $1B in Kentucky truck plant",
+      "summary": "Ford CEO Jim Farley announced a $1 billion investment in a new paint shop at the Kentucky Truck Plant, where vehicles roll off the line every 45 seconds.",
+      "pub_date": "2026-09-11T20:20:05Z",
+      "source": "Fox Business",
+      "url": "https://finance.yahoo.com/economy/policy/articles/ford-invest-1b-kentucky-truck-202005189.html"
+    },
     {
       "title": "Is Tesla Stock Priced For Its Earnings Or Its Robots?",
       "summary": "Tesla (TSLA) stock trades at about $364, roughly 169 times its adjusted earnings over the past twelve months, meaning normalized net income with stock-based compensation added back. On analysts' own 2027 estimates, the multiple is still steep. So the price leans on wider margins and on products still early in their ramps.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-10T17:53:42Z",
       "source": "Detroit Free Press",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ford-invest-1b-kentucky-plant-175342630.html"
-    },
-    {
-      "title": "Ford invests $1B in its key Kentucky plant for truck, SUV production",
-      "summary": "The new paint shop for Ford\u2019s highest-revenue assembly plant will boost efficiency, the automaker said.",
-      "pub_date": "2026-09-10T17:47:00Z",
-      "source": "Wards Auto",
-      "url": "https://finance.yahoo.com/economy/articles/ford-invests-1b-key-kentucky-174700054.html"
     }
   ]
 }
