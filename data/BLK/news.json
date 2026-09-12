@@ -1,7 +1,14 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-09-12T14:49:35.904891+00:00",
+  "generated_at": "2026-09-12T18:01:35.988577+00:00",
   "items": [
+    {
+      "title": "Nvidia takes new role as AI\u2019s $5 trillion bill comes due",
+      "summary": "Nvidia\u2019s $500 billion AI push changes the game again.",
+      "pub_date": "2026-09-12T16:47:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-takes-role-ai-5-164700743.html"
+    },
     {
       "title": "Prediction: This Tech Giant Could Be Worth Twice as Much by 2030",
       "summary": "Meta is burning through capital at a pace that would make most CFOs flinch, yet the math behind a potential share price doubling by 2030 is more credible than Wall Street's one-year thinking suggests.",
@@ -15,6 +22,13 @@
       "pub_date": "2026-09-12T05:00:40Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/healthcare/articles/onward-medical-nv-onwrf-q2-050040970.html"
+    },
+    {
+      "title": "Block Makes a Federal Trust Bank Move That Could Reshape Its Fintech Model",
+      "summary": "Block filed with the OCC to form Builders Bank & Trust, N.A., a national trust charter aimed at cutting sponsor-bank fees and unifying compliance for Cash App and Square.",
+      "pub_date": "2026-09-11T17:50:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/block-makes-federal-trust-bank-175000248.html"
     },
     {
       "title": "Jensen Huang Mocks Nvidia \u2018Circular Financing\u2019 Fears: \u2018If That Is, Let\u2019s Do More of That\u2019",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-10T11:07:35Z",
       "source": "Private Banker International",
       "url": "https://finance.yahoo.com/markets/stocks/articles/danske-bank-unveils-wealth-advisory-110735047.html"
-    },
-    {
-      "title": "Market Chatter: Energy Transfer set to Switch Primary Listing To TXSE From NYSE",
-      "summary": "Energy Transfer LP (ET) is set to become the first major company to switch its primary listing from",
-      "pub_date": "2026-09-09T21:39:44Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-energy-transfer-set-213944721.html"
-    },
-    {
-      "title": "Texas Stock Exchange Is Close to Winning Its First Major Listing From New York",
-      "summary": "Texas Stock Exchange\u2019s audacious plan to challenge Wall Street\u2019s financial dominance hinges on convincing companies to ditch their New York listings.  Pipeline company  Energy Transfer  is set to be the first major company to switch its primary listing from New York to TXSE, according to people familiar with the matter.  The $75 billion company plans to move its listing from the New York Stock Exchange as soon as next month, the people said.",
-      "pub_date": "2026-09-09T20:51:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/texas-stock-exchange-is-close-to-winning-its-first-major-listing-from-new-york-569c0339?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

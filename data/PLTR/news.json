@@ -1,7 +1,14 @@
 {
   "ticker": "PLTR",
-  "generated_at": "2026-09-12T14:50:23.884759+00:00",
+  "generated_at": "2026-09-12T18:02:16.931083+00:00",
   "items": [
+    {
+      "title": "Palantir's Growth Has Kept Accelerating, but Can the Rally Continue?",
+      "summary": "The AI data analytics giant could run up against a wall in the near future.",
+      "pub_date": "2026-09-12T15:55:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palantirs-growth-kept-accelerating-rally-155500148.html"
+    },
     {
       "title": "Palantir and Nvidia Are Building a Sovereign AI Stack. Who Captures More of the Economics?",
       "summary": "Palantir Technologies Inc. (NASDAQ:PLTR) and NVIDIA Corporation (NASDAQ:NVDA) are pushing their partnership deeper into one of the most important emerging enterprise AI themes: keeping proprietary data and operational intelligence under customer control. On September 10, Palantir and Nvidia announced a sovereign AI architecture combining Nvidia\u2019s Nemotron open models with Palantir Foundry and AIP. The first [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-11T21:10:41Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/oracles-ai-cloud-growth-lifts-211041374.html"
-    },
-    {
-      "title": "Q&A: Kirkland & Ellis on AI and its deal with Palantir",
-      "summary": "Private equity advisers are racing to leverage AI and automate the services they provide to fund managers and their investors. Law firms, such as Kirkland & Ellis, have been among the most active adopters. The dominant name in private fund formation and sponsor-backed M&A, the firm rolled out its own AI platform in June, built with Palantir and designed to reshape the repetitive, boilerplate elements of fund formation work, such as drafting limited partnership agreements, closing investor commit",
-      "pub_date": "2026-09-11T21:04:03Z",
-      "source": "Pitchbook",
-      "url": "https://finance.yahoo.com/technology/ai/articles/q-kirkland-ellis-ai-deal-210403638.html"
     }
   ]
 }

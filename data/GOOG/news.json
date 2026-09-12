@@ -1,6 +1,6 @@
 {
   "ticker": "GOOG",
-  "generated_at": "2026-09-12T14:49:59.401601+00:00",
+  "generated_at": "2026-09-12T18:01:55.436164+00:00",
   "items": [
     {
       "title": "SpaceX signs $1.1 billion-per month computing deal",
@@ -10,8 +10,15 @@
       "url": "https://finance.yahoo.com/video/spacex-signs-1-1-billion-195052486.html"
     },
     {
+      "title": "Anthropic\u2019s Prisoner\u2019s Dilemma: Dario Amodei Hits the Brakes on AI While Begging Everyone Else to Do the Same",
+      "summary": "Anthropic's CEO just called on the entire AI industry to slow down, while his own company's balance sheet depends on the biggest accelerators in the business. The conflict at the heart of that position may be impossible to resolve.",
+      "pub_date": "2026-09-12T15:52:54Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-prisoner-dilemma-dario-amodei-155254071.html"
+    },
+    {
       "title": "\u2018The Oil of the Next 50 Years\u2019 \u2014 Trump Touts AI Data Centers Delivering Wealth and Investment to Communities",
-      "summary": "On a recent appearance on Laura Ingraham\u2019s The Ingraham Angle, President Trump called AI data centers \u201cthe oil of the next 50 years,\u201d arguing the buildout is delivering wealth and investment to American communities. He singled out Google (NASDAQ:GOOG) for building one in Europe, specifically Finland, and said he \u201cwasn\u2019t happy about that.\u201d He also [\u2026]",
+      "summary": "Trump is calling AI data centers the oil of the next 50 years and singling out Google for building one in the wrong country, but the communities he says will benefit are already absorbing a cost his pitch quietly skips.",
       "pub_date": "2026-09-12T14:44:01Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/oil-next-50-years-trump-144401770.html"
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-12T09:43:01Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/buy-alphabet-stock-now-094301702.html"
-    },
-    {
-      "title": "Meta May Overtake Google Search in Ad Revenue This Year, Bernstein Says",
-      "summary": "According to a note published on August 31, Bernstein analysts believe Meta Platforms, Inc. (NASDAQ:META) will surpass Alphabet Inc. (NASDAQ:GOOGL)\u2019s Google Search in advertising revenue by the end of 2026. The firm\u2019s theory is interesting for what it excludes: by omitting other Google ad revenue streams like Maps and Gmail, Bernstein says Meta Platforms, Inc. [\u2026]",
-      "pub_date": "2026-09-12T08:46:33Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/media-advertising/articles/meta-may-overtake-google-search-084633342.html"
     }
   ]
 }
