@@ -1,7 +1,14 @@
 {
   "ticker": "V",
-  "generated_at": "2026-09-12T08:18:36.828711+00:00",
+  "generated_at": "2026-09-12T14:50:38.544665+00:00",
   "items": [
+    {
+      "title": "MoneyGram Launched a Visa Card That Spends USDC. Ripple\u2019s Former Partner Chose Circle",
+      "summary": "MoneyGram just built a Visa card that spends stablecoins at any merchant, and the stablecoin it chose raises an uncomfortable question for Ripple's payments ambitions.",
+      "pub_date": "2026-09-12T11:04:14Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/moneygram-launched-visa-card-spends-110414409.html"
+    },
     {
       "title": "Visa Stock Rises as AI Alliance Forms, Trades 13.06% Below GF Value",
       "summary": "Visa, Mastercard and Ant International are developing shared identity standards for trusted AI purchasing agents.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-11T10:55:46Z",
       "source": "Payments Dive",
       "url": "https://finance.yahoo.com/markets/crypto/articles/visa-offers-data-back-onchain-105546981.html"
-    },
-    {
-      "title": "The Merchant Onboarding Gap: When Three Identity Standards Compete, the Merchant Pays the Integration Cost",
-      "summary": "Ant International, Visa, and Mastercard introduced the agentic commerce framework with a specific pitch: register an agent once, and it can transact everywhere. The idea was a single agent identity layer that would let autonomous software operate across merchants without repeated verification. The framework\u2019s merchant-side story has a hole in it. The framework addresses who [\u2026]",
-      "pub_date": "2026-09-10T20:18:32Z",
-      "source": "Forkast News",
-      "url": "https://finance.yahoo.com/technology/ai/articles/merchant-onboarding-gap-three-identity-201832965.html"
     }
   ]
 }

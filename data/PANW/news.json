@@ -1,7 +1,21 @@
 {
   "ticker": "PANW",
-  "generated_at": "2026-09-12T08:18:18.933187+00:00",
+  "generated_at": "2026-09-12T14:50:21.608732+00:00",
   "items": [
+    {
+      "title": "Ken Fisher Added to Cisco and Palo Alto Networks. Their AI Security Bets Face Different Tests",
+      "summary": "Ken Fisher\u2019s latest disclosed positions put two different approaches to AI infrastructure and security in the same portfolio. Cisco Systems, Inc. (NASDAQ:CSCO) combines networking equipment with security software. Palo Alto Networks, Inc. (NASDAQ:PANW) offers more concentrated exposure to security platforms, with acquisitions adding an integration test. September coverage brought renewed attention to Fisher\u2019s position increases. [\u2026]",
+      "pub_date": "2026-09-12T13:22:14Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ken-fisher-added-cisco-palo-132214941.html"
+    },
+    {
+      "title": "Nike Is Being Deleted From the S&P 100. Is Its Seat in the Dow Jones Industrial Average in Jeopardy?",
+      "summary": "Nike continues to make new lows while the major indexes hover around all-time highs.",
+      "pub_date": "2026-09-12T09:35:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nike-being-deleted-p-100-093500278.html"
+    },
     {
       "title": "Why Palo Alto Networks (PANW) Shares Are Trading Lower Today",
       "summary": "Shares of cybersecurity platform provider Palo Alto Networks (NASDAQ:PANW) fell 3% in the afternoon session after the company published a security advisory addressing a critical buffer overflow vulnerability in its PAN-OS software. The security advisory detailed an XML processing flaw in PAN-OS, cataloged as CVE-2026-0310 with a CVSSv4 base score of 9.2. This high-severity vulnerability enables unauthenticated attackers to execute arbitrary code with root privileges or trigger denial-of-service",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-11T12:00:53Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/etfs-and-funds/mutual-funds/best-mutual-funds-bet-big-on-crowdstrike-marvell-and-more-palantir-stock-returns-to-list/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Palo Alto Networks CEO Sees AI Driving Cybersecurity Consolidation and New Demand",
-      "summary": "Palo Alto Networks (NASDAQ:PANW) Chairman and CEO Nikesh Arora said artificial intelligence is increasing corporate focus on cybersecurity vulnerabilities while also creating new demands for security tools, data integration and network inspection. Speaking at a company news event, Arora said the re",
-      "pub_date": "2026-09-11T04:02:05Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-ceo-sees-040205726.html"
-    },
-    {
-      "title": "What Is Really Behind CrowdStrike Stock's Doubling?",
-      "summary": "CrowdStrike (CRWD) trades at $210.02, roughly double where it stood a year ago while the S&P 500 returned 19.3%, and it sits at about 91% of its 52-week high. The easy read is that the AI security trade has already happened and you are late to it. But its own recurring revenue base points at something steadier than a spike, and the price now assumes that steadiness.",
-      "pub_date": "2026-09-11T01:06:52Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/really-behind-crowdstrike-stocks-doubling-010652647.html"
     }
   ]
 }

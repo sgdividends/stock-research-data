@@ -1,7 +1,14 @@
 {
   "ticker": "LMT",
-  "generated_at": "2026-09-12T08:18:08.040791+00:00",
+  "generated_at": "2026-09-12T14:50:10.574314+00:00",
   "items": [
+    {
+      "title": "IBM just placed two very different tech bets in one day",
+      "summary": "Two partnerships. Two industries. One company quietly expanding its reach in ways investors should notice.",
+      "pub_date": "2026-09-12T11:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/articles/ibm-just-placed-two-very-110300391.html"
+    },
     {
       "title": "U.S. links Chinese satellite imagery to deadly Iranian strike - WSJ",
       "summary": "Investing.com -- U.S. officials have linked high-resolution satellite imagery supplied to Iran by Chinese entities to a July missile strike on a U.S. base in Jordan that killed three American troops, the Wall Street Journal reported exclusively on Friday.",
@@ -45,18 +52,11 @@
       "url": "https://www.barrons.com/articles/stock-market-things-to-know-today-332901d6?siteid=yhoof2&yptr=yahoo"
     },
     {
-      "title": "Lockheed Martin Yields 2.6% and Trades at 17.6 Times Earnings. Is Wall Street Right to Be Cautious on the Stock ?",
-      "summary": "The defense industry is changing, creating pressure on traditional ways of working.",
-      "pub_date": "2026-09-10T21:25:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-yields-2-6-212500136.html"
-    },
-    {
-      "title": "AeroVironment's Record Backlog and Earnings Beat Fuel Recovery Case",
-      "summary": "AeroVironment posted a Q1 revenue and earnings beat with record backlog, prompting Moderate Buy ratings from analysts and price targets implying significant upside from current levels.",
-      "pub_date": "2026-09-10T18:25:00Z",
+      "title": "IBM and Lockheed Martin Turn a Swiss Defense Deal Into a Quantum Computing Bet",
+      "summary": "Lockheed Martin and IBM are using Switzerland's F-35 defense offset obligations to fund a quantum computing hub at ETH Zurich, pairing IBM's Nighthawk r2 processor with the Alps supercomputer.",
+      "pub_date": "2026-09-11T11:25:00Z",
       "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/aerovironments-record-backlog-earnings-beat-182500948.html"
+      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-lockheed-martin-turn-swiss-112500662.html"
     }
   ]
 }
