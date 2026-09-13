@@ -1,7 +1,14 @@
 {
   "ticker": "ABNB",
-  "generated_at": "2026-09-13T18:28:11.190619+00:00",
+  "generated_at": "2026-09-13T22:00:42.764038+00:00",
   "items": [
+    {
+      "title": "Airbnb\u2019s CEO Says AI Is the Best Thing That Ever Happened to His Company. Here\u2019s Why",
+      "summary": "Brian Chesky made a bold claim at Goldman Sachs this week, comparing AI to electricity and calling it the best thing to ever happen to Airbnb. The real question is whether his numbers actually back that up or whether the growth gap he is touting will hold against a peer group running the exact same playbook.",
+      "pub_date": "2026-09-13T19:40:29Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/airbnb-ceo-says-ai-best-194029825.html"
+    },
     {
       "title": "Block CFO on AI doomsday debate: We need to balance innovation and safeguards",
       "summary": "Block CFO Amrita Ahuja aims to strike a balance between AI innovation and safety.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-09T16:55:20Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/loneliness-existential-species-match-ceo-165520745.html"
-    },
-    {
-      "title": "Cramer Hyped Anthropic\u2019s IPO, Then Its Own Researcher Put 10% Odds on AI Killing Us",
-      "summary": "Jim Cramer spent Tuesday night hyping what could be a landmark AI IPO, then spent Wednesday morning explaining why a safety researcher at that same company just made him want nothing to do with it.",
-      "pub_date": "2026-09-09T15:45:08Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cramer-hyped-anthropic-ipo-then-154508524.html"
     }
   ]
 }

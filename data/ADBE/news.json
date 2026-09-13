@@ -1,7 +1,21 @@
 {
   "ticker": "ADBE",
-  "generated_at": "2026-09-13T18:28:12.272545+00:00",
+  "generated_at": "2026-09-13T22:00:43.402295+00:00",
   "items": [
+    {
+      "title": "Adobe's user growth is soaring, but its stock rating isn't",
+      "summary": "Freemium adoption crossed a milestone this quarter, but one Wall Street bank says that\u2019s still not the metric that matters.",
+      "pub_date": "2026-09-13T21:47:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/adobes-user-growth-soaring-stock-214700533.html"
+    },
+    {
+      "title": "JPMorgan lowers Adobe stock price target",
+      "summary": "JPMorgan cut its Adobe stock price target to $315 from $340, but kept an Overweight rating, calling the shares cheap ahead of a monetization recovery.",
+      "pub_date": "2026-09-13T19:13:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-lowers-adobe-stock-price-191300014.html"
+    },
     {
       "title": "Adobe\u2019s (ADBE) AI Bet Is Finally Showing Up In Revenue",
       "summary": "On September 10, Adobe (NASDAQ:ADBE) posted record third-quarter revenue of $6.76 billion, up 13% year over year, and raised its full-year revenue and profit targets. Non-GAAP EPS climbed 15% to $6.13, while GAAP EPS rose 11% to $4.62. Buried inside those headline numbers was a sharper story: AI-first ending ARR topped $650 million, growing more [\u2026]",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-11T21:12:09Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-reworks-adobe-price-target-211209138.html"
-    },
-    {
-      "title": "JPMorgan Cuts Adobe Target to $315 as AI Monetization Concerns Persist",
-      "summary": "JPMorgan sees plenty of users. The harder part is turning them into paying customers.",
-      "pub_date": "2026-09-11T21:11:05Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-cuts-adobe-target-315-211105037.html"
-    },
-    {
-      "title": "Adobe Beats on Both Lines But Guides Below Consensus",
-      "summary": "AI-first ARR grew more than 150% and monthly active users passed one billion",
-      "pub_date": "2026-09-11T21:10:54Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-beats-both-lines-guides-211054501.html"
     }
   ]
 }

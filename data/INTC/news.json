@@ -1,7 +1,21 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-09-13T18:28:54.953627+00:00",
+  "generated_at": "2026-09-13T22:01:20.275577+00:00",
   "items": [
+    {
+      "title": "Forget Intel. Buy This Tech Stock in September Instead.",
+      "summary": "Sandisk is up more than 2,000% over the past year -- and it is still cheap.",
+      "pub_date": "2026-09-13T20:50:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/forget-intel-buy-tech-stock-205000747.html"
+    },
+    {
+      "title": "Intel (INTC) Is Winning From the CPU Shortage, but Its Foundry Valuation Needs More Proof",
+      "summary": "Back in April, Morgan Stanley had highlighted how accelerating Agentic AI demand could boost demand for central processing units (CPUs) beyond the \u200cgraphic chips that have dominated the AI theme so far. \u201cAs AI transitions from generation to autonomous action, the computing bottleneck is shifting towards CPU and memory, driving a step-change in general-purpose compute [\u2026]",
+      "pub_date": "2026-09-13T19:10:52Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-winning-cpu-shortage-191052125.html"
+    },
     {
       "title": "AMD and Intel\u2019s Shared AI Instructions Reach GCC. Can Software Cooperation Strengthen Both Stocks?",
       "summary": "AMD and Intel compete for processor customers, but they have a common interest in making developers comfortable staying with x86. A September 2 GCC commit added initial support for their AI Compute Extensions, or ACE, bringing that shared strategy into a widely used compiler\u2019s development code. For Advanced Micro Devices, Inc. (NASDAQ:AMD) and Intel Corporation [\u2026]",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-12T04:51:05Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-power-integrations-powi-stock-045105470.html"
-    },
-    {
-      "title": "Qorvo, Qualcomm, Texas Instruments, Vishay Intertechnology, and Impinj Stocks Trade Up, What You Need To Know",
-      "summary": "A number of stocks jumped in the morning session after macroeconomic relief from declining Treasury yields and lower oil prices, coupled with robust artificial intelligence demand projections, boosted sentiment across the chip industry.",
-      "pub_date": "2026-09-12T04:11:05Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qorvo-qualcomm-texas-instruments-vishay-041105294.html"
-    },
-    {
-      "title": "IPG Photonics, Intel, Marvell Technology, Semtech, and Penguin Solutions Shares Are Soaring, What You Need To Know",
-      "summary": "A number of stocks jumped in the morning session after macroeconomic relief from declining Treasury yields and lower oil prices, coupled with robust artificial intelligence demand projections, boosted sentiment across the chip industry.",
-      "pub_date": "2026-09-12T04:03:05Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ipg-photonics-intel-marvell-technology-040305330.html"
     }
   ]
 }
