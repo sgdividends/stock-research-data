@@ -1,7 +1,14 @@
 {
   "ticker": "SCHW",
-  "generated_at": "2026-09-13T02:39:00.126997+00:00",
+  "generated_at": "2026-09-13T15:28:39.764591+00:00",
   "items": [
+    {
+      "title": "Don't Let Your Teen Learn Investing Alone: 7 Ways Parents Can Lead the Way",
+      "summary": "New research shows 70% of teenagers are eager to get into the market \u2014 and they're looking to their parents for guidance.",
+      "pub_date": "2026-09-13T10:00:00Z",
+      "source": "Kiplinger",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dont-let-teen-learn-investing-100000686.html"
+    },
     {
       "title": "Week\u2019s Best: Schwab Hikes Minimums on Popular Tax Strategy",
       "summary": "Charles Schwab  is raising the minimum account balance for a tax-smart strategy favored by investment advisors who use Schwab\u2019s trading platform.  Starting Sept. 16, investors who want to take advantage of Schwab\u2019s long/short separately managed accounts will need minimum balances of $10 million, up from the current minimum of $1 million.  Schwab says the change will affect only new accounts, not existing ones.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-09T17:14:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/advisor/articles/charles-schwab-trading-data-stax-bc3e3fae?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "SpaceX, Nvidia Lead Schwab Buys As Software Rally Spurs Profit-Taking \u2013 Trading Gauge Posts First Dip Since April",
-      "summary": "Clients bought SPCX, NVDA, MU, INTC, and GOOGL, while net selling PLTR, MSFT, NOW, CRM, and ORCL.",
-      "pub_date": "2026-09-09T05:27:01Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-nvidia-lead-schwab-buys-052701125.html"
     }
   ]
 }

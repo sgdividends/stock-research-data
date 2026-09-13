@@ -1,7 +1,14 @@
 {
   "ticker": "UBER",
-  "generated_at": "2026-09-13T02:39:09.208654+00:00",
+  "generated_at": "2026-09-13T15:28:47.026448+00:00",
   "items": [
+    {
+      "title": "MarketBeat Week in Review \u2013 09/07 - 09/11",
+      "summary": "Stocks fell this week on oil prices and Fed rate-hike expectations, though Oracle's earnings underscored AI infrastructure strength. MarketBeat analysts recap top stories on earnings, defense, AI, and other stock opportunities.",
+      "pub_date": "2026-09-12T11:00:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-09-07-110000028.html"
+    },
     {
       "title": "Uber Cuts 10% of its Workforce to Fund a $10 Billion Robotaxi Bet",
       "summary": "Uber Technologies, Inc. (NYSE:UBER) announced on September 2 it will cut roughly 10% of its global corporate workforce, about 3,300 of its 34,000 employees, its largest layoffs since the pandemic, CNBC reported. CEO Dara Khosrowshahi told employees the changes are \u201cdesigned to do two things: make Uber simpler and faster and create more capacity to [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-11T17:21:46Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/darden-seen-maintaining-outlook-despite-172146503.html"
-    },
-    {
-      "title": "Grab Vs. Uber: One Exhibits Much Cleaner Upside",
-      "summary": "Both Grab and Uber just dropped quarterly results that tell very different stories about where growth actually lives inside each platform. One looks like the obvious winner until you flip the setup around and price in what comes next.",
-      "pub_date": "2026-09-11T16:55:30Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/grab-vs-uber-one-exhibits-165530199.html"
     }
   ]
 }

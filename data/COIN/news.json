@@ -1,7 +1,14 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-09-13T02:38:10.929560+00:00",
+  "generated_at": "2026-09-13T15:27:56.161599+00:00",
   "items": [
+    {
+      "title": "Morgan Stanley likes Coinbase's future, not its stock",
+      "summary": "A new rating draws a hard line between where the company is headed and what its shares are worth paying for today.",
+      "pub_date": "2026-09-13T13:33:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/morgan-stanley-likes-coinbases-future-133300772.html"
+    },
     {
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
       "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-11T16:34:28Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/coinbase-cfo-we-have-a-backup-plan-if-the-clarity-act-fails-in-congress-163428584.html"
-    },
-    {
-      "title": "Fed Rate Hike Close To A Lock; Clarity Act Vote Looms: Week Ahead",
-      "summary": "A Federal Reserve rate hike is likely while the crypto Clarity Act faces long odds with a Senate vote on deck. Salesforce holds its Dreamforce conference.",
-      "pub_date": "2026-09-11T15:39:54Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/research/investing-action-plan/federal-reserve-rate-hike-close-to-clarity-act-vote-salesforce-dreamforce/?src=A00220&yptr=yahoo"
     }
   ]
 }

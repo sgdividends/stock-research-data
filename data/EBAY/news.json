@@ -1,7 +1,14 @@
 {
   "ticker": "EBAY",
-  "generated_at": "2026-09-13T02:38:18.736221+00:00",
+  "generated_at": "2026-09-13T15:28:02.801615+00:00",
   "items": [
+    {
+      "title": "\u2018Sounds Like a 14 Year Old\u2019: Dave Ramsey Rips Husband Sinking 80% of Pay Into Pokemon Cards",
+      "summary": "A 35-year-old man routes most of his paycheck into a stack of cardboard he calls a portfolio, and his wife has resorted to keeping separate bank accounts just to cover groceries. Dave Ramsey had thoughts, and the math backing him up is brutal.",
+      "pub_date": "2026-09-13T10:17:17Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sounds-14-old-dave-ramsey-101717290.html"
+    },
     {
       "title": "Ryan Cohen Doubles Down on GameStop Stock",
       "summary": "Cohen's latest move raises stakes for GameStop investors",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-11T11:27:00Z",
       "source": "Trucking Dive",
       "url": "https://finance.yahoo.com/energy/articles/google-helps-deploy-25-electric-112700060.html"
-    },
-    {
-      "title": "GameStop store closures could benefit Target",
-      "summary": "GameStop keeps closing locations, and Target keeps picking up toy and collectibles sales.",
-      "pub_date": "2026-09-10T22:33:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gamestop-store-closures-could-benefit-223300790.html"
     }
   ]
 }

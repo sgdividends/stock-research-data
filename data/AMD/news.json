@@ -1,7 +1,14 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-09-13T02:37:58.504622+00:00",
+  "generated_at": "2026-09-13T15:27:43.794129+00:00",
   "items": [
+    {
+      "title": "Wall Street Analyst Sees Between 19% to 37% Upside in These 5 AI Chip Stocks",
+      "summary": "Piper Sandler initiated coverage of Nvidia, Broadcom, AMD, Arm, and Marvell, all with \"overweight\" ratings.",
+      "pub_date": "2026-09-13T10:05:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-analyst-sees-between-100500305.html"
+    },
     {
       "title": "Advanced Micro Devices, Inc. (AMD)\u2019s Halo Station Could Strengthen Its AI Position, but Near-Term Revenue Impact May Be Limited",
       "summary": "Advanced Micro Devices, Inc (NASDAQ:AMD) has set its sights on capitalizing on the growing demand for workstations capable of running large artificial intelligence models. On September 4, the company unveiled the Threadripper Halo Station, expanding its AI strategy beyond data centers and into high-end local AI computing. AI Workstation Opportunity Designed for AI development and inference, [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-12T10:05:01Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/amd-cfo-jean-hu-just-100501094.html"
-    },
-    {
-      "title": "Why Power Integrations (POWI) Stock Is Trading Up Today",
-      "summary": "Shares of semiconductor designer Power Integrations (NASDAQ:POWI) jumped 6.3% in the morning session after macroeconomic relief from declining Treasury yields and lower oil prices, coupled with robust artificial intelligence demand projections, boosted sentiment across the chip industry.",
-      "pub_date": "2026-09-12T04:51:05Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-power-integrations-powi-stock-045105470.html"
     }
   ]
 }

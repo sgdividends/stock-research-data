@@ -1,6 +1,6 @@
 {
   "ticker": "PLTR",
-  "generated_at": "2026-09-13T02:38:54.852191+00:00",
+  "generated_at": "2026-09-13T15:28:35.318649+00:00",
   "items": [
     {
       "title": "Palantir's Growth Has Kept Accelerating, but Can the Rally Continue?",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-12T15:55:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/palantirs-growth-kept-accelerating-rally-155500148.html"
+    },
+    {
+      "title": "MarketBeat Week in Review \u2013 09/07 - 09/11",
+      "summary": "Stocks fell this week on oil prices and Fed rate-hike expectations, though Oracle's earnings underscored AI infrastructure strength. MarketBeat analysts recap top stories on earnings, defense, AI, and other stock opportunities.",
+      "pub_date": "2026-09-12T11:00:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-09-07-110000028.html"
     },
     {
       "title": "Palantir and Nvidia Are Building a Sovereign AI Stack. Who Captures More of the Economics?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-11T22:43:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-co-founder-peter-thiels-224300794.html"
-    },
-    {
-      "title": "Oracle's AI Cloud Growth Lifts CoreWeave, Nebius and IREN",
-      "summary": "CoreWeave, Nebius and IREN are moving higher as Oracle's results reinforce the AI infrastructure trade.",
-      "pub_date": "2026-09-11T21:10:41Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/oracles-ai-cloud-growth-lifts-211041374.html"
     }
   ]
 }

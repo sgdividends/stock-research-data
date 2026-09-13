@@ -1,7 +1,14 @@
 {
   "ticker": "SNDK",
-  "generated_at": "2026-09-13T02:39:00.986376+00:00",
+  "generated_at": "2026-09-13T15:28:40.577562+00:00",
   "items": [
+    {
+      "title": "Prediction: This Artificial Intelligence (AI) Chip Stock Will Soar After Sept. 30 (Hint: It's Not Micron)",
+      "summary": "Micron reports fiscal fourth-quarter earnings on Sept. 30.",
+      "pub_date": "2026-09-13T12:55:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/prediction-artificial-intelligence-ai-chip-125500915.html"
+    },
     {
       "title": "DeepSeek Cut Its KV-Cache HBM Need 75% and SSD Need 87.5%. Micron and Sandisk Investors Should Pay Attention",
       "summary": "The memory-shortage thesis assumes AI usage and memory demand rise together. DeepSeek just supplied a reason that relationship may be weaker. Its September 10 release says V4.1-Flash needs one-quarter as much HBM and one-eighth as much SSD capacity for its KV cache as the previous generation. That matters to Micron Technology, Inc. (NASDAQ:MU) and Sandisk [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-11T18:04:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/micron-stock-oracle-ai-242830db?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "\u2018Apple and Microsoft Look Like Value Stocks\u2019: Morningstar on SanDisk\u2019s 2,107% Year",
-      "summary": "A single flash-memory stock has quietly redrawn the boundary between growth and value investing, leaving retirement savers in supposedly defensive index funds holding far more AI-cycle risk than they realize.",
-      "pub_date": "2026-09-11T17:17:12Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-microsoft-look-value-stocks-171712246.html"
     }
   ]
 }

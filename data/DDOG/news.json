@@ -1,7 +1,28 @@
 {
   "ticker": "DDOG",
-  "generated_at": "2026-09-13T02:38:14.850218+00:00",
+  "generated_at": "2026-09-13T15:27:59.502218+00:00",
   "items": [
+    {
+      "title": "French AI boom exposes Europe\u2019s funding gap as startups turn to U.S.",
+      "summary": "Investing.com -- France is producing a growing number of high-value artificial intelligence and technology companies, but their success is also highlighting Europe\u2019s shortage of late-stage capital compared with the U.S., according to Bloomberg.",
+      "pub_date": "2026-09-13T10:20:55Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/french-ai-boom-exposes-europe-102055012.html"
+    },
+    {
+      "title": "Datadog Conference: CEO Says AI and Enterprise Growth Are Accelerating",
+      "summary": "Datadog (NASDAQ:DDOG) CEO and Founder Olivier Pomel said the company is seeing accelerating growth across both AI-focused customers and its broader enterprise customer base as organizations expand cloud and artificial-intelligence deployments. Speaking with Citi enterprise software analyst Fatima B",
+      "pub_date": "2026-09-13T09:01:58Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/technology/ai/articles/datadog-conference-ceo-says-ai-090158360.html"
+    },
+    {
+      "title": "Datadog Eyes AI-Powered Predictive Monitoring as Enterprise Cloud Demand Grows",
+      "summary": "Datadog (NASDAQ:DDOG) is investing in artificial intelligence capabilities, proprietary models and enterprise sales as it seeks to expand its observability platform\u2019s role in monitoring increasingly complex cloud and AI workloads, Chief Financial Officer David Obstler said during a company session.",
+      "pub_date": "2026-09-13T04:01:56Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/technology/ai/articles/datadog-eyes-ai-powered-predictive-040156830.html"
+    },
     {
       "title": "AI Agents Create Their Own Monitoring Problem. Datadog and Dynatrace Are Racing to Own It",
       "summary": "AI coding agents are supposed to make software cheaper to build. They may also create more software changes, production failures and machine-generated complexity to inspect. That second-order effect connects Datadog, Inc. (NASDAQ:DDOG) and Dynatrace, Inc. (NYSE:DT) to an observability market that AI could expand rather than erase. Datadog told the Goldman Sachs Communacopia + Technology [\u2026]",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-06T19:05:53Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/datadog-ddog-undervalued-pullback-tests-190553689.html"
-    },
-    {
-      "title": "GitLab\u2019s AI Tools Are Starting to Turn Developer Demand Into Real Revenue",
-      "summary": "GitLab posted 21.3% revenue growth and beat earnings estimates in Q2 FY2027, driven by its Flex consumption pricing model, and raised its full-year adjusted earnings guidance.",
-      "pub_date": "2026-09-05T14:35:00Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/technology/ai/articles/gitlab-ai-tools-starting-turn-143500667.html"
-    },
-    {
-      "title": "Snowflake Falls 5% as Traders Take Profits on Its Guidance Surge; Datadog Holds Steady",
-      "summary": "Snowflake surged 17% on earnings night, then spent Friday giving it back while every benchmark around it barely budged. That split-screen moment raises a pointed question about who is actually selling and why.",
-      "pub_date": "2026-09-04T19:02:47Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/snowflake-falls-5-traders-profits-190247250.html"
-    },
-    {
-      "title": "Datadog, Amplitude, Zscaler, DocuSign, and Salesforce Shares Skyrocket, What You Need To Know",
-      "summary": "A number of stocks jumped in the afternoon session after software equities broadly gained momentum following a pullback in treasury yields and second-quarter financial results from Snowflake.",
-      "pub_date": "2026-09-03T21:59:18Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/datadog-amplitude-zscaler-docusign-salesforce-215918732.html"
     }
   ]
 }
