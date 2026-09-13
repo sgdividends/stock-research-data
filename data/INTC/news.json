@@ -1,7 +1,14 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-09-13T15:28:17.754500+00:00",
+  "generated_at": "2026-09-13T18:28:54.953627+00:00",
   "items": [
+    {
+      "title": "AMD and Intel\u2019s Shared AI Instructions Reach GCC. Can Software Cooperation Strengthen Both Stocks?",
+      "summary": "AMD and Intel compete for processor customers, but they have a common interest in making developers comfortable staying with x86. A September 2 GCC commit added initial support for their AI Compute Extensions, or ACE, bringing that shared strategy into a widely used compiler\u2019s development code. For Advanced Micro Devices, Inc. (NASDAQ:AMD) and Intel Corporation [\u2026]",
+      "pub_date": "2026-09-13T16:59:17Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-intel-shared-ai-instructions-165917161.html"
+    },
     {
       "title": "Predicting Intel's Value by 2030 Could Make It Worth a Look Right Now",
       "summary": "Intel stock has dipped lately, but it could bounce back given its strong growth prospects.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-12T04:03:05Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ipg-photonics-intel-marvell-technology-040305330.html"
-    },
-    {
-      "title": "Why Intel Stock Surged After Trump Promised $5,000 to Every American",
-      "summary": "Intel stock climbed after Trump pledged $5,000 checks and Lutnick pointed to Washington's Intel stake as funding.",
-      "pub_date": "2026-09-12T00:03:36Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-intel-stock-surged-trump-000336707.html"
     }
   ]
 }

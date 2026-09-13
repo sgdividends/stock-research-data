@@ -1,7 +1,14 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-09-13T15:28:32.705523+00:00",
+  "generated_at": "2026-09-13T18:29:13.315834+00:00",
   "items": [
+    {
+      "title": "Barclays resets Oracle stock price target",
+      "summary": "Barclays raises Oracle stock price target to $252, keeping an Overweight rating, after strong fiscal Q1 growth and improved funding.",
+      "pub_date": "2026-09-13T18:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/barclays-resets-oracle-stock-price-180300087.html"
+    },
     {
       "title": "On Second Thought, Never Mind: Here\u2019s Why ORCL\u2019s Larry Ellison Just Canceled $7.5 Billion Stock Sale",
       "summary": "Larry Ellison had a $7.5 billion Oracle stock sale locked and loaded, then quietly walked away without explanation. What he did instead says everything about where he thinks the company is headed.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-12T17:10:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/business/larry-ellison-scraps-plan-to-sell-up-to-7-5-billion-worth-of-oracle-stock-9f41edd2?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Anthropic\u2019s Prisoner\u2019s Dilemma: Dario Amodei Hits the Brakes on AI While Begging Everyone Else to Do the Same",
-      "summary": "Anthropic's CEO just called on the entire AI industry to slow down, while his own company's balance sheet depends on the biggest accelerators in the business. The conflict at the heart of that position may be impossible to resolve.",
-      "pub_date": "2026-09-12T15:52:54Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-prisoner-dilemma-dario-amodei-155254071.html"
     }
   ]
 }

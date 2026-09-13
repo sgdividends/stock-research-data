@@ -1,7 +1,28 @@
 {
   "ticker": "MSFT",
-  "generated_at": "2026-09-13T15:28:28.089914+00:00",
+  "generated_at": "2026-09-13T18:29:08.034361+00:00",
   "items": [
+    {
+      "title": "Goldman Sachs Says AI Is Driving Half of S&P 500 Earnings Growth. That Number Cuts Both Ways.",
+      "summary": "Goldman Sachs says AI spending is propping up S&P 500 earnings growth, but that same statistic reveals a fragile dependency on a handful of buyers whose budgets could shift any quarter.",
+      "pub_date": "2026-09-13T18:00:24Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-ai-driving-180024217.html"
+    },
+    {
+      "title": "Billionaire Bill Ackman Trimmed This Big Tech Position to Back These 2 AI Contenders",
+      "summary": "The famed fund manager lowered his position in Amazon and was buying shares of Microsoft and Meta Platforms.",
+      "pub_date": "2026-09-13T16:50:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-bill-ackman-trimmed-big-165000189.html"
+    },
+    {
+      "title": "Anthropic Locks Down $517 Billion in Compute Ahead of IPO \u2014 and It\u2019s Still Not Enough",
+      "summary": "Anthropic just signed a compute bill so large it reshapes the math behind every NVIDIA forecast on Wall Street, and the number arriving ahead of the company's IPO raises a question Jensen Huang's own team has not fully answered yet.",
+      "pub_date": "2026-09-13T15:36:09Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-locks-down-517-billion-153609285.html"
+    },
     {
       "title": "Oklo vs. NuScale vs. TMC: 3 Speculative Bets, Ranked By Which One Pays Off First.",
       "summary": "If you are an aggressive growth investor willing to get in early, it looks like NuScale Power may have the lead over Oklo and TMC.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-13T10:27:11Z",
       "source": "Investing.com",
       "url": "https://www.yahoo.com/news/world/articles/xi-pushes-china-open-source-102711002.html"
-    },
-    {
-      "title": "3 Unstoppable Dow Stocks Worth Buying Right Now",
-      "summary": "These stocks are demonstrating incredible performance and have a long growth runway.",
-      "pub_date": "2026-09-13T08:22:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-unstoppable-dow-stocks-worth-082200317.html"
-    },
-    {
-      "title": "Nvidia vs. AMD: Elon Musk Picked a Side on the SpaceX Earnings Call",
-      "summary": "Elon Musk recently praised a specific GPU stock during SpaceX's earnings call.",
-      "pub_date": "2026-09-12T21:20:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-amd-elon-musk-212000632.html"
-    },
-    {
-      "title": "Zscaler Conference: AI Agents, Agentic SOC Fuel Zero-Trust Growth Ambitions",
-      "summary": "Zscaler (NASDAQ:ZS) executives outlined how the cybersecurity company is adapting its zero-trust architecture for AI agents, while also discussing new product launches, sales initiatives and the potential for continued growth in its core business. Speaking at a company session, Head of Product Adam",
-      "pub_date": "2026-09-12T20:02:01Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/technology/ai/articles/zscaler-conference-ai-agents-agentic-200201182.html"
     }
   ]
 }

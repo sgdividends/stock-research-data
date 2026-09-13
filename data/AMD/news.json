@@ -1,7 +1,21 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-09-13T15:27:43.794129+00:00",
+  "generated_at": "2026-09-13T18:28:15.357572+00:00",
   "items": [
+    {
+      "title": "AMD and Intel\u2019s Shared AI Instructions Reach GCC. Can Software Cooperation Strengthen Both Stocks?",
+      "summary": "AMD and Intel compete for processor customers, but they have a common interest in making developers comfortable staying with x86. A September 2 GCC commit added initial support for their AI Compute Extensions, or ACE, bringing that shared strategy into a widely used compiler\u2019s development code. For Advanced Micro Devices, Inc. (NASDAQ:AMD) and Intel Corporation [\u2026]",
+      "pub_date": "2026-09-13T16:59:17Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-intel-shared-ai-instructions-165917161.html"
+    },
+    {
+      "title": "Anthropic Locks Down $517 Billion in Compute Ahead of IPO \u2014 and It\u2019s Still Not Enough",
+      "summary": "Anthropic just signed a compute bill so large it reshapes the math behind every NVIDIA forecast on Wall Street, and the number arriving ahead of the company's IPO raises a question Jensen Huang's own team has not fully answered yet.",
+      "pub_date": "2026-09-13T15:36:09Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-locks-down-517-billion-153609285.html"
+    },
     {
       "title": "Wall Street Analyst Sees Between 19% to 37% Upside in These 5 AI Chip Stocks",
       "summary": "Piper Sandler initiated coverage of Nvidia, Broadcom, AMD, Arm, and Marvell, all with \"overweight\" ratings.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-12T13:37:09Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-lost-apple-modem-business-133709842.html"
-    },
-    {
-      "title": "AMD Just Raised the Top of the Company's 2030 Market to $3 Trillion",
-      "summary": "The top of the chip designer's 2030 market forecast grew by as much as a trillion dollars in one conference appearance. How much of it was already in the stock price?",
-      "pub_date": "2026-09-12T12:39:01Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-just-raised-top-companys-123901236.html"
-    },
-    {
-      "title": "AMD\u2019s CFO, Jean Hu, Just Announced Fantastic News for Investors",
-      "summary": "Can anything stop the company's momentum?",
-      "pub_date": "2026-09-12T10:05:01Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-cfo-jean-hu-just-100501094.html"
     }
   ]
 }

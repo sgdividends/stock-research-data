@@ -1,7 +1,14 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-09-13T15:27:57.688396+00:00",
+  "generated_at": "2026-09-13T18:28:31.811501+00:00",
   "items": [
+    {
+      "title": "Arista Released Critical Security Advisories. Cisco Shows Why AI Network Growth Also Creates Repair Work",
+      "summary": "Arista published its batch of security advisories on September 9, turning an advance warning into an immediate customer maintenance task. The release includes critical vulnerabilities affecting EOS and VeloCloud. Cisco\u2019s September 4 security commentary describes the broader problem: vulnerability discovery is accelerating beyond customers\u2019 ability to remediate it. For Cisco Systems, Inc. (NASDAQ:CSCO) and Arista [\u2026]",
+      "pub_date": "2026-09-13T16:56:52Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/arista-released-critical-security-advisories-165652596.html"
+    },
     {
       "title": "Ken Fisher Added to Cisco and Palo Alto Networks. Their AI Security Bets Face Different Tests",
       "summary": "Ken Fisher\u2019s latest disclosed positions put two different approaches to AI infrastructure and security in the same portfolio. Cisco Systems, Inc. (NASDAQ:CSCO) combines networking equipment with security software. Palo Alto Networks, Inc. (NASDAQ:PANW) offers more concentrated exposure to security platforms, with acquisitions adding an integration test. September coverage brought renewed attention to Fisher\u2019s position increases. [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-11T18:00:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/dell-hpe-stock-ai-spending-oracle-617217e8?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Ciena Climbs 5% as Post-Earnings Selloff Reverses; Arista Networks Rises 5%, Cisco Jumps 4%",
-      "summary": "Networking stocks are surging well beyond the broader tech sector, and no earnings report, contract award, or company announcement explains why Ciena, Arista, and Cisco are all moving together on the same Friday afternoon.",
-      "pub_date": "2026-09-11T17:56:53Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ciena-climbs-5-post-earnings-175653200.html"
     }
   ]
 }

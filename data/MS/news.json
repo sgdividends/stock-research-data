@@ -1,7 +1,14 @@
 {
   "ticker": "MS",
-  "generated_at": "2026-09-13T15:28:27.852550+00:00",
+  "generated_at": "2026-09-13T18:29:07.735558+00:00",
   "items": [
+    {
+      "title": "OpenAI Just Came for Wall Street\u2019s Junior Bankers. Morgan Stanley Helped Build the Thing.",
+      "summary": "Morgan Stanley helped OpenAI build a tool that automates the grunt work of junior banking analysts, which raises an uncomfortable question about whether the banks just engineered their own talent pipeline out of existence.",
+      "pub_date": "2026-09-13T17:45:21Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/openai-just-came-wall-street-174521809.html"
+    },
     {
       "title": "Morgan Stanley likes Coinbase's future, not its stock",
       "summary": "A new rating draws a hard line between where the company is headed and what its shares are worth paying for today.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-11T21:11:35Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/morgan-stanley-gains-helping-build-211135960.html"
-    },
-    {
-      "title": "Oracle Margin Pressure, Modest Guidance Raise Leave Morgan Stanley Needing More Visibility",
-      "summary": "Oracle's (ORCL) fiscal first-quarter results showed surging cloud growth, but margin pressure and a",
-      "pub_date": "2026-09-11T17:16:06Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-margin-pressure-modest-guidance-171606566.html"
     }
   ]
 }

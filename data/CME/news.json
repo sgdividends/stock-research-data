@@ -1,7 +1,14 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-09-13T15:27:55.067099+00:00",
+  "generated_at": "2026-09-13T18:28:28.068637+00:00",
   "items": [
+    {
+      "title": "A $93 trillion trading boom puts CME in an unusual spot",
+      "summary": "Bank of America sees an unusual win-win setup for CME",
+      "pub_date": "2026-09-13T16:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/options/articles/93-trillion-trading-boom-puts-160300956.html"
+    },
     {
       "title": "Gold Little Changed As August CPI Raises Interest-Rate Expectations",
       "summary": "Gold futures held steady as a pullback in oil prices helped offset the impact of an inflation report that increased expectations for a Fed interest-rate rise next week.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-09T17:21:59Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cme-group-names-jack-tobin-172159213.html"
-    },
-    {
-      "title": "FOMC September 2026 Odds of Rate Hike Surge Over 60%",
-      "summary": "Traders using CME FedWatch, the CME Group tool that tracks rate-hike probabilities implied by 30-Day Fed Funds futures prices, now put the FOMC September odds of a 25-basis-point Federal Reserve rate hike at next week\u2019s FOMC meeting at over 60%. Kalshi traders assigned a 57% probability to the same outcome, ...",
-      "pub_date": "2026-09-09T16:35:05Z",
-      "source": "99bitcoins",
-      "url": "https://finance.yahoo.com/economy/policy/articles/fomc-september-2026-odds-rate-163505675.html"
     }
   ]
 }

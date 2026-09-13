@@ -1,7 +1,21 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-09-13T15:28:16.918675+00:00",
+  "generated_at": "2026-09-13T18:28:53.829491+00:00",
   "items": [
+    {
+      "title": "Dreamforce Will Pitch Unified Agent Trust. The Market Is Still Stitching Together Three Separate Layers",
+      "summary": "As the industry converges on San Francisco for Dreamforce 2026, the narrative is predictably polished. Salesforce is positioning its Trust Boundary as the definitive architecture for the agentic enterprise, promising a seamless vision of unity. Yet, for those tasked with building the actual infrastructure, the reality is far more fragmented. The trust stack has not [\u2026]",
+      "pub_date": "2026-09-13T17:24:01Z",
+      "source": "Forkast News",
+      "url": "https://finance.yahoo.com/technology/ai/articles/dreamforce-pitch-unified-agent-trust-172401729.html"
+    },
+    {
+      "title": "How to Play IBM Stock as It Teams Up with NASA to Launch a New Open-Source Model",
+      "summary": "IBM\u2019s NASA-backed lunar AI launch broadens its commercial AI runway and could strengthen its long-term prospects.",
+      "pub_date": "2026-09-13T11:47:16Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/play-ibm-stock-teams-nasa-114716945.html"
+    },
     {
       "title": "The Agent Governance Stack Is Forming: Four Products, Two Weeks, One Pattern",
       "summary": "Four enterprise software vendors shipped standalone AI agent governance products between August 24 and early September 2026. The window between the first launch and the last was roughly two weeks. None of them waited for the agents to figure out their own rules first. Okta went first on August 24, making Agent SSO generally available [\u2026]",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-11T19:55:44Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/ibm-gains-2-lunar-ai-195544388.html"
-    },
-    {
-      "title": "Has Oracle Become A Weaker Business, Or Just A Cheaper Stock?",
-      "summary": "Oracle (ORCL) made almost a quarter more operating profit in its last fiscal year. Yet when trading closed on September 10, the stock sat around 53% under the peak it reached a year before. Rising profit and a falling price point to one of two stories: trouble the results have not caught up with, or a sound company that has been repriced. The question is whether Oracle is turning into a weaker business, or has just become a cheaper stock.",
-      "pub_date": "2026-09-11T14:37:43Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-become-weaker-business-just-143743294.html"
-    },
-    {
-      "title": "Can IBM's Latest Innovation Hub Advance Quantum Computing Ecosystem?",
-      "summary": "International Business Machines is expanding its quantum footprint with a new ETH Zurich hub, bringing advanced computing to Swiss researchers and businesses.",
-      "pub_date": "2026-09-11T14:15:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ibms-latest-innovation-hub-advance-141500761.html"
     }
   ]
 }
