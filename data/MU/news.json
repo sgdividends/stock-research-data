@@ -1,7 +1,21 @@
 {
   "ticker": "MU",
-  "generated_at": "2026-09-12T21:53:56.174328+00:00",
+  "generated_at": "2026-09-13T02:38:47.427475+00:00",
   "items": [
+    {
+      "title": "DeepSeek Cut Its KV-Cache HBM Need 75% and SSD Need 87.5%. Micron and Sandisk Investors Should Pay Attention",
+      "summary": "The memory-shortage thesis assumes AI usage and memory demand rise together. DeepSeek just supplied a reason that relationship may be weaker. Its September 10 release says V4.1-Flash needs one-quarter as much HBM and one-eighth as much SSD capacity for its KV cache as the previous generation. That matters to Micron Technology, Inc. (NASDAQ:MU) and Sandisk [\u2026]",
+      "pub_date": "2026-09-13T01:16:03Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/deepseek-cut-kv-cache-hbm-011603128.html"
+    },
+    {
+      "title": "Not Nvidia. Not Micron. This Dirt Cheap \u201cMagnificent Seven\u201d Stock Could Be the Biggest Winner of the Trillion-Dollar AI Race \u2013 Here\u2019s the Case.",
+      "summary": "This company is already greatly benefiting from AI.",
+      "pub_date": "2026-09-12T22:35:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/not-nvidia-not-micron-dirt-223501021.html"
+    },
     {
       "title": "Broadcom vs. Micron Technology: Which Technology Stock Is a Better Buy in 2026?",
       "summary": "Broadcom commands a premium valuation on its diversified reach, while Micron offers a bargain on pure memory exposure. Customer concentration and geopolitical risks complicate both bets.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-12T04:51:05Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-power-integrations-powi-stock-045105470.html"
-    },
-    {
-      "title": "Qorvo, Qualcomm, Texas Instruments, Vishay Intertechnology, and Impinj Stocks Trade Up, What You Need To Know",
-      "summary": "A number of stocks jumped in the morning session after macroeconomic relief from declining Treasury yields and lower oil prices, coupled with robust artificial intelligence demand projections, boosted sentiment across the chip industry.",
-      "pub_date": "2026-09-12T04:11:05Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qorvo-qualcomm-texas-instruments-vishay-041105294.html"
-    },
-    {
-      "title": "IPG Photonics, Intel, Marvell Technology, Semtech, and Penguin Solutions Shares Are Soaring, What You Need To Know",
-      "summary": "A number of stocks jumped in the morning session after macroeconomic relief from declining Treasury yields and lower oil prices, coupled with robust artificial intelligence demand projections, boosted sentiment across the chip industry.",
-      "pub_date": "2026-09-12T04:03:05Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ipg-photonics-intel-marvell-technology-040305330.html"
     }
   ]
 }

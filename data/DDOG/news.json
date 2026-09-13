@@ -1,7 +1,14 @@
 {
   "ticker": "DDOG",
-  "generated_at": "2026-09-12T21:53:28.750977+00:00",
+  "generated_at": "2026-09-13T02:38:14.850218+00:00",
   "items": [
+    {
+      "title": "AI Agents Create Their Own Monitoring Problem. Datadog and Dynatrace Are Racing to Own It",
+      "summary": "AI coding agents are supposed to make software cheaper to build. They may also create more software changes, production failures and machine-generated complexity to inspect. That second-order effect connects Datadog, Inc. (NASDAQ:DDOG) and Dynatrace, Inc. (NYSE:DT) to an observability market that AI could expand rather than erase. Datadog told the Goldman Sachs Communacopia + Technology [\u2026]",
+      "pub_date": "2026-09-12T22:56:26Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-agents-create-own-monitoring-225626156.html"
+    },
     {
       "title": "Wedbush Names CrowdStrike and Palo Alto Networks AI Cybersecurity Winners",
       "summary": "Wedbush Sees Cybersecurity Winners Emerging as AI Transforms the Market",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-03T21:59:18Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/datadog-amplitude-zscaler-docusign-salesforce-215918732.html"
-    },
-    {
-      "title": "Datadog Stock Rises 5% on Snowflake's 37% Growth",
-      "summary": "Datadog shares have been under pressure in the last month",
-      "pub_date": "2026-09-03T13:45:07Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/datadog-stock-rises-5-snowflakes-134507620.html"
     }
   ]
 }
