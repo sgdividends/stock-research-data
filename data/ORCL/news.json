@@ -1,7 +1,49 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-09-14T02:54:27.066254+00:00",
+  "generated_at": "2026-09-14T09:28:53.416698+00:00",
   "items": [
+    {
+      "title": "Why Are Nasdaq Futures Tumbling Premarket? MU, AMD, NVDA, ORCL, RUM, TSLA, SPCX Stocks In Focus",
+      "summary": "Retail sentiment on SPY and QQQ has dipped to \u2018extremely bearish\u2019 territory amid the debate over AI \u2018pacing\u2019.",
+      "pub_date": "2026-09-14T08:43:30Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-nasdaq-futures-tumbling-premarket-084330171.html"
+    },
+    {
+      "title": "Zacks Industry Outlook Medical Systems, American Well and Butterfly Network",
+      "summary": "Medical Systems, American Well and Butterfly Network have been highlighted in this Industry Outlook article.",
+      "pub_date": "2026-09-14T08:17:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/healthcare/articles/zacks-industry-outlook-medical-systems-081700397.html"
+    },
+    {
+      "title": "Anthropic IPO: Claude Maker Reportedly Targets Second Straight Quarter Of Adjusted Profit As CEO\u2019s AI Slowdown Call Sparks Debate",
+      "summary": "Anthropic\u2019s rapid revenue growth and reported margins come under scrutiny as its IPO plans take shape.",
+      "pub_date": "2026-09-14T07:06:05Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-claude-maker-reportedly-070605263.html"
+    },
+    {
+      "title": "Why Did HPQ, DELL, VLO Stocks Surge To 52-Week Highs Last Week?",
+      "summary": "HP, Dell Technologies, and Valero Energy shares surged to annual highs last week amid industry-specific catalysts and growing Wall Street optimism.",
+      "pub_date": "2026-09-14T04:43:09Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-hpq-dell-vlo-044309275.html"
+    },
+    {
+      "title": "ORCL Slides After Worst Week In Nearly 2 Months \u2014 But Larry Ellison Canceling His Stock Sale Is Keeping Retail Bullish",
+      "summary": "Oracle faces mounting concerns over AI spending, financing needs and customer concentration even as retail traders latch onto Ellison\u2019s bullish signal.",
+      "pub_date": "2026-09-14T03:49:24Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/orcl-slides-worst-week-nearly-034924800.html"
+    },
+    {
+      "title": "Dow, S&P 500, Nasdaq Futures Decline Amid AI Concerns, Rising Oil Prices Ahead Of Fed Rate Week: RUM,  ORCL, SMMT, USO Stocks In Focus",
+      "summary": "Rising oil prices amid the ongoing conflict with Iran have pressured long-term bond yields and also impacted stock markets ahead of the Fed\u2019s September policy meeting.",
+      "pub_date": "2026-09-14T03:31:48Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-033148825.html"
+    },
     {
       "title": "BofA reiterates buy on a cloud giant burning through cash",
       "summary": "The firm sees a steep bill ahead, and still thinks the stock is worth buying.",
@@ -15,48 +57,6 @@
       "pub_date": "2026-09-14T01:44:47Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-retail-traders-couldn-t-014447556.html"
-    },
-    {
-      "title": "Down 50% Over the Past Year, Is It Time to Back Up the Truck and Buy Oracle Stock as Revenue Surges?",
-      "summary": "Oracle shares have crashed on concerns over its AI infrastructure spending.",
-      "pub_date": "2026-09-13T22:20:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/down-50-over-past-time-222000073.html"
-    },
-    {
-      "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
-      "summary": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
-      "pub_date": "2026-09-13T20:49:38Z",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/larry-ellison-cancels-7-5-204938699.html"
-    },
-    {
-      "title": "Hewlett Packard Enterprise Raises 2027 Outlook as AI Networking Demand Surges",
-      "summary": "Hewlett Packard Enterprise (NYSE:HPE) Chief Strategy Officer Shannon Cross said the company is seeing strong demand across networking, storage and traditional servers, while supply availability and order conversion remain key priorities as it targets growth in fiscal 2027. Speaking at the Goldman S",
-      "pub_date": "2026-09-13T20:02:03Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/technology/ai/articles/hewlett-packard-enterprise-raises-2027-200203891.html"
-    },
-    {
-      "title": "Barclays resets Oracle stock price target",
-      "summary": "Barclays raises Oracle stock price target to $252, keeping an Overweight rating, after strong fiscal Q1 growth and improved funding.",
-      "pub_date": "2026-09-13T18:03:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/barclays-resets-oracle-stock-price-180300087.html"
-    },
-    {
-      "title": "On Second Thought, Never Mind: Here\u2019s Why ORCL\u2019s Larry Ellison Just Canceled $7.5 Billion Stock Sale",
-      "summary": "Larry Ellison had a $7.5 billion Oracle stock sale locked and loaded, then quietly walked away without explanation. What he did instead says everything about where he thinks the company is headed.",
-      "pub_date": "2026-09-13T14:53:40Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/second-thought-never-mind-why-145340407.html"
-    },
-    {
-      "title": "Oracle's AI Chips Ran 97.9% Utilized Last Quarter. For Nvidia, That Is What a Shortage Looks Like.",
-      "summary": "The cloud giant added more than 300,000 GPUs in one quarter, and its fleet still ran nearly full. Even 4-year-old chips got a price bump.",
-      "pub_date": "2026-09-13T03:38:01Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/technology/ai/articles/oracles-ai-chips-ran-97-033801627.html"
     }
   ]
 }

@@ -1,7 +1,21 @@
 {
   "ticker": "MU",
-  "generated_at": "2026-09-14T02:54:23.536637+00:00",
+  "generated_at": "2026-09-14T09:28:50.416549+00:00",
   "items": [
+    {
+      "title": "Why Are Nasdaq Futures Tumbling Premarket? MU, AMD, NVDA, ORCL, RUM, TSLA, SPCX Stocks In Focus",
+      "summary": "Retail sentiment on SPY and QQQ has dipped to \u2018extremely bearish\u2019 territory amid the debate over AI \u2018pacing\u2019.",
+      "pub_date": "2026-09-14T08:43:30Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-nasdaq-futures-tumbling-premarket-084330171.html"
+    },
+    {
+      "title": "Prediction: Micron's Sept. 30 Earnings Will Confirm the Memory Shortage Isn't Over",
+      "summary": "All signs point to another strong quarterly report from Micron.",
+      "pub_date": "2026-09-14T08:35:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-microns-sept-30-earnings-083500410.html"
+    },
     {
       "title": "Nvidia's Latest Signal Points to Serious Downside Risk for Micron Before 2029 Is Over",
       "summary": "Micron's near-term outlook remains strong, but Nvidia's push to use cheaper memory, rising competition, and Micron's aggressive capacity expansion could create longer-term risks for the stock.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-13T13:00:02Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/gf-securities-says-nand-prices-130002701.html"
-    },
-    {
-      "title": "Prediction: This Artificial Intelligence (AI) Chip Stock Will Soar After Sept. 30 (Hint: It's Not Micron)",
-      "summary": "Micron reports fiscal fourth-quarter earnings on Sept. 30.",
-      "pub_date": "2026-09-13T12:55:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/technology/ai/articles/prediction-artificial-intelligence-ai-chip-125500915.html"
-    },
-    {
-      "title": "DeepSeek Cut Its KV-Cache HBM Need 75% and SSD Need 87.5%. Micron and Sandisk Investors Should Pay Attention",
-      "summary": "The memory-shortage thesis assumes AI usage and memory demand rise together. DeepSeek just supplied a reason that relationship may be weaker. Its September 10 release says V4.1-Flash needs one-quarter as much HBM and one-eighth as much SSD capacity for its KV cache as the previous generation. That matters to Micron Technology, Inc. (NASDAQ:MU) and Sandisk [\u2026]",
-      "pub_date": "2026-09-13T01:16:03Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/deepseek-cut-kv-cache-hbm-011603128.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-09-14T02:53:45.642162+00:00",
+  "generated_at": "2026-09-14T09:28:13.611719+00:00",
   "items": [
+    {
+      "title": "Zacks Market Edge Highlights:  Broadcom, Bloom Energy, and Sandisk",
+      "summary": "Broadcom, Bloom Energy, and Sandisk have been highlighted in this Market Edge article.",
+      "pub_date": "2026-09-14T07:40:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-market-edge-highlights-broadcom-074000199.html"
+    },
     {
       "title": "Goldman Sachs Says AI Is Driving Half of S&P 500 Earnings Growth. That Number Cuts Both Ways.",
       "summary": "Goldman Sachs says AI spending is propping up S&P 500 earnings growth, but that same statistic reveals a fragile dependency on a handful of buyers whose budgets could shift any quarter.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-13T11:38:04Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-anthropic-ramp-puts-google-113804111.html"
-    },
-    {
-      "title": "Wall Street Analyst Sees Between 19% to 37% Upside in These 5 AI Chip Stocks",
-      "summary": "Piper Sandler initiated coverage of Nvidia, Broadcom, AMD, Arm, and Marvell, all with \"overweight\" ratings.",
-      "pub_date": "2026-09-13T10:05:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-analyst-sees-between-100500305.html"
     }
   ]
 }
