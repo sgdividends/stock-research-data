@@ -1,7 +1,28 @@
 {
   "ticker": "ICE",
-  "generated_at": "2026-09-14T09:28:39.476656+00:00",
+  "generated_at": "2026-09-14T17:26:12.063085+00:00",
   "items": [
+    {
+      "title": "CBOE Stock Trades at 24% Discount to 52-Week High: More Upside Left?",
+      "summary": "CBOE trades 24.2% below its 52-week high, while robust volumes, recurring revenues and a raised 2026 growth outlook support its growth case.",
+      "pub_date": "2026-09-14T13:33:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cboe-stock-trades-24-discount-133300449.html"
+    },
+    {
+      "title": "Beat the Market the Zacks Way: FIGS, Microsoft, Amphenol in Focus",
+      "summary": "FIGS, APH and MSFT post strong gains as Zacks upgrades and model portfolios spotlight stocks outperforming the broader market.",
+      "pub_date": "2026-09-14T12:11:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/beat-market-zacks-way-figs-121100982.html"
+    },
+    {
+      "title": "Why Mortgage Bonds Are at Risk if Rates Rise\u2014and if They Fall",
+      "summary": "There were nearly 15 million active, primary mortgage loans in the U.S. with rates under 3% as of the end of 2021, according to Intercontinental Exchange data.  Many homeowners were shielded from surging interest rates in 2022 with locked-in rates.  A much bigger portion of the mortgage market is now eager to refinance if rates fall and will be put off from doing so by rising rates.",
+      "pub_date": "2026-09-14T09:30:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/why-mortgage-bonds-are-at-risk-if-rates-riseand-if-they-fall-ff897dd5?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Sector Update: Financial Stocks Higher Late Afternoon",
       "summary": "Financial stocks were advancing in late Friday afternoon trading, with the NYSE Financial Index risi",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-10T15:10:35Z",
       "source": "NYSE",
       "url": "https://finance.yahoo.com/video/intercontinental-exchange-sept-mortgage-monitor-151035170.html"
-    },
-    {
-      "title": "Market Chatter: Energy Transfer set to Switch Primary Listing To TXSE From NYSE",
-      "summary": "Energy Transfer LP (ET) is set to become the first major company to switch its primary listing from",
-      "pub_date": "2026-09-09T21:39:44Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-energy-transfer-set-213944721.html"
-    },
-    {
-      "title": "Bill Ackman Sees an AI Bargain in the Company That Owns the New York Stock Exchange",
-      "summary": "Bill Ackman just placed a major bet on the owner of the New York Stock Exchange, arguing that investors have the AI threat to this business exactly backwards.",
-      "pub_date": "2026-09-08T14:41:57Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-sees-ai-bargain-144157388.html"
-    },
-    {
-      "title": "NDAQ Boosts AI and Data-Driven Investment Technology With Dasseti",
-      "summary": "Nasdaq's Dasseti acquisition expands eVestment with AI-powered due diligence and monitoring, deepening institutional investment technology capabilities.",
-      "pub_date": "2026-09-07T14:15:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ndaq-boosts-ai-data-driven-141500102.html"
     }
   ]
 }

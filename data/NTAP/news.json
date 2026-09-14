@@ -1,11 +1,18 @@
 {
   "ticker": "NTAP",
-  "generated_at": "2026-09-14T09:28:51.856158+00:00",
+  "generated_at": "2026-09-14T17:26:25.335636+00:00",
   "items": [
     {
-      "title": "Dow Jones Futures: Techs Tumble As Anthropic Leads Call For AI Slowdown; Fed Meeting Ahead",
+      "title": "Can Seagate Extend the Growth Momentum in Its Edge IoT Business?",
+      "summary": "STX's Edge IoT revenues jump 20% year over year in fiscal Q4, but seasonality, SSD displacement and competition could test momentum.",
+      "pub_date": "2026-09-14T13:13:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-extend-growth-momentum-edge-131300564.html"
+    },
+    {
+      "title": "Dow Jones Futures Fall, Techs Tumble As Oil Prices Rise, Anthropic Leads AI Slowdown Call",
       "summary": "Anthropic's Dario Amodei, OpenAI's and SpaceX's Elon Musk say they want an AI slowdown. Will they? The Fed looms as well.",
-      "pub_date": "2026-09-14T06:40:45Z",
+      "pub_date": "2026-09-14T12:11:35Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-fed-meeting-anthropic-amodei-openai-altman-spacex-musk-ai-model-slowdown/?src=A00220&yptr=yahoo"
     },
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-09T22:05:08Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-traded-best-prices-something-220508795.html"
-    },
-    {
-      "title": "NetApp (NTAP) Q1 2027 Earnings Call Transcript",
-      "summary": "Revenue surged 30% year-over-year to $2.03 billion, driven by AI and cloud demand.",
-      "pub_date": "2026-09-09T21:28:43Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netapp-ntap-q1-2027-earnings-212843148.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "FOX",
-  "generated_at": "2026-09-14T09:28:32.970617+00:00",
+  "generated_at": "2026-09-14T17:26:05.743514+00:00",
   "items": [
+    {
+      "title": "Nike downgraded, Affirm upgraded: Wall Street's top analyst calls",
+      "summary": "Nike downgraded, Affirm upgraded: Wall Street's top analyst calls",
+      "pub_date": "2026-09-14T13:45:59Z",
+      "source": "The Fly",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nike-downgraded-affirm-upgraded-wall-134559486.html"
+    },
     {
       "title": "Sector Update: Consumer Stocks Fall Late Afternoon",
       "summary": "Consumer stocks were lower late Wednesday afternoon, with the State Street Consumer Staples Select S",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-03T00:04:23Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-p-500-stocks-fall-000423845.html"
-    },
-    {
-      "title": "Sector Update: Consumer Stocks Rise Friday Afternoon",
-      "summary": "Consumer stocks were higher Friday afternoon, with the State Street Consumer Staples Select Sector S",
-      "pub_date": "2026-08-28T17:33:26Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-rise-friday-173326645.html"
     }
   ]
 }

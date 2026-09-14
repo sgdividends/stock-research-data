@@ -1,7 +1,14 @@
 {
   "ticker": "DE",
-  "generated_at": "2026-09-14T09:28:25.351208+00:00",
+  "generated_at": "2026-09-14T17:25:57.513653+00:00",
   "items": [
+    {
+      "title": "Caterpillar Falls 4% While Deere Edges Higher: Is the Data Center Power Trade Unwinding?",
+      "summary": "Two AI executives published essays over a weekend, and by Monday morning Caterpillar was selling off four times faster than the broader market while Deere climbed. The question is whether the order book that stretches into 2029 actually matters when sentiment turns this fast.",
+      "pub_date": "2026-09-14T15:40:49Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-falls-4-while-deere-154049131.html"
+    },
     {
       "title": "He Planned to Retire From Deere in October 2027. One Day Could Cost Him a $50,000 Retirement Bonus.",
       "summary": "A longtime John Deere worker has his retirement date circled, his spouse on board, and his knees giving out. But one overlooked date buried in the benefit plan could quietly erase tens of thousands of dollars before he ever clocks out.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-09T14:45:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/politics/national-security/nuclear-fusion-weapons-testing-china-russia-0b5fcfa9?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Chip, Drug Makers to Drive Non-Residential Construction Rebound, UBS Says",
-      "summary": "US non-residential construction is approaching a reacceleration, driven by semiconductor and pharmac",
-      "pub_date": "2026-09-08T21:14:12Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/real-estate/articles/chip-drug-makers-drive-non-211412328.html"
     }
   ]
 }
