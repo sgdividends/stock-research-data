@@ -1,13 +1,27 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-09-14T17:26:11.957484+00:00",
+  "generated_at": "2026-09-14T22:54:42.776617+00:00",
   "items": [
     {
-      "title": "Stock Market Today: Dow Tries For A Gain, Trump Hits Out At AI Fears; This Fuel Play Clears Entry (Live Coverage)",
-      "summary": "The Dow Jones index drops on the stock market today as oil prices surge. President Trump hits out amid AI leaders calls for a slowdown.",
-      "pub_date": "2026-09-14T16:59:27Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-nvda-stock-ai-warning/?src=A00220&yptr=yahoo"
+      "title": "Accenture's Stock Fell Like A Shrinking Business, But Its Revenue Grew",
+      "summary": "Accenture (ACN) has lost about 22% of its value over the past twelve months, the second-worst return in its peer group. The name it sits beside down there is Booz Allen Hamilton (BAH), whose revenue fell over the same window while Accenture's grew. The shares have been repriced as though the business were shrinking, even though trailing results and forward guidance show continued top-line expansion. It is not.",
+      "pub_date": "2026-09-14T18:59:04Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/accentures-stock-fell-shrinking-business-185904806.html"
+    },
+    {
+      "title": "Did You Pay For Palantir's Guidance Or For Something Else?",
+      "summary": "Palantir Technologies (PLTR) raised its 2026 revenue guidance in August, and the stock gained about 32% across the release. The easy read is that the market was paying for the bigger number. It was not. At the multiple the market was already paying, that raise is worth about $8 a share, and the tape handed over close to $40.",
+      "pub_date": "2026-09-14T18:00:36Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/did-pay-palantirs-guidance-something-180036131.html"
+    },
+    {
+      "title": "Is HPE Stock Now A Bet On Memory Prices?",
+      "summary": "Hewlett Packard Enterprise (HPE) trades near $62, at the top of its 52-week range and up about 160% over the past year. The company just reported record revenue of $12.2 billion for fiscal Q3 2026 and a raised outlook for fiscal 2027. The easy read is that you are early in an AI cycle. The harder question is what paid for it.",
+      "pub_date": "2026-09-14T17:49:16Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hpe-stock-now-bet-memory-174916864.html"
     },
     {
       "title": "Can Palantir Deploy Fast Enough To Move Its Stock Higher?",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-14T14:13:40Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/buy-dell-technologies-stock-ai-141340384.html"
-    },
-    {
-      "title": "Here is What to Know Beyond Why International Business Machines Corporation (IBM) is a Trending Stock",
-      "summary": "Recently, Zacks.com users have been paying close attention to IBM (IBM). This makes it worthwhile to examine what the stock has in store.",
-      "pub_date": "2026-09-14T13:00:05Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-international-business-130005141.html"
-    },
-    {
-      "title": "Dreamforce Will Pitch Unified Agent Trust. The Market Is Still Stitching Together Three Separate Layers",
-      "summary": "As the industry converges on San Francisco for Dreamforce 2026, the narrative is predictably polished. Salesforce is positioning its Trust Boundary as the definitive architecture for the agentic enterprise, promising a seamless vision of unity. Yet, for those tasked with building the actual infrastructure, the reality is far more fragmented. The trust stack has not [\u2026]",
-      "pub_date": "2026-09-13T17:24:01Z",
-      "source": "Forkast News",
-      "url": "https://finance.yahoo.com/technology/ai/articles/dreamforce-pitch-unified-agent-trust-172401729.html"
     }
   ]
 }

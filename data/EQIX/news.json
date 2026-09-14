@@ -1,7 +1,14 @@
 {
   "ticker": "EQIX",
-  "generated_at": "2026-09-14T17:26:01.938064+00:00",
+  "generated_at": "2026-09-14T22:54:32.270176+00:00",
   "items": [
+    {
+      "title": "CoreWeave Shares Sink After Bernstein Warns Of Slower AI Training",
+      "summary": "CoreWeave Stock Plunges As AI Slowdown Threatens Rural Data Centers",
+      "pub_date": "2026-09-14T18:25:53Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-shares-sink-bernstein-warns-182553714.html"
+    },
     {
       "title": "Only 1 of These 2 Data Center REITs Keeps Raising Its Dividend. Here\u2019s Which Belongs in Your Roth IRA.",
       "summary": "Both Digital Realty and Equinix are cashing in on the AI infrastructure boom, but inside a Roth IRA, one of these data center giants quietly compounds circles around the other and it comes down to a single line on the dividend history.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-06T18:30:02Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/technology/ai/articles/equinix-doubling-down-ai-data-183002468.html"
-    },
-    {
-      "title": "Can Equinix (EQIX) Justify A Pricey Earnings Valuation On AI Growth?",
-      "summary": "Equinix has delivered a 43.1% gain over the past 3 years, yet its valuation checks are mixed. An intrinsic value estimate from a Discounted Cash Flow (DCF) approach suggests the stock trades below that estimate, while market based multiples point to a richer price tag. Over 3 years, Equinix is up 43.1%. This puts recent weakness over the past few weeks into context as part of a longer positive run rather than a sudden move. Recent moves to expand AI focused infrastructure and services,...",
-      "pub_date": "2026-09-05T12:13:36Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/equinix-eqix-justify-pricey-earnings-121336903.html"
     }
   ]
 }

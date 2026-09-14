@@ -1,7 +1,21 @@
 {
   "ticker": "CMCSA",
-  "generated_at": "2026-09-14T17:25:52.333979+00:00",
+  "generated_at": "2026-09-14T22:54:22.747928+00:00",
   "items": [
+    {
+      "title": "Sector Update: Consumer Stocks Advance Monday Afternoon",
+      "summary": "Consumer stocks were higher Monday afternoon, with the State Street Consumer Staples Select Sector S",
+      "pub_date": "2026-09-14T17:49:58Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-advance-monday-174958227.html"
+    },
+    {
+      "title": "Is Verizon Stock Counting On Money That Has Not Arrived Yet?",
+      "summary": "Verizon Communications (VZ) has had a good year. The stock returned about 24% over the past twelve months against roughly 19% for the S&P 500, and at about $51 it sits at the top of its one-year range. The turnaround is real. What is not real yet is the revenue meant to pay for it.",
+      "pub_date": "2026-09-14T17:36:13Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/verizon-stock-counting-money-not-173613567.html"
+    },
     {
       "title": "Is AT&T Asking You To Fund A Network For AI Traffic?",
       "summary": "AT&T (T) is running its largest year ever for fiber expansion, a plan for 8 million new locations, of which over 4 million were acquired from Lumen, and asking shareholders to keep funding it. It expects $23 billion to $24 billion of capital investment in 2026, and the roughly $18 billion of buybacks and dividends is essentially all the free cash flow left. Management used to justify the build product by product; with the customers, it was already winning. The lead now is one blended subscriber",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-11T22:11:05Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/2-nasdaq-100-stocks-exciting-221105481.html"
-    },
-    {
-      "title": "Comcast Eyes Media Split as Peacock Profit, Sports and YouTube Bundle Gain Momentum",
-      "summary": "Comcast (NASDAQ:CMCSA) is preparing to separate its media businesses, and NBCUniversal Media Group Chairman Matt Strauss said the move is expected to increase the company\u2019s flexibility and speed without changing its core strategy. Speaking at a Bank of America conference, Strauss described NBCUnive",
-      "pub_date": "2026-09-11T22:02:05Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/media-advertising/articles/comcast-eyes-media-split-peacock-220205798.html"
-    },
-    {
-      "title": "1 Stock Under $50 to Keep an Eye On and 2 We Ignore",
-      "summary": "Stocks in the $10-50 range offer a sweet spot between affordability and stability as they\u2019re typically more established than penny stocks. But their headline prices don\u2019t guarantee quality, and investors should exercise caution as some have shaky business models.",
-      "pub_date": "2026-09-11T00:17:04Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/1-stock-under-50-keep-001704261.html"
     }
   ]
 }

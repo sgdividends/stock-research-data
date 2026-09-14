@@ -1,7 +1,21 @@
 {
   "ticker": "DE",
-  "generated_at": "2026-09-14T17:25:57.513653+00:00",
+  "generated_at": "2026-09-14T22:54:27.842884+00:00",
   "items": [
+    {
+      "title": "Caterpillar Stock Looks Expensive Until You Price The Backlog, And Then The Margins",
+      "summary": "Caterpillar (CAT) has nearly doubled over the past year, and it trades near $820 a share, about 36 times its last twelve months of adjusted earnings. That is normalized net income with stock-based compensation added back, meant to sit closer to the basis analysts use than a GAAP figure would, though the two are not defined identically. The multiple is steep for a maker of construction equipment and engines. It reads differently against the earnings analysts expect.",
+      "pub_date": "2026-09-14T19:22:38Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-stock-looks-expensive-until-192238652.html"
+    },
+    {
+      "title": "Q2 Earnings Outperformers: Deere (NYSE:DE) And The Rest Of The Agricultural Machinery Stocks",
+      "summary": "As the craze of earnings season draws to a close, here\u2019s a look back at some of the most exciting (and some less so) results from Q2. Today, we are looking at agricultural machinery stocks, starting with Deere (NYSE:DE).",
+      "pub_date": "2026-09-14T19:07:30Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-outperformers-deere-nyse-190730542.html"
+    },
     {
       "title": "Caterpillar Falls 4% While Deere Edges Higher: Is the Data Center Power Trade Unwinding?",
       "summary": "Two AI executives published essays over a weekend, and by Monday morning Caterpillar was selling off four times faster than the broader market while Deere climbed. The question is whether the order book that stretches into 2029 actually matters when sentiment turns this fast.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-09T20:00:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/business/meet-deeres-jd-an-ai-assistant-aimed-at-helping-farmersand-its-sales-7d755f4b?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Can Data Center Power Fuel CAT Stock To New Highs?",
-      "summary": "Caterpillar (CAT) has almost doubled over the past year, gaining 96.3% while the S&P 500 returned 19.1%. Deere and Cummins each gained about 43%. The broader machinery cycle carried Caterpillar part of the way, but enthusiasm around power generation drove the premium. The gap to the stock's 52-week high is what a buyer now has to price against those expectations.",
-      "pub_date": "2026-09-09T18:52:07Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/data-center-power-fuel-cat-185207676.html"
-    },
-    {
-      "title": "America Leans on Fusion Breakthroughs to Turbocharge Its Nuclear Weapon Arsenal",
-      "summary": "ALBUQUERQUE, N.M.\u2014On an expanse of desert here between a Netflix studio and self-storage facility, construction is under way on a fusion plant meant to help America win an escalating nuclear-arms race.  Testing with fusion reactors helps ensure America\u2019s nuclear weapons still work after decades in storage, components are reliable and that new designs will have the desired effect, without resuming the explosive nuclear tests of decades prior.  At the Albuquerque groundbreaking ceremony, the site was mostly dirt, punctuated by a pair of Deere excavators holding up an American flag.",
-      "pub_date": "2026-09-09T14:45:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/politics/national-security/nuclear-fusion-weapons-testing-china-russia-0b5fcfa9?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

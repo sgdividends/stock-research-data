@@ -1,7 +1,21 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-09-14T17:25:55.754146+00:00",
+  "generated_at": "2026-09-14T22:54:25.689226+00:00",
   "items": [
+    {
+      "title": "SCHD\u2019s 0.06% Fee Hides the Real Cost: March\u2019s 31% Reshuffle Sold Two Top-10 Holdings Out From Under Holders",
+      "summary": "SCHD's 0.06% expense ratio gets all the attention, but something that happened quietly in March may have cost dividend investors far more than a decade of fees combined.",
+      "pub_date": "2026-09-14T21:05:24Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/schd-0-06-fee-hides-210524303.html"
+    },
+    {
+      "title": "Is HPE Stock Now A Bet On Memory Prices?",
+      "summary": "Hewlett Packard Enterprise (HPE) trades near $62, at the top of its 52-week range and up about 160% over the past year. The company just reported record revenue of $12.2 billion for fiscal Q3 2026 and a raised outlook for fiscal 2027. The easy read is that you are early in an AI cycle. The harder question is what paid for it.",
+      "pub_date": "2026-09-14T17:49:16Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hpe-stock-now-bet-memory-174916864.html"
+    },
     {
       "title": "Cisco's New Splunk AI Package Targets Computing Inside the Customer's Walls",
       "summary": "The release combines infrastructure and software while leaving customers responsible for operating their own deployment.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-12T13:22:14Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/ai/articles/ken-fisher-added-cisco-palo-132214941.html"
-    },
-    {
-      "title": "Cisco Jumps Over 3.7% While Huang Calls Cybersecurity AI's Next Blockbuster",
-      "summary": "Nvidia's chief sees continuous AI defense following coding, placing Cisco's security and networking platforms inside the next demand contest.",
-      "pub_date": "2026-09-11T21:11:27Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-jumps-over-3-7-211127351.html"
-    },
-    {
-      "title": "How Far Could Cisco Stock Swing On You As AI Networking Orders Grow?",
-      "summary": "Cisco Systems (CSCO) stock trades at $107.44, and its options price a range over the next twelve months from near $74 to near $156. The market gives the shares about a two-in-three chance of finishing inside that band, and the band carries no view on direction. It measures size, and for Cisco that is about as much movement as the stock has shown over the past year.",
-      "pub_date": "2026-09-11T20:49:23Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/far-could-cisco-stock-swing-204923429.html"
     }
   ]
 }

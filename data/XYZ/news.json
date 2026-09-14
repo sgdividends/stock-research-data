@@ -1,7 +1,14 @@
 {
   "ticker": "XYZ",
-  "generated_at": "2026-09-14T17:26:47.471476+00:00",
+  "generated_at": "2026-09-14T22:55:20.731741+00:00",
   "items": [
+    {
+      "title": "Block Stock Flashing Bullish Signal After Pullback",
+      "summary": "XYZ has pulled back to historical support on the charts",
+      "pub_date": "2026-09-14T17:51:51Z",
+      "source": "Schaeffer's Investment Research",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/block-stock-flashing-bullish-signal-175151456.html"
+    },
     {
       "title": "Intuit's Money Momentum: Can Payments Sustain the Growth?",
       "summary": "INTU deepens QuickBooks monetization through payments, Bill Pay and lending as its online money portfolio grows 31%.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-11T17:50:34Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-just-bet-37-175034828.html"
-    },
-    {
-      "title": "Block Makes a Federal Trust Bank Move That Could Reshape Its Fintech Model",
-      "summary": "Block filed with the OCC to form Builders Bank & Trust, N.A., a national trust charter aimed at cutting sponsor-bank fees and unifying compliance for Cash App and Square.",
-      "pub_date": "2026-09-11T17:50:00Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/block-makes-federal-trust-bank-175000248.html"
     }
   ]
 }

@@ -1,13 +1,27 @@
 {
   "ticker": "CAT",
-  "generated_at": "2026-09-14T17:25:49.639669+00:00",
+  "generated_at": "2026-09-14T22:54:20.061608+00:00",
   "items": [
     {
-      "title": "Stock Market Today: Dow Tries For A Gain, Trump Hits Out At AI Fears; This Fuel Play Clears Entry (Live Coverage)",
-      "summary": "The Dow Jones index drops on the stock market today as oil prices surge. President Trump hits out amid AI leaders calls for a slowdown.",
-      "pub_date": "2026-09-14T16:59:27Z",
+      "title": "Stock Market Today: Dow Falls, Cyber Plays Soar Amid AI Fears; Bessent Makes This Move On Iran (Live Coverage)",
+      "summary": "The Dow Jones index falls on the stock market today as President Trump hits out at AI slowdown calls. Treasury Secretary Bessent makes an Iran move.",
+      "pub_date": "2026-09-14T20:36:26Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-nvda-stock-ai-warning/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Caterpillar Stock Looks Expensive Until You Price The Backlog, And Then The Margins",
+      "summary": "Caterpillar (CAT) has nearly doubled over the past year, and it trades near $820 a share, about 36 times its last twelve months of adjusted earnings. That is normalized net income with stock-based compensation added back, meant to sit closer to the basis analysts use than a GAAP figure would, though the two are not defined identically. The multiple is steep for a maker of construction equipment and engines. It reads differently against the earnings analysts expect.",
+      "pub_date": "2026-09-14T19:22:38Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-stock-looks-expensive-until-192238652.html"
+    },
+    {
+      "title": "Nasdaq Recovers, but Industrial Stocks Are Still Struggling",
+      "summary": "The Nasdaq composite recently traded 0.1% lower on the day, a near-full recovery after being down 1.3% earlier. If the tech-heavy index finishes in positive territory today, it would be the biggest intraday comeback since April 7.",
+      "pub_date": "2026-09-14T17:41:06Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/nasdaq-recovers-but-industrial-stocks-are-still-struggling-wD171wDdrnMOF98iKMMQ?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Caterpillar Falls 4% While Deere Edges Higher: Is the Data Center Power Trade Unwinding?",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-11T19:09:26Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/deere-caterpillar-both-over-40-190926613.html"
-    },
-    {
-      "title": "2 Industrials Stocks for Long-Term Investors and 1 Facing Headwinds",
-      "summary": "Industrials businesses quietly power the physical things we depend on, from cars and homes to e-commerce infrastructure. Still, their generally high capital requirements expose them to the ups and downs of economic cycles, and the industry\u2019s six-month return of 1.5% has fallen short of the S&P 500\u2019s 12.7% rise.",
-      "pub_date": "2026-09-11T15:31:05Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-industrials-stocks-long-term-153105681.html"
-    },
-    {
-      "title": "What Happens To CAT Stock If Data Center Demand Cools?",
-      "summary": "Caterpillar (CAT) stock returned 94% over the past twelve months, against 17.9% for the S&P 500, and its second quarter of 2026 was the first in company history above $20 billion of sales and revenues. One risk to that run is a quiet one. Caterpillar is adding factory capacity with data center power as a big driver, and analysts are asking whether that demand has staying power through 2030.",
-      "pub_date": "2026-09-11T14:05:38Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/happens-cat-stock-data-center-140538310.html"
     }
   ]
 }

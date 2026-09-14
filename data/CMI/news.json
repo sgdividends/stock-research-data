@@ -1,7 +1,14 @@
 {
   "ticker": "CMI",
-  "generated_at": "2026-09-14T17:25:53.101292+00:00",
+  "generated_at": "2026-09-14T22:54:23.204637+00:00",
   "items": [
+    {
+      "title": "Caterpillar Stock Looks Expensive Until You Price The Backlog, And Then The Margins",
+      "summary": "Caterpillar (CAT) has nearly doubled over the past year, and it trades near $820 a share, about 36 times its last twelve months of adjusted earnings. That is normalized net income with stock-based compensation added back, meant to sit closer to the basis analysts use than a GAAP figure would, though the two are not defined identically. The multiple is steep for a maker of construction equipment and engines. It reads differently against the earnings analysts expect.",
+      "pub_date": "2026-09-14T19:22:38Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-stock-looks-expensive-until-192238652.html"
+    },
     {
       "title": "Cummins Returned 512% in a Decade. Its Dividend Did Something Even More Impressive",
       "summary": "Cummins kept raising its dividend through the 2008 financial crisis, through every brutal truck cycle since, and straight into a hydrogen bet that has already burned hundreds of millions. The stock tells one story, but the dividend checks tell a stranger one.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-10T11:49:44Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cummins-stock-outperforming-nasdaq-114944304.html"
-    },
-    {
-      "title": "Can Data Center Power Fuel CAT Stock To New Highs?",
-      "summary": "Caterpillar (CAT) has almost doubled over the past year, gaining 96.3% while the S&P 500 returned 19.1%. Deere and Cummins each gained about 43%. The broader machinery cycle carried Caterpillar part of the way, but enthusiasm around power generation drove the premium. The gap to the stock's 52-week high is what a buyer now has to price against those expectations.",
-      "pub_date": "2026-09-09T18:52:07Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/data-center-power-fuel-cat-185207676.html"
     }
   ]
 }

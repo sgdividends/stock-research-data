@@ -1,7 +1,14 @@
 {
   "ticker": "ICE",
-  "generated_at": "2026-09-14T17:26:12.063085+00:00",
+  "generated_at": "2026-09-14T22:54:42.905130+00:00",
   "items": [
+    {
+      "title": "One Great Chart: A Stark Shift in the Mortgage Market",
+      "summary": "At the end of 2022, around 10% of unpaid principal balances were on mortgages with rates of 5% or higher, according to Intercontinental Exchange data. As of this July, 5%-plus mortgages represented more than 40% of unpaid balances.",
+      "pub_date": "2026-09-14T21:30:02Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/one-great-chart-a-stark-shift-in-the-mortgage-market-sHa2kYO5Qg0zd4MOAjT9?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "CBOE Stock Trades at 24% Discount to 52-Week High: More Upside Left?",
       "summary": "CBOE trades 24.2% below its 52-week high, while robust volumes, recurring revenues and a raised 2026 growth outlook support its growth case.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-10T15:33:01Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/nasdaq-pours-millions-into-crypto-platform-partnership-for-tokenized-trading/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Intercontinental Exchange Sept. Mortgage Monitor- Property Insurance Costs Rise 8.7% Annually",
-      "summary": "Intercontinental Exchange's Andy Walden joins Ashley Mastronardi on NYSE Live to discuss property insurance costs",
-      "pub_date": "2026-09-10T15:10:35Z",
-      "source": "NYSE",
-      "url": "https://finance.yahoo.com/video/intercontinental-exchange-sept-mortgage-monitor-151035170.html"
     }
   ]
 }
