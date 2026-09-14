@@ -1,7 +1,14 @@
 {
   "ticker": "BAC",
-  "generated_at": "2026-09-13T22:00:50.368658+00:00",
+  "generated_at": "2026-09-14T02:53:46.853045+00:00",
   "items": [
+    {
+      "title": "BofA reiterates buy on a cloud giant burning through cash",
+      "summary": "The firm sees a steep bill ahead, and still thinks the stock is worth buying.",
+      "pub_date": "2026-09-14T02:47:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-reiterates-buy-cloud-giant-024700251.html"
+    },
     {
       "title": "Bank of America has strong message for Marvell stock investors",
       "summary": "The bank\u2019s bullish outlook comes with a crucial test",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-11T18:20:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bank-etfs-spotlight-next-weeks-182000376.html"
-    },
-    {
-      "title": "Renishaw Gets a Semiconductor Upgrade",
-      "summary": "The precision-engineering group climbed after Bank of America jumped from bearish to bullish, arguing that semiconductor, electronics and aerospace demand is running well ahead of expectations.",
-      "pub_date": "2026-09-11T15:10:31Z",
-      "source": "Moby",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/renishaw-gets-semiconductor-upgrade-151031955.html"
     }
   ]
 }

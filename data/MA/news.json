@@ -1,7 +1,14 @@
 {
   "ticker": "MA",
-  "generated_at": "2026-09-13T22:01:27.188609+00:00",
+  "generated_at": "2026-09-14T02:54:19.231740+00:00",
   "items": [
+    {
+      "title": "AI agents to start spending your money with Visa, Mastercard",
+      "summary": "The two card giants want to stay central as AI software starts to shop for you.",
+      "pub_date": "2026-09-14T01:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-agents-start-spending-money-010300686.html"
+    },
     {
       "title": "Agentic commerce: Is Payments the winner this time?",
       "summary": "Investing.com -- Agentic commerce accounts for less than 1% of overall e-commerce activity, even as new AI shopping tools from Meta and Anthropic launched this week.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-11T14:37:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/technology/ai/articles/bill-ackman-bets-ai-old-143700072.html"
-    },
-    {
-      "title": "Mastercard launches Wallet Pay to boost digital wallet interoperability",
-      "summary": "Mastercard said the portfolio will allow wallet providers introduce new use cases \u201cwithout significant changes\u201d to infrastructure.",
-      "pub_date": "2026-09-11T10:36:11Z",
-      "source": "Electronic Payments",
-      "url": "https://finance.yahoo.com/technology/articles/mastercard-launches-wallet-pay-boost-103611074.html"
     }
   ]
 }

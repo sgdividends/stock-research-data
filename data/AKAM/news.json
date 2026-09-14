@@ -1,7 +1,14 @@
 {
   "ticker": "AKAM",
-  "generated_at": "2026-09-13T22:00:45.564712+00:00",
+  "generated_at": "2026-09-14T02:53:42.615866+00:00",
   "items": [
+    {
+      "title": "Jim Cramer says one 28-year-old tech giant is a terrific buy",
+      "summary": "A 28-year-old internet company is rebuilding itself around AI, and Jim Cramer just endorsed the stock.",
+      "pub_date": "2026-09-13T23:37:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/articles/jim-cramer-says-one-28-233700924.html"
+    },
     {
       "title": "Jim Cramer Called This Stock \u201cTerrific\u201d and Said \u201cNo Thank You\u201d to APLD Stock. Here\u2019s Why",
       "summary": "Jim Cramer praised one AI-adjacent name, dismissed a housing supplier on instinct, and rejected a data-center story on principle, but his cash-first filter may be the wrong tool for at least one of those calls.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-01T13:36:50Z",
       "source": "The Fly",
       "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-upgraded-uber-initiated-wall-133650211.html"
-    },
-    {
-      "title": "Here Are Tuesday\u2019s Top Wall Street Analyst Research Calls: Akamai Technologies, Arista Networks, Booking Holdings, Cisco Systems, Dell Technologies, Duolingo, Robinhood Markets, PG&E, and More",
-      "summary": "Wall Street analysts reshuffled their ratings on September 1st with some dramatic target price swings, including one major utility stock getting its target slashed nearly in half while a red-hot language app saw its target doubled overnight.",
-      "pub_date": "2026-09-01T11:57:32Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tuesday-top-wall-street-analyst-115732537.html"
     }
   ]
 }
