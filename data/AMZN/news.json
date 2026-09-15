@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "generated_at": "2026-09-14T22:54:13.187811+00:00",
+  "generated_at": "2026-09-15T02:56:15.875696+00:00",
   "items": [
     {
       "title": "Tech pulls back on AI concerns, cybersecurity takes a step up",
@@ -15,6 +15,20 @@
       "pub_date": "2026-09-14T13:58:23Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/could-dario-amodeis-ai-safety-135823957.html"
+    },
+    {
+      "title": "Amazon Partners with Wiwynn to Expand U.S. AI Infrastructure Capacity",
+      "summary": "Amazon.com, Inc. (NASDAQ:AMZN) and Wiwynn are expanding Wiwynn\u2019s advanced manufacturing facility in Socorro, Texas, with nearly 1,000 additional jobs expected by the end of 2027. The facility manufactures and integrates server systems and racks used in Amazon\u2019s data center infrastructure. Wiwynn says its total investment in the Texas facility will exceed $1.6 billion, with employment [\u2026]",
+      "pub_date": "2026-09-15T01:22:23Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-partners-wiwynn-expand-u-012223093.html"
+    },
+    {
+      "title": "The Gulf\u2019s AI Nightmare Came Courtesy of an Iranian Drone",
+      "summary": "Amazon data centers in the U.A.E. and Bahrain are still offline months after being hit in the Iran war, testing the region\u2019s multibillion-dollar ambitions.",
+      "pub_date": "2026-09-14T23:00:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/world/middle-east/the-gulfs-ai-nightmare-came-courtesy-of-an-iranian-drone-3f313cb3?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Big Tech Issued About $220 Billion of Bonds. Alphabet and Meta Show How AI Is Warping the Credit Market",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-14T20:21:33Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/options/articles/meta-stock-130b-ai-buildout-202133176.html"
-    },
-    {
-      "title": "Sector Update: Tech Stocks Fall Late Afternoon",
-      "summary": "Tech stocks were lower late Monday afternoon, with the State Street Technology Select Sector SPDR ET",
-      "pub_date": "2026-09-14T20:00:07Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/articles/sector-tech-stocks-fall-afternoon-200007387.html"
-    },
-    {
-      "title": "Sector Update: Consumer Stocks Mixed Late Afternoon",
-      "summary": "Consumer stocks were mixed late Monday afternoon, with the State Street Consumer Staples Select Sect",
-      "pub_date": "2026-09-14T19:50:35Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-afternoon-195035841.html"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "PANW",
-  "generated_at": "2026-09-14T22:54:59.746366+00:00",
+  "generated_at": "2026-09-15T02:57:00.134089+00:00",
   "items": [
     {
       "title": "Tech pulls back on AI concerns, cybersecurity takes a step up",
@@ -15,6 +15,13 @@
       "pub_date": "2026-09-14T10:22:26Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/article/cybersecurity-stocks-get-a-jolt-on-gloomy-ai-warnings-from-ceos-of-anthropic-and-openai-102226852.html"
+    },
+    {
+      "title": "Atlassian, Palo Alto Networks, SentinelOne, monday.com, and Freshworks Stocks Trade Up, What You Need To Know",
+      "summary": "A number of stocks jumped in the afternoon session after shares of enterprise software and SaaS companies rallied broadly as investors rotated capital out of semiconductor and AI-hardware stocks following calls for an artificial intelligence development slowdown.",
+      "pub_date": "2026-09-15T01:39:30Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/atlassian-palo-alto-networks-sentinelone-013930219.html"
     },
     {
       "title": "Cybersecurity Stocks Q2 In Review: Palo Alto Networks (NASDAQ:PANW) Vs Peers",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-14T17:57:54Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-palo-alto-networks-stock-175754835.html"
-    },
-    {
-      "title": "RUM's $13.7B Compute Win Contradicts AI Safety Concerns",
-      "summary": "Although AI safety warnings continue to spark fierce public debate and market volatility, AI companies' underlying actions paint a vastly different picture.",
-      "pub_date": "2026-09-14T17:40:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/rums-13-7b-compute-win-174000222.html"
     }
   ]
 }

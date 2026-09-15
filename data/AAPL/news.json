@@ -1,7 +1,14 @@
 {
   "ticker": "AAPL",
-  "generated_at": "2026-09-14T22:54:08.833676+00:00",
+  "generated_at": "2026-09-15T02:56:11.768212+00:00",
   "items": [
+    {
+      "title": "PayPal takes No. 1 in tech power ranking",
+      "summary": "PayPal moves up three places as analysts weigh its profit outlook, buybacks and PYUSD growth against slower user gains.",
+      "pub_date": "2026-09-14T23:51:48Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-takes-no-1-tech-235148135.html"
+    },
     {
       "title": "Maryland Seeks To Reinstate Digital Ad Tax",
       "summary": "Maryland late last week appealed an agency ruling that struck down a 2021 law imposing taxes on digital ad sales.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-14T16:54:03Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/apples-foldable-phone-arrived-heres-165403878.html"
-    },
-    {
-      "title": "Apple Wants to Know What\u2019s Hiding in OpenAI\u2019s Secret Unreleased Device, and Who at the Company Had Access to It.",
-      "summary": "Apple walked into federal court demanding access to OpenAI's unreleased consumer device, internal communications, and the employees who touched allegedly stolen confidential material. The judge now decides how deep Apple gets to dig before an October 1 showdown.",
-      "pub_date": "2026-09-14T16:52:26Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/apple-wants-know-hiding-openai-165226773.html"
     }
   ]
 }

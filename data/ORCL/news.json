@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-09-14T22:54:59.242373+00:00",
+  "generated_at": "2026-09-15T02:56:59.478559+00:00",
   "items": [
     {
       "title": "What to expect ahead of the Fed's September interest rate decision",
@@ -15,6 +15,13 @@
       "pub_date": "2026-09-14T13:35:45Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/anthropic-openai-now-want-to-tame-the-rapid-pace-of-ai-development-133545450.html"
+    },
+    {
+      "title": "HPE Stock Drops 11% To Worst Day In Over A Year After Evercore Downgrades On Lack Of Near-Term Catalysts",
+      "summary": "Evercore ISI lowered its rating on HPE stock to \u2018In-Line\u2019 from \u2018Outperform.\u2019",
+      "pub_date": "2026-09-14T23:16:05Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hpe-stock-drops-11-worst-231605897.html"
     },
     {
       "title": "S&P 500, Nasdaq, Dow Drop On Chipmaker Weakness, Treasury Yield Pressure \u2014 MSFT, NFLX, ORCL, CRWD, RBLX In Focus",
@@ -38,25 +45,18 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/big-tech-issued-220-billion-212946047.html"
     },
     {
+      "title": "AI Stocks Tumble, Frontier Lab Execs Call for AI Slowdown, and Ellison Pulls the Plug on 50M ORCL Sale",
+      "summary": "AI stocks plummeted today, following Anthropic CEO Dario Amodei's calling to \u201cpace the frontier.\" We unpack what that actually means vis-a-vis an AI slowdown, plus why Oracle Executive Director Larry\u2026",
+      "pub_date": "2026-09-14T21:04:28Z",
+      "source": "Blockspace",
+      "url": "https://finance.yahoo.com/video/ai-stocks-tumble-frontier-lab-210428898.html"
+    },
+    {
       "title": "Oracle (ORCL): Oracle Has the Backlog. Wall Street Wants the Cash",
       "summary": "On September 10, 2026, Oracle Corporation (NYSE:ORCL) reported first-quarter fiscal 2027 results that beat Wall Street estimates on both revenue and earnings. Revenue rose 30% to $19.3 billion, above the $19.14 billion analysts expected, and non-GAAP earnings per share came in at $1.92 versus a $1.74 estimate. Cloud revenue jumped 62% to $11.6 billion, with [\u2026]",
       "pub_date": "2026-09-14T20:39:07Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-orcl-oracle-backlog-wall-203907436.html"
-    },
-    {
-      "title": "Oracle, Corning, Alphabet, GE Vernova, CrowdStrike, SpaceX, and More Stocks That Explain Today\u2019s Market",
-      "summary": "Corning stock was the worst performer in the S&P 500 while CrowdStrike stock was the best-performer in the index.",
-      "pub_date": "2026-09-14T20:25:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-259d1f80?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Sector Update: Tech Stocks Fall Late Afternoon",
-      "summary": "Tech stocks were lower late Monday afternoon, with the State Street Technology Select Sector SPDR ET",
-      "pub_date": "2026-09-14T20:00:07Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/articles/sector-tech-stocks-fall-afternoon-200007387.html"
     }
   ]
 }

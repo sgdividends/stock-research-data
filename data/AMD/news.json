@@ -1,6 +1,6 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-09-14T22:54:12.598701+00:00",
+  "generated_at": "2026-09-15T02:56:15.119198+00:00",
   "items": [
     {
       "title": "Tech pulls back on AI concerns, cybersecurity takes a step up",
@@ -38,6 +38,13 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-dips-ai-warnings-204112098.html"
     },
     {
+      "title": "US stocks retreat on AI warnings as oil prices, bond yields rise",
+      "summary": "Wall Street stocks fell Monday on weakness in tech shares after leading artificial intelligence executives said advances should be slowed, as markets also contended with higher oil prices and Treasury bond yields.Losses tempered as the session progressed with crude oil prices and US bond yields moderating somewhat.",
+      "pub_date": "2026-09-14T20:33:41Z",
+      "source": "AFP",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tech-firms-hit-ai-slowdown-024739551.html"
+    },
+    {
       "title": "Oracle, Corning, Alphabet, GE Vernova, CrowdStrike, SpaceX, and More Stocks That Explain Today\u2019s Market",
       "summary": "Corning stock was the worst performer in the S&P 500 while CrowdStrike stock was the best-performer in the index.",
       "pub_date": "2026-09-14T20:25:00Z",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-14T20:15:55Z",
       "source": "Reuters",
       "url": "https://finance.yahoo.com/technology/ai/articles/ai-warnings-knock-nasdaq-futures-092329455.html"
-    },
-    {
-      "title": "AI Warning Sends Nvidia, AMD, Micron and Intel Shares Tumbling",
-      "summary": "Nvidia, Intel And AMD Shares Sink As AI Leaders Sound Fresh Warning",
-      "pub_date": "2026-09-14T19:09:09Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/news/ai-warning-sends-nvidia-amd-190909953.html"
     }
   ]
 }

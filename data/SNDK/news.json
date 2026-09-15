@@ -1,6 +1,6 @@
 {
   "ticker": "SNDK",
-  "generated_at": "2026-09-14T22:55:07.342140+00:00",
+  "generated_at": "2026-09-15T02:57:08.453990+00:00",
   "items": [
     {
       "title": "Tech pulls back on AI concerns, cybersecurity takes a step up",
@@ -15,6 +15,13 @@
       "pub_date": "2026-09-14T13:45:19Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-oil-prices-gain-treasury-yields-stay-elevated-alphacheck-134519544.html"
+    },
+    {
+      "title": "Why Western Digital (WDC) Stock Is Trading Lower Today",
+      "summary": "Shares of leading data storage manufacturer Western Digital (NASDAQ: WDC) fell 4.8% in the afternoon session after the company announced the redemption of all $109.5 million of its 3% convertible notes amid broader weakness across AI memory and storage stocks.",
+      "pub_date": "2026-09-15T00:27:30Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-western-digital-wdc-stock-002730490.html"
     },
     {
       "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Dive On AI Fears; Fed Rate Hike Looms",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-14T17:56:22Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-intraday-amid-ai-175622796.html"
-    },
-    {
-      "title": "SanDisk Falls 4.6% With Prices Driving Two-Thirds of Its Quarterly Sales Jump",
-      "summary": "Data-center expansion is substantial, but pricing contributed more than volume to the latest sequential increase.",
-      "pub_date": "2026-09-14T17:39:34Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-falls-4-6-prices-173934805.html"
     }
   ]
 }

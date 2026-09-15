@@ -1,6 +1,6 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-09-14T22:54:15.557812+00:00",
+  "generated_at": "2026-09-15T02:56:17.807355+00:00",
   "items": [
     {
       "title": "Tech pulls back on AI concerns, cybersecurity takes a step up",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-14T14:39:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/tech-pulls-back-ai-concerns-143900977.html"
+    },
+    {
+      "title": "3 Stocks That Offer AI Exposure and Dividends",
+      "summary": "Several stocks with favorable AI tailwinds - Broadcom (AVGO), Vertiv (VRT), and Caterpillar (CAT) - shell out dividend payments.",
+      "pub_date": "2026-09-14T23:27:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-offer-ai-exposure-232700797.html"
     },
     {
       "title": "Broadcom Drops Over 4% as $21.7 Billion AI Forecast Meets Slowdown Fears",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-14T18:05:01Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-trouble-180501523.html"
-    },
-    {
-      "title": "Intel Or NVIDIA: Who Is Paying For The AI Build-Out?",
-      "summary": "If you own Intel (INTC) or NVIDIA, you own the same shortage. Both said the same thing at their latest reports: buyers want more compute than either can ship, and supply rather than demand is the limit. The fork is what each does about it. NVIDIA sells into the shortage and keeps most of what it collects. Intel has to build the capacity first, and it is paying for that now.",
-      "pub_date": "2026-09-14T17:23:01Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/technology/ai/articles/intel-nvidia-paying-ai-build-172301426.html"
     }
   ]
 }
