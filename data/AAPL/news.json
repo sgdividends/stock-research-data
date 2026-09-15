@@ -1,7 +1,42 @@
 {
   "ticker": "AAPL",
-  "generated_at": "2026-09-15T09:07:22.263364+00:00",
+  "generated_at": "2026-09-15T16:02:43.239342+00:00",
   "items": [
+    {
+      "title": "Wall St wobbles as rising oil and Treasury yields stoke investor unease",
+      "summary": "By Tharuniyaa Lakshmi Sept 15 (Reuters) - Wall Street's main indexes slipped on Tuesday, dragged down by higher crude prices, elevated Treasury yields and an uncertain outlook for AI demand that kept",
+      "pub_date": "2026-09-15T15:49:37Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-rising-085541502.html"
+    },
+    {
+      "title": "Apple Stock Slips After India Escalates iPhone Repair Investigation",
+      "summary": "Apple Shares Drop as India Probes Software Warranty and Repair Costs",
+      "pub_date": "2026-09-15T15:38:56Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-stock-slips-india-escalates-153856786.html"
+    },
+    {
+      "title": "Would You Still Want Dell If The AI Orders Slowed?",
+      "summary": "Dell Technologies (DELL) has returned more than 330% over the past twelve months, and it still cannot build as much as its customers want. You can be paid today for agreeing to buy the stock well below today's price, and the payment is yours whether or not you ever own the shares. The catch is whether you would want the shares at that lower price.",
+      "pub_date": "2026-09-15T15:01:46Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/still-want-dell-ai-orders-150146466.html"
+    },
+    {
+      "title": "OpenAI acquires Glass Imaging camera startup for $300 million",
+      "summary": "The deal values Glass Imaging, founded by two former Apple engineers, at more than triple its previous $100 million valuation",
+      "pub_date": "2026-09-15T13:49:07Z",
+      "source": "Quartz",
+      "url": "https://finance.yahoo.com/technology/ai/articles/openai-acquires-glass-imaging-camera-134907735.html"
+    },
+    {
+      "title": "Exclusive-Indian consumer regulator escalates probe into Apple's software warranty terms",
+      "summary": "NEW DELHI, Sept 15 (Reuters) - India's consumer regulator is examining Apple's software warranty terms in an investigation of the iOS 18 update alleged to have damaged iPhone functionality, compelling users to pay \"exorbitant\" sums for repairs, documents show. The sparring is shaping as Apple's latest headache in \u200ca growth market where it is fast expanding iPhone manufacturing and rapidly growing market share, but also fending off accusations of breaching domestic antitrust laws.",
+      "pub_date": "2026-09-15T09:10:04Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/exclusive-indian-consumer-regulator-escalates-091004769.html"
+    },
     {
       "title": "Gene Munster Says iPhone 18 Pre-Order Wait Times Are Climbing, Calls It a 'Favorable Sign for Demand'",
       "summary": "Deepwater Asset Management\u2019s Gene Munster said Monday that Apple Inc.\u2019s (NASDAQ:AAPL) iPhone 18 pre-order wait times have climbed sharply since the weekend, a trend he calls an early, favorable signal of demand across major markets worldwide. Longer Lead Time a Favorable Sign In a post on X, Munster said that average lead times across eight countries reached 2.6 weeks three days into pre-orders, up from 1.6 weeks the day before, matching where Pro models stood at this point last year. He said pa",
@@ -22,41 +57,6 @@
       "pub_date": "2026-09-14T23:51:48Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-takes-no-1-tech-235148135.html"
-    },
-    {
-      "title": "Maryland Seeks To Reinstate Digital Ad Tax",
-      "summary": "Maryland late last week appealed an agency ruling that struck down a 2021 law imposing taxes on digital ad sales.",
-      "pub_date": "2026-09-14T21:04:54Z",
-      "source": "MediaPost",
-      "url": "https://finance.yahoo.com/media-advertising/articles/maryland-seeks-reinstate-digital-ad-210454125.html"
-    },
-    {
-      "title": "OpenAI Left Exposed After Apple's Surprise Legal Break",
-      "summary": "The legal battle is narrowing around a bigger AI rivalry",
-      "pub_date": "2026-09-14T20:56:20Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/openai-left-exposed-apples-surprise-205620397.html"
-    },
-    {
-      "title": "Apple's Siri Upgrade Does Not Require Every User to Buy Another iPhone",
-      "summary": "Existing-device eligibility broadens distribution while weakening the argument that better AI automatically produces immediate hardware replacements.",
-      "pub_date": "2026-09-14T18:21:10Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/apples-siri-upgrade-does-not-182110757.html"
-    },
-    {
-      "title": "Apple Duo Foldable iPhone a \u2018Must Have Product,\u2019 Gary Black Says \u2018Don\u2019t Underestimate the Power of the $AAPL Marketing Machine\u2019",
-      "summary": "Apple Inc unveiled the highly anticipated foldable iPhone Wednesday, now known as the iPhone Duo. Here\u2019s what one market expert has to say about the potential demand. Gary Black on iPhone Duo While the price point and lack of need...",
-      "pub_date": "2026-09-14T17:30:28Z",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/technology/articles/apple-duo-foldable-iphone-must-173028466.html"
-    },
-    {
-      "title": "X Corp and SpaceXAI drop antitrust lawsuit against Apple",
-      "summary": "The companies moved to dismiss claims that Apple illegally shut out rivals by integrating ChatGPT into its devices, but will continue pursuing OpenAI",
-      "pub_date": "2026-09-14T17:25:37Z",
-      "source": "Quartz",
-      "url": "https://finance.yahoo.com/technology/ai/articles/x-corp-spacexai-drop-antitrust-172537925.html"
     }
   ]
 }

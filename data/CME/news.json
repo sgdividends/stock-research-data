@@ -1,7 +1,35 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-09-15T09:07:37.260873+00:00",
+  "generated_at": "2026-09-15T16:03:00.532535+00:00",
   "items": [
+    {
+      "title": "Fed meeting live updates: Anticipation builds with Fed expected to hike interest rates for first time in 3 years",
+      "summary": "The Federal Reserve's September policy meeting kicks off on Tuesday, and markets overwhelmingly expect the Fed to raise interest rates by 25 basis points on Wednesday amid persistently high inflation.",
+      "pub_date": "2026-09-15T14:34:52Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/economy/policy/live/federal-reserve-meeting-live-updates-chairman-kevin-warsh-143452661.html"
+    },
+    {
+      "title": "Stocks Lower as 10-Year Treasury Yield Hits Fresh High",
+      "summary": "STOCKS  The 10-year Treasury yield hit a fresh high above 5%, while stocks opened lower. The yield on the benchmark bond rose as high as 5.040%, its highest level since 2007, before paring gains. The move largely tracked oil prices, with Brent crude ticking higher to trade around $107 a barrel.",
+      "pub_date": "2026-09-15T14:04:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/stock-futures-retreat-10-year-treasury-yield-holds-above-5-as-investors-await-fed-decision-1cde847e?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Mid-September Shakeup: Three Catalysts, One Afternoon",
+      "summary": "Markets enter the week accordingly jumpy, with volatility measures rising into the seasonally weak month of September.",
+      "pub_date": "2026-09-15T14:04:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/economy/policy/articles/mid-september-shakeup-three-catalysts-140400357.html"
+    },
+    {
+      "title": "US Stock Futures Edge Lower as 10-Year Treasury Yield Moves Above 5%: Dow Jones, S&P, Nasdaq, Wall Street",
+      "summary": "US stock futures pointed to a slightly lower open on Tuesday as the yield on the benchmark 10-year Treasury moved back above 5%, while investors awaited the Federal Reserve\u2019s monetary policy decision. The 10-year yield reached its highest level since July 2007 amid continued market attention on inflation and the outlook for US interest rates.",
+      "pub_date": "2026-09-15T13:19:54Z",
+      "source": "InvestorsHub",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-edge-lower-131954844.html"
+    },
     {
       "title": "Should You Buy Coinbase Stock While Its Revenue Is Shrinking?",
       "summary": "Coinbase Global (COIN) stock has gained about 18% over the past month, and it is still down about 44% over the past year. At about $175 a share, the market pays 7.3 times sales against 3.2 for the S&P 500, more than double the market's price for revenue that is shrinking. The question is whether what Coinbase is building is worth more than what it is losing.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-09-14T11:58:14Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/technology/ai/articles/us-equity-futures-lower-pre-115814163.html"
-    },
-    {
-      "title": "AI, Oil, Bond Yield Concerns Damp Wall Street Pre-Bell; Asia, Europe Off",
-      "summary": "Wall Street futures pointed lower pre-bell Monday as mounting concerns regarding AI development met",
-      "pub_date": "2026-09-14T11:11:50Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/articles/ai-oil-bond-yield-concerns-111150869.html"
-    },
-    {
-      "title": "Soaring Oil Prices Put Fed on Track for September Rate Hike",
-      "summary": "Surging oil and fuel prices have sharply increased market expectations that the Federal Reserve will raise interest rates by 25 basis points this week.",
-      "pub_date": "2026-09-14T08:00:00Z",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/economy/policy/articles/soaring-oil-prices-put-fed-080000535.html"
-    },
-    {
-      "title": "A $93 trillion trading boom puts CME in an unusual spot",
-      "summary": "Bank of America sees an unusual win-win setup for CME",
-      "pub_date": "2026-09-13T16:03:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/options/articles/93-trillion-trading-boom-puts-160300956.html"
-    },
-    {
-      "title": "Gold Little Changed As August CPI Raises Interest-Rate Expectations",
-      "summary": "Gold futures held steady as a pullback in oil prices helped offset the impact of an inflation report that increased expectations for a Fed interest-rate rise next week.",
-      "pub_date": "2026-09-11T18:42:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-ahead-of-u-s-cpi-data-c995e7d0?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

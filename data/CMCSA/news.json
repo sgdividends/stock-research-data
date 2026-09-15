@@ -1,7 +1,14 @@
 {
   "ticker": "CMCSA",
-  "generated_at": "2026-09-15T09:07:37.118482+00:00",
+  "generated_at": "2026-09-15T16:03:00.367943+00:00",
   "items": [
+    {
+      "title": "Disney Trades Well Below Wall Street\u2019s Target. Here\u2019s What Closes the Gap.",
+      "summary": "Disney's stock has barely moved in a year while Wall Street's consensus target sits 20% higher, and a string of earnings beats has done almost nothing to close that gap. The reason why reveals a deeper tension inside the company that one upcoming earnings report could either resolve or rupture.",
+      "pub_date": "2026-09-15T14:55:29Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/disney-trades-well-below-wall-145529485.html"
+    },
     {
       "title": "Equinix (EQIX) Links Comcast To Its Fabric, Is It Still 24% Below Fair Value?",
       "summary": "Equinix (EQIX) has drawn fresh attention after Comcast Business agreed to plug its last mile connectivity directly into Equinix Fabric through standards based APIs, tightening the link between data centers and enterprise networks. Recent moves in Equinix stock have cooled, with the share price down 9.38% over the past 30 days and 8.77% over 90 days, even as the year to date share price return is 30.70% and the 1 year total shareholder return is 28.85%. This suggests strong longer term...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-14T13:00:02Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/comcast-corporation-cmcsa-trending-stock-130002602.html"
-    },
-    {
-      "title": "Comcast CFO warns of a rising threat as internet customers depart",
-      "summary": "Comcast is confronting a challenging broadband market as customer habits continue to shift.",
-      "pub_date": "2026-09-12T19:37:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/articles/comcast-cfo-sends-stern-warning-193700479.html"
     }
   ]
 }

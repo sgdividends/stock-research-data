@@ -1,7 +1,14 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-09-15T09:07:38.378944+00:00",
+  "generated_at": "2026-09-15T16:03:01.827106+00:00",
   "items": [
+    {
+      "title": "Bitcoin tumbles 3% to $76,000 as hopes of CLARITY Act passage this year fade",
+      "summary": "Bitcoin tumbled on Tuesday as the odds of a key crypto bill getting the necessary votes in the Senate to continue appeared to fade.",
+      "pub_date": "2026-09-15T15:31:27Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/bitcoin-tumbles-3-to-76000-as-hopes-of-clarity-act-passage-this-year-fade-153127154.html"
+    },
     {
       "title": "How soon the Clarity Act could pass \u2014 and what investors should know",
       "summary": "The US Senate is expected to hold a procedural vote on the Clarity Act on Tuesday, Sept. 15, which will require 60 votes to pass.  Coinbase (COIN) Chief Policy Officer Faryar Shirzad joins Market Domination host Brooke DiPalma to discuss the legislation focused on a regulatory framework on crypto, how many rounds of voting it will have to go through, and what would happen if the act doesn't pass.  Disclosure: Yahoo Finance has a partnership with Coinbase.",
@@ -10,53 +17,46 @@
       "url": "https://finance.yahoo.com/video/how-soon-the-clarity-act-could-pass--and-what-investors-should-know-201811767.html"
     },
     {
-      "title": "CryptoQuant Flags Volume Revival as Another Crack in Bear Market Downtrend",
-      "summary": "CryptoQuant says spot and futures volume spiked to multi-month highs in August, marking another sign of the end of the bear market.",
-      "pub_date": "2026-09-15T06:50:28Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/cryptoquant-flags-volume-revival-another-065028599.html"
+      "title": "Coinbase Slides Ahead of Clarity Act Vote; Waystar Up on Sale Exploration | Stock Movers",
+      "summary": "On this episode of Stock Movers: - Dave & Buster's (PLAY) shares are lower after it reported revenue for the second quarter that missed the average analyst estimate. - Coinbase (COIN) along with other crypto shares along with Bitcoin are sliding ahead of the Senate's vote on the CLARITY Act that would regulate digital assets and the crypto industry. - Waystar (WAY) shares are higher after Reuters reported that the firm is exploring options, including a sale, two years after a public listing in New York.",
+      "pub_date": "2026-09-15T14:55:26Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/video/coinbase-slides-ahead-clarity-act-145526864.html"
     },
     {
-      "title": "Why Is Coinbase (COIN) Stock Soaring Today",
-      "summary": "Shares of blockchain infrastructure company Coinbase (NASDAQ:COIN) jumped 8.7% in the afternoon session after the Senate prepared for a crucial floor vote on the Digital Asset Market Clarity Act (CLARITY Act), prompting Compass Point to upgrade the cryptocurrency exchange operator to Neutral from Sell amid a broader recovery in Bitcoin prices. According to Dow Jones Newswires, the highly anticipated procedural vote centers on a revised 635-page bill that aims to establish a clear regulatory fram",
-      "pub_date": "2026-09-15T03:23:30Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-coinbase-coin-stock-soaring-032330731.html"
+      "title": "Zacks Investment Ideas feature highlights: Coinbase, IBIT, ETHA, SOLZ and stablecoin operator Circle",
+      "summary": "The Clarity Act could reshape U.S. crypto regulation, with Coinbase and digital asset ETFs among the potential beneficiaries if the bill passes.",
+      "pub_date": "2026-09-15T14:23:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/zacks-investment-ideas-feature-highlights-142300116.html"
     },
     {
-      "title": "Why Did Coinbase Global (COIN) Add Anthony Armstrong To Its Board?",
-      "summary": "Coinbase Global (NasdaqGS: COIN) appointed Anthony Armstrong to its Board of Directors and Audit Committee on 14 September 2026. Armstrong previously held senior investment banking roles at Morgan Stanley, focusing on complex financing structures and capital markets work. He also worked on government efficiency initiatives and held senior financial positions at large technology firms led by Elon Musk. The appointment of Anthony Armstrong to the board and audit committee is only one part of...",
-      "pub_date": "2026-09-15T00:20:25Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/why-did-coinbase-global-coin-002025874.html"
+      "title": "Stocks to Watch: UBS, Dave & Buster\u2019s, Coinbase, CrowdStrike",
+      "summary": "\u2198\ufe0f Coinbase Global (COIN), Robinhood Markets (HOOD), Strategy (MSTR): Shares of companies tied to cryptocurrencies slid alongside the price of bitcoin. The cryptocurrency recently traded around $76,400, down 3% from its 4 p.",
+      "pub_date": "2026-09-15T14:20:44Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-15-2026/card/stocks-to-watch-ubs-dave-buster-s-coinbase-jtr1rDqgMUIB3BssUa1U?siteid=yhoof2&yptr=yahoo"
     },
     {
-      "title": "Bullish Stock Is Set to Win Whatever Happens to Crypto Law, Analyst Says",
-      "summary": "A Wall Street analyst thinks Bullish stands to benefit whether the Clarity Act passes or not. The Senate will vote Tuesday on whether to advance the bill.",
-      "pub_date": "2026-09-14T18:10:00Z",
+      "title": "Bitcoin falls ahead of Senate Clarity Act cloture vote",
+      "summary": "Odds of the crypto regulation bill passing this year fell to 19% on Tuesday, according to prediction market Polymarket",
+      "pub_date": "2026-09-15T14:17:27Z",
+      "source": "Quartz",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-ahead-senate-clarity-141727355.html"
+    },
+    {
+      "title": "Cathie Wood Dumps $60 Million In Crypto Stock Ahead Of Clarity Act Vote",
+      "summary": "Cathie Wood sells more than $60 million worth of Coinbase, Bullish, Circle and ARK's Bitcoin ETF with the Senate's Clarity Act vote due.",
+      "pub_date": "2026-09-15T14:11:43Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/cathie-wood-ark-invest-crypto-stocks-coinbase-bullish-circle-bitcoin-etf-clarity-act-vote/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Nvidia, Coinbase, Robinhood, Coherent, and More Stocks That Explain Today\u2019s Market",
+      "summary": "FEATURE  Stocks fell Tuesday as the yield reached its highest level in 19 years and investor fears over the selloff in artificial-intelligence stocks Monday began to ease. Chip and memory stocks edged higher, having taken a battering on Monday after several top executives called for a slowdown in AI development.",
+      "pub_date": "2026-09-15T14:05:00Z",
       "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/bullish-stock-crypto-law-clarity-act-3b616fc4?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Coinbase CEO Says CLARITY Act Nears 'Finish Line' and Bitcoin Has 'Seen The Bottom'",
-      "summary": "Coinbase CEO Brian Armstrong told Bloomberg Thursday that Bitcoin has seen its cycle bottom and the Clarity Act is nearing the finish line. What Armstrong Said About the Clarity Act Armstrong told Bloomberg Television from the Global Fintech Fest in...",
-      "pub_date": "2026-09-14T18:00:49Z",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-says-clarity-act-180049857.html"
-    },
-    {
-      "title": "Should You Buy Coinbase Stock While Its Revenue Is Shrinking?",
-      "summary": "Coinbase Global (COIN) stock has gained about 18% over the past month, and it is still down about 44% over the past year. At about $175 a share, the market pays 7.3 times sales against 3.2 for the S&P 500, more than double the market's price for revenue that is shrinking. The question is whether what Coinbase is building is worth more than what it is losing.",
-      "pub_date": "2026-09-14T17:11:08Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-coinbase-stock-while-revenue-171108869.html"
-    },
-    {
-      "title": "This One Stock Looks Bullish Amid Morgan Stanley's 30-Day Crash Warning",
-      "summary": "Coinbase stock jumped 8% on a bearish analyst's upgrade, days after Morgan Stanley warned the market could crack in 30 days.",
-      "pub_date": "2026-09-14T16:31:30Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/one-stock-looks-bullish-amid-163130363.html"
+      "url": "https://www.barrons.com/articles/stock-movers-bb7c16dd?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

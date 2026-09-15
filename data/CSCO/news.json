@@ -1,7 +1,28 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-09-15T09:07:40.164379+00:00",
+  "generated_at": "2026-09-15T16:03:03.883738+00:00",
   "items": [
+    {
+      "title": "Would You Still Want Dell If The AI Orders Slowed?",
+      "summary": "Dell Technologies (DELL) has returned more than 330% over the past twelve months, and it still cannot build as much as its customers want. You can be paid today for agreeing to buy the stock well below today's price, and the payment is yours whether or not you ever own the shares. The catch is whether you would want the shares at that lower price.",
+      "pub_date": "2026-09-15T15:01:46Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/still-want-dell-ai-orders-150146466.html"
+    },
+    {
+      "title": "Can Verizon's 6G Acceleration Initiatives and AI Trials Drive Growth?",
+      "summary": "VZ is advancing 6G with AI-native networks, real-world sensing trials and smart technologies, targeting the 2028 Olympics as a key test.",
+      "pub_date": "2026-09-15T14:28:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/verizons-6g-acceleration-initiatives-ai-142800212.html"
+    },
+    {
+      "title": "Cisco (CSCO) Takes A Formal Role In 6G And Quantum Networking",
+      "summary": "Cisco Systems (NasdaqGS: CSCO) joined Verizon's 6G Innovation Forum, taking part in work on AI native wireless and sensing architectures. The firm is collaborating with quantum company Infleqtion on distributed quantum networking research that uses the Cisco Universal Quantum Switch. Cisco and Infleqtion plan to explore scalable quantum network designs aimed at connecting multiple quantum processing nodes across wider telecom infrastructure. Cisco's move into Verizon's 6G forum and its...",
+      "pub_date": "2026-09-15T11:14:34Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/articles/cisco-csco-takes-formal-role-111434107.html"
+    },
     {
       "title": "SCHD\u2019s 0.06% Fee Hides the Real Cost: March\u2019s 31% Reshuffle Sold Two Top-10 Holdings Out From Under Holders",
       "summary": "SCHD's 0.06% expense ratio gets all the attention, but something that happened quietly in March may have cost dividend investors far more than a decade of fees combined.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-14T14:13:40Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/buy-dell-technologies-stock-ai-141340384.html"
-    },
-    {
-      "title": "Advanced Micro Devices vs. ASML: Which Tech Stock Is a Better Buy in 2026?",
-      "summary": "AMD's 34% revenue surge and 12.5% net margin contrast sharply with ASML's 29.4% profitability and $12.3 billion in free cash flow.",
-      "pub_date": "2026-09-14T12:50:01Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-vs-asml-125001906.html"
-    },
-    {
-      "title": "Arista Released Critical Security Advisories. Cisco Shows Why AI Network Growth Also Creates Repair Work",
-      "summary": "Arista published its batch of security advisories on September 9, turning an advance warning into an immediate customer maintenance task. The release includes critical vulnerabilities affecting EOS and VeloCloud. Cisco\u2019s September 4 security commentary describes the broader problem: vulnerability discovery is accelerating beyond customers\u2019 ability to remediate it. For Cisco Systems, Inc. (NASDAQ:CSCO) and Arista [\u2026]",
-      "pub_date": "2026-09-13T16:56:52Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/arista-released-critical-security-advisories-165652596.html"
-    },
-    {
-      "title": "Ken Fisher Added to Cisco and Palo Alto Networks. Their AI Security Bets Face Different Tests",
-      "summary": "Ken Fisher\u2019s latest disclosed positions put two different approaches to AI infrastructure and security in the same portfolio. Cisco Systems, Inc. (NASDAQ:CSCO) combines networking equipment with security software. Palo Alto Networks, Inc. (NASDAQ:PANW) offers more concentrated exposure to security platforms, with acquisitions adding an integration test. September coverage brought renewed attention to Fisher\u2019s position increases. [\u2026]",
-      "pub_date": "2026-09-12T13:22:14Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ken-fisher-added-cisco-palo-132214941.html"
     }
   ]
 }

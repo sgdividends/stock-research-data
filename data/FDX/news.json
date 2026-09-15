@@ -1,7 +1,14 @@
 {
   "ticker": "FDX",
-  "generated_at": "2026-09-15T09:07:50.719843+00:00",
+  "generated_at": "2026-09-15T16:03:16.892296+00:00",
   "items": [
+    {
+      "title": "Companies Maintain AI Deployments With a Focus on Governance",
+      "summary": "In recent days, the heads of leading AI developers have called for new limits and controls on advanced AI research, following a series of cybersecurity breaches and high-profile resignations designed to raise alarm bells.  According to CEO Raj Subramaniam, he is.",
+      "pub_date": "2026-09-15T13:02:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/cio-journal/companies-maintain-ai-deployments-with-a-focus-on-governance-51310d2f?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "How Investors May Respond To FedEx (FDX) Launching Its Global Trade Navigator E\u2011Commerce Tools",
       "summary": "Earlier this week, FedEx Corp. launched its Global Trade Navigator suite, introducing new digital tools such as Trade Planner, upgraded Ship Manager capabilities, Shopify duty and tax integration, and Global Trade APIs to simplify international shipping and customs compliance for businesses of all sizes. By moving trade intelligence to the planning stage and integrating it directly into merchant workflows, FedEx is aiming to cut international shipping complexity, reduce customs-related...",
@@ -10,7 +17,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-fedex-fdx-071202980.html"
     },
     {
-      "title": "Why FedEx\u2019s CEO says AI strategy must start at the top",
+      "title": "Why FedEx's CEO Says AI Strategy Must Start at the Top",
       "summary": "FedEx Chief Executive Raj Subramaniam explains at the WSJ Leadership Institute's Tech Council Summit why a company's artificial-intelligence strategy must be driven by the top.",
       "pub_date": "2026-09-15T01:21:00Z",
       "source": "WSJ",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-11T08:09:00Z",
       "source": "Supply Chain Dive",
       "url": "https://finance.yahoo.com/small-business/articles/fedex-launches-shopify-app-combat-080900138.html"
-    },
-    {
-      "title": "FedEx Enhances Global Trade With New Digital Shipping Tools",
-      "summary": "FDX's Global Trade Navigator adds planning, cost, API and customs tools to make international shipping smoother and more transparent for businesses.",
-      "pub_date": "2026-09-10T15:29:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/articles/fedex-enhances-global-trade-digital-152900213.html"
     }
   ]
 }

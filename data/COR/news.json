@@ -1,7 +1,14 @@
 {
   "ticker": "COR",
-  "generated_at": "2026-09-15T09:07:38.787508+00:00",
+  "generated_at": "2026-09-15T16:03:02.313904+00:00",
   "items": [
+    {
+      "title": "The Realities of Managing Enterprise AI",
+      "summary": "A panel of CIOs from Indeed, New York Life and Cencora discuss the risks and advantages of enterprise AI, including operational efficiency, financial waste and the need to implement \u201ccontrol towers\u201d for human oversight of consequential decisions.",
+      "pub_date": "2026-09-15T14:29:00Z",
+      "source": "WSJ",
+      "url": "https://finance.yahoo.com/video/realities-managing-enterprise-ai-142900249.html"
+    },
     {
       "title": "AbbVie vs. CRISPR Therapeutics: Which Healthcare Stock Is a Better Buy in 2026?",
       "summary": "AbbVie is profitable, growing, and paying a rising dividend. CRISPR is burning cash in pursuit of a gene-editing breakthrough that could reshape medicine.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-10T17:45:04Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-exciting-174504808.html"
-    },
-    {
-      "title": "Amgen vs. Moderna: Which Healthcare Stock Is a Better Buy in 2026?",
-      "summary": "Amgen trades at a fraction of Moderna's valuation, but one company is burning cash while the other generates billions, a critical divide for income-focused investors.",
-      "pub_date": "2026-09-10T16:21:24Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/healthcare/articles/amgen-vs-moderna-healthcare-stock-162124362.html"
     }
   ]
 }
