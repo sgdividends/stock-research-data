@@ -1,7 +1,21 @@
 {
   "ticker": "MA",
-  "generated_at": "2026-09-15T16:03:35.400698+00:00",
+  "generated_at": "2026-09-15T22:38:58.341426+00:00",
   "items": [
+    {
+      "title": "Stripe\u2019s Shared Payment Token Is Quietly Becoming the Default Money Layer for Agent Commerce",
+      "summary": "The current landscape of agentic commerce is defined by a fragmented trust stack. As AI agents move from simple information retrieval to transactional execution, the industry has struggled to reconcile disparate standards like x402, Google UCP, and Mastercard AP4M. Into this architectural divide, Stripe introduced its Shared Payment Token (SPT) in October 2025, positioning the [\u2026]",
+      "pub_date": "2026-09-15T18:48:10Z",
+      "source": "Forkast News",
+      "url": "https://finance.yahoo.com/technology/ai/articles/stripe-shared-payment-token-quietly-184810863.html"
+    },
+    {
+      "title": "Did Greg Abel Already Make His First Big Mistake as Berkshire Hathaway CEO?",
+      "summary": "American Express could remain a top-three Berkshire Hathaway holding for decades to come.",
+      "pub_date": "2026-09-15T17:26:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/did-greg-abel-already-first-172600741.html"
+    },
     {
       "title": "Visa Finds Online Spending Gaining Ground Across Key Markets",
       "summary": "V sees the couch economy becoming embedded in daily life as online, in-app, streaming and delivery spending expands across key markets.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-14T15:26:00Z",
       "source": "Sky News",
       "url": "https://finance.yahoo.com/news/uk-banks-kick-off-fundraising-152600855.html"
-    },
-    {
-      "title": "PayPal's Agentic Payments: Can These Unlock the Next Growth Leg?",
-      "summary": "PYPL bets on agentic payments as a long-term growth opportunity, building capabilities now for AI-driven commerce from 2028 onward.",
-      "pub_date": "2026-09-14T14:07:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/paypals-agentic-payments-unlock-next-140700307.html"
-    },
-    {
-      "title": "Teens start to trust AI recommendations more than friends, parents",
-      "summary": "There's a generational shift among consumers as they bring AI into their purchasing process, according to a Mastercard report.",
-      "pub_date": "2026-09-14T11:51:00Z",
-      "source": "Retail Dive",
-      "url": "https://finance.yahoo.com/technology/ai/articles/teens-start-trust-ai-recommendations-115100121.html"
     }
   ]
 }

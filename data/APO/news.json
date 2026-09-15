@@ -1,7 +1,21 @@
 {
   "ticker": "APO",
-  "generated_at": "2026-09-15T16:02:50.310748+00:00",
+  "generated_at": "2026-09-15T22:38:10.478274+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Decline Late Afternoon",
+      "summary": "Financial stocks were lower in late Tuesday afternoon trading, with the NYSE Financial Index decreas",
+      "pub_date": "2026-09-15T19:58:57Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-afternoon-195857101.html"
+    },
+    {
+      "title": "Sector Update: Financial Stocks Decline Tuesday Afternoon",
+      "summary": "Financial stocks were lower in Tuesday afternoon trading, with the NYSE Financial Index decreasing 0",
+      "pub_date": "2026-09-15T18:00:03Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-tuesday-180003508.html"
+    },
     {
       "title": "Update: Truist Financial to Sell $5.5 Billion of Regional Acceptance Auto Loans to Apollo",
       "summary": "(Updates the headline and adds details in the second and last paragraphs.) Truist Financial (TFC)",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-14T13:17:45Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-rise-premarket-131745482.html"
-    },
-    {
-      "title": "J&J Is in Talks to Sell Its Hips-and-Knees Business to Apollo for $20 Billion",
-      "summary": "The health-products company said it planned to hive off its DePuy Synthes unit to focus on higher-growth areas.",
-      "pub_date": "2026-09-12T19:40:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/deals/j-j-is-in-talks-to-sell-its-hips-and-knees-business-to-apollo-for-20-billion-3018cc4e?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Nvidia takes new role as AI\u2019s $5 trillion bill comes due",
-      "summary": "Nvidia\u2019s $500 billion AI push changes the game again.",
-      "pub_date": "2026-09-12T16:47:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-takes-role-ai-5-164700743.html"
     }
   ]
 }

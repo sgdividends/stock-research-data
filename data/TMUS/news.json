@@ -1,7 +1,14 @@
 {
   "ticker": "TMUS",
-  "generated_at": "2026-09-15T16:03:58.510049+00:00",
+  "generated_at": "2026-09-15T22:39:24.622441+00:00",
   "items": [
+    {
+      "title": "Prime Video Scores 5-Streamer Bundle",
+      "summary": "The package consists of Prime Video and niche streaming platforms - AMC+, BritBox, MGM+, PBS Masterpiece and Starz - for $29.99 a month, offering a savings of nearly 39% vs. subscribing to each service individually.",
+      "pub_date": "2026-09-15T18:02:51Z",
+      "source": "MediaPost",
+      "url": "https://finance.yahoo.com/media-advertising/articles/prime-video-scores-streaming-bundle-180251750.html"
+    },
     {
       "title": "Is Verizon Stock Counting On Money That Has Not Arrived Yet?",
       "summary": "Verizon Communications (VZ) has had a good year. The stock returned about 24% over the past twelve months against roughly 19% for the S&P 500, and at about $51 it sits at the top of its one-year range. The turnaround is real. What is not real yet is the revenue meant to pay for it.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-11T15:43:04Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/economy/policy/articles/fed-rate-decision-may-come-154304847.html"
-    },
-    {
-      "title": "Is The Next Leg In Verizon Stock Riding On Customers Who Stay?",
-      "summary": "Verizon Communications (VZ) shares sit at the top of a $36.56-to-$50.59 52-week range, up 22.7% over the past twelve months. The exciting part of that story is the dark fiber Verizon has begun selling into AI infrastructure builds. The part that can actually move the stock is duller. Verizon has finally started keeping its customers.",
-      "pub_date": "2026-09-10T22:55:07Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/next-leg-verizon-stock-riding-225507847.html"
     }
   ]
 }

@@ -1,7 +1,35 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-09-15T16:03:26.580084+00:00",
+  "generated_at": "2026-09-15T22:38:48.483081+00:00",
   "items": [
+    {
+      "title": "IBM's New AI Deal Must Handle 23 Million Transactions Daily",
+      "summary": "The Turkish credit-bureau deployment offers production-scale evidence, although IBM disclosed no contract value.",
+      "pub_date": "2026-09-15T21:06:01Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ibms-ai-deal-must-handle-210601305.html"
+    },
+    {
+      "title": "The Vendor Rush Is Here: Agent Governance Hits Its Tipping Point",
+      "summary": "Four major infrastructure vendors have now shipped standalone agent governance products at general availability. The vendor rush itself has become the signal. Okta\u2019s July 2026 product innovations pushed the furthest into new territory. The company shipped Agent-to-Agent Connections at general availability, enabling secure multi-agent workflows by issuing temporary runtime tokens that enforce which agents may [\u2026]",
+      "pub_date": "2026-09-15T19:58:19Z",
+      "source": "Forkast News",
+      "url": "https://finance.yahoo.com/technology/ai/articles/vendor-rush-agent-governance-hits-195819294.html"
+    },
+    {
+      "title": "How Much Slowdown Is Rubrik Stock Priced For?",
+      "summary": "Rubrik (RBRK) trades near $100, just off its 52-week high, and the market is paying for agentic cyber resilience: machine-speed recovery and governance for AI agents. The risk here is more ordinary than the story. The revenue growth that supports a price like this is already slowing, and the product carrying the AI story is not the one producing the revenue yet.",
+      "pub_date": "2026-09-15T19:17:40Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/much-slowdown-rubrik-stock-priced-191740376.html"
+    },
+    {
+      "title": "How Far Can Accenture Stock Move On You In Twelve Months?",
+      "summary": "Accenture (ACN) stock trades near $195, and the options market prices roughly a two-in-three chance that it ends the coming twelve months between about $123 and about $308. That floor is about where the stock bottomed over the past year, and the ceiling is above the high it has already given back. For a holder, the question is whether a band that wide is more than you signed up for.",
+      "pub_date": "2026-09-15T19:09:00Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/far-accenture-stock-move-twelve-190900181.html"
+    },
     {
       "title": "How Much Does IBM Stock Move When The Market Moves?",
       "summary": "International Business Machines (IBM) has risen 6.0% over the last five trading days while the S&P 500 fell 1.3%. A run like that in a weak market pulls money in, but the five-day move is not the question worth answering. What matters is what IBM does to your money when the market moves. Most of what IBM does has little to do with the market.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-09-14T18:59:04Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/accentures-stock-fell-shrinking-business-185904806.html"
-    },
-    {
-      "title": "Did You Pay For Palantir's Guidance Or For Something Else?",
-      "summary": "Palantir Technologies (PLTR) raised its 2026 revenue guidance in August, and the stock gained about 32% across the release. The easy read is that the market was paying for the bigger number. It was not. At the multiple the market was already paying, that raise is worth about $8 a share, and the tape handed over close to $40.",
-      "pub_date": "2026-09-14T18:00:36Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/did-pay-palantirs-guidance-something-180036131.html"
-    },
-    {
-      "title": "Is HPE Stock Now A Bet On Memory Prices?",
-      "summary": "Hewlett Packard Enterprise (HPE) trades near $62, at the top of its 52-week range and up about 160% over the past year. The company just reported record revenue of $12.2 billion for fiscal Q3 2026 and a raised outlook for fiscal 2027. The easy read is that you are early in an AI cycle. The harder question is what paid for it.",
-      "pub_date": "2026-09-14T17:49:16Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hpe-stock-now-bet-memory-174916864.html"
-    },
-    {
-      "title": "Can Palantir Deploy Fast Enough To Move Its Stock Higher?",
-      "summary": "Palantir Technologies (PLTR) stock has gained about 28% over the past three months, against under 4% for the S&P 500, and it still trades roughly 19% below its 52-week high. Over the past twelve months it has returned almost nothing. What could move it from here is work Palantir has already sold and has not yet delivered.",
-      "pub_date": "2026-09-14T16:59:20Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-deploy-fast-enough-move-165920174.html"
-    },
-    {
-      "title": "Congresswoman Bets on Elon Musk, Warren Buffett: Here\u2019s the Latest Stock Transactions",
-      "summary": "Retail investors often monitor the trading activity of members of Congress. Investors may want to pay particular attention to recent trades from one member, with stocks connected to Elon Musk and Warren Buffett among the bets. Congresswoman Bets on Musk...",
-      "pub_date": "2026-09-14T15:30:15Z",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/congresswoman-bets-elon-musk-warren-153015808.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "SYK",
-  "generated_at": "2026-09-15T16:03:56.232446+00:00",
+  "generated_at": "2026-09-15T22:39:21.810145+00:00",
   "items": [
+    {
+      "title": "Has BSX Stock Finally Hit Bottom?",
+      "summary": "Boston Scientific (BSX) stock has fallen about 57% over the past year, to about $45. The shares now sell for 3.2 times trailing sales, hovering near their decade-long historical trough of roughly 3.0 times and well off their 8.6 high.",
+      "pub_date": "2026-09-15T19:00:57Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bsx-stock-finally-hit-bottom-190057883.html"
+    },
     {
       "title": "Stryker (SYK) Stock Still Looks Cheap On Its 24% Slide",
       "summary": "Stryker has seen its share price slide sharply over the past year, and the question now is whether the current valuation still lines up with the cash the business is expected to generate. For investors watching the stock after recent headlines, the focus has shifted from past returns to whether today's price fairly reflects those underlying cash flows. The stock has fallen 24.5% over the past year, which puts the spotlight on whether that move has brought the valuation closer to what its...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-09T20:22:14Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/options/articles/much-isrg-stock-still-move-202214763.html"
-    },
-    {
-      "title": "BSX Stock: Is It Time To Buy Or Sell Puts?",
-      "summary": "Trading near $45 a share, Boston Scientific (BSX) sits roughly 58% below its 52-week peak.  Instead of buying the dip outright, selling cash-secured put options allows investors to generate immediate income while locking in an even deeper entry point.  Sell a put option on BSX expiring 9/17/2027, with a strike price of $30.",
-      "pub_date": "2026-09-09T18:06:50Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/bsx-stock-time-buy-sell-180650387.html"
     }
   ]
 }

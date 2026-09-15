@@ -1,7 +1,14 @@
 {
   "ticker": "IT",
-  "generated_at": "2026-09-15T16:03:28.860390+00:00",
+  "generated_at": "2026-09-15T22:38:51.057670+00:00",
   "items": [
+    {
+      "title": "Stocks making big moves yesterday: Corning, Baldwin Insurance Group, Gartner, Jabil, and Accenture",
+      "summary": "Check out the companies making headlines yesterday:",
+      "pub_date": "2026-09-15T20:07:31Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-200731805.html"
+    },
     {
       "title": "Here's Why You Should Hold on to GDS Holdings Stock for Now",
       "summary": "GDS's AI-driven bookings, high pre-commitment and backlog support growth visibility, but rising utility costs and debt pressure margins.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-11T07:00:00Z",
       "source": "CX Dive",
       "url": "https://finance.yahoo.com/technology/ai/articles/ai-driven-customer-cuts-stay-070000154.html"
-    },
-    {
-      "title": "CX workforce budgets take a hit as organizations increase AI spending",
-      "summary": "However, organizations shouldn\u2019t deploy AI to the detriment of the human agents, Gartner says. The two need to work in tandem.",
-      "pub_date": "2026-09-10T07:00:00Z",
-      "source": "CX Dive",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cx-workforce-budgets-hit-organizations-070000200.html"
     }
   ]
 }

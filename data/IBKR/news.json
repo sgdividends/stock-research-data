@@ -1,7 +1,14 @@
 {
   "ticker": "IBKR",
-  "generated_at": "2026-09-15T16:03:26.423572+00:00",
+  "generated_at": "2026-09-15T22:38:48.349216+00:00",
   "items": [
+    {
+      "title": "Interactive Brokers Group (IBKR) Lets US Investors Trade Directly From Cashtags",
+      "summary": "Interactive Brokers Group (NasdaqGS:IBKR) has integrated with X Cashtags, allowing US users to trade directly from tagged stock and crypto symbols. The rollout connects X discussions on financial topics to Interactive Brokers accounts, including account opening and order placement within the platform. The partnership targets US investors who engage with markets on social media and prefer fewer steps between research and execution. This new X Cashtags trading link is worth weighing alongside...",
+      "pub_date": "2026-09-15T20:06:59Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/interactive-brokers-group-ibkr-lets-200659682.html"
+    },
     {
       "title": "Robinhood and Webull Fall 4% as Imminent Clarity Act Decision Stokes Crypto Uncertainty",
       "summary": "A Senate vote on the CLARITY Act is rattling crypto-exposed brokerages, and the outcome could reshape the trading landscape for platforms that have bet big on digital assets.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-09T14:25:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-oracle-142500997.html"
-    },
-    {
-      "title": "Can Robinhood's Crypto.com Deal Supercharge Prediction Markets' Growth?",
-      "summary": "HOOD's Crypto.com deal adds a new prediction-market venue and equity stakes as event contracts surge and revenues reshape its business mix.",
-      "pub_date": "2026-09-09T13:02:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/robinhoods-crypto-com-deal-supercharge-130200119.html"
     }
   ]
 }
