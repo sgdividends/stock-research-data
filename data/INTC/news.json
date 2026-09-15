@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-09-15T02:56:44.982127+00:00",
+  "generated_at": "2026-09-15T09:08:00.515596+00:00",
   "items": [
     {
       "title": "Stocks pop when the Trump administration invests, but the gains often fade fast",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-14T21:41:20Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/stocks-pop-when-the-trump-administration-invests-but-the-gains-often-fade-fast-214120157.html"
+    },
+    {
+      "title": "Why Micron, Intel, AMD, and Other Chip Stocks Fell Today",
+      "summary": "AI fears are mounting.",
+      "pub_date": "2026-09-15T03:28:22Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-intel-amd-other-032822197.html"
     },
     {
       "title": "Talk of AI pause slams Nvidia, AMD and Intel as fears of doomsday scenarios spread",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-14T20:08:39Z",
       "source": "Kiplinger",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-slip-ai-safety-worries-200839661.html"
-    },
-    {
-      "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia\u2019s dominance",
-      "summary": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
-      "pub_date": "2026-09-14T20:07:37Z",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-company-cornelis-raises-200737836.html"
     }
   ]
 }

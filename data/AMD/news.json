@@ -1,6 +1,6 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-09-15T02:56:15.119198+00:00",
+  "generated_at": "2026-09-15T09:07:26.108839+00:00",
   "items": [
     {
       "title": "Tech pulls back on AI concerns, cybersecurity takes a step up",
@@ -15,6 +15,27 @@
       "pub_date": "2026-09-14T13:45:19Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/chip-stocks-fall-as-oil-prices-gain-treasury-yields-stay-elevated-alphacheck-134519544.html"
+    },
+    {
+      "title": "Chip Stocks Sink on AI Slowdown Calls, But Analysts Doubt a Crash Is Near",
+      "summary": "Chip stocks slid as Dario Amodei's AI slowdown call rattled markets, but analysts say a crash is not the base case yet.",
+      "pub_date": "2026-09-15T06:05:00Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/technology/ai/articles/chip-stocks-sink-ai-slowdown-060500112.html"
+    },
+    {
+      "title": "Donald Trump Rejects Calls For AI Slowdown. That Changes the Game for Nvidia and AMD",
+      "summary": "President Donald Trump has rejected calls to slow frontier AI development on September 13, arguing that the US must preserve its lead over China. That is decisive directly for NVIDIA Corporation (NASDAQ:NVDA) and Advanced Micro Devices, Inc. (NASDAQ:AMD), because both sell computing systems whose demand could change if frontier labs deliberately stretch out model-development cycles. [\u2026]",
+      "pub_date": "2026-09-15T04:09:09Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/donald-trump-rejects-calls-ai-040909311.html"
+    },
+    {
+      "title": "Why Micron, Intel, AMD, and Other Chip Stocks Fell Today",
+      "summary": "AI fears are mounting.",
+      "pub_date": "2026-09-15T03:28:22Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-micron-intel-amd-other-032822197.html"
     },
     {
       "title": "AI-linked stocks slide after tech bosses call for slowdown in \u2018reckless\u2019 development",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-14T20:41:12Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-dips-ai-warnings-204112098.html"
-    },
-    {
-      "title": "US stocks retreat on AI warnings as oil prices, bond yields rise",
-      "summary": "Wall Street stocks fell Monday on weakness in tech shares after leading artificial intelligence executives said advances should be slowed, as markets also contended with higher oil prices and Treasury bond yields.Losses tempered as the session progressed with crude oil prices and US bond yields moderating somewhat.",
-      "pub_date": "2026-09-14T20:33:41Z",
-      "source": "AFP",
-      "url": "https://finance.yahoo.com/technology/ai/articles/tech-firms-hit-ai-slowdown-024739551.html"
-    },
-    {
-      "title": "Oracle, Corning, Alphabet, GE Vernova, CrowdStrike, SpaceX, and More Stocks That Explain Today\u2019s Market",
-      "summary": "Corning stock was the worst performer in the S&P 500 while CrowdStrike stock was the best-performer in the index.",
-      "pub_date": "2026-09-14T20:25:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-259d1f80?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Wall Street ends down, calls for AI slowdown pummel chipmakers",
-      "summary": "By Noel Randewich Sept 14 (Reuters) - Wall Street ended down on Monday, weighed down by losses in Nvidia and other chipmakers after top executives in U.S. artificial intelligence companies raised",
-      "pub_date": "2026-09-14T20:15:55Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-warnings-knock-nasdaq-futures-092329455.html"
     }
   ]
 }

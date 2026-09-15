@@ -1,7 +1,14 @@
 {
   "ticker": "META",
-  "generated_at": "2026-09-15T02:56:52.980755+00:00",
+  "generated_at": "2026-09-15T09:08:09.619822+00:00",
   "items": [
+    {
+      "title": "Bull of the Day: Caterpillar (CAT)",
+      "summary": "Caterpillar offers investors a rare combination of industrial value, consistent earnings beats, and direct upside to the generational AI revolution.",
+      "pub_date": "2026-09-15T08:00:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bull-day-caterpillar-cat-080000592.html"
+    },
     {
       "title": "Big Tech Issued About $220 Billion of Bonds. Alphabet and Meta Show How AI Is Warping the Credit Market",
       "summary": "AI spending is now large enough to distort the bond market around it. Reuters reported on September 10 that Alphabet, Amazon, Meta, Microsoft and Oracle issued roughly $220 billion of bonds over the prior year as they funded data-center expansion. Similar credits are no longer always trading at similar spreads as repeated giant deals flood [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-14T18:39:00Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/meta-gains-12-point-margin-183900360.html"
-    },
-    {
-      "title": "What Anthropic's AI Slowdown Call Could Mean For Cloud Giants Amazon, Microsoft, Google",
-      "summary": "Amazon stock was lower while Google and Microsoft were higher as investors digested Anthropic's AI slowdown call.",
-      "pub_date": "2026-09-14T18:01:39Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/anthropic-ai-slowdown-amazon-microsoft-google/?src=A00220&yptr=yahoo"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "NDAQ",
-  "generated_at": "2026-09-15T02:56:56.102001+00:00",
+  "generated_at": "2026-09-15T09:08:12.924230+00:00",
   "items": [
+    {
+      "title": "Volatility Surges in First After-Hours Session on Korea Exchange",
+      "summary": "The first after-hours session on South Korea\u2019s main stock exchange saw erratic and retail-dominated trading, in a sign of the challenges ahead as it seeks to attract more global investors.",
+      "pub_date": "2026-09-15T01:33:31Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/volatility-surges-first-hours-session-013331546.html"
+    },
     {
       "title": "CBOE Stock Trades at 24% Discount to 52-Week High: More Upside Left?",
       "summary": "CBOE trades 24.2% below its 52-week high, while robust volumes, recurring revenues and a raised 2026 growth outlook support its growth case.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-10T16:59:56Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/markets/crypto/articles/nasdaq-invests-100m-fintech-giant-165956432.html"
-    },
-    {
-      "title": "Nasdaq Pours Millions Into Crypto Platform Partnership For Tokenized Trading",
-      "summary": "Nasdaq is investing $100 million in the parent of crypto platform Kraken, in the stock exchange's latest step to expand to round-the-clock trading.",
-      "pub_date": "2026-09-10T15:33:01Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/nasdaq-pours-millions-into-crypto-platform-partnership-for-tokenized-trading/?src=A00220&yptr=yahoo"
     }
   ]
 }

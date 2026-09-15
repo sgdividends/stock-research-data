@@ -1,6 +1,6 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-09-15T02:56:17.807355+00:00",
+  "generated_at": "2026-09-15T09:07:29.005793+00:00",
   "items": [
     {
       "title": "Tech pulls back on AI concerns, cybersecurity takes a step up",
@@ -8,6 +8,20 @@
       "pub_date": "2026-09-14T14:39:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/tech-pulls-back-ai-concerns-143900977.html"
+    },
+    {
+      "title": "Chip Stocks Sink on AI Slowdown Calls, But Analysts Doubt a Crash Is Near",
+      "summary": "Chip stocks slid as Dario Amodei's AI slowdown call rattled markets, but analysts say a crash is not the base case yet.",
+      "pub_date": "2026-09-15T06:05:00Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/technology/ai/articles/chip-stocks-sink-ai-slowdown-060500112.html"
+    },
+    {
+      "title": "AI Slowdown Debate Splits Tech CEOs: Nvidia, Broadcom Dismiss Any Threat While Elon Musk Calls For Peer Review System",
+      "summary": "AI leaders diverge on safety and speed as investors weigh the impact on the sector.",
+      "pub_date": "2026-09-15T03:16:31Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-slowdown-debate-splits-tech-031631885.html"
     },
     {
       "title": "3 Stocks That Offer AI Exposure and Dividends",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-14T19:09:09Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/news/ai-warning-sends-nvidia-amd-190909953.html"
-    },
-    {
-      "title": "Nvidia Stock Drops. It\u2019s Still the Best Chip Bet in an AI Slowdown.",
-      "summary": "Nvidia stock falls with Broadcom and AMD on the prospect of an AI slowdown but it could be better shielded than its peers.",
-      "pub_date": "2026-09-14T18:26:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/nvidia-stock-price-ai-chip-slowdown-6db14d5e?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Is Broadcom Stock in Trouble?",
-      "summary": "The tech stock is down around 30% from its high.",
-      "pub_date": "2026-09-14T18:05:01Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-trouble-180501523.html"
     }
   ]
 }
