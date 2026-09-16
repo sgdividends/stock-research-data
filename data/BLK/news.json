@@ -1,6 +1,6 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-09-15T22:38:15.121050+00:00",
+  "generated_at": "2026-09-16T02:51:55.586180+00:00",
   "items": [
     {
       "title": "Anthropic Just Put Claude Inside Schwab and BlackRock. The AI Agent War Has Reached Wealth Management",
@@ -22,6 +22,13 @@
       "pub_date": "2026-09-15T21:00:31Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/video/anthropic-deepens-finance-industry-ties-210031273.html"
+    },
+    {
+      "title": "ETF League Tables: Vanguard Registers Biggest Inflows",
+      "summary": "<p>Table below reflects daily flows on September 14, 2026 and asset totals as of that date.</p>",
+      "pub_date": "2026-09-15T21:00:04Z",
+      "source": "etf.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-vanguard-registers-210004731.html"
     },
     {
       "title": "BlackRock's Fink Says AI Buildout Delays Limit Access to the Tech for Everyone",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-15T15:26:37Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-fire-frenzy-intensifies-6-152637637.html"
-    },
-    {
-      "title": "Crypto ETF Inflows Hit 10-Month High as $6.8B Floods Into Funds in Six Weeks",
-      "summary": "Crypto ETFs attracted $6.8 billion over six consecutive weeks, including $1.3 billion last week. BlackRock\u2019s IBIT captured $3.4 billion, accounting for roughly half of total ...",
-      "pub_date": "2026-09-15T12:52:16Z",
-      "source": "CCN",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-etf-inflows-hit-10-125216432.html"
     }
   ]
 }

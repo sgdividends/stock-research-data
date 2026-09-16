@@ -1,7 +1,14 @@
 {
   "ticker": "TMUS",
-  "generated_at": "2026-09-15T22:39:24.622441+00:00",
+  "generated_at": "2026-09-16T02:53:00.214187+00:00",
   "items": [
+    {
+      "title": "Is Comcast Stock Cheap Or Just Shrinking?",
+      "summary": "Comcast (CMCSA) generated free cash over the past twelve months worth 20.1% of its market value. The median S&P 500 company manages 4.4%. Part of that gap is Comcast's debt. The rest means one of two things: the market has made a mistake, or the cash is about to get smaller. Comcast keeps losing broadband customers, and that is the market's answer.",
+      "pub_date": "2026-09-16T02:25:55Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/comcast-stock-cheap-just-shrinking-022555490.html"
+    },
     {
       "title": "Prime Video Scores 5-Streamer Bundle",
       "summary": "The package consists of Prime Video and niche streaming platforms - AMC+, BritBox, MGM+, PBS Masterpiece and Starz - for $29.99 a month, offering a savings of nearly 39% vs. subscribing to each service individually.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-13T19:02:00Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/technology/ai/articles/t-mobile-us-ceo-maps-190200025.html"
-    },
-    {
-      "title": "Fed\u2019s Rate Decision May Have Come Down to Phone Plan Changes",
-      "summary": "A record jump in the price of cellular phone services helped tip a key measure of US inflation above forecasts, likely sealing the deal for a Federal Reserve interest-rate increase next week.",
-      "pub_date": "2026-09-11T15:43:04Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/economy/policy/articles/fed-rate-decision-may-come-154304847.html"
     }
   ]
 }

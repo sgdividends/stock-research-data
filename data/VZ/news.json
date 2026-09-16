@@ -1,7 +1,14 @@
 {
   "ticker": "VZ",
-  "generated_at": "2026-09-15T22:39:31.934890+00:00",
+  "generated_at": "2026-09-16T02:53:08.977718+00:00",
   "items": [
+    {
+      "title": "Is Comcast Stock Cheap Or Just Shrinking?",
+      "summary": "Comcast (CMCSA) generated free cash over the past twelve months worth 20.1% of its market value. The median S&P 500 company manages 4.4%. Part of that gap is Comcast's debt. The rest means one of two things: the market has made a mistake, or the cash is about to get smaller. Comcast keeps losing broadband customers, and that is the market's answer.",
+      "pub_date": "2026-09-16T02:25:55Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/comcast-stock-cheap-just-shrinking-022555490.html"
+    },
     {
       "title": "Palo Alto Networks (PANW) Is Up 12.2% After New AI Guidance And Capital Moves - Has The Bull Case Changed?",
       "summary": "Palo Alto Networks has completed its US$3.14 billion share repurchase program begun in 2019, reported a shift from quarterly profit to loss despite higher revenue, filed a US$2.74 billion ESOP-related shelf registration, and issued new fiscal 2027 revenue guidance, all against a backdrop of rising AI-related cybersecurity demand. AI safety warnings from leading technology executives have pushed cybersecurity into focus for enterprises and investors, with Palo Alto Networks\u2019 Frontier AI...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-15T11:14:34Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/articles/cisco-csco-takes-formal-role-111434107.html"
-    },
-    {
-      "title": "Palo Alto Networks (PANW) Backs New Security Testing Model And 6G Forum",
-      "summary": "Palo Alto Networks (NasdaqGS:PANW) has endorsed SE Labs' new independent security testing model alongside other major cybersecurity vendors. The company has joined Verizon's 6G Innovation Forum as a founding member focused on next generation network and security standards. Management is using both the SE Labs testing initiative and the Verizon 6G forum to influence future enterprise security and AI native networks. The SE Labs partnership and Verizon 6G forum role are only part of Palo Alto...",
-      "pub_date": "2026-09-15T09:12:40Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-panw-backs-091240475.html"
     }
   ]
 }

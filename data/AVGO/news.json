@@ -1,7 +1,28 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-09-15T22:38:11.685422+00:00",
+  "generated_at": "2026-09-16T02:51:52.600082+00:00",
   "items": [
+    {
+      "title": "Blackstone Sees Earnings Boom Fueling AI, Infrastructure and Fundraising Growth",
+      "summary": "Blackstone (NYSE:BX) CFO Michael Chae said the firm sees a constructive backdrop for corporate profits, investment deployment and fundraising, citing accelerating earnings growth, expanding margins and demand for capital across infrastructure, private credit and private wealth markets. Speaking at",
+      "pub_date": "2026-09-16T02:02:31Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/technology/ai/articles/blackstone-sees-earnings-boom-fueling-020231672.html"
+    },
+    {
+      "title": "Should You Buy Intel Stock For The Chips It Cannot Yet Make Enough Of?",
+      "summary": "Intel (INTC) stock has returned about 295% over the past year, but it has given back 22% over the past three months. It trades roughly 31% below its 52-week high. The question now is what powers the next leg, and the answer is what Intel can build, not what it can sell.",
+      "pub_date": "2026-09-16T01:11:46Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-intel-stock-chips-cannot-011146960.html"
+    },
+    {
+      "title": "Is AMD Stock Already Priced For A 2027 Doubling It Has Yet To Deliver?",
+      "summary": "Advanced Micro Devices (AMD) has returned more than 200% over the past year. The number that should worry a holder is 19.5: the price-to-sales multiple, against a ten-year high of 23.0, in the top decile of the stock's own decade. That multiple sits in the top decile of the stock's own decade, and the growth behind it, a doubling of the data center business in 2027, rests on a product that had not shipped when management last reported.",
+      "pub_date": "2026-09-16T00:53:31Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-already-priced-2027-005331921.html"
+    },
     {
       "title": "Credo (CRDO) vs. Marvell (MRVL): Which AI Chip Stock Is the Better Buy?",
       "summary": "Outside of Nvidia (NVDA) and Broadcom (AVGO), Credo Technology (CRDO) and Marvell Technology (MRVL) are two of the most searched-for chip stocks on Zacks.com.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-15T19:18:26Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-could-47-below-191826056.html"
-    },
-    {
-      "title": "Broadcom Slips Again as AI Approaches 62% of Quarterly Sales",
-      "summary": "Custom silicon is consuming Broadcom's revenue mix--and making every shift in AI sentiment more consequential.",
-      "pub_date": "2026-09-15T19:18:20Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-slips-again-ai-approaches-191820176.html"
-    },
-    {
-      "title": "NVIDIA vs. Broadcom: Which AI Stock Should You Buy After Earnings?",
-      "summary": "NVIDIA's broader AI ecosystem, stronger profitability and lower valuation give it an edge over Broadcom as AI spending accelerates.",
-      "pub_date": "2026-09-15T19:00:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-vs-broadcom-ai-stock-190000889.html"
-    },
-    {
-      "title": "Prediction: AMD Could Be\u00a0Closing the Gap\u00a0in the AI\u00a0Chip Race",
-      "summary": "AMD has doubled in months on the back of an AI accelerator story finally winning over hyperscalers, but a stretched valuation and lurking execution risks put the bull thesis on a razor's edge.",
-      "pub_date": "2026-09-15T17:00:43Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/prediction-amd-could-closing-gap-170043096.html"
     }
   ]
 }

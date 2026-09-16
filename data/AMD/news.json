@@ -1,7 +1,21 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-09-15T22:38:08.361866+00:00",
+  "generated_at": "2026-09-16T02:51:49.231769+00:00",
   "items": [
+    {
+      "title": "Should You Buy Intel Stock For The Chips It Cannot Yet Make Enough Of?",
+      "summary": "Intel (INTC) stock has returned about 295% over the past year, but it has given back 22% over the past three months. It trades roughly 31% below its 52-week high. The question now is what powers the next leg, and the answer is what Intel can build, not what it can sell.",
+      "pub_date": "2026-09-16T01:11:46Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-intel-stock-chips-cannot-011146960.html"
+    },
+    {
+      "title": "Is AMD Stock Already Priced For A 2027 Doubling It Has Yet To Deliver?",
+      "summary": "Advanced Micro Devices (AMD) has returned more than 200% over the past year. The number that should worry a holder is 19.5: the price-to-sales multiple, against a ten-year high of 23.0, in the top decile of the stock's own decade. That multiple sits in the top decile of the stock's own decade, and the growth behind it, a doubling of the data center business in 2027, rests on a product that had not shipped when management last reported.",
+      "pub_date": "2026-09-16T00:53:31Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-already-priced-2027-005331921.html"
+    },
     {
       "title": "JEPQ\u2019s Monthly Check Has Swung From $0.34 to $0.70 a Share: The $500,000 Retiree Can\u2019t Budget on It",
       "summary": "JEPQ promises retirees a fat monthly paycheck, but the same $500,000 investment can produce wildly different checks from one season to the next, and the tax treatment buried in the fine print makes the real yield far less glamorous than the headline suggests.",
@@ -24,6 +38,13 @@
       "url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-apple-stock-aapl-nvidia-chipmaker-tsm-amd-bloom/?src=A00220&yptr=yahoo"
     },
     {
+      "title": "Stocks Settle Lower as Crude Prices and Bond Yields Surge",
+      "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -0.45% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.63%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down by -0.65%. E-mini S&P futures (ESU26 ) fell -0.44%, and September E-mini...",
+      "pub_date": "2026-09-15T20:34:47Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-lower-crude-prices-203447127.html"
+    },
+    {
       "title": "Nvidia, AI Chip Stocks Look To Stem The Bleeding After Sell-Off",
       "summary": "Chip and computer hardware stocks tied to the artificial intelligence buildout attempted a comeback Tuesday after Monday's harsh sell-off.",
       "pub_date": "2026-09-15T20:31:52Z",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-15T20:26:37Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-telling-ran-202637816.html"
-    },
-    {
-      "title": "Bank of America says investors get AMD stock wrong",
-      "summary": "Investors may be underestimating what comes next for AMD.",
-      "pub_date": "2026-09-15T20:07:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-says-investors-amd-200700397.html"
-    },
-    {
-      "title": "What Would It Take For Micron Technology Stock To Keep Climbing?",
-      "summary": "Micron Technology (MU) trades near $924, up more than 500% over the past year and still about 24% below its three-year high. The easy read on a $1 trillion memory maker is that the run is over. But Micron has signed 16 strategic customer agreements that commit customers to buy set volumes, the largest at prices held between a contracted floor and a ceiling set at the June-quarter market price. A three-year scenario on Micron's own numbers shows what is still in front of you.",
-      "pub_date": "2026-09-15T19:50:29Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-stock-keep-climbing-195029560.html"
-    },
-    {
-      "title": "AMD Rebounds 3% as Its 58% AI Engine Faces a Pause",
-      "summary": "The recovery recaptures part of Monday's selloff, but AMD's valuation still assumes uninterrupted data-center expansion.",
-      "pub_date": "2026-09-15T18:54:37Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amd-rebounds-3-58-ai-185437246.html"
     }
   ]
 }

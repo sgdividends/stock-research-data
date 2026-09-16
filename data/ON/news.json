@@ -1,7 +1,14 @@
 {
   "ticker": "ON",
-  "generated_at": "2026-09-15T22:39:08.889930+00:00",
+  "generated_at": "2026-09-16T02:52:45.080296+00:00",
   "items": [
+    {
+      "title": "Stocks Settle Lower as Crude Prices and Bond Yields Surge",
+      "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -0.45% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.63%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down by -0.65%. E-mini S&P futures (ESU26 ) fell -0.44%, and September E-mini...",
+      "pub_date": "2026-09-15T20:34:47Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-lower-crude-prices-203447127.html"
+    },
     {
       "title": "ON Semiconductor Corp. (ON) Declines More Than Market: Some Information for Investors",
       "summary": "In the latest trading session, ON Semiconductor Corp. (ON) closed at $71.65, marking a -5.9% move from the previous day.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-08T23:42:07Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/stocks/articles/amkr-stock-gains-hours-amkor-234207542.html"
-    },
-    {
-      "title": "ON Semiconductor Corp. (ON) Falls More Steeply Than Broader Market: What Investors Need to Know",
-      "summary": "The latest trading day saw ON Semiconductor Corp. (ON) settling at $71.08, representing a -4.44% change from its previous close.",
-      "pub_date": "2026-09-08T21:50:04Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-corp-falls-more-steeply-215004132.html"
     }
   ]
 }

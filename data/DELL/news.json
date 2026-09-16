@@ -1,7 +1,14 @@
 {
   "ticker": "DELL",
-  "generated_at": "2026-09-15T22:38:27.927346+00:00",
+  "generated_at": "2026-09-16T02:52:07.829299+00:00",
   "items": [
+    {
+      "title": "What Could Dell Technologies (DELL) Europa AI Push Mean For Enterprise Infrastructure?",
+      "summary": "Dell Technologies (NYSE:DELL) and Axelera AI announced a collaboration on the new Europa AI Processing Unit architecture for data centers. The partnership targets enterprise AI infrastructure workloads, with Europa designed for more demanding inference and training use cases. The Europa platform is positioned to support European digital autonomy goals by offering regionally aligned AI compute options. The Dell and Axelera AI Europa architecture collaboration is an important new data point to...",
+      "pub_date": "2026-09-15T23:16:17Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/could-dell-technologies-dell-europa-231617535.html"
+    },
     {
       "title": "Can Arista's Third Guidance Raise Still Make You Money?",
       "summary": "Arista Networks (ANET) trades near $188, about where it stood before its August report raised its 2026 revenue outlook for the third time. The easy read is that the market has yet to price that forecast. It already did, once. The market paid for that forecast in August and has since handed most of that payment back, leaving you a claim on the next raise.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-15T16:57:22Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-rallies-bullish-165722821.html"
-    },
-    {
-      "title": "Dell Jumps 5.8% as Europe's AI Chip Challenger Enters Its Servers",
-      "summary": "Axelera adds inference choice, although its maximum sales opportunity remains small beside Dell's enormous backlog.",
-      "pub_date": "2026-09-15T15:29:40Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/dell-jumps-5-8-europes-152940640.html"
     }
   ]
 }

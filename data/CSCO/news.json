@@ -1,7 +1,14 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-09-15T22:38:24.746743+00:00",
+  "generated_at": "2026-09-16T02:52:05.110695+00:00",
   "items": [
+    {
+      "title": "Cisco president shares thoughts on AI debate",
+      "summary": "Cisco President Jeetu Patel says AI guardrails must move at the same pace as the technology.",
+      "pub_date": "2026-09-15T22:18:07Z",
+      "source": "CNN Business",
+      "url": "https://finance.yahoo.com/video/cisco-president-shares-thoughts-ai-221807236.html"
+    },
     {
       "title": "Can Arista's Third Guidance Raise Still Make You Money?",
       "summary": "Arista Networks (ANET) trades near $188, about where it stood before its August report raised its 2026 revenue outlook for the third time. The easy read is that the market has yet to price that forecast. It already did, once. The market paid for that forecast in August and has since handed most of that payment back, leaving you a claim on the next raise.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-15T14:28:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/verizons-6g-acceleration-initiatives-ai-142800212.html"
-    },
-    {
-      "title": "Cisco (CSCO) Takes A Formal Role In 6G And Quantum Networking",
-      "summary": "Cisco Systems (NasdaqGS: CSCO) joined Verizon's 6G Innovation Forum, taking part in work on AI native wireless and sensing architectures. The firm is collaborating with quantum company Infleqtion on distributed quantum networking research that uses the Cisco Universal Quantum Switch. Cisco and Infleqtion plan to explore scalable quantum network designs aimed at connecting multiple quantum processing nodes across wider telecom infrastructure. Cisco's move into Verizon's 6G forum and its...",
-      "pub_date": "2026-09-15T11:14:34Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/articles/cisco-csco-takes-formal-role-111434107.html"
     }
   ]
 }

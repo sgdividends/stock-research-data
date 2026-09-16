@@ -1,16 +1,30 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-09-15T22:38:22.424779+00:00",
+  "generated_at": "2026-09-16T02:52:02.988714+00:00",
   "items": [
+    {
+      "title": "Bitcoin Slides, Crypto Stocks Decline As Trump-Backed CLARITY Act Fails To Pass Senate Vote",
+      "summary": "Bitcoin and crypto-related stocks fell sharply on Tuesday after the Senate failed to advance the CLARITY Act.",
+      "pub_date": "2026-09-16T01:14:26Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-slides-crypto-stocks-decline-011426654.html"
+    },
     {
       "title": "Landmark Crypto Bill Fails in Key Vote, Casting Doubt on New Rules and Hitting Stocks",
       "summary": "Legislation aimed for regulatory framework for digital assets, but Congress remained divided over curbs on Trump\u2019s crypto investments.",
-      "pub_date": "2026-09-15T21:37:00Z",
+      "pub_date": "2026-09-15T23:14:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/politics/policy/landmark-crypto-bill-fails-procedural-vote-casting-doubt-on-new-digital-asset-rules-d6fc4c47?siteid=yhoof2&yptr=yahoo"
     },
     {
-      "title": "Stocks to Watch: UBS, Vera Bradley, Dave & Buster\u2019s, Coinbase",
+      "title": "CLARITY Act setback sends Coinbase, Circle stocks lower",
+      "summary": "Sen. Thom Tillis immediately filed a motion to reconsider, keeping alive a procedural path for the Senate to revisit the CLARITY Act.",
+      "pub_date": "2026-09-15T23:06:06Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/clarity-act-setback-sends-coinbase-230606567.html"
+    },
+    {
+      "title": "Stocks to Watch Recap: UBS, Vera Bradley, Dave & Buster\u2019s, Coinbase",
       "summary": "\u2198\ufe0f Coinbase Global (COIN), Robinhood Markets (HOOD), Strategy (MSTR): Shares of companies tied to cryptocurrencies slid alongside the price of bitcoin. The cryptocurrency recently traded around $75,800, down about 3.",
       "pub_date": "2026-09-15T21:25:47Z",
       "source": "The Wall Street Journal",
@@ -22,6 +36,13 @@
       "pub_date": "2026-09-15T20:38:10Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-oil-prices-nvidia-stock/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Stocks Settle Lower as Crude Prices and Bond Yields Surge",
+      "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -0.45% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.63%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down by -0.65%. E-mini S&P futures (ESU26 ) fell -0.44%, and September E-mini...",
+      "pub_date": "2026-09-15T20:34:47Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-lower-crude-prices-203447127.html"
     },
     {
       "title": "Nvidia, Coinbase, Skyworks, Axon, Tesla, Applied Aerospace, and More Stocks That Explain Today\u2019s Market",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-15T20:19:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/investing/oil-prices-climb-higher-686a19f2?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Cathie Wood Dumps $60 Million In Crypto Stock Ahead Of Clarity Act Vote",
-      "summary": "Cathie Wood sells more than $60 million worth of Coinbase, Bullish, Circle and ARK's Bitcoin ETF with the Senate's Clarity Act vote due.",
-      "pub_date": "2026-09-15T20:18:36Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/cathie-wood-ark-invest-crypto-stocks-coinbase-bullish-circle-bitcoin-etf-clarity-act-vote/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Clarity Act Collapses in Blow to Crypto. Why All Is Not Lost for Digital Assets.",
-      "summary": "The crypto industry\u2019s top legislative priority failed on Tuesday in spectacular fashion, as the so-called Clarity Act didn\u2019t come close to getting the support needed to advance in a Senate vote.  A procedural motion to advance the bill failed by a vote of 49 to 50, with a handful of Republicans joining all Democrats to shoot it down.  The motion needed 60 yes votes to pass, and with the midterm elections looming, the Senate isn\u2019t expected to pick the bill back up this year.",
-      "pub_date": "2026-09-15T20:12:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/crypto-clarity-act-vote-7968a46e?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Bitcoin Falls as Clarity Act Fails to Advance. Why Cathie Wood\u2019s Dumping Crypto Stocks.",
-      "summary": "The Clarity Act, a key bill for crypto regulation, failed to advance in the Senate Tuesday.  The vote was 49 to 50 in a procedural vote known as invoking cloture that could have moved it to a final vote.  Bitcoin and crypto-exposed stocks fell sharply, with crypto exchange Coinbase falling 10% at $172.25.",
-      "pub_date": "2026-09-15T20:10:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/bitcoin-price-clarity-act-crypto-cathie-wood-c2471654?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

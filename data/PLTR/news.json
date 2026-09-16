@@ -1,13 +1,27 @@
 {
   "ticker": "PLTR",
-  "generated_at": "2026-09-15T22:39:12.342162+00:00",
+  "generated_at": "2026-09-16T02:52:48.365030+00:00",
   "items": [
+    {
+      "title": "September Effect: 3 AI Stocks to Buy on a Potential Market Pullback",
+      "summary": "Palantir, Marvell, and Snowflake could be good buys on a pullback.",
+      "pub_date": "2026-09-16T01:37:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/september-effect-3-ai-stocks-013700617.html"
+    },
     {
       "title": "Palantir and Nvidia Are Restricting Anthropic\u2019s AI. Microsoft Could Win the Enterprise Trust War",
       "summary": "Palantir and Nvidia have reportedly tightened restrictions around Anthropic\u2019s advanced AI models over data-retention concerns. Palantir has demanded irrevocable zero-data-retention guarantees before making the models available through its software, while Nvidia limits Claude to less-sensitive internal work. At Palantir Technologies Inc. (NASDAQ:PLTR), that lands inside its sovereign-AI pitch. At Microsoft Corporation (NASDAQ:MSFT), it creates an [\u2026]",
       "pub_date": "2026-09-15T21:55:33Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/ai/articles/palantir-nvidia-restricting-anthropic-ai-215533551.html"
+    },
+    {
+      "title": "Palantir and Nvidia Emerge as Key Players in Government AI Modernization",
+      "summary": "Palantir and Nvidia are teaming up on sovereign AI.",
+      "pub_date": "2026-09-15T20:42:05Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/technology/ai/articles/palantir-nvidia-emerge-key-players-204205272.html"
     },
     {
       "title": "Nvidia, Coinbase, Skyworks, Axon, Tesla, Applied Aerospace, and More Stocks That Explain Today\u2019s Market",
@@ -38,25 +52,11 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/palantir-wins-higher-ubs-target-183000407.html"
     },
     {
-      "title": "Palantir Sees Strong AI Demand, Wider Enterprise Use Cases, UBS Says",
-      "summary": "Palantir Technologies' (PLTR) software demand is running ahead of the company's ability to meet it,",
-      "pub_date": "2026-09-15T17:05:18Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/ai/articles/palantir-sees-strong-ai-demand-170518101.html"
-    },
-    {
-      "title": "Palantir's CEO Revealed the Biggest Opportunity in Its Future. And It Has Little to Do with AI Models",
-      "summary": "Palantir revealed what CEO Alex Karp believes could be the company's secret sauce for long-term success.",
-      "pub_date": "2026-09-15T12:05:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/technology/ai/articles/palantirs-ceo-revealed-biggest-opportunity-120500311.html"
-    },
-    {
-      "title": "2 Popular AI Stocks to Sell Before They Fall 53% and 58%, According to Wall Street Analysts",
-      "summary": "Certain Wall Street analysts expect major losses for shareholders of Palantir and SpaceX.",
-      "pub_date": "2026-09-15T08:24:02Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-popular-ai-stocks-sell-082402374.html"
+      "title": "Hold Your Horses: Palantir-Nebius Deal Doesn\u2019t Solve Either Stock\u2019s Biggest Problem",
+      "summary": "The latest deal resolves neither the valuation problem nor the profitability gap. So what's in it for investors?",
+      "pub_date": "2026-09-15T18:10:24Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hold-horses-palantir-nebius-deal-181024200.html"
     }
   ]
 }
