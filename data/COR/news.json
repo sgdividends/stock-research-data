@@ -1,7 +1,14 @@
 {
   "ticker": "COR",
-  "generated_at": "2026-09-16T19:20:32.102165+00:00",
+  "generated_at": "2026-09-16T22:33:58.168051+00:00",
   "items": [
+    {
+      "title": "Cencora Tech Chief: AI Is Cutting Some Medical Treatment Decisions in Half",
+      "summary": "Cencora Global Chief Data and Information Officer Pawan Verma spoke with WSJ Leadership Institute President Alan Murray at the WSJLI Technology Council Summit about how AI is being used in healthcare to speed access to treatment. Verma described a retinal oncology use case in which doctors analyze large volumes of imaging data to determine treatment, saying Cencora is helping cut a decision process that can take 30 to 90 days roughly in half.",
+      "pub_date": "2026-09-16T19:58:00Z",
+      "source": "WSJ",
+      "url": "https://finance.yahoo.com/video/cencora-tech-chief-ai-cutting-195800838.html"
+    },
     {
       "title": "The Realities of Managing Enterprise AI",
       "summary": "A panel of CIOs from Indeed, New York Life and Cencora discuss the risks and advantages of enterprise AI, including operational efficiency, financial waste and the need to implement \u201ccontrol towers\u201d for human oversight of consequential decisions.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-10T17:46:13Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/healthcare/articles/abbvie-vs-novo-nordisk-healthcare-174613348.html"
-    },
-    {
-      "title": "2 S&P 500 Stocks with Exciting Potential and 1 We Question",
-      "summary": "The S&P 500 (^GSPC) is home to the biggest and most well-known companies in the market, making it a go-to index for investors seeking stability. But not all large-cap stocks are created equal - some are struggling with slowing growth, declining margins, or increased competition.",
-      "pub_date": "2026-09-10T17:45:04Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-exciting-174504808.html"
     }
   ]
 }

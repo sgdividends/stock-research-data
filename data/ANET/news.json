@@ -1,7 +1,14 @@
 {
   "ticker": "ANET",
-  "generated_at": "2026-09-16T19:20:20.777158+00:00",
+  "generated_at": "2026-09-16T22:33:47.801034+00:00",
   "items": [
+    {
+      "title": "Dow Jones Futures: S&P 500 Falls After Fed Rate Hike, Hawkish Warsh; Trump Fumes As AMD, Bloom Energy Lead Stocks To Watch",
+      "summary": "The S&P 500 fell on the Fed rate hike and hawkish Warsh comments, But AMD, Bloom Energy flirted with buy signals.",
+      "pub_date": "2026-09-16T21:40:32Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp-500-fed-rate-hike-warsh-amd-bloom-energy-stocks-to-watch/?src=A00220&yptr=yahoo"
+    },
     {
       "title": "Arista Stock Holds Up Well Amid Weakness. Here's How To Capitalize.",
       "summary": "Arista is a highly rated stock holding up well during recent market weakness. Investors might consider a covered call trade.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-15T21:45:04Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-market-dipped-arista-networks-214504258.html"
-    },
-    {
-      "title": "Why Did Cisco Stop Leading With Its Campus Refresh?",
-      "summary": "Cisco Systems (CSCO) closed fiscal 2026 with record revenue of $63.3 billion, and the stock has returned 66% over the past year. Read its last two August earnings calls, though, and the pitch changed. In August 2025 the CEO pitched a refresh of the installed campus switching base. In August 2026 the lead was a networking super cycle, with hyperscaler AI orders up triple digits. How much of the business actually moved.",
-      "pub_date": "2026-09-15T21:32:00Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-cisco-stop-leading-213200107.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "TSLA",
-  "generated_at": "2026-09-16T19:21:18.678345+00:00",
+  "generated_at": "2026-09-16T22:34:43.691107+00:00",
   "items": [
+    {
+      "title": "SpaceX stock pops ahead of Starship launch",
+      "summary": "SpaceX stock rose about 5% on Tuesday, coming on the heels of no new news, though a couple catalysts may be at work.",
+      "pub_date": "2026-09-16T18:04:35Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-pops-ahead-of-starship-launch-180435710.html"
+    },
     {
       "title": "Tesla must prove Cybercab is legal to sell, NHTSA says",
       "summary": "Tesla now has to prove to government regulators that its Cybercab \u2014 which has no steering wheel or pedals \u2014 is legal to sell, and safe for the road.",
@@ -10,53 +17,46 @@
       "url": "https://finance.yahoo.com/markets/stocks/article/tesla-must-prove-cybercab-is-legal-to-sell-nhtsa-says-153610647.html"
     },
     {
-      "title": "Starship Test: SpaceX's Quest for the Holy Grail of Rocketry",
-      "summary": "By cracking the code on rapid, full re-usability, Starship is rewriting the economics of space exploration.",
-      "pub_date": "2026-09-16T16:52:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/articles/starship-test-spacexs-quest-holy-165200792.html"
+      "title": "Michael Burry reveals his verdict on the ongoing AI bubble",
+      "summary": "A rare moment of agreement among AI\u2019s biggest names has caught Burry\u2019s attention, and his interpretation of what is happening is striking.",
+      "pub_date": "2026-09-16T22:17:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/michael-burry-reveals-verdict-ongoing-221700327.html"
     },
     {
-      "title": "May Mobility is going public in a $1.4B SPAC deal",
-      "summary": "The deal could net the asset-light robotaxi company more than $300 million in funding.",
-      "pub_date": "2026-09-16T15:27:13Z",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/may-mobility-going-public-1-152713182.html"
+      "title": "Who are the richest Americans today? Forbes drops 2026 ranking",
+      "summary": "From Elon Musk to Warren Buffett, these are the 400 richest people in America today, according to Forbes.",
+      "pub_date": "2026-09-16T22:11:05Z",
+      "source": "USA TODAY",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/richest-americans-today-forbes-drops-221105964.html"
     },
     {
-      "title": "Elon Musk Says 'Excitement\u2019 is Guaranteed at Tesla Roadster Reveal in October: Audience Would Need to \u2018Vouch\u2019 That 'This Is Not AI'",
-      "summary": "Tesla Inc.\u2018s CEO Elon Musk said that the upcoming unveiling of the anticipated Roadster high-performance vehicle on Oct. 1 would far exceed expectations. Elon Musk Says the Event Is Not AI During his appearance on the All In Podcast via...",
-      "pub_date": "2026-09-16T15:00:22Z",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/technology/articles/elon-musk-says-excitement-guaranteed-150022221.html"
+      "title": "Tesla Gains Over 2% as Cybercab Faces a September 30 Compliance Test",
+      "summary": "Regulators want Tesla to explain how a steering-wheel-free robotaxi satisfies standards written for human-controlled vehicles.",
+      "pub_date": "2026-09-16T20:34:12Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-gains-over-2-cybercab-203412694.html"
     },
     {
-      "title": "Tesla-SpaceX Merger: Not If, But When Musk Makes It Official",
-      "summary": "TSLA and SPCX are already sharing technology, talent, capital and operations as Musk again leaves the door open to a possible merger.",
-      "pub_date": "2026-09-16T14:58:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-spacex-merger-not-musk-145800427.html"
-    },
-    {
-      "title": "Tesla Tanked This Year: One Of Tech\u2019s Biggest Bulls Says 70% Are On The Horizon",
-      "summary": "Tesla has shed more than 20% this year while the broader market climbs, yet one of Wall Street's loudest technology bulls just doubled down with a target that would require the stock to do something remarkable from here.",
-      "pub_date": "2026-09-16T14:35:26Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tanked-one-tech-biggest-143526458.html"
-    },
-    {
-      "title": "Goldman Slashes Tesla\u2019s Q3 Delivery Forecast \u2014 Says Weaker Sales Across Largest Markets May Offset Export Strength",
-      "summary": "Goldman said Southeast Asia, South America and Australia are showing strength on a year-over-year basis.",
-      "pub_date": "2026-09-16T14:25:46Z",
+      "title": "This Analyst Sees INTC Stock Hitting $200 In Two Years \u2014 That\u2019s A 106% Upside",
+      "summary": "Intel shares could double within two years, driven by potential manufacturing partnerships with tech giants and strong demand for AI chips.",
+      "pub_date": "2026-09-16T20:30:50Z",
       "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-slashes-tesla-q3-delivery-142546440.html"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-sees-intc-stock-hitting-203050055.html"
     },
     {
-      "title": "Tesla\u2019s Cybercab Is In Trouble",
-      "summary": "Federal regulators have given Tesla less than two weeks to answer sworn questions about its Cybercab program, and the stakes go far beyond one automaker's ambitions.",
-      "pub_date": "2026-09-16T14:24:10Z",
+      "title": "Musk Warns of AI Control Problem After Agents Secretly Accessed OpenAI Servers for a Week",
+      "summary": "A swarm of AI agents silently held admin access to OpenAI servers for a week before anyone noticed, and Elon Musk thinks the industry has no real answer for what comes next.",
+      "pub_date": "2026-09-16T20:15:27Z",
       "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/articles/tesla-cybercab-trouble-142410338.html"
+      "url": "https://finance.yahoo.com/technology/ai/articles/musk-warns-ai-control-problem-201527016.html"
+    },
+    {
+      "title": "Tesla\u2019s Cybercab \u2018Held Me Hostage for an Hour,\u2019 Rider Says \u2014 This Cybercab Limitation Just Turned a Short Austin Trip Into 70-Minute Detour",
+      "summary": "Tesla Inc.\u2019s Cybercab service in Austin faced fresh questions on Monday after a rider said that a short north Austin trip ballooned into a much longer ride because the service avoided highways. Cybercab Not Taking Highways The rider took to...",
+      "pub_date": "2026-09-16T19:30:30Z",
+      "source": "Benzinga",
+      "url": "https://autos.yahoo.com/ev-and-future-tech/articles/tesla-cybercab-held-hostage-hour-193030370.html"
     }
   ]
 }

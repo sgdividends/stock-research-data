@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-09-16T19:21:05.644501+00:00",
+  "generated_at": "2026-09-16T22:34:30.949507+00:00",
   "items": [
     {
       "title": "How worried should software, semiconductor stocks be about AI risks?",
@@ -15,6 +15,20 @@
       "pub_date": "2026-09-16T10:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/why-human-emotion-biggest-threat-100000196.html"
+    },
+    {
+      "title": "Why OpenAI\u2019s $1.2 Trillion Valuation Can Lift Oracle, CoreWeave From AI Gloom",
+      "summary": "Oracle stock and CoreWeave has been hit by concerns about an AI slowdown. OpenAI could soothe those worries.",
+      "pub_date": "2026-09-16T19:30:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/oracle-stock-price-coreweave-ai-openai-valuation-701079d9?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Two Low-Profile AI Data-Center Innovators That Investors Should Watch",
+      "summary": "Never heard of Crusoe or Joulent? Tech and oil giants rely on hordes of small private firms for massive AI buildout.",
+      "pub_date": "2026-09-16T19:22:17Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/ai-data-centers-neocloud-oracle-microsoft-joulent-crusoe/?src=A00220&yptr=yahoo"
     },
     {
       "title": "Oracle Rallies 2% as Restructuring Helps Finance the AI Sprint",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-16T15:23:20Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/technology/articles/amazon-apos-aws-unable-restore-152320781.html"
-    },
-    {
-      "title": "Oracle Beats Q1 Estimates as AI Optimism Grows: How to Play the Stock",
-      "summary": "ORCL tops Q1 estimates as AI cloud demand accelerates, with revenues and backlog surging despite heavy infrastructure spending.",
-      "pub_date": "2026-09-16T14:56:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-beats-q1-estimates-ai-145600447.html"
-    },
-    {
-      "title": "What Happens To Microsoft Stock If Its AI Spending Keeps Climbing?",
-      "summary": "Microsoft (MSFT) is reported to be planning about 38 gigawatts of data center capacity by 2032, more than triple what it runs today. Its capital spending has already climbed sharply over the past twelve months, and management said in July that it expects fiscal 2027 spending to grow again. So what happens to the stock if the spending simply keeps climbing.",
-      "pub_date": "2026-09-16T14:45:34Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/happens-microsoft-stock-ai-spending-144534825.html"
     }
   ]
 }

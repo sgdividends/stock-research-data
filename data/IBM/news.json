@@ -1,13 +1,41 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-09-16T19:20:50.425864+00:00",
+  "generated_at": "2026-09-16T22:34:16.073775+00:00",
   "items": [
     {
-      "title": "Salesforce and Google Service Outages Strike on Day 2 of Dreamforce Conference",
-      "summary": "Salesforce users \u2018may experience severe delays, intermittent errors, or an inability to access some services,\u2019 the company says.",
-      "pub_date": "2026-09-16T18:26:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/salesforce-stock-google-service-outage-dreamforce-f911b1b2?siteid=yhoof2&yptr=yahoo"
+      "title": "IBM (IBM) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
+      "summary": "In the latest trading session, IBM (IBM) closed at $237.49, marking a -4.38% move from the previous day.",
+      "pub_date": "2026-09-16T21:45:05Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ibm-ibm-sees-more-significant-214505270.html"
+    },
+    {
+      "title": "IBM Gets Fresh Firepower for Quantum Race",
+      "summary": "The bigger opportunity may be building quantum infrastructure for others",
+      "pub_date": "2026-09-16T21:02:13Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-gets-fresh-firepower-quantum-210213851.html"
+    },
+    {
+      "title": "IBM Falls Over 3% After Quantum Foundry Secures $1 Billion",
+      "summary": "Washington matched IBM's investment, but commercial wafer demand remains undisclosed.",
+      "pub_date": "2026-09-16T20:53:44Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-falls-over-3-quantum-205344091.html"
+    },
+    {
+      "title": "ACN Stock Returned $39 Billion to Shareholders\u2014Why Did It Underperform?",
+      "summary": "The consulting giant returned significant capital to shareholders even as its share price declined. Here is the accounting of what owners actually got, and what they might get next.",
+      "pub_date": "2026-09-16T20:20:55Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/acn-stock-returned-39-billion-202055288.html"
+    },
+    {
+      "title": "Why Is Palantir Stock Priced For A Swing This Wide After A Flat Year?",
+      "summary": "Palantir Technologies (PLTR) trades near $172.56, and the options market has already drawn the year ahead in dollars. The one-year band runs from $96.77 at the floor to $307.69 at the ceiling. That is not a forecast. It is the size of the uncertainty you are holding, and it raises a question about position size rather than direction.",
+      "pub_date": "2026-09-16T19:51:25Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/why-palantir-stock-priced-swing-195125449.html"
     },
     {
       "title": "IBM Seals $1 Billion Government Deal to Build America\u2019s First Quantum Foundry",
@@ -17,46 +45,18 @@
       "url": "https://www.barrons.com/articles/ibm-stock-quantum-computing-chip-foundry-71b67f2b?siteid=yhoof2&yptr=yahoo"
     },
     {
+      "title": "Salesforce and Google Service Outages Strike on Day 2 of Dreamforce Conference",
+      "summary": "Salesforce users \u2018may experience severe delays, intermittent errors, or an inability to access some services,\u2019 the company says.",
+      "pub_date": "2026-09-16T18:26:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/salesforce-stock-google-service-outage-dreamforce-f911b1b2?siteid=yhoof2&yptr=yahoo"
+    },
+    {
       "title": "Garbutt Joins Brandtech As Global CCO, Leads AI-Produced Advertising",
       "summary": "His brand experience includes Apple's Shot on iPhone and IBM's Smarter Cities.",
       "pub_date": "2026-09-16T15:00:00Z",
       "source": "MediaPost",
       "url": "https://finance.yahoo.com/media-advertising/articles/garbutt-joins-brandtech-global-cco-150000409.html"
-    },
-    {
-      "title": "American Express and IBM Drag the Dow",
-      "summary": "Most stocks within the Dow Jones Industrial Average were trading higher. The blue-chip index was still trading lower. The Dow was down 0.2%, or 119 points, early in Wednesday's trading session. American Express was the index's largest drag, subtracting 43 points.",
-      "pub_date": "2026-09-16T14:16:25Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-091626/card/american-express-and-ibm-drag-the-dow-eb4amFv1RpDqA18uCLny?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Should Record Revenue Make IonQ Stock Feel Safer?",
-      "summary": "IonQ (IONQ) stock trades at about $37, roughly 55% below its high inside the last year. The market did not do that: over the past twelve months the S&P 500 returned 16.6% while IonQ lost 33.4%. Its own numbers went the other way, which makes the downside hard to size.",
-      "pub_date": "2026-09-16T12:30:05Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/record-revenue-ionq-stock-feel-123005445.html"
-    },
-    {
-      "title": "IBM's New AI Deal Must Handle 23 Million Transactions Daily",
-      "summary": "The Turkish credit-bureau deployment offers production-scale evidence, although IBM disclosed no contract value.",
-      "pub_date": "2026-09-15T21:06:01Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ibms-ai-deal-must-handle-210601305.html"
-    },
-    {
-      "title": "The Vendor Rush Is Here: Agent Governance Hits Its Tipping Point",
-      "summary": "Four major infrastructure vendors have now shipped standalone agent governance products at general availability. The vendor rush itself has become the signal. Okta\u2019s July 2026 product innovations pushed the furthest into new territory. The company shipped Agent-to-Agent Connections at general availability, enabling secure multi-agent workflows by issuing temporary runtime tokens that enforce which agents may [\u2026]",
-      "pub_date": "2026-09-15T19:58:19Z",
-      "source": "Forkast News",
-      "url": "https://finance.yahoo.com/technology/ai/articles/vendor-rush-agent-governance-hits-195819294.html"
-    },
-    {
-      "title": "How Much Slowdown Is Rubrik Stock Priced For?",
-      "summary": "Rubrik (RBRK) trades near $100, just off its 52-week high, and the market is paying for agentic cyber resilience: machine-speed recovery and governance for AI agents. The risk here is more ordinary than the story. The revenue growth that supports a price like this is already slowing, and the product carrying the AI story is not the one producing the revenue yet.",
-      "pub_date": "2026-09-15T19:17:40Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/much-slowdown-rubrik-stock-priced-191740376.html"
     }
   ]
 }

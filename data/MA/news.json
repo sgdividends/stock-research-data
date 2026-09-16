@@ -1,7 +1,14 @@
 {
   "ticker": "MA",
-  "generated_at": "2026-09-16T19:20:57.754600+00:00",
+  "generated_at": "2026-09-16T22:34:23.905104+00:00",
   "items": [
+    {
+      "title": "Circle stock slips despite BlackRock, Mastercard, Visa announcement",
+      "summary": "Circle\u2019s Arc mainnet counts BlackRock, Mastercard, and Visa among its founding validator cohort.",
+      "pub_date": "2026-09-16T22:10:03Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/circle-stock-slips-despite-blackrock-221003345.html"
+    },
     {
       "title": "Mastercard Slips as AI Payments Trade Exclusivity for Scale",
       "summary": "Shared agent identity can reduce integration costs while making competing payment networks easier to connect.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-16T08:22:19Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-us-vietnam-firms-082219584.html"
-    },
-    {
-      "title": "Stripe\u2019s Shared Payment Token Is Quietly Becoming the Default Money Layer for Agent Commerce",
-      "summary": "The current landscape of agentic commerce is defined by a fragmented trust stack. As AI agents move from simple information retrieval to transactional execution, the industry has struggled to reconcile disparate standards like x402, Google UCP, and Mastercard AP4M. Into this architectural divide, Stripe introduced its Shared Payment Token (SPT) in October 2025, positioning the [\u2026]",
-      "pub_date": "2026-09-15T18:48:10Z",
-      "source": "Forkast News",
-      "url": "https://finance.yahoo.com/technology/ai/articles/stripe-shared-payment-token-quietly-184810863.html"
     }
   ]
 }

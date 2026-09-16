@@ -1,7 +1,21 @@
 {
   "ticker": "NFLX",
-  "generated_at": "2026-09-16T19:21:02.790639+00:00",
+  "generated_at": "2026-09-16T22:34:28.380662+00:00",
   "items": [
+    {
+      "title": "Apple\u2019s Biggest Win This Week Isn\u2019t the New iPhone",
+      "summary": "It has been a successful first two weeks for  Apple\u2019s  new CEO, John Ternus.  First at the Emmys, where Apple TV dominated the trophy haul, and then in the battle for auto makers\u2019 infotainment systems.  Last Wednesday, Ternus graduated from his usual supporting role at Apple\u2019s annual launch event to center stage.",
+      "pub_date": "2026-09-16T19:29:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/apple-tv-widows-bay-iphone-duo-0c1c335b?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Should You Buy Netflix Stock Because Its Earnings Outrun Its Sales?",
+      "summary": "Netflix (NFLX) has fallen about 35% over the past year, while the S&P 500 returned about 17%. The complaint is simple. Sales growth is slowing, and management will not show the quality metrics it leans on. That case misses the engine under per-share earnings, a wider margin, and a shrinking share count.",
+      "pub_date": "2026-09-16T19:21:43Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-netflix-stock-because-earnings-192143624.html"
+    },
     {
       "title": "Should You Buy Amazon Stock For The Demand AWS Cannot Yet Serve?",
       "summary": "Amazon.com (AMZN) stock has returned 8.9% over the past twelve months and trades about 13% below its 52-week high. Its cloud arm spent those months doing something the share price has not reflected. AWS growth sped up again in Q2 2026, and the contracts queued up behind it kept building. The upside case for the stock rests almost entirely on turning that queue into revenue.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-15T22:00:42Z",
       "source": "Benzinga",
       "url": "https://sports.yahoo.com/articles/trump-called-cowboys-no-win-220042823.html"
-    },
-    {
-      "title": "Netflix (NFLX) Suffers a Larger Drop Than the General Market: Key Insights",
-      "summary": "Netflix (NFLX) concluded the recent trading session at $77.91, signifying a -3% move from its prior day's close.",
-      "pub_date": "2026-09-15T21:45:05Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-suffers-larger-drop-214505171.html"
-    },
-    {
-      "title": "Netflix Options Call A One-Third Drop Ordinary, So How Much Stock Should You Hold?",
-      "summary": "Netflix (NFLX) trades at about $80, and its own options put a price on how far that can travel over the twelve months ahead: a floor near $54.21 and a ceiling near $119. The options market is charging nothing unusual for that range. Ordinary, for Netflix, already means a range wide enough to take a third of your money.",
-      "pub_date": "2026-09-15T20:00:21Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/netflix-options-call-one-third-200021749.html"
     }
   ]
 }

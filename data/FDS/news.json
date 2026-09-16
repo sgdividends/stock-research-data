@@ -1,7 +1,21 @@
 {
   "ticker": "FDS",
-  "generated_at": "2026-09-16T19:20:42.563703+00:00",
+  "generated_at": "2026-09-16T22:34:08.666195+00:00",
   "items": [
+    {
+      "title": "Lennar Cuts Deliveries Target Again on Rate Pressure, Housing Market Conditions",
+      "summary": "The homebuilding company said it expects full-year home deliveries of between 80,000 and 81,000 homes. That is down from its previous guidance for 82,000 to 83,000 deliveries, and below the 82,300 analysts polled by FactSet were expecting.",
+      "pub_date": "2026-09-16T21:00:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/earnings/lennar-cuts-deliveries-target-again-on-rate-pressure-housing-market-conditions-363012dd?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "FactSet (FDS) Stock May Be 36% Undervalued On Returns",
+      "summary": "FactSet Research Systems has seen its stock slide over the past few years, which naturally puts a spotlight on whether the current share price lines up with the returns it earns on the capital it invests. For anyone tracking data and analytics providers, the key puzzle now is how that track record of reinvesting in the business stacks up against what the market is asking you to pay today. Over the past 3 years the share price has fallen 32.6%, which raises the question of whether the market...",
+      "pub_date": "2026-09-16T20:12:03Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/factset-fds-stock-may-36-201203899.html"
+    },
     {
       "title": "ETF League Tables: Vanguard Registers Biggest Inflows",
       "summary": "<p>Table below reflects daily flows on September 14, 2026 and asset totals as of that date.</p>",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-11T08:24:36Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-shares-jump-pre-bell-082436979.html"
-    },
-    {
-      "title": "Oracle Tops First-Quarter Expectations as Cloud Infrastructure Revenue More Than Doubles",
-      "summary": "Oracle's (ORCL) fiscal first-quarter results surpassed Wall Street's estimates as cloud infrastructu",
-      "pub_date": "2026-09-10T21:03:51Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/articles/oracle-tops-first-quarter-expectations-210351667.html"
-    },
-    {
-      "title": "Oracle Posts Higher Profit, Revenue on Continued Cloud Infrastructure Strength",
-      "summary": "Analysts polled by FactSet expected adjusted earnings of $1.74 a share.  Total revenue rose 30% to $19.34 billion, ahead of Wall Street estimates for $19.14 billion.  The gain helped offset revenue from the company\u2019s software unit, which fell 3% to $5.55 billion, as customers continue to migrate from on-premises software to the cloud.",
-      "pub_date": "2026-09-10T20:45:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/earnings/oracle-orcl-q1-earnings-report-stock-5158944b?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

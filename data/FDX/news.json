@@ -1,7 +1,14 @@
 {
   "ticker": "FDX",
-  "generated_at": "2026-09-16T19:20:42.694441+00:00",
+  "generated_at": "2026-09-16T22:34:08.801084+00:00",
   "items": [
+    {
+      "title": "How Tech Leaders Are Navigating AI\u2019s ROI Problem",
+      "summary": "At the WSJ Leadership Institute's Technology Council Summit, technology executives from McKinsey, FedEx and CVS Health discuss how they are navigating the rising costs of generative AI and finding real business value.",
+      "pub_date": "2026-09-16T20:39:00Z",
+      "source": "WSJ",
+      "url": "https://finance.yahoo.com/video/tech-leaders-navigating-ai-roi-203900895.html"
+    },
     {
       "title": "Amazon, Walmart Among 6 Companies Returning Tariff Savings \u2014 How It Impacts Your Budget",
       "summary": "From Amazon to Walmart, companies are handling tariff refunds differently. Here's what it could mean for your wallet.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-15T01:21:00Z",
       "source": "WSJ",
       "url": "https://finance.yahoo.com/video/why-fedex-ceo-says-ai-012100444.html"
-    },
-    {
-      "title": "FedEx Freight expands CTO\u2019s role to cover commercial strategy following CCO ouster",
-      "summary": "Less-than-truckload carrier FedEx Freight named Mike Rodgers as chief commercial and technology officer, following the recent termination of an executive. The post FedEx Freight expands CTO\u2019s role to cover commercial strategy following CCO ouster appeared first on FreightWaves.",
-      "pub_date": "2026-09-14T22:18:32Z",
-      "source": "FreightWaves",
-      "url": "https://finance.yahoo.com/technology/articles/fedex-freight-expands-cto-role-221832965.html"
     }
   ]
 }

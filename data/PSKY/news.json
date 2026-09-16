@@ -1,7 +1,14 @@
 {
   "ticker": "PSKY",
-  "generated_at": "2026-09-16T19:21:09.465130+00:00",
+  "generated_at": "2026-09-16T22:34:34.540201+00:00",
   "items": [
+    {
+      "title": "Sector Update: Consumer Stocks Decline Late Afternoon",
+      "summary": "Consumer stocks fell late Wednesday afternoon with the State Street Consumer Staples Select Sector S",
+      "pub_date": "2026-09-16T19:51:04Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-decline-afternoon-195104531.html"
+    },
     {
       "title": "Paramount, Atty. Gen. Bonta ordered to meet for merger settlement talks",
       "summary": "Beginning Oct. 14, the two sides will try to reach a deal that will allow the massive merger to advance.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-14T17:49:58Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-advance-monday-174958227.html"
-    },
-    {
-      "title": "Nike downgraded, Affirm upgraded: Wall Street's top analyst calls",
-      "summary": "Nike downgraded, Affirm upgraded: Wall Street's top analyst calls",
-      "pub_date": "2026-09-14T13:45:59Z",
-      "source": "The Fly",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nike-downgraded-affirm-upgraded-wall-134559486.html"
     }
   ]
 }

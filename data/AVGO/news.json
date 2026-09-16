@@ -1,7 +1,21 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-09-16T19:20:22.630724+00:00",
+  "generated_at": "2026-09-16T22:33:49.557462+00:00",
   "items": [
+    {
+      "title": "Jim Cramer Says the AI Slowdown Is Fake. Dell Is His Evidence.",
+      "summary": "Jim Cramer built his case that AI spending fears are overblown on three stocks, but two of them moved in the exact wrong direction on the day he made the call.",
+      "pub_date": "2026-09-16T19:45:23Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-says-ai-slowdown-194523294.html"
+    },
+    {
+      "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
+      "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
+      "pub_date": "2026-09-16T19:30:04Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-qualcomm-stock-cash-apple-193004157.html"
+    },
     {
       "title": "How Far Can NVIDIA Stock Fall In A Demand Scare?",
       "summary": "NVIDIA (NVDA) stock trades near $212, about 10% below its 52-week high, and it has gone nowhere over the past three months. The company itself has not been standing still. So it is worth asking the uncomfortable question: how far does a stock like this fall when a real shock arrives, and how long would you wait to get it back.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-16T15:00:34Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stock-could-worth-far-150034323.html"
-    },
-    {
-      "title": "Ray Dalio\u2019s Fund Was Buying These 2 AI Stocks",
-      "summary": "Most of the media hype goes to Nvidia, Broadcom, Google and the other major AI plays. We dug deeper into billionaire Ray Dalio\u2019s Bridgewater Associates Q2 13F filings to see what new AI stocks the fund was buying. ServiceNow, Inc. (NYSE:NOW) was one of them. Bridgewater opened a position of about 635,000 shares worth roughly [\u2026]",
-      "pub_date": "2026-09-16T14:05:27Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ray-dalio-fund-buying-2-140527912.html"
-    },
-    {
-      "title": "Wall Street Sees 56% Upside in Broadcom After Summer Selloff",
-      "summary": "Broadcom posted record AI chip numbers and Wall Street still hammered the stock, leaving analysts pointing to a gap between price and target that rarely opens this wide on a mega-cap. Here is what the sell side is betting the market is missing.",
-      "pub_date": "2026-09-16T13:35:44Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-sees-56-upside-133544963.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "CMCSA",
-  "generated_at": "2026-09-16T19:20:30.390330+00:00",
+  "generated_at": "2026-09-16T22:33:56.705662+00:00",
   "items": [
+    {
+      "title": "Should You Buy Netflix Stock Because Its Earnings Outrun Its Sales?",
+      "summary": "Netflix (NFLX) has fallen about 35% over the past year, while the S&P 500 returned about 17%. The complaint is simple. Sales growth is slowing, and management will not show the quality metrics it leans on. That case misses the engine under per-share earnings, a wider margin, and a shrinking share count.",
+      "pub_date": "2026-09-16T19:21:43Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-netflix-stock-because-earnings-192143624.html"
+    },
     {
       "title": "What Does AT&T Stock Do To Your Money When The Market Falls?",
       "summary": "AT&T (T) is up 4.4% over the last five trading days, while the S&P 500 is down 1.1%. Strength in a weak tape pulls money in. That five-day move is not the question. The question is what holding AT&T does to your money when the market moves, because over the past year it has tended to go the other way.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-15T01:16:04Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/comcast-cmcsa-brings-ai-edge-011604986.html"
-    },
-    {
-      "title": "Sector Update: Consumer Stocks Advance Monday Afternoon",
-      "summary": "Consumer stocks were higher Monday afternoon, with the State Street Consumer Staples Select Sector S",
-      "pub_date": "2026-09-14T17:49:58Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-advance-monday-174958227.html"
     }
   ]
 }
