@@ -1,7 +1,21 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-09-16T02:52:02.988714+00:00",
+  "generated_at": "2026-09-16T08:59:44.264249+00:00",
   "items": [
+    {
+      "title": "US Stock Market Today: S&P 500 Futures Edge Higher As Bond Yield Jitters Linger",
+      "summary": "The Morning Bull - US Market Morning Update Wednesday, Sep, 16 2026 US stock futures are pointing slightly higher in early trade, with E-mini S&P 500 contracts up about 0.3% and tech heavy Nasdaq futures ahead roughly 0.4%. The big driver is the US 10 year government bond yield, which briefly touched 5.01% before easing to 4.96%. That is the highest level since 2007 and means borrowing costs for mortgages, credit cards, and companies remain expensive. At the same time, rising government bond...",
+      "pub_date": "2026-09-16T08:12:19Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081219223.html"
+    },
+    {
+      "title": "CLARITY Act Hits A Senate Wall: Crypto CEOs Furious, Senators Defend \u2018No\u2019 Votes \u2014 Some Analysts Say Fight Isn't Over",
+      "summary": "While top leaders of cryptocurrency and fintech firms are disappointed that the Senate failed to pass the CLARITY Act, U.S. Senators who voted against the bill have their own reasons.",
+      "pub_date": "2026-09-16T05:22:19Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/clarity-act-hits-senate-wall-052219415.html"
+    },
     {
       "title": "Bitcoin Slides, Crypto Stocks Decline As Trump-Backed CLARITY Act Fails To Pass Senate Vote",
       "summary": "Bitcoin and crypto-related stocks fell sharply on Tuesday after the Senate failed to advance the CLARITY Act.",
@@ -38,25 +52,11 @@
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-oil-prices-nvidia-stock/?src=A00220&yptr=yahoo"
     },
     {
-      "title": "Stocks Settle Lower as Crude Prices and Bond Yields Surge",
-      "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -0.45% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.63%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down by -0.65%. E-mini S&P futures (ESU26 ) fell -0.44%, and September E-mini...",
-      "pub_date": "2026-09-15T20:34:47Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-lower-crude-prices-203447127.html"
-    },
-    {
       "title": "Nvidia, Coinbase, Skyworks, Axon, Tesla, Applied Aerospace, and More Stocks That Explain Today\u2019s Market",
       "summary": "FEATURE  Stocks declined Tuesday as the yield reached its highest level in 19 years. Investor fears over the selloff in artificial-intelligence stocks eased somewhat. AI-related stocks fared better Tuesday after taking a battering on Monday following calls for a slowdown in AI development.",
       "pub_date": "2026-09-15T20:28:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/stock-movers-bb7c16dd?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Oil Prices Climb Higher",
-      "summary": "Plus, 10-year Treasury yield briefly hits 2007 levels and the Senate deals a blow to crypto industry",
-      "pub_date": "2026-09-15T20:19:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/investing/oil-prices-climb-higher-686a19f2?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

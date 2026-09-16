@@ -1,7 +1,14 @@
 {
   "ticker": "LRCX",
-  "generated_at": "2026-09-16T02:52:34.389937+00:00",
+  "generated_at": "2026-09-16T09:00:05.902279+00:00",
   "items": [
+    {
+      "title": "Bank of America makes bold chip call after AI sell-off",
+      "summary": "The bank sees memory, AI servers, and chip equipment supporting another leg of semiconductor growth.",
+      "pub_date": "2026-09-16T03:07:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bank-america-makes-bold-chip-030700579.html"
+    },
     {
       "title": "Lam Research (LRCX) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
       "summary": "In the closing of the recent trading day, Lam Research (LRCX) stood at $270.7, denoting a -1.02% move from the preceding trading day.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-14T23:55:30Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-lam-research-monolithic-235530873.html"
-    },
-    {
-      "title": "Which Tech Stocks Are Getting Hit Hardest Today",
-      "summary": "The technology sector was the S&P 500's worst performer today, down 1.7%. Here are some of the tech names getting hit hardest:    Corning, down 14% (worst performer in the S&P 500)   Teradyne, down 13%   Coherent, down 13%.",
-      "pub_date": "2026-09-14T20:49:25Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/which-tech-stocks-are-getting-hit-hardest-today-NXMZGdwdwqjvnj32Ghbc?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

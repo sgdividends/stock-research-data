@@ -1,7 +1,21 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-09-16T02:51:49.231769+00:00",
+  "generated_at": "2026-09-16T08:59:35.038135+00:00",
   "items": [
+    {
+      "title": "2 S&P 500 Stocks for Long-Term Investors and 1 Facing Challenges",
+      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn\u2019t mean every stock is worth owning. Some companies face significant challenges, whether it\u2019s stagnating growth, heavy debt, or disruptive new competitors.",
+      "pub_date": "2026-09-16T07:24:37Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-long-072437037.html"
+    },
+    {
+      "title": "Bank of America makes bold chip call after AI sell-off",
+      "summary": "The bank sees memory, AI servers, and chip equipment supporting another leg of semiconductor growth.",
+      "pub_date": "2026-09-16T03:07:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bank-america-makes-bold-chip-030700579.html"
+    },
     {
       "title": "Should You Buy Intel Stock For The Chips It Cannot Yet Make Enough Of?",
       "summary": "Intel (INTC) stock has returned about 295% over the past year, but it has given back 22% over the past three months. It trades roughly 31% below its 52-week high. The question now is what powers the next leg, and the answer is what Intel can build, not what it can sell.",
@@ -38,25 +52,11 @@
       "url": "https://www.investors.com/stock-lists/stocks-near-a-buy-zone/dow-jones-apple-stock-aapl-nvidia-chipmaker-tsm-amd-bloom/?src=A00220&yptr=yahoo"
     },
     {
-      "title": "Stocks Settle Lower as Crude Prices and Bond Yields Surge",
-      "summary": "The S&P 500 Index ($SPX ) (SPY ) closed down by -0.45% on Tuesday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed down by -0.63%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed down by -0.65%. E-mini S&P futures (ESU26 ) fell -0.44%, and September E-mini...",
-      "pub_date": "2026-09-15T20:34:47Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-lower-crude-prices-203447127.html"
-    },
-    {
       "title": "Nvidia, AI Chip Stocks Look To Stem The Bleeding After Sell-Off",
       "summary": "Chip and computer hardware stocks tied to the artificial intelligence buildout attempted a comeback Tuesday after Monday's harsh sell-off.",
       "pub_date": "2026-09-15T20:31:52Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/technology/chip-stocks-nvidia-seek-rebound-after-ai-sell-off/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "What Was Qualcomm Stock Telling You Before It Ran?",
-      "summary": "Qualcomm (QCOM) stock rose 40% between mid-March and mid-September 2026, from near the bottom of its 52-week range, while the S&P 500 gained 15.5%. The market was paying for a data center business moving from talks to purchase orders. That timeline had already been public and had moved earlier, across three quarterly reports.",
-      "pub_date": "2026-09-15T20:26:37Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-telling-ran-202637816.html"
     }
   ]
 }

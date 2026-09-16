@@ -1,7 +1,14 @@
 {
   "ticker": "MA",
-  "generated_at": "2026-09-16T02:52:35.412042+00:00",
+  "generated_at": "2026-09-16T09:00:06.590970+00:00",
   "items": [
+    {
+      "title": "Market Chatter: US, Vietnam Firms Set to Announce Deals During To Lam Visit",
+      "summary": "US and Vietnamese companies are expected to announce a series of agreements in energy, technology, a",
+      "pub_date": "2026-09-16T08:22:19Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-us-vietnam-firms-082219584.html"
+    },
     {
       "title": "Stripe\u2019s Shared Payment Token Is Quietly Becoming the Default Money Layer for Agent Commerce",
       "summary": "The current landscape of agentic commerce is defined by a fragmented trust stack. As AI agents move from simple information retrieval to transactional execution, the industry has struggled to reconcile disparate standards like x402, Google UCP, and Mastercard AP4M. Into this architectural divide, Stripe introduced its Shared Payment Token (SPT) in October 2025, positioning the [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-14T16:16:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/visa-stock-offers-growth-worth-161600235.html"
-    },
-    {
-      "title": "UK banks kick off fundraising in bid to create new payments giant",
-      "summary": "Britain\u2019s biggest banks will this week embark on a process to raise tens of millions of pounds to fund the development of a new payments infrastructure vehicle that could ultimately evolve into a domestic alternative to Mastercard and Visa.  Sky News has learnt that the UK Payments Delivery Company (PDC), a newly formed entity, will on Tuesday launch an equity-raise aimed at creating the country's future payments utility.  The establishment of the PDC and its fundraising represent a significant milestone in Britain's efforts to overhaul payments infrastructure which is viewed as archaic and requiring an overhaul to make it fit for a 21st century advanced economy.",
-      "pub_date": "2026-09-14T15:26:00Z",
-      "source": "Sky News",
-      "url": "https://finance.yahoo.com/news/uk-banks-kick-off-fundraising-152600855.html"
     }
   ]
 }

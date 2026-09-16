@@ -1,6 +1,6 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-09-16T02:52:05.110695+00:00",
+  "generated_at": "2026-09-16T08:59:45.578619+00:00",
   "items": [
     {
       "title": "Cisco president shares thoughts on AI debate",
@@ -15,6 +15,13 @@
       "pub_date": "2026-09-15T22:08:05Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/aristas-third-guidance-raise-still-220805756.html"
+    },
+    {
+      "title": "As Infleqtion Teams Up With Cisco, Here\u2019s How You Should Play INFQ Stock Now",
+      "summary": "Infleqtion is partnering with Cisco Systems to advance quantum networking systems.",
+      "pub_date": "2026-09-15T21:43:31Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/infleqtion-teams-cisco-play-infq-214331803.html"
     },
     {
       "title": "Why Did Cisco Stop Leading With Its Campus Refresh?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-15T15:01:46Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/options/articles/still-want-dell-ai-orders-150146466.html"
-    },
-    {
-      "title": "Can Verizon's 6G Acceleration Initiatives and AI Trials Drive Growth?",
-      "summary": "VZ is advancing 6G with AI-native networks, real-world sensing trials and smart technologies, targeting the 2028 Olympics as a key test.",
-      "pub_date": "2026-09-15T14:28:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/verizons-6g-acceleration-initiatives-ai-142800212.html"
     }
   ]
 }
