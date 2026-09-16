@@ -1,7 +1,42 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-09-16T15:56:12.212194+00:00",
+  "generated_at": "2026-09-16T19:20:25.507102+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Decline Wednesday Afternoon",
+      "summary": "Financial stocks were lower in Wednesday afternoon trading, with the NYSE Financial Index down 0.4%",
+      "pub_date": "2026-09-16T17:56:03Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-decline-wednesday-175603488.html"
+    },
+    {
+      "title": "Bitcoin ETF Outflows Hit $450mn as CLARITY Act Stalls in Senate",
+      "summary": "US spot Bitcoin ETFs lost $450.4 million as the CLARITY Act stalled in the Senate, adding regulatory uncertainty to an already weak crypto market.",
+      "pub_date": "2026-09-16T17:22:52Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etf-outflows-hit-450mn-172252010.html"
+    },
+    {
+      "title": "Circle Launches Arc With BlackRock And Visa A Day After The Senate Blocked CLARITY Act",
+      "summary": "Circle CEO Jeremy Allaire called Arc \"one of the biggest launches\" in the company's history.",
+      "pub_date": "2026-09-16T16:39:04Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/circle-launches-arc-blackrock-visa-163904880.html"
+    },
+    {
+      "title": "CLARITY Act Fails Senate Test \u2014 What This Means for Crypto",
+      "summary": "A Senate procedural vote just handed crypto's biggest legislative push its most serious setback of the year, and two stocks built entirely around that bill's passage are already bleeding. The real question is whether a second vote can happen before Congress disappears for recess.",
+      "pub_date": "2026-09-16T16:35:16Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/clarity-act-fails-senate-test-163516335.html"
+    },
+    {
+      "title": "Bitcoin ETFs Had Their Worst Day Since June Following Failed Clarity Act Vote",
+      "summary": "Bitcoin, Ethereum, and XRP ETFs shed roughly $593 million combined Tuesday, their heaviest single-day drawdown since June.",
+      "pub_date": "2026-09-16T15:50:07Z",
+      "source": "decrypt",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-had-worst-day-155007107.html"
+    },
     {
       "title": "Will Truist's Prime Auto Lending Exit Strengthen Its Profitability?",
       "summary": "TFC's auto lending portfolio sale aims to sharpen its focus on higher growth areas, reduce credit losses and drive modest earnings and ROTCE accretion in 2027.",
@@ -22,41 +57,6 @@
       "pub_date": "2026-09-16T13:52:00Z",
       "source": "CryptoProwl",
       "url": "https://finance.yahoo.com/markets/crypto/articles/circle-unveils-arc-blockchain-135200065.html"
-    },
-    {
-      "title": "Bitcoin ETFs Bleed $450M As CLARITY Act Gets Blocked, But BTC Bulls Brush It Off",
-      "summary": "Fidelity\u2019s FBTC led with $214.8 million outflows, followed by BlackRock\u2019s IBIT with $161.7 million.",
-      "pub_date": "2026-09-16T12:58:24Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-bleed-450m-clarity-125824503.html"
-    },
-    {
-      "title": "What Does BlackRock (BLK) LifePath Solutions Launch Mean For Retirement Plans?",
-      "summary": "BlackRock (NYSE:BLK) introduced LifePath Solutions for U.S. retirement plans, adding private markets and lifetime income features. The LifePath Solutions framework is designed to customize target date retirement portfolios for a wider range of plan sponsors and participants. BlackRock is drawing on its lifecycle investing research to extend tools previously used by larger retirement plans to smaller plans. There is more to BlackRock than the new LifePath Solutions launch alone. Take a look...",
-      "pub_date": "2026-09-16T12:16:44Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-blackrock-blk-lifepath-solutions-121644769.html"
-    },
-    {
-      "title": "Ripple\u2019s RLUSD Is Building the Same Institutional Settlement Thesis as Circle Arc \u2014 Through Acquisitions Instead of Validators",
-      "summary": "The Plumbing of the Future If Circle\u2019s Arc is a high-society dinner party where the guest list\u2014BlackRock, DTCC, Visa\u2014is the main attraction, then Ripple\u2019s strategy for RLUSD is a masterclass in buying the entire restaurant, the supply chain, and the building inspector. While the industry obsesses over who is validating the next block, Ripple is [\u2026]",
-      "pub_date": "2026-09-16T11:08:16Z",
-      "source": "Forkast News",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/ripple-rlusd-building-same-institutional-110816401.html"
-    },
-    {
-      "title": "AI Data-Center Construction Is Sending Tradesmen Across the Country. A Traveling Pipefitter Needs to Know Where His Pension Money Lands.",
-      "summary": "When a union pipefitter follows AI data-center construction from Wisconsin to Virginia to Arizona, his Social Security record travels with him on one clean national ledger. His pension money takes a far messier route, and the difference could cost him decades of retirement income he never knew he was missing.",
-      "pub_date": "2026-09-16T10:02:43Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/small-business/articles/ai-data-center-construction-sending-100243853.html"
-    },
-    {
-      "title": "BlackRock Plans to Make the Corporate 401(k) Look More Like a Pension",
-      "summary": "BlackRock  will offer American workers a chance to invest more like a multibillion-dollar pension.  The world\u2019s largest investment firm by assets under management said it would work with corporate clients to build customizable funds for 401(k) plans that can include slices of public stocks and bonds, private assets and even annuities that provide guaranteed income in retirement.  The new framework aims to resemble the menu of options offered to public-employee pension plans, university endowments and other deep-pocketed institutions that hire firms like BlackRock to manage their money.",
-      "pub_date": "2026-09-16T10:00:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/personal-finance/retirement/how-blackrock-plans-to-make-the-corporate-401-k-look-more-like-a-pension-ace965f9?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

@@ -1,20 +1,34 @@
 {
   "ticker": "UBER",
-  "generated_at": "2026-09-16T15:57:55.552613+00:00",
+  "generated_at": "2026-09-16T19:21:20.015681+00:00",
   "items": [
+    {
+      "title": "Costco expands Uber Eats delivery to 47 states",
+      "summary": "A nationwide expansion puts nearly 600 Costco warehouses inside Uber Eats as competition for everyday spending intensifies.",
+      "pub_date": "2026-09-16T17:55:40Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/media-advertising/articles/costco-expands-uber-eats-delivery-175540758.html"
+    },
+    {
+      "title": "Uber and Costco expand Uber Eats delivery to 47 states",
+      "summary": "Nearly 600 Costco locations are now available on Uber Eats, up from coverage in 17 states previously",
+      "pub_date": "2026-09-16T17:18:40Z",
+      "source": "Quartz",
+      "url": "https://finance.yahoo.com/media-advertising/articles/uber-costco-expand-uber-eats-171840204.html"
+    },
+    {
+      "title": "Wayve brings a new approach to robotaxi race",
+      "summary": "Wayve spent nearly a decade developing a radically different approach to self-driving cars that others ridiculed but then eventually copied. Now comes the harder part: turning it into a business.",
+      "pub_date": "2026-09-16T16:00:06Z",
+      "source": "Axios",
+      "url": "https://finance.yahoo.com/technology/ai/articles/wayve-brings-approach-robotaxi-race-160006725.html"
+    },
     {
       "title": "Tesla Tanked This Year: One Of Tech\u2019s Biggest Bulls Says 70% Are On The Horizon",
       "summary": "Tesla has shed more than 20% this year while the broader market climbs, yet one of Wall Street's loudest technology bulls just doubled down with a target that would require the stock to do something remarkable from here.",
       "pub_date": "2026-09-16T14:35:26Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tanked-one-tech-biggest-143526458.html"
-    },
-    {
-      "title": "Waymo Is Scaling Robotaxis. But Consumer Cars Could Be The Real Prize.",
-      "summary": "Google stock could gain as Waymo expands robotaxis, improves economics and explores licensing AV driving technology for consumer cars.",
-      "pub_date": "2026-09-16T14:02:53Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/google-stock-waymo-robotaxi-auto-makers-licensing/?src=A00220&yptr=yahoo"
     },
     {
       "title": "Uber Expands Costco Delivery To 47 States, Nearly 600 Locations In Major Grocery Push",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-16T10:06:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-100600288.html"
-    },
-    {
-      "title": "Rivian Calls R2 Launch an Inflection Point as Demand, Autonomy Plans Accelerate",
-      "summary": "Rivian Automotive (NASDAQ:RIVN) is entering what founder and CEO RJ Scaringe described as an \u201cinflection point year,\u201d as the electric-vehicle maker begins scaling its R2 midsize SUV and expands its software, autonomy and licensing initiatives. Speaking at a Morgan Stanley event, Scaringe said the R",
-      "pub_date": "2026-09-16T03:02:09Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rivian-calls-r2-launch-inflection-030209405.html"
-    },
-    {
-      "title": "Uber slashes jobs in California after CEO announces staffing cuts",
-      "summary": "The pending layoff notices are dated Sept. 2, the same day Uber CEO Dara Khosrowshahi announced a 10% reduction in staff.",
-      "pub_date": "2026-09-15T23:35:33Z",
-      "source": "USA TODAY",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/uber-slashes-jobs-california-ceo-233533754.html"
     }
   ]
 }

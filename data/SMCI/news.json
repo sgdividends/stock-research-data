@@ -1,7 +1,14 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-09-16T15:57:41.542964+00:00",
+  "generated_at": "2026-09-16T19:21:13.014744+00:00",
   "items": [
+    {
+      "title": "SMCI Has Something Nvidia Doesn\u2019t. Here\u2019s Why That Matters",
+      "summary": "Nvidia designs the chips, but Supermicro builds something around them that Nvidia simply cannot sell you, and that distinction may be exactly what the market keeps getting wrong about SMCI.",
+      "pub_date": "2026-09-16T16:30:37Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/smci-something-nvidia-doesn-t-163037456.html"
+    },
     {
       "title": "Dell Rises 5% Despite Fresh Silver Lake Share Sale Filings; Super Micro Climbs 3%, Hewlett Packard Enterprise Ticks Up",
       "summary": "Silver Lake just filed to sell more Dell shares into a session where the stock is surging, and the server complex is moving like the sponsor notices do not matter at all. Here is why buyers are ignoring the overhang and what the Fed could do to that confidence by afternoon.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-15T12:25:00Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-stock-tumbles-ai-122500184.html"
-    },
-    {
-      "title": "Super Micro Computer (SMCI) Flags IT Control Weakness As Governance Scrutiny Returns",
-      "summary": "Super Micro Computer (NasdaqGS: SMCI) again faces questions over its internal controls after disclosing a material IT control weakness. The disclosure has drawn renewed attention as commentators compare SMCI's internal control framework with hardware peers such as Dell. Fresh warnings from high profile AI leaders about governance risks are adding pressure on how SMCI manages oversight of its AI related business. The renewed focus on Super Micro Computer's material IT control weakness only...",
-      "pub_date": "2026-09-15T09:11:39Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/super-micro-computer-smci-flags-091139487.html"
     }
   ]
 }
