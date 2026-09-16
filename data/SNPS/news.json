@@ -1,7 +1,14 @@
 {
   "ticker": "SNPS",
-  "generated_at": "2026-09-16T09:00:20.487211+00:00",
+  "generated_at": "2026-09-16T15:57:42.345107+00:00",
   "items": [
+    {
+      "title": "Micron Faces New Threat to Its U.S. Memory-Chip Supremacy",
+      "summary": "Micron stock was reacting to news that Intel and SK Hynix are discussing U.S. memory-chip manufacturing.",
+      "pub_date": "2026-09-16T14:03:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/micron-stock-price-memory-chip-threat-67929c3c?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "IonQ Best Paper Awards Highlight Quantum Advances in AI, Hybrid Computing and Life Sciences",
       "summary": "IonQ received four Best Paper Awards ahead of IEEE Quantum Week 2026, highlighting research with commercial and institutional partners across artificial intelligence, engineering and life sciences. Key Investor TakeawaysIonQ (NYSE:IONQ) received four Best Paper Awards from 857 global research submissions ahead of IEEE Quantum Week 2026.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-11T15:45:12Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/options/articles/glad-own-synopsys-discount-while-154512552.html"
-    },
-    {
-      "title": "Is Synopsys Growing Faster, Or Just Bigger?",
-      "summary": "Synopsys (SNPS) sells chip design and verification software, and its revenue is now growing more than four times faster than its own long-run pace. The share price has done the opposite. For anyone holding it, one question is worth settling: is this new speed the pace you now own the company for.",
-      "pub_date": "2026-09-11T01:12:41Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/synopsys-growing-faster-just-bigger-011241682.html"
     }
   ]
 }

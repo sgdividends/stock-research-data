@@ -1,7 +1,14 @@
 {
   "ticker": "BX",
-  "generated_at": "2026-09-16T08:59:40.227361+00:00",
+  "generated_at": "2026-09-16T15:56:14.097190+00:00",
   "items": [
+    {
+      "title": "1 S&P 500 Stock Worth Your Attention and 2 We Turn Down",
+      "summary": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials, or structural headwinds.",
+      "pub_date": "2026-09-16T09:39:49Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-worth-093949978.html"
+    },
     {
       "title": "PNM, Blackstone double ratepayer credits in merger application",
       "summary": "Public Service Company of New Mexico, the state\u2019s largest utility, and Blackstone Infrastructure, the company looking to purchase PNM, more than doubled the amount of rate credits they will provide to ratepayers if the deal closes. The proposed $11.5 billion merger between the state\u2019s largest electric utility and a unit of one of the world\u2019s largest private equity firms, Blackstone Inc., faced ...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-13T21:30:49Z",
       "source": "Benzinga",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dating-apps-shares-crashed-96-213049604.html"
-    },
-    {
-      "title": "Firmus Adds OpenAI. NVIDIA and Blackstone Face Different Sides of the AI Buildout",
-      "summary": "Firmus\u2019 September 8 agreement with OpenAI connects fresh computing demand to two distinct public-market exposures: NVIDIA Corporation (NASDAQ:NVDA), whose platform will power expansion, and Blackstone Inc. (NYSE:BX), whose managed funds led a $10 billion debt financing facility for Firmus\u2019 Australian infrastructure program. OpenAI agreed to contract dedicated computing capacity from two Malaysian sites under a [\u2026]",
-      "pub_date": "2026-09-13T10:51:41Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/firmus-adds-openai-nvidia-blackstone-105141455.html"
     }
   ]
 }

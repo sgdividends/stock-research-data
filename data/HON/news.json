@@ -1,7 +1,14 @@
 {
   "ticker": "HON",
-  "generated_at": "2026-09-16T08:59:58.633086+00:00",
+  "generated_at": "2026-09-16T15:56:55.061929+00:00",
   "items": [
+    {
+      "title": "Should Record Revenue Make IonQ Stock Feel Safer?",
+      "summary": "IonQ (IONQ) stock trades at about $37, roughly 55% below its high inside the last year. The market did not do that: over the past twelve months the S&P 500 returned 16.6% while IonQ lost 33.4%. Its own numbers went the other way, which makes the downside hard to size.",
+      "pub_date": "2026-09-16T12:30:05Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/record-revenue-ionq-stock-feel-123005445.html"
+    },
     {
       "title": "Honeywell Sees Strong Start as Pure-Play Automation Push Gains Momentum",
       "summary": "Honeywell International (NASDAQ:HON) Chairman and CEO Vimal Kapur said the company is seeing stronger-than-expected early-quarter momentum as it begins operating as a more focused automation business following the completed spins of its aerospace and advanced materials operations. Speaking at a Mor",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-14T19:30:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/ge-stock-downgrade-06e25a0c?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Honeywell Aerospace settles with DOJ for $2M over cybersecurity claims",
-      "summary": "The agency accused the manufacturer of failing to comply with contract requirements that fall under DOD\u2019s Cybersecurity Maturity Model Certification program to receive payments.",
-      "pub_date": "2026-09-14T11:54:00Z",
-      "source": "Manufacturing Dive",
-      "url": "https://finance.yahoo.com/technology/ai/articles/honeywell-aerospace-settles-doj-2m-115400716.html"
     }
   ]
 }
