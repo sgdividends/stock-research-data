@@ -1,7 +1,21 @@
 {
   "ticker": "BAC",
-  "generated_at": "2026-09-16T22:33:50.423607+00:00",
+  "generated_at": "2026-09-17T02:55:59.198704+00:00",
   "items": [
+    {
+      "title": "Bank of America sees 60% upside in Everpure stock",
+      "summary": "Bank of America sees a much larger storage opportunity ahead as Everpure expands its foothold with hyperscale data-center customers.",
+      "pub_date": "2026-09-17T02:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sees-60-upside-020300622.html"
+    },
+    {
+      "title": "Bank Of America (BAC) Stock May Be 36% Undervalued After Fee Warning",
+      "summary": "Bank of America has delivered a powerful multiyear run, yet the recent pullback has investors asking whether the current share price is still backed by the returns it earns on its capital. With fresh headlines on interest rates, digital assets, and fee income, the question now is how much of that return profile is already built into the valuation. Over the past 3 years the stock has gained about 117.9%, which puts a lot of weight on whether the bank's underlying return on capital can justify...",
+      "pub_date": "2026-09-16T23:13:12Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-bac-stock-may-231312207.html"
+    },
     {
       "title": "Bank of America Falls 1.4% as Fee Guidance Drops 10%--20%",
       "summary": "A healthy deal pipeline has not prevented management from forecasting weaker third-quarter investment-banking revenue.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-16T14:47:42Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/articles/chip-market-may-heading-3-144742008.html"
-    },
-    {
-      "title": "Bank of America CFO Claims All Is Well as Stock Slides 7% in a Month",
-      "summary": "Bank of America's finance chief went on air to calm investors while the stock quietly slid into its worst month in over a year. The reassurance he offered answers a different question than the one the market is actually asking.",
-      "pub_date": "2026-09-16T14:20:25Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-cfo-claims-well-142025288.html"
-    },
-    {
-      "title": "Circle Unveils New Arc Blockchain",
-      "summary": "Stablecoin developer Circle Internet Group (NYSE: $CRCL) has unveiled a new blockchain called \u201cArc.\u201d",
-      "pub_date": "2026-09-16T13:52:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/circle-unveils-arc-blockchain-135200065.html"
     }
   ]
 }

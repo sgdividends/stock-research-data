@@ -1,6 +1,6 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-09-16T22:33:52.163087+00:00",
+  "generated_at": "2026-09-17T02:56:00.878962+00:00",
   "items": [
     {
       "title": "Circle stock slips despite BlackRock, Mastercard, Visa announcement",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-16T22:10:03Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/markets/crypto/articles/circle-stock-slips-despite-blackrock-221003345.html"
+    },
+    {
+      "title": "ETF League Tables: Inflows of $285M For JMorgan ETFs",
+      "summary": "<p>Table below reflects daily flows on September 15, 2026 and asset totals as of that date.</p>",
+      "pub_date": "2026-09-16T21:00:33Z",
+      "source": "etf.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-inflows-285m-210033559.html"
     },
     {
       "title": "Ethereum vs Solana: Which Wins When Wall Street Moves Stocks On-Chain?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-16T16:39:04Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/crypto/articles/circle-launches-arc-blackrock-visa-163904880.html"
-    },
-    {
-      "title": "CLARITY Act Fails Senate Test \u2014 What This Means for Crypto",
-      "summary": "A Senate procedural vote just handed crypto's biggest legislative push its most serious setback of the year, and two stocks built entirely around that bill's passage are already bleeding. The real question is whether a second vote can happen before Congress disappears for recess.",
-      "pub_date": "2026-09-16T16:35:16Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/clarity-act-fails-senate-test-163516335.html"
     }
   ]
 }

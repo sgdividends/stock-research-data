@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-09-16T22:34:30.949507+00:00",
+  "generated_at": "2026-09-17T02:56:39.159547+00:00",
   "items": [
     {
       "title": "How worried should software, semiconductor stocks be about AI risks?",
@@ -15,6 +15,13 @@
       "pub_date": "2026-09-16T10:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/why-human-emotion-biggest-threat-100000196.html"
+    },
+    {
+      "title": "What Does Hewlett Packard Enterprise (HPE) Gain From These New AI Infrastructure Wins?",
+      "summary": "Hewlett Packard Enterprise (NYSE:HPE) expanded its global AI infrastructure partnership with Oracle, involving HPE Juniper Networking in Oracle AI data centers. The firm also agreed to a large-scale digital modernization project with Tottenham Hotspur Football Club, focused on stadium hybrid cloud and AI infrastructure. Both collaborations highlight new client deployments for HPE across AI data centers and digitally enabled sports venues. The Oracle data center expansion and Spurs stadium...",
+      "pub_date": "2026-09-16T23:13:49Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/does-hewlett-packard-enterprise-hpe-231349928.html"
     },
     {
       "title": "Why OpenAI\u2019s $1.2 Trillion Valuation Can Lift Oracle, CoreWeave From AI Gloom",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-16T17:00:23Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/energy/articles/dte-sitting-ai-era-power-170023692.html"
-    },
-    {
-      "title": "Amazon's AWS Unable to Restore Services in UAE, Bahrain Zones Six Months After Drone Strikes",
-      "summary": "Amazon.com's (AMZN) Amazon Web Services said it could not restore access to cloud-computing infrastr",
-      "pub_date": "2026-09-16T15:23:20Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/articles/amazon-apos-aws-unable-restore-152320781.html"
     }
   ]
 }

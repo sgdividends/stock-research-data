@@ -1,6 +1,6 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-09-16T22:33:57.790600+00:00",
+  "generated_at": "2026-09-17T02:56:06.462617+00:00",
   "items": [
     {
       "title": "The Republicans who voted against the Clarity Act",
@@ -8,6 +8,20 @@
       "pub_date": "2026-09-16T16:59:46Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/republicans-voted-against-clarity-act-165946735.html"
+    },
+    {
+      "title": "Why the Purge of Middle Managers Could Backfire",
+      "summary": "Layers of management help bigger bosses get stuff done. Their loss will come back to bite companies sooner than they realize.",
+      "pub_date": "2026-09-17T01:00:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/lifestyle/careers/why-the-purge-of-middle-managers-could-backfire-6f9168bc?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Stocks to Watch Wednesday Recap: Coinbase, Strategy, Intel, Fraser Group",
+      "summary": "\u2198\ufe0f Coinbase Global (COIN), Strategy (MSTR): Shares of the cryptocurrency firms closed down 4.4% and 2.6%, respectively, after the Senate failed to pass the Clarity Act, a sweeping crypto bill that would have helped usher digital assets into the mainstream financial system.",
+      "pub_date": "2026-09-16T23:08:57Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/fed-meeting-warsh-interest-rate-09-16-2026/card/stocks-to-watch-wednesday-coinbase-strategy-intel-fraser-group-RkoxqTnq1YxvtlvbjnJb?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Robinhood and Coinbase Stocks Trade Down, What You Need To Know",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-16T20:11:47Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-says-crypto-t-201147971.html"
-    },
-    {
-      "title": "X will now let US users trade via Cashtags",
-      "summary": "The move closes the gap between the market discussions taking place on the timeline, and the market itself.",
-      "pub_date": "2026-09-16T19:57:22Z",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/x-now-let-us-users-195722217.html"
-    },
-    {
-      "title": "Crypto Volatility to Stay High as Fed, CLARITY Failure Weigh on Markets",
-      "summary": "Crypto volatility is likely to remain elevated as investors weigh the Federal Reserve\u2019s monetary policy decis...",
-      "pub_date": "2026-09-16T18:50:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-volatility-stay-high-fed-185000456.html"
     }
   ]
 }
