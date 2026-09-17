@@ -1,7 +1,14 @@
 {
   "ticker": "DELL",
-  "generated_at": "2026-09-17T02:56:10.302309+00:00",
+  "generated_at": "2026-09-17T09:06:01.133049+00:00",
   "items": [
+    {
+      "title": "The Competition's Response to Tesla Robotaxi Day",
+      "summary": "Tesla hosted a robotaxi day nearly two years after the robotaxi was first announced.",
+      "pub_date": "2026-09-17T03:31:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/competitions-response-tesla-robotaxi-day-033100552.html"
+    },
     {
       "title": "Did AI Servers Really Quadruple Dell Stock?",
       "summary": "Dell Technologies (DELL) stock has returned 334% over the past year, against 16% for the S&P 500. The easy explanation is AI orders, but it is incomplete. The bigger change is what happened to the rest of Dell.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-16T17:31:33Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/happens-apple-stock-margin-keeps-173133533.html"
-    },
-    {
-      "title": "Prediction: Dell's AI Server Backlog Makes It a Sneaky Way to Play the Nvidia Supercycle",
-      "summary": "Dell Technologies has delivered incredible returns to investors in 2026, and it isn't done soaring yet.",
-      "pub_date": "2026-09-16T16:40:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/technology/ai/articles/prediction-dells-ai-server-backlog-164000732.html"
     }
   ]
 }

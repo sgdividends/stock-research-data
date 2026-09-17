@@ -1,7 +1,14 @@
 {
   "ticker": "MA",
-  "generated_at": "2026-09-17T02:56:31.878864+00:00",
+  "generated_at": "2026-09-17T09:06:21.545512+00:00",
   "items": [
+    {
+      "title": "Meme Coin Launchpads Captured 82% of Arc's First Day Trading Volume",
+      "summary": "Meme coin launchpads captured 82% of Arc's $410.8 million first-day DEX volume as Circle's chain went live.",
+      "pub_date": "2026-09-17T07:28:53Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/meme-coin-launchpads-captured-82-072853066.html"
+    },
     {
       "title": "Should You Buy PayPal Stock For Its Credit Business?",
       "summary": "PayPal (PYPL) has gained 27% over the past three months while the S&P 500 returned 0.7%. Over the trailing twelve months, the stock is still down 18.7%, so the whole gain is recent. A gain that recent still needs an operating reason to hold, and management points to what PayPal lends, not to the checkout button.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-16T10:51:00Z",
       "source": "Payments Dive",
       "url": "https://finance.yahoo.com/markets/articles/visa-mastercard-settle-grubhub-case-105100068.html"
-    },
-    {
-      "title": "Circle Arc\u2019s Validator Set Tells You Who Will Control the Next Settlement Layer",
-      "summary": "Circle Arc went live today, September 16, 2026, as an open, EVM-compatible Layer 1 blockchain. The network arrives exactly one day after the CLARITY Act failed a cloture vote in the U.S. Senate, leaving a regulatory vacuum that Circle is now attempting to fill through private-sector consensus rather than federal mandate. By positioning itself as [\u2026]",
-      "pub_date": "2026-09-16T09:16:19Z",
-      "source": "Forkast News",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/circle-arc-validator-set-tells-091619476.html"
     }
   ]
 }

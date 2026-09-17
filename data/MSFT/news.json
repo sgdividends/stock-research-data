@@ -1,6 +1,6 @@
 {
   "ticker": "MSFT",
-  "generated_at": "2026-09-17T02:56:35.280524+00:00",
+  "generated_at": "2026-09-17T09:06:24.831629+00:00",
   "items": [
     {
       "title": "How worried should software, semiconductor stocks be about AI risks?",
@@ -15,6 +15,27 @@
       "pub_date": "2026-09-16T10:00:00Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/death-of-software-greatly-overstated-as-sector-flips-the-script-on-chip-stocks-chart-of-the-day-100000695.html"
+    },
+    {
+      "title": "Market Chatter: Apollo Global Weighs Boosting SoftBank Loan to $9 Billion for OpenAI Investment",
+      "summary": "Apollo Global Management (APO) is in discussions with SoftBank to increase the size of a loan to $9",
+      "pub_date": "2026-09-17T08:31:47Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-apollo-global-weighs-083147739.html"
+    },
+    {
+      "title": "This Quantum Start-Up Just Sold a Computer in an Untapped Market",
+      "summary": "Two months after its public listing, IQM has agreed to sell a system to a research institution in Brazil.",
+      "pub_date": "2026-09-17T07:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/iqm-quantum-brazil-ab598e25?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "What Does Microsoft (MSFT) Gain From Using AI In Nuclear Reactor Licensing?",
+      "summary": "Microsoft (NasdaqGS:MSFT) and Swedish nuclear company Blykalla announced a partnership to apply AI to nuclear reactor licensing processes. The collaboration will use Microsoft's GenAI for Energy Permitting Solution Accelerator within Blykalla's regulatory workflows in Sweden and the U.S. The project targets faster permitting and licensing for advanced nuclear reactors, a frequent bottleneck for clean energy deployment timelines. Microsoft's work with Blykalla on AI driven nuclear permitting...",
+      "pub_date": "2026-09-17T05:14:47Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/does-microsoft-msft-gain-using-051447713.html"
     },
     {
       "title": "archTIS secures US regional bank contract as Spirion gains commercial traction",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-16T21:41:12Z",
       "source": "BeInCrypto",
       "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ipo-underwriter-says-ai-214112519.html"
-    },
-    {
-      "title": "Microsoft Slips as Its Quarterly Dividend Climbs 8%",
-      "summary": "The increase rewards shareholders while Microsoft continues funding a rapidly expanding cloud and AI platform",
-      "pub_date": "2026-09-16T20:55:08Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-slips-quarterly-dividend-climbs-205508714.html"
-    },
-    {
-      "title": "Microsoft Leads S&P 500 Stocks Going Nowhere",
-      "summary": "A year of stagnation is setting up an important test",
-      "pub_date": "2026-09-16T19:59:12Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-leads-p-500-stocks-195912814.html"
-    },
-    {
-      "title": "Sector Update: Tech Stocks Mixed Late Afternoon",
-      "summary": "Tech stocks were mixed late Wednesday afternoon, with the State Street Technology Select Sector SPDR",
-      "pub_date": "2026-09-16T19:53:24Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/articles/sector-tech-stocks-mixed-afternoon-195324220.html"
     }
   ]
 }
