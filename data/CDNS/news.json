@@ -1,7 +1,21 @@
 {
   "ticker": "CDNS",
-  "generated_at": "2026-09-17T09:05:54.863810+00:00",
+  "generated_at": "2026-09-17T16:02:40.827437+00:00",
   "items": [
+    {
+      "title": "Should Analog Devices\u2019 New SHARC-FX Auto Audio Deal Shift the AI IP Story for Cadence (CDNS)?",
+      "summary": "In September 2026, Analog Devices announced it had worked with Cadence\u2019s Tensilica IP Group to create the new SHARC-FX automotive audio processors for its ADSP-SC84x/2184x platform, moving to 16nm technology and adding enhanced AI, audio, and security capabilities for software-defined vehicles. This collaboration extends Cadence\u2019s DSP architecture deeper into automotive edge compute, aligning its IP business with emerging in-cabin AI audio and voice applications. Next, we\u2019ll examine how...",
+      "pub_date": "2026-09-17T14:15:32Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/analog-devices-sharc-fx-auto-141532701.html"
+    },
+    {
+      "title": "What Is Cadence Design Systems (CDNS) Gaining From Its New Automotive AI Audio Push?",
+      "summary": "Cadence Design Systems (NasdaqGS:CDNS) is working with Analog Devices on new SHARC-FX automotive audio processors with AI and machine learning features. The SHARC-FX platform targets in-car audio and voice processing for software-defined vehicles that rely on real-time signal processing. The collaboration combines Cadence DSP core technology with Analog Devices hardware to support complex audio workloads in next-generation car architectures. The SHARC-FX automotive audio AI partnership is...",
+      "pub_date": "2026-09-17T10:11:34Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cadence-design-systems-cdns-gaining-101134770.html"
+    },
     {
       "title": "Should You Buy Synopsys Stock While Its Cash Runs Far Ahead Of Its Profit?",
       "summary": "Synopsys (SNPS) sells the design software and the interface IP that chip makers need to get AI silicon built, and its stock has still gone backwards over the past year. At about $370 the shares sit at their 52-week low. Reported margins have fallen sharply over the past year. Free cash flow tells a different story, and the gap between cash and reported profit is the case worth arguing here.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-14T21:50:04Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cadence-design-systems-cdns-declines-215004950.html"
-    },
-    {
-      "title": "Prediction: Synopsys Could Be The Next AI Winner",
-      "summary": "Synopsys has taken a beating this year while its fundamentals moved sharply in the opposite direction, and that gap between price and earnings power is exactly where our model tends to find its best setups.",
-      "pub_date": "2026-09-12T15:00:16Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/prediction-synopsys-could-next-ai-150016496.html"
-    },
-    {
-      "title": "Would You Be Glad To Own Synopsys At A Discount While AI Tests Its Software?",
-      "summary": "Synopsys (SNPS) trades about 26% below its 52-week high after falling about 34% over the past year. You can be paid now to agree to buy it well below today's price, and you keep that payment either way. The catch is that you must want the business. One analyst says investors constantly ask whether AI could disrupt the kind of software Synopsys sells, and that a school of thought asks whether AI could design chips end to end without it.",
-      "pub_date": "2026-09-11T15:45:12Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/glad-own-synopsys-discount-while-154512552.html"
     }
   ]
 }

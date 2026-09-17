@@ -1,7 +1,49 @@
 {
   "ticker": "MA",
-  "generated_at": "2026-09-17T09:06:21.545512+00:00",
+  "generated_at": "2026-09-17T16:03:16.125178+00:00",
   "items": [
+    {
+      "title": "Is Small-Business Demand Creating New Growth Levers for Mastercard?",
+      "summary": "MA is targeting small-business demand for integrated tools, cybersecurity and premium features to deepen relationships beyond card payments.",
+      "pub_date": "2026-09-17T14:29:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/small-business/articles/small-business-demand-creating-growth-142900939.html"
+    },
+    {
+      "title": "Is Being Indian a Fraud Signal? Arc Traders Sold Like It Is",
+      "summary": "A BlackRock-validated chain, a launch livestream, and a man in a gaming chair. Within an hour, Arc traders were selling. Why?",
+      "pub_date": "2026-09-17T13:39:33Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/being-indian-fraud-signal-arc-133933982.html"
+    },
+    {
+      "title": "Mastercard Joins Visa in Rolling Out AI Bots That Can Do Your Shopping",
+      "summary": "American Express is also readying its system for agentic bots that do shopping on behalf of cardholders.",
+      "pub_date": "2026-09-17T13:32:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/ai/mastercard-inks-deal-as-payment-giants-brace-for-new-era-of-ai-shopping-eb22da8b?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Update: Market Chatter: US, Vietnam Firms Set to Announce Deals During To Lam Visit",
+      "summary": "(Updates with Citi's comment in the seventh paragraph.) US and Vietnamese companies are expected",
+      "pub_date": "2026-09-17T11:33:10Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-us-vietnam-firms-113310368.html"
+    },
+    {
+      "title": "5 Checkout Standards, 3% Adoption: The Protocol Proliferation Tax Killing Agent Commerce",
+      "summary": "AI agents excel at product discovery, but they struggle to close the deal. While 132 million U.S. adults have used AI to assist in a retail purchase, according to PYMNTS Intelligence, the actual conversion rate for these autonomous systems remains stuck. Only 3% of transactions currently involve agents, revealing a massive chasm between finding an [\u2026]",
+      "pub_date": "2026-09-17T11:26:53Z",
+      "source": "Forkast News",
+      "url": "https://finance.yahoo.com/technology/ai/articles/5-checkout-standards-3-adoption-112653128.html"
+    },
+    {
+      "title": "World Bank boosts private capital mobilization to record $112 billion",
+      "summary": "By Andrea Shalal WASHINGTON, Sept 17 (Reuters) - The World Bank on Thursday said it attracted $112 billion in private capital in the year ended June versus $69 billion a year earlier, and more than",
+      "pub_date": "2026-09-17T11:11:39Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/world-bank-boosts-private-capital-111139843.html"
+    },
     {
       "title": "Meme Coin Launchpads Captured 82% of Arc's First Day Trading Volume",
       "summary": "Meme coin launchpads captured 82% of Arc's $410.8 million first-day DEX volume as Circle's chain went live.",
@@ -15,48 +57,6 @@
       "pub_date": "2026-09-17T00:41:49Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/buy-paypal-stock-credit-business-004149827.html"
-    },
-    {
-      "title": "Circle stock slips despite BlackRock, Mastercard, Visa announcement",
-      "summary": "Circle\u2019s Arc mainnet counts BlackRock, Mastercard, and Visa among its founding validator cohort.",
-      "pub_date": "2026-09-16T22:10:03Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/circle-stock-slips-despite-blackrock-221003345.html"
-    },
-    {
-      "title": "Mastercard Slips as AI Payments Trade Exclusivity for Scale",
-      "summary": "Shared agent identity can reduce integration costs while making competing payment networks easier to connect.",
-      "pub_date": "2026-09-16T17:08:26Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mastercard-slips-ai-payments-trade-170826967.html"
-    },
-    {
-      "title": "Circle Launches Arc With BlackRock And Visa A Day After The Senate Blocked CLARITY Act",
-      "summary": "Circle CEO Jeremy Allaire called Arc \"one of the biggest launches\" in the company's history.",
-      "pub_date": "2026-09-16T16:39:04Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/circle-launches-arc-blackrock-visa-163904880.html"
-    },
-    {
-      "title": "Visa vs. Mastercard: Which Payment Stock Has More Upside?",
-      "summary": "MA edges V on expected EPS growth and strategic expansion in AI and digital assets, supported by Agent Pay, BVNK and value-added services.",
-      "pub_date": "2026-09-16T16:12:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/visa-vs-mastercard-payment-stock-161200467.html"
-    },
-    {
-      "title": "Circle Launches Arc Mainnet With BlackRock, DTCC and Visa as Validators",
-      "summary": "The Layer 1 network\u2019s validator set is permissioned, and Circle has minted 10 billion ARC tokens without committing to publicly launch them.",
-      "pub_date": "2026-09-16T14:56:02Z",
-      "source": "decrypt",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/circle-launches-arc-mainnet-blackrock-145602831.html"
-    },
-    {
-      "title": "Visa, Mastercard settle Grubhub case",
-      "summary": "The final settlements in a federal lawsuit over credit card swipe fees, led by the food delivery company, came on the eve of a trial in Chicago.",
-      "pub_date": "2026-09-16T10:51:00Z",
-      "source": "Payments Dive",
-      "url": "https://finance.yahoo.com/markets/articles/visa-mastercard-settle-grubhub-case-105100068.html"
     }
   ]
 }

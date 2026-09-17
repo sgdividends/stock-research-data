@@ -1,7 +1,21 @@
 {
   "ticker": "DDOG",
-  "generated_at": "2026-09-17T09:06:00.787679+00:00",
+  "generated_at": "2026-09-17T16:02:48.036781+00:00",
   "items": [
+    {
+      "title": "2 Software Stocks on Our Watchlist and 1 Facing Challenges",
+      "summary": "Software is eating the world, and virtually no business is left untouched by it. Companies bringing it to life have been rewarded with explosive earnings growth, and the upward trend shows no signs of stopping as the industry has posted a 37.4% gain over the past six months, beating the S&P 500 by 24.5 percentage points.",
+      "pub_date": "2026-09-17T11:30:17Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-software-stocks-watchlist-1-113017657.html"
+    },
+    {
+      "title": "3 Cybersecurity Stocks With AI Risk Demand Investors Should Watch",
+      "summary": "AI misfires at OpenAI have pushed safety, governance, and cybersecurity from background concern to front-page risk, and that shift creates real consequences for capital. When regulators, boards, and customers start asking harder questions, money often follows the tools that can answer them. This piece walks through three stocks exposed to these AI risk headlines and explains why some investors are watching them closely right now. The stocks covered in this piece are just a starter sample, and...",
+      "pub_date": "2026-09-17T10:11:28Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/3-cybersecurity-stocks-ai-risk-101128510.html"
+    },
     {
       "title": "Datadog's Chief Product Officer Sells 12,700 Shares for $2.8 Million as the Stock Delivers a 59% One-Year Return",
       "summary": "The provider of cloud-based monitoring and analytics solutions reported a notable insider sale amid a rising stock price.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-14T13:00:04Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-datadog-inc-130004563.html"
-    },
-    {
-      "title": "French AI boom exposes Europe\u2019s funding gap as startups turn to U.S.",
-      "summary": "Investing.com -- France is producing a growing number of high-value artificial intelligence and technology companies, but their success is also highlighting Europe\u2019s shortage of late-stage capital compared with the U.S., according to Bloomberg.",
-      "pub_date": "2026-09-13T10:20:55Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/french-ai-boom-exposes-europe-102055012.html"
-    },
-    {
-      "title": "Datadog Conference: CEO Says AI and Enterprise Growth Are Accelerating",
-      "summary": "Datadog (NASDAQ:DDOG) CEO and Founder Olivier Pomel said the company is seeing accelerating growth across both AI-focused customers and its broader enterprise customer base as organizations expand cloud and artificial-intelligence deployments. Speaking with Citi enterprise software analyst Fatima B",
-      "pub_date": "2026-09-13T09:01:58Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/technology/ai/articles/datadog-conference-ceo-says-ai-090158360.html"
     }
   ]
 }

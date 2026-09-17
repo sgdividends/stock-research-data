@@ -1,7 +1,28 @@
 {
   "ticker": "ADI",
-  "generated_at": "2026-09-17T09:05:44.085611+00:00",
+  "generated_at": "2026-09-17T16:02:28.625149+00:00",
   "items": [
+    {
+      "title": "Can ADI's Industrial Segment Sustain Its Momentum Through 2026?",
+      "summary": "Analog Devices' Industrial segment surges 53% year over year in fiscal Q3 2026, but intense competition and inventory trends could shape its next phase.",
+      "pub_date": "2026-09-17T15:00:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/adis-industrial-segment-sustain-momentum-150000305.html"
+    },
+    {
+      "title": "Should Analog Devices\u2019 New SHARC-FX Auto Audio Deal Shift the AI IP Story for Cadence (CDNS)?",
+      "summary": "In September 2026, Analog Devices announced it had worked with Cadence\u2019s Tensilica IP Group to create the new SHARC-FX automotive audio processors for its ADSP-SC84x/2184x platform, moving to 16nm technology and adding enhanced AI, audio, and security capabilities for software-defined vehicles. This collaboration extends Cadence\u2019s DSP architecture deeper into automotive edge compute, aligning its IP business with emerging in-cabin AI audio and voice applications. Next, we\u2019ll examine how...",
+      "pub_date": "2026-09-17T14:15:32Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/analog-devices-sharc-fx-auto-141532701.html"
+    },
+    {
+      "title": "What Is Cadence Design Systems (CDNS) Gaining From Its New Automotive AI Audio Push?",
+      "summary": "Cadence Design Systems (NasdaqGS:CDNS) is working with Analog Devices on new SHARC-FX automotive audio processors with AI and machine learning features. The SHARC-FX platform targets in-car audio and voice processing for software-defined vehicles that rely on real-time signal processing. The collaboration combines Cadence DSP core technology with Analog Devices hardware to support complex audio workloads in next-generation car architectures. The SHARC-FX automotive audio AI partnership is...",
+      "pub_date": "2026-09-17T10:11:34Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cadence-design-systems-cdns-gaining-101134770.html"
+    },
     {
       "title": "TXN's Data Center Sales Double: Will This Growth Rate Continue in 2026?",
       "summary": "Texas Instruments' data center sales double in Q2'26 as AI spending, rising chip content and capacity support growth.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-14T20:10:13Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/ai-data-center-driven-communications-201013340.html"
-    },
-    {
-      "title": "Texas Instruments Is Up 55% in 2026: This Is the Secret Tech Stock You\u2019re Missing Out On",
-      "summary": "While Wall Street obsesses over AI compute chips, one analog giant has quietly outpaced the S&P 500 by a factor of five this year, and the reason has nothing to do with artificial intelligence.",
-      "pub_date": "2026-09-14T19:08:56Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/texas-instruments-55-2026-secret-190856222.html"
-    },
-    {
-      "title": "ADI's Communications Segment Surges on AI Demand: What's Ahead?",
-      "summary": "Analog Devices' Communications revenues surge on AI data center demand, with optical, power and connectivity trends driving growth.",
-      "pub_date": "2026-09-14T14:29:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/adis-communications-segment-surges-ai-142900496.html"
-    },
-    {
-      "title": "Analog Devices Wants Robots to Think Without Nvidia | Is ADI the Next Big AI Stock?",
-      "summary": "Analog Devices just spent up to $200 million to put AI decision-making inside robots and pacemakers, bypassing the cloud entirely. Whether that bet makes ADI the next great AI hardware winner depends on a market most investors have never thought about.",
-      "pub_date": "2026-09-10T17:30:43Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/analog-devices-wants-robots-think-173043150.html"
     }
   ]
 }

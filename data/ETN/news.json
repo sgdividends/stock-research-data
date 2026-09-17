@@ -1,7 +1,21 @@
 {
   "ticker": "ETN",
-  "generated_at": "2026-09-17T09:06:05.994846+00:00",
+  "generated_at": "2026-09-17T16:02:55.711295+00:00",
   "items": [
+    {
+      "title": "Could Eaton Stock Lose A Third Or Gain Half In A Year?",
+      "summary": "Eaton (ETN) shares trade near $398, and its options price a one-year range from about $268 to about $591. That spans a fall of about a third and a gain of nearly half. The width is no panic signal: it matches how hard this stock has actually moved over the past year. The business case rests on a factory build-out management calls its clear priority.",
+      "pub_date": "2026-09-17T14:11:50Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/could-eaton-stock-lose-third-141150535.html"
+    },
+    {
+      "title": "Eaton Sees Best Years Ahead as Data Center Demand Powers Growth",
+      "summary": "Eaton (NYSE:ETN) Chief Executive Officer Paulo Ruiz told investors at Morgan Stanley\u2019s Laguna Conference that the company\u2019s strategy is gaining momentum, supported by strong electrical-market demand, manufacturing capacity additions and a portfolio increasingly focused on data centers and aerospace.",
+      "pub_date": "2026-09-17T09:02:10Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/technology/articles/eaton-sees-best-years-ahead-090210065.html"
+    },
     {
       "title": "Should You Get Paid To Wait Out Vertiv's Learning Curve?",
       "summary": "Vertiv (VRT) makes the power and cooling systems that keep AI data centers running, and the stock trades about 38% below its 52-week high. Selling a put pays you now for agreeing to buy it lower, and the payment is yours whether or not you own the shares. The catch is what knocked the stock down: Vertiv is learning to ship projects far bigger than it used to.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-14T22:30:56Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-guided-itself-steep-second-223056530.html"
-    },
-    {
-      "title": "GE Vernova Stock Can Fall 50%, According to New Sell Rating",
-      "summary": "GLJ Research analyst Gordon Johnson launched coverage of GE Vernova stock with a Sell rating and $470 price target.",
-      "pub_date": "2026-09-14T20:05:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/ge-vernova-stock-price-sell-rating-e9efd969?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "FCEL's Microgrids Strengthen Power Reliability and Resilience",
-      "summary": "FuelCell Energy is pairing continuous fuel-cell generation with batteries and controls to broaden microgrid use for demanding facilities.",
-      "pub_date": "2026-09-14T17:57:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/energy/articles/fcels-microgrids-strengthen-power-reliability-175700137.html"
     }
   ]
 }
