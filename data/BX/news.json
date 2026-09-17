@@ -1,7 +1,21 @@
 {
   "ticker": "BX",
-  "generated_at": "2026-09-17T16:02:39.134225+00:00",
+  "generated_at": "2026-09-17T22:35:48.332233+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Mixed Late Afternoon",
+      "summary": "Financial stocks were mixed in late Thursday afternoon trading, with the NYSE Financial Index rising",
+      "pub_date": "2026-09-17T19:57:38Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-mixed-afternoon-195738170.html"
+    },
+    {
+      "title": "Sector Update: Financial Stocks Rise Thursday Afternoon",
+      "summary": "Financial stocks were advancing in Thursday afternoon trading, with the NYSE Financial Index rising",
+      "pub_date": "2026-09-17T17:57:53Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-rise-thursday-175753865.html"
+    },
     {
       "title": "GFL shares surge on report of PE bidding war",
       "summary": "GFL shares surged 8% in pre-open trading Thursday, with CEO Patrick Dovigi stating explicitly that the company is open to a deal above the current market price.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-16T03:11:00Z",
       "source": "Albuquerque Journal, N.M.",
       "url": "https://finance.yahoo.com/energy/articles/pnm-blackstone-double-ratepayer-credits-031100549.html"
-    },
-    {
-      "title": "Blackstone Sees Earnings Boom Fueling AI, Infrastructure and Fundraising Growth",
-      "summary": "Blackstone (NYSE:BX) CFO Michael Chae said the firm sees a constructive backdrop for corporate profits, investment deployment and fundraising, citing accelerating earnings growth, expanding margins and demand for capital across infrastructure, private credit and private wealth markets. Speaking at",
-      "pub_date": "2026-09-16T02:02:31Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/technology/ai/articles/blackstone-sees-earnings-boom-fueling-020231672.html"
-    },
-    {
-      "title": "Blackstone Says Private Credit\u2019s \u2018Global Crisis\u2019 Fears Are Overblown",
-      "summary": "Blackstone (NYSE:BX) President and COO Jon Gray says investor confidence in private credit will recover and inflows will return despite redemption pressure at the firm\u2019s $77 billion private credit fund and broader concerns about valuations and underwriting. \"Over time, investor...",
-      "pub_date": "2026-09-15T20:52:18Z",
-      "source": "Benzinga Private Markets",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/blackstone-says-private-credit-global-205218432.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "DE",
-  "generated_at": "2026-09-17T16:02:48.149749+00:00",
+  "generated_at": "2026-09-17T22:35:58.432938+00:00",
   "items": [
+    {
+      "title": "Stocks Soar as Fed Uncertainty Fades: Stock Market Today",
+      "summary": "The main indexes finished higher Thursday thanks to easing bond yields and surging tech stocks.",
+      "pub_date": "2026-09-17T20:11:35Z",
+      "source": "Kiplinger",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-soar-fed-uncertainty-fades-201135333.html"
+    },
     {
       "title": "Bear of the Day: AGCO (AGCO)",
       "summary": "Agricultural equipment maker AGCO is facing a more difficult operating environment as weaker farm-equipment demand weighs on its earnings outlook.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-14T19:07:30Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-outperformers-deere-nyse-190730542.html"
-    },
-    {
-      "title": "Caterpillar Falls 4% While Deere Edges Higher: Is the Data Center Power Trade Unwinding?",
-      "summary": "Two AI executives published essays over a weekend, and by Monday morning Caterpillar was selling off four times faster than the broader market while Deere climbed. The question is whether the order book that stretches into 2029 actually matters when sentiment turns this fast.",
-      "pub_date": "2026-09-14T15:40:49Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-falls-4-while-deere-154049131.html"
     }
   ]
 }
