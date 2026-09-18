@@ -1,6 +1,6 @@
 {
   "ticker": "NDAQ",
-  "generated_at": "2026-09-18T08:40:45.086113+00:00",
+  "generated_at": "2026-09-18T15:38:48.438772+00:00",
   "items": [
     {
       "title": "Former Hut 8 CEO To Lead Crypto Miner Fortitude",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-17T18:14:00Z",
       "source": "CryptoProwl",
       "url": "https://finance.yahoo.com/markets/crypto/articles/former-hut-8-ceo-lead-181400586.html"
+    },
+    {
+      "title": "Analysts See Double-Digit Upside for These 3 Stocks",
+      "summary": "Nasdaq, Arista Networks, and Mastercard each hold a Buy consensus with double-digit implied upside, offering analysts' distinct views across exchanges, AI networking, and payments.",
+      "pub_date": "2026-09-17T11:15:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-see-double-digit-upside-111500436.html"
     },
     {
       "title": "CME Group Rises 5.8% in a Year: How Should You Play the Stock?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-11T18:44:00Z",
       "source": "CryptoProwl",
       "url": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-rate-hike-expectations-184400665.html"
-    },
-    {
-      "title": "How Is Nasdaq's Stock Performance Compared to Other Capital Markets Stocks?",
-      "summary": "Nasdaq has underperformed the Capital Markets industry over the past year, but analysts are highly optimistic about the stock\u2019s prospects.",
-      "pub_date": "2026-09-11T13:31:52Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaqs-stock-performance-compared-other-133152812.html"
     }
   ]
 }

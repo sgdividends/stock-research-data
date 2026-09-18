@@ -1,7 +1,14 @@
 {
   "ticker": "ICE",
-  "generated_at": "2026-09-18T08:40:33.343548+00:00",
+  "generated_at": "2026-09-18T15:38:36.489487+00:00",
   "items": [
+    {
+      "title": "SEC Opens U.S. Door to Tokenized Stocks: Is Robinhood a Buy Now?",
+      "summary": "HOOD gains a potential U.S. tokenized-stock pathway under the SEC exemption, but compliance hurdles and rising competition temper the near-term impact.",
+      "pub_date": "2026-09-18T13:03:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sec-opens-u-door-tokenized-130300708.html"
+    },
     {
       "title": "SEC Allows Tokenized Stocks After Clarity Act Falters",
       "summary": "The government watchdog of Wall Street announced the long-expected move on Thursday. The decision could transform U.S. stock exchanges.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-14T12:11:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/beat-market-zacks-way-figs-121100982.html"
-    },
-    {
-      "title": "Why Mortgage Bonds Are at Risk if Rates Rise\u2014and if They Fall",
-      "summary": "There were nearly 15 million active, primary mortgage loans in the U.S. with rates under 3% as of the end of 2021, according to Intercontinental Exchange data.  Many homeowners were shielded from surging interest rates in 2022 with locked-in rates.  A much bigger portion of the mortgage market is now eager to refinance if rates fall and will be put off from doing so by rising rates.",
-      "pub_date": "2026-09-14T09:30:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/why-mortgage-bonds-are-at-risk-if-rates-riseand-if-they-fall-ff897dd5?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

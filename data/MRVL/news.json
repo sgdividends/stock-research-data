@@ -1,7 +1,28 @@
 {
   "ticker": "MRVL",
-  "generated_at": "2026-09-18T08:40:43.706844+00:00",
+  "generated_at": "2026-09-18T15:38:47.280009+00:00",
   "items": [
+    {
+      "title": "Can GFS' Marvell Deal for SiGe Capacity Expansion Accelerate Growth?",
+      "summary": "GlobalFoundries is boosting SiGe capacity for MRVL as AI and cloud data centers drive demand for high-speed optical connectivity.",
+      "pub_date": "2026-09-18T15:19:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/articles/gfs-marvell-deal-sige-capacity-151900054.html"
+    },
+    {
+      "title": "One stock is up 540%, and it's not alone",
+      "summary": "Some of the market's strongest large-cap performers are clustering around chips, memory and AI infrastructure.",
+      "pub_date": "2026-09-18T12:27:38Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/one-stock-540-not-alone-122738308.html"
+    },
+    {
+      "title": "GlobalFoundries and Marvell agree on SiGe technology expansion",
+      "summary": "The companies aim to ramp up SiGe production in Vermont to meet rising demand for faster AI data-centre connectivity.",
+      "pub_date": "2026-09-18T10:43:51Z",
+      "source": "Verdict",
+      "url": "https://finance.yahoo.com/technology/ai/articles/globalfoundries-marvell-agree-sige-technology-104351660.html"
+    },
     {
       "title": "Marvell Technology (MRVL) Deepens Its AI Infrastructure Footprint",
       "summary": "Marvell Technology (NasdaqGS:MRVL) announced new collaborations with GlobalFoundries, Microsoft and Utimaco focused on advanced connectivity and payment security. The GlobalFoundries partnership targets expanded production of advanced SiGe chips used in next generation optical links for AI data centers. Marvell is working with Microsoft and Utimaco to provide a cloud native payment security platform delivered through Microsoft Azure. These GlobalFoundries and Azure payment security deals...",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-17T19:44:03Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-gain-afternoon-194403065.html"
-    },
-    {
-      "title": "Microsoft Jumps as Azure Turns Payment Vaults Into a Service",
-      "summary": "Cloud-managed security can simplify payment infrastructure, but pricing and customer commitments remain undisclosed.",
-      "pub_date": "2026-09-17T18:08:55Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/articles/microsoft-jumps-azure-turns-payment-180855716.html"
-    },
-    {
-      "title": "Marvell Jumps 5.2% as AI Optics Win More U.S. Capacity",
-      "summary": "The manufacturing agreement protects future supply, but neither volume nor contract economics were disclosed.",
-      "pub_date": "2026-09-17T18:07:02Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/marvell-jumps-5-2-ai-180702375.html"
-    },
-    {
-      "title": "GlobalFoundries and Marvell expand SiGe deal for AI data centers",
-      "summary": "Globalfoundries Inc (NASDAQ:GFS) and Marvell Technology Inc (NASDAQ:MRVL) expanded their multiyear manufacturing agreement to increase semiconductor production capacity as growing AI data centers fuel demand for faster optical connections. The agreement will boost production capacity at...",
-      "pub_date": "2026-09-17T14:45:00Z",
-      "source": "Proactive",
-      "url": "https://finance.yahoo.com/technology/ai/articles/globalfoundries-marvell-expand-sige-deal-144500612.html"
     }
   ]
 }

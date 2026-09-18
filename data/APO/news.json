@@ -1,7 +1,14 @@
 {
   "ticker": "APO",
-  "generated_at": "2026-09-18T08:40:05.367048+00:00",
+  "generated_at": "2026-09-18T15:38:06.932974+00:00",
   "items": [
+    {
+      "title": "Update: US Equity Futures Mixed Pre-Bell as Major Averages Rebound After Fed-Induced Sell-Off",
+      "summary": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
+      "pub_date": "2026-09-18T12:53:06Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-mixed-pre-125306224.html"
+    },
     {
       "title": "Sector Update: Financial Stocks Mixed Late Afternoon",
       "summary": "Financial stocks were mixed in late Thursday afternoon trading, with the NYSE Financial Index rising",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-17T08:31:47Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-apollo-global-weighs-083147739.html"
-    },
-    {
-      "title": "Apollo Mulls Raising SoftBank Loan to $9 Billion for OpenAI Bets",
-      "summary": "Apollo Global Management Inc. is in talks with SoftBank Group Corp. about boosting the size of a loan to $9 billion from $5.4 billion to help the Japanese firm amplify its bets on AI giant OpenAI.",
-      "pub_date": "2026-09-17T06:17:50Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/technology/ai/articles/apollo-mulls-raising-softbank-loan-061750760.html"
     }
   ]
 }

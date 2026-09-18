@@ -1,7 +1,21 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-09-18T08:40:08.931433+00:00",
+  "generated_at": "2026-09-18T15:38:11.086030+00:00",
   "items": [
+    {
+      "title": "Sector Update: Energy Stocks Fall Pre-Bell Friday",
+      "summary": "Energy stocks were falling pre-bell Friday, with the State Street Energy Select Sector SPDR ETF (XLE",
+      "pub_date": "2026-09-18T13:28:53Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-pre-132853353.html"
+    },
+    {
+      "title": "TotalEnergies Expands BlackRock Partnership With $1.8B African Infrastructure Agreement",
+      "summary": "The agreement gives TotalEnergies access to $1.8 billion in capital while tying future payments to the volume of infrastructure handled under the arrangement for up to 15 years.",
+      "pub_date": "2026-09-18T13:21:26Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/energy/articles/totalenergies-expands-blackrock-partnership-1-132126011.html"
+    },
     {
       "title": "Why Banks Suddenly Want Stablecoins, and Why It May Matter for You",
       "summary": "Banks are racing to issue stablecoins after fighting them for years. Payment experts from Triple-A, ChangeNOW, Infinia, and StraitsX explain what businesses actually gain.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-17T14:55:52Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/democrat-sweep-odds-just-hit-145552516.html"
-    },
-    {
-      "title": "Billionaire TikTok founder is now the richest person in all of Asia, with a $105 billion net worth\u2014he\u2019s gained $92 billion since 2019 thanks to AI",
-      "summary": "Zhang Yiming, the founder of TikTok parent company ByteDance, is Asia\u2019s richest person\u2014his net worth skyrocketed $12 billion this month alone.",
-      "pub_date": "2026-09-17T14:24:50Z",
-      "source": "Fortune",
-      "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-tiktok-founder-now-richest-142450570.html"
-    },
-    {
-      "title": "Is Being Indian a Fraud Signal? Arc Traders Sold Like It Is",
-      "summary": "A BlackRock-validated chain, a launch livestream, and a man in a gaming chair. Within an hour, Arc traders were selling. Why?",
-      "pub_date": "2026-09-17T13:39:33Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/being-indian-fraud-signal-arc-133933982.html"
     }
   ]
 }

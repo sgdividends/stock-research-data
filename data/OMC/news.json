@@ -1,7 +1,14 @@
 {
   "ticker": "OMC",
-  "generated_at": "2026-09-18T08:40:47.909725+00:00",
+  "generated_at": "2026-09-18T15:38:51.353477+00:00",
   "items": [
+    {
+      "title": "Omnicom Group Inc's Dividend Analysis",
+      "summary": "Omnicom Group Inc (NYSE:OMC) recently announced a total dividend of $0.80 per share, with the ex-dividend date set for Sept. 18, 2026.  This payout consists of a $0.80 per share cash dividend payable on Oct. 9, 2026.  For income-focused investors, the ex-dividend date is a critical marker: shareholders must own the stock before this date to qualify for the payment.",
+      "pub_date": "2026-09-18T11:02:07Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/omnicom-group-incs-dividend-analysis-110207012.html"
+    },
     {
       "title": "Another PepsiCo Drama? Nope, The Name Change Was A Joke",
       "summary": "The company's first-ever corporate brand campaign will show people just who owns their favorite foods, snacks and beverages.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-08-31T14:39:48Z",
       "source": "MediaPost",
       "url": "https://finance.yahoo.com/media-advertising/articles/omnicom-combines-media-networks-mediahub-143948238.html"
-    },
-    {
-      "title": "OpenAI launches ChatGPT ads in India ahead of 2027 IPO",
-      "summary": "The company is starting with 50 brands on free and lower-cost tiers, with a self-serve ad manager set to launch Sept. 4",
-      "pub_date": "2026-08-28T13:16:46Z",
-      "source": "Quartz",
-      "url": "https://finance.yahoo.com/media-advertising/articles/openai-launches-chatgpt-ads-india-131646015.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "MPWR",
-  "generated_at": "2026-09-18T08:40:43.126292+00:00",
+  "generated_at": "2026-09-18T15:38:46.812338+00:00",
   "items": [
+    {
+      "title": "ASML Rides on Strength in Installed Base Business: Will it Sustain?",
+      "summary": "ASML's Installed Base Management sales surge 31.8%, fueled by upgrades and a growing EUV fleet, but sustaining growth hinges on customer demand.",
+      "pub_date": "2026-09-18T13:30:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asml-rides-strength-installed-business-133000472.html"
+    },
     {
       "title": "GFS Gains From Expanding Partner base: Will it Boost Growth Prospects?",
       "summary": "GlobalFoundries is expanding partnerships across AI, optical networking, power and quantum technologies, but commercialization remains key.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-10T12:14:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/monolithic-vs-intel-chip-stock-121400380.html"
-    },
-    {
-      "title": "Monolithic Power Revenue Jumped 48%. Can AI Power Chips Keep the Momentum Going?",
-      "summary": "On July 30, Monolithic Power Systems reported second-quarter revenue of $980.6 million, up 47.6% from a year earlier and 21.9% sequentially. The pace puts its AI opportunity into reported results. Monolithic Power Systems, Inc. (NASDAQ:MPWR) does not sell AI accelerators. It supplies the power-management components that help those expensive processors operate efficiently, making the company [\u2026]",
-      "pub_date": "2026-09-05T10:22:00Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/monolithic-power-revenue-jumped-48-102200069.html"
     }
   ]
 }
