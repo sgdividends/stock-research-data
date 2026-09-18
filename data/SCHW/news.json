@@ -1,7 +1,14 @@
 {
   "ticker": "SCHW",
-  "generated_at": "2026-09-18T18:48:51.963779+00:00",
+  "generated_at": "2026-09-18T22:10:38.306294+00:00",
   "items": [
+    {
+      "title": "ETF League Tables: Schwab Registers Hefty Inflows",
+      "summary": "<p>Table below reflects daily flows on September 17, 2026 and asset totals as of that date.</p>",
+      "pub_date": "2026-09-18T21:00:04Z",
+      "source": "etf.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-schwab-registers-210004452.html"
+    },
     {
       "title": "Week\u2019s Best: \u2018Finfluencers\u2019 Are Rarely Qualified",
       "summary": "The internet is awash in videos created by self-styled financial influencers peddling investment strategies.  Just 2% of the social-media influencers were qualified to give financial advice, the firm found.  On Thursday, the Wall Street giant unveiled its 2027 advisor compensation plan, which follows the brokerage industry practice of using a grid to determine pay.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-16T05:14:12Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/charles-schwab-schw-brings-ai-051412010.html"
-    },
-    {
-      "title": "Anthropic Just Put Claude Inside Schwab and BlackRock. The AI Agent War Has Reached Wealth Management",
-      "summary": "Anthropic pushed Claude directly into wealth-management workflows on September 14, launching Claude for Financial Advisors with connections to Charles Schwab, BlackRock and other industry platforms. It lets advisers pull client and portfolio information into Claude for meeting prep, portfolio review and documentation. That gives The Charles Schwab Corporation (NYSE:SCHW) a new way to deepen its [\u2026]",
-      "pub_date": "2026-09-15T21:59:57Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-just-put-claude-inside-215957194.html"
     }
   ]
 }

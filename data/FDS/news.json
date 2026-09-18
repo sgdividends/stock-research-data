@@ -1,7 +1,14 @@
 {
   "ticker": "FDS",
-  "generated_at": "2026-09-18T18:48:21.327854+00:00",
+  "generated_at": "2026-09-18T22:10:12.730978+00:00",
   "items": [
+    {
+      "title": "ETF League Tables: Schwab Registers Hefty Inflows",
+      "summary": "<p>Table below reflects daily flows on September 17, 2026 and asset totals as of that date.</p>",
+      "pub_date": "2026-09-18T21:00:04Z",
+      "source": "etf.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-schwab-registers-210004452.html"
+    },
     {
       "title": "ETF League Tables: Capital Group Nears $160B In AUM",
       "summary": "<p>Table below reflects daily flows on September 16, 2026 and asset totals as of that date.</p>",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-15T21:00:04Z",
       "source": "etf.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-vanguard-registers-210004731.html"
-    },
-    {
-      "title": "The $16.4 trillion ETF market hit a record that tells two stories",
-      "summary": "A wave of new fund launches masks how investors are positioning their money.",
-      "pub_date": "2026-09-15T17:07:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/news/16-4-trillion-etf-market-170700085.html"
     }
   ]
 }

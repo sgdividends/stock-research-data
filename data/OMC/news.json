@@ -1,7 +1,14 @@
 {
   "ticker": "OMC",
-  "generated_at": "2026-09-18T18:48:44.759172+00:00",
+  "generated_at": "2026-09-18T22:10:32.681857+00:00",
   "items": [
+    {
+      "title": "Is Omnicom Stock Underperforming the S&P 500?",
+      "summary": "Omnicom has underperformed the S&P 500 over the past year, but analysts are moderately optimistic about the stock\u2019s prospects.",
+      "pub_date": "2026-09-18T14:59:12Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/omnicom-stock-underperforming-p-500-145912589.html"
+    },
     {
       "title": "Omnicom Group Inc's Dividend Analysis",
       "summary": "Omnicom Group Inc (NYSE:OMC) recently announced a total dividend of $0.80 per share, with the ex-dividend date set for Sept. 18, 2026.  This payout consists of a $0.80 per share cash dividend payable on Oct. 9, 2026.  For income-focused investors, the ex-dividend date is a critical marker: shareholders must own the stock before this date to qualify for the payment.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-02T22:28:23Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/1-mid-cap-stock-long-222823265.html"
-    },
-    {
-      "title": "Omnicom Combines Mediahub, Hearts & Science",
-      "summary": "The new agency network operates across 40 markets and represents approximately $9.1 billion in 2025 billings. It will be led in the U.S. by Nicole Estebanell, who previously served as CEO of Mediahub U.S.",
-      "pub_date": "2026-08-31T14:39:48Z",
-      "source": "MediaPost",
-      "url": "https://finance.yahoo.com/media-advertising/articles/omnicom-combines-media-networks-mediahub-143948238.html"
     }
   ]
 }

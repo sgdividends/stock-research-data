@@ -1,6 +1,6 @@
 {
   "ticker": "MA",
-  "generated_at": "2026-09-18T18:48:37.072075+00:00",
+  "generated_at": "2026-09-18T22:10:26.130463+00:00",
   "items": [
     {
       "title": "Visa, Mastercard $167.5 million settlement could mean money for ATM users. Who qualifies.",
@@ -8,6 +8,20 @@
       "pub_date": "2026-09-18T17:41:56Z",
       "source": "Yahoo Personal Finance",
       "url": "https://finance.yahoo.com/personal-finance/banking/article/visa-mastercard-1675-million-settlement-could-mean-money-for-atm-users-who-qualifies-174156944.html"
+    },
+    {
+      "title": "Europe Has Agent Payment Rails Live Across 30+ Banks. The US Is Still Debating Who Pays When They Break.",
+      "summary": "The trajectory of agentic commerce is splitting. Europe is prioritizing a regulatory-first architecture, while the United States remains stalled by a lack of federal guidance and unresolved liability questions. The same underlying technology is producing two distinct commercial realities. The European Regulatory Backbone Europe is utilizing the PSD3/PSR framework to define its deployment. The legislation, [\u2026]",
+      "pub_date": "2026-09-18T20:41:27Z",
+      "source": "Forkast News",
+      "url": "https://finance.yahoo.com/technology/ai/articles/europe-agent-payment-rails-live-204127439.html"
+    },
+    {
+      "title": "Visa\u2019s Stablecoin Settlements Grew 15 Times in a Year. Is the Stock Still a Buy Near $370?",
+      "summary": "Visa just posted a fifteenfold jump on a new payment rail while its core business hits records, but the real question is whether stablecoins strengthen its network grip or quietly erode the economics that justify trading near all-time highs.",
+      "pub_date": "2026-09-18T19:55:56Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/visa-stablecoin-settlements-grew-15-195556112.html"
     },
     {
       "title": "Mastercard Holds Flat as Alchemy Gives AI Agents Spending Controls",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-18T10:05:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-financial-stocks-berkshire-hathaway-100500715.html"
-    },
-    {
-      "title": "Visa (V) Sets AI Payment Standards, Is The Stock Fairly Valued?",
-      "summary": "Visa (V) just joined Mastercard and Ant International to design a shared Know Your Agent framework, a move aimed at standardising how AI purchasing agents are identified and monitored across global payment networks. Recent announcements around Visa\u2019s onchain credit push, stablecoin partnerships and the new Know Your Agent framework have landed against a share price of US$369.93, with a 90-day share price return of 13.05% pointing to building momentum, while the 5-year total shareholder return...",
-      "pub_date": "2026-09-18T03:16:20Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/visa-v-sets-ai-payment-031620516.html"
-    },
-    {
-      "title": "The price tag is changing: AI could bring haggling back to retail",
-      "summary": "AI shopping agents could turn fixed prices into opening offers, changing how retailers compete on price, value and product information.",
-      "pub_date": "2026-09-18T03:08:00Z",
-      "source": "Retail Insight Network",
-      "url": "https://finance.yahoo.com/technology/ai/articles/price-tag-changing-ai-could-030800925.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-09-18T18:48:11.686512+00:00",
+  "generated_at": "2026-09-18T22:10:05.121307+00:00",
   "items": [
+    {
+      "title": "Did SMCI Stock Just Rise For The Wrong Reason?",
+      "summary": "Super Micro Computer (SMCI) stock rose 9.5% on Thursday, September 17, closing just over $40. The move followed a bullish call on how big the market for AI servers gets. That call may well be right. But it answers a question Super Micro's own results never raised. That is why one big session tells you less than it looks like it does.",
+      "pub_date": "2026-09-18T19:15:18Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/did-smci-stock-just-rise-191518488.html"
+    },
     {
       "title": "Cisco Drops 8% in 3 Months: Should You Buy the Stock on the Dip?",
       "summary": "CSCO's 8% three-month drop reflects margin and recurring-growth concerns, but surging AI demand and networking refresh opportunities support its outlook.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-17T18:25:29Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/cisco-climbs-3-3-splunk-182529645.html"
-    },
-    {
-      "title": "Is Cisco Stock Priced For Orders That Are Not Yet Revenue?",
-      "summary": "Cisco Systems (CSCO) grew revenue more slowly over the last twelve months than any other company in its peer group. Yet it trades on almost the same earnings multiple as Dell Technologies, the fastest grower of the five. Trailing growth does not explain that price on its own. Cisco's last quarter grew 18%, well ahead of its 11.8% twelve-month figure. The rest of the case rests on AI networking orders that are running well ahead of the revenue Cisco has booked from them.",
-      "pub_date": "2026-09-17T18:22:58Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-priced-orders-not-182258001.html"
     }
   ]
 }

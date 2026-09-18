@@ -1,6 +1,6 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-09-18T18:48:11.400266+00:00",
+  "generated_at": "2026-09-18T22:10:04.850263+00:00",
   "items": [
     {
       "title": "Why Salesforce CEO Marc Benioff thinks AI chip king Nvidia is 'exquisite'",
@@ -15,6 +15,20 @@
       "pub_date": "2026-09-17T16:57:53Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/technology/article/salesforce-ceo-marc-benioff-we-cannot-let-ai-become-social-media-20-165753890.html"
+    },
+    {
+      "title": "How Atlassian Stock Shook Off 'SaaSpocalypse' AI Fears For A Big Rally",
+      "summary": "Atlassian opened the year looking like a poster child for Wall Street's fears about AI eating up the software market.  Atlassian \u2014 a maker of software tools focused on workplace projects and collaboration \u2014 has been on a bounce-back rally since tumbling almost 60% during the first three months of the year.  With yo-yo-like action on Thursday and Friday, Atlassian is ahead about 18% on the year.",
+      "pub_date": "2026-09-18T20:12:39Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/research/the-new-america/atlassian-stock-saaspocalypse-ai-rally/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Why Salesforce\u2019s Homegrown AI Model Won\u2019t Move the Stock Until 2027",
+      "summary": "Salesforce just unveiled Koa, its first homegrown AI model built for CRM reasoning, but a gap between launch and availability raises a pointed question: can a model nobody can buy yet actually move the stock?",
+      "pub_date": "2026-09-18T19:03:51Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-salesforce-homegrown-ai-model-190351468.html"
     },
     {
       "title": "Snap (SNAP) Unveils SPECS Intelligence AI And Expands AR Glasses Trials",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-18T13:50:15Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/stock-market-falls-on-ai-fears-hawkish-fed-bounces-back/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Dan Ives Says AI Leaders Can't 'Stop The Elevator' With Meta In The 'Ferrari Left Lane' As AI Race Accelerates",
-      "summary": "Ives pointed to Meta\u2019s roughly 3.5 billion users, noting that companies with large existing user bases have an advantage in monetizing AI.",
-      "pub_date": "2026-09-18T13:29:38Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/technology/ai/articles/dan-ives-says-ai-leaders-132938281.html"
-    },
-    {
-      "title": "What Did Microsoft Tell You Before Its Stock Ran?",
-      "summary": "Microsoft (MSFT) stock has returned about 32% since mid-June 2026. The S&P 500 returned about 3% over the same window, and peers moved in both directions: Alphabet fell 4.5% while Apple returned 14.0%. Neither came close to Microsoft, so this was not a sector tide. It was one company, and Microsoft had spent three quarters explaining out loud how internal capacity allocation decisions had constrained Azure's reported growth.",
-      "pub_date": "2026-09-18T13:13:30Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/did-microsoft-tell-stock-ran-131330259.html"
     }
   ]
 }

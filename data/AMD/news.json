@@ -1,20 +1,48 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-09-18T18:47:58.855837+00:00",
+  "generated_at": "2026-09-18T22:09:53.394770+00:00",
   "items": [
     {
-      "title": "Stock Market Today: Dow Pressured As Yields Hit 5%; These Biotechs On The Move (Live Coverage)",
+      "title": "The ARK Trade Watch: Cathie Wood Cuts Crypto Exposure, Then Reverses Course On CoreWeave",
+      "summary": "Cathie Wood's ARK Invest funds made a broad move out of crypto-linked assets during the week, led by the sale of more than 1.5 million shares of the ARK 21Shares Bitcoin ETF.",
+      "pub_date": "2026-09-18T21:38:30Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/ark-trade-watch-cathie-wood-213830364.html"
+    },
+    {
+      "title": "AMD (AMD) Stock Looks Cheap After Its Huge 3 Year Run",
+      "summary": "Advanced Micro Devices has ridden a powerful AI story in recent years, and the question now is whether the current share price is still grounded in the cash the business can realistically generate. For anyone watching AMD today, the focus has shifted from headline momentum to the harder question of what its cash flows are actually worth. Over the past 3 years, AMD has delivered a share price return of about 467%, which puts a lot of weight on the idea that future cash flows can justify such...",
+      "pub_date": "2026-09-18T21:13:18Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-amd-stock-looks-cheap-211318753.html"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq, S&P Reverse Slightly Higher; Sandisk, Lumentum Lead This Tech Rally (Live Coverage)",
       "summary": "Stock Market Today: The Dow Jones index falls Friday as oil prices reverse higher. Apple, AMD, Micron and Sandisk are key movers.",
-      "pub_date": "2026-09-18T18:03:11Z",
+      "pub_date": "2026-09-18T20:57:21Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-apple-amd-micron-sandisk/?src=A00220&yptr=yahoo"
     },
     {
-      "title": "Chip Stocks Hit Ceiling During Sector Rebound. Macom Is A Standout.",
+      "title": "Dow Jones Futures: Market Still Choppy; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+      "summary": "The stock market showed choppy, mixed weekly action. But Robinhood, Sandisk, AMD and Moderna rallied into buy areas.",
+      "pub_date": "2026-09-18T20:38:02Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-still-choppy-robinhood-sandisk-amd-moderna-surge-into-buy-areas/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Chip Stocks Break Through Ceiling As Sector Rebounds. Macom Is A Standout.",
       "summary": "The Philadelphia semiconductor index, known as SOX, rose for a fourth consecutive day on Friday, with a new batch of chip stocks leading the charge.",
-      "pub_date": "2026-09-18T17:37:48Z",
+      "pub_date": "2026-09-18T20:33:38Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/technology/chip-stocks-hit-ceiling-macom-technology-solutions-mtsi/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Top Research Reports for AMD, Linde & Amgen",
+      "summary": "AMD, Linde and Amgen highlight AI demand, contracted growth and drug launches, while supply, margin and pipeline risks remain key factors.",
+      "pub_date": "2026-09-18T20:28:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-amd-linde-202800486.html"
     },
     {
       "title": "Why XLK\u2019s Next Rebalance Won\u2019t Fix Its Massive Concentration Problem",
@@ -29,34 +57,6 @@
       "pub_date": "2026-09-18T16:40:36Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-does-nvda-stock-carry-164036851.html"
-    },
-    {
-      "title": "AMD stock rises on a rumor that could give it a 2027 GPU edge",
-      "summary": "A rumor about AMD's 2027 lineup could give the company an unusual window against Nvidia.",
-      "pub_date": "2026-09-18T16:28:44Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-rises-rumor-could-162844610.html"
-    },
-    {
-      "title": "Nebius Offers Fresh Clue About AI's Spending Boom",
-      "summary": "Pricing power may be holding up better than feared",
-      "pub_date": "2026-09-18T16:19:36Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nebius-offers-fresh-clue-ais-161936309.html"
-    },
-    {
-      "title": "Micron Just Built One Memory Stick That Replaces Four. Is MU Stock a Buy?",
-      "summary": "Micron just pulled off a server memory breakthrough that has both AMD and Intel on board, but the revenue from it sits two fiscal years away while the stock already trades near all-time highs. Here is what that gap means for anyone deciding whether to buy now.",
-      "pub_date": "2026-09-18T16:16:47Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-just-built-one-memory-161647407.html"
-    },
-    {
-      "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
-      "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion\u2014nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-      "pub_date": "2026-09-18T14:03:30Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/needs-true-buy-qualcomm-stock-140330945.html"
     }
   ]
 }

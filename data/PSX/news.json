@@ -1,7 +1,14 @@
 {
   "ticker": "PSX",
-  "generated_at": "2026-09-18T18:48:49.120260+00:00",
+  "generated_at": "2026-09-18T22:10:35.919724+00:00",
   "items": [
+    {
+      "title": "Top Research Reports for AMD, Linde & Amgen",
+      "summary": "AMD, Linde and Amgen highlight AI demand, contracted growth and drug launches, while supply, margin and pipeline risks remain key factors.",
+      "pub_date": "2026-09-18T20:28:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-amd-linde-202800486.html"
+    },
     {
       "title": "Phillips 66: Resilient Refining Meets Midstream Stability",
       "summary": "PSX pairs profitable refining conditions with stable midstream cash flows, helping cushion commodity volatility despite high crude costs.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-14T22:00:00Z",
       "source": "Oilprice.com",
       "url": "https://finance.yahoo.com/energy/articles/global-fuel-squeeze-triggers-u-220000201.html"
-    },
-    {
-      "title": "HF Sinclair Rises 113.9% in a Year: Should You Buy, Hold or Sell?",
-      "summary": "DINO benefits from tight refining capacity, low product inventories and resilient demand, while renewable diesel diversifies earnings.",
-      "pub_date": "2026-09-14T16:43:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/energy/articles/hf-sinclair-rises-113-9-164300568.html"
     }
   ]
 }
