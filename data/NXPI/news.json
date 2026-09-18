@@ -1,6 +1,6 @@
 {
   "ticker": "NXPI",
-  "generated_at": "2026-09-17T22:36:36.434908+00:00",
+  "generated_at": "2026-09-18T02:43:17.666621+00:00",
   "items": [
     {
       "title": "ON Semiconductor Stock Is Already Half Off Its High, So How Low Could A Market Shock Take It?",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-17T20:37:51Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stock-already-half-off-203751135.html"
+    },
+    {
+      "title": "Stocks Settle Sharply Higher as Crude Oil and Bond Yields Fall",
+      "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up by +1.14% on Thursday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up by +0.61%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +1.73%. September E-mini S&P futures (ESU26 ) rose +1.10%, and September E-mini...",
+      "pub_date": "2026-09-17T20:34:10Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-sharply-higher-crude-203410332.html"
     },
     {
       "title": "MCHP's Analog AI Deal Gains Momentum: Can It Outpace NXPI & TXN?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-14T21:10:45Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/nxp-semiconductors-nxpi-leans-physical-211045200.html"
-    },
-    {
-      "title": "NXP Semiconductors Eyes Physical AI Leadership, Sees Data Center Growth Surge",
-      "summary": "NXP Semiconductors (NASDAQ:NXPI) is positioning its portfolio around \u201cphysical AI,\u201d with Chief Executive Officer Rafael Sotomayor saying the company aims to apply its longstanding strengths in security, functional safety, real-time processing and reliability to increasingly intelligent edge devices.",
-      "pub_date": "2026-09-12T13:02:00Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nxp-semiconductors-eyes-physical-ai-130200789.html"
     }
   ]
 }

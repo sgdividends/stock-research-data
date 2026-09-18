@@ -1,6 +1,6 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-09-17T22:35:53.925610+00:00",
+  "generated_at": "2026-09-18T02:42:43.277713+00:00",
   "items": [
     {
       "title": "Coinbase CEO Brian Armstrong is moving past the Clarity Act's failure: 'There's another path'",
@@ -31,6 +31,13 @@
       "url": "https://finance.yahoo.com/video/why-banks-blew-it-on-the-clarity-act-while-crypto-brokers-operate-as-normal-123000383.html"
     },
     {
+      "title": "We Asked Grok if Bitcoin Can Still Reach $100,000 Without the CLARITY Act",
+      "summary": "Bitcoin barely flinched when the Senate killed the CLARITY Act, but that indifference cuts both ways. Grok lays out exactly what it would take for BTC to hit six figures before year-end, and the list of conditions is longer than most bulls want to admit.",
+      "pub_date": "2026-09-17T22:28:46Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/asked-grok-bitcoin-still-reach-222846080.html"
+    },
+    {
       "title": "Polymarket Hires Coinbase's Failed Social-Coin Architect",
       "summary": "Polymarket hired Zora founder Jacob Horne to rebuild its onchain product as Kalshi powers Coinbase's US prediction markets.",
       "pub_date": "2026-09-17T21:54:25Z",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-17T19:15:33Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/crypto/articles/sec-sends-strong-signal-robinhood-191533748.html"
-    },
-    {
-      "title": "Why Coinbase Global (COIN) Is Down 5.8% After Crypto Rules Bill Stalls And Oversight Pressures Mount",
-      "summary": "In recent days, Coinbase Global has faced renewed regulatory uncertainty after the Digital Asset Market Clarity Act failed to advance in the U.S. Senate, prompting CEO Brian Armstrong to urge the SEC and CFTC to set crypto rules under existing authority. At the same time, Coinbase is deepening its role in mainstream finance through partnerships such as X\u2019s new Cashtag trading feature, even as Armstrong publicly campaigns to overhaul accredited investor rules to widen access to private-market...",
-      "pub_date": "2026-09-17T19:14:47Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/why-coinbase-global-coin-down-191447278.html"
     }
   ]
 }

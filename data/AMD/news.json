@@ -1,13 +1,34 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-09-17T22:35:40.609951+00:00",
+  "generated_at": "2026-09-18T02:42:32.369663+00:00",
   "items": [
     {
       "title": "Dow Jones Futures: S&P 500, Nasdaq Rebound Above Key Level; Moderna, AMD, SpaceX Flash Buy Signals",
       "summary": "The S&P 500 and Nasdaq regain their 50-day lines and Treasury yields fall in a bullish day two Fed reaction. SpaceX, AMD, Moderna are buys.",
-      "pub_date": "2026-09-17T22:22:09Z",
+      "pub_date": "2026-09-18T02:33:27Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-moderna-amd-spacex-buy-signals/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "INTC, AMD, MU, NVDA: Chip Stocks Rally As Investors Look Past AI Concerns",
+      "summary": "Investors move past worries that AI firms\u2019 calls for a slowdown in development risk the AI infrastructure trade.",
+      "pub_date": "2026-09-18T02:17:04Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intc-amd-mu-nvda-chip-021704996.html"
+    },
+    {
+      "title": "Why AMD Stock Jumped Today",
+      "summary": "Nebius' coming cloud-computing price increase gave investors another sign that AI demand remains strong, including for AMD's data-center chips.",
+      "pub_date": "2026-09-17T23:35:49Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-amd-stock-jumped-today-233549219.html"
+    },
+    {
+      "title": "Nebius Group (NBIS) Raises AI Cloud Prices As Compute Demand Tests Customer Costs",
+      "summary": "Nebius Group (NasdaqGS:NBIS) has raised prices for its Nvidia GPU and AMD CPU cloud services in response to strong AI demand. The company cites surging enterprise interest in large-scale AI training and inference workloads as a key driver of the new pricing. Higher rates apply to both Nvidia GPU instances and AMD CPU based compute bundles across Nebius Group's AI focused cloud offerings. The decision to lift Nvidia GPU and AMD CPU cloud pricing reshapes Nebius Group's AI compute economics...",
+      "pub_date": "2026-09-17T23:21:09Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nebius-group-nbis-raises-ai-232109046.html"
     },
     {
       "title": "Stock Market Today, Sept. 17: Intel Surges 8% on Rumored SK Hynix Talks",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-17T20:36:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/finance/stocks/stocks-rally-shaking-off-feds-rate-hike-aebb2c0b?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "AMD Leads Chip Stocks Higher Amid Sector Rebound",
-      "summary": "The Philadelphia semiconductor index, known as SOX, rose for the third straight session Thursday. AMD stock was among the big gainers.",
-      "pub_date": "2026-09-17T20:21:59Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/amd-stock-leads-chip-stocks-sox-index-higher-amid-sector-rebound/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Will 2026 Doom and Gloom Lead to Opportunity?",
-      "summary": "While macroeconomic headwinds, geopolitical energy shocks, and relentless media fear-mongering might suggest a market correction is overdue, the resilience of stock price action tells a different story.",
-      "pub_date": "2026-09-17T19:52:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2026-doom-gloom-lead-opportunity-195200609.html"
-    },
-    {
-      "title": "Update: US Equity Indexes Rise as Fed's Commitment to Controlling Inflation Sinks Treasury Yields",
-      "summary": "(Updates with index/price moves and geopolitical news from the first paragraph.) US equity indexe",
-      "pub_date": "2026-09-17T19:50:20Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/economy/policy/articles/us-equity-indexes-rise-fed-195020681.html"
     }
   ]
 }
