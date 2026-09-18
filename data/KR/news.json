@@ -1,7 +1,14 @@
 {
   "ticker": "KR",
-  "generated_at": "2026-09-18T15:38:41.490497+00:00",
+  "generated_at": "2026-09-18T18:48:34.174252+00:00",
   "items": [
+    {
+      "title": "Kroger drops Red Bull from all stores in pricing dispute",
+      "summary": "The grocery chain pulled Red Bull products as of Aug. 31 and has reallocated shelf space to competing energy drink brands",
+      "pub_date": "2026-09-18T18:26:51Z",
+      "source": "Quartz",
+      "url": "https://finance.yahoo.com/small-business/articles/kroger-drops-red-bull-stores-182651222.html"
+    },
     {
       "title": "Costco just made grocery runs way more convenient",
       "summary": "A major new delivery partnership is making life easier for Costco members.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-16T11:36:00Z",
       "source": "Grocery Dive",
       "url": "https://finance.yahoo.com/small-business/articles/harris-teeter-spend-253m-upgrade-113600042.html"
-    },
-    {
-      "title": "Target is taking on Walmart with a major grocery move",
-      "summary": "The retailer hopes its latest partnership will help it carve out a distinct niche in the grocery market",
-      "pub_date": "2026-09-16T00:03:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/small-business/articles/target-taking-walmart-major-grocery-000300011.html"
     }
   ]
 }

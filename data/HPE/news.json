@@ -1,7 +1,21 @@
 {
   "ticker": "HPE",
-  "generated_at": "2026-09-18T15:38:34.772293+00:00",
+  "generated_at": "2026-09-18T18:48:28.101658+00:00",
   "items": [
+    {
+      "title": "Cisco Drops 8% in 3 Months: Should You Buy the Stock on the Dip?",
+      "summary": "CSCO's 8% three-month drop reflects margin and recurring-growth concerns, but surging AI demand and networking refresh opportunities support its outlook.",
+      "pub_date": "2026-09-18T16:55:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-drops-8-3-months-165500656.html"
+    },
+    {
+      "title": "Can Hewlett Packard Enterprise Stock Keep Running On Orders It Cannot Ship?",
+      "summary": "Hewlett Packard Enterprise (HPE) has returned 156% over the trailing twelve months, and the stock now sits right at the top of its 52-week range. The next leg is the hard one. What could power it is already on the company's books: orders it has taken and cannot yet ship.",
+      "pub_date": "2026-09-18T16:22:33Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-enterprise-stock-keep-162233602.html"
+    },
     {
       "title": "The Options Market Says Dell Stock Can Halve Or Double",
       "summary": "Dell Technologies (DELL) stock trades at about $588, and the options market has already priced where it is most likely to sit twelve months from now: there is a two-in-three chance it lands between roughly $290 and roughly $1,180. That band is what a holder is carrying, in dollars. It prices the size of the move and says nothing about the direction. The size is the part worth your attention.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-17T17:00:11Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dell-ai-backlog-surge-positions-170011018.html"
-    },
-    {
-      "title": "Did NetApp Borrow Its Record Quarter From The Rest Of The Year?",
-      "summary": "NetApp (NTAP) has returned about 57% over the past twelve months, and it has just raised its revenue outlook for fiscal 2027 by $650 million. The easy read is that an AI storage boom is only getting started. The analysts who cover NetApp full-time kept returning to a narrower point: how much of a record quarter came from customers buying early, and what that leaves for the rest of the year.",
-      "pub_date": "2026-09-17T15:08:55Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/did-netapp-borrow-record-quarter-150855033.html"
-    },
-    {
-      "title": "AI Server Stocks Rally as the Hardware Bid Broadens: Hewlett Packard Enterprise Jumps 9%, Super Micro Climbs 6%, Dell Rises 3%",
-      "summary": "A rally that started in memory chips has jumped to server makers, but the same force lifting these AI hardware stocks is quietly making their underlying businesses harder to run.",
-      "pub_date": "2026-09-17T14:53:46Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-server-stocks-rally-hardware-145346231.html"
     }
   ]
 }
