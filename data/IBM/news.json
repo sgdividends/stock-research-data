@@ -1,7 +1,14 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-09-18T02:43:02.789522+00:00",
+  "generated_at": "2026-09-18T08:40:33.214393+00:00",
   "items": [
+    {
+      "title": "IBM (IBM) Lands $1 Billion Quantum Foundry Award And Deepens AI Oversight",
+      "summary": "International Business Machines (NYSE: IBM) said its subsidiary Anderon won a US$1b federal award to build a U.S. quantum chip foundry, alongside a further US$1b IBM commitment to the project. The planned facility is described as the first stand-alone quantum wafer foundry in the U.S., focused on quantum chip manufacturing under CHIPS Act funding. IBM also announced a partnership with regulatory intelligence provider CUBE to integrate real time global AI rule monitoring into...",
+      "pub_date": "2026-09-18T03:15:22Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-ibm-lands-1-billion-031522487.html"
+    },
     {
       "title": "IBM (IBM) Stock Could Trade At A Discount On AI Governance News",
       "summary": "International Business Machines has given long term holders a strong run over the past few years, yet after a sharp setback this year the question now is whether the current US$237.75 share price still lines up with the cash it is expected to generate. Recent headlines around quantum computing, AI governance and a major investigation into a recent earnings shortfall have further sharpened the focus on what IBM\u2019s cash flows are really worth. Over the past 5 years the stock has returned...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-17T16:02:11Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/technology/ai/articles/lockheed-martin-targets-drone-defense-160211123.html"
-    },
-    {
-      "title": "IonQ Climbs 9% on Quantum Optimization Work With NVIDIA; D-Wave Rises 8%, Rigetti Gains 7%",
-      "summary": "IonQ's collaboration with NVIDIA on quantum optimization just sent the entire pure-play sector surging, but the market signal that actually reveals whether this is a real industry shift or just a speculative bet on one company's research is hiding in plain sight.",
-      "pub_date": "2026-09-17T15:50:57Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-climbs-9-quantum-optimization-155057018.html"
     }
   ]
 }

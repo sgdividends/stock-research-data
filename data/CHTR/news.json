@@ -1,14 +1,7 @@
 {
   "ticker": "CHTR",
-  "generated_at": "2026-09-18T02:42:41.202195+00:00",
+  "generated_at": "2026-09-18T08:40:12.194368+00:00",
   "items": [
-    {
-      "title": "Stocks Settle Sharply Higher as Crude Oil and Bond Yields Fall",
-      "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up by +1.14% on Thursday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up by +0.61%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +1.73%. September E-mini S&P futures (ESU26 ) rose +1.10%, and September E-mini...",
-      "pub_date": "2026-09-17T20:34:10Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-sharply-higher-crude-203410332.html"
-    },
     {
       "title": "What Does AT&T Stock Do To Your Money When The Market Falls?",
       "summary": "AT&T (T) is up 4.4% over the last five trading days, while the S&P 500 is down 1.1%. Strength in a weak tape pulls money in. That five-day move is not the question. The question is what holding AT&T does to your money when the market moves, because over the past year it has tended to go the other way.",
@@ -57,6 +50,13 @@
       "pub_date": "2026-09-14T17:36:13Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/verizon-stock-counting-money-not-173613567.html"
+    },
+    {
+      "title": "Is AT&T Asking You To Fund A Network For AI Traffic?",
+      "summary": "AT&T (T) is running its largest year ever for fiber expansion, a plan for 8 million new locations, of which over 4 million were acquired from Lumen, and asking shareholders to keep funding it. It expects $23 billion to $24 billion of capital investment in 2026, and the roughly $18 billion of buybacks and dividends is essentially all the free cash flow left. Management used to justify the build product by product; with the customers, it was already winning. The lead now is one blended subscriber",
+      "pub_date": "2026-09-14T16:47:10Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/technology/articles/t-asking-fund-network-ai-164710759.html"
     }
   ]
 }

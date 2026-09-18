@@ -1,7 +1,14 @@
 {
   "ticker": "PYPL",
-  "generated_at": "2026-09-18T02:43:22.892217+00:00",
+  "generated_at": "2026-09-18T08:40:52.289037+00:00",
   "items": [
+    {
+      "title": "New Bank Approvals Are Surging. What\u2019s Behind the Boom.",
+      "summary": "Over the past 18 months, 40 wannabe bankers have filed for charters with the Comptroller of the Currency. So far, 21 have been approved.",
+      "pub_date": "2026-09-18T05:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/new-bank-approvals-surging-revolut-2a95b4a2?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Mastercard Gets In on Agentic Payment Systems of the Future",
       "summary": "Ready for an artificial intelligence bot to buy things for you?  Love it or hate it, the option is getting closer to reality thanks in part to a deal between  Mastercard  and fintech firm Alchemy.  While Mastercard first announced its agentic payment framework back in 2025, the new deal links it to Alchemy\u2019s agent infrastructure, which developers can use to enable their AI agents to buy stuff.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-17T00:41:49Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/buy-paypal-stock-credit-business-004149827.html"
-    },
-    {
-      "title": "Paypal (PYPL) Registers a Bigger Fall Than the Market: Important Facts to Note",
-      "summary": "In the closing of the recent trading day, Paypal (PYPL) stood at $52.71, denoting a -2.04% move from the preceding trading day.",
-      "pub_date": "2026-09-16T21:45:06Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-pypl-registers-bigger-fall-214506014.html"
     }
   ]
 }

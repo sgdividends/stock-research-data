@@ -1,7 +1,14 @@
 {
   "ticker": "PLTR",
-  "generated_at": "2026-09-18T02:43:20.889006+00:00",
+  "generated_at": "2026-09-18T08:40:50.536133+00:00",
   "items": [
+    {
+      "title": "Forget Michael Burry's Short Thesis. Here's the Bull Case for Palantir He's Not Talking About.",
+      "summary": "The famous investor sees consulting-industry-like risks in Palantir, but several of the company's operating metrics tell a different story.",
+      "pub_date": "2026-09-18T07:37:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/forget-michael-burrys-short-thesis-073700627.html"
+    },
     {
       "title": "Palantir CEO Alex Karp Says Anthropic Wants AI Nationalization to Simply Dodge Lawsuits",
       "summary": "Palantir CEO Alex Karp says AI labs like Anthropic are pushing nationalization to dodge liability, not for safety.",
@@ -15,6 +22,13 @@
       "pub_date": "2026-09-18T00:14:48Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-technologies-pltr-ai-deal-001448200.html"
+    },
+    {
+      "title": "Palantir Hires Former UK Labour Veteran With NHS Deal in Limbo",
+      "summary": "Palantir Technologies Inc. has hired Tom Watson, a former Labour deputy leader, as a new executive in the UK, where it faces a barrage of criticism threatening a major contract.",
+      "pub_date": "2026-09-17T23:01:00Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/healthcare/articles/palantir-hires-former-uk-labour-230100008.html"
     },
     {
       "title": "Palantir, Rocket Lab among biggest climbers in power ranking",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-17T20:53:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-8dfe699f?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Why Is Chipotle Now Working With the CIA-Funded Palantir?",
-      "summary": "Chipotle is piloting a Palantir-built food safety dashboard after a summer of outbreaks, putting employee data in the hands of a company seeded by the CIA's venture arm.",
-      "pub_date": "2026-09-17T20:46:03Z",
-      "source": "decrypt",
-      "url": "https://finance.yahoo.com/technology/ai/articles/why-chipotle-now-working-cia-204603557.html"
-    },
-    {
-      "title": "Palantir Gains as Europe Builds a Sovereign AI Counterweight",
-      "summary": "Thales is pitching export-control independence against Maven, turning data sovereignty into a procurement variable.",
-      "pub_date": "2026-09-17T19:10:50Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/palantir-gains-europe-builds-sovereign-191050465.html"
     }
   ]
 }

@@ -1,14 +1,7 @@
 {
   "ticker": "CMCSA",
-  "generated_at": "2026-09-18T02:42:42.011393+00:00",
+  "generated_at": "2026-09-18T08:40:12.917878+00:00",
   "items": [
-    {
-      "title": "Stocks Settle Sharply Higher as Crude Oil and Bond Yields Fall",
-      "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up by +1.14% on Thursday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up by +0.61%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +1.73%. September E-mini S&P futures (ESU26 ) rose +1.10%, and September E-mini...",
-      "pub_date": "2026-09-17T20:34:10Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-sharply-higher-crude-203410332.html"
-    },
     {
       "title": "Corporate Donations to State AGs Are Setting Records This Year",
       "summary": "Broadcasters and tech giants are writing big checks to state officials, who have weighed in on mergers.",
@@ -57,6 +50,13 @@
       "pub_date": "2026-09-15T21:50:03Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/comcast-cmcsa-suffers-larger-drop-215003728.html"
+    },
+    {
+      "title": "Netflix Options Call A One-Third Drop Ordinary, So How Much Stock Should You Hold?",
+      "summary": "Netflix (NFLX) trades at about $80, and its own options put a price on how far that can travel over the twelve months ahead: a floor near $54.21 and a ceiling near $119. The options market is charging nothing unusual for that range. Ordinary, for Netflix, already means a range wide enough to take a third of your money.",
+      "pub_date": "2026-09-15T20:00:21Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/netflix-options-call-one-third-200021749.html"
     }
   ]
 }

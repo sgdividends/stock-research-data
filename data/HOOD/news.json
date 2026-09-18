@@ -1,7 +1,14 @@
 {
   "ticker": "HOOD",
-  "generated_at": "2026-09-18T02:43:01.170007+00:00",
+  "generated_at": "2026-09-18T08:40:31.698654+00:00",
   "items": [
+    {
+      "title": "Robinhood Ventures Fund I Invests $25M In Crusoe: CEO Says 'Infrastructure Behind AI Matters'",
+      "summary": "Robinhood Ventures Fund I (RVI) has purchased about $25 million of preferred stock in Crusoe as part of the company\u2019s $3.9 billion Series F financing round.",
+      "pub_date": "2026-09-18T04:38:39Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/technology/ai/articles/robinhood-ventures-fund-invests-25m-043839773.html"
+    },
     {
       "title": "SEC Sends Strong Signal to Robinhood, Coinbase Investors",
       "summary": "A temporary exemption could unlock a much bigger shift",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-17T14:17:28Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-retail-rates-look-unsustainable-141728142.html"
-    },
-    {
-      "title": "SEC Allows Tokenized Stocks After Clarity Act Falters",
-      "summary": "The government watchdog of Wall Street announced the long-expected move on Thursday. The decision could transform U.S. stock exchanges.",
-      "pub_date": "2026-09-17T14:15:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/sec-tokenized-stock-clarity-act-crypto-ffad3635?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

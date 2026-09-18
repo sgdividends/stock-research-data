@@ -1,7 +1,21 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-09-18T02:43:03.565473+00:00",
+  "generated_at": "2026-09-18T08:40:34.168818+00:00",
   "items": [
+    {
+      "title": "Apple\u2019s Chip Strategy Keeps Paying Dividends",
+      "summary": "When Apple\u2019s iPhone turned into an immediate hit upon its 2007 release, CEO Steve Jobs was quick to realize the value of designing and owning as many of the components in its devices as possible.  Since then, designing the main chips for all its devices has been a priority for  Apple  and a potent differentiator, enabling deeper integration between software, services, and hardware than any other consumer technology company.  This week\u2019s release of iPhone 18 Pro and the A20 Pro chip inside of it, makes the advantages of Apple\u2019s chip strategy as clear as day.",
+      "pub_date": "2026-09-18T06:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/apple-iphone-a20-chip-43d4ef59?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "SK Hynix has a $4 billion problem Intel could help solve",
+      "summary": "Intel could solve a surprising issue for the AI chip giant.",
+      "pub_date": "2026-09-18T03:33:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/sk-hynix-4-billion-problem-033300679.html"
+    },
     {
       "title": "INTC, AMD, MU, NVDA: Chip Stocks Rally As Investors Look Past AI Concerns",
       "summary": "Investors move past worries that AI firms\u2019 calls for a slowdown in development risk the AI infrastructure trade.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-17T20:58:17Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sentinelone-marvell-technology-formfactor-teradyne-205817432.html"
-    },
-    {
-      "title": "Stocks Rally, Shaking Off Fed\u2019s Rate Hike",
-      "summary": "Major stock-market indexes rallied, reversing the declines that followed the Federal Reserve\u2019s interest-rate hike Wednesday.  The PHLX Semiconductor Index rose 3.1% after comments from Intel Chief Executive  Lip-Bu Tan  about soaring memory prices.  The Securities and Exchange Commission cleared a path for trading venues to offer tokenized stocks in the U.S., a landmark decision that may overhaul traditional equity markets.",
-      "pub_date": "2026-09-17T20:36:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/stocks-rally-shaking-off-feds-rate-hike-aebb2c0b?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Stocks Settle Sharply Higher as Crude Oil and Bond Yields Fall",
-      "summary": "The S&P 500 Index ($SPX ) (SPY ) closed up by +1.14% on Thursday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up by +0.61%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up +1.73%. September E-mini S&P futures (ESU26 ) rose +1.10%, and September E-mini...",
-      "pub_date": "2026-09-17T20:34:10Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-settle-sharply-higher-crude-203410332.html"
     }
   ]
 }
