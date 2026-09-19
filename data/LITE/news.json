@@ -1,6 +1,6 @@
 {
   "ticker": "LITE",
-  "generated_at": "2026-09-19T08:27:43.009746+00:00",
+  "generated_at": "2026-09-19T15:11:51.502915+00:00",
   "items": [
     {
       "title": "Stock Market Today: Nasdaq, S&P Reverse Slightly Higher; Sandisk, Lumentum Lead This Tech Rally",
@@ -31,6 +31,13 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/lumentum-climbs-3-optics-buying-140139997.html"
     },
     {
+      "title": "Laser Focus: 2 Optical Stocks Lighting Up AI",
+      "summary": "As AI data centers shift from copper to optical connections, Lumentum and Coherent post strong earnings growth, with analysts maintaining Moderate Buy ratings on both stocks.",
+      "pub_date": "2026-09-18T11:25:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/technology/ai/articles/laser-focus-2-optical-stocks-112500507.html"
+    },
+    {
       "title": "Generac Surges 18% on $8 Billion Amazon Data Center Deal | Closing Bell",
       "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Isabelle Lee, Lisa Mateo, and Alexis Christoforous.",
       "pub_date": "2026-09-17T20:25:18Z",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-17T18:23:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/ciena-stock-ai-earnings-guidance-0e17c876?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "OpenAI Reveals 6 \u2018Concerning\u2019 Incidents. Why Marvell, Other Hot AI Stocks Are Rising.",
-      "summary": "The ChatGPT developer warns that the AI industry won\u2019t be able to scale at maximum speed much longer.",
-      "pub_date": "2026-09-17T13:48:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/openai-marvell-ai-stocks-72846657?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "CMG",
-  "generated_at": "2026-09-19T08:27:18.128205+00:00",
+  "generated_at": "2026-09-19T15:11:20.855961+00:00",
   "items": [
+    {
+      "title": "Kroger shoppers stopped trusting one key part of the store",
+      "summary": "Nearly every American shops in this aisle, and the damage is not staying there.",
+      "pub_date": "2026-09-19T14:37:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/healthcare/articles/kroger-shoppers-stopped-trusting-one-143700743.html"
+    },
     {
       "title": "Do You Want Gains With That?",
       "summary": "Restaurants are struggling with higher prices for ingredients and labor, as well as the wellness trend the need for innovation:",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-17T15:30:00Z",
       "source": "HR Dive",
       "url": "https://finance.yahoo.com/small-business/articles/week-5-numbers-amazon-grocery-153000270.html"
-    },
-    {
-      "title": "Chipotle is piloting a food safety platform with Palantir",
-      "summary": "The company said the technology is designed to provide a more consistent and centralized view of risks across its system.",
-      "pub_date": "2026-09-17T15:06:50Z",
-      "source": "Nation's Restaurant News",
-      "url": "https://finance.yahoo.com/healthcare/articles/chipotle-piloting-food-safety-platform-150650302.html"
     }
   ]
 }

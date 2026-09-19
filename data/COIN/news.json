@@ -1,6 +1,6 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-09-19T08:27:18.975054+00:00",
+  "generated_at": "2026-09-19T15:11:22.063271+00:00",
   "items": [
     {
       "title": "The SEC is bringing tokenized stocks to markets: 7 key details you need to know",
@@ -10,11 +10,25 @@
       "url": "https://finance.yahoo.com/video/sec-bringing-tokenized-stocks-markets-180000283.html"
     },
     {
-      "title": "Dow Jones Futures: Nasdaq, S&P 500 Hold; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+      "title": "Trump takes aim at Warsh after Fed hike",
+      "summary": "Scott Melker discusses Trump taking aim at Fed Chair Warsh for rate hikes, and what investors need to know about the US Securities and Exchange Commission's (SEC's) decision to bring tokenized stocks to the market. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.",
+      "pub_date": "2026-09-18T16:30:36Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/trump-takes-aim-warsh-fed-163036956.html"
+    },
+    {
+      "title": "Dow Jones Futures: Will The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
       "summary": "The stock market showed choppy, mixed weekly action. But Robinhood, Sandisk, AMD and Moderna rallied into buy areas.",
-      "pub_date": "2026-09-19T01:36:29Z",
+      "pub_date": "2026-09-19T13:16:31Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Coinbase Stock Jumped 12% Yesterday. Bitcoin\u2019s Breakout Wasn\u2019t the Whole Story.",
+      "summary": "Key TakeawaysBitcoin Breakout: Coinbase stock jumped 12% on Friday, September 18, closing at $194, as bitcoin cleared $80,941 and new CFTC and SEC rulemaking reignited the regulatory tailwind Congress couldn\u2019t deliver. Buy Wall: TIKR tracks 18 buys, 3 outperforms, and 11 holds on Coinbase stock.",
+      "pub_date": "2026-09-19T09:09:45Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/coinbase-stock-jumped-12-yesterday-090945993.html"
     },
     {
       "title": "Bitwise CIO Matt Hougan Adjusts His Crypto Outlook After the Senate Vote. Here\u2019s What He Changed",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-18T22:01:00Z",
       "source": "CryptoProwl",
       "url": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-climbs-back-220100164.html"
-    },
-    {
-      "title": "The ARK Trade Watch: Cathie Wood Cuts Crypto Exposure, Then Reverses Course On CoreWeave",
-      "summary": "Cathie Wood's ARK Invest funds made a broad move out of crypto-linked assets during the week, led by the sale of more than 1.5 million shares of the ARK 21Shares Bitcoin ETF.",
-      "pub_date": "2026-09-18T21:38:30Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/ark-trade-watch-cathie-wood-213830364.html"
-    },
-    {
-      "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
-      "summary": "The filing seeks CFTC approval for contracts giving US traders 24/5 leveraged exposure to individual stocks without ownership.",
-      "pub_date": "2026-09-18T21:01:30Z",
-      "source": "decrypt",
-      "url": "https://finance.yahoo.com/markets/options/articles/coinbase-files-list-single-stock-210130400.html"
     }
   ]
 }

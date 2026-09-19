@@ -1,7 +1,14 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-09-19T08:27:20.504436+00:00",
+  "generated_at": "2026-09-19T15:11:24.152391+00:00",
   "items": [
+    {
+      "title": "IBM Has Raised Its Dividend for 31 Years. Inflation Is Still Winning",
+      "summary": "IBM has raised its dividend for three decades straight, but the latest increase fits on a penny. Before counting on that income to keep pace with rising costs, retirees should understand what the streak actually delivers.",
+      "pub_date": "2026-09-19T14:02:51Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ibm-raised-dividend-31-years-140251592.html"
+    },
     {
       "title": "Did SMCI Stock Just Rise For The Wrong Reason?",
       "summary": "Super Micro Computer (SMCI) stock rose 9.5% on Thursday, September 17, closing just over $40. The move followed a bullish call on how big the market for AI servers gets. That call may well be right. But it answers a question Super Micro's own results never raised. That is why one big session tells you less than it looks like it does.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-17T19:15:52Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/articles/verizon-expanded-6g-innovation-forum-191552293.html"
-    },
-    {
-      "title": "Cisco Climbs 3.3% as Splunk Takes AI Behind the Firewall",
-      "summary": "Self-hosted agents widen Cisco's addressable market while pricing and customer commitments remain undisclosed.",
-      "pub_date": "2026-09-17T18:25:29Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-climbs-3-3-splunk-182529645.html"
     }
   ]
 }

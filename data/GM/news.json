@@ -1,13 +1,27 @@
 {
   "ticker": "GM",
-  "generated_at": "2026-09-19T08:27:33.265235+00:00",
+  "generated_at": "2026-09-19T15:11:39.376419+00:00",
   "items": [
+    {
+      "title": "GM brings back Apple CarPlay as buyers demand it",
+      "summary": "GM is bringing Apple CarPlay and Android Auto back to its vehicles, reversing one of the more unpopular decisions in the automaker's recent history.",
+      "pub_date": "2026-09-19T12:10:47Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/gm-brings-back-apple-carplay-as-buyers-demand-it-121047213.html"
+    },
     {
       "title": "GM is re-downloading Apple CarPlay, Android Auto to its cars",
       "summary": "General Motors (GM) will reinstall Apple's (AAPL) CarPlay and Android Auto in its vehicles after initially planning to remove the software from new cars. Yahoo Finance Senior Autos Reporter Pras Subramanian explains the consumer reaction that led to this decision.",
       "pub_date": "2026-09-18T20:35:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/gm-downloading-apple-carplay-android-203500547.html"
+    },
+    {
+      "title": "General Motors (GM) Software Push Has Investors Asking If The Stock Is Fully Valued",
+      "summary": "General Motors (GM) is back in the spotlight after fresh commentary highlighted its push into software and in-car digital services, with OnStar, Super Cruise and smartphone integration reshaping how investors view the automaker. Recent enthusiasm around General Motors' software push sits against a bumpier tape, with the share price down 5.1% over the past day and 4.0% over the week. Yet a 40.6% one year total shareholder return and 160.0% three year total shareholder return suggest momentum...",
+      "pub_date": "2026-09-19T13:11:59Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/general-motors-gm-software-push-131159752.html"
     },
     {
       "title": "A Nine-Year-Late Sports Car, An Unpriced Robotaxi Pact, Supplier Snags And GM\u2019s Hybrid Gap: The EV Wrap",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-18T16:49:13Z",
       "source": "Reuters",
       "url": "https://finance.yahoo.com/economy/policy/articles/auto-industry-urges-trump-keep-164913146.html"
-    },
-    {
-      "title": "What's Going On With Tesla Stock Friday",
-      "summary": "Tesla Stock Rises as Automaker Rally and New Charging Deal Lift Shares",
-      "pub_date": "2026-09-18T16:41:38Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/whats-going-tesla-stock-friday-164138175.html"
-    },
-    {
-      "title": "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-      "summary": "Thursday's rotation rally handed automakers a one-day reprieve from months of pressure, but Friday morning that same trade ran straight into reverse, and the order in which Stellantis, GM, and Ford are falling tells the whole story.",
-      "pub_date": "2026-09-18T14:51:21Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/automaker-stocks-reverse-rotation-trade-145121478.html"
     }
   ]
 }

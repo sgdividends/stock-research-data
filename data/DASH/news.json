@@ -1,7 +1,14 @@
 {
   "ticker": "DASH",
-  "generated_at": "2026-09-19T08:27:22.106219+00:00",
+  "generated_at": "2026-09-19T15:11:25.933828+00:00",
   "items": [
+    {
+      "title": "AT&T launches free healthcare perk for customers",
+      "summary": "AT&T is branching beyond its usual telecom offerings with a benefit that could catch some customers off guard.",
+      "pub_date": "2026-09-19T13:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/healthcare/articles/t-launches-free-healthcare-perk-130300089.html"
+    },
     {
       "title": "Should You Buy the Instacart Dip Even After Costco Just Let DoorDash In?",
       "summary": "Costco just handed DoorDash a new same-day delivery deal, and Instacart shareholders took the hit, but the sell-off may have punished the wrong narrative entirely.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-18T00:11:12Z",
       "source": "BeInCrypto",
       "url": "https://finance.yahoo.com/markets/crypto/articles/why-banks-suddenly-want-stablecoins-001112202.html"
-    },
-    {
-      "title": "Costco expands DoorDash and Uber delivery as membership growth slows",
-      "summary": "DoorDash and Uber are giving Costco a much wider digital reach at an important moment for its membership business.",
-      "pub_date": "2026-09-17T19:04:17Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/costco-expands-doordash-uber-delivery-190417350.html"
     }
   ]
 }

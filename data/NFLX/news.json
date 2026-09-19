@@ -1,14 +1,7 @@
 {
   "ticker": "NFLX",
-  "generated_at": "2026-09-19T08:27:49.253677+00:00",
+  "generated_at": "2026-09-19T15:11:59.205403+00:00",
   "items": [
-    {
-      "title": "Netflix downgraded as \u2018worrying\u2019 engagement trends emerge",
-      "summary": "Market Catalysts Hosts reports the latest news on Netflix (NFLX) after Wells Fargo (WFC) downgraded the stock to Underperform, citing \u201cworrying\u201d engagement trends.",
-      "pub_date": "2026-09-18T14:40:00Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/netflix-downgraded-worrying-engagement-trends-144000514.html"
-    },
     {
       "title": "Netflix Has $27 Billion Left to Buy Back Its Own Stock -- About 8% of the Whole Company",
       "summary": "The streaming giant just bought back more stock in a single quarter than ever before. But is that a reason to own it?",
@@ -57,6 +50,13 @@
       "pub_date": "2026-09-18T20:19:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/stock-movers-433c4e96?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Netflix Stock Downgraded To Sell As Viewer Engagement Wanes",
+      "summary": "Netflix stock tanked on Friday after a Wall Street analyst downgraded the streaming video giant to the equivalent of a sell rating.",
+      "pub_date": "2026-09-18T20:08:45Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/technology/netflix-stock-downgraded-sell-viewer-engagement-wanes/?src=A00220&yptr=yahoo"
     }
   ]
 }
