@@ -1,7 +1,14 @@
 {
   "ticker": "BAC",
-  "generated_at": "2026-09-19T15:11:12.990093+00:00",
+  "generated_at": "2026-09-19T18:20:34.598948+00:00",
   "items": [
+    {
+      "title": "BofA drops stunning warning about Fed rate hikes",
+      "summary": "BofA raises risk scenarios if Fed rate hikes miss inflation 2% target.",
+      "pub_date": "2026-09-19T17:17:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/economy/policy/articles/bofa-drops-stunning-warning-fed-171700996.html"
+    },
     {
       "title": "Bank of America Sets 12-Month S&P 500 Target at 7,800, Sees 2% Upside",
       "summary": "Bank of America (BofA) has introduced a 12-month target of 7,800 for the S&P 500, implying approximately 2% upside from current levels, while raising its year-end forecast and identifying several risks to US equities. In a note published this week, strategist Savita Subramanian increased the bank\u2019s year-end target to 7,400 from 7,100.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-18T13:50:15Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/stock-market-falls-on-ai-fears-hawkish-fed-bounces-back/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "BofA Sees Global Chip Market Nearly Doubling: Semiconductor ETFs to Buy",
-      "summary": "BofA expects the global semiconductor market to nearly double by 2030. Here are a few semiconductor ETFs to consider.",
-      "pub_date": "2026-09-18T13:38:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/bofa-sees-global-chip-market-133800638.html"
     }
   ]
 }
