@@ -1,13 +1,27 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-09-19T18:20:36.151008+00:00",
+  "generated_at": "2026-09-19T22:02:10.596237+00:00",
   "items": [
+    {
+      "title": "Could Circle Internet Group (CRCL) Become A Bigger Force In Onchain Finance?",
+      "summary": "Circle Internet Group (NYSE:CRCL) launched Arc, a purpose-built open Layer 1 blockchain for financial markets, as its public mainnet. Arc integrates Circle's USDC and EURC stablecoins for payments, FX, trading, lending, and asset issuance with dollar-denominated gas fees. The network is backed by an institutional validator set that includes BlackRock, DTCC, Mastercard, Visa, and other financial players. More than 100 ecosystem partners, including banks, payment networks, asset managers,...",
+      "pub_date": "2026-09-19T20:10:21Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/could-circle-internet-group-crcl-201021105.html"
+    },
     {
       "title": "\u2018I screwed up\u2019: Larry Fink lost $100M in a single quarter, got pushed out, and built BlackRock on top of the wreckage",
       "summary": "Fink said he was \"on track to become CEO of the firm.\"",
       "pub_date": "2026-09-19T11:45:00Z",
       "source": "Moneywise",
       "url": "https://finance.yahoo.com/markets/stocks/articles/screwed-larry-fink-lost-100m-114500926.html"
+    },
+    {
+      "title": "State regulators approve sale of AES Ohio\u2019s parent company",
+      "summary": "The Public Utilities Commission of Ohio issued an order authorizing the acquisition of AES Ohio\u2019s parent company by a consortium led by Global Infrastructure Partners, a part of BlackRock, and the EQT Infrastructure VI fund. The $33 billion acquisition, first announced in March, is not final, a spokeswoman for Dayton electric utility AES Ohio said Thursday, Sept. 17. But approval by the Public ...",
+      "pub_date": "2026-09-19T03:59:00Z",
+      "source": "Dayton Daily News, Ohio",
+      "url": "https://finance.yahoo.com/energy/articles/state-regulators-approve-sale-aes-035900879.html"
     },
     {
       "title": "The Code is the Credit: S&P Global\u2019s Acquisition of OpenZeppelin",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-18T20:06:41Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-mixed-afternoon-200641566.html"
-    },
-    {
-      "title": "Sector Update: Energy Stocks Fall Late Afternoon",
-      "summary": "Energy stocks fell late Friday afternoon with the NYSE Energy Sector Index declining 0.7% and the St",
-      "pub_date": "2026-09-18T20:06:21Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-fall-afternoon-200621416.html"
-    },
-    {
-      "title": "Ethereum ETFs Experience $366 Million Loss in Just Two Days as Whales Capitalize on the Dip",
-      "summary": "Ethereum ETFs bled hundreds of millions in two days while whale wallets moved in the opposite direction, and the two camps could not have read the same market data more differently.",
-      "pub_date": "2026-09-18T19:34:01Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-etfs-experience-366-million-193401088.html"
     }
   ]
 }
