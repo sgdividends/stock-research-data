@@ -1,7 +1,14 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-09-18T22:10:30.872473+00:00",
+  "generated_at": "2026-09-19T02:41:57.222595+00:00",
   "items": [
+    {
+      "title": "How Low Can UiPath Stock Go When Its Numbers Are Not The Problem?",
+      "summary": "UiPath (PATH) trades at about $14, some 29% below its high of the past year, and it has lost 11.7% over the past month. Its results are not what did that. The fall is recent: the stock is still up 34.5% over the past three months, and over the past twelve months it returned 18.9% against 17.0% for the S&P 500. What matters is how far a stock like this falls in a real shock.",
+      "pub_date": "2026-09-18T22:06:26Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/low-uipath-stock-numbers-not-220626238.html"
+    },
     {
       "title": "ServiceNow (NOW) Stock Falls Amid Market Uptick: What Investors Need to Know",
       "summary": "In the most recent trading session, ServiceNow (NOW) closed at $135.47, indicating a -2.17% shift from the previous trading day.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-17T10:50:17Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/1-surging-stock-target-week-105017484.html"
-    },
-    {
-      "title": "Did Salesforce Telegraph Its Own Massive Rally?",
-      "summary": "Salesforce (CRM) stock has run hard since June 15, 2026, and the easy explanation is the August 26, 2026 earnings call plus Claudeforce, a product built jointly with Anthropic and announced minutes before that call. That explanation arrives late. Management had outlined the turnaround metrics and projected timeline well in advance of the market repricing.",
-      "pub_date": "2026-09-16T17:04:38Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/did-salesforce-telegraph-own-massive-170438613.html"
     }
   ]
 }

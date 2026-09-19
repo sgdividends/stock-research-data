@@ -1,7 +1,14 @@
 {
   "ticker": "SNPS",
-  "generated_at": "2026-09-18T22:10:39.134761+00:00",
+  "generated_at": "2026-09-19T02:42:05.478272+00:00",
   "items": [
+    {
+      "title": "IONQ Stock Surges On Tech Wins, But The Heavy Burn Persists",
+      "summary": "IonQ (IONQ) shares rose 9.5% on Thursday, closing at $40.34 after six sessions that had mostly gone the other way. The reason on offer was research: quantum algorithms running inside mainstream engineering software, developed with Synopsys, sped up complex industrial design by up to 14.6%. That is genuine progress. It is also not a sale, and the price you pay for IonQ already assumes a great many sales.",
+      "pub_date": "2026-09-18T22:37:35Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-stock-surges-tech-wins-223735798.html"
+    },
     {
       "title": "Why Has Synopsys Stopped Leading With Bad News?",
       "summary": "Two years of Synopsys (SNPS) earnings calls show management changing what it explains. The company used to open on problems, some outside its control and some its own. The August 2026 call is built around a joint product with Ansys, agentic AI, and a new way to charge for its design IP. Most of that switch is earned, but parts of it are still a promise.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-17T13:00:05Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-synopsys-inc-130005819.html"
-    },
-    {
-      "title": "Should You Buy Synopsys Stock While Its Cash Runs Far Ahead Of Its Profit?",
-      "summary": "Synopsys (SNPS) sells the design software and the interface IP that chip makers need to get AI silicon built, and its stock has still gone backwards over the past year. At about $370 the shares sit at their 52-week low. Reported margins have fallen sharply over the past year. Free cash flow tells a different story, and the gap between cash and reported profit is the case worth arguing here.",
-      "pub_date": "2026-09-17T01:26:49Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-synopsys-stock-while-cash-012649996.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-09-18T22:10:19.303364+00:00",
+  "generated_at": "2026-09-19T02:41:46.179454+00:00",
   "items": [
+    {
+      "title": "IONQ Stock Surges On Tech Wins, But The Heavy Burn Persists",
+      "summary": "IonQ (IONQ) shares rose 9.5% on Thursday, closing at $40.34 after six sessions that had mostly gone the other way. The reason on offer was research: quantum algorithms running inside mainstream engineering software, developed with Synopsys, sped up complex industrial design by up to 14.6%. That is genuine progress. It is also not a sale, and the price you pay for IonQ already assumes a great many sales.",
+      "pub_date": "2026-09-18T22:37:35Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ionq-stock-surges-tech-wins-223735798.html"
+    },
     {
       "title": "Is Accenture Stock Cheap, Or Is Its Operating Margin At A Peak?",
       "summary": "Accenture (ACN) stock has gone down for a year while the market has gone up. At around $190, it sits toward the cheap end of its own ten-year history on earnings. The risk sits in what those earnings are made of.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-18T15:35:27Z",
       "source": "Entrepreneur",
       "url": "https://finance.yahoo.com/healthcare/articles/doctor-runs-2-3-billion-153527329.html"
-    },
-    {
-      "title": "The Options Market Says Dell Stock Can Halve Or Double",
-      "summary": "Dell Technologies (DELL) stock trades at about $588, and the options market has already priced where it is most likely to sit twelve months from now: there is a two-in-three chance it lands between roughly $290 and roughly $1,180. That band is what a holder is carrying, in dollars. It prices the size of the move and says nothing about the direction. The size is the part worth your attention.",
-      "pub_date": "2026-09-18T14:51:25Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/options-market-says-dell-stock-145125298.html"
     }
   ]
 }

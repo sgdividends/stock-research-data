@@ -1,7 +1,14 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-09-18T22:10:02.675539+00:00",
+  "generated_at": "2026-09-19T02:41:30.082479+00:00",
   "items": [
+    {
+      "title": "CME Group (CME) Debuts New Loan Futures As Metals Trading Hits Records",
+      "summary": "CME Group (NasdaqGS:CME) introduced S&P UBS USD Liquid Leveraged Loan Index futures, adding a new tool for leveraged loan exposure. The contract is based on the S&P UBS USD Liquid Leveraged Loan Index, jointly developed with S&P Dow Jones Indices and UBS. Management highlighted record 24/7 trading activity in gold and silver futures, noting strong retail engagement in precious metals. The group outlined significant executive promotions and leadership transitions as part of its planned...",
+      "pub_date": "2026-09-19T00:19:26Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/options/articles/cme-group-cme-debuts-loan-001926579.html"
+    },
     {
       "title": "Coinbase Has a Bitcoin Problem, and a Potentially Bigger Opportunity",
       "summary": "Coinbase just delivered one of its ugliest quarterly reports in years, yet a quiet transformation happening beneath the surface could make the spot trading slump largely irrelevant to its future.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-16T12:23:19Z",
       "source": "Quartz",
       "url": "https://finance.yahoo.com/economy/policy/articles/fed-expected-raise-interest-rates-122319797.html"
-    },
-    {
-      "title": "US Equity Futures Rise Pre-Bell as Traders Await Fed Rate Decision",
-      "summary": "US equity futures were edging mostly higher pre-bell Wednesday as traders geared up for the interest",
-      "pub_date": "2026-09-16T11:53:03Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-rise-pre-115303878.html"
     }
   ]
 }

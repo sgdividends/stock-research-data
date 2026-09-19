@@ -1,13 +1,34 @@
 {
   "ticker": "HOOD",
-  "generated_at": "2026-09-18T22:10:18.068191+00:00",
+  "generated_at": "2026-09-19T02:41:44.945706+00:00",
   "items": [
     {
-      "title": "Dow Jones Futures: Market Still Choppy; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+      "title": "Dow Jones Futures: Nasdaq, S&P 500 Hold; Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
       "summary": "The stock market showed choppy, mixed weekly action. But Robinhood, Sandisk, AMD and Moderna rallied into buy areas.",
-      "pub_date": "2026-09-18T20:38:02Z",
+      "pub_date": "2026-09-19T01:36:29Z",
       "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-still-choppy-robinhood-sandisk-amd-moderna-surge-into-buy-areas/?src=A00220&yptr=yahoo"
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Bitwise CIO Matt Hougan Adjusts His Crypto Outlook After the Senate Vote. Here\u2019s What He Changed",
+      "summary": "Bitwise CIO Matt Hougan reversed a months-long warning about the CLARITY Act within 24 hours of its Senate defeat, and the market celebrated his pivot. But three quiet caveats buried in his memo tell a different story about what he actually believes.",
+      "pub_date": "2026-09-18T23:30:10Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitwise-cio-matt-hougan-adjusts-233010546.html"
+    },
+    {
+      "title": "Robinhood and Coinbase Shares Skyrocket, What You Need To Know",
+      "summary": "A number of stocks jumped in the afternoon session after the SEC announced a five-year conditional Innovation Exemption allowing eligible platforms to trade tokenized U.S. equities without standard exchange registration.",
+      "pub_date": "2026-09-18T22:56:40Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-coinbase-shares-skyrocket-know-225640017.html"
+    },
+    {
+      "title": "Robinhood CFO Shiv Verma Sells 11,472 Shares for $1.3 Million",
+      "summary": "The disposal was executed under a pre-established Rule 10b5-1 trading plan adopted in August 2025, reducing the insider's direct stake to 56,858 shares.",
+      "pub_date": "2026-09-18T22:05:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-cfo-shiv-verma-sells-220501855.html"
     },
     {
       "title": "COIN Stock Trades at a Premium to Industry: What Should Investors Do?",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-18T18:28:42Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/investing-com-stocks-week-182842541.html"
-    },
-    {
-      "title": "Strategy, Circle, and Coinbase Lead Crypto Stock Rally on Tokenized Stock Approval",
-      "summary": "Wall Street Meets Blockchain as SEC Lifts Crypto Stocks",
-      "pub_date": "2026-09-18T16:26:25Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-circle-coinbase-lead-crypto-162625930.html"
-    },
-    {
-      "title": "Robinhood\u2019s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-      "summary": "Robinhood\u2019s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
-      "pub_date": "2026-09-18T15:00:00Z",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-abhishek-fatehpuria-winning-modern-150000018.html"
-    },
-    {
-      "title": "CFTC Makes It Easier to Put Prediction Markets in More Apps",
-      "summary": "CFTC staff on Thursday made it easier for apps to offer prediction markets without registering as brokers, expanding a model already used by Phantom. The no-action letter lets qualifying \u201cpassive software\u201d providers offer access to regulated derivatives, including prediction markets,...",
-      "pub_date": "2026-09-18T13:59:44Z",
-      "source": "Benzinga Prediction Markets",
-      "url": "https://finance.yahoo.com/markets/options/articles/cftc-makes-easier-put-prediction-135944849.html"
     }
   ]
 }

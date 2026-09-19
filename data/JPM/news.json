@@ -1,7 +1,21 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-09-18T22:10:22.225693+00:00",
+  "generated_at": "2026-09-19T02:41:48.635769+00:00",
   "items": [
+    {
+      "title": "JPMorgan sends stark warning on $100 oil",
+      "summary": "The bank\u2019s latest warning exposes a fragile balance beneath prices.",
+      "pub_date": "2026-09-19T01:17:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/energy/articles/jpmorgan-sends-stark-warning-100-011700461.html"
+    },
+    {
+      "title": "Bitcoin\u2019s Production Cost Is $78,000. What Happens When Miners Lose Money?",
+      "summary": "JPMorgan pegs Bitcoin's production cost above its current market price, and miners have already broken records to stay afloat. What built-in network forces determine whether this becomes a prolonged bleed or a setup for recovery?",
+      "pub_date": "2026-09-18T22:59:46Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-production-cost-78-000-225946967.html"
+    },
     {
       "title": "IREN (IREN) Stock Fair Value Edges Lower As AI Cloud Wins Meet Build Out Risks",
       "summary": "The latest update on IREN trims the Fair Value estimate from US$80.93 to US$79.03, a relatively modest adjustment given the size of its AI ambitions. Analysts link this move to a mix of growing AI cloud contracts and ongoing questions around execution and supply build out through 2027, which both influence how comfortable they are with the stock\u2019s valuation. As you read on, you will see how these shifting assumptions and fresh research calls are shaping the evolving IREN story and what it...",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-18T16:47:40Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-sees-investment-banking-trading-164740809.html"
-    },
-    {
-      "title": "Stocks Bend, but Don\u2019t Break, in Head-Spinning September. More Tests Are Coming.",
-      "summary": "A massive surge in Treasury bond yields, which lifted 10-year notes to the highest since 2007, paired with a worrying summer rally in global  crude prices  that has oil trading firmly north of $100 a barrel, leaned heavily on stocks but didn\u2019t tip them over.  A Federal Reserve interest-rate hike, coupled with hawkish language and quickening inflation forecasts, also came and went, with stocks posting their strongest gains in six weeks and an index of the Magnificent Seven tech giants coming within half a point of the all-time high it reached in late May.  Tech stocks, in fact, have largely weathered a series of \u201cend of days\u201d headlines from the AI space, with an index of semiconductor stocks falling around 3.3% over the past month and those in the information technology edging just 1.2% lower despite the torrent of stories tied to apocalyptic AI risks.",
-      "pub_date": "2026-09-18T15:32:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stocks-bonds-treasuries-oil-prices-federal-reserve-82f66c0e?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "JPMorgan Gives Up Forecasting Iran War Endgame as Trump Tells Reporters \u2018Anything Could Happen With Me\u2019",
-      "summary": "It\u2019s impossible to predict a red line that might compel de-escalation in the US-Iran War, says the commodities desk.",
-      "pub_date": "2026-09-18T14:33:37Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/jpmorgan-gives-forecasting-iran-war-143337975.html"
     }
   ]
 }
