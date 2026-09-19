@@ -1,7 +1,14 @@
 {
   "ticker": "MU",
-  "generated_at": "2026-09-19T02:41:56.145815+00:00",
+  "generated_at": "2026-09-19T08:27:48.532187+00:00",
   "items": [
+    {
+      "title": "UBS now expects AI capex to reach nearly $1tn this year and around $1.4tn by 2027",
+      "summary": "Investing.com -- UBS now expects artificial intelligence capital expenditure to reach nearly $1 trillion in 2026 before climbing to around $1.4 trillion in 2027, with surging memory costs accounting for most of the increase.",
+      "pub_date": "2026-09-19T04:45:49Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ubs-now-expects-ai-capex-044549899.html"
+    },
     {
       "title": "Nvidia, SK Hynix send strong signal to Micron investors",
       "summary": "With Micron\u2019s earnings report looming, competitors have weighed in on the same pressure they\u2019re all feeling.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-18T18:15:22Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-calls-intel-intc-181522000.html"
-    },
-    {
-      "title": "Intel Slips 1.7% as Its CEO Prices the Memory Bottleneck",
-      "summary": "Component inflation supports AI scarcity while raising the cost of systems carrying Intel processors.",
-      "pub_date": "2026-09-18T18:14:47Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-slips-1-7-ceo-181447848.html"
     }
   ]
 }

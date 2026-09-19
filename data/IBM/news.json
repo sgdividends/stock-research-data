@@ -1,7 +1,14 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-09-19T02:41:46.179454+00:00",
+  "generated_at": "2026-09-19T08:27:37.065139+00:00",
   "items": [
+    {
+      "title": "IBM Once Held Nvidia's Spot as Tech's Biggest Name. The Stock Just Crashed 25%. Here's the Comeback Case.",
+      "summary": "IBM stock fell 25% after a weak Q2. Here's why Red Hat, hybrid cloud, and a 31-year dividend streak keep its comeback case alive.",
+      "pub_date": "2026-09-18T23:00:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ibm-once-held-nvidias-spot-230002527.html"
+    },
     {
       "title": "IONQ Stock Surges On Tech Wins, But The Heavy Burn Persists",
       "summary": "IonQ (IONQ) shares rose 9.5% on Thursday, closing at $40.34 after six sessions that had mostly gone the other way. The reason on offer was research: quantum algorithms running inside mainstream engineering software, developed with Synopsys, sped up complex industrial design by up to 14.6%. That is genuine progress. It is also not a sale, and the price you pay for IonQ already assumes a great many sales.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-18T16:22:33Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-enterprise-stock-keep-162233602.html"
-    },
-    {
-      "title": "This Doctor Runs a $2.3 Billion Health Startup. He Says This Is Why Walmart and IBM Couldn\u2019t Crack Healthcare.",
-      "summary": "Doctor-CEO Oliver Kharraz explained why healthcare keeps humbling corporate giants.",
-      "pub_date": "2026-09-18T15:35:27Z",
-      "source": "Entrepreneur",
-      "url": "https://finance.yahoo.com/healthcare/articles/doctor-runs-2-3-billion-153527329.html"
     }
   ]
 }
