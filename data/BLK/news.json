@@ -1,7 +1,14 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-09-20T02:53:42.357854+00:00",
+  "generated_at": "2026-09-20T08:59:00.031206+00:00",
   "items": [
+    {
+      "title": "Bitcoin holds above $80,000 as ETF inflows revive institutional demand",
+      "summary": "Investing.com -- Bitcoin held above $80,000 over the weekend after rebounding from a turbulent week, supported by renewed institutional demand as U.S. spot Bitcoin exchange-traded funds recorded more than $433 million in net inflows on Friday.",
+      "pub_date": "2026-09-20T05:36:36Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-holds-above-80-000-053636303.html"
+    },
     {
       "title": "TotalEnergies (ENXTPA:TTE) Ties Up $1.8 Billion For African Infrastructure",
       "summary": "TotalEnergies (ENXTPA:TTE) agreed a $1.8b infrastructure partnership with Global Infrastructure Partners, a BlackRock unit, focused on African oil and gas assets. The transaction centers on midstream infrastructure, giving TotalEnergies additional access to capital tied to its African energy projects. Management presented the deal as a way to crystallize value in existing assets while refining how future projects are funded and managed. The $1.8b GIP partnership may reshape how TotalEnergies...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-18T21:35:04Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/forget-vym-blackrock-high-dividend-213504768.html"
-    },
-    {
-      "title": "ETF League Tables: Schwab Registers Hefty Inflows",
-      "summary": "<p>Table below reflects daily flows on September 17, 2026 and asset totals as of that date.</p>",
-      "pub_date": "2026-09-18T21:00:04Z",
-      "source": "etf.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-schwab-registers-210004452.html"
     }
   ]
 }

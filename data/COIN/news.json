@@ -1,7 +1,14 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-09-20T02:53:47.583736+00:00",
+  "generated_at": "2026-09-20T08:59:06.519275+00:00",
   "items": [
+    {
+      "title": "Coinbase (COIN) Says Custom AI Agents Drove Most Trading Activity Last Week",
+      "summary": "Coinbase Global (NasdaqGS:COIN) reported that its agentic trading stack powered most crypto transaction flows over the past week. Management highlighted Grok as a leading AI agent on the platform, driving a large share of AI agent-driven trading volumes. Developer-built custom interfaces using Coinbase for Agents and the x402 payment protocol accounted for the majority of notional market activity. The rise of Coinbase\u2019s agent-driven trading workflows, led by Grok and custom agents, needs to...",
+      "pub_date": "2026-09-20T04:18:32Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-coin-says-custom-ai-041832902.html"
+    },
     {
       "title": "Dow Jones Futures: Can The Market Rally Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
       "summary": "The stock market showed choppy, mixed weekly action. But Robinhood, Sandisk, AMD and Moderna rallied into buy areas.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-19T17:33:01Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/crypto/articles/t-rowe-prices-head-digital-173301826.html"
-    },
-    {
-      "title": "Coinbase Files With CFTC To List US Single-Stock Perpetual Futures, Including AAPL And TSLA Contracts",
-      "summary": "Coinbase\u2019s filing used an Apple contract as its model, which is cash-settled, has no fixed expiration, and would trade from Sunday to Friday.",
-      "pub_date": "2026-09-19T15:11:11Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/options/articles/coinbase-files-cftc-list-us-151111791.html"
     }
   ]
 }

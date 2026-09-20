@@ -1,7 +1,14 @@
 {
   "ticker": "IT",
-  "generated_at": "2026-09-20T02:54:06.493259+00:00",
+  "generated_at": "2026-09-20T08:59:28.871846+00:00",
   "items": [
+    {
+      "title": "Check Point Software Technologies (CHKP) Stock Could Be Below Fair Value After 33% Fall",
+      "summary": "Check Point Software Technologies has seen its share price fall sharply over the past year, which puts the spotlight squarely on what investors are really paying for its cash flows today. With the stock at US$132.71 at the last close, the key issue is whether that price lines up with what a Discounted Cash Flow (DCF) view of the business suggests those cash streams are worth. The share price has fallen 32.9% over the past year, so the market has already reset expectations and put more...",
+      "pub_date": "2026-09-20T07:13:46Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/check-point-software-technologies-chkp-071346711.html"
+    },
     {
       "title": "eGain (EGAN): B. Riley and Roth Capital Both Cut Targets as AI Growth Struggles to Offset Legacy Declines",
       "summary": "On September 3, 2026, eGain Corporation (NASDAQ:EGAN) reported fiscal 2026 fourth-quarter and full-year results. Full-year revenue rose 3% to $91.1 million, AI customer revenue grew 20%, and adjusted EBITDA climbed to $13.6 million, a 15% margin, up from 10% a year earlier. Operating cash flow reached a record $21.2 million. Fiscal 2027 guidance calls for [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-16T15:29:00Z",
       "source": "CIO Dive",
       "url": "https://finance.yahoo.com/technology/ai/articles/global-ai-spend-nearly-double-152900620.html"
-    },
-    {
-      "title": "GrokBot\u2019s $30 Entry Point: Can the Cheapest Agent Platform Sustain Agent Compute?",
-      "summary": "The Thirty-Dollar Mirage The math of the modern AI agent is a study in aggressive, perhaps reckless, optimism. At the center of this sits the SuperGrok subscription, which grants access to GrokBot for a flat $30 per month. It sounds like a bargain, especially when you consider that each user is effectively provisioned a persistent [\u2026]",
-      "pub_date": "2026-09-15T23:26:25Z",
-      "source": "Forkast News",
-      "url": "https://finance.yahoo.com/technology/ai/articles/grokbot-30-entry-point-cheapest-232625037.html"
     }
   ]
 }
