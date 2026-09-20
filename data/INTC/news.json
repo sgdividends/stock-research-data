@@ -1,7 +1,21 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-09-20T18:26:12.781032+00:00",
+  "generated_at": "2026-09-20T22:07:11.845405+00:00",
   "items": [
+    {
+      "title": "ASML (ASML) and Chip Giants like TSMC Plot a Bigger Canvas for Building AI Chips",
+      "summary": "On September 8, 2026, Reuters reported that ASML Holding N.V. (NASDAQ:ASML) plans to work with major customers. It includes Taiwan Semiconductor Manufacturing Company Limited (NYSE:TSM), Nvidia, Intel, Samsung, and SK Hynix to adapt its next-generation \u201cHigh NA\u201d extreme ultraviolet lithography tools so they can print larger data-center chips. It addresses a current limitation where the [\u2026]",
+      "pub_date": "2026-09-20T21:41:29Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/asml-asml-chip-giants-tsmc-214129428.html"
+    },
+    {
+      "title": "Why I'm Avoiding This Popular AI Stock Despite Its Growth Story",
+      "summary": "There are much better AI stocks to invest in right now.",
+      "pub_date": "2026-09-20T19:26:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/why-im-avoiding-popular-ai-192600316.html"
+    },
     {
       "title": "Intel Can Supply Only About Half of What Its Customers Want. That's a Better Problem Than It Sounds.",
       "summary": "A CEO apologizing for a chip shortage sounds like bad news -- unless fuller factories are a big part of the profit story.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-19T05:29:54Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-vs-intel-examining-052954692.html"
-    },
-    {
-      "title": "UBS now expects AI capex to reach nearly $1tn this year and around $1.4tn by 2027",
-      "summary": "Investing.com -- UBS now expects artificial intelligence capital expenditure to reach nearly $1 trillion in 2026 before climbing to around $1.4 trillion in 2027, with surging memory costs accounting for most of the increase.",
-      "pub_date": "2026-09-19T04:45:49Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ubs-now-expects-ai-capex-044549899.html"
-    },
-    {
-      "title": "What Does Micron Technology (MU) Warning Of Shortages Through 2027 Mean?",
-      "summary": "Micron Technology (NasdaqGS: MU) and Intel CEOs cautioned that memory chip shortages and higher prices could persist through 2027. Micron's leadership indicated on a recent call that supply constraints may only start to ease meaningfully from 2028 onward. Intel's CEO echoed the outlook for extended tightness in DRAM and NAND availability, pointing to heavy AI and data center demand. This warning from Micron and Intel about multi year memory shortages and rising prices is important context...",
-      "pub_date": "2026-09-19T00:19:15Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-micron-technology-mu-warning-001915512.html"
     }
   ]
 }

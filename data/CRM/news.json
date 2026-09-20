@@ -1,6 +1,6 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-09-20T18:25:53.075848+00:00",
+  "generated_at": "2026-09-20T22:06:52.956195+00:00",
   "items": [
     {
       "title": "3 notable business takes that flew under the radar this week",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-20T12:00:00Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/3-notable-business-takes-that-flew-under-the-radar-this-week-120000112.html"
+    },
+    {
+      "title": "Salesforce AIforce Makes the Agent the Enterprise UI \u2014 and Forces a Pricing Question",
+      "summary": "At Dreamforce 2026, Salesforce introduced AIforce, a strategic umbrella brand that signals a fundamental shift in how enterprise software is consumed. Rather than forcing users to navigate traditional dashboards, Salesforce is effectively turning the agent into the user interface. By bringing data, workflows, and business logic directly into external environments like Claude, Slack, and Lightning, [\u2026]",
+      "pub_date": "2026-09-20T21:10:06Z",
+      "source": "Forkast News",
+      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-aiforce-makes-agent-enterprise-211006919.html"
     },
     {
       "title": "Tech titan unveils surprising new role for Slack in AI expansion",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-18T16:21:48Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-apos-aiforce-offering-potential-162148065.html"
-    },
-    {
-      "title": "Salesforce unveils AIforce as Benioff takes shot at Microsoft",
-      "summary": "Salesforce\u2019s new AI layer could change how millions of workers access company data, and Benioff made sure Microsoft heard about it.",
-      "pub_date": "2026-09-18T16:03:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-unveils-aiforce-benioff-takes-160300047.html"
     }
   ]
 }
