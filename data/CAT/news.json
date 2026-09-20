@@ -1,7 +1,14 @@
 {
   "ticker": "CAT",
-  "generated_at": "2026-09-20T15:15:41.173776+00:00",
+  "generated_at": "2026-09-20T18:25:47.337625+00:00",
   "items": [
+    {
+      "title": "The Caterpillar Correction Shouldn't Last Much Longer",
+      "summary": "Caterpillar is in an excellent position as hyperscalers rush to spend capital on their AI build-outs.",
+      "pub_date": "2026-09-20T15:20:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-correction-shouldnt-last-much-152000520.html"
+    },
     {
       "title": "Oracle Has Committed Hundreds of Billions to AI Data Centers. These 2 Industrial Stocks Will Power Them.",
       "summary": "Oracle's AI spending spree needs power and cooling to match. Two industrial stocks are already cashing in on that demand.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-18T11:12:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/buy-ai-led-eme-pwr-111200822.html"
-    },
-    {
-      "title": "U.S. AI-Related Stocks Extend Rally Premarket",
-      "summary": "Stocks linked to the build-out in artificial intelligence continued to rally premarket. Intel rose 2.3%, Sandisk and Micron Technology rose 1.6% and 1.1% respectively.",
-      "pub_date": "2026-09-18T10:41:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/stocks/nikkei-rises-0-8-led-by-chip-related-stocks-2b0efbba?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

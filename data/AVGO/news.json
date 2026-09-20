@@ -1,7 +1,14 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-09-20T15:15:36.518380+00:00",
+  "generated_at": "2026-09-20T18:25:42.062567+00:00",
   "items": [
+    {
+      "title": "Jim Cramer shares a strong verdict on Broadcom stock for investors",
+      "summary": "Jim Cramer watched what happened to Broadcom stock on September 14 and came to Mad Money that evening with a very specific read on the selloff.",
+      "pub_date": "2026-09-20T17:47:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-strong-verdict-174700887.html"
+    },
     {
       "title": "3 Stocks Bound to Ignore The September Effect",
       "summary": "The September Effect can sink stocks, but likely not these three.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-18T17:47:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/macom-stock-bmo-upgrade-ai-chips-f0be4a1d?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Why XLK\u2019s Next Rebalance Won\u2019t Fix Its Massive Concentration Problem",
-      "summary": "XLK markets itself as diversified large-cap tech exposure, but a closer look at the holdings reveals a chip bet so large that even a quarterly rebalance may do nothing to shrink it.",
-      "pub_date": "2026-09-18T17:25:40Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-xlk-next-rebalance-won-172540422.html"
     }
   ]
 }

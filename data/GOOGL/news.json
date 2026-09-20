@@ -1,6 +1,6 @@
 {
   "ticker": "GOOGL",
-  "generated_at": "2026-09-20T15:16:02.498944+00:00",
+  "generated_at": "2026-09-20T18:26:07.516269+00:00",
   "items": [
     {
       "title": "How small businesses should be deploying AI, according to Codie Sanchez",
@@ -8,6 +8,20 @@
       "pub_date": "2026-09-20T12:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/small-businesses-deploying-ai-according-120000799.html"
+    },
+    {
+      "title": "Billionaire Bill Ackman Dumps Alphabet and Loads Up On a Mega-Cap Stock Down 15% From Its Peak",
+      "summary": "Bill Ackman sold Alphabet and bought Meta Platforms during Q2.",
+      "pub_date": "2026-09-20T17:23:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-dumps-alphabet-172300077.html"
+    },
+    {
+      "title": "The AI Agent Wars Just Got Personal: Google\u2019s CC vs. Meta\u2019s Muse",
+      "summary": "Google and Meta just launched competing AI agents that actually take actions in your digital life, not just answer questions, and a retirement investor writing one check today faces a choice where the valuations, margins, and balance sheets tell very different stories.",
+      "pub_date": "2026-09-20T16:14:57Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-agent-wars-just-got-161457832.html"
     },
     {
       "title": "OpenAI Just Beat Google, Meta, and Amazon To This Key Milestone. Is It Bullish for AI Stocks.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-20T09:35:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-anthropics-ipo-big-winner-093500839.html"
-    },
-    {
-      "title": "Four Paid Subscribers Are Suing the Biggest AI Labs for Coordinating a Slowdown",
-      "summary": "On September 18, 2026, four paid subscribers to major AI platforms filed a class-action lawsuit, Buist et al. v. Anthropic PBC et al., in the Northern District of California. The plaintiffs\u2014Charles Buist, Nick Spetsas, Cheyenne Hunt, and Christine Bullock\u2014allege that Anthropic, OpenAI, SpaceXAI, and Google have entered into an unlawful agreement to restrain trade. By [\u2026]",
-      "pub_date": "2026-09-20T09:28:04Z",
-      "source": "Forkast News",
-      "url": "https://finance.yahoo.com/technology/ai/articles/four-paid-subscribers-suing-biggest-092804842.html"
-    },
-    {
-      "title": "Nvidia (NVDA) Forms Alliance To Build A Power Flexible AI Data Center",
-      "summary": "NVIDIA (NasdaqGS:NVDA), Google, and Emerald AI have created the AI Energy Management Alliance to coordinate electricity use in AI data centers. The alliance has started building what it calls the first purpose-built power-flexible AI data center, designed to adjust consumption with grid needs. AEMA plans to publish shared frameworks for grid-responsive data centers with input from utilities, regulators, and large AI infrastructure users. The formation of AEMA and the power-flexible data...",
-      "pub_date": "2026-09-19T23:09:32Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-forms-alliance-build-230932870.html"
     }
   ]
 }
