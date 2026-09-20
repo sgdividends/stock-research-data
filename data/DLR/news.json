@@ -1,7 +1,14 @@
 {
   "ticker": "DLR",
-  "generated_at": "2026-09-19T22:02:21.217124+00:00",
+  "generated_at": "2026-09-20T02:53:52.269516+00:00",
   "items": [
+    {
+      "title": "What It\u2019s Like to Work in One of America\u2019s Data Centers",
+      "summary": "Powering the country\u2019s massive AI build-out requires a lot of walking, checking for burning smells and monitoring for bird damage.",
+      "pub_date": "2026-09-19T23:00:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/what-its-like-to-work-in-one-of-americas-data-centers-b4358003?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Digital Realty (DLR): Can a Data Center Landlord Become the Control Panel for Enterprise AI?",
       "summary": "On September 15, Digital Realty (NYSE:DLR) made ServiceFabric MCP available, a software layer that lets AI agents design, monitor and troubleshoot network connections across more than 800 data centers, including third-party sites. That nudges a real estate company toward becoming a control panel for enterprise AI. It arrives after second quarter results reported on July [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-14T18:25:53Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-shares-sink-bernstein-warns-182553714.html"
-    },
-    {
-      "title": "AI-Focused, Grid-Aware Data Center Push Could Be A Game Changer For Digital Realty Trust (DLR)",
-      "summary": "In early September 2026, Digital Realty expanded its global data center footprint by opening the 6.4 MW Nairobi Two facility, rebranding iColo in Kenya and Mozambique, appointing a new Iberia managing director, and advancing an AI-focused, grid-aware research data center project in Virginia with Emerald AI and NVIDIA. Together, these moves deepen Digital Realty\u2019s presence in emerging and Southern European markets while highlighting its role in developing power-efficient, AI-ready...",
-      "pub_date": "2026-09-14T16:11:22Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-focused-grid-aware-data-161122920.html"
     }
   ]
 }

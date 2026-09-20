@@ -1,6 +1,6 @@
 {
   "ticker": "GOOGL",
-  "generated_at": "2026-09-19T22:02:31.283632+00:00",
+  "generated_at": "2026-09-20T02:54:01.513598+00:00",
   "items": [
     {
       "title": "GM brings back Apple CarPlay as buyers demand it",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-19T12:10:47Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/gm-brings-back-apple-carplay-as-buyers-demand-it-121047213.html"
+    },
+    {
+      "title": "Nvidia (NVDA) Forms Alliance To Build A Power Flexible AI Data Center",
+      "summary": "NVIDIA (NasdaqGS:NVDA), Google, and Emerald AI have created the AI Energy Management Alliance to coordinate electricity use in AI data centers. The alliance has started building what it calls the first purpose-built power-flexible AI data center, designed to adjust consumption with grid needs. AEMA plans to publish shared frameworks for grid-responsive data centers with input from utilities, regulators, and large AI infrastructure users. The formation of AEMA and the power-flexible data...",
+      "pub_date": "2026-09-19T23:09:32Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-forms-alliance-build-230932870.html"
     },
     {
       "title": "Three Frontier Labs Are Building a FINRA-Style Safety Body. History Suggests It Won\u2019t Be a Brake.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-19T09:25:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-selling-2-magnificent-092500847.html"
-    },
-    {
-      "title": "The S&P 500 Has Returned About 11% Annually Since 1958. Here's the ETF I'd Trust for the Next 30 Years.",
-      "summary": "Investors need something that evolves with a changing economy.",
-      "pub_date": "2026-09-19T09:00:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-returned-11-annually-090000695.html"
     }
   ]
 }
