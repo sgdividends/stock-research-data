@@ -1,7 +1,14 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-09-20T08:59:05.232050+00:00",
+  "generated_at": "2026-09-20T15:15:43.991986+00:00",
   "items": [
+    {
+      "title": "Not Just Banks: 3 Trading Stocks to Watch After the Fed Rate Hike",
+      "summary": "The Fed raised rates 25 basis points on Sept. 16, and brokers and exchanges like Interactive Brokers, Robinhood, and CME Group stand to benefit from the new hiking cycle.",
+      "pub_date": "2026-09-19T11:45:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/not-just-banks-3-trading-114500049.html"
+    },
     {
       "title": "CME Group (CME) Debuts New Loan Futures As Metals Trading Hits Records",
       "summary": "CME Group (NasdaqGS:CME) introduced S&P UBS USD Liquid Leveraged Loan Index futures, adding a new tool for leveraged loan exposure. The contract is based on the S&P UBS USD Liquid Leveraged Loan Index, jointly developed with S&P Dow Jones Indices and UBS. Management highlighted record 24/7 trading activity in gold and silver futures, noting strong retail engagement in precious metals. The group outlined significant executive promotions and leadership transitions as part of its planned...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-16T12:50:01Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cme-vs-morningstar-financial-stock-125001622.html"
-    },
-    {
-      "title": "Fed expected to raise interest rates for first time since 2023",
-      "summary": "Traders see better than a 90% chance the FOMC votes Wednesday to lift the federal funds rate to a target range of 3.75%\u20134%",
-      "pub_date": "2026-09-16T12:23:19Z",
-      "source": "Quartz",
-      "url": "https://finance.yahoo.com/economy/policy/articles/fed-expected-raise-interest-rates-122319797.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "F",
-  "generated_at": "2026-09-20T08:59:17.818173+00:00",
+  "generated_at": "2026-09-20T15:15:57.166347+00:00",
   "items": [
+    {
+      "title": "Honda's Largest Recall In Recent History Cost Millions",
+      "summary": "Despite this recall first coming to light over a decade ago, Honda might have known about the issue a decade before that, but is still paying the price today.",
+      "pub_date": "2026-09-20T10:30:00Z",
+      "source": "Money Digest",
+      "url": "https://finance.yahoo.com/healthcare/articles/hondas-largest-recall-recent-history-103000091.html"
+    },
     {
       "title": "GM brings back Apple CarPlay as buyers demand it",
       "summary": "GM is bringing Apple CarPlay and Android Auto back to its vehicles, reversing one of the more unpopular decisions in the automaker's recent history.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-18T16:41:38Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/whats-going-tesla-stock-friday-164138175.html"
-    },
-    {
-      "title": "Automaker Stocks Reverse as Rotation Trade Unwinds: General Motors and Stellantis Fall 4%, Ford Pulls Back",
-      "summary": "Thursday's rotation rally handed automakers a one-day reprieve from months of pressure, but Friday morning that same trade ran straight into reverse, and the order in which Stellantis, GM, and Ford are falling tells the whole story.",
-      "pub_date": "2026-09-18T14:51:21Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/automaker-stocks-reverse-rotation-trade-145121478.html"
     }
   ]
 }

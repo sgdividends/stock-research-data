@@ -1,7 +1,14 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-09-20T08:59:43.546646+00:00",
+  "generated_at": "2026-09-20T15:16:22.170245+00:00",
   "items": [
+    {
+      "title": "Oracle CEO sends AI wake-up call to employees",
+      "summary": "Oracle\u2019s chief reveals what the AI productivity boom is missing",
+      "pub_date": "2026-09-20T14:37:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-ceo-sends-ai-wake-143700657.html"
+    },
     {
       "title": "Oracle (ORCL) Cloud Revenue Jumps 121% and its Backlog Hits $664 Billion. Can it Actually Deliver?",
       "summary": "Oracle Corporation (NYSE:ORCL) reported on September 10 that its revenue rose 30% in the fiscal first quarter, driven by a 121% jump in cloud infrastructure revenue. Cloud infrastructure is the business that rents computing power to AI companies. The company also said its remaining performance obligations, which are the value of contracts it has signed [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-18T22:48:40Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-oracle-orcl-stock-trading-224840340.html"
-    },
-    {
-      "title": "Workday Or Autodesk: Is The Louder AI Story The Better Stock?",
-      "summary": "If you own Workday (WDAY) or Autodesk (ADSK), you hold the same bet: the company that already keeps a customer's data gets paid as that customer adopts AI. Workday keeps HR and finance records, and Autodesk keeps design, manufacturing, and construction data.",
-      "pub_date": "2026-09-18T22:19:45Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/technology/articles/workday-autodesk-louder-ai-story-221945818.html"
     }
   ]
 }

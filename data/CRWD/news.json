@@ -1,7 +1,14 @@
 {
   "ticker": "CRWD",
-  "generated_at": "2026-09-20T08:59:08.150603+00:00",
+  "generated_at": "2026-09-20T15:15:46.742346+00:00",
   "items": [
+    {
+      "title": "Piper Sandler Flags Weakening Market Breadth as S&P 500 Declines 0.48%",
+      "summary": "Piper Sandler has advised caution on increasing equity exposure, citing deteriorating intermediate-term market breadth and momentum despite gains in selected sectors of the US stock market. In a note released Wednesday, the firm highlighted differences in performance across major indices and sectors.",
+      "pub_date": "2026-09-20T14:02:00Z",
+      "source": "InvestorsHub",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-flags-weakening-market-140200270.html"
+    },
     {
       "title": "CrowdStrike CEO sends strong six-word message on AI cyber safety",
       "summary": "CrowdStrike CEO George Kurtz says slowing AI won\u2019t erase security risks, sending CRWD stock to a record close.",
@@ -15,6 +22,13 @@
       "pub_date": "2026-09-19T14:11:02Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-lands-forrester-leadership-141102892.html"
+    },
+    {
+      "title": "These 3 Agentic AI Stocks Have More Than Hype Behind Their Growth Stories",
+      "summary": "ServiceNow, UiPath, and Palo Alto Networks show real agentic AI traction through earnings growth, enterprise adoption, and partnerships, making their fundamentals worth watching amid market volatility.",
+      "pub_date": "2026-09-19T12:35:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/technology/ai/articles/3-agentic-ai-stocks-more-123500759.html"
     },
     {
       "title": "CrowdStrike, HubSpot, Intuit, Cloudflare, and Okta Shares Plummet, What You Need To Know",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-18T19:24:44Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/stock-lists/ibd-big-cap-20/fortinet-ftnt-stock-cybersecurity-openai/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "SailPoint\u2019s (SAIL) Falcon Next-Gen SIEM Arrangement Fits Its Broader Identity Security Push",
-      "summary": "SailPoint Inc. (NASDAQ:SAIL), a leading player within the enterprise identity security space, recently expanded its strategic alliance with CrowdStrike. As part of the revised arrangement, the company\u2019s SailPoint SecOps Identity Intelligence will be integrated with CrowdStrike Falcon Next-Gen SIEM. This will help in expediting threat detection procedures, and will also incorporate access data and identity [\u2026]",
-      "pub_date": "2026-09-18T18:31:01Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/sailpoint-sail-falcon-next-gen-183101460.html"
-    },
-    {
-      "title": "ZS, CRWD, PANW Stock In Focus \u2014 Cybersecurity Firms Lead Weekly Nasdaq 100 Gains As AI Security Debate Intensifies",
-      "summary": "Growing anxieties about autonomous AI vulnerabilities and cyber threats have pushed cybersecurity shares to the top of the Nasdaq 100 this week.",
-      "pub_date": "2026-09-18T17:58:58Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/technology/ai/articles/zs-crwd-panw-stock-focus-175858672.html"
     }
   ]
 }
