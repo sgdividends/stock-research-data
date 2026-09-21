@@ -1,13 +1,27 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-09-21T17:39:52.626373+00:00",
+  "generated_at": "2026-09-21T22:57:33.949961+00:00",
   "items": [
+    {
+      "title": "How Far Could Zoom Communications Stock Fall In A Real Market Shock?",
+      "summary": "Zoom Communications (ZM) stock sits about 21% below its 52-week high after falling 17.4% over the past month, a month in which its quarterly report beat its own guidance. Over the past year it returned 2.9% while the S&P 500 returned 17.3%. The question for a holder is what a real market shock would add.",
+      "pub_date": "2026-09-21T19:54:15Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/far-could-zoom-communications-stock-195415457.html"
+    },
     {
       "title": "Snap Just Turned Its $2,195 Glasses Into an Nvidia AI Story",
       "summary": "Snap Inc. $2,195 SPECS glasses are being pitched as a new computer, not another pair of smart glasses. That distinction matters for Nvidia Corp: Snap is putting Nvidia\u2019s AI stack inside a wearable designed to understand the physical world, potentially...",
       "pub_date": "2026-09-21T16:30:12Z",
       "source": "Benzinga",
       "url": "https://finance.yahoo.com/technology/ai/articles/snap-just-turned-2-195-163012500.html"
+    },
+    {
+      "title": "Alphabet Pushes Deeper Into Voice AI With New Gemini Models",
+      "summary": "Alphabet is expanding Gemini deeper into real-time voice agents, adding another potential growth channel to an AI business already gaining considerable enterprise traction.",
+      "pub_date": "2026-09-21T16:03:54Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-pushes-deeper-voice-ai-160354581.html"
     },
     {
       "title": "Is It Too Late To Buy Microsoft Stock After Its Summer Run?",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-21T13:00:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-vs-twilio-customer-engagement-130000980.html"
-    },
-    {
-      "title": "Salesforce AIforce Makes the Agent the Enterprise UI \u2014 and Forces a Pricing Question",
-      "summary": "At Dreamforce 2026, Salesforce introduced AIforce, a strategic umbrella brand that signals a fundamental shift in how enterprise software is consumed. Rather than forcing users to navigate traditional dashboards, Salesforce is effectively turning the agent into the user interface. By bringing data, workflows, and business logic directly into external environments like Claude, Slack, and Lightning, [\u2026]",
-      "pub_date": "2026-09-20T21:10:06Z",
-      "source": "Forkast News",
-      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-aiforce-makes-agent-enterprise-211006919.html"
-    },
-    {
-      "title": "Tech titan unveils surprising new role for Slack in AI expansion",
-      "summary": "The workplace chat app is being pitched as the place where autonomous software agents get their orders.",
-      "pub_date": "2026-09-20T13:33:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/ai/articles/tech-titan-unveils-surprising-role-133300753.html"
     }
   ]
 }

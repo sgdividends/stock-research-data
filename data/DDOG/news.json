@@ -1,7 +1,14 @@
 {
   "ticker": "DDOG",
-  "generated_at": "2026-09-21T17:39:55.167460+00:00",
+  "generated_at": "2026-09-21T22:57:35.904630+00:00",
   "items": [
+    {
+      "title": "Fastly Soars 14% on AI Firewall Launch; Cloudflare Climbs 7%, Datadog Rises 5%",
+      "summary": "Fastly launched new AI traffic controls this morning and the whole edge security category moved with it, including rivals that announced nothing at all. The question buyers are not asking loudly enough is whether availability and adoption are the same thing.",
+      "pub_date": "2026-09-21T18:04:07Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fastly-soars-14-ai-firewall-180407439.html"
+    },
     {
       "title": "1 S&P 500 Stock for Long-Term Investors and 2 We Find Risky",
       "summary": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials, or structural headwinds.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-16T17:10:38Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/datadog-ddog-stock-could-bargain-171038181.html"
-    },
-    {
-      "title": "CSCO's Splunk AI Push Gains Momentum: Can It Outpace DDOG & CRWD?",
-      "summary": "Cisco Systems is gaining Splunk momentum with new AI security and observability tools as Datadog and CrowdStrike expand rival capabilities.",
-      "pub_date": "2026-09-16T14:48:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cscos-splunk-ai-push-gains-144800670.html"
     }
   ]
 }

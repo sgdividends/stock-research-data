@@ -1,7 +1,21 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-09-21T17:40:18.381531+00:00",
+  "generated_at": "2026-09-21T22:57:54.591913+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Rise Late Afternoon",
+      "summary": "Financial stocks were advancing in late Monday afternoon trading, with the NYSE Financial Index risi",
+      "pub_date": "2026-09-21T20:03:16Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-rise-afternoon-200316852.html"
+    },
+    {
+      "title": "Sector Update: Financial Stocks Advance Monday Afternoon",
+      "summary": "Financial stocks were advancing in Monday afternoon trading, with the NYSE Financial Index rising 0.",
+      "pub_date": "2026-09-21T18:06:46Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-advance-monday-180646256.html"
+    },
     {
       "title": "T-Mobile Stock Slips To More Than Two-Year Low \u2014 JPMorgan Cuts Target Ahead Of Q3 Citing Softer Service Revenue Outlook",
       "summary": "JPMorgan cut its TMUS target to $260 from $275 and kept an 'Overweight' rating, per TheFly.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-21T13:57:49Z",
       "source": "Quartz",
       "url": "https://finance.yahoo.com/markets/stocks/articles/qatar-investment-authority-jpmorgan-announce-135749954.html"
-    },
-    {
-      "title": "Sector Update: Financial Stocks Advance Pre-Bell Monday",
-      "summary": "Financial stocks were advancing pre-bell Monday, with the State Street Financial Select Sector SPDR",
-      "pub_date": "2026-09-21T13:23:35Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-advance-pre-132335682.html"
-    },
-    {
-      "title": "Fed Rate Hike Fails to Lift Bank Stocks as Market Reprices the Rally",
-      "summary": "The Fed raised rates for the first time in three years, and bank stocks promptly sold off. What looks like a contradiction might be a warning about where the trade goes from here.",
-      "pub_date": "2026-09-21T13:20:42Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fed-rate-hike-fails-lift-132042446.html"
     }
   ]
 }

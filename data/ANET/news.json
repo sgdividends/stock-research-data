@@ -1,7 +1,21 @@
 {
   "ticker": "ANET",
-  "generated_at": "2026-09-21T17:39:38.654514+00:00",
+  "generated_at": "2026-09-21T22:57:22.391098+00:00",
   "items": [
+    {
+      "title": "Arista Networks (ANET) Surpasses Market Returns: Some Facts Worth Knowing",
+      "summary": "In the most recent trading session, Arista Networks (ANET) closed at $205, indicating a +2.81% shift from the previous trading day.",
+      "pub_date": "2026-09-21T21:45:05Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-anet-surpasses-market-214505649.html"
+    },
+    {
+      "title": "Beyond NVIDIA: 2 AI Data Center Stocks to Buy for More Upside",
+      "summary": "Vertiv and Arista offer AI data-center exposure beyond GPUs, spanning power, cooling and networking as hyperscalers expand capacity.",
+      "pub_date": "2026-09-21T19:00:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/beyond-nvidia-2-ai-data-190000908.html"
+    },
     {
       "title": "2 Superior AI Infrastructure Stocks to Buy and Hold for 10 Years",
       "summary": "Arista Networks and Vertiv Holdings give investors two long-term ways to play the AI boom beyond the crowded chip trade.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-18T11:13:25Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-anet-raises-full-111325787.html"
-    },
-    {
-      "title": "Jim Cramer Presses OpenAI CFO on AI Spending. 6 Stocks Are Riding on What Happens Next",
-      "summary": "Jim Cramer put OpenAI's CFO on the spot about whether a safety-driven slowdown could pull the rug out from under billions in AI infrastructure spending, and her answer has direct consequences for six companies already banking on that money.",
-      "pub_date": "2026-09-17T19:17:15Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-presses-openai-cfo-191715552.html"
-    },
-    {
-      "title": "Is Cisco Stock Priced For Orders That Are Not Yet Revenue?",
-      "summary": "Cisco Systems (CSCO) grew revenue more slowly over the last twelve months than any other company in its peer group. Yet it trades on almost the same earnings multiple as Dell Technologies, the fastest grower of the five. Trailing growth does not explain that price on its own. Cisco's last quarter grew 18%, well ahead of its 11.8% twelve-month figure. The rest of the case rests on AI networking orders that are running well ahead of the revenue Cisco has booked from them.",
-      "pub_date": "2026-09-17T18:22:58Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-priced-orders-not-182258001.html"
     }
   ]
 }
