@@ -1,7 +1,14 @@
 {
   "ticker": "BAC",
-  "generated_at": "2026-09-20T22:06:44.226379+00:00",
+  "generated_at": "2026-09-21T02:50:51.668163+00:00",
   "items": [
+    {
+      "title": "BofA cuts to the chase on AI data center demand",
+      "summary": "Andrew Obin\u2019s team came back from a key Washington conference with a new risk investors need to watch.",
+      "pub_date": "2026-09-21T01:37:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bofa-cuts-chase-ai-data-013700947.html"
+    },
     {
       "title": "BofA drops stunning warning about Fed rate hikes",
       "summary": "BofA raises risk scenarios if Fed rate hikes miss inflation 2% target.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-18T15:21:20Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/economy/policy/articles/bofa-warns-warsh-fed-raising-152120842.html"
-    },
-    {
-      "title": "Stock Market Falls On AI Fears, Hawkish Fed But Bounces Back: Weekly Review",
-      "summary": "The stock market rebounded from solid losses weekly to turn mixed, with the Nasdaq leading a bullish move in a day two reaction to a hawkish Fed.",
-      "pub_date": "2026-09-18T13:50:15Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/stock-market-falls-on-ai-fears-hawkish-fed-bounces-back/?src=A00220&yptr=yahoo"
     }
   ]
 }
