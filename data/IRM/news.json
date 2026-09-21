@@ -1,7 +1,14 @@
 {
   "ticker": "IRM",
-  "generated_at": "2026-09-21T09:30:48.030930+00:00",
+  "generated_at": "2026-09-21T17:40:16.499577+00:00",
   "items": [
+    {
+      "title": "Ciena upgraded, Flutter downgraded: Wall Street's top analyst calls",
+      "summary": "Ciena upgraded, Flutter downgraded: Wall Street's top analyst calls",
+      "pub_date": "2026-09-21T13:47:10Z",
+      "source": "The Fly",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ciena-upgraded-flutter-downgraded-wall-134710881.html"
+    },
     {
       "title": "Jim Cramer on Iron Mountain (IRM): \u201cIt\u2019s Been an Incredible Stock\u201d",
       "summary": "Toward the end of the lightning round on September 17, a caller asked for Mad Money\u2019s host Jim Cramer\u2019s thoughts on Iron Mountain Incorporated (NYSE:IRM), and he replied: It\u2019s been an incredible stock. It\u2019s a real estate investment trust, basically. And you know, we know that they shred, 3% yield, down 20 points from its [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-05T05:06:54Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/iron-mountain-irm-stock-gets-050654721.html"
-    },
-    {
-      "title": "3 REITs Getting Paid as Big Tech Builds Out AI",
-      "summary": "Hyperscalers are signing multi-year leases at a pace that is rewriting the income playbook, and three REITs are quietly collecting the rent on every server warehouse in the deal. The question is which one fits a portfolio built for the long haul.",
-      "pub_date": "2026-09-04T19:22:57Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/real-estate/articles/3-reits-getting-paid-big-192257109.html"
     }
   ]
 }

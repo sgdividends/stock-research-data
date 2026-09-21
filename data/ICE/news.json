@@ -1,7 +1,14 @@
 {
   "ticker": "ICE",
-  "generated_at": "2026-09-21T09:30:46.819698+00:00",
+  "generated_at": "2026-09-21T17:40:14.425807+00:00",
   "items": [
+    {
+      "title": "Beat the Market Like Zacks: PBF, Palantir, Adobe in Focus",
+      "summary": "Market uncertainty persists, but Zacks highlights strong gains across key portfolios and stocks, including PBF, PLTR and ADBE",
+      "pub_date": "2026-09-21T12:10:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/beat-market-zacks-pbf-palantir-121000661.html"
+    },
     {
       "title": "Is Solana the Biggest Winner From the SEC\u2019s Tokenized Stock Rule? $465 Million of Stocks Already Trade There",
       "summary": "The SEC just opened a legal lane for tokenized stocks, and Solana already holds nearly half the market. But a closer look at the fine print reveals why its head start may count for less than it appears.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-14T21:30:02Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-14-2026/card/one-great-chart-a-stark-shift-in-the-mortgage-market-sHa2kYO5Qg0zd4MOAjT9?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "CBOE Stock Trades at 24% Discount to 52-Week High: More Upside Left?",
-      "summary": "CBOE trades 24.2% below its 52-week high, while robust volumes, recurring revenues and a raised 2026 growth outlook support its growth case.",
-      "pub_date": "2026-09-14T13:33:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cboe-stock-trades-24-discount-133300449.html"
     }
   ]
 }

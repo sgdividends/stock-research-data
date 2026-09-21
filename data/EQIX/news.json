@@ -1,7 +1,14 @@
 {
   "ticker": "EQIX",
-  "generated_at": "2026-09-21T09:30:37.460731+00:00",
+  "generated_at": "2026-09-21T17:40:00.948369+00:00",
   "items": [
+    {
+      "title": "Ciena upgraded, Flutter downgraded: Wall Street's top analyst calls",
+      "summary": "Ciena upgraded, Flutter downgraded: Wall Street's top analyst calls",
+      "pub_date": "2026-09-21T13:47:10Z",
+      "source": "The Fly",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ciena-upgraded-flutter-downgraded-wall-134710881.html"
+    },
     {
       "title": "Equinix Sees AI Driving Data Center Demand, Interconnection Growth",
       "summary": "Equinix (NASDAQ:EQIX) sees enterprise adoption of artificial intelligence accelerating demand for higher-density data center capacity, interconnection services and latency-sensitive infrastructure, executives said during a Barclays conference discussion. Arquelle Shaw, Equinix\u2019s President of the Am",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-15T03:23:02Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/equinix-eqix-links-comcast-fabric-032302954.html"
-    },
-    {
-      "title": "CoreWeave Shares Sink After Bernstein Warns Of Slower AI Training",
-      "summary": "CoreWeave Stock Plunges As AI Slowdown Threatens Rural Data Centers",
-      "pub_date": "2026-09-14T18:25:53Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-shares-sink-bernstein-warns-182553714.html"
     }
   ]
 }

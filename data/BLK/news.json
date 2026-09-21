@@ -1,7 +1,35 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-09-21T09:30:25.933134+00:00",
+  "generated_at": "2026-09-21T17:39:44.045125+00:00",
   "items": [
+    {
+      "title": "Bitcoin Climbs to $86,000",
+      "summary": "Bitcoin surged to $86,000 on Monday for the first time since January. The largest cryptocurrency recently traded around $86,000, up 6% from its 4 p.m. ET level on Friday. Crypto-linked stocks, including Coinbase Global and Strategy, also moved higher Monday morning in tandem with bitcoin.",
+      "pub_date": "2026-09-21T17:01:20Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-21-2026/card/bitcoin-climbs-above-85-000-after-etf-inflows-strategy-purchases-qgos9wls2EyYjd7Wbcs4?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Vanguard Renewables to acquire Generate Upcycle\u2019s US, Canada digesters",
+      "summary": "BlackRock-backed Vanguard will now have 19 facilities, with 10 more in development. The transaction, plus a separate one in the U.K., marks Generate Capital\u2019s exit from organics investments.",
+      "pub_date": "2026-09-21T12:38:00Z",
+      "source": "Waste Dive",
+      "url": "https://finance.yahoo.com/energy/articles/vanguard-renewables-acquire-generate-upcycle-123800801.html"
+    },
+    {
+      "title": "TotalEnergies partners with GIP for African oil and gas assets",
+      "summary": "Under the terms of the agreement, GIP will make a capital contribution of $1.8bn (\u00a31.34bn).",
+      "pub_date": "2026-09-21T10:39:10Z",
+      "source": "Offshore Technology",
+      "url": "https://finance.yahoo.com/energy/articles/totalenergies-partners-gip-african-oil-103910968.html"
+    },
+    {
+      "title": "Should You Invest in the iShares U.S. Consumer Discretionary ETF (IYC)?",
+      "summary": "Sector ETF report for IYC",
+      "pub_date": "2026-09-21T10:20:02Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/invest-ishares-u-consumer-discretionary-102002712.html"
+    },
     {
       "title": "BlackRock's US Equity ETF Head Says Bitcoin's Diversifier Role 'Still Very Much Holds' As AI's Best Bets Move 'Outside Of Tech'",
       "summary": "BlackRock\u2019s Jacobs argued Bitcoin still serves as a portfolio diversifier despite institutional adoption.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-09-19T22:15:54Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/blackrock-blk-launches-lifepath-solutions-221554034.html"
-    },
-    {
-      "title": "Could Circle Internet Group (CRCL) Become A Bigger Force In Onchain Finance?",
-      "summary": "Circle Internet Group (NYSE:CRCL) launched Arc, a purpose-built open Layer 1 blockchain for financial markets, as its public mainnet. Arc integrates Circle's USDC and EURC stablecoins for payments, FX, trading, lending, and asset issuance with dollar-denominated gas fees. The network is backed by an institutional validator set that includes BlackRock, DTCC, Mastercard, Visa, and other financial players. More than 100 ecosystem partners, including banks, payment networks, asset managers,...",
-      "pub_date": "2026-09-19T20:10:21Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/could-circle-internet-group-crcl-201021105.html"
-    },
-    {
-      "title": "\u2018I screwed up\u2019: Larry Fink lost $100M in a single quarter, got pushed out, and built BlackRock on top of the wreckage",
-      "summary": "Fink said he was \"on track to become CEO of the firm.\"",
-      "pub_date": "2026-09-19T11:45:00Z",
-      "source": "Moneywise",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/screwed-larry-fink-lost-100m-114500926.html"
-    },
-    {
-      "title": "State regulators approve sale of AES Ohio\u2019s parent company",
-      "summary": "The Public Utilities Commission of Ohio issued an order authorizing the acquisition of AES Ohio\u2019s parent company by a consortium led by Global Infrastructure Partners, a part of BlackRock, and the EQT Infrastructure VI fund. The $33 billion acquisition, first announced in March, is not final, a spokeswoman for Dayton electric utility AES Ohio said Thursday, Sept. 17. But approval by the Public ...",
-      "pub_date": "2026-09-19T03:59:00Z",
-      "source": "Dayton Daily News, Ohio",
-      "url": "https://finance.yahoo.com/energy/articles/state-regulators-approve-sale-aes-035900879.html"
-    },
-    {
-      "title": "The Code is the Credit: S&P Global\u2019s Acquisition of OpenZeppelin",
-      "summary": "In a move that signals the final maturation of digital asset infrastructure, S&P Global announced on September 17, 2026, its acquisition of OpenZeppelin. This is not merely a corporate consolidation; it is the formal emergence of a \u2018credit rating for code\u2019\u2014a necessary evolution for institutional tokenization to move from experimental sandbox to the bedrock of [\u2026]",
-      "pub_date": "2026-09-19T01:37:45Z",
-      "source": "Forkast News",
-      "url": "https://finance.yahoo.com/technology/ai/articles/code-credit-p-global-acquisition-013745909.html"
     }
   ]
 }

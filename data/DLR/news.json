@@ -1,7 +1,14 @@
 {
   "ticker": "DLR",
-  "generated_at": "2026-09-21T09:30:34.403808+00:00",
+  "generated_at": "2026-09-21T17:39:56.564930+00:00",
   "items": [
+    {
+      "title": "Ciena upgraded, Flutter downgraded: Wall Street's top analyst calls",
+      "summary": "Ciena upgraded, Flutter downgraded: Wall Street's top analyst calls",
+      "pub_date": "2026-09-21T13:47:10Z",
+      "source": "The Fly",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ciena-upgraded-flutter-downgraded-wall-134710881.html"
+    },
     {
       "title": "3 Buy-Rated REITs Collecting Rent From Warehouses, Data Centers and Shopping Centers",
       "summary": "Three landlords collecting rent from warehouses, data centers and grocery stores are all printing record leasing numbers heading into late 2026, and the common thread behind each one reveals a demand story that goes deeper than the property type.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-15T09:52:48Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/ai/articles/texas-cape-town-tightening-data-095248616.html"
-    },
-    {
-      "title": "Texas Put AI Data Centers on Notice. Meta and Digital Realty Already Chose Their Side",
-      "summary": "Texas is no longer treating every proposed data center as an automatic addition to the grid. On August 3, Governor Greg Abbott ordered an audit of projects moving through ERCOT\u2019s interconnection process, which contained more than 474 gigawatts of requests, over five times the state\u2019s record peak demand. ERCOT began issuing verification requests on September [\u2026]",
-      "pub_date": "2026-09-14T18:55:57Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/texas-put-ai-data-centers-185557597.html"
     }
   ]
 }

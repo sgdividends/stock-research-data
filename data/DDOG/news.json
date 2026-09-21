@@ -1,7 +1,14 @@
 {
   "ticker": "DDOG",
-  "generated_at": "2026-09-21T09:30:33.382933+00:00",
+  "generated_at": "2026-09-21T17:39:55.167460+00:00",
   "items": [
+    {
+      "title": "1 S&P 500 Stock for Long-Term Investors and 2 We Find Risky",
+      "summary": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials, or structural headwinds.",
+      "pub_date": "2026-09-21T13:26:25Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-long-132625167.html"
+    },
     {
       "title": "Datadog (DDOG) Outpaces Stock Market Gains: What You Should Know",
       "summary": "Datadog (DDOG) concluded the recent trading session at $236, signifying a +2.26% move from its prior day's close.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-16T14:48:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/cscos-splunk-ai-push-gains-144800670.html"
-    },
-    {
-      "title": "Is Analyst Optimism Enough To Justify Datadog\u2019s (DDOG) Premium Valuation In Observability And Security?",
-      "summary": "In recent weeks, Datadog has attracted heightened investor attention as analysts highlight its consistent record of beating consensus revenue and EPS estimates and its current Zacks Rank #3 (Hold) amid modest upward earnings revisions. An interesting angle is that this analyst enthusiasm comes even as Datadog trades at a premium to many software peers, reflecting confidence in its unified, cloud-native observability and security platform that serves infrastructure, application, log,...",
-      "pub_date": "2026-09-16T11:12:08Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-optimism-enough-justify-datadog-111208164.html"
     }
   ]
 }

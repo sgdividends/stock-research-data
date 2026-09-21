@@ -1,7 +1,35 @@
 {
   "ticker": "MA",
-  "generated_at": "2026-09-21T09:30:52.770087+00:00",
+  "generated_at": "2026-09-21T17:40:23.625400+00:00",
   "items": [
+    {
+      "title": "The Nest Campus CEO Peter Gilmer Sets Scene for Its Climate Week Conference",
+      "summary": "The Nest Campus CEO Peter Gilmer joins Kristen Scholer on NYSE Live to Sets the Scene for Its Climate Week Conference",
+      "pub_date": "2026-09-21T14:31:19Z",
+      "source": "NYSE",
+      "url": "https://finance.yahoo.com/video/nest-campus-ceo-peter-gilmer-143119907.html"
+    },
+    {
+      "title": "Digital Payment Today - FMPay Revolutionizes Payments With New Acquiring Model",
+      "summary": "FMPay, a payment institution authorized by the FCA, has unveiled its card acquiring and payout model designed for mid-sized digital businesses and B2B fintechs. The two-layered operating model features an API-led processing stack focused on settlement and compliance, coupled with a human layer comprising dedicated risk experts who manage client outcomes and address problems in real time. This direct acquiring approach enables FMPay to handle pay-ins and payouts across Visa, Mastercard, and...",
+      "pub_date": "2026-09-21T12:37:36Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/digital-payment-today-fmpay-revolutionizes-123736367.html"
+    },
+    {
+      "title": "Visa, Mastercard, and Ant International Build First Cross-Network Know Your Agent Framework",
+      "summary": "The Illusion of Unity in Agentic Finance On September 9 and 10, 2026, the payments industry witnessed a rare moment of public alignment. Visa, Mastercard, and Ant International announced the development of a Cross-Network Know Your Agent (KYA) interoperability framework. Convened under the auspices of the Monetary Authority of Singapore\u2019s BuildFin.ai platform and building upon [\u2026]",
+      "pub_date": "2026-09-21T11:13:58Z",
+      "source": "Forkast News",
+      "url": "https://finance.yahoo.com/technology/ai/articles/visa-mastercard-ant-international-build-111358124.html"
+    },
+    {
+      "title": "Mastercard, Google push past passwords",
+      "summary": "The card network and the tech titan aim to reduce the need for one-time passwords and catalyze more use of biometric payments.",
+      "pub_date": "2026-09-21T09:38:00Z",
+      "source": "Payments Dive",
+      "url": "https://finance.yahoo.com/technology/articles/mastercard-google-push-past-passwords-093800830.html"
+    },
     {
       "title": "Could Circle Internet Group (CRCL) Become A Bigger Force In Onchain Finance?",
       "summary": "Circle Internet Group (NYSE:CRCL) launched Arc, a purpose-built open Layer 1 blockchain for financial markets, as its public mainnet. Arc integrates Circle's USDC and EURC stablecoins for payments, FX, trading, lending, and asset issuance with dollar-denominated gas fees. The network is backed by an institutional validator set that includes BlackRock, DTCC, Mastercard, Visa, and other financial players. More than 100 ecosystem partners, including banks, payment networks, asset managers,...",
@@ -29,34 +57,6 @@
       "pub_date": "2026-09-18T19:55:56Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/visa-stablecoin-settlements-grew-15-195556112.html"
-    },
-    {
-      "title": "Mastercard Holds Flat as Alchemy Gives AI Agents Spending Controls",
-      "summary": "Programmable cards widen Mastercard's distribution while making authorization rules central to adoption.",
-      "pub_date": "2026-09-18T18:24:38Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mastercard-holds-flat-alchemy-gives-182438115.html"
-    },
-    {
-      "title": "Visa, Mastercard $167.5 million settlement could mean money for ATM users. Who qualifies.",
-      "summary": "Visa and Mastercard customers may qualify for part of a $167.5 million settlement tied to a long-running ATM fee case.",
-      "pub_date": "2026-09-18T17:41:56Z",
-      "source": "Yahoo Personal Finance",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/visa-mastercard-1675-million-settlement-could-mean-money-for-atm-users-who-qualifies-174156944.html"
-    },
-    {
-      "title": "3 Stocks That Have Compounded Wealth for Decades. History Suggests the Next Decade Will Not Be Different",
-      "summary": "Three businesses have quietly turned a decade of reinvested cash flow into life-changing returns, and the structural engines behind those gains are still running. The question is whether a payments network, a cloud giant, and a membership warehouse can defy the law of large numbers for another ten years.",
-      "pub_date": "2026-09-18T14:59:07Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-compounded-wealth-decades-145907091.html"
-    },
-    {
-      "title": "AgentCard Gives AI Agents Their Own Identity. That Is the Point.",
-      "summary": "Alchemy\u2019s integration of AgentCard with Mastercard Agent Pay establishes a dedicated identity layer for autonomous software. By provisioning each agent with a unique email address, phone number, stablecoin wallet, and tokenized payment credentials, Alchemy is attempting to treat AI agents as distinct, verifiable entities rather than mere extensions of a user\u2019s existing account. This is [\u2026]",
-      "pub_date": "2026-09-18T11:09:40Z",
-      "source": "Forkast News",
-      "url": "https://finance.yahoo.com/technology/ai/articles/agentcard-gives-ai-agents-own-110940084.html"
     }
   ]
 }
