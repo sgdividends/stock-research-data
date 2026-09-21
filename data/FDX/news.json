@@ -1,7 +1,14 @@
 {
   "ticker": "FDX",
-  "generated_at": "2026-09-21T02:51:09.497037+00:00",
+  "generated_at": "2026-09-21T09:30:39.834872+00:00",
   "items": [
+    {
+      "title": "M&A Watch: PSKY-WBD Hurdle, Caesars Shareholder Vote, Union Pacific-Norfolk Southern, FedEx-InPost",
+      "summary": "Among the major deals in focus are Paramount Skydance and Warner Bros. Discovery\u2019s merger, Fertitta Entertainment\u2019s acquisition of Caesars Entertainment, Norfolk Southern\u2019s merger with Union Pacific, and FedEx\u2019s acquisition of InPost.",
+      "pub_date": "2026-09-21T07:04:23Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/m-watch-psky-wbd-hurdle-070423013.html"
+    },
     {
       "title": "FedEx Lease Rollover Raises Industrial CMBS Refi Risk",
       "summary": "FedEx has more industrial CMBS lease rollover exposure than Amazon as station closures increase scrutiny of single-tenant properties.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-18T19:18:34Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/diesel-prices-hit-record-high-no-escaping-record-prices/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "FedEx levies fees on US imports from Canada, Europe and others",
-      "summary": "The demand surcharges, which also include higher fees for China-to-U.S. volume, will take effect as parcel shippers gear up for peak season.",
-      "pub_date": "2026-09-18T15:26:00Z",
-      "source": "Supply Chain Dive",
-      "url": "https://finance.yahoo.com/economy/policy/articles/fedex-levies-fees-us-imports-152600577.html"
     }
   ]
 }

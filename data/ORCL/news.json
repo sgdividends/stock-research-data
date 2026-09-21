@@ -1,7 +1,14 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-09-21T02:51:32.705555+00:00",
+  "generated_at": "2026-09-21T09:30:59.282236+00:00",
   "items": [
+    {
+      "title": "Market Chatter: Microsoft-backed OpenAI Seeks Valuation Above $1.2 Trillion Despite Projected $278 Billion Cash Burn",
+      "summary": "Microsoft (MSFT)-backed OpenAI is seeking a valuation above $1.2 trillion in new funding discussions",
+      "pub_date": "2026-09-21T09:03:00Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-microsoft-backed-openai-090300004.html"
+    },
     {
       "title": "Michael Burry Warns Hyperscalers Are Hiding $3 Trillion In AI Liabilities \u2014 And Wall Street Isn\u2019t Looking: \u2018When The Music\u2019s Over\u2026\u2019",
       "summary": "Burry says the liabilities are growing more than the companies themselves.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-20T00:20:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/technology/ai/articles/oracle-committed-hundreds-billions-ai-002000642.html"
-    },
-    {
-      "title": "Could Oracle's Debt Load Derail Its AI Cloud Ambitions?",
-      "summary": "The risk of a sudden reversal in AI growth looms large over Oracle stock.",
-      "pub_date": "2026-09-19T22:09:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/could-oracles-debt-load-derail-220900578.html"
     }
   ]
 }

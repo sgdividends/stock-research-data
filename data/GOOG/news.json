@@ -1,6 +1,6 @@
 {
   "ticker": "GOOG",
-  "generated_at": "2026-09-21T02:51:12.903539+00:00",
+  "generated_at": "2026-09-21T09:30:43.448926+00:00",
   "items": [
     {
       "title": "How small businesses should be deploying AI, according to Codie Sanchez",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-20T12:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/small-businesses-deploying-ai-according-120000799.html"
+    },
+    {
+      "title": "Waymo is bringing driverless taxis to a fourth country",
+      "summary": "Alphabet\u2019s robotaxi unit found a government willing to admit what most regulators only mutter.",
+      "pub_date": "2026-09-21T03:07:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/waymo-bringing-driverless-taxis-fourth-030700608.html"
     },
     {
       "title": "Michael Burry Warns Hyperscalers Are Hiding $3 Trillion In AI Liabilities \u2014 And Wall Street Isn\u2019t Looking: \u2018When The Music\u2019s Over\u2026\u2019",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-20T21:51:11Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-amzn-debut-sterling-bond-215111018.html"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang Expects Chip Sales To Double Next Year as He Downplays AI Slowdown Calls: 'When a Product is Not Safe...'",
-      "summary": "Nvidia Corporation CEO Jensen Huang expects the company to double its chip sales in the coming year. \u201cI expect Nvidia to sell twice as many chips as this next year as we do this year,\u201d Huang said at a summit...",
-      "pub_date": "2026-09-20T21:30:34Z",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-expects-213034571.html"
     }
   ]
 }

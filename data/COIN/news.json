@@ -1,13 +1,27 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-09-21T02:50:58.711013+00:00",
+  "generated_at": "2026-09-21T09:30:30.544157+00:00",
   "items": [
+    {
+      "title": "Coinbase Stock Jumped 12% Last Friday. Bitcoin\u2019s Breakout Wasn\u2019t the Only Reason.",
+      "summary": "Key TakeawaysBitcoin Breakout: Coinbase stock jumped 12% on Friday, September 18, as bitcoin cleared $80,000 for the first time in weeks, making COIN the S&P 500\u2019s top percentage gainer that session. Split Verdict: The Street carries 18 buys, 3 outperforms, 11 holds, one underperform and one sell on Coinbase stock, with a $202 mean target sitting just 4% above Friday\u2019s close.",
+      "pub_date": "2026-09-21T04:34:49Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/coinbase-stock-jumped-12-last-043449751.html"
+    },
     {
       "title": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
       "summary": "The stock market showed choppy, mixed weekly action. But Robinhood, Sandisk, AMD and Moderna rallied into buy areas.",
-      "pub_date": "2026-09-21T02:33:51Z",
+      "pub_date": "2026-09-21T02:50:22Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-robinhood-sandisk-amd-moderna-surge-buy-areas/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Robinhood CEO Says Crypto Event-Contracts Will Overtake Sports Markets",
+      "summary": "Robinhood CEO Vlad Tenev tells CNBC he expects crypto to overtake sports as prediction markets' top category within years.",
+      "pub_date": "2026-09-21T02:19:44Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/robinhood-ceo-says-crypto-event-021944954.html"
     },
     {
       "title": "Crypto Blew Its Big Moment\u2014and the Blame Game Has Begun",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-20T04:18:32Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-coin-says-custom-ai-041832902.html"
-    },
-    {
-      "title": "Fairshake Has $193 Million for the Midterms. Which Coin Stands to Gain the Most on November 3?",
-      "summary": "Fairshake is sitting on $193 million to shape the midterms, but one crypto donor contributed for reasons far more personal than the others, betting the entire future of its business on what happens November 3.",
-      "pub_date": "2026-09-20T01:34:24Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/fairshake-193-million-midterms-coin-013424675.html"
-    },
-    {
-      "title": "Hyperliquid Surges 18% to New High as Bitcoin Sees 5% Gain. What\u2019s Behind the Divergence?",
-      "summary": "Hyperliquid just shattered its all-time high while Bitcoin barely budged, and the gap between them traces back to a single announcement that carries a $46 million price tag for anyone who wants in.",
-      "pub_date": "2026-09-20T01:14:55Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/hyperliquid-surges-18-high-bitcoin-011455205.html"
     }
   ]
 }
