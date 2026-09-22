@@ -1,7 +1,35 @@
 {
   "ticker": "ADI",
-  "generated_at": "2026-09-22T08:57:44.077979+00:00",
+  "generated_at": "2026-09-22T16:05:43.279401+00:00",
   "items": [
+    {
+      "title": "Microchip Rises 17% YTD: Should You Buy, Sell or Hold the Stock?",
+      "summary": "MCHP gains 17% YTD as demand, inventory normalization and data-center growth improve, but supply, debt and valuation risks remain.",
+      "pub_date": "2026-09-22T15:36:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microchip-rises-17-ytd-buy-153600758.html"
+    },
+    {
+      "title": "Analog Devices Sees Double-Digit Growth Into 2027 on Data Center, Industrial Demand",
+      "summary": "Analog Devices (NASDAQ:ADI) Chief Financial Officer Rich Puccio said the company expects demand strength across its portfolio to support double-digit growth into fiscal 2027, citing broad-based recovery in industrial markets alongside continued momentum in data centers, aerospace and defense, and au",
+      "pub_date": "2026-09-22T15:02:11Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analog-devices-sees-double-digit-150211734.html"
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights Procter & Gamble, Sandisk, Analog Devices, Monarch Cement and SUNation Energy",
+      "summary": "Procter & Gamble, Sandisk and Analog Devices headline Zacks research, with AI demand, innovation and operational gains shaping their outlooks.",
+      "pub_date": "2026-09-22T13:05:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-procter-130500942.html"
+    },
+    {
+      "title": "Why Did Vicor Stock Jump Before It Raised Its Outlook?",
+      "summary": "Vicor (VICR) stock gained 21.2% in the week to Monday, Sep 21, while the S&P 500 rose 1.9%. The spark was a new license for its AI power technology. The company said what that license adds to its sales only after Monday's close, when it raised its revenue outlook. So the shares paid for the deal before Vicor put a number on it.",
+      "pub_date": "2026-09-22T12:53:27Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-vicor-stock-jump-125327686.html"
+    },
     {
       "title": "Top Stock Reports for Procter & Gamble, Sandisk & Analog Devices",
       "summary": "Procter & Gamble, Sandisk and Analog Devices highlight strong brands, AI demand and recovery trends, while key risks could shape their outlook.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-09-18T11:25:29Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-cratered-3-months-wall-112529235.html"
-    },
-    {
-      "title": "ON Semiconductor Stock Is Already Half Off Its High, So How Low Could A Market Shock Take It?",
-      "summary": "ON Semiconductor (ON) stock trades near $67, about 50% below its 52-week high. It lost 43.7% over the trailing three months, ending with a 9.0% fall on September 16. Yet it is still up 38.4% over the trailing twelve months, against 15.5% for the S&P 500. The company's latest results show a business still shrinking but recovering, not one in trouble.",
-      "pub_date": "2026-09-17T20:37:51Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stock-already-half-off-203751135.html"
-    },
-    {
-      "title": "Can ADI's Industrial Segment Sustain Its Momentum Through 2026?",
-      "summary": "Analog Devices' Industrial segment surges 53% year over year in fiscal Q3 2026, but intense competition and inventory trends could shape its next phase.",
-      "pub_date": "2026-09-17T15:00:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/adis-industrial-segment-sustain-momentum-150000305.html"
-    },
-    {
-      "title": "Should Analog Devices\u2019 New SHARC-FX Auto Audio Deal Shift the AI IP Story for Cadence (CDNS)?",
-      "summary": "In September 2026, Analog Devices announced it had worked with Cadence\u2019s Tensilica IP Group to create the new SHARC-FX automotive audio processors for its ADSP-SC84x/2184x platform, moving to 16nm technology and adding enhanced AI, audio, and security capabilities for software-defined vehicles. This collaboration extends Cadence\u2019s DSP architecture deeper into automotive edge compute, aligning its IP business with emerging in-cabin AI audio and voice applications. Next, we\u2019ll examine how...",
-      "pub_date": "2026-09-17T14:15:32Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/analog-devices-sharc-fx-auto-141532701.html"
-    },
-    {
-      "title": "What Is Cadence Design Systems (CDNS) Gaining From Its New Automotive AI Audio Push?",
-      "summary": "Cadence Design Systems (NasdaqGS:CDNS) is working with Analog Devices on new SHARC-FX automotive audio processors with AI and machine learning features. The SHARC-FX platform targets in-car audio and voice processing for software-defined vehicles that rely on real-time signal processing. The collaboration combines Cadence DSP core technology with Analog Devices hardware to support complex audio workloads in next-generation car architectures. The SHARC-FX automotive audio AI partnership is...",
-      "pub_date": "2026-09-17T10:11:34Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cadence-design-systems-cdns-gaining-101134770.html"
     }
   ]
 }

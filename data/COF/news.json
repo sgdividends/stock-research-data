@@ -1,7 +1,14 @@
 {
   "ticker": "COF",
-  "generated_at": "2026-09-22T08:57:59.672260+00:00",
+  "generated_at": "2026-09-22T16:06:01.449768+00:00",
   "items": [
+    {
+      "title": "Banks warn AI shopping agents outpace fraud protections",
+      "summary": "NatWest, Bank of America, and four other banks say consumers risk scams and data breaches as AI commerce tools advance faster than industry safeguards",
+      "pub_date": "2026-09-22T13:58:25Z",
+      "source": "Quartz",
+      "url": "https://finance.yahoo.com/technology/ai/articles/banks-warn-ai-shopping-agents-135825846.html"
+    },
     {
       "title": "What Capital One Financial (COF)'s Eurobond Issuance Means For Shareholders",
       "summary": "Earlier this month, Capital One Financial completed two euro-denominated fixed-income offerings, issuing \u20ac750 million fixed-to-floating rate notes due 2032 and another \u20ac750 million tranche due 2037, both senior, unsecured, callable Eurobonds with variable coupons priced at 100%. By tapping the euro bond market with these long-dated, variable-rate issues, Capital One Financial is diversifying its funding base and adding flexibility to how it manages its debt profile over time. We will now...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-16T07:39:49Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/1-cash-heavy-stock-long-073949042.html"
-    },
-    {
-      "title": "How To Make $3,500 in Free Checking Account Bonuses \u2014 Reddit Found a Way",
-      "summary": "After spending a few hours researching available promotions, a redditor strategized how to earn nearly $3,500 in bonus cash from checking account openings.",
-      "pub_date": "2026-09-15T17:00:22Z",
-      "source": "MoneyLion",
-      "url": "https://finance.yahoo.com/markets/articles/3-500-free-checking-account-170022834.html"
     }
   ]
 }

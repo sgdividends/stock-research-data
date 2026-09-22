@@ -1,6 +1,6 @@
 {
   "ticker": "SCHW",
-  "generated_at": "2026-09-22T08:58:47.960821+00:00",
+  "generated_at": "2026-09-22T16:06:55.809491+00:00",
   "items": [
     {
       "title": "Stocks, Bonds Climb as Oil Falls on US-Iran Hopes",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-21T15:55:51Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/video/stocks-bonds-climb-oil-falls-155551436.html"
+    },
+    {
+      "title": "5 Dividend Stocks That Combine Income, Earnings Growth, and Wall Street Support",
+      "summary": "Oracle, British American Tobacco, Cisco, Charles Schwab, and Goldman Sachs each combine dividend yield, projected earnings growth, and Moderate Buy analyst ratings, per MarketBeat data.",
+      "pub_date": "2026-09-21T14:20:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-dividend-stocks-combine-income-142000173.html"
     },
     {
       "title": "Crypto Scammers Stole 82-Year-Old\u2019s $1.7M \u2014 Now Charles Schwab Must Pay",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-18T03:44:00Z",
       "source": "BeInCrypto",
       "url": "https://finance.yahoo.com/markets/commodities/articles/charles-schwabs-sonders-favors-commodities-034400371.html"
-    },
-    {
-      "title": "Bond Rout Spurs Record Outflow From $3.6 Billion Schwab Muni ETF",
-      "summary": "A roughly $3.6 billion municipal-bond exchange-traded fund is careening toward its biggest monthly outflow ever, after a fixed-income selloff pushed muni yields to the highest in months.",
-      "pub_date": "2026-09-17T15:24:22Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/markets/options/articles/bond-rout-spurs-record-outflow-152422493.html"
     }
   ]
 }

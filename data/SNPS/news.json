@@ -1,7 +1,28 @@
 {
   "ticker": "SNPS",
-  "generated_at": "2026-09-22T08:58:49.152769+00:00",
+  "generated_at": "2026-09-22T16:06:56.944578+00:00",
   "items": [
+    {
+      "title": "The More Complicated Chips Become, the More Interesting Synopsys Gets",
+      "summary": "Chip design complexity is hitting levels only a handful of software vendors can handle, and one under-the-radar name keeps collecting a toll on every advanced design that ships. The question is whether Wall Street has already priced in its edge or is still sleeping on it.",
+      "pub_date": "2026-09-22T15:00:58Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/more-complicated-chips-become-more-150058767.html"
+    },
+    {
+      "title": "Wall Street Analysts See a 37.44% Upside in Synopsys (SNPS): Can the Stock Really Move This High?",
+      "summary": "The mean of analysts' price targets for Synopsys (SNPS) points to a 37.4% upside in the stock. While this highly sought-after metric has not proven reasonably effective, strong agreement among analysts in raising earnings estimates does indicate an upside in the stock.",
+      "pub_date": "2026-09-22T13:55:02Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-see-37-135502971.html"
+    },
+    {
+      "title": "IonQ's New Research Shows Up to 14.6% Gains in Engineering Workloads",
+      "summary": "IONQ and Synopsys' integrated quantum algorithms can accelerate engineering simulations by up to 14.6%, potentially cutting complex workloads by a day.",
+      "pub_date": "2026-09-22T12:31:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ionqs-research-shows-14-6-123100661.html"
+    },
     {
       "title": "Can Growth Alone Carry Autodesk Stock Back Up?",
       "summary": "Autodesk (ADSK) trades near $217, about 32% lower than a year ago. Investors fear AI tools could disrupt its software, and the shares dropped after the late-August report. Yet revenue over the past twelve months reached $7.8 billion, up 17.9%. A three-year scenario on its own numbers shows how much of that growth could reach the stock.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-17T20:54:03Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/far-could-autodesk-stock-rebound-205403813.html"
-    },
-    {
-      "title": "Why IonQ (IONQ) Stock Is Trading Up Today",
-      "summary": "Shares of quantum computing company IonQ (NYSE:IONQ) jumped 10.1% in the afternoon session after the company announced joint research with Synopsys showing that quantum algorithms accelerated industrial design simulations by up to 14.6%. According to a company press release, the work embedded an advanced quantum algorithm into Synopsys\u2019s Ansys LS-DYNA simulation software to reorganize equations more efficiently and cut calculation time for complex automotive and jet-engine simulations. IonQ said",
-      "pub_date": "2026-09-17T19:38:17Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-ionq-ionq-stock-trading-193817955.html"
-    },
-    {
-      "title": "Why IonQ Stock Popped Today",
-      "summary": "IonQ made a breakthrough. It doesn't make IonQ stock a buy, however.",
-      "pub_date": "2026-09-17T17:08:15Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-ionq-stock-popped-today-170815137.html"
-    },
-    {
-      "title": "Should You Invest in Synopsys (SNPS) Based on Bullish Wall Street Views?",
-      "summary": "Based on the average brokerage recommendation (ABR), Synopsys (SNPS) should be added to one's portfolio. Wall Street analysts' overly optimistic recommendations cast doubt on the effectiveness of this highly sought-after metric. So, is the stock worth buying?",
-      "pub_date": "2026-09-17T13:30:03Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/invest-synopsys-snps-based-bullish-133003849.html"
     }
   ]
 }
