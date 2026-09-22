@@ -1,7 +1,35 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-09-22T16:06:44.155136+00:00",
+  "generated_at": "2026-09-22T22:38:36.057501+00:00",
   "items": [
+    {
+      "title": "How Far Could CRM Stock Swing In A Year?",
+      "summary": "Salesforce (CRM) stock trades at about $236 after returning about 58% over three months. Its options now price a range over roughly a year that runs from about $152 to about $368. The bottom of that band is a price the stock has already traded through within the past year, and the market is pricing the band a little calmer than the stock has actually moved.",
+      "pub_date": "2026-09-22T20:57:37Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/far-could-crm-stock-swing-205737098.html"
+    },
+    {
+      "title": "Is UiPath Stock Cheap Because Of What AI Might Do?",
+      "summary": "UiPath (PATH) has fallen about 27% from its one-month high, though it is still up 34% over three months. The stock trades at 19.5 times earnings, against an S&P 500 median of 22.6. For a software company growing faster than most of the market, that looks like a gift. The question is whether investors see an AI threat the numbers do not show yet.",
+      "pub_date": "2026-09-22T19:18:53Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/uipath-stock-cheap-because-ai-191853809.html"
+    },
+    {
+      "title": "Salesforce vs. ServiceNow: Which Technology Stock Is a Better Buy in 2026?",
+      "summary": "Salesforce offers a more attractive valuation and proven cash generation. ServiceNow offers faster growth and a more defensible market position.",
+      "pub_date": "2026-09-22T18:13:34Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-vs-servicenow-technology-stock-181334118.html"
+    },
+    {
+      "title": "The AI Software Story Wall Street Is Underrating",
+      "summary": "Salesforce's agentic AI business is scaling at a pace that would make most enterprise software companies envious, yet the stock keeps getting priced like a relic from the CRM era. Something in that gap looks like an opportunity Wall Street has not yet caught up to.",
+      "pub_date": "2026-09-22T17:30:10Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-software-story-wall-street-173010261.html"
+    },
     {
       "title": "AI Alliances And Raised Targets Could Be A Game Changer For ServiceNow (NOW)",
       "summary": "Recent commentary highlights that ServiceNow is seeing strong demand for its workflow platform, benefiting from AI-focused partnerships, cross-selling success, and an expanded ecosystem that has led management to raise its 2026 subscription revenue midpoint. At the same time, ServiceNow is increasingly positioned as a key competitor in AI-driven, cloud-based enterprise software, facing off against players like Salesforce and Atlassian while leveraging collaborations with Microsoft and...",
@@ -29,34 +57,6 @@
       "pub_date": "2026-09-22T12:26:39Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/okta-stock-jumps-needham-raises-122639006.html"
-    },
-    {
-      "title": "Strategy, CrowdStrike, MongoDB, ServiceNow, and Okta Shares Are Soaring, What You Need To Know",
-      "summary": "A number of stocks jumped in the afternoon session after falling Treasury yields eased pressure on software stocks as signs of cooler U.S.\u2013China tensions lifted risk appetite. The benchmark 10-year Treasury yield fell roughly 3 basis points to 4.97%, slipping below the 5% threshold, according to CNBC. A retreat in bond yields provides relief for enterprise software equities, whose valuations are anchored by cash flows projected years into the future. Separately, attention turned to the U.S.\u2013Chin",
-      "pub_date": "2026-09-22T00:30:25Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/strategy-crowdstrike-mongodb-servicenow-okta-003025037.html"
-    },
-    {
-      "title": "Why ServiceNow Stock Inched Higher on Monday",
-      "summary": "An analyst raised his price target on the enterprise software solutions developer.",
-      "pub_date": "2026-09-21T23:31:40Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-servicenow-stock-inched-higher-233140079.html"
-    },
-    {
-      "title": "SNX vs. NOW: Which Stock Is the Better Value Option?",
-      "summary": "SNX vs. NOW: Which Stock Is the Better Value Option?",
-      "pub_date": "2026-09-21T15:40:05Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/snx-vs-now-stock-better-154005949.html"
-    },
-    {
-      "title": "NOW Rides on Strong Workflow Demand: Can It Outpace CRM & MSFT?",
-      "summary": "ServiceNow benefits from broad workflow demand, cross-selling and AI partnerships that are fueling growth as competition with CRM and MSFT intensifies.",
-      "pub_date": "2026-09-21T14:41:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/articles/now-rides-strong-workflow-demand-144100921.html"
     }
   ]
 }

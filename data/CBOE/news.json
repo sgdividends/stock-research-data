@@ -1,7 +1,14 @@
 {
   "ticker": "CBOE",
-  "generated_at": "2026-09-22T16:05:57.370697+00:00",
+  "generated_at": "2026-09-22T22:37:58.868330+00:00",
   "items": [
+    {
+      "title": "CME Group Expands Equity Derivatives With New Factor Futures",
+      "summary": "CME expands equity derivatives with new factor futures, offering targeted exposure, margin offsets and flexible trading for institutions.",
+      "pub_date": "2026-09-22T16:02:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/options/articles/cme-group-expands-equity-derivatives-160200289.html"
+    },
     {
       "title": "3 Exchange Stocks Investors Are Watching For Energy Price Volatility",
       "summary": "Energy markets have been thrown a fresh curveball by the new U.S. sanctions bill aimed at Russia and Iran, and volatility is already reshaping where money moves. Price swings tend to feed trading volumes, fee pools and hedging demand, which can help some listed platforms while leaving others exposed to new risks. This article breaks down three stocks tied to that story and explains why their exposure to the news deserves close attention right now. The three stocks below are just a starting...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T06:20:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/options/articles/prediction-u-options-volume-set-062000365.html"
-    },
-    {
-      "title": "SEC\u2019s \u2018Novel ETF\u2019 Review Puts Prediction Market And Leveraged Funds Under Microscope",
-      "summary": "The U.S. ETF industry is pushing back against the Securities and Exchange Commission\u2019s (SEC) broad review of \"novel ETFs.\" ETF professionals argue an overly wide definition could slow product launches and undermine one of the market\u2019s biggest advantages, even as...",
-      "pub_date": "2026-09-03T18:53:19Z",
-      "source": "Benzinga Prediction Markets",
-      "url": "https://finance.yahoo.com/markets/options/articles/sec-novel-etf-review-puts-185319237.html"
     }
   ]
 }

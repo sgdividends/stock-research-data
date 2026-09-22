@@ -1,13 +1,41 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-09-22T16:06:03.930987+00:00",
+  "generated_at": "2026-09-22T22:38:04.499195+00:00",
   "items": [
     {
-      "title": "Stock Market Today: Dow Slips But Apple Touches A Buy Point; Homebuilder, Retailer Funds Shine (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index reversed lower despite new U.S.-Iran peace hopes. Apple stock is trading near a buy point.",
-      "pub_date": "2026-09-22T15:22:28Z",
+      "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
+      "summary": "The Nasdaq hit a new high with memory giants Sandisk and Micron flashing buy signals. But financials are struggling.",
+      "pub_date": "2026-09-22T22:24:19Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Stock Market Today: Dow Skids But Apple Eyes A Buy Point; Filing Says Trump Makes These Trades",
+      "summary": "The Dow Jones index fell on the stock market today after President Trump threatened Iran. Other major indexes rose. Apple was among stocks trading near buy points.",
+      "pub_date": "2026-09-22T20:40:00Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-peace-hopes-oil-prices-treasury-yields/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Has Arista Networks Stock Quietly Become A Different Bet?",
+      "summary": "Investors pay 64 times earnings for Arista Networks (ANET). The S&P 500 trades at 22.5 times. They pay more because they expect fast growth to last, and for that to make sense, two things must both hold. Arista must get enough parts to ship its orders, and buying those parts must not squeeze its margins. The way management talks about its supply chain has changed. So what did it use to say.",
+      "pub_date": "2026-09-22T19:27:08Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-stock-quietly-become-192708225.html"
+    },
+    {
+      "title": "Cisco Sinks 6% While the Tech Sector Rises; Arista and Ciena Hold Flat",
+      "summary": "Cisco is sliding 6% while its closest networking rivals barely flinch and the broader tech sector actually gains ground, and no company announcement explains why the stock is moving alone.",
+      "pub_date": "2026-09-22T17:06:44Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-sinks-6-while-tech-170644008.html"
+    },
+    {
+      "title": "Can Dell's Margins Catch Up With Its Stock?",
+      "summary": "Dell Technologies (DELL) stock has returned 341% over the past twelve months, the best record among the six companies in its peer group. Its revenue growth also ranks first. Its operating margin ranks only fourth, and that gap is what a buyer today has to judge. Behind the growth is demand for its servers that has outrun its own supply.",
+      "pub_date": "2026-09-22T17:01:49Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dells-margins-catch-stock-170149992.html"
     },
     {
       "title": "Will This Major Industry Showcase Boost Quantum Computing Stocks?",
@@ -29,34 +57,6 @@
       "pub_date": "2026-09-21T19:54:15Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/far-could-zoom-communications-stock-195415457.html"
-    },
-    {
-      "title": "Cisco Moves Higher as Splunk Takes Agents Behind the Firewall",
-      "summary": "Self-managed AI widens Cisco's market while token tracking creates a separate governance opportunity.",
-      "pub_date": "2026-09-21T18:45:16Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-moves-higher-splunk-takes-184516001.html"
-    },
-    {
-      "title": "DELL Rides on Growing AI Clientele: Can the Stock Outpace SMCI & CSCO?",
-      "summary": "Dell Technologies' AI customer base tops 6,500 as enterprise, sovereign and Neocloud demand fuels record orders and a $95B backlog amid tough competition.",
-      "pub_date": "2026-09-21T15:22:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-rides-growing-ai-clientele-152200998.html"
-    },
-    {
-      "title": "2 Growth Stocks with All-Star Potential and 1 We Avoid",
-      "summary": "Growth is oxygen. But when it evaporates, the consequences can be severe - ask anyone who bought Cisco in the Dot-Com Bubble or newer investors who lived through the 2020 to 2022 COVID cycle.",
-      "pub_date": "2026-09-21T14:46:25Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-growth-stocks-star-potential-144625514.html"
-    },
-    {
-      "title": "5 Dividend Stocks That Combine Income, Earnings Growth, and Wall Street Support",
-      "summary": "Oracle, British American Tobacco, Cisco, Charles Schwab, and Goldman Sachs each combine dividend yield, projected earnings growth, and Moderate Buy analyst ratings, per MarketBeat data.",
-      "pub_date": "2026-09-21T14:20:00Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/5-dividend-stocks-combine-income-142000173.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "NWS",
-  "generated_at": "2026-09-22T16:06:45.418201+00:00",
+  "generated_at": "2026-09-22T22:38:37.146268+00:00",
   "items": [
+    {
+      "title": "Is News Corporation Stock Underperforming the S&P 500?",
+      "summary": "Despite News Corporation\u2019s underperformance relative to the S&P 500 Index over the past year, analysts are bullish about the stock\u2019s prospects.",
+      "pub_date": "2026-09-22T15:22:19Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/news-corporation-stock-underperforming-p-152219343.html"
+    },
     {
       "title": "Why Has Synopsys Stopped Leading With Bad News?",
       "summary": "Two years of Synopsys (SNPS) earnings calls show management changing what it explains. The company used to open on problems, some outside its control and some its own. The August 2026 call is built around a joint product with Ansys, agentic AI, and a new way to charge for its design IP. Most of that switch is earned, but parts of it are still a promise.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-04T17:26:10Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/media-advertising/articles/q2-earnings-review-consumer-discretionary-172610642.html"
-    },
-    {
-      "title": "Figma Stock Rose With Its Peers, Not On Its Own News",
-      "summary": "A one-session jump that its application software peers largely shared says less about Figma than the products it is not yet billing for.",
-      "pub_date": "2026-08-28T21:31:02Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/figma-stock-rose-peers-not-213102175.html"
     }
   ]
 }

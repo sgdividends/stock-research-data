@@ -1,13 +1,55 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-09-22T16:06:01.748387+00:00",
+  "generated_at": "2026-09-22T22:38:02.862969+00:00",
   "items": [
     {
-      "title": "Bitcoin-related stocks are surging: The momentum is 'incredible'",
-      "summary": "Cboe senior vice president and head of retail expansion and alternative investment products, JJ Kinahan, sits down with Yahoo Finance Senior Business Reporter Ines Ferr\u00e9 to discuss surging bitcoin (BTC-USD) prices and how they're impacting the larger crypto space.",
-      "pub_date": "2026-09-21T20:45:00Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/bitcoin-related-stocks-surging-momentum-204500572.html"
+      "title": "Coinbase's IPO move sends stock to four month high",
+      "summary": "The stock\u2019s rally comes as Coinbase pushes further into traditional finance.",
+      "pub_date": "2026-09-22T21:13:31Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/coinbases-ipo-move-sends-stock-211331084.html"
+    },
+    {
+      "title": "Inside Coinbase\u2019s $250 Billion Playbook for Post-Quantum Bitcoin Custody",
+      "summary": "Head of cryptography Yehuda Lindell says the exchange is designing custody that can adapt to whatever post-quantum signing scheme Bitcoin adopts.",
+      "pub_date": "2026-09-22T20:01:03Z",
+      "source": "decrypt",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/inside-coinbase-250-billion-playbook-200103319.html"
+    },
+    {
+      "title": "Coinbase Rolls Out Fixed-Rate Bitcoin Loans via Morpho Midnight",
+      "summary": "Coinbase launches fixed-rate, bitcoin-backed USDC loans powered by Morpho Midnight on Base.",
+      "pub_date": "2026-09-22T18:36:14Z",
+      "source": "Bankless",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-rolls-fixed-rate-bitcoin-183614606.html"
+    },
+    {
+      "title": "AI 'Could Use Satoshi Nakamoto Right About Now', Says MSTR CEO Phong Le",
+      "summary": "Phong Le said market forces, not regulation, will push advanced AI models toward open source.",
+      "pub_date": "2026-09-22T17:14:17Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/ai-could-satoshi-nakamoto-now-171417112.html"
+    },
+    {
+      "title": "Elon Musk's X adds Bitcoin trading links as crypto push expands",
+      "summary": "Elon Musk\u2019s X Platform rolls out Cashtag Partner Program, linking tickers to five U.S. brokerages and exchanges.",
+      "pub_date": "2026-09-22T17:08:38Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/elon-musks-x-adds-bitcoin-170838270.html"
+    },
+    {
+      "title": "Coinbase to Allow U.S. Retail Investors Buy IPO Shares",
+      "summary": "Major crypto exchange Coinbase (NASDAQ: $COIN) is giving U.S. retail investors access to initial public offerings (...",
+      "pub_date": "2026-09-22T16:51:00Z",
+      "source": "CryptoProwl",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-allow-u-retail-investors-165100177.html"
+    },
+    {
+      "title": "Bitcoin News: X Launches Cashtag Partner Program",
+      "summary": "In Bitcoin news today, US spot Bitcoin ETFs pulled in $998.95M on Monday, their strongest single-day haul since October 2025, the same day X switched on trading links for Bitcoin and other assets across five outside brokerages, and Coinbase introduced fixed-rate Bitcoin-backed borrowing through Morpho Midnight. All of these catalysts ...",
+      "pub_date": "2026-09-22T15:52:39Z",
+      "source": "Cryptonews",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-news-x-launches-cashtag-155239454.html"
     },
     {
       "title": "Bitcoin and Crypto Stocks Have Been on a Tear. Here\u2019s Why.",
@@ -15,48 +57,6 @@
       "pub_date": "2026-09-22T15:51:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/bitcoin-crypto-stocks-clarity-act-a3749320?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "x402\u2019s $50B Scale Gives Solana an AI Payments Edge",
-      "summary": "Solana\u2019s x402 protocol has processed roughly $50 billion in volume and connected about 150,000 merchant endpoints, according to a Solana Foundation and Coinbase webinar recap. XRP Ledger has since documented its own x402 implementation settling in XRP and RLUSD, while Cardano remains a name attached to the conversation without comparable ...",
-      "pub_date": "2026-09-22T14:45:01Z",
-      "source": "Cryptonews",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/x402-50b-scale-gives-solana-144501880.html"
-    },
-    {
-      "title": "Crypto's Next Catalyst Could Be Tokenized Stocks: Clear Street Raises Bullish, Coinbase Targets",
-      "summary": "Clear Street raised price target for crypto exchange Bullish, citing that the setback in CLARITY Act could lead to adoption of tokenized stocks.",
-      "pub_date": "2026-09-22T13:42:19Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/cryptos-next-catalyst-could-tokenized-134219162.html"
-    },
-    {
-      "title": "MSTR, COIN, CRCL Stocks Slip Despite Bitcoin Rally Above $86K, Crypto Liquidations Cross $800M",
-      "summary": "U.S. spot Bitcoin ETFs attracted $999 million in net inflows Monday, led by IBIT, ARKB and FBTC.",
-      "pub_date": "2026-09-22T11:11:48Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/mstr-coin-crcl-stocks-slip-111148266.html"
-    },
-    {
-      "title": "Crypto Crash Panic: Coinbase Goes Down as Bitcoin Hits $85K and $919M Shorts Get Wiped Out",
-      "summary": "Coinbase suffered an outage on Sept. 21 that prevented some customers from buying, selling, trading, or viewing balances across its website, mobile app, and Advanced ...",
-      "pub_date": "2026-09-22T11:02:17Z",
-      "source": "CCN",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-crash-panic-coinbase-goes-110217491.html"
-    },
-    {
-      "title": "Binance Invests $100 Million in Circle, Expands Stablecoin Partnership",
-      "summary": "Binance, the largest crypto exchange, has made a $100 million investment in Circle Internet Group as part of a partnership to promote Circle\u2019s flagship USDC stablecoin in emerging markets.  A spokesperson for Binance said the exchange will integrate USDC into existing and new digital-asset products tailored for savings and investment, while offering incentives such as lower spot trading fees on USDC-denominated trading pairs.  Circle\u2019s USDC is the world\u2019s second-largest stablecoin, with a market cap of $75 billion.",
-      "pub_date": "2026-09-22T11:00:02Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-22-2026/card/binance-invests-100-million-in-circle-expands-stablecoin-partnership-ldgGopE6tVh2CNtuChsW?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Why Coinbase (COIN) Stock Is Trading Up Today",
-      "summary": "Shares of blockchain infrastructure company Coinbase (NASDAQ:COIN) jumped 4.5% in the afternoon session as crypto-related equities stayed bid after a Securities and Exchange Commission order on tokenized stocks, and after the company opened IPO allocations to retail users.",
-      "pub_date": "2026-09-21T23:10:25Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/why-coinbase-coin-stock-trading-231025050.html"
     }
   ]
 }

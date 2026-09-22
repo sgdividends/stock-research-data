@@ -1,7 +1,21 @@
 {
   "ticker": "SO",
-  "generated_at": "2026-09-22T16:06:57.091629+00:00",
+  "generated_at": "2026-09-22T22:38:46.362257+00:00",
   "items": [
+    {
+      "title": "Sector Update: Energy Stocks Decline Late Afternoon",
+      "summary": "Energy stocks were lower late Tuesday afternoon, with the NYSE Energy Sector Index down 0.5% and the",
+      "pub_date": "2026-09-22T20:03:56Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-afternoon-200356035.html"
+    },
+    {
+      "title": "Sector Update: Energy Stocks Mixed Tuesday Afternoon",
+      "summary": "Energy stocks traded mixed Tuesday afternoon, with the NYSE Energy Sector Index up 0.3% and the Stat",
+      "pub_date": "2026-09-22T18:00:51Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-mixed-tuesday-180051023.html"
+    },
     {
       "title": "Top Midday Stories: Goldman Reportedly in Talks to Acquire $37 Billion Credit Firm Palmer Square; Viking Obesity Drug Candidate Showed 'Superior' Results in Study",
       "summary": "The Nasdaq Composite was up, the Dow Jones Industrial Average was down, and the S&P 500 Index was ro",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-15T13:48:05Z",
       "source": "PA Media: Money",
       "url": "https://finance.yahoo.com/news/co-op-could-face-investigation-111157873.html"
-    },
-    {
-      "title": "Southern (SO) Stock Seems Fully Priced As New Solar Plans Expand",
-      "summary": "Southern has seen its share price move around over the years, and with the stock now around recent levels, the key issue is whether that price still lines up with what the business is earning. Recent news around new solar projects and energy reliability contracts puts a fresh spotlight on how those earnings stack up against the current valuation. Southern has delivered a total return of 63.3% over the past 5 years, which now raises the question of how much of that performance is justified by...",
-      "pub_date": "2026-09-15T07:11:45Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/southern-stock-seems-fully-priced-071145559.html"
-    },
-    {
-      "title": "Elon Musk Says AI Data Centers Are Lowering Electricity Prices for Consumers. Here\u2019s What We Found When We Ran the Numbers.",
-      "summary": "Elon Musk and a sitting governor are telling Americans that AI data centers push electricity bills down, but the numbers consumers are actually paying tell a very different story.",
-      "pub_date": "2026-09-14T15:45:30Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/energy/articles/elon-musk-says-ai-data-154530863.html"
     }
   ]
 }

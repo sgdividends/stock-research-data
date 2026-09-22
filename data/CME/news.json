@@ -1,7 +1,28 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-09-22T16:06:00.571402+00:00",
+  "generated_at": "2026-09-22T22:38:01.690903+00:00",
   "items": [
+    {
+      "title": "CME Expands Crypto Futures Lineup With Bitcoin Cash and Uniswap",
+      "summary": "The exchange operator is adding standard and micro contracts for BCH and UNI, extending a pattern of altcoin rollouts that already covers Cardano, Chainlink, Stellar, Avalanche, and Sui.",
+      "pub_date": "2026-09-22T20:46:03Z",
+      "source": "decrypt",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/cme-expands-crypto-futures-lineup-204603742.html"
+    },
+    {
+      "title": "CME Group to Launch Bitcoin Cash and Uniswap Futures",
+      "summary": "CME Group (NASDAQ: $CME) plans to launch futures contracts for Bitcoin Cash (CRYPTO: $BCH) and Uniswap (CRYPTO: $UNI) on Octo...",
+      "pub_date": "2026-09-22T16:52:00Z",
+      "source": "CryptoProwl",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/cme-group-launch-bitcoin-cash-165200159.html"
+    },
+    {
+      "title": "CME Group Expands Equity Derivatives With New Factor Futures",
+      "summary": "CME expands equity derivatives with new factor futures, offering targeted exposure, margin offsets and flexible trading for institutions.",
+      "pub_date": "2026-09-22T16:02:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/options/articles/cme-group-expands-equity-derivatives-160200289.html"
+    },
     {
       "title": "2 Altcoins Just Got Wall Street's Stamp of Approval: What Happens Next?",
       "summary": "CME Group just opened 2 altcoins to Wall Street. Both spiked in minutes \u2014 but history has a warning for anyone buying this news.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-17T12:00:16Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-bitcoin-problem-potentially-bigger-120016812.html"
-    },
-    {
-      "title": "One Reason the Stakes Are So High for a Rate Increase",
-      "summary": "A lot is on the line for the Fed.  Wall Street is all but certain that the world's most powerful central bank will raise interest rates today.  It would be a shocker, to say the least, if the Fed didn't increase rates amid such high odds.",
-      "pub_date": "2026-09-16T15:38:12Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/livecoverage/fed-meeting-rate-decision-september-warsh/card/one-reason-the-stakes-are-so-high-for-a-rate-increase-lB2nUPADwnk4MsVODrKO?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "CME Group Rises 5.8% in a Year: How Should You Play the Stock?",
-      "summary": "CME is expanding through higher trading volumes, new derivatives products and record market-data revenues while returning capital to shareholders.",
-      "pub_date": "2026-09-16T15:03:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cme-group-rises-5-8-150300413.html"
-    },
-    {
-      "title": "US Stock Futures Rise as Oil Prices Retreat Ahead of Federal Reserve Decision: Dow Jones, S&P, Nasdaq, Wall Street",
-      "summary": "US stock index futures pointed to a higher opening on Wednesday as crude oil prices declined and investors awaited the Federal Reserve\u2019s interest rate decision later in the day. The indicated rebound followed two consecutive sessions of losses that pushed the S&P 500 to its lowest closing level in more than a month.",
-      "pub_date": "2026-09-16T13:12:00Z",
-      "source": "InvestorsHub",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-rise-oil-131200145.html"
     }
   ]
 }

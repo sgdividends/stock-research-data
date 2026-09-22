@@ -1,7 +1,14 @@
 {
   "ticker": "EIX",
-  "generated_at": "2026-09-22T16:06:11.818631+00:00",
+  "generated_at": "2026-09-22T22:38:10.251588+00:00",
   "items": [
+    {
+      "title": "The Texas Trader at War With His Electric Company Over Power Poles",
+      "summary": "Wildfires are putting America\u2019s aging electric grid under mounting strain at a time when power demand is soaring.",
+      "pub_date": "2026-09-22T15:44:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/us-news/the-texas-trader-at-war-with-his-electric-company-over-power-poles-40e6d45b?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Edison CEO Reportedly Warns Failed California Wildfire Bill Could Leave Customers Facing \u2018Hundreds Of Millions\u2019 In Added Costs",
       "summary": "Edison International is pushing for wildfire reforms in California as regulatory uncertainty weighs on the utility sector, even as the company sticks to its long-term earnings growth outlook.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-02T17:57:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/pge-stock-edison-international-california-wildfire-bill-4016fab7?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "In Surprise Twist, California Lawmakers Fail to Pass Watered-Down Wildfire Bill",
-      "summary": "The debate over who pays for damage from fires, including utilities linked to major blazes, remains unresolved.",
-      "pub_date": "2026-09-02T15:48:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/politics/policy/in-surprise-twist-california-lawmakers-fail-to-pass-watered-down-wildfire-bill-f54df9bc?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
