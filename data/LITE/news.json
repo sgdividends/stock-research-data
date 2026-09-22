@@ -1,7 +1,14 @@
 {
   "ticker": "LITE",
-  "generated_at": "2026-09-21T22:57:57.293691+00:00",
+  "generated_at": "2026-09-22T02:52:02.654138+00:00",
   "items": [
+    {
+      "title": "Why Corning (GLW) Stock Is Trading Up Today",
+      "summary": "Shares of glass and electronic component manufacturer Corning (NYSE:GLW) jumped 6% in the afternoon session after the company announced a partnership with Qualcomm Technologies and Lumentum to demonstrate high-density optical interconnects for artificial intelligence architectures at ECOC 2026.",
+      "pub_date": "2026-09-22T01:42:25Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-corning-glw-stock-trading-014225854.html"
+    },
     {
       "title": "Qualcomm Jumps 7% as AI Interconnect Demo Points Past Handsets; Skyworks and Qorvo Sit Out the Rally",
       "summary": "A trade show demonstration quietly repositioned Qualcomm inside one of the market's most coveted growth stories, and the divergence from its closest chip peers reveals exactly what investors think the moment is worth.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-21T12:13:16Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/ai-networking-bet-sends-qualcomm-121316291.html"
-    },
-    {
-      "title": "Is Lumentum (LITE) Quietly Rewiring Its AI Data Center Role With New OCI Optics?",
-      "summary": "Lumentum Holdings recently showcased its eight-wavelength DWDM External Laser SFP module and broader AI-focused optical solutions at ECOC 2026, underscoring its role in co-packaged and near-packaged optics aligned with the OCI MSA standard. By pairing this new DWDM ELSFP with a joint die-to-die optical interconnect demo with Qualcomm and Corning, Lumentum is positioning its photonics platform at the heart of emerging AI data center architectures. We\u2019ll now examine how Lumentum\u2019s...",
-      "pub_date": "2026-09-21T11:13:17Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/lumentum-lite-quietly-rewiring-ai-111317764.html"
     }
   ]
 }
