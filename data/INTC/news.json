@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-09-22T02:51:56.967977+00:00",
+  "generated_at": "2026-09-22T08:58:22.806027+00:00",
   "items": [
     {
       "title": "Stock market today: Nasdaq surges 2% to record high, Dow and S&P 500 gain as chip stocks rally, oil  falls",
@@ -8,6 +8,20 @@
       "pub_date": "2026-09-21T08:02:14Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html"
+    },
+    {
+      "title": "Astera Labs Stock Jumped 12% Yesterday. The Street Sees 14% More Upside, Here\u2019s Why.",
+      "summary": "Key TakeawaysSector Rally: Astera Labs stock jumped 12% on Monday, September 21, closing at $341 as a broad semiconductor rally lifted AMD past a $1 trillion market cap and sent Intel up more than 13%. Street Split: the 26 analysts TIKR tracks on Astera Labs stock split 12 buys, 7 outperforms, and 7 holds, with a mean target of $390 sitting 14% above Monday\u2019s close.",
+      "pub_date": "2026-09-22T06:18:21Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/astera-labs-stock-jumped-12-061821239.html"
+    },
+    {
+      "title": "Intel (INTC) Sees AI CPU Demand Squeeze As CEO Flags 50% Fulfillment",
+      "summary": "Intel (NasdaqGS: INTC) and rival CPU suppliers reported stronger AI related order interest after Meta\u2019s Muse agent news in September 2026. Intel\u2019s CEO said current CPU production is meeting only about 50% of customer demand for AI workloads, indicating tight supply. Chipmakers tied to Muse driven AI compute needs flagged rising pressure on CPU capacity planning across upcoming production cycles. The Muse related CPU demand spike and Intel\u2019s 50% fulfillment rate only capture one side of the...",
+      "pub_date": "2026-09-22T05:15:05Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-sees-ai-cpu-051505418.html"
     },
     {
       "title": "ARM, Intel, AMD Surge As Meta\u2019s Muse AI Fuels Fresh Chip Demand Bets: Retail Turns Extremely Bullish",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-21T23:20:00Z",
       "source": "BeInCrypto",
       "url": "https://finance.yahoo.com/markets/stocks/articles/trump-xi-meet-p-500s-232000189.html"
-    },
-    {
-      "title": "Stocks to Watch Recap: Paramount, Intel, Strategy, Critical Metals",
-      "summary": "\u2197\ufe0f Intel (INTC), Super Micro Computer (SMCI), Advanced Micro Devices (AMD): The AI trade continued to find strength, sending shares of chip makers, server designers and related companies higher. AMD closed above a $1-trillion market cap for the first time.",
-      "pub_date": "2026-09-21T21:14:49Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-21-2026/card/stocks-to-watch-warner-bros-intel-strategy-VwQlqTeLLc9SL0RAX8qF?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Update: Communication Services, Tech Heavyweights Push US Equity Indexes Higher as Crude Oil Slides With Treasury Yields",
-      "summary": "(Updates with index/price moves and geopolitical news from the first paragraph.) US equity indexe",
-      "pub_date": "2026-09-21T21:09:45Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/communication-services-tech-heavyweights-push-210945542.html"
     }
   ]
 }
