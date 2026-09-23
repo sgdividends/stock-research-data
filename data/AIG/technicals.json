@@ -1,7 +1,7 @@
 {
   "ticker": "AIG",
   "as_of": "2026-09-21",
-  "generated_at": "2026-09-22T10:35:01.248048+00:00",
+  "generated_at": "2026-09-23T10:28:18.251650+00:00",
   "close": 74.54,
   "rsi_14": 38.84,
   "rsi_14_pctile_1y": 11.4,
@@ -19,7 +19,7 @@
   "bb_mid": 75.98,
   "bb_lower": 74.43,
   "bb_pctb": 0.035,
-  "bb_pctb_pctile_1y": 7.3,
+  "bb_pctb_pctile_1y": 7.4,
   "atr_14": 1.32,
   "atr_pct": 1.78,
   "week52_high": 87.29,

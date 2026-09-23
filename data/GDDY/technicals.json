@@ -1,10 +1,10 @@
 {
   "ticker": "GDDY",
   "as_of": "2026-09-21",
-  "generated_at": "2026-09-22T10:35:10.777345+00:00",
+  "generated_at": "2026-09-23T10:28:30.928546+00:00",
   "close": 104.77,
   "rsi_14": 58.99,
-  "rsi_14_pctile_1y": 89.9,
+  "rsi_14_pctile_1y": 89.8,
   "sma_20": 99.15,
   "sma_20_pct_from_price": 5.67,
   "sma_50": 95.82,
@@ -19,10 +19,10 @@
   "bb_mid": 99.15,
   "bb_lower": 92.65,
   "bb_pctb": 0.932,
-  "bb_pctb_pctile_1y": 92.7,
+  "bb_pctb_pctile_1y": 92.6,
   "atr_14": 4.39,
   "atr_pct": 4.19,
-  "week52_high": 148.19,
+  "week52_high": 148.02,
   "week52_low": 71.59,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

@@ -1,10 +1,10 @@
 {
   "ticker": "PWR",
   "as_of": "2026-09-21",
-  "generated_at": "2026-09-22T10:35:16.466912+00:00",
+  "generated_at": "2026-09-23T10:28:38.831963+00:00",
   "close": 642.61,
   "rsi_14": 52.54,
-  "rsi_14_pctile_1y": 39.7,
+  "rsi_14_pctile_1y": 39.8,
   "sma_20": 621.07,
   "sma_20_pct_from_price": 3.47,
   "sma_50": 641.77,
@@ -19,10 +19,10 @@
   "bb_mid": 621.07,
   "bb_lower": 596.14,
   "bb_pctb": 0.932,
-  "bb_pctb_pctile_1y": 88.4,
+  "bb_pctb_pctile_1y": 88.3,
   "atr_14": 24.09,
   "atr_pct": 3.75,
   "week52_high": 788.75,
-  "week52_low": 382.24,
+  "week52_low": 387.42,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

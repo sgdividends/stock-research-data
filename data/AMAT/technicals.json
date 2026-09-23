@@ -1,10 +1,10 @@
 {
   "ticker": "AMAT",
   "as_of": "2026-09-21",
-  "generated_at": "2026-09-22T10:35:01.331107+00:00",
+  "generated_at": "2026-09-23T10:28:18.343115+00:00",
   "close": 464.24,
   "rsi_14": 49.71,
-  "rsi_14_pctile_1y": 24.9,
+  "rsi_14_pctile_1y": 25.0,
   "sma_20": 452.82,
   "sma_20_pct_from_price": 2.52,
   "sma_50": 498.35,
@@ -19,10 +19,10 @@
   "bb_mid": 452.82,
   "bb_lower": 409.48,
   "bb_pctb": 0.632,
-  "bb_pctb_pctile_1y": 48.7,
+  "bb_pctb_pctile_1y": 48.9,
   "atr_14": 21.8,
   "atr_pct": 4.7,
   "week52_high": 739.67,
-  "week52_low": 192.43,
+  "week52_low": 196.2,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

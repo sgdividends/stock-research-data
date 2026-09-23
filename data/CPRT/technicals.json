@@ -1,10 +1,10 @@
 {
   "ticker": "CPRT",
   "as_of": "2026-09-21",
-  "generated_at": "2026-09-22T10:35:05.701829+00:00",
+  "generated_at": "2026-09-23T10:28:24.139434+00:00",
   "close": 28.91,
   "rsi_14": 37.17,
-  "rsi_14_pctile_1y": 30.0,
+  "rsi_14_pctile_1y": 29.7,
   "sma_20": 31.84,
   "sma_20_pct_from_price": -9.19,
   "sma_50": 30.45,
@@ -19,10 +19,10 @@
   "bb_mid": 31.84,
   "bb_lower": 28.92,
   "bb_pctb": -0.002,
-  "bb_pctb_pctile_1y": 9.9,
+  "bb_pctb_pctile_1y": 10.0,
   "atr_14": 1.11,
   "atr_pct": 3.83,
-  "week52_high": 45.95,
+  "week52_high": 45.89,
   "week52_low": 26.81,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

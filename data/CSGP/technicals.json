@@ -1,10 +1,10 @@
 {
   "ticker": "CSGP",
   "as_of": "2026-09-21",
-  "generated_at": "2026-09-22T10:35:05.773492+00:00",
+  "generated_at": "2026-09-23T10:28:24.218743+00:00",
   "close": 29.04,
   "rsi_14": 40.18,
-  "rsi_14_pctile_1y": 54.4,
+  "rsi_14_pctile_1y": 53.8,
   "sma_20": 31.0,
   "sma_20_pct_from_price": -6.32,
   "sma_50": 30.45,
@@ -22,7 +22,7 @@
   "bb_pctb_pctile_1y": 20.3,
   "atr_14": 1.25,
   "atr_pct": 4.32,
-  "week52_high": 86.99,
+  "week52_high": 86.57,
   "week52_low": 25.89,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

@@ -1,10 +1,10 @@
 {
   "ticker": "INTC",
   "as_of": "2026-09-21",
-  "generated_at": "2026-09-22T10:35:11.237965+00:00",
+  "generated_at": "2026-09-23T10:28:31.431834+00:00",
   "close": 121.78,
   "rsi_14": 70.92,
-  "rsi_14_pctile_1y": 84.4,
+  "rsi_14_pctile_1y": 85.2,
   "sma_20": 97.45,
   "sma_20_pct_from_price": 24.96,
   "sma_50": 97.33,
@@ -23,6 +23,6 @@
   "atr_14": 6.58,
   "atr_pct": 5.4,
   "week52_high": 142.35,
-  "week52_low": 28.73,
+  "week52_low": 28.82,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

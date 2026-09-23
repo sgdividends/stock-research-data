@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T10:35:21.483989+00:00",
+  "generated_at": "2026-09-23T10:28:45.527044+00:00",
   "universe_size": 503,
   "most_oversold_rsi": [
     {
@@ -96,7 +96,7 @@
     },
     {
       "ticker": "COIN",
-      "rsi_14_pctile_1y": 94.5,
+      "rsi_14_pctile_1y": 93.6,
       "close": 201.05
     },
     {
@@ -106,12 +106,12 @@
     },
     {
       "ticker": "VRSN",
-      "rsi_14_pctile_1y": 92.0,
+      "rsi_14_pctile_1y": 91.9,
       "close": 308.18
     },
     {
       "ticker": "RVTY",
-      "rsi_14_pctile_1y": 92.0,
+      "rsi_14_pctile_1y": 91.9,
       "close": 143.59
     },
     {
@@ -121,17 +121,22 @@
     },
     {
       "ticker": "GDDY",
-      "rsi_14_pctile_1y": 89.9,
+      "rsi_14_pctile_1y": 89.8,
       "close": 104.77
     },
     {
       "ticker": "QCOM",
-      "rsi_14_pctile_1y": 89.9,
+      "rsi_14_pctile_1y": 89.8,
       "close": 194.23
     },
     {
+      "ticker": "HOOD",
+      "rsi_14_pctile_1y": 89.4,
+      "close": 123.3
+    },
+    {
       "ticker": "TSLA",
-      "rsi_14_pctile_1y": 89.5,
+      "rsi_14_pctile_1y": 89.0,
       "close": 375.3
     },
     {
@@ -140,18 +145,13 @@
       "close": 88.74
     },
     {
-      "ticker": "HOOD",
-      "rsi_14_pctile_1y": 89.0,
-      "close": 123.3
-    },
-    {
       "ticker": "FFIV",
-      "rsi_14_pctile_1y": 88.2,
+      "rsi_14_pctile_1y": 87.7,
       "close": 450.1
     },
     {
       "ticker": "A",
-      "rsi_14_pctile_1y": 87.8,
+      "rsi_14_pctile_1y": 87.7,
       "close": 161.94
     }
   ],
@@ -280,7 +280,7 @@
     },
     {
       "ticker": "COIN",
-      "bb_pctb_pctile_1y": 96.6,
+      "bb_pctb_pctile_1y": 96.5,
       "close": 201.05
     },
     {

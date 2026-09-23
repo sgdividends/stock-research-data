@@ -1,10 +1,10 @@
 {
   "ticker": "ADSK",
   "as_of": "2026-09-21",
-  "generated_at": "2026-09-22T10:35:01.196957+00:00",
+  "generated_at": "2026-09-23T10:28:18.194661+00:00",
   "close": 218.85,
   "rsi_14": 42.2,
-  "rsi_14_pctile_1y": 39.7,
+  "rsi_14_pctile_1y": 39.8,
   "sma_20": 233.4,
   "sma_20_pct_from_price": -6.23,
   "sma_50": 233.41,
@@ -19,10 +19,10 @@
   "bb_mid": 233.4,
   "bb_lower": 194.61,
   "bb_pctb": 0.312,
-  "bb_pctb_pctile_1y": 41.8,
+  "bb_pctb_pctile_1y": 41.6,
   "atr_14": 9.23,
   "atr_pct": 4.22,
-  "week52_high": 326.47,
+  "week52_high": 326.35,
   "week52_low": 185.5,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }

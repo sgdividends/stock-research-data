@@ -1,10 +1,10 @@
 {
   "ticker": "INTU",
   "as_of": "2026-09-21",
-  "generated_at": "2026-09-22T10:35:11.248231+00:00",
+  "generated_at": "2026-09-23T10:28:31.443106+00:00",
   "close": 304.12,
   "rsi_14": 38.52,
-  "rsi_14_pctile_1y": 32.5,
+  "rsi_14_pctile_1y": 32.2,
   "sma_20": 333.88,
   "sma_20_pct_from_price": -8.91,
   "sma_50": 324.94,
@@ -19,10 +19,10 @@
   "bb_mid": 333.88,
   "bb_lower": 295.11,
   "bb_pctb": 0.116,
-  "bb_pctb_pctile_1y": 18.5,
+  "bb_pctb_pctile_1y": 18.6,
   "atr_14": 13.79,
   "atr_pct": 4.53,
-  "week52_high": 705.08,
+  "week52_high": 703.96,
   "week52_low": 252.84,
   "note": "Support/resistance still needs a manual read of price action -- not automated here. Percentile ranks are vs this ticker's own trailing 1yr distribution, not cross-sectional vs the rest of the universe (see data/_screener.json for that)."
 }
