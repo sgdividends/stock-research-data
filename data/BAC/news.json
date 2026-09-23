@@ -1,7 +1,14 @@
 {
   "ticker": "BAC",
-  "generated_at": "2026-09-22T22:37:54.260216+00:00",
+  "generated_at": "2026-09-23T02:51:48.706560+00:00",
   "items": [
+    {
+      "title": "Bank of America backs Meta stock after Muse surprise",
+      "summary": "Muse is changing how Wall Street sees Meta\u2019s AI bet",
+      "pub_date": "2026-09-23T02:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-backs-meta-stock-020300157.html"
+    },
     {
       "title": "Meta\u2019s Muse Comes for Financial Stocks",
       "summary": "The rapid adoption of the new artificial-intelligence agent threatens to disrupt wealth managers, brokerages and insurers.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-22T13:38:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/economy/policy/articles/fed-rate-hike-means-wells-133800369.html"
-    },
-    {
-      "title": "Bank of America warns oil could hit $150 amid Iran war risks",
-      "summary": "The bank raised its year-end Brent crude forecast from $83 to $95 a barrel, citing damaged infrastructure and rising geopolitical tensions",
-      "pub_date": "2026-09-22T13:00:03Z",
-      "source": "Quartz",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/bank-america-warns-oil-could-130003510.html"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "QCOM",
-  "generated_at": "2026-09-22T22:38:43.043595+00:00",
+  "generated_at": "2026-09-23T02:52:32.896208+00:00",
   "items": [
     {
       "title": "Meta\u2019s Muse just changed the AI game",
@@ -15,6 +15,13 @@
       "pub_date": "2026-09-22T21:25:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/qualcomm-cfo-on-agentic-ai-and-the-race-to-the-edge-212500658.html"
+    },
+    {
+      "title": "Qualcomm Unveils Snapdragon 8 Elite Gen 6, Bets Big on Agentic AI",
+      "summary": "Qualcomm (NASDAQ:QCOM) used its Snapdragon Summit 2026 keynote to outline its strategy for \u201cagentic\u201d artificial intelligence, positioning smartphones and other connected devices as personal AI endpoints that can understand context, coordinate tasks and act on users\u2019 behalf. President and CEO Cristi",
+      "pub_date": "2026-09-23T01:02:07Z",
+      "source": "MarketBeat",
+      "url": "https://tech.yahoo.com/ai/gemini/articles/qualcomm-unveils-snapdragon-8-elite-010207361.html"
     },
     {
       "title": "Qualcomm Launches Two New Smartphone Chips As AI Push Intensifies \u2014 QCOM Stock Edges Lower After-Hours",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-22T18:48:49Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/apple-ceo-already-being-pressured-184849814.html"
-    },
-    {
-      "title": "Corning (GLW) To Show High Density Optical Chip Links At ECOC 2026",
-      "summary": "Corning (NYSE:GLW), Qualcomm and Lumentum plan to showcase a high-density die to die optical connectivity solution at ECOC 2026. The joint demo targets AI scale up architectures that require higher bandwidth, lower latency and tighter power budgets for chip interconnects. The ECOC 2026 presentation will highlight massively parallel optical D2D links paired with high density fiber to support advanced AI data centers. This upcoming ECOC 2026 D2D optical demo with Qualcomm and Lumentum sits...",
-      "pub_date": "2026-09-22T18:14:52Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/corning-glw-show-high-density-181452808.html"
     }
   ]
 }
