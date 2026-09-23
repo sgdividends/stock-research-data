@@ -1,13 +1,20 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-09-23T19:24:42.342886+00:00",
+  "generated_at": "2026-09-23T22:37:10.789033+00:00",
   "items": [
     {
-      "title": "How Meta's Muse is driving a magic moment for the stock market",
-      "summary": "Yahoo Finance Executive Editor Brian Sozzi shares his thoughts on the impact of Meta's (META) Muse AI agent on the broader stock market.",
-      "pub_date": "2026-09-23T14:44:33Z",
+      "title": "How Qualcomm is targeting agentic AI with its 2 new smartphone chips",
+      "summary": "Yahoo Finance Technology Editor Dan Howley breaks down what investors need to know about Qualcomm's (QCOM) two new Snapdragon AI chips.",
+      "pub_date": "2026-09-23T19:50:58Z",
       "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/metas-muse-driving-magic-moment-144433013.html"
+      "url": "https://finance.yahoo.com/video/qualcomm-targeting-agentic-ai-2-195058732.html"
+    },
+    {
+      "title": "Nasdaq rally hasn't stopped these tech stocks from flashing warning signs",
+      "summary": "No stock rally is perfect, as is the case with the one seen this week in the tech-heavy Nasdaq Composite.",
+      "pub_date": "2026-09-23T14:17:10Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/nasdaq-rally-hasnt-stopped-these-tech-stocks-from-flashing-warning-signs-141710781.html"
     },
     {
       "title": "The AI panic, tech concentration, and Nvidia windfalls",
@@ -15,6 +22,20 @@
       "pub_date": "2026-09-23T10:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/ai-panic-tech-concentration-nvidia-100000476.html"
+    },
+    {
+      "title": "Chip Stocks Drop After Six-Day Climb For SOX Index",
+      "summary": "The Philadelphia semiconductor index, known as SOX, slid Wednesday as chip stocks took a breather after a six-day climb.",
+      "pub_date": "2026-09-23T20:25:45Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/technology/chip-stocks-drop-after-six-day-climb-for-sox-index/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Marvell and 2 More Stocks to Play the AI Data-Center Boom",
+      "summary": "Nvidia CEO Jensen Huang was wrong when he predicted Marvell would be the next trillion-dollar chip company.",
+      "pub_date": "2026-09-23T20:16:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/buy-marvell-stock-on-semi-semtech-ai-data-center-935843a8?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "AMD Is Up 187% This Year: Take Profits, or Buy More?",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-23T18:47:27Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/amd-just-hit-1-trillion-184727280.html"
-    },
-    {
-      "title": "AMD Falls 2% After AI Carries It Past $1 Trillion",
-      "summary": "The valuation milestone raises the return required from AMD's transition toward complete computing systems.",
-      "pub_date": "2026-09-23T17:28:27Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amd-falls-2-ai-carries-172827401.html"
-    },
-    {
-      "title": "Chip Stocks Drop After Six-Day Climb For SOX Index",
-      "summary": "The Philadelphia semiconductor index, known as SOX, slid Wednesday as chip stocks took a breather after a six-day climb.",
-      "pub_date": "2026-09-23T15:47:26Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/chip-stocks-drop-after-six-day-climb-for-sox-index/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "HPE or AMD: Which Is the Better Value Stock Right Now?",
-      "summary": "HPE vs. AMD: Which Stock Is the Better Value Option?",
-      "pub_date": "2026-09-23T15:40:03Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hpe-amd-better-value-stock-154003697.html"
     }
   ]
 }

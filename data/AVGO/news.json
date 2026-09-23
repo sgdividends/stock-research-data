@@ -1,7 +1,14 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-09-23T19:24:46.304430+00:00",
+  "generated_at": "2026-09-23T22:37:13.573499+00:00",
   "items": [
+    {
+      "title": "Nvidia Stock Falls. It Has a Google AI Chip Conundrum.",
+      "summary": "A familiar problem is haunting  Nvidia  The chip maker\u2019s stock has paused in its latest effort to break out to new highs\u2014and part of the problem is Google.  Nvidia shares closed down 1.4% at $225.51 on Wednesday.  The biggest threat is  Alphabet\u2019s  Google and its Tensor Processing Units, designed in collaboration with  Broadcom  Although Nvidia and Google\u2019s rivalry is generally an amicable one, investors keep a close eye on which chips the biggest players use.",
+      "pub_date": "2026-09-23T20:16:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/nvidia-stock-price-ai-chips-google-2c231d8d?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Marvell Stock Ran, But Did It Tell You When?",
       "summary": "Marvell Technology (MRVL) stock has returned 248% since September 22, 2025, against about 18% for the S&P 500 over the same window. The products that drove that run were named in public months before the share price moved. None came with a date.",
@@ -15,6 +22,13 @@
       "pub_date": "2026-09-23T15:45:48Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-just-made-move-further-154548147.html"
+    },
+    {
+      "title": "AMD Just Joined the $1 Trillion Club as Chip and AI Stocks Rallied. What This Means for Investors.",
+      "summary": "AMD briefly joined the $1 trillion club on Sept. 21 as shares surged nearly 10% to a record above $616, making it the fourth U.S. chipmaker to reach that mark.",
+      "pub_date": "2026-09-23T15:34:34Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-just-joined-1-trillion-153434330.html"
     },
     {
       "title": "What Changed In AMD's Story?",
@@ -38,25 +52,11 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/two-chip-giants-two-very-143014042.html"
     },
     {
-      "title": "Nvidia Stock Falls. It Has a Google AI Chip Conundrum.",
-      "summary": "A familiar problem is haunting  Nvidia  The chip maker\u2019s stock has paused in its latest effort to break out to new highs and part of the problem is Google.  Nvidia shares were down 0.4% at $228.06 in early trading Wednesday.  The biggest threat is  Alphabet\u2019s  Google and its Tensor Processing Units, designed in collaboration with  Broadcom  Although Nvidia and Google\u2019s rivalry is generally an amicable one, investors keep a close eye on which chips the biggest players use.",
-      "pub_date": "2026-09-23T13:50:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/nvidia-stock-price-ai-chips-google-2c231d8d?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Want to Play Anthropic Before Its IPO? There\u2019s an ETF for That.",
-      "summary": "It\u2019s an actively managed fund with big holdings in major chip companies las well as hyperscalers. In other words, the usual AI beneficiary suspects.",
-      "pub_date": "2026-09-23T13:18:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/anthropic-ipo-etf-ai-stocks-f40be6bc?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Nvidia Stock Set For 40% Surge: 3 Catalysts That Could Drive the Next Big Move",
-      "summary": "Nvidia just posted triple-digit revenue growth and Jensen Huang says the company can only fulfill 70% of demand, yet the stock still trades well below where the math points. Three converging forces suggest the gap between current price and fair value may close faster than most investors expect.",
-      "pub_date": "2026-09-23T13:00:24Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-set-40-surge-130024665.html"
+      "title": "Anthropic discusses up to 1 GW Stream data center lease: The Information",
+      "summary": "The potential direct lease could require at least $40 billion in capital, with Google reportedly considering credit support and Anthropic taking greater responsibility for its infrastructure.",
+      "pub_date": "2026-09-23T13:42:46Z",
+      "source": "Blockspace",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-discusses-1-gw-stream-134246854.html"
     }
   ]
 }

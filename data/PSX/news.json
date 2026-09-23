@@ -1,13 +1,27 @@
 {
   "ticker": "PSX",
-  "generated_at": "2026-09-23T19:25:48.227083+00:00",
+  "generated_at": "2026-09-23T22:38:03.599041+00:00",
   "items": [
+    {
+      "title": "The Great U.S. Existing Home Mortgage Lock-in",
+      "summary": "The average 30-year fixed U.S. mortgage rate sat at 3.11% in 2020 and 2.96% in 2021.",
+      "pub_date": "2026-09-23T20:38:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/real-estate/articles/great-u-existing-home-mortgage-203800225.html"
+    },
     {
       "title": "Why Wall Street Is Aggressively Upgrading These 5 Stocks Right Now",
       "summary": "Wall Street is revising assumptions about these S&P 500 stocks thanks to booming AI backlogs and transformed fundamentals.",
-      "pub_date": "2026-09-23T18:15:23Z",
+      "pub_date": "2026-09-23T20:25:00Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/dell-stock-cien-mpc-vlo-psx-biggest-eps-estimate-upgrades/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "The Market Screams For More. Why Refiners Don't Plan To Provide It.",
+      "summary": "Gas prices are soaring today. Ditto for diesel and heating oil. Analysts still don't expect new U.S. refineries tomorrow.",
+      "pub_date": "2026-09-23T20:05:56Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/gas-prices-and-diesel-prices-soar-aaa-refiners-in-us-arent-building-new-refineries/?src=A00220&yptr=yahoo"
     },
     {
       "title": "Will Par Pacific's Retail Expansion Boost Earnings Stability Ahead?",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-21T13:40:40Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/phillips-66-minting-money-102-134040343.html"
-    },
-    {
-      "title": "MPC vs. PSX: A Closer Look at Two Strong Refining Powerhouses",
-      "summary": "Marathon Petroleum and Phillips 66 both offer strong refining exposure, but differences in valuation, earnings growth and operations set them apart.",
-      "pub_date": "2026-09-21T13:26:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/energy/articles/mpc-vs-psx-closer-look-132600811.html"
-    },
-    {
-      "title": "BMO Sees Phillips 66 (PSX) Breaking into New Highs",
-      "summary": "Phillips 66 (NYSE:PSX) has been on a strong rally this year, posting gains of over 110% since the beginning of 2026. The outperformance has been driven by an unusually sharp surge in global refining margins amid the war in the Middle East, which has significantly tightened the world\u2019s refining capacity and reduced supplies of gasoline, [\u2026]",
-      "pub_date": "2026-09-20T16:35:23Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bmo-sees-phillips-66-psx-163523482.html"
     }
   ]
 }

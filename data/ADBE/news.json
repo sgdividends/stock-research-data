@@ -1,11 +1,18 @@
 {
   "ticker": "ADBE",
-  "generated_at": "2026-09-23T19:24:39.195152+00:00",
+  "generated_at": "2026-09-23T22:37:07.452862+00:00",
   "items": [
     {
-      "title": "Why I Love Meta\u2019s New AI Agent. Sort Of.",
-      "summary": "Google\u2019s Gemini has replaced my usual search engine for both personal and professional research and that\u2019s about it.  While I\u2019ve spent pretty much my entire life with a computer screen available, many of the offerings from prior AI agents didn\u2019t appeal to me.  The value proposition of Meta\u2019s Muse isn\u2019t that it\u2019s going to add a new skill or hobby to daily life.",
-      "pub_date": "2026-09-23T18:18:00Z",
+      "title": "Dynatrace beats Adobe by 44 spots in power ranking",
+      "summary": "Dynatrace, with a $17B market cap, ranks much ahead of the $95B Adobe.",
+      "pub_date": "2026-09-23T22:01:17Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dynatrace-beats-adobe-44-spots-220117737.html"
+    },
+    {
+      "title": "Why I Love Meta\u2019s New AI Agent Muse. Sort Of.",
+      "summary": "Google\u2019s Gemini has replaced my usual search engine for both personal and professional research, and that\u2019s about it.  While I\u2019ve spent pretty much my entire life with a computer screen available, many of the offerings from prior AI agents didn\u2019t appeal to me.  The value proposition of Meta\u2019s Muse isn\u2019t that it\u2019s going to add a new skill or hobby to daily life; it\u2019s simply going to improve and optimize things you\u2019re already doing every day or don\u2019t do because they feel too cumbersome.",
+      "pub_date": "2026-09-23T18:37:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/meta-muse-ai-review-29077e2f?siteid=yhoof2&yptr=yahoo"
     },
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-22T20:34:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/stock-movers-328a306e?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Update: Market Chatter: Big Software Firms Offer AI Discounts in Bid to Counter Anthropic, OpenAI",
-      "summary": "(Update with Microsoft's response to a request for comment in the last paragraph.) Amazon (AMZN),",
-      "pub_date": "2026-09-22T19:08:18Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-big-software-firms-190818572.html"
     }
   ]
 }

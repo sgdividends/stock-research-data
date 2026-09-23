@@ -1,7 +1,21 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-09-23T19:24:57.435068+00:00",
+  "generated_at": "2026-09-23T22:37:21.638207+00:00",
   "items": [
+    {
+      "title": "BitMEX Has Shut Down: Where Do Its Traders Go Now?",
+      "summary": "After 11 years, the exchange that invented the perpetual swap contract has gone dark, leaving its remaining traders scrambling and a $495 million lawsuit from Celsius's bankruptcy estate casting a long shadow over its founders.",
+      "pub_date": "2026-09-23T21:59:48Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitmex-shut-down-where-traders-215948241.html"
+    },
+    {
+      "title": "Bitcoin Cash Rallies 30% Following CME Futures Announcement",
+      "summary": "CME Group just triggered a 30% spike in Bitcoin Cash, but the last three coins to get the same futures announcement lost over a third of their value before trading even began. A surprise Grayscale filing may be the only thing standing between BCH and the same fate.",
+      "pub_date": "2026-09-23T20:54:41Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-cash-rallies-30-following-205441420.html"
+    },
     {
       "title": "Claude AI Predicts BCH Price Action After Bitcoin Cash Explodes 35% on CME News",
       "summary": "Bitcoin Cash just had the kind of day altcoins rarely get. BCH tore from the $260s to above $360 after CME Group confirmed it is listing Bitcoin Cash futures, dragging short sellers out of their positions on the way up. Claude AI predicts BCH has further to run on the ...",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-23T10:52:22Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-23-2026/card/a-hawkish-fed-pushes-the-dollar-higher-Lb3bhBAQdfr0ABQeRSV3?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "CME Expands Crypto Futures Lineup With Bitcoin Cash and Uniswap",
-      "summary": "The exchange operator is adding standard and micro contracts for BCH and UNI, extending a pattern of altcoin rollouts that already covers Cardano, Chainlink, Stellar, Avalanche, and Sui.",
-      "pub_date": "2026-09-22T20:46:03Z",
-      "source": "decrypt",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/cme-expands-crypto-futures-lineup-204603742.html"
-    },
-    {
-      "title": "CME Group to Launch Bitcoin Cash and Uniswap Futures",
-      "summary": "CME Group (NASDAQ: $CME) plans to launch futures contracts for Bitcoin Cash (CRYPTO: $BCH) and Uniswap (CRYPTO: $UNI) on Octo...",
-      "pub_date": "2026-09-22T16:52:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/cme-group-launch-bitcoin-cash-165200159.html"
     }
   ]
 }

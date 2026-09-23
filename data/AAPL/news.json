@@ -1,27 +1,48 @@
 {
   "ticker": "AAPL",
-  "generated_at": "2026-09-23T19:24:37.823659+00:00",
+  "generated_at": "2026-09-23T22:37:06.618923+00:00",
   "items": [
     {
-      "title": "Looking for consumer and investor sentiment trends? Turn to social media.",
-      "summary": "Jessica Inskip, StockBrokers.com director of Investor Research, explains to the Market Hang panel how social media algorithms are great for gauging investor sentiment and consumer demand.",
-      "pub_date": "2026-09-23T17:32:27Z",
+      "title": "How Qualcomm is targeting agentic AI with its 2 new smartphone chips",
+      "summary": "Yahoo Finance Technology Editor Dan Howley breaks down what investors need to know about Qualcomm's (QCOM) two new Snapdragon AI chips.",
+      "pub_date": "2026-09-23T19:50:58Z",
       "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/looking-consumer-investor-sentiment-trends-173227182.html"
+      "url": "https://finance.yahoo.com/video/qualcomm-targeting-agentic-ai-2-195058732.html"
     },
     {
-      "title": "Meta\u2019s Muse is a game changer\u2014but can it win consumers' trust?",
-      "summary": "The 8:30 Hosts Julie Hyman, Jake Conley, and Pras Subramanian discuss how Meta's (META) new AI agent, Muse, could pose challenges to user trust and why being first may not be enough, as rivals like Apple (AAPL) and Google (GOOG) could prepare their own responses.",
-      "pub_date": "2026-09-23T13:29:58Z",
+      "title": "AI magic sends markets higher, plus one-on-one with IBM vice chair",
+      "summary": "Today on Sozzi Unleashed, we dive into the market's reaction to Meta's (META) Muse AI, Ray Dalio\u2019s latest warning on a potential AI bubble, and Sozzi\u2019s one-on-one conversation with IBM (IBM) Vice Chair and former US National Economic Council Director Gary Cohn.",
+      "pub_date": "2026-09-23T14:32:10Z",
       "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/meta-muse-game-changer-win-132958488.html"
+      "url": "https://finance.yahoo.com/video/ai-magic-sends-markets-higher-143210140.html"
     },
     {
-      "title": "Meta\u2019s new AI agent just got me $250 in flight credits",
-      "summary": "In the Loop host Ejaaz Ahamadeen recounts how Muse, Meta's (META) new AI agent, helped get him $250 in flight credits and rebooked a new flight after his original flight was delayed, demonstrating how users can now interact with an agent that handles web-based tasks on their behalf and shifts the role of the operational driver from human to AI.",
-      "pub_date": "2026-09-22T21:45:56Z",
+      "title": "The AI panic, tech concentration, and Nvidia windfalls",
+      "summary": "Gabelli Funds' John Belton and Wells Fargo Advisors' James Taylor break down the viral \"doomer\" warnings rippling through the AI industry, and why slowing down development might actually prevent a massive tech bubble.",
+      "pub_date": "2026-09-23T10:00:00Z",
       "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/meta-ai-agent-just-got-214556275.html"
+      "url": "https://finance.yahoo.com/video/ai-panic-tech-concentration-nvidia-100000476.html"
+    },
+    {
+      "title": "The 42-State AG Coalition: How State Attorneys General Are Building the Agent Liability Framework Congress Won\u2019t",
+      "summary": "When Meta launched Muse in September 2026, the promise was seamless utility: an agent capable of handling purchasing, booking, and email tasks on behalf of a user. Similar capabilities arrived with Apple\u2019s Siri AI and the beta release of SpaceXAI\u2019s GrokBot. These tools represent a shift from passive software to active agents that make real-world [\u2026]",
+      "pub_date": "2026-09-23T19:51:29Z",
+      "source": "Forkast News",
+      "url": "https://finance.yahoo.com/technology/ai/articles/42-state-ag-coalition-state-195129692.html"
+    },
+    {
+      "title": "Meta\u2019s Muse AI Agent Triggers Worries About Brokerage Stocks",
+      "summary": "Concerns about AI have repeatedly sparked selloffs of shares of brokerage firms. On Tuesday, Meta\u2019s Muse AI agent became the latest catalyst.",
+      "pub_date": "2026-09-23T19:36:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/advisor/articles/meta-muse-ai-agent-brokerage-stocks-37d46fcc?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Apple Settlement Over Siri Intelligence Features Means Eligible iPhone Owners Can Receive Up to $95",
+      "summary": "Some iPhone owners may be eligible to receive money from Apple Inc., as the claim window for a recent settlement is now open. The settlement was from \u201ca class action lawsuit brought on behalf of consumers who alleged that they purchased Eligible Devices expecting to receive certain Siri Apple Intelligence features that they allegedly did [\u2026]",
+      "pub_date": "2026-09-23T19:24:56Z",
+      "source": "First for Money",
+      "url": "https://finance.yahoo.com/technology/articles/apple-settlement-over-siri-intelligence-192456220.html"
     },
     {
       "title": "Bank of America Flags Mixed iPhone 18 Demand Signal",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-23T18:43:01Z",
       "source": "TIKR",
       "url": "https://finance.yahoo.com/technology/articles/meta-10-million-paid-users-184301722.html"
-    },
-    {
-      "title": "Meta\u2019s Muse AI Assistant Triggers Worries About Brokerage Stocks",
-      "summary": "Concerns about AI have repeatedly sparked selloffs of shares of brokerage firms. On Tuesday, Meta\u2019s Muse AI agent became the latest catalyst.",
-      "pub_date": "2026-09-23T17:31:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/advisor/articles/meta-muse-ai-assistant-triggers-worries-about-brokerage-stocks-37d46fcc?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Nvidia Slips as Four Macs Attack Cloud Inference Economics",
-      "summary": "Apple's local-AI pitch targets selected workloads, not Nvidia's dominant data-center training business.",
-      "pub_date": "2026-09-23T17:26:11Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-slips-four-macs-attack-172611727.html"
-    },
-    {
-      "title": "Apple Slips as $20,000 Macs Challenge Token Rent",
-      "summary": "Local AI replaces variable cloud charges with expensive hardware whose utilization determines the actual savings.",
-      "pub_date": "2026-09-23T17:20:22Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/apple-slips-20-000-macs-172022585.html"
     }
   ]
 }

@@ -1,7 +1,21 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-09-23T19:24:50.026235+00:00",
+  "generated_at": "2026-09-23T22:37:16.410744+00:00",
   "items": [
+    {
+      "title": "ETF League Tables: First Trust Outflows Total $3.6B",
+      "summary": "<p>Table below reflects daily flows on September 22, 2026 and asset totals as of that date.</p>",
+      "pub_date": "2026-09-23T21:00:04Z",
+      "source": "etf.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-first-trust-210004263.html"
+    },
+    {
+      "title": "Sector Update: Financial Stocks Softer Late Afternoon",
+      "summary": "Financial stocks declined in late Wednesday afternoon trading, with the NYSE Financial Index sheddin",
+      "pub_date": "2026-09-23T19:57:24Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-softer-afternoon-195724678.html"
+    },
     {
       "title": "BlackRock Maps Crypto\u2019s Role in the AI Economy",
       "summary": "BlackRock says AI agents could drive stablecoin payments and help create new markets for trading and financing compute.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-23T11:58:38Z",
       "source": "Private Banker International",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cd-r-warburg-pincus-talks-115838826.html"
-    },
-    {
-      "title": "Ethereum, Circle\u2019s Arc Set To Gain With Stablecoins Powering AI, Says BlackRock",
-      "summary": "According to BlackRock, compute is becoming a distinct and investable economic resource as AI agents multiply.",
-      "pub_date": "2026-09-23T11:41:13Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/ethereum-circle-arc-set-gain-114113180.html"
-    },
-    {
-      "title": "Bitcoin Is Down Just 1.2% for 2026 After Clearing $86,000. Can It End the Year Green?",
-      "summary": "Bitcoin sits just a whisker away from erasing its 2026 losses, but a rising rate environment, a stalled Senate bill, and fading short-squeeze fuel threaten to pull it back before December 31 arrives.",
-      "pub_date": "2026-09-23T10:37:14Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-down-just-1-2-103714385.html"
     }
   ]
 }

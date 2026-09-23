@@ -1,7 +1,14 @@
 {
   "ticker": "MRVL",
-  "generated_at": "2026-09-23T19:25:36.896022+00:00",
+  "generated_at": "2026-09-23T22:37:54.778412+00:00",
   "items": [
+    {
+      "title": "Marvell and 2 More Stocks to Play the AI Data-Center Boom",
+      "summary": "Nvidia CEO Jensen Huang was wrong when he predicted Marvell would be the next trillion-dollar chip company.",
+      "pub_date": "2026-09-23T20:16:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/buy-marvell-stock-on-semi-semtech-ai-data-center-935843a8?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Wall Street Picks 3 Chip Stock Winners for the AI Boom",
       "summary": "Marvell, Onsemi and Semtech Get Major AI Boost as Seaport Unveils New Targets",
@@ -24,6 +31,13 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-ran-did-tell-190516402.html"
     },
     {
+      "title": "Trump Downplayed AI Safety Concerns, but His Investment Portfolio Bought Cybersecurity Stocks",
+      "summary": "President Donald Trump has called artificial-intelligence safety fears a \u201choax.\u201d  The president\u2019s latest financial disclosure for July shows his portfolio bought stocks of cybersecurity companies, which address the growing need for protection as AI keeps developing.  Both the White House and the Trump Organization said Trump\u2019s stock and bond portfolio is independently managed by third-party financial institutions.",
+      "pub_date": "2026-09-23T18:41:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/trump-microsoft-amazon-oracle-stock-ai-trade-6b72c193?siteid=yhoof2&yptr=yahoo"
+    },
+    {
       "title": "Marvell's AI Infrastructure Bet Gets a Fresh Wall Street Vote",
       "summary": "Seaport sees more room for growth as AI data-center demand lifts Marvell's custom silicon and interconnect businesses.",
       "pub_date": "2026-09-23T17:08:26Z",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-23T15:00:42Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/changed-amds-story-150042231.html"
-    },
-    {
-      "title": "Stifel Backs Marvell's $350 Target on 2nm Capacity Edge",
-      "summary": "Stifel also sees pluggable optics as an underappreciated volume driver across AI networks",
-      "pub_date": "2026-09-23T14:32:07Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/articles/stifel-backs-marvells-350-target-143207949.html"
-    },
-    {
-      "title": "Trump's Latest Stock Disclosure Reveals a Surprising Trading Pattern",
-      "summary": "Microsoft and Amazon sales were each valued at $5 million to $25 million.",
-      "pub_date": "2026-09-23T12:14:38Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/trumps-latest-stock-disclosure-reveals-121438043.html"
     }
   ]
 }

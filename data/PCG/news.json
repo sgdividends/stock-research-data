@@ -1,7 +1,14 @@
 {
   "ticker": "PCG",
-  "generated_at": "2026-09-23T19:25:44.578925+00:00",
+  "generated_at": "2026-09-23T22:38:00.542210+00:00",
   "items": [
+    {
+      "title": "Sector Update: Energy Stocks Rise Late Afternoon",
+      "summary": "Energy stocks rose late Wednesday afternoon with the NYSE Energy Sector Index rising 0.9% and the St",
+      "pub_date": "2026-09-23T19:56:03Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-rise-afternoon-195603421.html"
+    },
     {
       "title": "Edison International\u2019s Dividend Looks Attractive. The $40 Billion Question Is What Comes Next",
       "summary": "Southern California Edison shareholders are funding a $40 billion grid transformation while absorbing wildfire liability that regulators have not yet resolved. Whether that 6% yield compensates for the risk or signals something more troubling depends entirely on a question management cannot yet answer.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-19T11:15:42Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/microgrid-investments-dividend-payouts-might-111542507.html"
-    },
-    {
-      "title": "PG&E (PCG) Commits $73 Million To Community Microgrids In New Funding Phase",
-      "summary": "PG&E (NYSE:PCG) announced a new phase of its community microgrid program, backed by US$73 million in funding commitments. The utility disclosed fresh grant agreements and a second round of awards to support local clean energy resilience projects. New funding extends PG&E\u2019s community microgrid efforts into additional regions that have faced recurring outage and reliability concerns. PG&E\u2019s latest community microgrid funding round only captures one piece of how its resilience push could...",
-      "pub_date": "2026-09-19T06:10:00Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/energy/articles/pg-e-pcg-commits-73-061000034.html"
     }
   ]
 }

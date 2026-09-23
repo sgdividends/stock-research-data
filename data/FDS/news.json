@@ -1,7 +1,21 @@
 {
   "ticker": "FDS",
-  "generated_at": "2026-09-23T19:25:13.789988+00:00",
+  "generated_at": "2026-09-23T22:37:34.487217+00:00",
   "items": [
+    {
+      "title": "Companies Beat Earnings 75.9% of the Time. Analysts Predicted 43.9%. Betting Against Them Would Have Won",
+      "summary": "Wall Street analysts set earnings bars they expect companies to clear, yet the numbers they publish tell a different story. Understanding the gap between their predictions and reality reveals a system built on incentives that have little to do with accurate forecasting.",
+      "pub_date": "2026-09-23T22:18:57Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/companies-beat-earnings-75-9-221857773.html"
+    },
+    {
+      "title": "ETF League Tables: First Trust Outflows Total $3.6B",
+      "summary": "<p>Table below reflects daily flows on September 22, 2026 and asset totals as of that date.</p>",
+      "pub_date": "2026-09-23T21:00:04Z",
+      "source": "etf.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-first-trust-210004263.html"
+    },
     {
       "title": "Paychex Reports In-Line First-Quarter Revenue, Affirms Full-Year Outlook",
       "summary": "Paychex (PAYX) reported fiscal first-quarter revenue growth in line with market expectations, while",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-22T16:06:07Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/factset-stock-underperforming-nasdaq-160607471.html"
-    },
-    {
-      "title": "AutoZone Fourth-Quarter Sales Miss Views Amid Macro Headwinds",
-      "summary": "AutoZone (AZO) reported fiscal fourth-quarter revenue and same-store sales growth below market expec",
-      "pub_date": "2026-09-22T13:52:31Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/autozone-fourth-quarter-sales-miss-135231843.html"
-    },
-    {
-      "title": "Zacks Industry Outlook Highlights FactSet, Verisk and TransUnion",
-      "summary": "FactSet, Verisk and TransUnion are leveraging AI, proprietary data and subscription platforms as information services evolve.",
-      "pub_date": "2026-09-22T13:12:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-factset-131200560.html"
     }
   ]
 }

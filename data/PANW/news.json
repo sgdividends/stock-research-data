@@ -1,13 +1,48 @@
 {
   "ticker": "PANW",
-  "generated_at": "2026-09-23T19:25:44.047190+00:00",
+  "generated_at": "2026-09-23T22:38:00.152819+00:00",
   "items": [
+    {
+      "title": "Dow Jones Futures: Stocks Fall As Treasury Yields Soar; Palantir, Palo Alto Flash Buy Signals",
+      "summary": "The stock market fell as Treasury yields skyrocketed and oil prices rose, but Palantir and Palo Alto flashed buy signals.",
+      "pub_date": "2026-09-23T22:26:01Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-treasury-yields-soar-palantir-palo-alto-buy-signal/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Update: US Equity Indexes Retreat as Blockbuster Private Sector Growth Lifts Treasury Yields, Fed Rate-Increase Bets",
+      "summary": "(Updates with index/price moves and company/geopolitical news from the first paragraph.) US equit",
+      "pub_date": "2026-09-23T21:11:45Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-retreat-blockbuster-211145549.html"
+    },
+    {
+      "title": "US Equity Markets End Lower as Strong PMI Data Lifts October Rate-Increase Odds",
+      "summary": "US equity indexes ended lower Wednesday after a surge in private-sector output growth lifted expecta",
+      "pub_date": "2026-09-23T20:26:48Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-markets-end-lower-202648216.html"
+    },
+    {
+      "title": "Cisco Stock Looks Expensive Until You Price The Year It Already Guided",
+      "summary": "Cisco Systems (CSCO) trades near $106 a share, about 24.6 times the $4.33 of non-GAAP earnings per share it reported for fiscal 2026. That is the same basis Cisco uses for its guidance and analysts use for their forecasts. For a networking supplier with $63.33 billion of revenue behind it, that is rich. And it ignores the two years analysts have already forecast.",
+      "pub_date": "2026-09-23T19:16:55Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-looks-expensive-until-191655537.html"
+    },
     {
       "title": "Why Palo Alto Networks (PANW) Stock Is Trading Up Today",
       "summary": "Shares of cybersecurity platform provider Palo Alto Networks (NASDAQ:PANW) jumped 3% in the afternoon session after the launch of its Unit 42 Continuous Frontier AI Defense, an agentic offensive security service designed to perpetually find and fix enterprise exposures.",
       "pub_date": "2026-09-23T18:57:16Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-palo-alto-networks-panw-185716020.html"
+    },
+    {
+      "title": "Trump Downplayed AI Safety Concerns, but His Investment Portfolio Bought Cybersecurity Stocks",
+      "summary": "President Donald Trump has called artificial-intelligence safety fears a \u201choax.\u201d  The president\u2019s latest financial disclosure for July shows his portfolio bought stocks of cybersecurity companies, which address the growing need for protection as AI keeps developing.  Both the White House and the Trump Organization said Trump\u2019s stock and bond portfolio is independently managed by third-party financial institutions.",
+      "pub_date": "2026-09-23T18:41:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/trump-microsoft-amazon-oracle-stock-ai-trade-6b72c193?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Palo Alto Jumps 3.5% as AI Pen Testing Becomes a Subscription",
@@ -22,41 +57,6 @@
       "pub_date": "2026-09-23T16:54:23Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-sept-23-165423525.html"
-    },
-    {
-      "title": "Cybersecurity Stocks Rally While Large-Cap Tech Slides: CrowdStrike, Palo Alto, Okta, and Palantir Each Gain 4%",
-      "summary": "While mega-cap tech names slide Wednesday morning, a tight cluster of cybersecurity stocks is breaking away from the pack in a move that has nothing to do with company earnings and everything to do with where investors are hiding.",
-      "pub_date": "2026-09-23T15:41:02Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-rally-while-large-154102562.html"
-    },
-    {
-      "title": "Can Prisma AIRS' $100M ARR Milestone Drive PANW's AI Security Growth?",
-      "summary": "Palo Alto Networks' Prisma AIRS tops $100 million in ARR, with rapid customer adoption highlighting growing enterprise AI security demand.",
-      "pub_date": "2026-09-23T14:44:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/prisma-airs-100m-arr-milestone-144400534.html"
-    },
-    {
-      "title": "Why Palo Alto Networks (PANW) Is Getting Fresh Attention",
-      "summary": "Palo Alto Networks (PANW) is back in focus after Bernstein cut its rating to Market Perform, citing rich valuation multiples. At the same time, demand for the company\u2019s AI security platforms remains a key talking point. The recent downgrade landed after a powerful run, with Palo Alto Networks posting a 90\u2011day share price return of 31.31% and a year to date share price gain of 108.83%. The 1\u2011year total shareholder return of 84.29% and 5\u2011year total shareholder return of 371.80% point to...",
-      "pub_date": "2026-09-23T06:15:36Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-palo-alto-networks-panw-061536082.html"
-    },
-    {
-      "title": "Why Bernstein Still Sees 46% Upside in Zscaler (ZS) but Downgraded Palo Alto (PANW)",
-      "summary": "Wall Street has spent much of 2026 rewarding cybersecurity stocks for the risks created by AI. Bernstein now thinks the easy part of that trade is over, with one major exception. Bernstein analyst Peter Weed raised his target on Zscaler, Inc. (NASDAQ:ZS) to $298 and maintained an Outperform rating on September 17. The target implied [\u2026]",
-      "pub_date": "2026-09-23T04:13:16Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-bernstein-still-sees-46-041316215.html"
-    },
-    {
-      "title": "What Happens To Cloudflare Stock If Its Growth Cools?",
-      "summary": "Cloudflare (NET) has returned about 61% in three months and trades at or near its three-year high. The question on holders' minds is plain: what happens if its growth cools? The company has guided revenue growth for the third quarter of 2026 to 31%, and its CFO says the way customers now pay makes each quarter harder to forecast.",
-      "pub_date": "2026-09-22T20:01:35Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/happens-cloudflare-stock-growth-cools-200135221.html"
     }
   ]
 }
