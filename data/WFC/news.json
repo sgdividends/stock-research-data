@@ -1,7 +1,14 @@
 {
   "ticker": "WFC",
-  "generated_at": "2026-09-23T15:57:14.123209+00:00",
+  "generated_at": "2026-09-23T19:26:07.444393+00:00",
   "items": [
+    {
+      "title": "32-Story Downtown Boston Office Tower Heading To Foreclosure Auction",
+      "summary": "Wells Fargo foreclosed on 100 Summer St., a 32-story tower owned by Rockpoint Group. The auction is scheduled Oct. 20 with Sullivan & Sullivan.",
+      "pub_date": "2026-09-23T18:17:25Z",
+      "source": "Bisnow",
+      "url": "https://finance.yahoo.com/real-estate/articles/32-story-downtown-boston-office-181725712.html"
+    },
     {
       "title": "How Meta's Muse, Vanguard AI Threat Triggered Schwab Sell Signal",
       "summary": "Charles Schwab stock recovered only modestly on Wednesday morning, a day after leading a wide swath of brokerage, bank and other financial stocks lower as AI-fueled competition heats up.  Rapid adoption of Meta Platforms' Muse personal AI agent and a growing threat from Altruist, an AI platform for financial advisors that was recently acquired by Vanguard, have highlighted two very different type of risks to Schwab's business.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-22T08:34:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-always-said-1-083400420.html"
-    },
-    {
-      "title": "Stock Market Today, Sept. 21: Meta Surges on Excitement Over Muse Personal AI Agent",
-      "summary": "Wells Fargo's AI-driven upgrade reinforced investor confidence as Muse AI agent gained early traction on app stores, today, Sept. 21, 2026.",
-      "pub_date": "2026-09-21T21:43:56Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-21-214356870.html"
     }
   ]
 }

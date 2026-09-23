@@ -1,7 +1,21 @@
 {
   "ticker": "NDAQ",
-  "generated_at": "2026-09-23T15:56:46.908718+00:00",
+  "generated_at": "2026-09-23T19:25:38.629463+00:00",
   "items": [
+    {
+      "title": "NYSE, Blockchain Team Up For Round-The-Clock Trading",
+      "summary": "NYSE is partnering with a crypto-transaction firm to develop around-the-clock stock trading, the latest in a series of moves among financial firms that seek to expand and globalize stock trading.",
+      "pub_date": "2026-09-23T19:14:39Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/nyse-blockchain-tokenized-trading/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Securitize Stock Jumps 12% as Cantor Bets on a Tokenization Boom",
+      "summary": "Securitize shares have surged as regulators open a path for tokenized stock trading. Cantor Fitzgerald sees more room to rise.",
+      "pub_date": "2026-09-23T16:55:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/securitize-stock-price-cantor-tokenization-1bff8d31?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Nasdaq Is Betting on Tokenized Stocks. Here's Why It Just Bought a $100 Million Stake in Kraken's Parent.",
       "summary": "The two companies will combine to complete and deploy a tokenized stock trading platform.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-17T18:14:00Z",
       "source": "CryptoProwl",
       "url": "https://finance.yahoo.com/markets/crypto/articles/former-hut-8-ceo-lead-181400586.html"
-    },
-    {
-      "title": "Analysts See Double-Digit Upside for These 3 Stocks",
-      "summary": "Nasdaq, Arista Networks, and Mastercard each hold a Buy consensus with double-digit implied upside, offering analysts' distinct views across exchanges, AI networking, and payments.",
-      "pub_date": "2026-09-17T11:15:00Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-see-double-digit-upside-111500436.html"
-    },
-    {
-      "title": "CME Group Rises 5.8% in a Year: How Should You Play the Stock?",
-      "summary": "CME is expanding through higher trading volumes, new derivatives products and record market-data revenues while returning capital to shareholders.",
-      "pub_date": "2026-09-16T15:03:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cme-group-rises-5-8-150300413.html"
     }
   ]
 }

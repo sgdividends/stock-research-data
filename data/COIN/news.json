@@ -1,13 +1,41 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-09-23T15:56:07.151398+00:00",
+  "generated_at": "2026-09-23T19:24:58.859165+00:00",
   "items": [
+    {
+      "title": "Prediction markets face questions over reported volume and fraud schemes",
+      "summary": "Scott Melker discusses CoinDesk's reporting on possible volume anomalies at Kalshi and Polymarket's handling of fraud schemes.  \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto. Make sure to also check out Yahoo Finance's new crypto hub to find the latest crypto-related news.",
+      "pub_date": "2026-09-23T19:00:00Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/prediction-markets-face-questions-over-190000595.html"
+    },
+    {
+      "title": "Borrow Against Your Bitcoin at a Fixed Rate: Coinbase Expands Morpho Loans",
+      "summary": "The product lets users lock in their rate and repayment date when borrowing USDC against Bitcoin, marking the first enterprise-scale deployment of Morpho Midnight and a shift away from on-chain lending's variable-rate norm.",
+      "pub_date": "2026-09-23T18:15:06Z",
+      "source": "decrypt",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/borrow-against-bitcoin-fixed-rate-181506989.html"
+    },
+    {
+      "title": "Securitize Stock Jumps 12% as Cantor Bets on a Tokenization Boom",
+      "summary": "Securitize shares have surged as regulators open a path for tokenized stock trading. Cantor Fitzgerald sees more room to rise.",
+      "pub_date": "2026-09-23T16:55:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/securitize-stock-price-cantor-tokenization-1bff8d31?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Powered by Coinbase, Roundtable\u2019s Real-Time DeFi Media Payment Platform Goes Live $100 Million Ad Ecosystem to Migrate; RTB Shares Begin Trading on Coinbase Today",
       "summary": "Instant settlement in USDC for journalists, on RTB\u2019s decentralized, AI-reporting smart wallet network, connected to Roundtable\u2019s \u201cMedia Liquidity Pool\u201d and secured by Coinbase, empowering decentralized, independent journalism Platform unveiled in London.",
       "pub_date": "2026-09-23T15:10:20Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/markets/crypto/articles/powered-coinbase-roundtable-real-time-151020379.html"
+    },
+    {
+      "title": "AI Predicts ADA Price as Cardano Outgrows the Rest of the Market",
+      "summary": "Cardano is quietly having a strong week. ADA has joined Coinbase\u2019s x402 payments kit alongside Solana and the XRP Ledger, and its share of the total crypto market has climbed faster than almost any major asset over the past seven days. Gemini AI Predicts this combination of real utility and ...",
+      "pub_date": "2026-09-23T14:50:36Z",
+      "source": "Coinspeaker",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/ai-predicts-ada-price-cardano-145036049.html"
     },
     {
       "title": "Robinhood's Prediction Markets Move Beyond Sports: Why It Matters",
@@ -29,34 +57,6 @@
       "pub_date": "2026-09-23T12:47:54Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/crypto/articles/billionaire-ken-fisher-buying-2-124754371.html"
-    },
-    {
-      "title": "Zest Bets Bitcoin Can Back Loans Without Ever Leaving Its Own Chain",
-      "summary": "Zest Protocol's capped mainnet demo lets users borrow USDC against BTC held in a vault on Bitcoin, without wrapping or bridging the coins.",
-      "pub_date": "2026-09-23T10:00:00Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/zest-bets-bitcoin-back-loans-100000412.html"
-    },
-    {
-      "title": "CRCL Vs COIN: Which Crypto Stock Is The Better Bet Amid Rising Bitcoin Prices?",
-      "summary": "Circle is primarily a bet on USDC adoption and stablecoin infrastructure, while Coinbase has much more exposure to crypto trading activity through its centralized exchange.",
-      "pub_date": "2026-09-23T04:31:06Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/crcl-vs-coin-crypto-stock-043106778.html"
-    },
-    {
-      "title": "Coinbase's IPO move sends stock to four month high",
-      "summary": "The stock\u2019s rally comes as Coinbase pushes further into traditional finance.",
-      "pub_date": "2026-09-22T21:13:31Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coinbases-ipo-move-sends-stock-211331084.html"
-    },
-    {
-      "title": "Inside Coinbase\u2019s $250 Billion Playbook for Post-Quantum Bitcoin Custody",
-      "summary": "Head of cryptography Yehuda Lindell says the exchange is designing custody that can adapt to whatever post-quantum signing scheme Bitcoin adopts.",
-      "pub_date": "2026-09-22T20:01:03Z",
-      "source": "decrypt",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/inside-coinbase-250-billion-playbook-200103319.html"
     }
   ]
 }

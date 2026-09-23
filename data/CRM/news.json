@@ -1,7 +1,28 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-09-23T15:56:09.393079+00:00",
+  "generated_at": "2026-09-23T19:25:00.733584+00:00",
   "items": [
+    {
+      "title": "Enterprise Software Stocks Rally as Tech Tape Slides: Atlassian Corporation, Monday.com and Salesforce Climb 3%, ServiceNow Nudges Higher",
+      "summary": "Enterprise software names are climbing while the broader tech complex falls and long-dated Treasury yields hit their highest point in nearly two decades, a combination that rewrites what the textbook says should be happening to these stocks right now.",
+      "pub_date": "2026-09-23T18:04:16Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/enterprise-software-stocks-rally-tech-180416028.html"
+    },
+    {
+      "title": "How Big A Swing Are You Carrying In Adobe Stock?",
+      "summary": "Adobe (ADBE) trades at about $238 a share. Options that expire in about a year, 361 days out, imply an expected trading range running from $152 to $373 under standard lognormal market-pricing assumptions. The floor sits about 36% below today's price and the ceiling about 56% above. If you own the stock, that spread is what you are carrying.",
+      "pub_date": "2026-09-23T16:17:48Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/big-swing-carrying-adobe-stock-161748275.html"
+    },
+    {
+      "title": "ADBE Expands AI Customer Experience Push With Jet2: What's Ahead?",
+      "summary": "Adobe's Jet2 partnership expands its AI-powered customer-experience push as CX momentum strengthens amid rising competition.",
+      "pub_date": "2026-09-23T16:14:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/adbe-expands-ai-customer-experience-161400513.html"
+    },
     {
       "title": "The Street is Finally Going Bullish on Salesforce and I Keep Buying",
       "summary": "Wall Street spent all year convinced AI would hollow out Salesforce's business model, and every time the stock dipped, one investor kept adding to the position anyway. Here is why the cash flow and buyback math convinced him the crowd had it exactly backwards.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-23T11:17:02Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-worth-111702563.html"
-    },
-    {
-      "title": "Snap Has Launched Its High-Powered Glasses. Will There Be Enough Demand?",
-      "summary": "The company's augmented reality glasses, called Specs, retail for more than $2,000.",
-      "pub_date": "2026-09-23T09:52:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/technology/articles/snap-launched-high-powered-glasses-095200207.html"
-    },
-    {
-      "title": "\u201cThe New Clippy\u201d: Benioff Uses Salesforce\u2019s Biggest Product Launch in Years to Challenge Microsoft",
-      "summary": "Marc Benioff is never one to pass up a chance to take a jab at Microsoft Corporation (NASDAQ:MSFT), and Dreamforce 2026 was no different. The Salesforce CEO used the company\u2019s flagship annual conference in San Francisco to announce AIforce, the biggest product launch Salesforce, Inc. (NYSE:CRM) has made in years, and to once again refer [\u2026]",
-      "pub_date": "2026-09-23T04:46:53Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/clippy-benioff-uses-salesforce-biggest-044653952.html"
-    },
-    {
-      "title": "Marc Benioff Says Microsoft Shut Salesforce Out Of OpenAI \u2014 So He Bet On Anthropic Instead, And It Could Pay 'Tens Of Billions'",
-      "summary": "Salesforce\u2019s AI strategy ties together its Anthropic investment, Slack integration and Agentforce push.",
-      "pub_date": "2026-09-23T02:09:11Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/technology/ai/articles/marc-benioff-says-microsoft-shut-020911128.html"
     }
   ]
 }

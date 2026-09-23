@@ -1,7 +1,21 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-09-23T15:55:56.756910+00:00",
+  "generated_at": "2026-09-23T19:24:46.304430+00:00",
   "items": [
+    {
+      "title": "Marvell Stock Ran, But Did It Tell You When?",
+      "summary": "Marvell Technology (MRVL) stock has returned 248% since September 22, 2025, against about 18% for the S&P 500 over the same window. The products that drove that run were named in public months before the share price moved. None came with a date.",
+      "pub_date": "2026-09-23T19:05:16Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-ran-did-tell-190516402.html"
+    },
+    {
+      "title": "Broadcom Just Made a Move That Further Solidifies My Decision to Buy on Repeat",
+      "summary": "Broadcom's latest earnings dropped a set of forward projections so aggressive that ignoring them starts to feel like a mistake. Here is why one investor keeps adding shares on every single paycheck.",
+      "pub_date": "2026-09-23T15:45:48Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-just-made-move-further-154548147.html"
+    },
     {
       "title": "What Changed In AMD's Story?",
       "summary": "Advanced Micro Devices (AMD) has stopped leading with the problem that opened its call a year ago. That problem was keeping one of its accelerators out of China. The latest call was fiscal Q2 2026. This time, management did not lead with the subject at all. So what was AMD leading with back then.",
@@ -31,7 +45,7 @@
       "url": "https://www.barrons.com/articles/nvidia-stock-price-ai-chips-google-2c231d8d?siteid=yhoof2&yptr=yahoo"
     },
     {
-      "title": "Want to Play Anthropic Before Its IPO? There Is an ETF for That.",
+      "title": "Want to Play Anthropic Before Its IPO? There\u2019s an ETF for That.",
       "summary": "It\u2019s an actively managed fund with big holdings in major chip companies las well as hyperscalers. In other words, the usual AI beneficiary suspects.",
       "pub_date": "2026-09-23T13:18:00Z",
       "source": "Barrons.com",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-23T13:00:24Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-set-40-surge-130024665.html"
-    },
-    {
-      "title": "AI Chips Update - Rising AI Sentiment Drives Industry Shift and Efficiency Gains",
-      "summary": "In August 2026, AI confidence saw a notable increase, as evidenced by the BCC Research AI Sentiment Index rising to 77.78 from 75.10 in July. This growth is attributed to a shift from mere experimentation to the practical deployment of AI, with organizations reporting measurable efficiency gains and improved decision-making. Notably, life sciences and healthcare experienced significant advancements due to expanding AI applications, while the technology and consumer electronics sectors...",
-      "pub_date": "2026-09-23T11:37:32Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-chips-rising-ai-sentiment-113732971.html"
-    },
-    {
-      "title": "Sandisk, Super Micro, IonQ, Six Flags, and More Stocks That Explain Today\u2019s Market",
-      "summary": "Shares of chip and memory companies slip as investors lock in some profit, but AI server makers are having a better time of it.",
-      "pub_date": "2026-09-23T10:18:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-91bb194a?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

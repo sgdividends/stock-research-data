@@ -1,7 +1,21 @@
 {
   "ticker": "ICE",
-  "generated_at": "2026-09-23T15:56:31.947572+00:00",
+  "generated_at": "2026-09-23T19:25:23.968794+00:00",
   "items": [
+    {
+      "title": "NYSE, Blockchain Team Up For Round-The-Clock Trading",
+      "summary": "NYSE is partnering with a crypto-transaction firm to develop around-the-clock stock trading, the latest in a series of moves among financial firms that seek to expand and globalize stock trading.",
+      "pub_date": "2026-09-23T19:14:39Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/nyse-blockchain-tokenized-trading/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Intercontinental Exchange Sees Multiple Growth Opportunities, RBC Says",
+      "summary": "Intercontinental Exchange (ICE) could see more growth from the MarketAxess deal, new trading product",
+      "pub_date": "2026-09-23T16:18:10Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intercontinental-exchange-sees-multiple-growth-161810491.html"
+    },
     {
       "title": "MoonPay to Acquire North Capital in $60M Deal to Expand Tokenization",
       "summary": "Cryptocurrency payments firm MoonPay is set to acquire private-markets infrastructure platform North Capital in an ...",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-21T12:10:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/beat-market-zacks-pbf-palantir-121000661.html"
-    },
-    {
-      "title": "Is Solana the Biggest Winner From the SEC\u2019s Tokenized Stock Rule? $465 Million of Stocks Already Trade There",
-      "summary": "The SEC just opened a legal lane for tokenized stocks, and Solana already holds nearly half the market. But a closer look at the fine print reveals why its head start may count for less than it appears.",
-      "pub_date": "2026-09-18T18:30:44Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/solana-biggest-winner-sec-tokenized-183044485.html"
-    },
-    {
-      "title": "SEC Opens U.S. Door to Tokenized Stocks: Is Robinhood a Buy Now?",
-      "summary": "HOOD gains a potential U.S. tokenized-stock pathway under the SEC exemption, but compliance hurdles and rising competition temper the near-term impact.",
-      "pub_date": "2026-09-18T13:03:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sec-opens-u-door-tokenized-130300708.html"
     }
   ]
 }

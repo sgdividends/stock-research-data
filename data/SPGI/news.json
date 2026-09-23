@@ -1,7 +1,28 @@
 {
   "ticker": "SPGI",
-  "generated_at": "2026-09-23T15:57:02.086302+00:00",
+  "generated_at": "2026-09-23T19:25:54.146335+00:00",
   "items": [
+    {
+      "title": "Weekly Mortgage Applications Fall as Key 30-Year Rate Reaches Highest Since May 2024",
+      "summary": "Mortgage applications in the US fell last week as a key 30-year rate crossed 7% to reach the highest",
+      "pub_date": "2026-09-23T19:14:24Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/real-estate/articles/weekly-mortgage-applications-fall-key-191424884.html"
+    },
+    {
+      "title": "10-year Treasury yield hits 5.1% for first time in 19 years",
+      "summary": "US bond yields surged Wednesday to reclaim their highest levels in nearly two decades after new data depicted strong business activity and intensifying inflation concerns.",
+      "pub_date": "2026-09-23T18:31:35Z",
+      "source": "CNN Business",
+      "url": "https://finance.yahoo.com/economy/policy/articles/10-treasury-yield-hits-5-183135691.html"
+    },
+    {
+      "title": "Update: Equities Fall Intraday, Yields Surge as Rate Hike Bets Grow",
+      "summary": "(Updates with latest market prices and developments.) US benchmark stock indexes fell intraday an",
+      "pub_date": "2026-09-23T18:02:18Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equities-fall-intraday-yields-surge-180218962.html"
+    },
     {
       "title": "WBD Stock Is Running. Is There Fuel Left?",
       "summary": "After a powerful run to new highs, this media giant's stock is asking every investor the same question: is the turnaround in streaming enough to carry the whole company higher.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-23T12:21:02Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/us-stocks-lower-pre-bell-122102712.html"
-    },
-    {
-      "title": "How To Size QBTS Stock For The Next Market Shock?",
-      "summary": "D-Wave Quantum (QBTS) trades near $17.50, about 61% below the high it set inside the past year. Nothing in the market broke to do that. The S&P 500 returned close to 18% over the same twelve months. The stock has already fallen a shock-sized amount without a shock, which is what makes the next leg hard to size.",
-      "pub_date": "2026-09-23T12:16:13Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/size-qbts-stock-next-market-121613498.html"
-    },
-    {
-      "title": "US PMI Data Drops Today. Here's What Traders Expect",
-      "summary": "S&P Global will release on Wednesday its preliminary September Purchasing Managers' Indices (PMIs) for the United States.",
-      "pub_date": "2026-09-23T11:40:37Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/economy/articles/us-pmi-data-drops-today-114037592.html"
-    },
-    {
-      "title": "S&P Global (SPGI) Could Be 6% Overvalued As AI Momentum Meets Valuation Questions",
-      "summary": "S&P Global (SPGI) is in focus after highlighting rapid uptake of its AI tools, with 500 customers using model context protocol connectors and a very large jump in data usage through APIs and large language model calls. S&P Global\u2019s recent AI push comes at a more challenging time for the stock, with the share price down 6.7% over the past month and 21.5% year to date. A 1-year total shareholder return decline of 13.6% contrasts with a positive 3-year total shareholder return of 19.7%, which...",
-      "pub_date": "2026-09-22T23:22:03Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-global-spgi-could-6-232203575.html"
     }
   ]
 }

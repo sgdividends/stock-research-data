@@ -1,7 +1,14 @@
 {
   "ticker": "ADSK",
-  "generated_at": "2026-09-23T15:55:50.403866+00:00",
+  "generated_at": "2026-09-23T19:24:39.782146+00:00",
   "items": [
+    {
+      "title": "How Big A Swing Are You Carrying In Adobe Stock?",
+      "summary": "Adobe (ADBE) trades at about $238 a share. Options that expire in about a year, 361 days out, imply an expected trading range running from $152 to $373 under standard lognormal market-pricing assumptions. The floor sits about 36% below today's price and the ceiling about 56% above. If you own the stock, that spread is what you are carrying.",
+      "pub_date": "2026-09-23T16:17:48Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/big-swing-carrying-adobe-stock-161748275.html"
+    },
     {
       "title": "Adobe Is Down 32% This Year: Is ADBE Stock Dead Money or Due for a Bounce?",
       "summary": "Adobe has fallen harder than its software peers while the broader market climbed, and the selling has not slowed even after quarterly results landed. The case for a bounce and the case for dead money both start with the same price chart and reach opposite conclusions.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-17T20:54:03Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/far-could-autodesk-stock-rebound-205403813.html"
-    },
-    {
-      "title": "How Much Upside Is Left In Adobe Stock?",
-      "summary": "Adobe (ADBE) trades near $250, down about 28% over the past year while the S&P 500 gained about 16%. Over the past three months the stock has returned about 21%. The market pays 13.9 times trailing earnings for a company that just reported record quarterly revenue. A multiple that low prices Adobe as if meaningful growth is off the table. The scenario below tests that pricing, and its answer rests on whether Adobe's free users ever start paying.",
-      "pub_date": "2026-09-17T15:46:29Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/much-upside-left-adobe-stock-154629505.html"
     }
   ]
 }

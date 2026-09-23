@@ -1,10 +1,10 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-09-23T15:56:05.815403+00:00",
+  "generated_at": "2026-09-23T19:24:57.435068+00:00",
   "items": [
     {
       "title": "Claude AI Predicts BCH Price Action After Bitcoin Cash Explodes 35% on CME News",
-      "summary": "Bitcoin price (BTC USD) is trading at $86,378.81, up 1.26%, and sitting on track to complete something it hasn\u2019t done since 2012: a three-month winning streak from July through September. July closed up 4.8%, August surged 25.2%, and September is currently 10.9% higher at roughly $86,140, according to CoinDesk\u2019s data. ...",
+      "summary": "Bitcoin Cash just had the kind of day altcoins rarely get. BCH tore from the $260s to above $360 after CME Group confirmed it is listing Bitcoin Cash futures, dragging short sellers out of their positions on the way up. Claude AI predicts BCH has further to run on the ...",
       "pub_date": "2026-09-23T14:48:40Z",
       "source": "99bitcoins",
       "url": "https://finance.yahoo.com/markets/crypto/articles/claude-ai-predicts-bch-price-144840485.html"
@@ -31,6 +31,13 @@
       "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-cash-explodes-traders-pile-125727966.html"
     },
     {
+      "title": "Bitcoin Cash Price Prediction: 35% BCH Rally Puts $450 in Focus",
+      "summary": "Bitcoin Cash surges 35% as CME futures, ETF expectations and a short squeeze fuel a breakout that could put $450 in focus.",
+      "pub_date": "2026-09-23T11:06:46Z",
+      "source": "FX Empire",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-cash-price-prediction-35-110646335.html"
+    },
+    {
       "title": "A Hawkish Fed Pushes the Dollar Higher",
       "summary": "Signs that the Fed will press ahead with interest-rate hikes are boosting the dollar.  Traders have taken note of comments from Fed officials citing the need for more rate increases to tame inflation following last week\u2019s hike, the first in three years.  Richmond Fed President Thomas Barkin suggested yesterday that one hike was not enough to curb inflation.",
       "pub_date": "2026-09-23T10:52:22Z",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-22T16:52:00Z",
       "source": "CryptoProwl",
       "url": "https://finance.yahoo.com/markets/crypto/articles/cme-group-launch-bitcoin-cash-165200159.html"
-    },
-    {
-      "title": "CME Group Expands Equity Derivatives With New Factor Futures",
-      "summary": "CME expands equity derivatives with new factor futures, offering targeted exposure, margin offsets and flexible trading for institutions.",
-      "pub_date": "2026-09-22T16:02:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/options/articles/cme-group-expands-equity-derivatives-160200289.html"
     }
   ]
 }
