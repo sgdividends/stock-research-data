@@ -1,7 +1,42 @@
 {
   "ticker": "MRVL",
-  "generated_at": "2026-09-23T09:00:19.643502+00:00",
+  "generated_at": "2026-09-23T15:56:45.372936+00:00",
   "items": [
+    {
+      "title": "What Changed In AMD's Story?",
+      "summary": "Advanced Micro Devices (AMD) has stopped leading with the problem that opened its call a year ago. That problem was keeping one of its accelerators out of China. The latest call was fiscal Q2 2026. This time, management did not lead with the subject at all. So what was AMD leading with back then.",
+      "pub_date": "2026-09-23T15:00:42Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/changed-amds-story-150042231.html"
+    },
+    {
+      "title": "Stifel Backs Marvell's $350 Target on 2nm Capacity Edge",
+      "summary": "Stifel also sees pluggable optics as an underappreciated volume driver across AI networks",
+      "pub_date": "2026-09-23T14:32:07Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/articles/stifel-backs-marvells-350-target-143207949.html"
+    },
+    {
+      "title": "Trump's Latest Stock Disclosure Reveals a Surprising Trading Pattern",
+      "summary": "Microsoft and Amazon sales were each valued at $5 million to $25 million.",
+      "pub_date": "2026-09-23T12:14:38Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trumps-latest-stock-disclosure-reveals-121438043.html"
+    },
+    {
+      "title": "The Stock Market Is Sleeping on the Next Big AI Catalyst",
+      "summary": "Meta\u2019s annual conference kicks off today, and the latest on Anthropic's IPO, but this is the next big AI catalyst.",
+      "pub_date": "2026-09-23T11:37:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stock-market-things-to-know-today-864cd94d?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Marvell and 2 More Stocks to Play the AI Data-Center Boom",
+      "summary": "Nvidia CEO Jensen Huang was wrong when he predicted Marvell would be the next trillion-dollar chip company.",
+      "pub_date": "2026-09-23T10:51:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/buy-marvell-stock-on-semi-semtech-ai-data-center-935843a8?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Should You Sell Your Marvell Stock Now That Higher Forecasts Are Not Enough?",
       "summary": "Marvell Technology (MRVL) raised its revenue outlook in late August. Yet its stock has fallen 16.4% over the past three months, before dividends. The S&P 500 returned 4.2% with dividends reinvested over the same stretch. After its late-August results, investors worried about when a key AI chip deal will pay off. Management placed the biggest gains from it in fiscal 2029 and beyond. Meanwhile, the shares already trade at a far higher multiple of profit than the S&P 500.",
@@ -22,41 +57,6 @@
       "pub_date": "2026-09-22T18:30:28Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/under-radar-chip-company-could-183028114.html"
-    },
-    {
-      "title": "Stocks making big moves yesterday: Xponential Fitness, Meta, Marvell Technology, Titan International, and Cloudflare",
-      "summary": "Check out the companies making headlines yesterday:",
-      "pub_date": "2026-09-22T18:29:46Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-182946944.html"
-    },
-    {
-      "title": "Is NVIDIA Funding Its Own Stock Rally?",
-      "summary": "If you hold NVIDIA (NVDA) stock, one number deserves your attention: roughly a quarter. That is the share of fiscal 2028 business management expects from AI labs it will back with its own balance sheet. NVIDIA's revenue more than doubled year over year in fiscal Q2 2027, so this number is easy to miss. An important thing to watch is how much future demand depends on NVIDIA backing its own customers.",
-      "pub_date": "2026-09-22T17:29:12Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-funding-own-stock-rally-172912654.html"
-    },
-    {
-      "title": "Price Prediction: Marvell, AMD & Broadcom- Our Bold Price Predictions for 2027",
-      "summary": "Marvell, AMD, and Broadcom are all sitting above Wall Street's consensus targets right now, yet one bold analyst sees each of them with meaningful room left to run before 2027 ends.",
-      "pub_date": "2026-09-22T16:00:09Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/price-prediction-marvell-amd-broadcom-160009907.html"
-    },
-    {
-      "title": "Lumentum to Demonstrate DWDM ELSFP at ECOC 2026: What's Ahead?",
-      "summary": "LITE's eight-wavelength DWDM ELSFP push targets CPO and NPO architectures as AI optical demand rises and rivals expand aggressively.",
-      "pub_date": "2026-09-22T15:37:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/articles/lumentum-demonstrate-dwdm-elsfp-ecoc-153700274.html"
-    },
-    {
-      "title": "Marvell Technology (MRVL) Debuts Industry First 2nm Optical Interconnects",
-      "summary": "Marvell Technology (NasdaqGS:MRVL) revealed industry-first 2nm optical interconnect solutions for AI data centers at ECOC 2026 on 21 September 2026. The new 2nm products target higher bandwidth for AI clusters, aiming to support growing data movement inside hyperscale facilities. Marvell highlighted power efficiency features and integrated security for AI networking workloads in its latest optical interconnect portfolio. There is more to Marvell's new 2nm optical interconnect launch than...",
-      "pub_date": "2026-09-22T11:15:33Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/articles/marvell-technology-mrvl-debuts-industry-111533825.html"
     }
   ]
 }

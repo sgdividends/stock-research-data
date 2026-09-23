@@ -1,7 +1,49 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-09-23T08:59:53.931585+00:00",
+  "generated_at": "2026-09-23T15:56:09.393079+00:00",
   "items": [
+    {
+      "title": "The Street is Finally Going Bullish on Salesforce and I Keep Buying",
+      "summary": "Wall Street spent all year convinced AI would hollow out Salesforce's business model, and every time the stock dipped, one investor kept adding to the position anyway. Here is why the cash flow and buyback math convinced him the crowd had it exactly backwards.",
+      "pub_date": "2026-09-23T14:45:49Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/street-finally-going-bullish-salesforce-144549957.html"
+    },
+    {
+      "title": "What Microsoft's Trailing Multiple Leaves Out",
+      "summary": "Microsoft (MSFT) has returned about 33% over the past three months, though it is down 3.1% over the past twelve months. Near $500 a share, the stock carries a trailing price-to-earnings ratio of about 26.7 times adjusted earnings. Whether that multiple looks elevated or not, it is the wrong number to make the decision on, because the earnings analysts already expect are not in it.",
+      "pub_date": "2026-09-23T14:37:19Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsofts-trailing-multiple-leaves-143719627.html"
+    },
+    {
+      "title": "Trump's Latest Stock Disclosure Reveals a Surprising Trading Pattern",
+      "summary": "Microsoft and Amazon sales were each valued at $5 million to $25 million.",
+      "pub_date": "2026-09-23T12:14:38Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trumps-latest-stock-disclosure-reveals-121438043.html"
+    },
+    {
+      "title": "Salesforce Remains Down Over 12 Months: This Wall Street Firm Doubled Down On Its Belief That 70% Returns Await Investors",
+      "summary": "Salesforce has bled out over 12 months while its enterprise software peers crater even harder, yet one Wall Street firm just planted a flag so far above current prices that it stands alone on the Street. The bull case hinges on a single AI product that either rewrites the CRM story entirely or confirms the market has been right to look away.",
+      "pub_date": "2026-09-23T11:20:39Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-remains-down-over-12-112039967.html"
+    },
+    {
+      "title": "2 S&P 500 Stocks Worth Investigating and 1 We Turn Down",
+      "summary": "The S&P 500 (^GSPC) is often seen as a benchmark for strong businesses, but that doesn\u2019t mean every stock is worth owning. Some companies face significant challenges, whether it\u2019s stagnating growth, heavy debt, or disruptive new competitors.",
+      "pub_date": "2026-09-23T11:17:02Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-p-500-stocks-worth-111702563.html"
+    },
+    {
+      "title": "Snap Has Launched Its High-Powered Glasses. Will There Be Enough Demand?",
+      "summary": "The company's augmented reality glasses, called Specs, retail for more than $2,000.",
+      "pub_date": "2026-09-23T09:52:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/articles/snap-launched-high-powered-glasses-095200207.html"
+    },
     {
       "title": "\u201cThe New Clippy\u201d: Benioff Uses Salesforce\u2019s Biggest Product Launch in Years to Challenge Microsoft",
       "summary": "Marc Benioff is never one to pass up a chance to take a jab at Microsoft Corporation (NASDAQ:MSFT), and Dreamforce 2026 was no different. The Salesforce CEO used the company\u2019s flagship annual conference in San Francisco to announce AIforce, the biggest product launch Salesforce, Inc. (NYSE:CRM) has made in years, and to once again refer [\u2026]",
@@ -15,48 +57,6 @@
       "pub_date": "2026-09-23T02:09:11Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/technology/ai/articles/marc-benioff-says-microsoft-shut-020911128.html"
-    },
-    {
-      "title": "$223 Billion Back To Shareholders: Inside The MSFT Machine",
-      "summary": "Microsoft handed shareholders one of the largest cash returns in market history, but what did that money actually buy for the owners who held on.",
-      "pub_date": "2026-09-22T21:51:24Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/223-billion-back-shareholders-inside-215124952.html"
-    },
-    {
-      "title": "How Far Could CRM Stock Swing In A Year?",
-      "summary": "Salesforce (CRM) stock trades at about $236 after returning about 58% over three months. Its options now price a range over roughly a year that runs from about $152 to about $368. The bottom of that band is a price the stock has already traded through within the past year, and the market is pricing the band a little calmer than the stock has actually moved.",
-      "pub_date": "2026-09-22T20:57:37Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/options/articles/far-could-crm-stock-swing-205737098.html"
-    },
-    {
-      "title": "Sandisk, Lennar, Viking Therapeutics, Shopify, GameStop, and More Stocks That Explain Today\u2019s Market",
-      "summary": "Sandisk rises. Rosenblatt initiates coverage of the stock with a Buy rating and a price target of $2,400.",
-      "pub_date": "2026-09-22T20:34:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-328a306e?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Adobe Is Down 32% This Year: Is ADBE Stock Dead Money or Due for a Bounce?",
-      "summary": "Adobe has fallen harder than its software peers while the broader market climbed, and the selling has not slowed even after quarterly results landed. The case for a bounce and the case for dead money both start with the same price chart and reach opposite conclusions.",
-      "pub_date": "2026-09-22T18:59:24Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/adobe-down-32-adbe-stock-185924162.html"
-    },
-    {
-      "title": "Salesforce vs. ServiceNow: Which Technology Stock Is a Better Buy in 2026?",
-      "summary": "Salesforce offers a more attractive valuation and proven cash generation. ServiceNow offers faster growth and a more defensible market position.",
-      "pub_date": "2026-09-22T18:13:34Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-vs-servicenow-technology-stock-181334118.html"
-    },
-    {
-      "title": "3 Big Tech Stocks With the Most Upside Right Now",
-      "summary": "Wall Street has targets for Google, NVIDIA, and Salesforce, but one analyst thinks those numbers still leave serious money on the table heading into 2027. Here is the math behind three bold calls that could reshape how you size your tech positions.",
-      "pub_date": "2026-09-22T18:00:47Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-big-tech-stocks-most-180047844.html"
     }
   ]
 }

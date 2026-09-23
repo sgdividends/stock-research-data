@@ -1,13 +1,41 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-09-23T08:59:54.151813+00:00",
+  "generated_at": "2026-09-23T15:56:09.752952+00:00",
   "items": [
     {
-      "title": "Dow Jones Futures: Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
+      "title": "Piper Sandler cuts Cisco price target to $125 on growth peak fears",
+      "summary": "Analyst James Fish maintained a Neutral rating while trimming the target from $132, citing lower price-to-earnings multiple expectations",
+      "pub_date": "2026-09-23T13:53:54Z",
+      "source": "Quartz",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-cuts-cisco-price-135354486.html"
+    },
+    {
+      "title": "Zscaler vs. Cisco: Which Cybersecurity Stock Is the Better Buy?",
+      "summary": "CSCO pairs cybersecurity growth, AI infrastructure momentum and strong cash generation with a lower P/S multiple than ZS.",
+      "pub_date": "2026-09-23T13:37:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zscaler-vs-cisco-cybersecurity-stock-133700928.html"
+    },
+    {
+      "title": "Cisco Stock Falls as Piper Sandler Cuts Price Target Over Growth Concerns",
+      "summary": "Key Stats for Cisco StockPrice change for Cisco stock in last 6 months: 35%$CSCO Stock Price as of Sep. 22: $10652-Week High: $130$CSCO Stock Price Target: $137What Happened?Cisco (CSCO) stock dropped almost 5% on Tuesday after Piper Sandler cut its price target on the networking company to $125 from $132.",
+      "pub_date": "2026-09-23T12:37:18Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-falls-piper-sandler-123718187.html"
+    },
+    {
+      "title": "Dow Jones Futures Fall After Nasdaq Hits New High; Sandisk, Micron Trigger Buy Signals",
       "summary": "The Nasdaq hit a new high with memory giants Sandisk and Micron flashing buy signals. But financials are struggling.",
-      "pub_date": "2026-09-23T03:09:51Z",
+      "pub_date": "2026-09-23T12:05:37Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-hits-high-sandisk-micron-buy-signals/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Cisco (CSCO) Unveils Quantum Networking Push With New Distributed Systems Collaboration",
+      "summary": "Cisco Systems (NasdaqGS:CSCO) announced a collaboration with quantum technology firm Infleqtion to advance distributed quantum networking architectures. The partners plan to work on quantum memory to optical transduction and networked quantum devices for long distance connectivity. Cisco highlighted a prototype Universal Quantum Switch as part of its push to connect, operate, and scale quantum systems. The Infleqtion partnership and Universal Quantum Switch prototype only capture one part of...",
+      "pub_date": "2026-09-23T10:14:26Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/articles/cisco-csco-unveils-quantum-networking-101426614.html"
     },
     {
       "title": "Stock Market Today: Dow Skids But Apple Eyes A Buy Point; Filing Says Trump Makes These Trades",
@@ -29,34 +57,6 @@
       "pub_date": "2026-09-22T17:06:44Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-sinks-6-while-tech-170644008.html"
-    },
-    {
-      "title": "Can Dell's Margins Catch Up With Its Stock?",
-      "summary": "Dell Technologies (DELL) stock has returned 341% over the past twelve months, the best record among the six companies in its peer group. Its revenue growth also ranks first. Its operating margin ranks only fourth, and that gap is what a buyer today has to judge. Behind the growth is demand for its servers that has outrun its own supply.",
-      "pub_date": "2026-09-22T17:01:49Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dells-margins-catch-stock-170149992.html"
-    },
-    {
-      "title": "Will This Major Industry Showcase Boost Quantum Computing Stocks?",
-      "summary": "Quantum computing stocks are struggling with a major industry conference on tap as investors eye roadmap to commercialization.",
-      "pub_date": "2026-09-22T12:00:23Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/quantum-computing-stocks-world-quantum-conference-2026/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Deel Built 10,000 Agents for Its Own Back Office \u2014 Then Added $140M in Revenue Without Hiring. The Self-Reported Math, Examined",
-      "summary": "Deel is an HR and payroll platform, not a traditional tech company, yet it has delivered the kind of concrete, per-capita data that has been missing from the agent economics debate. By deploying its internal agent platform, Akai, the company claims to have added $140 million in ARR over 90 days without hiring a single [\u2026]",
-      "pub_date": "2026-09-22T09:41:49Z",
-      "source": "Forkast News",
-      "url": "https://finance.yahoo.com/technology/ai/articles/deel-built-10-000-agents-094149490.html"
-    },
-    {
-      "title": "How Far Could Zoom Communications Stock Fall In A Real Market Shock?",
-      "summary": "Zoom Communications (ZM) stock sits about 21% below its 52-week high after falling 17.4% over the past month, a month in which its quarterly report beat its own guidance. Over the past year it returned 2.9% while the S&P 500 returned 17.3%. The question for a holder is what a real market shock would add.",
-      "pub_date": "2026-09-21T19:54:15Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/far-could-zoom-communications-stock-195415457.html"
     }
   ]
 }

@@ -1,7 +1,21 @@
 {
   "ticker": "WFC",
-  "generated_at": "2026-09-23T09:00:41.788338+00:00",
+  "generated_at": "2026-09-23T15:57:14.123209+00:00",
   "items": [
+    {
+      "title": "How Meta's Muse, Vanguard AI Threat Triggered Schwab Sell Signal",
+      "summary": "Charles Schwab stock recovered only modestly on Wednesday morning, a day after leading a wide swath of brokerage, bank and other financial stocks lower as AI-fueled competition heats up.  Rapid adoption of Meta Platforms' Muse personal AI agent and a growing threat from Altruist, an AI platform for financial advisors that was recently acquired by Vanguard, have highlighted two very different type of risks to Schwab's business.",
+      "pub_date": "2026-09-23T14:45:57Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/schwab-stock-meta-muse-altruist-vanguard-ai-jpmorgan-chase-sp-500/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "How Does Meta's Muse AI Raise Risks for Banks & Other Finance Firms?",
+      "summary": "Meta's Muse AI raises risks for finance firms by making it easier for customers to compare rates, fees and products, and move deposits or assets.",
+      "pub_date": "2026-09-23T14:31:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/does-metas-muse-ai-raise-143100261.html"
+    },
     {
       "title": "Applied Digital (APLD) Stock Sees Fair Value Cut As Analysts Split On AI Buildout",
       "summary": "Applied Digital\u2019s latest valuation work has trimmed the Fair Value estimate from US$73.36 to US$68.35, which reduces the implied upside case within this model. Analysts linking this shift to the current debate around contracted capacity, funding risk, and how much of the AI data center cycle is already reflected in the stock see the new level as a reset of expectations rather than a simple price call. As you read on, you will see how to interpret this evolving narrative and what to watch next...",
@@ -24,13 +38,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/wells-fargo-wfc-stock-moves-214505444.html"
     },
     {
-      "title": "Charles Schwab, JPMorgan Chase Slide On Vanguard-Backed AI Threat",
-      "summary": "Charles Schwab led a wide swath of brokerage, bank and other financial stocks lower on Tuesday as AI-fueled competition heats up.  Schwab's partnership news with Anthropic last week was meant to address just this kind of disruption, but may have fallen short.  Markets didn't react much on Sept. 1, when Altruist announced its new AI-powered all-in-one financial planning agent, encompassing retirement planning, investment optimization, cash flow analysis, estate planning, tax strategy, and insurance and risk.",
-      "pub_date": "2026-09-22T18:22:07Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/schwab-stock-charles-schw-jpmorgan-case-altruist-vanguard-ai-sp-500/?src=A00220&yptr=yahoo"
-    },
-    {
       "title": "Fed Rate Hike: What it Means for Wells Fargo's NII Outlook",
       "summary": "Fed's latest rate hike could support WFC's NII expansion, but rising deposit costs and may limit the upside to some extent.",
       "pub_date": "2026-09-22T13:38:00Z",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-21T21:43:56Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-21-214356870.html"
-    },
-    {
-      "title": "Meta Stock Jumps as Wells Fargo Underwrites the AI Story",
-      "summary": "Wells Fargo's new $796 target sits just above Meta's own 52-week high",
-      "pub_date": "2026-09-21T18:26:13Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/meta-stock-jumps-wells-fargo-182613920.html"
     }
   ]
 }

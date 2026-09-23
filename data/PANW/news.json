@@ -1,13 +1,20 @@
 {
   "ticker": "PANW",
-  "generated_at": "2026-09-23T09:00:24.511373+00:00",
+  "generated_at": "2026-09-23T15:56:51.971302+00:00",
   "items": [
     {
-      "title": "These are the cybersecurity stocks built for the AI era",
-      "summary": "Wedbush Securities' vice president of TMT Equity Research, Steven Wahrhaftig, joins Yahoo Finance's Ines Ferr\u00e9 to discuss key cybersecurity stocks, including CrowdStrike (CRWD) and Palo Alto Networks (PANW), that could be worth considering for investors following recent breaches such as the OpenAI-Hugging Face hack.",
-      "pub_date": "2026-09-22T12:00:00Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/cybersecurity-stocks-built-ai-era-120000421.html"
+      "title": "Cybersecurity Stocks Rally While Large-Cap Tech Slides: CrowdStrike, Palo Alto, Okta, and Palantir Each Gain 4%",
+      "summary": "While mega-cap tech names slide Wednesday morning, a tight cluster of cybersecurity stocks is breaking away from the pack in a move that has nothing to do with company earnings and everything to do with where investors are hiding.",
+      "pub_date": "2026-09-23T15:41:02Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cybersecurity-stocks-rally-while-large-154102562.html"
+    },
+    {
+      "title": "Can Prisma AIRS' $100M ARR Milestone Drive PANW's AI Security Growth?",
+      "summary": "Palo Alto Networks' Prisma AIRS tops $100 million in ARR, with rapid customer adoption highlighting growing enterprise AI security demand.",
+      "pub_date": "2026-09-23T14:44:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/prisma-airs-100m-arr-milestone-144400534.html"
     },
     {
       "title": "Why Palo Alto Networks (PANW) Is Getting Fresh Attention",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-22T15:27:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/fortinet-stock-jumps-security-platform-152700824.html"
-    },
-    {
-      "title": "Palo Alto Networks Launches AI-Powered Continuous Security Testing Service",
-      "summary": "Palo Alto Networks (NASDAQ:PANW) has introduced Unit 42 Continuous Frontier AI Defense, a cybersecurity service designed to identify vulnerabilities and provide remediation guidance through continuous AI-powered testing. The service combines AI models from Anthropic and OpenAI within a proprietary multi-model system, allowing different security tasks to be assigned to the model considered most suitable.",
-      "pub_date": "2026-09-22T13:55:32Z",
-      "source": "InvestorsHub",
-      "url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-networks-launches-ai-135532789.html"
     }
   ]
 }

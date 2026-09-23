@@ -1,7 +1,21 @@
 {
   "ticker": "ON",
-  "generated_at": "2026-09-23T09:00:23.834274+00:00",
+  "generated_at": "2026-09-23T15:56:51.055951+00:00",
   "items": [
+    {
+      "title": "Nasdaq rally hasn't stopped these tech stocks from flashing warning signs",
+      "summary": "No stock rally is perfect, as is the case with the one seen this week in the tech-heavy Nasdaq Composite.",
+      "pub_date": "2026-09-23T14:17:10Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/nasdaq-rally-hasnt-stopped-these-tech-stocks-from-flashing-warning-signs-141710781.html"
+    },
+    {
+      "title": "Marvell and 2 More Stocks to Play the AI Data-Center Boom",
+      "summary": "Nvidia CEO Jensen Huang was wrong when he predicted Marvell would be the next trillion-dollar chip company.",
+      "pub_date": "2026-09-23T10:51:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/buy-marvell-stock-on-semi-semtech-ai-data-center-935843a8?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "ON Semiconductor Corp. (ON) Stock Moves 2.62%: What You Should Know",
       "summary": "ON Semiconductor Corp. (ON) concluded the recent trading session at $73.6, signifying a +2.62% move from its prior day's close.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-22T13:00:02Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-corporation-trending-stock-facts-130002589.html"
-    },
-    {
-      "title": "Why Did Vicor Stock Jump Before It Raised Its Outlook?",
-      "summary": "Vicor (VICR) stock gained 21.2% in the week to Monday, Sep 21, while the S&P 500 rose 1.9%. The spark was a new license for its AI power technology. The company said what that license adds to its sales only after Monday's close, when it raised its revenue outlook. So the shares paid for the deal before Vicor put a number on it.",
-      "pub_date": "2026-09-22T12:53:27Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-vicor-stock-jump-125327686.html"
-    },
-    {
-      "title": "VLN Stock Jumps 8% Premarket: Onsemi Deal Targets High-Volume Auto Cameras",
-      "summary": "Valens is extending its MIPI A-PHY technology toward mainstream automotive cameras through an onsemi collaboration aimed at lowering component count and simplifying vehicle camera designs.",
-      "pub_date": "2026-09-22T11:54:28Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/vln-stock-jumps-8-premarket-115428131.html"
     }
   ]
 }

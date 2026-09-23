@@ -1,7 +1,14 @@
 {
   "ticker": "APTV",
-  "generated_at": "2026-09-23T08:59:44.611854+00:00",
+  "generated_at": "2026-09-23T15:55:55.658184+00:00",
   "items": [
+    {
+      "title": "BlackBerry Expands SDV Reach With Alloy Kore Design Win",
+      "summary": "BB's Alloy Kore lands its first design win with Coretura, strengthening QNX's role in software-defined commercial vehicles.",
+      "pub_date": "2026-09-23T13:03:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/articles/blackberry-expands-sdv-reach-alloy-130300778.html"
+    },
     {
       "title": "Aptiv PLC (APTV) Stock Moves 2.39%: What You Should Know",
       "summary": "Aptiv PLC (APTV) closed at $44.61 in the latest trading session, marking a +2.39% move from the prior day.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-17T17:03:01Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/blackberry-climbs-6-mobileye-rises-170301787.html"
-    },
-    {
-      "title": "Aptiv (APTV) Turns Chip Partnerships Into A Physical AI Bet",
-      "summary": "On August 25, Aptiv (NYSE:APTV) said it will support NVIDIA\u2019s newly announced Jetson Orin Nano 2 processor, extending a partnership that already covers the more powerful Jetson Thor platform. The move puts Aptiv squarely inside the buildout of \u201cphysical AI,\u201d the term for machines like drones, robots, and industrial systems that need to sense and [\u2026]",
-      "pub_date": "2026-09-16T15:56:43Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/aptiv-aptv-turns-chip-partnerships-155643163.html"
     }
   ]
 }

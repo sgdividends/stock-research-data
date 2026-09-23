@@ -1,7 +1,14 @@
 {
   "ticker": "MCHP",
-  "generated_at": "2026-09-23T09:00:17.264113+00:00",
+  "generated_at": "2026-09-23T15:56:41.942130+00:00",
   "items": [
+    {
+      "title": "How Far Can Applied Materials Stock Move On You In A Year?",
+      "summary": "Applied Materials (AMAT) trades at about $472 today. Over roughly the coming twelve months, the options market prices a two-thirds-likely band for the stock, from a floor near $270 to a ceiling near $827. That band is the number a holder should be working with. It prices how far the stock can travel, never which way.",
+      "pub_date": "2026-09-23T15:08:50Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/far-applied-materials-stock-move-150850848.html"
+    },
     {
       "title": "Microchip (MCHP) Closes its Hailo Deal. Why the Chipmaker is Buying Edge AI on the Cheap",
       "summary": "Microchip Technology Incorporated (NASDAQ:MCHP) said on September 21 that it has completed its acquisition of Hailo. The Israeli company makes processors that run AI on devices rather than in the cloud, covering vision, robotics and what the industry calls physical AI. Microchip did not disclose the price. It said the deal will not have a [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-17T20:37:51Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stock-already-half-off-203751135.html"
-    },
-    {
-      "title": "MCHP's Analog AI Deal Gains Momentum: Can It Outpace NXPI & TXN?",
-      "summary": "Microchip Technology expands its edge-AI push as AnalogAI adopts SST's memBrain SAGE IP for ultra-low-power processors in robots, drones and vehicles.",
-      "pub_date": "2026-09-17T15:06:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mchps-analog-ai-deal-gains-150600954.html"
     }
   ]
 }
