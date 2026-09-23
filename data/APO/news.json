@@ -1,6 +1,6 @@
 {
   "ticker": "APO",
-  "generated_at": "2026-09-23T02:51:46.787424+00:00",
+  "generated_at": "2026-09-23T08:59:44.386037+00:00",
   "items": [
     {
       "title": "From the Yankees to the Lakers: What's behind the sports investing boom",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-22T20:17:33Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/yankees-lakers-whats-behind-sports-201733664.html"
+    },
+    {
+      "title": "Market Chatter: Anthropic Eyes Up to 1 GW of Data Center Capacity From Apollo-Backed Stream",
+      "summary": "Amazon-backed (AMZN) Anthropic is in early discussions to lease up to 1 gigawatt of data center capa",
+      "pub_date": "2026-09-23T08:11:12Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-anthropic-eyes-1-081112716.html"
     },
     {
       "title": "Apollo limits redemptions as withdrawal requests hit 14.7% - Bloomberg",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-21T20:03:16Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-rise-afternoon-200316852.html"
-    },
-    {
-      "title": "Sector Update: Financial Stocks Advance Monday Afternoon",
-      "summary": "Financial stocks were advancing in Monday afternoon trading, with the NYSE Financial Index rising 0.",
-      "pub_date": "2026-09-21T18:06:46Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-advance-monday-180646256.html"
     }
   ]
 }

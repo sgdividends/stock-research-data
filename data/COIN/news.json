@@ -1,7 +1,14 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-09-23T02:51:55.427637+00:00",
+  "generated_at": "2026-09-23T08:59:52.592352+00:00",
   "items": [
+    {
+      "title": "CRCL Vs COIN: Which Crypto Stock Is The Better Bet Amid Rising Bitcoin Prices?",
+      "summary": "Circle is primarily a bet on USDC adoption and stablecoin infrastructure, while Coinbase has much more exposure to crypto trading activity through its centralized exchange.",
+      "pub_date": "2026-09-23T04:31:06Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/crcl-vs-coin-crypto-stock-043106778.html"
+    },
     {
       "title": "Coinbase's IPO move sends stock to four month high",
       "summary": "The stock\u2019s rally comes as Coinbase pushes further into traditional finance.",
@@ -15,6 +22,13 @@
       "pub_date": "2026-09-22T20:01:03Z",
       "source": "decrypt",
       "url": "https://finance.yahoo.com/markets/crypto/articles/inside-coinbase-250-billion-playbook-200103319.html"
+    },
+    {
+      "title": "Solana dominates x402 with 23.2M transactions in four weeks",
+      "summary": "Solana processed 23.2 million x402 transactions in four weeks, capturing 76% of all activity on the AI payment protocol, according to Artemis data.",
+      "pub_date": "2026-09-22T19:51:51Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/solana-dominates-x402-23-2m-195151344.html"
     },
     {
       "title": "Coinbase Rolls Out Fixed-Rate Bitcoin Loans via Morpho Midnight",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-22T16:51:00Z",
       "source": "CryptoProwl",
       "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-allow-u-retail-investors-165100177.html"
-    },
-    {
-      "title": "Bitcoin News: X Launches Cashtag Partner Program",
-      "summary": "In Bitcoin news today, US spot Bitcoin ETFs pulled in $998.95M on Monday, their strongest single-day haul since October 2025, the same day X switched on trading links for Bitcoin and other assets across five outside brokerages, and Coinbase introduced fixed-rate Bitcoin-backed borrowing through Morpho Midnight. All of these catalysts ...",
-      "pub_date": "2026-09-22T15:52:39Z",
-      "source": "Cryptonews",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-news-x-launches-cashtag-155239454.html"
-    },
-    {
-      "title": "Bitcoin and Crypto Stocks Have Been on a Tear. Here\u2019s Why.",
-      "summary": "Bitcoin prices rose about 9% in September, reaching their highest intraday level since Jan. 29 at $87,359 on Tuesday.",
-      "pub_date": "2026-09-22T15:51:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/bitcoin-crypto-stocks-clarity-act-a3749320?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

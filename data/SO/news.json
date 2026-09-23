@@ -1,6 +1,6 @@
 {
   "ticker": "SO",
-  "generated_at": "2026-09-23T02:52:36.400510+00:00",
+  "generated_at": "2026-09-23T09:00:31.362405+00:00",
   "items": [
     {
       "title": "Sector Update: Energy Stocks Decline Late Afternoon",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-22T20:03:56Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/energy/articles/sector-energy-stocks-decline-afternoon-200356035.html"
+    },
+    {
+      "title": "How Low Can PG&E Stock Go When The Risk Is Its Own?",
+      "summary": "PG&E (PCG) trades at about $12.94, the bottom of its 52-week range and about 32% below its high. Over the past twelve months it lost 12.2% while the S&P 500 gained 18.5%. That gap did not come from a market crash. And in market shocks since 2007, its deepest fall includes a one-day break in PG&E's own price data.",
+      "pub_date": "2026-09-22T19:53:08Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/low-pg-e-stock-risk-195308432.html"
     },
     {
       "title": "Sector Update: Energy Stocks Mixed Tuesday Afternoon",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-15T22:00:05Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/southern-co-falls-more-steeply-220005660.html"
-    },
-    {
-      "title": "Co-op could face full-scale probe into Southern Co-op deal over competition fears",
-      "summary": "The Competition and Markets Authority said the deal between the mutuals, which was announced in April, could \u2018substantially\u2019 lessen competition.",
-      "pub_date": "2026-09-15T13:48:05Z",
-      "source": "PA Media: Money",
-      "url": "https://finance.yahoo.com/news/co-op-could-face-investigation-111157873.html"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-09-23T02:52:13.716992+00:00",
+  "generated_at": "2026-09-23T09:00:10.676781+00:00",
   "items": [
     {
       "title": "Intel stock up 25% in last 5 days on CPU demand as AI agents gain traction",
@@ -17,6 +17,34 @@
       "url": "https://finance.yahoo.com/video/return-ai-rally-whats-fueling-125206390.html"
     },
     {
+      "title": "Muse AI Makes Meta Connect a Must Watch for Investors",
+      "summary": "The Meta Platforms CEO will kick off the company\u2019s annual conference with a keynote address on Wednesday evening.",
+      "pub_date": "2026-09-23T07:15:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/meta-connect-2026-muse-ai-1c069cf1?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "SK Hynix Is Eyeing Intel\u2019s (INTC) Ohio Site. Why Micron (MU) Should Pay Attention",
+      "summary": "SK Hynix is exploring something it has never done before: manufacturing memory chips in the United States. Reuters reported on September 16 that the Korean memory giant is discussing several possibilities with Intel Corporation (NASDAQ:INTC), including leasing part of Intel\u2019s long-delayed Ohio complex or forming a venture involving Intel and large cloud customers. SK Hynix [\u2026]",
+      "pub_date": "2026-09-23T04:33:16Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/articles/sk-hynix-eyeing-intel-intc-043316388.html"
+    },
+    {
+      "title": "Pat Gelsinger Just Backed a $100 Million Challenge to Nvidia\u2019s AI Networking Moat. AMD Could Benefit",
+      "summary": "Former Intel CEO Pat Gelsinger is backing a startup that thinks AI\u2019s next bottleneck is not the accelerator. It is everything waiting for data to arrive. Delos Data announced on September 15 that it raised more than $100 million to develop networking chips and software for increasingly heterogeneous AI data centers. Playground Global, where Gelsinger [\u2026]",
+      "pub_date": "2026-09-23T04:24:33Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/pat-gelsinger-just-backed-100-042433352.html"
+    },
+    {
+      "title": "Intel (INTC) Could Get a Fresh Valuation for Altera. AMD (AMD) Is the Rival to Watch",
+      "summary": "Intel sold control of Altera last year. Now the programmable-chip company is heading back toward the public market just as AI gives investors a new reason to care about FPGAs. Altera said on September 15 that it confidentially filed for a U.S. IPO. Reuters previously reported that the offering could raise more than $2 billion. [\u2026]",
+      "pub_date": "2026-09-23T04:17:10Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-could-fresh-valuation-041710849.html"
+    },
+    {
       "title": "ASML vs. Intel: Which AI Chip Stock Is a Better Buy in 2026?",
       "summary": "ASML commands a near-monopoly on essential chipmaking equipment with a 29% net margin and strong cash flow, while Intel navigates a turnaround with negative earnings and government ties.",
       "pub_date": "2026-09-22T23:55:01Z",
@@ -24,39 +52,11 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/asml-vs-intel-ai-chip-235501657.html"
     },
     {
-      "title": "Intel (INTC) Stock Moves 1.71%: What You Should Know",
-      "summary": "Intel (INTC) closed at $123.86 in the latest trading session, marking a +1.71% move from the prior day.",
-      "pub_date": "2026-09-22T21:45:04Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-stock-moves-1-214504558.html"
-    },
-    {
-      "title": "AMD Stock Just Sent a Huge AI Signal",
-      "summary": "AI agents are changing where chip spending is flowing.",
-      "pub_date": "2026-09-22T19:07:55Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amd-stock-just-sent-huge-190755384.html"
-    },
-    {
-      "title": "Intel Is Up 25% in 5 Days. The $145 Price Target Just Moved Too",
-      "summary": "Intel just staged one of its fastest rallies in years, but the analyst who called the price target before the surge thinks the move is still missing its most important catalyst.",
-      "pub_date": "2026-09-22T19:05:33Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-25-5-days-145-190533656.html"
-    },
-    {
-      "title": "Bitcoin Breaks Out as Nasdaq Hits Records and Oil Slides on Iran Hopes",
-      "summary": "A stretched but firmly bullish Bitcoin chart is riding the same tailwind lifting stocks: falling oil, a record Nasdaq, and a Fed that hiked rates while quietly pumping liquidity into the system.",
-      "pub_date": "2026-09-22T18:46:03Z",
-      "source": "decrypt",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-breaks-nasdaq-hits-records-184603261.html"
-    },
-    {
-      "title": "Intel Drops as Muse Revives the Server CPU Thesis",
-      "summary": "Persistent AI agents create orchestration work, but Meta has disclosed no Intel deployment.",
-      "pub_date": "2026-09-22T18:35:29Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-drops-muse-revives-server-183529238.html"
+      "title": "Intel vs. TSMC: One Chip Stock Controls 72.5% of the Foundry Market. The Other Is Mounting a Comeback.",
+      "summary": "A deep dive into the rivalry between Intel and Taiwan Semiconductor shows why chip foundries are AI's real bottleneck, how Intel's 18A/14A comeback stacks up, and which foundry stock fits your risk.",
+      "pub_date": "2026-09-22T22:03:37Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/technology/ai/articles/intel-vs-tsmc-one-chip-220337230.html"
     }
   ]
 }

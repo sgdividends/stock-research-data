@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "generated_at": "2026-09-23T02:51:45.798008+00:00",
+  "generated_at": "2026-09-23T08:59:43.538515+00:00",
   "items": [
     {
       "title": "Meta's Muse AI teams up with Shopify, lifting its stock",
@@ -24,6 +24,20 @@
       "url": "https://finance.yahoo.com/video/cracks-forming-ai-data-center-131811568.html"
     },
     {
+      "title": "Market Chatter: Anthropic Eyes Up to 1 GW of Data Center Capacity From Apollo-Backed Stream",
+      "summary": "Amazon-backed (AMZN) Anthropic is in early discussions to lease up to 1 gigawatt of data center capa",
+      "pub_date": "2026-09-23T08:11:12Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-anthropic-eyes-1-081112716.html"
+    },
+    {
+      "title": "Anthropic Is Booming. How to Buy in Before the IPO.",
+      "summary": "It\u2019s an actively managed fund with big holdings in major chip companies las well as hyperscalers. In other words, the usual AI beneficiary suspects.",
+      "pub_date": "2026-09-23T07:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/anthropic-ai-stocks-amazon-alphabet-f40be6bc?siteid=yhoof2&yptr=yahoo"
+    },
+    {
       "title": "Rocket Lab CEO Puts Iridium Deal Alongside SpaceX And Amazon\u2019s Spectrum Bets: \u2018You Can\u2019t Just Magic Up Spectrum\u2019",
       "summary": "CEO Peter Beck estimated Rocket Lab could have deployed Iridium\u2019s constellation for about $350 million instead of $3 billion.",
       "pub_date": "2026-09-23T02:28:22Z",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-22T22:15:04Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/technology/articles/vgt-holders-bought-tech-own-221504326.html"
-    },
-    {
-      "title": "$223 Billion Back To Shareholders: Inside The MSFT Machine",
-      "summary": "Microsoft handed shareholders one of the largest cash returns in market history, but what did that money actually buy for the owners who held on.",
-      "pub_date": "2026-09-22T21:51:24Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/223-billion-back-shareholders-inside-215124952.html"
-    },
-    {
-      "title": "Amazon.com (AMZN) Blocks Rival AI Shopping Agent On Its Platform",
-      "summary": "Amazon.com (NasdaqGS:AMZN) has blocked Meta's Muse AI agent from executing purchases on Amazon's retail platform. The restriction targets Muse's shopping functions that rely on direct access to Amazon's product catalog and checkout systems. Rival retailers remain open to AI agents like Muse, creating a split in how major ecommerce platforms handle third party AI shoppers. Amazon's decision to block Meta's Muse AI shopping agent is a key move to weigh alongside the rest of our views. Take a...",
-      "pub_date": "2026-09-22T21:14:59Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-com-amzn-blocks-rival-211459832.html"
     }
   ]
 }

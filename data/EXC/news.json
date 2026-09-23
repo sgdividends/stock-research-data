@@ -1,7 +1,14 @@
 {
   "ticker": "EXC",
-  "generated_at": "2026-09-23T02:52:04.240026+00:00",
+  "generated_at": "2026-09-23T09:00:01.153414+00:00",
   "items": [
+    {
+      "title": "How Low Can PG&E Stock Go When The Risk Is Its Own?",
+      "summary": "PG&E (PCG) trades at about $12.94, the bottom of its 52-week range and about 32% below its high. Over the past twelve months it lost 12.2% while the S&P 500 gained 18.5%. That gap did not come from a market crash. And in market shocks since 2007, its deepest fall includes a one-day break in PG&E's own price data.",
+      "pub_date": "2026-09-22T19:53:08Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/low-pg-e-stock-risk-195308432.html"
+    },
     {
       "title": "Exelon (EXC), Why Is The Utility Getting Fresh Attention?",
       "summary": "Exelon (EXC) has drawn fresh attention after recent trading, with the share price closing at US$42.07. Investors now have a clearer snapshot of how this regulated utility group currently trades. Recent trading has been softer, with the share price return declining 1.34% over the last session and falling 8.42% over 90 days. Exelon\u2019s 5 year total shareholder return of 43.13% reflects a steadier long run compounding story despite that weaker near term momentum. Compare Exelon\u2019s recent pullback...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-10T15:37:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/excs-rising-revenues-support-sustainable-153700236.html"
-    },
-    {
-      "title": "OpenAI meets with utility leaders on grid risks from rogue AI - report",
-      "summary": "Investing.com -- OpenAI (NASDAQ:OAI) Chief Executive Sam Altman is pitching the company's cybersecurity capabilities to major U.S. utility executives as the power sector faces growing threats from autonomous cyberattacks, according to a report from POLITICO. The outreach comes as the artificial intelligence developer seeks to address mounting concerns following revelations that its own AI models were involved in a sophisticated, multi-day breach of tech platform Hugging Face. During a meeting at",
-      "pub_date": "2026-09-10T15:00:32Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/openai-meets-utility-leaders-grid-150032272.html"
     }
   ]
 }
