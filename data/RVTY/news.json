@@ -1,7 +1,14 @@
 {
   "ticker": "RVTY",
-  "generated_at": "2026-09-24T08:56:36.723232+00:00",
+  "generated_at": "2026-09-24T16:19:43.871749+00:00",
   "items": [
+    {
+      "title": "Top Midday Stories: Oracle's Data Center Delay; People Withdraws MGM Offer; Revvity's New Diabetes Test",
+      "summary": "All three major US stock indexes fell in late-morning trading Thursday amid uncertainty in the Middl",
+      "pub_date": "2026-09-24T16:06:11Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-oracle-apos-160611263.html"
+    },
     {
       "title": "Is Revvity Stock Outperforming the Dow?",
       "summary": "Revvity has notably outperformed the Dow over the past year, and analysts are moderately optimistic about the stock\u2019s prospects.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-14T15:23:30Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/healthcare/articles/3-healthcare-stocks-fall-short-152330951.html"
-    },
-    {
-      "title": "Revvity to Acquire Human Cell Design to Boost Metabolic Discovery",
-      "summary": "RVTY's HCD deal is expected to add human pancreatic beta cell models, expanding drug discovery and preclinical research tools for metabolic diseases.",
-      "pub_date": "2026-09-11T15:19:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/healthcare/articles/revvity-acquire-human-cell-design-151900177.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "ODFL",
-  "generated_at": "2026-09-24T08:56:30.215038+00:00",
+  "generated_at": "2026-09-24T16:19:36.245523+00:00",
   "items": [
+    {
+      "title": "Shipment fluctuations vary across LTL carriers in mid-Q3 updates",
+      "summary": "Saia and XPO both reported increases in volume for August, while other carriers reported decreases.",
+      "pub_date": "2026-09-24T13:45:00Z",
+      "source": "Trucking Dive",
+      "url": "https://finance.yahoo.com/small-business/articles/shipment-fluctuations-vary-across-ltl-134500573.html"
+    },
     {
       "title": "Is UPS Stock Cheap Because It Chose To Shrink?",
       "summary": "United Parcel Service (UPS) generates free cash flow worth 6.8% of its market capitalization of about $80.6 billion, well above the 4.4% median for an S&P 500 company. A yield that high means a bargain, or a business the market expects to shrink. UPS is shrinking on purpose. It has cut about 2 million pieces a day of lower-quality Amazon volume, and investors want to see what the smaller network earns.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-18T16:40:00Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/markets/stocks/articles/j-b-hunts-stock-plunges-164000003.html"
-    },
-    {
-      "title": "J.B. Hunt Stock Down 13% in Yesterday's Trading: Here's Why",
-      "summary": "JBHT's shares fall after management has warned that rising driver, fuel and claims costs could pressure Q3 earnings despite strong demand.",
-      "pub_date": "2026-09-17T15:38:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/j-b-hunt-stock-down-153800198.html"
     }
   ]
 }

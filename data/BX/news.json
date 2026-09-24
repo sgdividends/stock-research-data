@@ -1,7 +1,14 @@
 {
   "ticker": "BX",
-  "generated_at": "2026-09-24T08:55:55.931570+00:00",
+  "generated_at": "2026-09-24T16:18:55.688456+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Edge Higher Pre-Bell Thursday",
+      "summary": "Financial stocks were edging higher pre-bell Thursday, with the State Street Financial Select Sector",
+      "pub_date": "2026-09-24T13:22:43Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-edge-higher-132243262.html"
+    },
     {
       "title": "IFS or BX: Which Is the Better Value Stock Right Now?",
       "summary": "IFS vs. BX: Which Stock Is the Better Value Option?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-19T09:11:48Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/blackstone-bx-could-13-undervalued-091148585.html"
-    },
-    {
-      "title": "Sector Update: Financial Stocks Mixed Late Afternoon",
-      "summary": "Financial stocks were mixed in late Friday afternoon trading, with the NYSE Financial Index declinin",
-      "pub_date": "2026-09-18T20:06:41Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-mixed-afternoon-200641566.html"
     }
   ]
 }

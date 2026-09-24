@@ -1,7 +1,14 @@
 {
   "ticker": "LITE",
-  "generated_at": "2026-09-24T08:56:22.740159+00:00",
+  "generated_at": "2026-09-24T16:19:26.967934+00:00",
   "items": [
+    {
+      "title": "AI Data Center Boom Faces This 'Fundamental Trade-Off' With China",
+      "summary": "The U.S. can speed-run its AI data center boom or it can secure supply chains, but it \"can't have it both ways.\"",
+      "pub_date": "2026-09-24T12:52:04Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/ai-data-center-boom-supply-chain-china/?src=A00220&yptr=yahoo"
+    },
     {
       "title": "Lumentum Shares Are Up After an AI Optical Tech Partnership With Corning and Qualcomm. What This Means for LITE Stock.",
       "summary": "Lumentum shares rose after it announced an AI optical connectivity demonstration with Corning and Qualcomm at ECOC 2026, pairing its VCSEL lasers with high-density chip-to-chip links.",
@@ -24,6 +31,13 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/fn-rides-surging-data-center-145400999.html"
     },
     {
+      "title": "Old Dogs, New Tech: 3 Legacy Stocks Powering the AI Boom",
+      "summary": "Corning, Cisco Systems, and Texas Instruments are repositioning around AI infrastructure needs, showing earnings growth, steady margins, dividends, and Moderate Buy analyst ratings with notable upside targets.",
+      "pub_date": "2026-09-23T12:40:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/technology/ai/articles/old-dogs-tech-3-legacy-124000120.html"
+    },
+    {
       "title": "Four AI Stars Rev Up As Analysts Raise Profit Targets; Micron Clears Early Buy Point",
       "summary": "Analysts are raising profit estimates for four leaders of the artificial intelligence trade: AI stock Micron is above a trendline entry.",
       "pub_date": "2026-09-23T12:00:57Z",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-22T22:15:27Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-revenue-growth-221527315.html"
-    },
-    {
-      "title": "Sandisk, Lennar, Viking Therapeutics, Shopify, GameStop, and More Stocks That Explain Today\u2019s Market",
-      "summary": "Sandisk rises. Rosenblatt initiates coverage of the stock with a Buy rating and a price target of $2,400.",
-      "pub_date": "2026-09-22T20:34:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-328a306e?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Corning (GLW) To Show High Density Optical Chip Links At ECOC 2026",
-      "summary": "Corning (NYSE:GLW), Qualcomm and Lumentum plan to showcase a high-density die to die optical connectivity solution at ECOC 2026. The joint demo targets AI scale up architectures that require higher bandwidth, lower latency and tighter power budgets for chip interconnects. The ECOC 2026 presentation will highlight massively parallel optical D2D links paired with high density fiber to support advanced AI data centers. This upcoming ECOC 2026 D2D optical demo with Qualcomm and Lumentum sits...",
-      "pub_date": "2026-09-22T18:14:52Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/corning-glw-show-high-density-181452808.html"
     }
   ]
 }

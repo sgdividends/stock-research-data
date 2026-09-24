@@ -1,7 +1,14 @@
 {
   "ticker": "EXPE",
-  "generated_at": "2026-09-24T08:56:09.612901+00:00",
+  "generated_at": "2026-09-24T16:19:11.313648+00:00",
   "items": [
+    {
+      "title": "Meta's Zuckerberg says Muse AI agent will take a small fee from transactions",
+      "summary": "Meta says it will profit from small fees on Muse transactions.",
+      "pub_date": "2026-09-23T23:46:39Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/article/metas-zuckerberg-says-muse-ai-agent-will-take-a-small-fee-from-transactions-234639802.html"
+    },
     {
       "title": "Meta's Muse raises personal info concerns, how investors can leverage volatility",
       "summary": "In the latest Market Hang, Turney Duff and his panel of experts weigh in on the state of the AI race after Meta Platforms (META) released its new Muse chatbot, their sentiments around the latest market rally, and much more. Today's panel consists of Host Turney Duff, Yahoo Finance Executive Editor Brian Sozzi, tockBrokers.com director of investor research Jessica Inskip, and The Wealth Consulting Group chief market strategist Talley L\u00e9ger.",
@@ -10,11 +17,25 @@
       "url": "https://finance.yahoo.com/video/metas-muse-raises-personal-concerns-183241343.html"
     },
     {
-      "title": "Here are the stocks taking a hit amid the Muse hype",
-      "summary": "The 8:30 Hosts Julie Hyman, Jake Conley, and Pras Subramanian look at the stocks taking a hit as Meta's (META) new AI agent, Muse, grows in popularity and why its hype may not measure up to its disruptive potential.",
-      "pub_date": "2026-09-23T13:20:37Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/here-are-the-stocks-taking-a-hit-amid-the-muse-hype-132037650.html"
+      "title": "Airbnb Slides to $150 as Wall Street Fears AI Will Skip the Middleman",
+      "summary": "Meta launched an AI agent that books travel without a middleman, and the entire online travel sector sold off hard. Whether Airbnb belongs in that selloff depends on a single question about who actually owns the supply.",
+      "pub_date": "2026-09-24T13:08:39Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/airbnb-slides-150-wall-street-130839436.html"
+    },
+    {
+      "title": "Booking Holdings Stock Drops as Expedia Partners With Meta\u2019s Muse AI Platform",
+      "summary": "Key Stats for Booking Holdings StockPrice change for Booking Holdings stock in Last 1 Year: -29%$BKNG Stock Price as of Sep. 23: $15652-Week High: $225$BKNG Stock Price Target: $239What Happened?Booking Holdings (BKNG) stock fell 5% on Wednesday, hitting a session low of $155.",
+      "pub_date": "2026-09-24T13:03:38Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/booking-holdings-stock-drops-expedia-130338975.html"
+    },
+    {
+      "title": "Meta Maps Out Muse Monetization Strategy: Tap With ETFs or Stock?",
+      "summary": "Meta's Muse AI agent is expanding into commerce ahead of the holiday season. Can it unlock a new revenue stream?",
+      "pub_date": "2026-09-24T11:00:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-maps-muse-monetization-strategy-110000882.html"
     },
     {
       "title": "Why LendingTree (TREE) Shares Are Sliding Today",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-23T19:32:01Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/technology/meta-stock-connect-2026-muse-ai-rally/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Expedia (EXPE) Stock Trades Down, Here Is Why",
-      "summary": "Shares of online travel agency Expedia (NASDAQ:EXPE) fell 7.2% in the afternoon session after Barron\u2019s Anita Hamilton wrote that Expedia, Booking Holdings, Tripadvisor, and Airbnb were falling because Muse can book flights and places to stay. Expedia was down 5.5%, to $265.60, by midday Tuesday, she reported. Bloomberg Intelligence analysts Mandeep Singh and William Tong wrote that if agents take 5% to 10% of travel, ride-hailing, and delivery business, the combined revenue loss could exceed $5",
-      "pub_date": "2026-09-23T18:33:16Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/expedia-expe-stock-trades-down-183316029.html"
-    },
-    {
-      "title": "Expedia Stock Is Among Today\u2019s Worst in the S&P 500. Blame Meta\u2019s Muse.",
-      "summary": "Meta\u2019s Muse release has disrupted stocks of online travel booking platforms. Expedia was among those dropping on Wednesday.",
-      "pub_date": "2026-09-23T18:19:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/expedia-stock-meta-muse-ai-travel-1729b638?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Why Airbnb (ABNB) Shares Are Plunging Today",
-      "summary": "Shares of online accommodations platform Airbnb (NASDAQ:ABNB) fell 6.2% in the afternoon session after Barron\u2019s said Meta\u2019s Muse can make bookings itself, which is the transaction Airbnb charges for when a guest reserves a home.",
-      "pub_date": "2026-09-23T18:17:16Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-airbnb-abnb-shares-plunging-181716428.html"
     }
   ]
 }

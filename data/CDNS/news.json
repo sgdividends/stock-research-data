@@ -1,7 +1,14 @@
 {
   "ticker": "CDNS",
-  "generated_at": "2026-09-24T08:55:57.353171+00:00",
+  "generated_at": "2026-09-24T16:18:57.579487+00:00",
   "items": [
+    {
+      "title": "Is the Options Market Predicting a Spike in Cadence Stock?",
+      "summary": "Investors need to pay close attention to CDNS stock based on the movements in the options market lately.",
+      "pub_date": "2026-09-24T13:55:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/options/articles/options-market-predicting-spike-cadence-135500156.html"
+    },
     {
       "title": "Cadence's New RTL Generation Agent Could Reshape AI-Driven Chip Design",
       "summary": "CDNS' new RTL Generation Agent automates chip design and optimization, delivering 24% lower area and 18% lower power in early evaluations.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-18T18:33:09Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-synopsys-stopped-leading-bad-183309849.html"
-    },
-    {
-      "title": "How is Advanced Packaging Strengthening Cadence's Position?",
-      "summary": "CDNS is benefiting from rising AI complexity, driving demand for advanced packaging, 3D-IC and differentiated IP.",
-      "pub_date": "2026-09-18T15:59:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/articles/advanced-packaging-strengthening-cadences-position-155900615.html"
     }
   ]
 }

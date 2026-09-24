@@ -1,6 +1,6 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-09-24T08:55:59.857735+00:00",
+  "generated_at": "2026-09-24T16:19:00.829759+00:00",
   "items": [
     {
       "title": "Prediction markets face questions over reported volume and fraud schemes",
@@ -8,6 +8,41 @@
       "pub_date": "2026-09-23T19:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/prediction-markets-face-questions-over-190000595.html"
+    },
+    {
+      "title": "MSTR Stock Has Become One of the Market\u2019s Most Unusual Bets",
+      "summary": "MicroStrategy abandoned its original software identity to become a leveraged Bitcoin holding company, and after a brutal 51% collapse over the past year, the question is whether that audacious bet is finally starting to pay off or setting up for something far worse.",
+      "pub_date": "2026-09-24T16:00:47Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mstr-stock-become-one-market-160047387.html"
+    },
+    {
+      "title": "New York sues prediction market Polymarket, calling it an unlicensed gambling operation",
+      "summary": "New York sued the prediction market Polymarket on Thursday, arguing the platform is an unlicensed gambling operation and calling for a judge to block the company from operating in the state.  Prediction market platforms have argued states do not have the authority to govern them because they are regulated at the federal level by the U.S. Commodity Futures Trading Commission.  New York officials filed Thursday's lawsuit against Polymarket in state court and want the company to face fines and be forced to pay restitution to users because the platform did not get a gaming license from the state.",
+      "pub_date": "2026-09-24T15:50:05Z",
+      "source": "Associated Press",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/york-sues-prediction-market-polymarket-155005904.html"
+    },
+    {
+      "title": "How Much Will One Bitcoin Be Worth in 2031?",
+      "summary": "Most Bitcoin forecasts cluster around 2030 or 2033, but 2031 sits in a blind spot that exposes a common mistake investors make when comparing predictions across different timeframes.",
+      "pub_date": "2026-09-24T15:14:35Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/much-one-bitcoin-worth-2031-151435006.html"
+    },
+    {
+      "title": "Global Onchain Awards 2026 Voting Live Now, Nominees Vie for Industry Honours",
+      "summary": "In a major update coming from the Global Onchain Awards 2026, the Public voting for awards is now live. The voting phase will be giving the crypto community an opportunity to vote for their preferred companies and leaders competing across more than 20 award categories. This comes after more than 100 nominations were submitted during",
+      "pub_date": "2026-09-24T12:44:14Z",
+      "source": "CoinGape",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/global-onchain-awards-2026-voting-124414794.html"
+    },
+    {
+      "title": "MSTR, COIN, CRCL Stocks Slide With Bitcoin Below $84K Amid Treasury Yields Spike",
+      "summary": "Michael Saylor-backed Strategy led the decline among major crypto-linked stocks, while Coinbase and BitMine each fell more than 2%.",
+      "pub_date": "2026-09-24T10:36:18Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/mstr-coin-crcl-stocks-slide-103618140.html"
     },
     {
       "title": "What Could Coinbase (COIN) Fixed Rate Bitcoin Loans Mean For Crypto Users?",
@@ -22,41 +57,6 @@
       "pub_date": "2026-09-23T23:40:22Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/2-reasons-watch-coin-1-234022479.html"
-    },
-    {
-      "title": "Britain's Bank Lobby Kicks Out Coinbase: Are Lenders Shutting Crypto Out?",
-      "summary": "UK Finance ends Coinbase's membership as British banks and crypto firms clash over payments. Coinbase can appeal.",
-      "pub_date": "2026-09-23T22:00:00Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/britains-bank-lobby-kicks-coinbase-220000459.html"
-    },
-    {
-      "title": "BitMEX Has Shut Down: Where Do Its Traders Go Now?",
-      "summary": "After 11 years, the exchange that invented the perpetual swap contract has gone dark, leaving its remaining traders scrambling and a $495 million lawsuit from Celsius's bankruptcy estate casting a long shadow over its founders.",
-      "pub_date": "2026-09-23T21:59:48Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitmex-shut-down-where-traders-215948241.html"
-    },
-    {
-      "title": "Coinbase Global, Inc. (COIN) Declines More Than Market: Some Information for Investors",
-      "summary": "Coinbase Global, Inc. (COIN) concluded the recent trading session at $198.13, signifying a -1.46% move from its prior day's close.",
-      "pub_date": "2026-09-23T21:45:03Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coinbase-global-inc-coin-declines-214503473.html"
-    },
-    {
-      "title": "Borrow Against Your Bitcoin at a Fixed Rate: Coinbase Expands Morpho Loans",
-      "summary": "The product lets users lock in their rate and repayment date when borrowing USDC against Bitcoin, marking the first enterprise-scale deployment of Morpho Midnight and a shift away from on-chain lending's variable-rate norm.",
-      "pub_date": "2026-09-23T18:15:06Z",
-      "source": "decrypt",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/borrow-against-bitcoin-fixed-rate-181506989.html"
-    },
-    {
-      "title": "Securitize Stock Jumps 12% as Cantor Bets on a Tokenization Boom",
-      "summary": "Securitize shares have surged as regulators open a path for tokenized stock trading. Cantor Fitzgerald sees more room to rise.",
-      "pub_date": "2026-09-23T16:55:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/securitize-stock-price-cantor-tokenization-1bff8d31?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

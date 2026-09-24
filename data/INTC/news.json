@@ -1,6 +1,6 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-09-24T08:56:18.041674+00:00",
+  "generated_at": "2026-09-24T16:19:21.538202+00:00",
   "items": [
     {
       "title": "How Qualcomm is targeting agentic AI with its 2 new smartphone chips",
@@ -8,6 +8,41 @@
       "pub_date": "2026-09-23T19:50:58Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/qualcomm-targeting-agentic-ai-2-195058732.html"
+    },
+    {
+      "title": "Micron's Rally Looks Overdone Until You Price The Memory Shortage",
+      "summary": "Micron Technology (MU) stock has returned 552% over the past twelve months. At near $1,070 a share, has the price run ahead of the business? On the last twelve months of adjusted earnings, meaning normalized net income with stock-based compensation added back, Micron trades at about 23.5 times. That number looks backward, and memory prices have moved too fast for it to show what Micron earns today.",
+      "pub_date": "2026-09-24T13:59:32Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microns-rally-looks-overdone-until-135932745.html"
+    },
+    {
+      "title": "NVIDIA's $279B Supply Commitments: Can These Secure Its Growth Runway?",
+      "summary": "NVDA's $279B supply commitments aim to support Blackwell and Vera Rubin production, but demand shifts and excess inventory remain key risks.",
+      "pub_date": "2026-09-24T13:41:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-279b-supply-commitments-secure-134100685.html"
+    },
+    {
+      "title": "Intel Drops 3% as Profit Taking Follows 223% YTD Run; AMD Falls 3%, NVIDIA Slips",
+      "summary": "After one of the most jaw-dropping runs among large-cap tech names this year, Intel shares are pulling back hard this morning alongside AMD and the broader chip sector, raising a question every holder needs to answer right now.",
+      "pub_date": "2026-09-24T13:29:19Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-drops-3-profit-taking-132919975.html"
+    },
+    {
+      "title": "Intel's 293% Rally Is Putting Its Valuation to the Test",
+      "summary": "Intel's AI opportunity has strengthened its growth story, but the stock's sharp run has pushed its sales multiple above the semiconductor industry average.",
+      "pub_date": "2026-09-24T12:43:10Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intels-293-rally-putting-valuation-124310885.html"
+    },
+    {
+      "title": "AMD vs. Intel: Which Artificial Intelligence (AI) Chip Stock Has More Room to Run?",
+      "summary": "Intel has outperformed AMD over the past year, but the future could be different.",
+      "pub_date": "2026-09-24T11:22:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-vs-intel-artificial-intelligence-112201737.html"
     },
     {
       "title": "Intel (INTC) Stock Looks Fully Priced After Its 293% Run",
@@ -22,41 +57,6 @@
       "pub_date": "2026-09-23T22:35:59Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/vym-index-buys-forecast-yield-223559545.html"
-    },
-    {
-      "title": "Prediction: Intel Names a Major Outside Customer for Its Next Factory Process Before 2027",
-      "summary": "The chipmaker set this deadline itself. Its chief financial officer is starting to sound like a company that already knows the answer.",
-      "pub_date": "2026-09-23T22:07:01Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-intel-names-major-outside-220701284.html"
-    },
-    {
-      "title": "Own ON Semiconductor For AI Power, Or Own Micron's Contracts?",
-      "summary": "ON Semiconductor (ON) and Micron Technology (MU) are owned for the same reason. AI data centers need more silicon than the industry can make, and both sell into that shortage. The resemblance stops there. Micron has signed part of its peak pricing into multiyear contracts. ON Semiconductor is climbing out of a trough, still rationing parts between its AI customers and its car customers. Same shortage, opposite ends of a cycle.",
-      "pub_date": "2026-09-23T20:41:09Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/technology/articles/own-semiconductor-ai-power-own-204109239.html"
-    },
-    {
-      "title": "Chip Stocks Drop After Six-Day Climb For SOX Index",
-      "summary": "The Philadelphia semiconductor index, known as SOX, slid Wednesday as chip stocks took a breather after a six-day climb.",
-      "pub_date": "2026-09-23T20:25:45Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/chip-stocks-drop-after-six-day-climb-for-sox-index/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Marvell Stock Ran, But Did It Tell You When?",
-      "summary": "Marvell Technology (MRVL) stock has returned 248% since September 22, 2025, against about 18% for the S&P 500 over the same window. The products that drove that run were named in public months before the share price moved. None came with a date.",
-      "pub_date": "2026-09-23T19:05:16Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-ran-did-tell-190516402.html"
-    },
-    {
-      "title": "SoftBank Is Raising $11 Billion for OpenAI. Its Arm Stake Backs a $25 Billion Loan Facility",
-      "summary": "Masayoshi Son is turning SoftBank\u2019s public-market assets into fuel for his OpenAI bet. On September 21, SoftBank launched more than $11 billion of dollar and euro bonds as it prepared for another $10 billion OpenAI installment. The financing follows a broader credit line backed by Arm Holdings plc (NASDAQ:ARM), while SoftBank sold its entire roughly [\u2026]",
-      "pub_date": "2026-09-23T18:52:39Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/softbank-raising-11-billion-openai-185239787.html"
     }
   ]
 }
