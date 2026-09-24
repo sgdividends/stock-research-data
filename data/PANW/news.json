@@ -1,11 +1,18 @@
 {
   "ticker": "PANW",
-  "generated_at": "2026-09-24T02:42:33.121912+00:00",
+  "generated_at": "2026-09-24T08:56:31.200301+00:00",
   "items": [
+    {
+      "title": "US Stock Market Today: S&P 500 Futures Edge Higher On Strong Eurozone Activity Data",
+      "summary": "The Morning Bull - US Market Morning Update Thursday, Sep, 24 2026 US market futures are pointing slightly higher this morning, with E-mini S&P 500 contracts up 0.1%. The main fuel is stronger European activity data. The Eurozone Composite PMI sits at 53.1, a three and a half year high that signals businesses are busier, which can support global demand for US manufacturers and tech suppliers. At the same time, higher input costs across Europe and the UK, driven by fuel and wider energy...",
+      "pub_date": "2026-09-24T08:07:57Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-080757247.html"
+    },
     {
       "title": "Dow Jones Futures Fall After Soaring Yields Hit Stocks, But Palantir Flashes Buy Signal; Trump-Xi On Tap",
       "summary": "The stock market fell as Treasury yields skyrocketed and oil prices rose, but Palantir and Palo Alto flashed buy signals.",
-      "pub_date": "2026-09-24T02:16:01Z",
+      "pub_date": "2026-09-24T03:10:09Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-treasury-yields-soar-palantir-palo-alto-buy-signal/?src=A00220&yptr=yahoo"
     },
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-23T19:16:55Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-looks-expensive-until-191655537.html"
-    },
-    {
-      "title": "Why Palo Alto Networks (PANW) Stock Is Trading Up Today",
-      "summary": "Shares of cybersecurity platform provider Palo Alto Networks (NASDAQ:PANW) jumped 3% in the afternoon session after the launch of its Unit 42 Continuous Frontier AI Defense, an agentic offensive security service designed to perpetually find and fix enterprise exposures.",
-      "pub_date": "2026-09-23T18:57:16Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-palo-alto-networks-panw-185716020.html"
     }
   ]
 }

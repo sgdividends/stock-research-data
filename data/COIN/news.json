@@ -1,6 +1,6 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-09-24T02:42:00.007459+00:00",
+  "generated_at": "2026-09-24T08:55:59.857735+00:00",
   "items": [
     {
       "title": "Prediction markets face questions over reported volume and fraud schemes",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-23T19:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/prediction-markets-face-questions-over-190000595.html"
+    },
+    {
+      "title": "What Could Coinbase (COIN) Fixed Rate Bitcoin Loans Mean For Crypto Users?",
+      "summary": "Coinbase Global (NasdaqGS:COIN) has introduced enterprise-scale, fixed-rate Bitcoin-backed loans using the Morpho protocol for on-chain lending. The firm is also rolling out a post-quantum security architecture aimed at hardening its Bitcoin custody against future quantum computing threats. These Bitcoin-backed loans target institutional borrowers that want predictable on-chain financing terms rather than variable-rate crypto credit arrangements. Coinbase's move into fixed-rate Bitcoin...",
+      "pub_date": "2026-09-24T05:15:45Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/could-coinbase-coin-fixed-rate-051545833.html"
     },
     {
       "title": "2 Reasons to Watch COIN and 1 to Stay Cautious",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-23T16:55:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/securitize-stock-price-cantor-tokenization-1bff8d31?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Powered by Coinbase, Roundtable\u2019s Real-Time DeFi Media Payment Platform Goes Live $100 Million Ad Ecosystem to Migrate; RTB Shares Begin Trading on Coinbase Today",
-      "summary": "Instant settlement in USDC for journalists, on RTB\u2019s decentralized, AI-reporting smart wallet network, connected to Roundtable\u2019s \u201cMedia Liquidity Pool\u201d and secured by Coinbase, empowering decentralized, independent journalism Platform unveiled in London.",
-      "pub_date": "2026-09-23T15:10:20Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/powered-coinbase-roundtable-real-time-151020379.html"
     }
   ]
 }

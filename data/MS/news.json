@@ -1,6 +1,6 @@
 {
   "ticker": "MS",
-  "generated_at": "2026-09-24T02:42:28.323840+00:00",
+  "generated_at": "2026-09-24T08:56:26.890790+00:00",
   "items": [
     {
       "title": "Morgan Stanley (MS) Faces AI Fee Pressure And Data Leak Concerns, Is The Stock Still Cheap?",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-24T02:10:43Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-ms-faces-ai-021043518.html"
+    },
+    {
+      "title": "Morgan Stanley Says AI Adoption Has Barely Started: 'We're at the National Anthem'",
+      "summary": "NVIDIA Corp. has become the world\u2019s largest company as AI infrastructure spending surges, but Morgan Stanley says the corporate adoption cycle that comes next has only just started. \u201cWe\u2019re at the national anthem\u201d when it comes to AI adoption, Dan...",
+      "pub_date": "2026-09-24T01:30:15Z",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/technology/ai/articles/morgan-stanley-says-ai-adoption-013015499.html"
     },
     {
       "title": "Sector Update: Financial Stocks Softer Late Afternoon",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-23T14:45:57Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/schwab-stock-meta-muse-altruist-vanguard-ai-jpmorgan-chase-sp-500/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "How Does Meta's Muse AI Raise Risks for Banks & Other Finance Firms?",
-      "summary": "Meta's Muse AI raises risks for finance firms by making it easier for customers to compare rates, fees and products, and move deposits or assets.",
-      "pub_date": "2026-09-23T14:31:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-metas-muse-ai-raise-143100261.html"
     }
   ]
 }

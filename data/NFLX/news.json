@@ -1,6 +1,6 @@
 {
   "ticker": "NFLX",
-  "generated_at": "2026-09-24T02:42:29.936307+00:00",
+  "generated_at": "2026-09-24T08:56:28.223485+00:00",
   "items": [
     {
       "title": "Netflix has a big YouTube problem \u2014 and it's only getting worse",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-23T14:20:11Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/netflix-big-youtube-problem-only-142011555.html"
+    },
+    {
+      "title": "HSBC sends blunt message to Netflix stock investors",
+      "summary": "One Wall Street analyst says the streaming giant\u2019s edge over its biggest rival is slipping.",
+      "pub_date": "2026-09-24T02:47:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-sends-blunt-message-netflix-024700601.html"
     },
     {
       "title": "Netflix Is Down 42% in a Year and the Investor Who Exited in June Just Bought Back In",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-23T20:36:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/meta-muse-ai-planet-fitness-netflix-a28e9981?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Why Disney Is Raising Streaming Prices\u2014Again",
-      "summary": "Walt Disney  is raising its streaming subscription prices for the second time in a year as it looks to focus on investing in content.  The move comes at a notable time: The popularity of Meta Platform\u2019s Muse has raised concerns that artificial-intelligence agents pose risks to companies that rely on recurring payments s if they help consumers cancel those payments from simple prompts.  A  Disney  spokesperson confirmed the price changes to Barron\u2019s on Wednesday.",
-      "pub_date": "2026-09-23T20:27:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/disney-stock-streaming-prices-hulu-espn-829da9ac?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

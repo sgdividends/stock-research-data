@@ -1,7 +1,14 @@
 {
   "ticker": "BAC",
-  "generated_at": "2026-09-24T02:41:52.512736+00:00",
+  "generated_at": "2026-09-24T08:55:53.583775+00:00",
   "items": [
+    {
+      "title": "Bank of America sees 43% upside in beaten-down ride-hailing giant",
+      "summary": "A new robotaxi forecast suggests Wall Street may be bracing for the wrong year.",
+      "pub_date": "2026-09-24T03:17:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sees-43-upside-031700712.html"
+    },
     {
       "title": "Darden sales momentum strengthens despite casual-dining slowdown",
       "summary": "Darden Restaurants Inc (NYSE:DRI) saw stronger aggregate sales momentum through August, prompting Bank of America (BofA) to raise its LongHorn forecast while cutting its Olive Garden estimate. The bank raised its estimate for LongHorn\u2019s first-quarter fiscal 2027 same-store sales growth to...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-23T14:49:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/3-top-chip-equipment-stocks-144900138.html"
-    },
-    {
-      "title": "How Meta's Muse, Vanguard AI Threat Triggered Schwab Sell Signal",
-      "summary": "Charles Schwab stock recovered only modestly on Wednesday morning, a day after leading a wide swath of brokerage, bank and other financial stocks lower as AI-fueled competition heats up.  Rapid adoption of Meta Platforms' Muse personal AI agent and a growing threat from Altruist, an AI platform for financial advisors that was recently acquired by Vanguard, have highlighted two very different type of risks to Schwab's business.",
-      "pub_date": "2026-09-23T14:45:57Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/schwab-stock-meta-muse-altruist-vanguard-ai-jpmorgan-chase-sp-500/?src=A00220&yptr=yahoo"
     }
   ]
 }
