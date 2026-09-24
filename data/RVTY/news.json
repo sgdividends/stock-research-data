@@ -1,7 +1,14 @@
 {
   "ticker": "RVTY",
-  "generated_at": "2026-09-24T16:19:43.871749+00:00",
+  "generated_at": "2026-09-24T22:56:38.960280+00:00",
   "items": [
+    {
+      "title": "Sector Update: Healthcare Stocks Advance Late Afternoon",
+      "summary": "Healthcare stocks were higher late Thursday afternoon, with the NYSE Healthcare Index increasing 0.9",
+      "pub_date": "2026-09-24T20:01:24Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-advance-afternoon-200124301.html"
+    },
     {
       "title": "Top Midday Stories: Oracle's Data Center Delay; People Withdraws MGM Offer; Revvity's New Diabetes Test",
       "summary": "All three major US stock indexes fell in late-morning trading Thursday amid uncertainty in the Middl",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-15T13:35:31Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/healthcare/articles/q2-rundown-revvity-nyse-rvty-133531218.html"
-    },
-    {
-      "title": "3 Healthcare Stocks That Fall Short",
-      "summary": "From novel pharmaceuticals to telemedicine, most healthcare companies are on a mission to drive better patient outcomes. Players catalyzing medical advancements have benefited from elevated demand, and their momentum is only rising as the industry has posted a 30% gain over the past six months, beating the S&P 500 by 16.7 percentage points.",
-      "pub_date": "2026-09-14T15:23:30Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/healthcare/articles/3-healthcare-stocks-fall-short-152330951.html"
     }
   ]
 }

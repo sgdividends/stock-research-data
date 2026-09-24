@@ -1,7 +1,28 @@
 {
   "ticker": "MRVL",
-  "generated_at": "2026-09-24T16:19:32.014467+00:00",
+  "generated_at": "2026-09-24T22:56:27.139405+00:00",
   "items": [
+    {
+      "title": "Marvell vs. NVIDIA: One AI Stock Looks Like the Better Buy Now",
+      "summary": "NVIDIA's faster AI growth, stronger margins and higher ROE give it an edge over Marvell as Data Center demand accelerates.",
+      "pub_date": "2026-09-24T18:00:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-vs-nvidia-one-ai-180000492.html"
+    },
+    {
+      "title": "NVIDIA Stock Looks Expensive Until You Price The Vera Rubin Ramp",
+      "summary": "NVIDIA (NVDA) stock trades near $225, about 28.3 times its adjusted earnings over the past twelve months. Adjusted here means normalized net income with stock-based compensation added back, the same broad basis analysts use in their forecasts. For a stock near its 52-week high, that looks steep. But the multiple leaves out the growth analysts already expect, and that growth depends on how much NVIDIA can supply.",
+      "pub_date": "2026-09-24T16:09:57Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-looks-expensive-until-160957599.html"
+    },
+    {
+      "title": "Data Centers Will Continue to Drive Robust Growth for Marvell Stock",
+      "summary": "MRVL stock is gaining attention after unveiling 2nm chips for use in data centers.",
+      "pub_date": "2026-09-24T15:41:56Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/technology/articles/data-centers-continue-drive-robust-154156827.html"
+    },
     {
       "title": "Marvell Just Unveiled a 2nm Breakthrough for AI Data Centers",
       "summary": "A new 2nm optical platform targets the bandwidth and power demands emerging across AI infrastructure.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-23T19:10:07Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/amd-187-profits-buy-more-191007816.html"
-    },
-    {
-      "title": "Marvell Stock Ran, But Did It Tell You When?",
-      "summary": "Marvell Technology (MRVL) stock has returned 248% since September 22, 2025, against about 18% for the S&P 500 over the same window. The products that drove that run were named in public months before the share price moved. None came with a date.",
-      "pub_date": "2026-09-23T19:05:16Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-ran-did-tell-190516402.html"
-    },
-    {
-      "title": "Trump Downplayed AI Safety Concerns, but His Investment Portfolio Bought Cybersecurity Stocks",
-      "summary": "President Donald Trump has called artificial-intelligence safety fears a \u201choax.\u201d  The president\u2019s latest financial disclosure for July shows his portfolio bought stocks of cybersecurity companies, which address the growing need for protection as AI keeps developing.  Both the White House and the Trump Organization said Trump\u2019s stock and bond portfolio is independently managed by third-party financial institutions.",
-      "pub_date": "2026-09-23T18:41:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/trump-microsoft-amazon-oracle-stock-ai-trade-6b72c193?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Marvell's AI Infrastructure Bet Gets a Fresh Wall Street Vote",
-      "summary": "Seaport sees more room for growth as AI data-center demand lifts Marvell's custom silicon and interconnect businesses.",
-      "pub_date": "2026-09-23T17:08:26Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/marvells-ai-infrastructure-bet-gets-170826901.html"
     }
   ]
 }

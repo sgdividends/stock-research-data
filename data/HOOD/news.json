@@ -1,7 +1,14 @@
 {
   "ticker": "HOOD",
-  "generated_at": "2026-09-24T16:19:19.187647+00:00",
+  "generated_at": "2026-09-24T22:56:14.186687+00:00",
   "items": [
+    {
+      "title": "Brokerage Firm Public Debuts AI Agents for Prediction Market Trading",
+      "summary": "Prediction markets have soared in popularity with investors, allowing them to speculate on the outcome of events.",
+      "pub_date": "2026-09-24T20:31:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/advisor/articles/public-prediction-markets-ai-agents-6b6ef1d8?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Webull Drops 6% as Selling Outlasts Its Insider-Sale Headlines; Robinhood and Interactive Brokers Dip 2%",
       "summary": "Webull just posted blockbuster revenue growth, yet its stock keeps sliding as insider-sale filings pile up and drag Robinhood and Interactive Brokers down with it. Here is what is driving the disconnect between strong earnings and relentless selling pressure.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-23T19:36:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/advisor/articles/meta-muse-ai-agent-brokerage-stocks-37d46fcc?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Securitize Stock Jumps 12% as Cantor Bets on a Tokenization Boom",
-      "summary": "Securitize shares have surged as regulators open a path for tokenized stock trading. Cantor Fitzgerald sees more room to rise.",
-      "pub_date": "2026-09-23T16:55:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/securitize-stock-price-cantor-tokenization-1bff8d31?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "EIX",
-  "generated_at": "2026-09-24T16:19:08.629772+00:00",
+  "generated_at": "2026-09-24T22:56:04.090579+00:00",
   "items": [
+    {
+      "title": "Top Stock Reports for Tesla, Bank of America & Coca-Cola",
+      "summary": "Tesla, Bank of America and Coca-Cola headline today's research, with growth drivers, investment plans and key risks in focus.",
+      "pub_date": "2026-09-24T19:55:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-tesla-bank-195500282.html"
+    },
     {
       "title": "Edison International\u2019s Dividend Looks Attractive. The $40 Billion Question Is What Comes Next",
       "summary": "Southern California Edison shareholders are funding a $40 billion grid transformation while absorbing wildfire liability that regulators have not yet resolved. Whether that 6% yield compensates for the risk or signals something more troubling depends entirely on a question management cannot yet answer.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-07T22:19:41Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/pg-e-pcg-edison-eix-221941185.html"
-    },
-    {
-      "title": "Jim Cramer on PG&E (PCG): Wildfire Liability Puts Growth Plans Under Pressure",
-      "summary": "On September 2, while discussing how California lawmakers failed to advance wildfire-liability reform, Mad Money host Jim Cramer mentioned PG&E Corporation (NYSE:PCG) and said: Boy, it\u2019s been a tough week if you own any California-based electric utilities. Last weekend, a deal to reform the way wildfire liabilities are treated fell through, sending stocks like PG&E [\u2026]",
-      "pub_date": "2026-09-05T10:26:09Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-pg-e-pcg-102609345.html"
     }
   ]
 }

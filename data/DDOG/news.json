@@ -1,7 +1,14 @@
 {
   "ticker": "DDOG",
-  "generated_at": "2026-09-24T16:19:04.663032+00:00",
+  "generated_at": "2026-09-24T22:55:59.562143+00:00",
   "items": [
+    {
+      "title": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
+      "summary": "The stock market rallied to close mixed even as yields and oil prices kept rising. Taiwan Semi is a buy. A Tesla Semi event is on tap.",
+      "pub_date": "2026-09-24T22:35:38Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-resilient-yields-oil-prices-rising-tesla-semi-event/?src=A00220&yptr=yahoo"
+    },
     {
       "title": "Fastly Sinks 8% as Selling After Investor Day Cuts Into a 164% YTD Run; Cloudflare Holds Flat",
       "summary": "Fastly stock carved out one of the sharpest runs in mid-cap software this year, then held an Investor Day that handed sellers exactly the moment they were waiting for. Here is what the peer group's calm tape reveals about where the pressure is really coming from.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-22T00:46:25Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/twilio-datadog-unity-zscaler-elastic-004625817.html"
-    },
-    {
-      "title": "Fastly Soars 14% on AI Firewall Launch; Cloudflare Climbs 7%, Datadog Rises 5%",
-      "summary": "Fastly launched new AI traffic controls this morning and the whole edge security category moved with it, including rivals that announced nothing at all. The question buyers are not asking loudly enough is whether availability and adoption are the same thing.",
-      "pub_date": "2026-09-21T18:04:07Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fastly-soars-14-ai-firewall-180407439.html"
     }
   ]
 }
