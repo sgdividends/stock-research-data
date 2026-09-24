@@ -1,6 +1,6 @@
 {
   "ticker": "QCOM",
-  "generated_at": "2026-09-23T22:38:04.254665+00:00",
+  "generated_at": "2026-09-24T02:42:37.097753+00:00",
   "items": [
     {
       "title": "How Qualcomm is transforming the car into a 'digital computer on wheels': CEO explains",
@@ -10,9 +10,16 @@
       "url": "https://finance.yahoo.com/video/qualcomm-transforming-car-digital-computer-212321363.html"
     },
     {
+      "title": "Qualcomm Unveils Personal AI Push With Snapdragon-Powered Glasses, Hearables and PCs",
+      "summary": "Qualcomm (NASDAQ:QCOM) used the second day of its Snapdragon Summit to outline its vision for \u201cpersonal AI,\u201d highlighting new on-device AI software, wearable reference designs, audio platforms and partnerships intended to support agentic experiences across phones, PCs, cars, glasses and other connec",
+      "pub_date": "2026-09-23T23:02:29Z",
+      "source": "MarketBeat",
+      "url": "https://tech.yahoo.com/ai/meta-ai/articles/qualcomm-unveils-personal-ai-push-230229527.html"
+    },
+    {
       "title": "Qualcomm Takes AI To The Edge With New Mobile Chips",
       "summary": "Qualcomm showed off new mobile processors to power edge devices running AI applications. Qualcomm stock dropped Wednesday.",
-      "pub_date": "2026-09-23T20:19:25Z",
+      "pub_date": "2026-09-23T22:37:08Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/technology/qualcomm-stock-qcom-edge-ai-snapdragon-summit-2026/?src=A00220&yptr=yahoo"
     },
@@ -22,6 +29,13 @@
       "pub_date": "2026-09-23T19:05:16Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-ran-did-tell-190516402.html"
+    },
+    {
+      "title": "Lumentum Shares Are Up After an AI Optical Tech Partnership With Corning and Qualcomm. What This Means for LITE Stock.",
+      "summary": "Lumentum shares rose after it announced an AI optical connectivity demonstration with Corning and Qualcomm at ECOC 2026, pairing its VCSEL lasers with high-density chip-to-chip links.",
+      "pub_date": "2026-09-23T18:32:30Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/technology/ai/articles/lumentum-shares-ai-optical-tech-183230959.html"
     },
     {
       "title": "QUALCOMM (QCOM) Draws Fresh AI Focus As Valuation Looks Close To Fair Value",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-23T15:07:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-heres-5-000-investment-150700786.html"
-    },
-    {
-      "title": "What Changed In AMD's Story?",
-      "summary": "Advanced Micro Devices (AMD) has stopped leading with the problem that opened its call a year ago. That problem was keeping one of its accelerators out of China. The latest call was fiscal Q2 2026. This time, management did not lead with the subject at all. So what was AMD leading with back then.",
-      "pub_date": "2026-09-23T15:00:42Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/changed-amds-story-150042231.html"
-    },
-    {
-      "title": "QCOM Launches Next-Gen Snapdragon SoCs: Will Agentic AI Drive Growth?",
-      "summary": "Qualcomm's new 2nm Snapdragon chips target agentic AI, faster on-device processing and premium smartphones, but handset pressures remain.",
-      "pub_date": "2026-09-23T13:30:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/qcom-launches-next-gen-snapdragon-133000244.html"
     }
   ]
 }
