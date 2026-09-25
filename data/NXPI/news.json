@@ -1,7 +1,21 @@
 {
   "ticker": "NXPI",
-  "generated_at": "2026-09-25T09:17:27.722240+00:00",
+  "generated_at": "2026-09-25T16:20:01.564423+00:00",
   "items": [
+    {
+      "title": "What Does NVIDIA Offer That Texas Instruments Does Not?",
+      "summary": "Texas Instruments (TXN) and NVIDIA both sell chips for the data centers now being built. Data centers bring in nearly all of NVIDIA's revenue, while TI sells to industrial and automotive customers as well as data centers. You pay 38.2 times the yearly profit for TI, yet only 28.1 times for NVIDIA. Their latest earnings calls show the two businesses parting ways on supply.",
+      "pub_date": "2026-09-25T14:27:52Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/does-nvidia-offer-texas-instruments-142752053.html"
+    },
+    {
+      "title": "NXP Semiconductors (NXPI) Stock May Be 7% Undervalued After Embedded Systems Growth News",
+      "summary": "NXP Semiconductors has delivered a 28.8% share price gain over the past 5 years, which puts fresh attention on what the business is actually generating in cash. The question now is whether the current US$230.16 price tag lines up with those cash flows when you run the numbers through a Discounted Cash Flow (DCF) lens. A 28.8% return over 5 years means long term holders have already captured meaningful value. Any new position rests heavily on what the underlying cash flows can support from...",
+      "pub_date": "2026-09-25T12:08:50Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nxpi-stock-may-120850289.html"
+    },
     {
       "title": "Own ON Semiconductor For AI Power, Or Own Micron's Contracts?",
       "summary": "ON Semiconductor (ON) and Micron Technology (MU) are owned for the same reason. AI data centers need more silicon than the industry can make, and both sell into that shortage. The resemblance stops there. Micron has signed part of its peak pricing into multiyear contracts. ON Semiconductor is climbing out of a trough, still rationing parts between its AI customers and its car customers. Same shortage, opposite ends of a cycle.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-18T11:25:29Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-cratered-3-months-wall-112529235.html"
-    },
-    {
-      "title": "ON Semiconductor Stock Is Already Half Off Its High, So How Low Could A Market Shock Take It?",
-      "summary": "ON Semiconductor (ON) stock trades near $67, about 50% below its 52-week high. It lost 43.7% over the trailing three months, ending with a 9.0% fall on September 16. Yet it is still up 38.4% over the trailing twelve months, against 15.5% for the S&P 500. The company's latest results show a business still shrinking but recovering, not one in trouble.",
-      "pub_date": "2026-09-17T20:37:51Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stock-already-half-off-203751135.html"
-    },
-    {
-      "title": "MCHP's Analog AI Deal Gains Momentum: Can It Outpace NXPI & TXN?",
-      "summary": "Microchip Technology expands its edge-AI push as AnalogAI adopts SST's memBrain SAGE IP for ultra-low-power processors in robots, drones and vehicles.",
-      "pub_date": "2026-09-17T15:06:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mchps-analog-ai-deal-gains-150600954.html"
     }
   ]
 }

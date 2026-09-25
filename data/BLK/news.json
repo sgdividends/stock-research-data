@@ -1,13 +1,48 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-09-25T09:16:48.693687+00:00",
+  "generated_at": "2026-09-25T16:19:06.864322+00:00",
   "items": [
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq little changed as bond sell-off keeps pressure on stocks",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as bond sell-off eases up",
       "summary": "US stock futures wobbled on Friday morning as investors assessed the macroeconomic and geopolitical crosscurrents that have pushed up oil prices and bond yields in recent days.",
       "pub_date": "2026-09-25T08:17:38Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-25-dow-sp-500-nasdaq-081738529.html"
+    },
+    {
+      "title": "What mortgage rate surges mean for home improvement stocks",
+      "summary": "Yahoo Finance Executive Editor Brian Sozzi sounds the alarm that higher 10-year Treasury yields are pushing mortgage rates to their highest level in two years and could start to affect stocks in the home improvement sector.",
+      "pub_date": "2026-09-25T14:30:52Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/mortgage-rate-surges-mean-home-143052293.html"
+    },
+    {
+      "title": "Morning Minute: BlackRock Leans Deeper Into Tokenization with Ondo",
+      "summary": "The biggest financial institutions in the world are bringing more products onchain, and the pace is accelerating.",
+      "pub_date": "2026-09-25T13:04:06Z",
+      "source": "decrypt",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/morning-minute-blackrock-leans-deeper-130406077.html"
+    },
+    {
+      "title": "UnitedHealth, BlackRock, and Stanley Black & Decker Just Paid Shareholders. Here\u2019s What They Got.",
+      "summary": "Three companies with nothing in common all sent dividend checks on the same September day, but only one of them handed shareholders a freshly raised rate. Which one broke from the pack, and what does each payout actually earn against the price investors paid?",
+      "pub_date": "2026-09-25T12:05:43Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/unitedhealth-blackrock-stanley-black-decker-120543835.html"
+    },
+    {
+      "title": "Should You Buy WisdomTree (WT) Stock After Its Latest Crypto Move?",
+      "summary": "Supported by a 14.5% five-year average annual revenue growth rate, robust annual operating cash flow generation exceeding $90 million, and a capital-light model yielding free cash flow conversion margins above 25%, WisdomTree (NYSE:WT) represents a compelling asset management compounder with a return on equity nearing 19.3%. As artificial intelligence and digital architecture sweep through high [\u2026]",
+      "pub_date": "2026-09-25T11:20:54Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-wisdomtree-wt-stock-latest-112054327.html"
+    },
+    {
+      "title": "AI Crypto Coins Revenue Gap Puts Token Value to the Test",
+      "summary": "The AI coin crypto sector sits at $24-25 billion, with a total crypto market of approximately $2.86 trillion. Anthropic reportedly raised $65 billion at a $965 billion valuation in May, and Nvidia posted $96.2 billion in quarterly revenue in July, up 106% year over year, yet most major AI-related tokens ...",
+      "pub_date": "2026-09-25T11:16:59Z",
+      "source": "Cryptonews",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/ai-crypto-coins-revenue-gap-111659502.html"
     },
     {
       "title": "Can BlackRock (BLK) Stay Cheap As Excess Returns Support Growth?",
@@ -22,41 +57,6 @@
       "pub_date": "2026-09-25T03:42:49Z",
       "source": "BeInCrypto",
       "url": "https://finance.yahoo.com/markets/stocks/articles/securitize-stock-surges-15-secs-034249614.html"
-    },
-    {
-      "title": "ETF League Tables: PIMCO Gathers $132M",
-      "summary": "<p>Table below reflects daily flows on September 23, 2026 and asset totals as of that date.</p>",
-      "pub_date": "2026-09-24T21:00:04Z",
-      "source": "etf.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/etf-league-tables-pimco-gathers-210004668.html"
-    },
-    {
-      "title": "A Guide to Owning Bonds When They Are Selling Off",
-      "summary": "A bond-market rout pushed the 10-year Treasury yield to the highest since 2007, but it doesn\u2019t erase the value of fixed income in a diversified portfolio.  Over 80% of the global bond market now yields above 4%, according to BlackRock.  The asset manager says the average yield in a bond portfolio it tracks has more than doubled from five years earlier.",
-      "pub_date": "2026-09-24T18:39:55Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-24-2026/card/a-guide-to-owning-bonds-when-they-are-selling-off-3ThQKUizuP0SDgUXhZ5v?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Ondo brings BlackRock portfolio strategies onchain for the first time",
-      "summary": "Ondo launches three tokenized investment portfolios built by BlackRock, delivering professionally constructed strategies as single onchain tokens for the first time.",
-      "pub_date": "2026-09-24T17:25:34Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/ondo-brings-blackrock-portfolio-strategies-172534213.html"
-    },
-    {
-      "title": "Ondo Finance to Tokenize Three Investment Portfolios Using BlackRock Strategies",
-      "summary": "Ondo Finance (CRYPTO: $ONDO) is set to tokenize three investment portfolios that use strategies provided by BlackRock (NYSE: ...",
-      "pub_date": "2026-09-24T15:48:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/blackrock-tokenize-three-investment-portfolios-154800419.html"
-    },
-    {
-      "title": "BLK vs. TROW: Which Asset Manager\u2019s Dividend Actually Survives the Next Market Crash?",
-      "summary": "Asset manager dividends look safe until a bear market hits and fee revenue collapses with asset prices. The way these two giants earn their money means one of them faces a compounding threat that most income investors are not pricing in.",
-      "pub_date": "2026-09-24T15:11:19Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/blk-vs-trow-asset-manager-151119428.html"
     }
   ]
 }
