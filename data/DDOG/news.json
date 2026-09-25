@@ -1,13 +1,20 @@
 {
   "ticker": "DDOG",
-  "generated_at": "2026-09-24T22:55:59.562143+00:00",
+  "generated_at": "2026-09-25T02:59:00.017706+00:00",
   "items": [
     {
-      "title": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
-      "summary": "The stock market rallied to close mixed even as yields and oil prices kept rising. Taiwan Semi is a buy. A Tesla Semi event is on tap.",
-      "pub_date": "2026-09-24T22:35:38Z",
+      "title": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Holds Semi Event",
+      "summary": "The stock market rallied to close mixed even as yields and oil prices kept rising. Taiwan Semi is a buy. A Tesla Semi event took place.",
+      "pub_date": "2026-09-25T02:46:35Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-resilient-yields-oil-prices-rising-tesla-semi-event/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Datadog (DDOG) Rallies On AI Demand, Is The Stock Still Cheap?",
+      "summary": "Datadog (DDOG) has drawn fresh attention after recent gains left the stock up 15.2% over the past month and 7.2% in the past 3 months, sharply outpacing many software peers. Short term momentum has picked up for Datadog, with a 1 day share price return of 2.16% building on a 7 day gain of 8.86% and contributing to a 92.06% year to date share price return, while the 3 year total shareholder return of 188.80% points to a strong longer run track record. Scan how Datadog's surge compares with a...",
+      "pub_date": "2026-09-25T00:19:52Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/datadog-ddog-rallies-ai-demand-001952703.html"
     },
     {
       "title": "Fastly Sinks 8% as Selling After Investor Day Cuts Into a 164% YTD Run; Cloudflare Holds Flat",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-22T12:56:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/fortinet-vs-datadog-cloud-security-125600728.html"
-    },
-    {
-      "title": "Twilio, Datadog, Unity, Zscaler, and Elastic Shares Skyrocket, What You Need To Know",
-      "summary": "A number of stocks jumped in the afternoon session after falling Treasury yields eased pressure on software stocks as signs of cooler U.S.\u2013China tensions lifted risk appetite.",
-      "pub_date": "2026-09-22T00:46:25Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/twilio-datadog-unity-zscaler-elastic-004625817.html"
     }
   ]
 }

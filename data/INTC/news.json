@@ -1,13 +1,27 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-09-24T22:56:16.531780+00:00",
+  "generated_at": "2026-09-25T02:59:17.628673+00:00",
   "items": [
+    {
+      "title": "Options Say Marvell Stock Could Halve Or Nearly Double In A Year",
+      "summary": "Marvell Technology (MRVL) shares trade near $261, and its options price a one-year range of about $133 to about $514. In plain terms, a rough but ordinary year from here could leave the stock at roughly half today's price or nearly double it. Yet that range is still calmer than the ride holders had over the past twelve months.",
+      "pub_date": "2026-09-24T23:50:26Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/options-marvell-stock-could-halve-235026468.html"
+    },
     {
       "title": "Amazon Blocks Meta's Muse. It Could Be a Gift for Walmart and Shopify",
       "summary": "Who will win in the latest AI power struggle?",
       "pub_date": "2026-09-24T20:05:01Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-blocks-metas-muse-could-200501439.html"
+    },
+    {
+      "title": "This Analyst Just Upgraded Synopsys Stock. Here's Why.",
+      "summary": "Synopsys shares rally as BNP Paribas upgrades them to \"Neutral.\" Here\u2019s what made analyst Andrew DeGasperi upgrade SNPS stock today.",
+      "pub_date": "2026-09-24T20:02:30Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analyst-just-upgraded-synopsys-stock-200230628.html"
     },
     {
       "title": "ASML Drops 1.8% as $400 Million High-NA Tools Reach More Fabs",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-24T16:09:57Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-looks-expensive-until-160957599.html"
-    },
-    {
-      "title": "Micron's Rally Looks Overdone Until You Price The Memory Shortage",
-      "summary": "Micron Technology (MU) stock has returned 552% over the past twelve months. At near $1,070 a share, has the price run ahead of the business? On the last twelve months of adjusted earnings, meaning normalized net income with stock-based compensation added back, Micron trades at about 23.5 times. That number looks backward, and memory prices have moved too fast for it to show what Micron earns today.",
-      "pub_date": "2026-09-24T13:59:32Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microns-rally-looks-overdone-until-135932745.html"
-    },
-    {
-      "title": "NVIDIA's $279B Supply Commitments: Can These Secure Its Growth Runway?",
-      "summary": "NVDA's $279B supply commitments aim to support Blackwell and Vera Rubin production, but demand shifts and excess inventory remain key risks.",
-      "pub_date": "2026-09-24T13:41:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-279b-supply-commitments-secure-134100685.html"
     }
   ]
 }

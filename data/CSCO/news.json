@@ -1,7 +1,14 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-09-24T22:55:57.708474+00:00",
+  "generated_at": "2026-09-25T02:58:58.261440+00:00",
   "items": [
+    {
+      "title": "Is Arista Networks Stock Too Dependent On Demand Holding Up?",
+      "summary": "Arista Networks (ANET) ended fiscal Q2 2026 with about $9.7 billion of multi-year purchase commitments. These are promises to buy from its suppliers over several years. If demand for its switches slows, those promises remain. Will the company's sales keep pace with what it has promised its suppliers.",
+      "pub_date": "2026-09-24T23:29:53Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-stock-too-dependent-232953632.html"
+    },
     {
       "title": "What Changed In Dell's Story?",
       "summary": "Dell Technologies' (DELL) management no longer leads its earnings calls with the topic it stressed two years ago. That topic has not disappeared. Management still talks about it. The business behind it still brought in $51.0 billion, about 45% of Dell's revenue, in fiscal 2026. So it matters to you. What did Dell's management use to lead with.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-24T11:20:54Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/1-growth-stock-star-potential-112054637.html"
-    },
-    {
-      "title": "Cisco Slips 0.3% as 1,000 Switches Build an AI-Ready Campus",
-      "summary": "Notre Dame bundles hardware, automation, observability and services without disclosing the contract's financial value.",
-      "pub_date": "2026-09-23T19:17:35Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-slips-0-3-1-191735319.html"
     }
   ]
 }

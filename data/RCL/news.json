@@ -1,6 +1,6 @@
 {
   "ticker": "RCL",
-  "generated_at": "2026-09-24T22:56:36.875338+00:00",
+  "generated_at": "2026-09-25T02:59:37.672671+00:00",
   "items": [
     {
       "title": "A Cruise Line Betting on Land: Is Royal Caribbean\u2019s Sandals Deal Genius or Overreach?",
@@ -15,6 +15,13 @@
       "pub_date": "2026-09-24T19:30:15Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/stocks/articles/rcl-stock-sees-best-day-193015842.html"
+    },
+    {
+      "title": "Bulls vs. Bears: How to Interpret Unusual Options Activity in Expedia Stock",
+      "summary": "Yesterday\u2019s unusual options activity hid the real Expedia bet: 4,991 March 2027 $220 puts paired with $330 calls, most likely a long strangle, but it could also be a bearish risk reversal bet. It comes down to the trade prices.",
+      "pub_date": "2026-09-24T18:17:02Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/options/articles/bulls-vs-bears-interpret-unusual-181702375.html"
     },
     {
       "title": "Royal Caribbean plans to buy stake in Sandals Resorts for $3 billion",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-23T18:50:20Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/royal-caribbean-sandals-deal-accretive-185020471.html"
-    },
-    {
-      "title": "Royal Caribbean Is Buying Half of Sandals. \u2018What the Heck Are They Thinking?\u2019",
-      "summary": "Royal Caribbean is buying a 50% stake in Sandals Resorts, with the deal expected to close early 2027.",
-      "pub_date": "2026-09-23T18:45:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/royal-caribbean-stock-sandals-resorts-9b6e3922?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

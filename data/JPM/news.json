@@ -1,7 +1,21 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-09-24T22:56:19.257994+00:00",
+  "generated_at": "2026-09-25T02:59:20.025990+00:00",
   "items": [
+    {
+      "title": "JPMorgan sends strong message to Meta stock investors",
+      "summary": "A Wall Street bank that soured on the stock in April now sees a historic run for its newest AI app",
+      "pub_date": "2026-09-25T02:33:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-sends-strong-message-meta-023300082.html"
+    },
+    {
+      "title": "Why Welltower Stock Topped the Market on Thursday",
+      "summary": "An analyst upgraded his recommendation on the specialty REIT.",
+      "pub_date": "2026-09-24T23:52:47Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-welltower-stock-topped-market-235247666.html"
+    },
     {
       "title": "Sigma Lithium (SGML) Stock Could Be A Bargain After JPMorgan Initiation",
       "summary": "Sigma Lithium has seen its share price swing sharply over recent years, which puts fresh attention on a basic question for investors who care about fundamentals. Is the current market value of the stock really supported by the sales the business is generating today and what it may reasonably add over time? The share price has declined 68.4% over the past 3 years, which raises the issue of how much of Sigma Lithium's sales power the market is now choosing to recognize. JPMorgan's recent...",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-24T15:58:57Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/roth-ira-keep-thousands-more-155857248.html"
-    },
-    {
-      "title": "Ondo Finance to Tokenize Three Investment Portfolios Using BlackRock Strategies",
-      "summary": "Ondo Finance (CRYPTO: $ONDO) is set to tokenize three investment portfolios that use strategies provided by BlackRock (NYSE: ...",
-      "pub_date": "2026-09-24T15:48:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/blackrock-tokenize-three-investment-portfolios-154800419.html"
-    },
-    {
-      "title": "Can JPM's Thunes Partnership Accelerate Cross-Border Payments Growth?",
-      "summary": "JPMorgan expands cross-border payment reach with Thunes, targeting faster payouts across 100+ corridors and broader access to local payment methods.",
-      "pub_date": "2026-09-24T14:15:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/jpms-thunes-partnership-accelerate-cross-141500127.html"
     }
   ]
 }

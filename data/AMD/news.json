@@ -1,7 +1,14 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-09-24T22:55:43.632803+00:00",
+  "generated_at": "2026-09-25T02:58:45.513460+00:00",
   "items": [
+    {
+      "title": "Options Say Marvell Stock Could Halve Or Nearly Double In A Year",
+      "summary": "Marvell Technology (MRVL) shares trade near $261, and its options price a one-year range of about $133 to about $514. In plain terms, a rough but ordinary year from here could leave the stock at roughly half today's price or nearly double it. Yet that range is still calmer than the ride holders had over the past twelve months.",
+      "pub_date": "2026-09-24T23:50:26Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/options/articles/options-marvell-stock-could-halve-235026468.html"
+    },
     {
       "title": "Elon Musk Touts Grok in Tesla Vehicles: Here\u2019s What It Can Do",
       "summary": "Tesla Inc. CEO Elon Musk has said that Space Exploration Technologies Corp.\u2018s AI model Grok will be available in Tesla vehicles. Grok on Tesla Vehicles Can Clear Inboxes and More In a post on X on Tuesday, Tesla\u2019s official handle...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-24T17:36:04Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/arm-drops-3-3-more-173604154.html"
-    },
-    {
-      "title": "AMD Move Lower as $1 Trillion Raises the Execution Bar",
-      "summary": "Crossing the milestone rewards AMD's broader stack while increasing the expectations attached to every AI deployment.",
-      "pub_date": "2026-09-24T17:32:39Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-move-lower-1-trillion-173239552.html"
     }
   ]
 }
