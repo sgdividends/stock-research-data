@@ -1,7 +1,28 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-09-25T09:17:26.153136+00:00",
+  "generated_at": "2026-09-25T23:01:28.420284+00:00",
   "items": [
+    {
+      "title": "Here\u2019s The Actual Reason I Keep Buying Salesforce On Repeat",
+      "summary": "Salesforce shares are down nearly 10% this year, and one investor keeps scheduling purchase after purchase anyway. The reasoning comes down to a single strategic asset that every AI model will eventually need to borrow.",
+      "pub_date": "2026-09-25T15:15:42Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/actual-reason-keep-buying-salesforce-151542071.html"
+    },
+    {
+      "title": "3 Software ETFs to Buy as the SaaSpocalypse Bottoms Out",
+      "summary": "IGV's sharp rebound signals the SaaSpocalypse is almost over, as AI adoption and strong software earnings revive the sector's recovery.",
+      "pub_date": "2026-09-25T12:33:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-software-etfs-buy-saaspocalypse-123300355.html"
+    },
+    {
+      "title": "Palantir\u2019s Valuation Is Huge. So Is the Opportunity",
+      "summary": "Palantir's latest quarter left analysts scrambling to justify a valuation that looks either wildly overpriced or strangely reasonable depending on one number that keeps accelerating beyond every model built to contain it.",
+      "pub_date": "2026-09-25T12:30:21Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-valuation-huge-opportunity-123021360.html"
+    },
     {
       "title": "CrowdStrike (CRWD) Joined A Founding Alliance To Secure AI Agents",
       "summary": "CrowdStrike Holdings (NasdaqGS:CRWD) has joined peers as a founding member of the new Blueprint Alliance to secure AI agents. The Blueprint Alliance brings together AWS, Google Cloud, Okta, Salesforce, ServiceNow, Zscaler and others in a shared security effort. Members plan to create common principles and a reference architecture that enterprises can use to manage and protect AI agents. The Blueprint Alliance launch only captures one angle of CrowdStrike's AI agent push, which extends beyond...",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-24T19:16:08Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/figma-vs-servicenow-technology-stock-191608122.html"
-    },
-    {
-      "title": "What Is Salesforce No Longer Telling You?",
-      "summary": "Salesforce (CRM) stock has gained 56% in three months, against 5.0% for the S&P 500. Buyers are betting that AI will lift Salesforce rather than undercut its seat-based model. For that gain to hold, two things must both be true. Salesforce's own AI must earn real money, and its new AI pitch must speed up growth. The first depends on an idea management no longer leads with. The second rests on what replaced it. So what idea did Salesforce management once stress on its calls.",
-      "pub_date": "2026-09-24T18:36:43Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-no-longer-telling-183643911.html"
-    },
-    {
-      "title": "UiPath Slides 3%, Extending a 24% Monthly Decline; ServiceNow and Pegasystems Slip",
-      "summary": "UiPath is sinking again while the broader software sector barely budges, and the automation corner of the market may be telling investors something the headline numbers are not.",
-      "pub_date": "2026-09-24T17:02:31Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/uipath-slides-3-extending-24-170231046.html"
-    },
-    {
-      "title": "NOW Expands Legacy Replacement Push With AI Platform: What's Ahead?",
-      "summary": "ServiceNow is gaining traction, replacing legacy CRM and workflow tools as AI automation boosts expansion across enterprise workflows and drives customer growth.",
-      "pub_date": "2026-09-24T14:30:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/now-expands-legacy-replacement-push-143000124.html"
     }
   ]
 }

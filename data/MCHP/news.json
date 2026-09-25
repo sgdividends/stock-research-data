@@ -1,7 +1,35 @@
 {
   "ticker": "MCHP",
-  "generated_at": "2026-09-25T09:17:21.758901+00:00",
+  "generated_at": "2026-09-25T23:01:22.962242+00:00",
   "items": [
+    {
+      "title": "Update: Dow Snaps 3-Day Losing Streak as Oil Retreats; Wall Street Logs Weekly Gains",
+      "summary": "(Updates with market moves at the end of the day, and other changes, if any.) The Dow Jones Indus",
+      "pub_date": "2026-09-25T20:56:28Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-snaps-3-day-losing-205628233.html"
+    },
+    {
+      "title": "What Does NVIDIA Offer That Texas Instruments Does Not?",
+      "summary": "Texas Instruments (TXN) and NVIDIA both sell chips for the data centers now being built. Data centers bring in nearly all of NVIDIA's revenue, while TI sells to industrial and automotive customers as well as data centers. You pay 38.2 times the yearly profit for TI, yet only 28.1 times for NVIDIA. Their latest earnings calls show the two businesses parting ways on supply.",
+      "pub_date": "2026-09-25T14:27:52Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/does-nvidia-offer-texas-instruments-142752053.html"
+    },
+    {
+      "title": "MCHP Expands 48V Power Portfolio: Can It Outpace TXN & ADI?",
+      "summary": "Microchip Technology broadens its 48V power portfolio as data-center revenues surge, targeting AI servers and other high-growth power applications.",
+      "pub_date": "2026-09-25T14:22:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/articles/mchp-expands-48v-power-portfolio-142200932.html"
+    },
+    {
+      "title": "ADI vs. MCHP: Which Semiconductor Stock Has an Upside Now?",
+      "summary": "Analog Devices' broad-based recovery, strong AI infrastructure demand and rising earnings estimates make it more lucrative than Microchip Technology.",
+      "pub_date": "2026-09-25T14:12:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/adi-vs-mchp-semiconductor-stock-141200478.html"
+    },
     {
       "title": "Microchip Technology (MCHP) Has Investors Asking A New Question",
       "summary": "Microchip Technology (MCHP) has launched its PAC1761 and PAC1861 digital power monitor families, a product update that draws attention to how the stock reflects the company\u2019s exposure to 48V power architectures. Recent trading shows how fast sentiment around Microchip Technology can shift. The share price has fallen 15.06% over the past 90 days despite a 14.85% year-to-date share price return, while total shareholder return over five years of 8.54% points to more modest long-run...",
@@ -29,34 +57,6 @@
       "pub_date": "2026-09-23T15:08:50Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/options/articles/far-applied-materials-stock-move-150850848.html"
-    },
-    {
-      "title": "Microchip (MCHP) Closes its Hailo Deal. Why the Chipmaker is Buying Edge AI on the Cheap",
-      "summary": "Microchip Technology Incorporated (NASDAQ:MCHP) said on September 21 that it has completed its acquisition of Hailo. The Israeli company makes processors that run AI on devices rather than in the cloud, covering vision, robotics and what the industry calls physical AI. Microchip did not disclose the price. It said the deal will not have a [\u2026]",
-      "pub_date": "2026-09-22T22:57:31Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/microchip-mchp-closes-hailo-deal-225731812.html"
-    },
-    {
-      "title": "Is Vicor Stock Worth Buying Before Its Second Fab Exists?",
-      "summary": "Vicor (VICR) stock has more than quadrupled over the past year, yet at about $224 it sits roughly 41% below its 52-week high. The opportunity is plain: demand for its power modules, from AI data centers to defense, is filling its first chip fab. The catch is that the growth you would pay for depends on new fabs whose sites Vicor only bought in September.",
-      "pub_date": "2026-09-22T19:35:21Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/vicor-stock-worth-buying-second-193521561.html"
-    },
-    {
-      "title": "What Are AMAT Stock Bears Missing?",
-      "summary": "Applied Materials (AMAT) runs a services business, Applied Global Services, that grew 22% from a year earlier in its latest quarter. You probably think of the company as a seller of chipmaking machines, a business that rises and falls with factory spending. The stock is down 27% over the past three months. So how large is the services business.",
-      "pub_date": "2026-09-22T17:13:02Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amat-stock-bears-missing-171302041.html"
-    },
-    {
-      "title": "Microchip Rises 17% YTD: Should You Buy, Sell or Hold the Stock?",
-      "summary": "MCHP gains 17% YTD as demand, inventory normalization and data-center growth improve, but supply, debt and valuation risks remain.",
-      "pub_date": "2026-09-22T15:36:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microchip-rises-17-ytd-buy-153600758.html"
     }
   ]
 }

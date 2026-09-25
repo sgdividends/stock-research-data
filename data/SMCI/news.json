@@ -1,7 +1,14 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-09-25T16:20:13.602574+00:00",
+  "generated_at": "2026-09-25T23:01:38.858954+00:00",
   "items": [
+    {
+      "title": "What's Going On With Super Micro Stock Thursday",
+      "summary": "Japan's New AI Financing Review Sends Super Micro Stock Higher",
+      "pub_date": "2026-09-25T18:28:24Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/whats-going-super-micro-stock-182824959.html"
+    },
     {
       "title": "HPE vs. Super Micro: Which AI Server Stock Offers the Better Risk-Reward?",
       "summary": "Hewlett Packard Enterprise Company (NYSE:HPE) and Super Micro Computer, Inc. (NASDAQ:SMCI) are both selling the hardware behind AI inference and training, but their valuations imply different levels of risk. HPE trades near 14 times forward earnings, while Supermicro trades below 10 times. The lower multiple is not automatically the bargain. Oracle\u2019s decision to put HPE [\u2026]",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-23T15:03:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/smci-vs-avt-ai-infrastructure-150300193.html"
-    },
-    {
-      "title": "Super Micro Starts Shipping Nvidia Vera Rubin NVL72 Racks \u2014 Why It Matters",
-      "summary": "Supermicro is moving Nvidia\u2019s latest AI platform into customer deployments while bundling the servers with cooling, power and other data-center infrastructure.",
-      "pub_date": "2026-09-23T14:00:29Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/technology/ai/articles/super-micro-starts-shipping-nvidia-140029299.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "ECHO",
-  "generated_at": "2026-09-25T16:19:24.521068+00:00",
+  "generated_at": "2026-09-25T23:01:03.112020+00:00",
   "items": [
+    {
+      "title": "Is EchoStar Stock Underperforming the Nasdaq?",
+      "summary": "EchoStar has underperformed the Nasdaq Composite over the past three months, but analysts remain bullish about the stock.",
+      "pub_date": "2026-09-25T13:45:00Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/echostar-stock-underperforming-nasdaq-134500549.html"
+    },
     {
       "title": "What EchoStar (ECHO)'s NIGCOMSAT JUPITER Gateway Win Means For Shareholders",
       "summary": "Nigerian Communications Satellite Limited (NIGCOMSAT) has selected EchoStar\u2019s Hughes JUPITER scalable gateway system to support its NIGCOMSAT\u20112A and 2B satellites, with ground network preparation and deployment scheduled to begin in 2026 ahead of planned launches in 2028 and 2029. This long\u2011term contract underscores EchoStar\u2019s expanding role in providing secure, high\u2011capacity satellite connectivity across Africa, reinforcing its position in next\u2011generation, infrastructure\u2011level...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-08T16:42:00Z",
       "source": "Proactive",
       "url": "https://finance.yahoo.com/markets/stocks/articles/echostar-shares-rise-ubs-says-164200164.html"
-    },
-    {
-      "title": "Dow closes sharply lower as oil surge fuels inflation fears",
-      "summary": "An escalating US-Canada trade dispute added to inflation concerns at the start of the holiday-shortened week",
-      "pub_date": "2026-09-08T14:10:00Z",
-      "source": "Proactive",
-      "url": "https://finance.yahoo.com/economy/policy/articles/dow-slides-oil-nears-100-141000819.html"
     }
   ]
 }

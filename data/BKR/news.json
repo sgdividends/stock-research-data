@@ -1,7 +1,14 @@
 {
   "ticker": "BKR",
-  "generated_at": "2026-09-25T16:19:06.499888+00:00",
+  "generated_at": "2026-09-25T23:00:51.055082+00:00",
   "items": [
+    {
+      "title": "U.S. Oil, Gas Drilling Perks Up As Pressure Mounts",
+      "summary": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday,",
+      "pub_date": "2026-09-25T17:15:00Z",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/u-oil-gas-drilling-perks-171500350.html"
+    },
     {
       "title": "NeoVolta, Inc. (NEOV) Reports Q4 Loss, Lags Revenue Estimates",
       "summary": "NeoVolta, Inc. (NEOV) delivered earnings and revenue surprises of -140.00% and -99.03%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-16T11:21:23Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/baker-hughes-stock-outperforming-dow-112123678.html"
-    },
-    {
-      "title": "Baker Hughes (BKR) and Venture Global (VG) Team Up for the Next LNG Wave",
-      "summary": "Baker Hughes Company (NASDAQ:BKR) and Venture Global, Inc. (NYSE:VG) are expanding their collaboration through a new set of equipment orders. Under the award, BKR will provide 13 gas compression systems for VG\u2019s Cloud Connector Pipeline project in Louisiana, along with four liquefaction blocks containing eight liquefaction modules to support additional LNG production capacity at the [\u2026]",
-      "pub_date": "2026-09-16T04:20:26Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/energy/articles/baker-hughes-bkr-venture-global-042026260.html"
     }
   ]
 }

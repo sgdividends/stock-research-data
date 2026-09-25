@@ -1,7 +1,14 @@
 {
   "ticker": "ANET",
-  "generated_at": "2026-09-25T16:19:00.548363+00:00",
+  "generated_at": "2026-09-25T23:00:46.670470+00:00",
   "items": [
+    {
+      "title": "What Was Cisco Telling You Before Its Stock Ran?",
+      "summary": "Cisco Systems (CSCO) stock returned 62% in the twelve months to September 24, 2026, against 16% for the S&P 500. A $10,000 holding at the start was worth about $16,220 at the end. The run was about AI data center orders from hyperscalers, the largest cloud companies. You could have read the run early only if two things held: Cisco was saying it, and its results were showing it.",
+      "pub_date": "2026-09-25T20:25:53Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-telling-stock-ran-202553745.html"
+    },
     {
       "title": "Arista Networks (ANET) Draws Fresh AI Attention, Is The Stock Still Cheap?",
       "summary": "Arista Networks (ANET) is back in the spotlight after fresh analyst coverage and fund letters cited the stock as a key beneficiary of AI data center spending and stronger earnings sentiment. Recent trading reflects that enthusiasm. Arista Networks has delivered a 30.5% 90 day share price return and a 54.0% year to date share price return. The 3 year total shareholder return of more than 3x signals strong, sustained momentum as AI networking demand and valuation debates both intensify. Spot...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-24T23:29:53Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-stock-too-dependent-232953632.html"
-    },
-    {
-      "title": "5 Stocks With High ROE to Consider Amid Market Volatility",
-      "summary": "TEL, ANET, ROST, IT and PCAR stand out as cash-rich, high-ROE stocks screened for strong efficiency amid elevated market volatility.",
-      "pub_date": "2026-09-24T14:25:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/5-stocks-high-roe-consider-142500415.html"
     }
   ]
 }
