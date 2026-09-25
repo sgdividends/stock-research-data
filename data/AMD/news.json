@@ -1,7 +1,35 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-09-25T02:58:45.513460+00:00",
+  "generated_at": "2026-09-25T09:16:43.331710+00:00",
   "items": [
+    {
+      "title": "Nasdaq, S&P 500 Futures Rise Despite Surging Treasury Yields: AMD, TSLA, SPCX, AKAM, BE Stocks In Focus",
+      "summary": "Retail sentiment on Stocktwits for SPY has turned \u2018extremely bullish\u2019, while it remained \u2018bullish\u2019 on QQQ.",
+      "pub_date": "2026-09-25T08:29:10Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-rise-082910505.html"
+    },
+    {
+      "title": "Stocktwits AI Roundup: Meta's Muse Lifts Chip Stocks, Anthropic's $11B Akamai Deal And Oracle's New Mexico Snag",
+      "summary": "AI agents, infrastructure spending and data-center delays kept investors focused on the next phase of the AI buildout.",
+      "pub_date": "2026-09-25T07:32:56Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/technology/ai/articles/stocktwits-ai-roundup-metas-muse-073256286.html"
+    },
+    {
+      "title": "AMD vs. Nvidia: Which AI Stock Is the Better Buy?",
+      "summary": "Advanced Micro Devices, Inc. (NASDAQ:AMD) crossed $1 trillion in market value on September 21 after closing roughly 187% higher for 2026. NVIDIA Corporation (NASDAQ:NVDA) was worth about $5.45 trillion as of September 23. The more important difference is valuation. On a common S&P Global basis updated September 24, AMD traded at about 55.6 times forward [\u2026]",
+      "pub_date": "2026-09-25T03:59:09Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-vs-nvidia-ai-stock-035909345.html"
+    },
+    {
+      "title": "AMD, INTC Stocks Extend Rally As Meta's Muse Fuels Bets On An AI-Agent CPU Boom",
+      "summary": "Agentic AI is reshaping expectations for chip infrastructure and CPU demand.",
+      "pub_date": "2026-09-25T03:30:05Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-intc-stocks-extend-rally-033005684.html"
+    },
     {
       "title": "Options Say Marvell Stock Could Halve Or Nearly Double In A Year",
       "summary": "Marvell Technology (MRVL) shares trade near $261, and its options price a one-year range of about $133 to about $514. In plain terms, a rough but ordinary year from here could leave the stock at roughly half today's price or nearly double it. Yet that range is still calmer than the ride holders had over the past twelve months.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-09-24T20:03:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/amd-investors-must-pay-attention-200300659.html"
-    },
-    {
-      "title": "AMD and Micron Get New Price Targets as Taiwan Chip Exports Hit Record $30.8B",
-      "summary": "Taiwan chip exports hit a record $30.8 billion as AMD and Micron break out of the triangles that capped them since July.",
-      "pub_date": "2026-09-24T20:01:38Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/news/amd-micron-price-targets-taiwan-200138586.html"
-    },
-    {
-      "title": "Nvidia, AMD Love This High-Tech Facilitator. So Does Wall Street.",
-      "summary": "After Nvidia, AMD and Apple design the AI chips and TSMC makes them, TSE Technology steps in to complete the process.",
-      "pub_date": "2026-09-24T20:00:08Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/research/ibd-stock-analysis/tse-technology-rides-ai-boom-alongside-amd-apple-nvidia-tsmc/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Nebius Stock Soars 8% as BNP Paribas Delivers Massive Price Target Hike",
-      "summary": "Nebius Stock Jumps After Wall Street Bank Upgrades AI Infrastructure Play",
-      "pub_date": "2026-09-24T18:05:50Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-soars-8-bnp-180550903.html"
-    },
-    {
-      "title": "Arm Drops 3.3% as More AI Cores Test Royalty Economics",
-      "summary": "Agent workloads could multiply CPU demand, but revenue still depends on architecture share and chip mix.",
-      "pub_date": "2026-09-24T17:36:04Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/arm-drops-3-3-more-173604154.html"
     }
   ]
 }

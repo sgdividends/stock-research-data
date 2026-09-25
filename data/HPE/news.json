@@ -1,7 +1,21 @@
 {
   "ticker": "HPE",
-  "generated_at": "2026-09-25T02:59:15.427336+00:00",
+  "generated_at": "2026-09-25T09:17:12.368299+00:00",
   "items": [
+    {
+      "title": "Dell vs. HPE: Which AI Server Stock Is the Better Buy?",
+      "summary": "Dell Technologies Inc. (NYSE:DELL) and Hewlett Packard Enterprise Company (NYSE:HPE) sell the physical systems behind the AI boom. Dell trades near 20 times forward earnings, while HPE is closer to 14 times. That roughly six-turn gap is large enough to change the portfolio decision. We recently examined why Dell and HPE posted record AI demand [\u2026]",
+      "pub_date": "2026-09-25T04:43:17Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-vs-hpe-ai-server-044317178.html"
+    },
+    {
+      "title": "HPE vs. Super Micro: Which AI Server Stock Offers the Better Risk-Reward?",
+      "summary": "Hewlett Packard Enterprise Company (NYSE:HPE) and Super Micro Computer, Inc. (NASDAQ:SMCI) are both selling the hardware behind AI inference and training, but their valuations imply different levels of risk. HPE trades near 14 times forward earnings, while Supermicro trades below 10 times. The lower multiple is not automatically the bargain. Oracle\u2019s decision to put HPE [\u2026]",
+      "pub_date": "2026-09-25T04:27:51Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hpe-vs-super-micro-ai-042751635.html"
+    },
     {
       "title": "What Are Everpure Stock Bulls Not Worried About?",
       "summary": "Everpure (P) grew revenue 38% from a year earlier in fiscal Q2 2027, and management expects that pace to last for some time. The stock costs 144.1 times its past year of earnings, against 22.4 for the S&P 500. Two things must hold. Customers must keep paying far higher prices, and Everpure must keep getting parts at costs it can absorb. Is the cost of Everpure's parts already climbing.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-24T13:45:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/hpe-vs-dell-ai-infrastructure-134500410.html"
-    },
-    {
-      "title": "Zacks Industry Outlook Highlights Seagate Technology, Hewlett Packard, Silicon Motion Technology and Infleqtion",
-      "summary": "Seagate Technology, Hewlett Packard Enterprise and Silicon Motion benefit from AI, cloud and integrated systems demand, while Infleqtion advances quantum growth.",
-      "pub_date": "2026-09-24T09:25:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-seagate-092500457.html"
-    },
-    {
-      "title": "Hewlett Packard Enterprise (HPE) Brings Quantum Computing Into On Premises HPC",
-      "summary": "Hewlett Packard Enterprise (NYSE:HPE) said it will integrate QuEra Computing's fault-tolerant quantum systems with its Cray supercomputers for on premises HPC environments. The collaboration targets national labs, enterprises and high performance computing centers that want quantum and classical workloads on a single infrastructure. QuEra's quantum technology is being positioned for scientific and energy research tasks that run alongside traditional Cray supercomputing jobs inside existing...",
-      "pub_date": "2026-09-24T04:29:47Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/articles/hewlett-packard-enterprise-hpe-brings-042947731.html"
     }
   ]
 }

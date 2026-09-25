@@ -1,7 +1,14 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-09-25T02:58:58.028845+00:00",
+  "generated_at": "2026-09-25T09:16:56.133306+00:00",
   "items": [
+    {
+      "title": "CrowdStrike (CRWD) Joined A Founding Alliance To Secure AI Agents",
+      "summary": "CrowdStrike Holdings (NasdaqGS:CRWD) has joined peers as a founding member of the new Blueprint Alliance to secure AI agents. The Blueprint Alliance brings together AWS, Google Cloud, Okta, Salesforce, ServiceNow, Zscaler and others in a shared security effort. Members plan to create common principles and a reference architecture that enterprises can use to manage and protect AI agents. The Blueprint Alliance launch only captures one angle of CrowdStrike's AI agent push, which extends beyond...",
+      "pub_date": "2026-09-25T06:10:18Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-joined-founding-alliance-061018474.html"
+    },
     {
       "title": "Stock Market Today, Sept. 24: Oracle Stock Dips As it Issues Force Majeure Notice on Project Jupiter Data Center",
       "summary": "Today, Sept. 24, 2026, the enterprise cloud giant filed to shield itself from cost and payment risk as the New Mexico facility faces public opposition and permitting delays.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-24T12:59:37Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-big-test-delivering-125937736.html"
-    },
-    {
-      "title": "Can Salesforce\u2019s New AIforce Layer Deepen Its Ecosystem Moat and Monetization Story for CRM?",
-      "summary": "At Dreamforce 2026, Salesforce unveiled AIforce, an open, provider-agnostic AI layer, and highlighted rapid adoption of its AI products, including Agentforce and Data Cloud 360, supported by integrations with AWS and Google Cloud. This push to embed governed, agentic AI across partner ecosystems and customer workflows suggests Salesforce is increasingly positioning its platform as the operational backbone for enterprise AI. We\u2019ll now examine how AIforce\u2019s open, governed AI layer may...",
-      "pub_date": "2026-09-24T09:14:52Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-aiforce-layer-deepen-ecosystem-091452605.html"
     }
   ]
 }

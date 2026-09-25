@@ -1,7 +1,14 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-09-25T02:59:30.329437+00:00",
+  "generated_at": "2026-09-25T09:17:26.153136+00:00",
   "items": [
+    {
+      "title": "CrowdStrike (CRWD) Joined A Founding Alliance To Secure AI Agents",
+      "summary": "CrowdStrike Holdings (NasdaqGS:CRWD) has joined peers as a founding member of the new Blueprint Alliance to secure AI agents. The Blueprint Alliance brings together AWS, Google Cloud, Okta, Salesforce, ServiceNow, Zscaler and others in a shared security effort. Members plan to create common principles and a reference architecture that enterprises can use to manage and protect AI agents. The Blueprint Alliance launch only captures one angle of CrowdStrike's AI agent push, which extends beyond...",
+      "pub_date": "2026-09-25T06:10:18Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-joined-founding-alliance-061018474.html"
+    },
     {
       "title": "Stock Market Today, Sept. 24: Oracle Stock Dips As it Issues Force Majeure Notice on Project Jupiter Data Center",
       "summary": "Today, Sept. 24, 2026, the enterprise cloud giant filed to shield itself from cost and payment risk as the New Mexico facility faces public opposition and permitting delays.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-24T14:30:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/now-expands-legacy-replacement-push-143000124.html"
-    },
-    {
-      "title": "Is ServiceNow (NOW) Still Undervalued As AI Workflow Wins Lift Sentiment?",
-      "summary": "ServiceNow (NOW) stock is back in focus after partner INRY reported tangible efficiency gains from its EmployeeWorks rollout, putting fresh attention on how AI driven workflows could influence investor expectations for the platform. ServiceNow has ridden a sharp rebound in sentiment, with a 90 day share price return of 57.26% and a 30 day share price return of 9.94%. This points to clear upward momentum despite a year to date share price decline of 4.52% and a 1 year total shareholder return...",
-      "pub_date": "2026-09-24T12:11:11Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-now-still-undervalued-ai-121111710.html"
     }
   ]
 }

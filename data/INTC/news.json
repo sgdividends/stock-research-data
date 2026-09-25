@@ -1,7 +1,14 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-09-25T02:59:17.628673+00:00",
+  "generated_at": "2026-09-25T09:17:14.439338+00:00",
   "items": [
+    {
+      "title": "AMD, INTC Stocks Extend Rally As Meta's Muse Fuels Bets On An AI-Agent CPU Boom",
+      "summary": "Agentic AI is reshaping expectations for chip infrastructure and CPU demand.",
+      "pub_date": "2026-09-25T03:30:05Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-intc-stocks-extend-rally-033005684.html"
+    },
     {
       "title": "Options Say Marvell Stock Could Halve Or Nearly Double In A Year",
       "summary": "Marvell Technology (MRVL) shares trade near $261, and its options price a one-year range of about $133 to about $514. In plain terms, a rough but ordinary year from here could leave the stock at roughly half today's price or nearly double it. Yet that range is still calmer than the ride holders had over the past twelve months.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-24T17:14:39Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/im-buying-more-nvidia-stock-171439070.html"
-    },
-    {
-      "title": "NVIDIA Stock Looks Expensive Until You Price The Vera Rubin Ramp",
-      "summary": "NVIDIA (NVDA) stock trades near $225, about 28.3 times its adjusted earnings over the past twelve months. Adjusted here means normalized net income with stock-based compensation added back, the same broad basis analysts use in their forecasts. For a stock near its 52-week high, that looks steep. But the multiple leaves out the growth analysts already expect, and that growth depends on how much NVIDIA can supply.",
-      "pub_date": "2026-09-24T16:09:57Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-looks-expensive-until-160957599.html"
     }
   ]
 }

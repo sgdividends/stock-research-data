@@ -1,11 +1,32 @@
 {
   "ticker": "AKAM",
-  "generated_at": "2026-09-25T02:58:44.588363+00:00",
+  "generated_at": "2026-09-25T09:16:42.326854+00:00",
   "items": [
+    {
+      "title": "Akamai and Anthropic sign $11.6bn cloud infrastructure agreement",
+      "summary": "The deal is designed to support Anthropic\u2019s increasing demand for CPU workloads by using Akamai Cloud\u2019s distributed AI infrastructure.",
+      "pub_date": "2026-09-25T09:02:11Z",
+      "source": "Verdict",
+      "url": "https://finance.yahoo.com/technology/ai/articles/akamai-anthropic-sign-11-6bn-090211765.html"
+    },
+    {
+      "title": "Nasdaq, S&P 500 Futures Rise Despite Surging Treasury Yields: AMD, TSLA, SPCX, AKAM, BE Stocks In Focus",
+      "summary": "Retail sentiment on Stocktwits for SPY has turned \u2018extremely bullish\u2019, while it remained \u2018bullish\u2019 on QQQ.",
+      "pub_date": "2026-09-25T08:29:10Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-futures-rise-082910505.html"
+    },
+    {
+      "title": "Akamai\u2019s $11.6B Deal With Anthropic Is Not a Cloud Contract \u2013 It Is an Equity Bet on the Model Layer",
+      "summary": "Akamai\u2019s $11.6 billion, seven-year cloud infrastructure deal with Anthropic, announced September 24, 2026, signals a definitive shift in the AI ecosystem: infrastructure providers are no longer content to merely sell capacity. They are aggressively buying equity in the model layer they serve, effectively becoming venture-capital-backed landlords of the intelligence age. The deal, expandable to approximately [\u2026]",
+      "pub_date": "2026-09-25T06:47:36Z",
+      "source": "Forkast News",
+      "url": "https://finance.yahoo.com/technology/ai/articles/akamai-11-6b-deal-anthropic-064736901.html"
+    },
     {
       "title": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Holds Semi Event",
       "summary": "The stock market rallied to close mixed even as yields and oil prices kept rising. Taiwan Semi is a buy. A Tesla Semi event took place.",
-      "pub_date": "2026-09-25T02:46:35Z",
+      "pub_date": "2026-09-25T03:07:06Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-resilient-yields-oil-prices-rising-tesla-semi-event/?src=A00220&yptr=yahoo"
     },
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-24T22:03:30Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/technology/ai/articles/akam-stock-soars-20-hours-220330880.html"
-    },
-    {
-      "title": "Stocks to Watch Recap: Akamai, Oracle, Costco, MGM",
-      "summary": "\u2197\ufe0f Akamai Technologies (AKAM): Anthropic will pay the company at least $11.6 billion to use its cloud infrastructure and software over seven years in an expansion of the two companies\u2019 partnership. Akamai shares soared 20% in postmarket trading.",
-      "pub_date": "2026-09-24T21:52:37Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-24-2026/card/stocks-to-watch-mgm-meta-costco-YICTqcAcMzAvfBRykVKa?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Here's Why Akamai Technologies (AKAM) Fell More Than Broader Market",
-      "summary": "In the latest trading session, Akamai Technologies (AKAM) closed at $110.41, marking a -6.78% move from the previous day.",
-      "pub_date": "2026-09-24T21:15:03Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-akamai-technologies-akam-211503264.html"
-    },
-    {
-      "title": "Akamai Strikes $11.6 Billion Deal With Anthropic",
-      "summary": "Artificial intelligence company Anthropic has made an $11.6 billion deal with cloud infrastructure firm  Akamai  for its computing services for the next seven years, Akamai announced, with an option to expand the deal by another $9 billion if more compute is needed.  Akamai stock rose more than 18% to $130.83 in after-hours trading on the news.  The deal will \u201csupport Anthropic\u2019s accelerating CPU workload demands by leveraging Akamai Cloud\u2019s distributed AI infrastructure and software,\u201d Akamai said.",
-      "pub_date": "2026-09-24T21:15:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/akamai-deal-anthropic-compute-0ba9783d?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "AMZN",
-  "generated_at": "2026-09-25T02:58:46.101880+00:00",
+  "generated_at": "2026-09-25T09:16:44.112772+00:00",
   "items": [
     {
       "title": "Nvidia leads tech stocks lower as Treasury yields surge: AlphaCheck",
@@ -8,6 +8,27 @@
       "pub_date": "2026-09-24T13:37:44Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/nvidia-leads-tech-stocks-lower-as-treasury-yields-surge-alphacheck-133744347.html"
+    },
+    {
+      "title": "AMZN, META, GOOGL, MSFT, ORCL: Michael Burry Sounds Fresh Alarm On Big Tech\u2019s AI Spending, Warns Of Massive Write-Offs In Two Years",
+      "summary": "Burry flags rising leverage, off-balance-sheet commitments and accounting practices as AI infrastructure spending accelerates.",
+      "pub_date": "2026-09-25T05:46:58Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amzn-meta-googl-msft-orcl-054658895.html"
+    },
+    {
+      "title": "Tech Companies\u2019 Cash Burn Isn\u2019t the Problem You Might Think",
+      "summary": "The five hyperscalers are spending some $1 trillion a year to build out artificial-intelligence infrastructure, and their annual free cash flow is expected to show a decline of $440 billion.",
+      "pub_date": "2026-09-25T05:30:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/tech-companies-cash-burn-problem-hyperscalers-cd28aeef?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Microsoft vs. Amazon: Which AI Cloud Stock Converts Capex Into Profits Better?",
+      "summary": "Microsoft Corporation (NASDAQ:MSFT) and Amazon.com, Inc. (NASDAQ:AMZN) are spending at extraordinary scale to own the AI cloud. Their valuations are surprisingly close: Microsoft trades near 25.3 times forward earnings, while Amazon is around 27.7 times. The harder question is which company is turning those infrastructure dollars into better economics. That question has become more important [\u2026]",
+      "pub_date": "2026-09-25T03:52:15Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-vs-amazon-ai-cloud-035215434.html"
     },
     {
       "title": "Chuck Schumer Says Senate Heard \u2018Nothing But Crickets\u2019 on AI Risk Briefing Request: \u2018Maybe Trump\u2019s Not Worried Because\u2026\u2019",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-24T22:44:49Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/small-business/articles/beloved-travel-brand-closing-22-221951180.html"
-    },
-    {
-      "title": "Jeff Bezos\u2019 Blue Origin Is Fueled With $30 Billion of His Fortune",
-      "summary": "The space company wants to rapidly boost revenue over the next few years, betting its huge rockets will make it a powerful industry player.",
-      "pub_date": "2026-09-24T22:41:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/jeff-bezos-blue-origin-is-fueled-with-30-billion-of-his-fortune-b7407e6e?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Blue Origin raises $10B as Bezos\u2019 total investment hits $32B - WSJ",
-      "summary": "Investing.com -- Jeff Bezos is doubling down on his ambitions in the space race. According to details reported by the Wall Street Journal, the Amazon founder has now poured a staggering $32 billion into Blue Origin since its founding in 2000, funding the venture through strategic sell-offs of his Amazon stock.",
-      "pub_date": "2026-09-24T20:55:21Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/blue-origin-raises-10b-bezos-205521748.html"
-    },
-    {
-      "title": "Shopify Opens Its Doors to Muse, Here\u2019s Why Amazon Won\u2019t",
-      "summary": "Shopify Inc. (NASDAQ:SHOP) has signed a deal to make eligible Shopify stores fully shoppable through Meta\u2019s new AI agent Muse. Amazon is taking the opposite approach, actively blocking Muse and a growing list of AI shopping tools from its platform. The contrast reflects two different approaches to agentic commerce. Shopify is opening its doors on [\u2026]",
-      "pub_date": "2026-09-24T20:43:47Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/shopify-opens-doors-muse-why-204347730.html"
     }
   ]
 }
