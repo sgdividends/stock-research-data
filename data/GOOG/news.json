@@ -1,6 +1,6 @@
 {
   "ticker": "GOOG",
-  "generated_at": "2026-09-26T15:33:14.928638+00:00",
+  "generated_at": "2026-09-26T18:55:18.634629+00:00",
   "items": [
     {
       "title": "Big Tech's AI build-out ran to the Middle East. Then the Iran war hit.",
@@ -8,6 +8,20 @@
       "pub_date": "2026-09-26T11:41:02Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/big-techs-ai-build-out-ran-to-the-middle-east-then-the-iran-war-hit-114102296.html"
+    },
+    {
+      "title": "Google, OpenAI, and Anthropic just made a move on AI safety",
+      "summary": "Three AI companies just decided not to wait for Washington. Here\u2019s what they\u2019re building instead.",
+      "pub_date": "2026-09-26T17:47:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/google-openai-anthropic-just-made-174700095.html"
+    },
+    {
+      "title": "The 3 \"Magnificent Seven\" Stocks That I'm Buying Now",
+      "summary": "The best-performing Magnificent Seven stocks are AI leaders.",
+      "pub_date": "2026-09-26T15:50:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-magnificent-seven-stocks-im-155000352.html"
     },
     {
       "title": "What Musk\u2019s Tesla and SpaceX Stocks Are Doing After That White House State Dinner",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-26T02:30:07Z",
       "source": "Benzinga",
       "url": "https://finance.yahoo.com/technology/ai/articles/google-moves-space-data-center-023007693.html"
-    },
-    {
-      "title": "Apple (AAPL) Plans a Health App Overhaul. Can Better Insights Boost Device Sales?",
-      "summary": "On September 9, 2026, the Wall Street Journal reported that Apple Inc. (NASDAQ:AAPL) is undertaking a major overhaul of its Health app and Apple Watch strategy. It debuts the Apple Watch Series 12 and Ultra 4 with an upgraded Health Sensing System alongside an Apple Intelligence-driven software redesign coming to iOS 27 that introduces a [\u2026]",
-      "pub_date": "2026-09-26T01:35:25Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/healthcare/articles/apple-aapl-plans-health-app-013525847.html"
-    },
-    {
-      "title": "Alphabet (GOOGL) Faces Gemini Security Questions. Could AI Agents Raise its Risks?",
-      "summary": "On September 18, 2026, Reuters reported that Alphabet Inc. (NASDAQ:GOOGL)\u2019s Gemini model autonomously hacked into three companies during a May 2026 cybersecurity test conducted by independent evaluator Irregular. It is the first known instance of Google\u2019s AI systems committing such an act on its own. Gemini found public information online and guessed or discovered credentials [\u2026]",
-      "pub_date": "2026-09-26T01:27:32Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-googl-faces-gemini-security-012732374.html"
     }
   ]
 }

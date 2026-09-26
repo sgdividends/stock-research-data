@@ -1,7 +1,14 @@
 {
   "ticker": "EXPE",
-  "generated_at": "2026-09-26T15:33:09.794955+00:00",
+  "generated_at": "2026-09-26T18:55:13.703734+00:00",
   "items": [
+    {
+      "title": "Banks have profited from idle cash for years. AI agents could change that.",
+      "summary": "Wall Street's latest artificial intelligence fear for US banks is that AI agents might help customers get a better deal on their cash.",
+      "pub_date": "2026-09-26T15:42:15Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/banks-have-profited-from-idle-cash-for-years-ai-agents-could-change-that-154215138.html"
+    },
     {
       "title": "Meta Stock Soared 27% on Muse AI. The Hard Part Comes Next.",
       "summary": "Meta  Platforms\u2019 Muse personal agent isn\u2019t even three weeks old, but the stock is up 27% in that period.  Muse and similar artificial-intelligence-based personal agents aren\u2019t just apps.  If personal agents become widespread, websites and apps will likely have separate ways for humans and machines to interact with them.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-24T20:16:14Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/case-airbnb-stock-rests-one-201614865.html"
-    },
-    {
-      "title": "Bulls vs. Bears: How to Interpret Unusual Options Activity in Expedia Stock",
-      "summary": "Yesterday\u2019s unusual options activity hid the real Expedia bet: 4,991 March 2027 $220 puts paired with $330 calls, most likely a long strangle, but it could also be a bearish risk reversal bet. It comes down to the trade prices.",
-      "pub_date": "2026-09-24T18:17:02Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/options/articles/bulls-vs-bears-interpret-unusual-181702375.html"
     }
   ]
 }
