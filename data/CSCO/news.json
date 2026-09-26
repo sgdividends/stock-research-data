@@ -1,6 +1,6 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-09-26T08:59:19.741460+00:00",
+  "generated_at": "2026-09-26T15:33:01.230764+00:00",
   "items": [
     {
       "title": "How to make sense of 7% mortgage rates and Oracle's AI data center disruption",
@@ -31,6 +31,13 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-one-number-could-153006490.html"
     },
     {
+      "title": "NVIDIA\u2019s Next AI Chip Ramp Could Open the Door to Another Major Stock Move",
+      "summary": "NVIDIA's forecast to double chip volume, near-unanimous analyst Buy ratings, and rising price targets underscore a bullish outlook, with OEMs like Dell and HPE also poised to benefit.",
+      "pub_date": "2026-09-25T13:50:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-next-ai-chip-ramp-135000549.html"
+    },
+    {
       "title": "Arista vs. Cisco: Is Faster AI Growth Worth Twice the Earnings Multiple?",
       "summary": "Arista Networks, Inc. (NYSE:ANET) and Cisco Systems, Inc. (NASDAQ:CSCO) are both benefiting as AI clusters turn networking into a larger part of the data-center bill. Arista is growing much faster, but investors are paying about 43.8 times forward earnings for that growth versus roughly 20.7 times for Cisco. That valuation gap makes the pair more [\u2026]",
       "pub_date": "2026-09-25T04:24:50Z",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-24T22:02:52Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/changed-dells-story-220252838.html"
-    },
-    {
-      "title": "Could Cisco (CSCO)\u2019s Networking Power Give Infleqtion (INFQ) a Major Edge in Quantum Computing?",
-      "summary": "Infleqtion, Inc. (NYSE:INFQ) announced a joint research and development collaboration with Cisco Systems, Inc. (NASDAQ:CSCO) on September 10, 2026, to connect, operate, and scale quantum systems into distributed networks. By linking Infleqtion\u2019s neutral-atom quantum processors and sensors with Cisco\u2019s quantum networking stack, the companies aim to transition standalone quantum hardware into scalable, interconnected networks. As [\u2026]",
-      "pub_date": "2026-09-24T21:59:41Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/articles/could-cisco-csco-networking-power-215941953.html"
     }
   ]
 }
