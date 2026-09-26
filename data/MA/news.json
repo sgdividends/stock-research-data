@@ -1,7 +1,14 @@
 {
   "ticker": "MA",
-  "generated_at": "2026-09-25T23:01:22.258287+00:00",
+  "generated_at": "2026-09-26T03:02:27.584078+00:00",
   "items": [
+    {
+      "title": "Apple (AAPL) Eyes an Apple Pay Launch in India. How Much can it Grow Without UPI?",
+      "summary": "On September 18, 2026, Reuters reported that Apple Inc. (NASDAQ:AAPL) is preparing to launch Apple Pay in India next month, starting with Axis Bank credit cards, the first banking partner in what will be a phased, bank-by-bank rollout. The launch is enabled by a Reserve Bank of India rule change allowing biometric authentication for card [\u2026]",
+      "pub_date": "2026-09-26T00:56:34Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/articles/apple-aapl-eyes-apple-pay-005634655.html"
+    },
     {
       "title": "How Much Upside Does PayPal Stock Have Without A Buyer?",
       "summary": "PayPal (PYPL) stock has gained about 24% over the past three months (as of Sept. 24, 2026), but it is still down 21% over the past year. In late August, the shares fell 13% in premarket trading after Bloomberg News reported that a consortium of Advent International and Stripe had abandoned its pursuit of PayPal.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-24T21:12:43Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/ai/articles/mastercard-faster-services-growth-could-211243924.html"
-    },
-    {
-      "title": "Visa Share Rises as Payment Networks Standardize AI-Agent Identity",
-      "summary": "Common agent verification could protect Visa's role even when software--not consumers--initiates transactions.",
-      "pub_date": "2026-09-24T19:21:29Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/visa-share-rises-payment-networks-192129440.html"
     }
   ]
 }
