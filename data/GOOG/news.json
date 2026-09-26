@@ -1,6 +1,6 @@
 {
   "ticker": "GOOG",
-  "generated_at": "2026-09-26T18:55:18.634629+00:00",
+  "generated_at": "2026-09-26T22:18:48.851209+00:00",
   "items": [
     {
       "title": "Big Tech's AI build-out ran to the Middle East. Then the Iran war hit.",
@@ -8,6 +8,20 @@
       "pub_date": "2026-09-26T11:41:02Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/big-techs-ai-build-out-ran-to-the-middle-east-then-the-iran-war-hit-114102296.html"
+    },
+    {
+      "title": "Elon Musk Responds With Two Emojis as Google CEO Sundar Pichai Says Project Suncatcher Heads to Space: 'Can Our TPUs Survive...'",
+      "summary": "Alphabet Inc.\u2018s CEO Sundar Pichai announced that Google\u2019s Project Suncatcher will conduct its first-ever test in space, with the company preparing to evaluate the performance of its AI chips, Tensor Processing Units (TPUs), in orbit. Pichai said in a post...",
+      "pub_date": "2026-09-26T20:30:08Z",
+      "source": "Benzinga",
+      "url": "https://tech.yahoo.com/ai/gemini/articles/elon-musk-responds-two-emojis-203008182.html"
+    },
+    {
+      "title": "\u2018Don\u2019t Ship Products Until They\u2019re in Control\u2019: Nvidia\u2019s Huang Weighs In on AI Safety Debate",
+      "summary": "Like many others, he\u2019s expressed some confusion about Sam Altman and Dario Amodei\u2019s words versus their actions.",
+      "pub_date": "2026-09-26T19:59:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/nvidia-jensen-huang-ai-openai-anthropic-a9995f13?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Google, OpenAI, and Anthropic just made a move on AI safety",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-26T13:02:00Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/most-investors-own-seven-magnificent-130200138.html"
-    },
-    {
-      "title": "Fidelity\u2019s Fundamental Large Cap Growth ETF, Explained in Plain English",
-      "summary": "Fidelity's actively managed large-cap growth ETF bets heavily on a handful of AI-linked giants, and that concentration cuts both ways. Here is what the portfolio actually owns and whether the active premium is worth paying.",
-      "pub_date": "2026-09-26T03:46:50Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fidelity-fundamental-large-cap-growth-034650447.html"
-    },
-    {
-      "title": "Google Moves Up its Space Data Center Timeline \u2014 Project Suncatcher Launches Oct. 1",
-      "summary": "Alphabet Inc. will launch an experimental AI satellite as part of Project Suncatcher on Oct. 1, according to a report from the New York Times. The satellite is the first hardware from Project Suncatcher, Google\u2019s effort to build AI data...",
-      "pub_date": "2026-09-26T02:30:07Z",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/technology/ai/articles/google-moves-space-data-center-023007693.html"
     }
   ]
 }
