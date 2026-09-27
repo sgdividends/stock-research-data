@@ -1,7 +1,14 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-09-27T03:08:00.408811+00:00",
+  "generated_at": "2026-09-27T09:44:29.999894+00:00",
   "items": [
+    {
+      "title": "McDonald\u2019s New Investment Plan Signals Long-Term Growth\u2014and a Short-Term Reality Check",
+      "summary": "McDonald\u2019s unveiled its NEXT growth strategy, which includes billions of dollars in investments including AI-powered operating systems.",
+      "pub_date": "2026-09-27T07:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/mcdonalds-stock-ai-growth-restaurants-19e4906c?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "JPMorgan Predicts IREN Will Generate $24 Billion in Annual Revenue by 2030",
       "summary": "JPMorgan just flipped its IREN rating from Underweight to Overweight and attached a price target that implies the company barely exists yet relative to what it could become, and the math behind that call raises a question every investor in AI infrastructure needs to answer.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-25T20:12:36Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-chase-jpm-stock-could-201236935.html"
-    },
-    {
-      "title": "J.P. Morgan Loses Fight to Overturn $4.25 Million Award to Advisor Fired Over Super Bowl Platter",
-      "summary": "A federal court in California ruled that the firm must pay damages to a former advisor who claimed that he was wrongfully terminated.",
-      "pub_date": "2026-09-25T19:08:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/advisor/articles/j-p-morgan-award-to-advisor-fired-over-super-bowl-party-platter-bd6ef41e?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
