@@ -1,7 +1,14 @@
 {
   "ticker": "SPGI",
-  "generated_at": "2026-09-27T16:13:57.474798+00:00",
+  "generated_at": "2026-09-27T22:46:17.927568+00:00",
   "items": [
+    {
+      "title": "S&P Global Expands into Onchain Finance with OpenZeppelin Deal",
+      "summary": "S&P Global Inc. (NYSE:SPGI) has agreed to acquire OpenZeppelin, a provider of smart-contract security infrastructure for onchain finance. OpenZeppelin\u2019s Contracts library underpins more than $37 trillion in value transferred, while the company has completed 900+ security engagements and identified more than 10,000 vulnerabilities before production. Financial terms were not disclosed, and S&P Global said the [\u2026]",
+      "pub_date": "2026-09-27T20:16:24Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/p-global-expands-onchain-finance-201624952.html"
+    },
     {
       "title": "Bond Volatility Has Charles Schwab Stock And MarketAxess In Focus",
       "summary": "Bond markets are whipping around, Treasury yields sit above 5%, and the old playbook for what counts as a \u201crisk\u2011free\u201d return suddenly feels out of date. That kind of shock can punish some shares while creating fresh openings for others, as money chases volatility instead of hiding from it. This article explains how that backdrop relates to three specific stocks that are exposed to the latest bond market storm. The three stocks below are only a sample. The full screen surfaced 48 more listed...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-25T20:25:53Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-telling-stock-ran-202553745.html"
-    },
-    {
-      "title": "Is Home Depot's Next Big Thing Already In Its Stores?",
-      "summary": "Home Depot (HD) shares have lost 27% over the past year, including dividends, while the S&P 500 returned 17.1%. A $10,000 holding a year ago is worth about $7,310 today. Management says housing affordability still weighs on bigger home projects. One part of the company is growing anyway: SRS, a unit with its own branches that sells to professionals. Is SRS already paying off inside Home Depot's own stores.",
-      "pub_date": "2026-09-25T20:17:44Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/real-estate/articles/home-depots-next-big-thing-201744883.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-09-27T16:13:07.578231+00:00",
+  "generated_at": "2026-09-27T22:45:34.497588+00:00",
   "items": [
+    {
+      "title": "IBM\u2019s Dividend Survived the Old IBM. Can It Survive the New One?",
+      "summary": "IBM has raised its dividend every year since 2016 without missing a beat, but the company writing those checks today barely resembles the one that started the streak. The question is whether the math still works when acquisitions, quantum bets, and mounting debt all compete for the same cash.",
+      "pub_date": "2026-09-27T18:20:45Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ibm-dividend-survived-old-ibm-182045150.html"
+    },
     {
       "title": "4 Dividend Rules That Keep Retirees From Buying a Payout That Gets Cut",
       "summary": "A fat dividend yield can signal generosity or a countdown clock, and retirees who chase the wrong one lose twice when the payout finally breaks. Four tests separate the durable payers from the traps before the cut arrives.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-25T04:24:50Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/arista-vs-cisco-faster-ai-042450079.html"
-    },
-    {
-      "title": "Is Arista Networks Stock Too Dependent On Demand Holding Up?",
-      "summary": "Arista Networks (ANET) ended fiscal Q2 2026 with about $9.7 billion of multi-year purchase commitments. These are promises to buy from its suppliers over several years. If demand for its switches slows, those promises remain. Will the company's sales keep pace with what it has promised its suppliers.",
-      "pub_date": "2026-09-24T23:29:53Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-stock-too-dependent-232953632.html"
     }
   ]
 }
