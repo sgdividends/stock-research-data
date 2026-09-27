@@ -1,7 +1,14 @@
 {
   "ticker": "NTAP",
-  "generated_at": "2026-09-26T22:19:09.722764+00:00",
+  "generated_at": "2026-09-27T03:08:10.543156+00:00",
   "items": [
+    {
+      "title": "NetApp (NTAP) Acquires AI Storage Software Firm To Expand AI Infrastructure",
+      "summary": "NetApp (NasdaqGS:NTAP) disclosed plans to acquire UK-based PEAK:AIO, a provider of high-performance storage software for AI workloads. The deal is expected to add advanced metadata capabilities and a parallel file system to NetApp's existing data infrastructure portfolio. Management highlighted that PEAK:AIO's technology is aimed at customers running large GPU clusters and enterprise-scale AI solutions. NetApp's move to acquire PEAK:AIO is worth weighing alongside the rest of our findings on...",
+      "pub_date": "2026-09-26T22:06:29Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/netapp-ntap-acquires-ai-storage-220629407.html"
+    },
     {
       "title": "3 Reasons We Love NetApp (NTAP)",
       "summary": "The past six months have been a windfall for NetApp\u2019s shareholders. The company\u2019s stock price has jumped 88.1%, hitting $198.42 per share. This was partly due to its solid quarterly results, and the performance may have investors wondering how to approach the situation.",
@@ -12,7 +19,7 @@
     {
       "title": "Are AI Memory Stocks Ready For Another Run? Micron, Sandisk Attempt To Clear New Buy Points",
       "summary": "Are AI memory stocks ready to run again? Micron stock, Sandisk and SK Hynix are in or near buy zones in the ongoing market rally.",
-      "pub_date": "2026-09-25T15:57:44Z",
+      "pub_date": "2026-09-25T12:00:20Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/research/ibd-industry-themes/micron-stock-mu-sandisk-sndk-memory-stocks/?src=A00220&yptr=yahoo"
     },
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-24T17:30:15Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/seagate-stock-bigger-ai-connection-173015231.html"
-    },
-    {
-      "title": "AI Stock NetApp Hits Early Buy Trigger After Big Support At A Key Level",
-      "summary": "NetApp stock rallied sharply Thursday, hitting an early buy trigger. The AI name boasts accelerating quarterly earnings and sales growth.",
-      "pub_date": "2026-09-24T15:24:53Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/research/netapp-stock-ntap/?src=A00220&yptr=yahoo"
     }
   ]
 }
