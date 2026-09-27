@@ -1,7 +1,14 @@
 {
   "ticker": "KR",
-  "generated_at": "2026-09-27T09:44:31.722706+00:00",
+  "generated_at": "2026-09-27T16:13:33.898323+00:00",
   "items": [
+    {
+      "title": "Kroger tests a significant change in store hours for customers",
+      "summary": "Kroger is revisiting an approach it abandoned as it contends with a challenging sales environment.",
+      "pub_date": "2026-09-27T13:33:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/small-business/articles/kroger-tests-significant-change-store-133300409.html"
+    },
     {
       "title": "Kroger pulls a gas perk as pump prices set a September record",
       "summary": "The switch happens automatically, so many won\u2019t notice until they\u2019re at the pump.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-24T09:21:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-industry-outlook-highlights-walmart-092100889.html"
-    },
-    {
-      "title": "Kroger\u2019s AI focus is on \u2018flexibility and control,\u2019 digital chief says",
-      "summary": "From bridging the digital and physical shopping worlds to further ramping up effective personalization, the grocer\u2019s chief digital officer delved into the company\u2019s priorities.",
-      "pub_date": "2026-09-23T15:00:00Z",
-      "source": "Grocery Dive",
-      "url": "https://finance.yahoo.com/technology/ai/articles/kroger-ai-focus-flexibility-control-150000085.html"
     }
   ]
 }

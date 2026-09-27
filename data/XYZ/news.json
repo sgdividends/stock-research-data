@@ -1,7 +1,14 @@
 {
   "ticker": "XYZ",
-  "generated_at": "2026-09-27T09:45:07.697849+00:00",
+  "generated_at": "2026-09-27T16:14:11.834323+00:00",
   "items": [
+    {
+      "title": "SoFi Is Bypassing the Banking Bottleneck With Stablecoin Settlement",
+      "summary": "SoFi Technologies is using its national bank charter to settle roughly $25 billion in annualized Mastercard transaction volume via its SoFiUSD stablecoin, cutting costs and drawing commercial deposits.",
+      "pub_date": "2026-09-26T15:40:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/sofi-bypassing-banking-bottleneck-stablecoin-154000764.html"
+    },
     {
       "title": "Block Expands Square and Cash App's Reach With Apple & Workday Deals",
       "summary": "XYZ expands Square and Cash App through Apple and Workday integrations, aiming to boost merchant discovery, direct deposits and engagement.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-23T13:43:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/blocks-afterpay-scores-fanatics-expand-134300354.html"
-    },
-    {
-      "title": "Block (XYZ) Gains A National Proof Point For Its Commerce Ecosystem",
-      "summary": "Block (NYSE:XYZ) is expanding its Square partnership with Ideal Nutrition as the meal prep brand rolls out nationally across the US. Ideal Nutrition is adopting Square tools across in-store POS, online ordering, loyalty programs, and franchise management for its expansion. The rollout includes AI-driven demand forecasting and cross-platform integrations that link Ideal Nutrition\u2019s retail, logistics, and customer data in one system. Ideal Nutrition\u2019s Square-powered national expansion and...",
-      "pub_date": "2026-09-23T10:14:28Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/articles/block-xyz-gains-national-proof-101428224.html"
     }
   ]
 }

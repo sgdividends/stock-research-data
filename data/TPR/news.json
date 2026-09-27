@@ -1,7 +1,14 @@
 {
   "ticker": "TPR",
-  "generated_at": "2026-09-27T09:44:58.742802+00:00",
+  "generated_at": "2026-09-27T16:14:01.800720+00:00",
   "items": [
+    {
+      "title": "MarketBeat Week in Review \u2013 09/21 - 09/25",
+      "summary": "A weekly roundup of MarketBeat analysis on volatile markets, oil, bond rates, AI stocks, dividend picks, and earnings outlooks, covering companies from NVIDIA to Tesla and Qualcomm.",
+      "pub_date": "2026-09-26T11:00:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-09-21-110000706.html"
+    },
     {
       "title": "Is Tapestry Stock Underperforming the Nasdaq?",
       "summary": "Despite lagging behind the Nasdaq Composite over the past year, analyst confidence in Tapestry remains highly bullish.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-21T15:40:04Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/anf-tpr-better-value-stock-154004897.html"
-    },
-    {
-      "title": "Tapestry (TPR) Brings In App Shopping To Coach And Kate Spade",
-      "summary": "Tapestry (NYSE:TPR) has enabled in-app shopping for Coach and Kate Spade through Google's Gemini app and Google Search. The rollout connects Tapestry's product catalog to Google's AI shopping tools, allowing users to browse and buy without visiting brand websites. Transactions use Universal Commerce Protocol to support direct, secure checkout for Coach and Kate Spade inside Google's platforms. This tighter Gemini and Search integration for Coach and Kate Spade only captures part of how...",
-      "pub_date": "2026-09-17T12:11:13Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tapestry-tpr-brings-app-shopping-121113768.html"
     }
   ]
 }
