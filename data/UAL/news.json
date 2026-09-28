@@ -1,7 +1,14 @@
 {
   "ticker": "UAL",
-  "generated_at": "2026-09-28T10:24:50.587236+00:00",
+  "generated_at": "2026-09-28T19:07:15.896193+00:00",
   "items": [
+    {
+      "title": "Update: Market Chatter: Boeing Discovers Software Glitch on 737 MAX Planes That Could Affect Landings",
+      "summary": "(Updates with United Airlines' response in the fifth paragraph and Boeing's latest stock moves in th",
+      "pub_date": "2026-09-28T12:57:35Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-boeing-discovers-software-125735610.html"
+    },
     {
       "title": "Market Chatter: Boeing Discovers Software Glitch on 737 MAX Planes That Could Affect Landings",
       "summary": "Boeing (BA) has discovered a software glitch in its 737 MAX planes that could cause navigation syste",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-24T12:50:24Z",
       "source": "Benzinga",
       "url": "https://finance.yahoo.com/markets/stocks/articles/whats-going-rtx-stock-thursday-125024804.html"
-    },
-    {
-      "title": "Pratt & Whitney Delivers First GTF Advantage-Powered Aircraft to United Airlines",
-      "summary": "Pratt & Whitney, a division of RTX (NYSE:RTX), has delivered the first aircraft powered by its GTF Advantage engine to United Airlines (NASDAQ:UAL), introducing the new engine variant into commercial service. The aircraft is an Airbus A321XLR and represents the first delivery to an airline using the GTF Advantage configuration, according to Pratt & Whitney.",
-      "pub_date": "2026-09-24T10:38:31Z",
-      "source": "InvestorsHub",
-      "url": "https://finance.yahoo.com/technology/articles/pratt-whitney-delivers-first-gtf-103831633.html"
     }
   ]
 }

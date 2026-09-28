@@ -1,7 +1,21 @@
 {
   "ticker": "EQIX",
-  "generated_at": "2026-09-28T10:24:12.576298+00:00",
+  "generated_at": "2026-09-28T19:06:31.551694+00:00",
   "items": [
+    {
+      "title": "Schneider Electric Unveils Software-Defined Medium Voltage Switchgear for AI Data Centers",
+      "summary": "Schneider Electric (NYSE:SNDR) unveiled what it describes as the world\u2019s first fully software-defined medium voltage switchgear architecture, alongside new 38 kV equipment designed to support increasingly power-dense AI data centers. Key Investor TakeawaysSchneider Electric (NYSE:SNDR) said its Software-Defined Medium Voltage architecture can enable up to three times faster ordering and manufacturing and up to twice as fast commissioning compared with conventional engineered-to-order switchgear.",
+      "pub_date": "2026-09-28T15:04:42Z",
+      "source": "InvestorsHub",
+      "url": "https://finance.yahoo.com/technology/ai/articles/schneider-electric-unveils-software-defined-150442083.html"
+    },
+    {
+      "title": "Data Centers Got the AI Hype\u2014But Office REITs May Get the Rent Hikes",
+      "summary": "Strong leasing demand and limited new supply are boosting top-tier office REITs like SL Green, BXP and Hudson Pacific, which trade far cheaper than data-center REITs Equinix and Digital Realty.",
+      "pub_date": "2026-09-27T16:15:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/real-estate/articles/data-centers-got-ai-hype-161500282.html"
+    },
     {
       "title": "Equinix (EQIX) Stock Dips While Market Gains: Key Facts",
       "summary": "Equinix (EQIX) closed the most recent trading day at $1, moving 2.58% from the previous trading session.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-19T12:02:03Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/technology/ai/articles/equinix-plans-5b-7b-annual-120203982.html"
-    },
-    {
-      "title": "Is It Worth Investing in Equinix (EQIX) Based on Wall Street's Bullish Views?",
-      "summary": "According to the average brokerage recommendation (ABR), one should invest in Equinix (EQIX). It is debatable whether this highly sought-after metric is effective because Wall Street analysts' recommendations tend to be overly optimistic. Would it be worth investing in the stock?",
-      "pub_date": "2026-09-18T13:30:04Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/worth-investing-equinix-eqix-based-133004226.html"
-    },
-    {
-      "title": "How Far Can Cipher Digital Stock Fall While It Waits For Rent?",
-      "summary": "Cipher Digital (CIFR) stock fell 36.2% over the past three months. Over twelve months it is still up 54.1%, against 15.5% for the S&P 500. The company is moving from bitcoin mining to leasing data centers to hyperscale tenants. In past market shocks, the stock fell hard and bounced back fast.",
-      "pub_date": "2026-09-17T20:28:13Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/far-cipher-digital-stock-fall-202813538.html"
     }
   ]
 }
