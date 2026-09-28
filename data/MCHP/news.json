@@ -1,7 +1,14 @@
 {
   "ticker": "MCHP",
-  "generated_at": "2026-09-28T03:04:51.041075+00:00",
+  "generated_at": "2026-09-28T10:24:30.137100+00:00",
   "items": [
+    {
+      "title": "Stock Market News for Sep 28, 2026",
+      "summary": "U.S. stock markets closed higher on Friday to close a volatile week.",
+      "pub_date": "2026-09-28T06:04:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-sep-28-060400192.html"
+    },
     {
       "title": "Microchip Technology (MCHP) Stock Is Up, What You Need To Know",
       "summary": "Shares of analog chipmaker Microchip Technology (NASDAQ:MCHP) jumped 4.3% in the afternoon session after the stock continued to rally as the company introduced a new line of advanced digital power monitors the previous day.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-24T22:32:58Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/himax-power-integrations-macom-onsemi-223258272.html"
-    },
-    {
-      "title": "Microchip Technology, Skyworks Solutions, and Universal Display Shares Are Falling, What You Need To Know",
-      "summary": "A number of stocks fell in the morning session after benchmark 10-year U.S. Treasury yields rose above 5.1%, renewing pressure on high-multiple technology valuations.",
-      "pub_date": "2026-09-24T21:28:58Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microchip-technology-skyworks-solutions-universal-212858687.html"
     }
   ]
 }

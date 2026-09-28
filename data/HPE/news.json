@@ -1,7 +1,14 @@
 {
   "ticker": "HPE",
-  "generated_at": "2026-09-28T03:04:42.091943+00:00",
+  "generated_at": "2026-09-28T10:24:21.352783+00:00",
   "items": [
+    {
+      "title": "Why Did AMD, HPE, MRNA Stocks Surge To 52-Week Highs Last Week?",
+      "summary": "Investors rewarded companies with strong artificial intelligence demand, enterprise infrastructure, and drug development.",
+      "pub_date": "2026-09-28T04:47:57Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-amd-hpe-mrna-044757616.html"
+    },
     {
       "title": "What Was Cisco Telling You Before Its Stock Ran?",
       "summary": "Cisco Systems (CSCO) stock returned 62% in the twelve months to September 24, 2026, against 16% for the S&P 500. A $10,000 holding at the start was worth about $16,220 at the end. The run was about AI data center orders from hyperscalers, the largest cloud companies. You could have read the run early only if two things held: Cisco was saying it, and its results were showing it.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-25T13:12:08Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/articles/hpe-expanded-networking-quantum-partnerships-131208305.html"
-    },
-    {
-      "title": "Can AI and Flash Demand Power NetApp's Raised FY27 Outlook?",
-      "summary": "NTAP's record Q1 revenue and surging AI and flash demand drive a sharp boost to its fiscal 2027 outlook.",
-      "pub_date": "2026-09-25T12:27:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-flash-demand-power-netapps-122700083.html"
     }
   ]
 }

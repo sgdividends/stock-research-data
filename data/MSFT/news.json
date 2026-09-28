@@ -1,7 +1,14 @@
 {
   "ticker": "MSFT",
-  "generated_at": "2026-09-28T03:04:53.781025+00:00",
+  "generated_at": "2026-09-28T10:24:32.909421+00:00",
   "items": [
+    {
+      "title": "Why most ads are terrible: Former Microsoft CSO",
+      "summary": "Stagwell CEO, former Microsoft Chief Strategy Officer, and White House pollster Mark Penn sits down with Yahoo Finance Executive Editor Brian Sozzi to break down why most modern digital ads fail, and how AI is completely rewriting the rules of what you buy.",
+      "pub_date": "2026-09-28T10:00:00Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/why-most-ads-terrible-former-100000360.html"
+    },
     {
       "title": "The AI gold rush is fueling a record tech bond boom: Chart of the Day",
       "summary": "Tech giants are increasingly turning to the bond market for their AI infrastructure build-out.",
@@ -10,53 +17,46 @@
       "url": "https://finance.yahoo.com/markets/article/the-ai-gold-rush-is-fueling-a-record-tech-bond-boom-chart-of-the-day-115022571.html"
     },
     {
+      "title": "Market Chatter: OpenAI, Anthropic CEOs Asked to Appear at Australian AI Inquiry",
+      "summary": "Microsoft-backed (MSFT) OpenAI CEO Sam Altman and Alphabet (GOOG, GOOGL) and Amazon-backed (AMZN) An",
+      "pub_date": "2026-09-28T10:08:18Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-openai-anthropic-ceos-100818494.html"
+    },
+    {
+      "title": "3 Cash-Heavy Stocks with Impressive Fundamentals",
+      "summary": "In a world where many businesses have shaky balance sheets, some have ignored the crowd and exercised prudence. These cash-heavy companies shine bright for their financial discipline, resilience, and ability to generate solid returns.",
+      "pub_date": "2026-09-28T10:06:36Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-cash-heavy-stocks-impressive-100636662.html"
+    },
+    {
+      "title": "MAG 7 Voices: Jensen Huang, Elon Musk, Mark Zuckerberg Shape A Week Of AI Debate",
+      "summary": "Nvidia CEO Jensen Huang defended continued AI development while calling for AI labs that cannot contain unsafe experiments to be shut down.",
+      "pub_date": "2026-09-28T10:05:49Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mag-7-voices-jensen-huang-100549900.html"
+    },
+    {
+      "title": "Microsoft Corporation (MSFT) Wants AI to Do More. Can Customers Keep Up?",
+      "summary": "On September 25, Microsoft Corporation (NASDAQ:MSFT) announced a comprehensive overhaul of its Copilot ecosystem, introducing a central workspace structure consisting of Home, Code, and Autopilot. Home unifies conversation and productivity tools by natively integrating Word, Excel, and PowerPoint into the Copilot interface. Code allows non-technical employees to build custom applications and automations using natural language [\u2026]",
+      "pub_date": "2026-09-28T03:51:56Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-corporation-msft-wants-ai-035156310.html"
+    },
+    {
+      "title": "Bill Gates warns AI global framework talks harder than Cold War-era nuclear negotiations",
+      "summary": "Microsoft founder Bill Gates has warned that getting countries to agree on a global framework for AI could be more difficult than Cold War-era negotiations to restrict nuclear weapons.  In an interview that \u200caired \u2060earlier on Sunday on NBC's Meet the Press, Mr Gates, 70, who has an estimated $115bn fortune, said he would like to meet with Mr Trump to discuss AI.  Mr Gates said regulating AI companies by putting in place monitoring systems would not hinder the US in any battle with China for technological supremacy in this field.",
+      "pub_date": "2026-09-28T01:40:00Z",
+      "source": "Sky News",
+      "url": "https://finance.yahoo.com/news/bill-gates-warns-ai-global-014000975.html"
+    },
+    {
       "title": "Microsoft (MSFT) Reportedly Plans a Vast Data Center Expansion. Can Azure Justify the Cost?",
       "summary": "On September 10, 2026, Reuters reported that Microsoft Corporation (NASDAQ:MSFT) plans to expand its global data center capacity to more than 38 gigawatts by 2032, more than tripling its current roughly 12-gigawatt footprint, according to Bloomberg News reporting that cited people familiar with the plans. Only about 2 gigawatts of Microsoft\u2019s current capacity is dedicated [\u2026]",
       "pub_date": "2026-09-28T00:11:44Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-reportedly-plans-vast-001144437.html"
-    },
-    {
-      "title": "Michael Burry just put a date on Big Tech's AI reckoning, and Oracle's $664 billion lands in crosshairs",
-      "summary": "The Big Short investor tallied the AI commitments piling up at five hyperscalers. He says even a small write-off could land harder than anyone expects.",
-      "pub_date": "2026-09-27T21:47:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/ai/articles/michael-burry-just-put-date-214700795.html"
-    },
-    {
-      "title": "Is Synopsys (SNPS) a Breakout Play as Headwinds Subside and BNP Paribas Upgrades?",
-      "summary": "Is the tide slowly turning for Synopsys, Inc. (NASDAQ:SNPS) as some of the issues that pressured the stock begin to ease? That appears to be the view of BNP Paribas analyst Andrew DeGasperi, who recently upgraded the stock to Neutral from Underperform and assigned a $420 price target. The Ansys acquisition is also drawing significant [\u2026]",
-      "pub_date": "2026-09-27T21:22:54Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/synopsys-snps-breakout-play-headwinds-212254244.html"
-    },
-    {
-      "title": "Microsoft (MSFT) Puts GitHub\u2019s Coding Engine Inside the App Office Workers Already Use",
-      "summary": "Microsoft Corporation (NASDAQ:MSFT) added a tool called Code to its Copilot app on September 25. It lets someone build an app or a dashboard by describing it in plain language. The technology underneath is not new. It is the same engine that powers GitHub Copilot, which developers have used for years. What has changed is [\u2026]",
-      "pub_date": "2026-09-27T19:39:53Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-puts-github-coding-193953624.html"
-    },
-    {
-      "title": "Why the Nasdaq Refuses to Break Even With Treasury Yields Above Five Percent",
-      "summary": "The ten-year Treasury yield just hit levels that should be crushing growth stocks, yet the Nasdaq-100 keeps refusing to fall. The reason comes down to six companies whose balance sheets are rewriting the rules of how rate pressure actually transmits.",
-      "pub_date": "2026-09-27T19:15:23Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-nasdaq-refuses-break-even-191523824.html"
-    },
-    {
-      "title": "Big Tech Workers Speak Out After Getting Laid Off: 'I Applied to Work Cashier at Target and I Was Denied'",
-      "summary": "For years, landing a high-paying job at one of America\u2019s biggest tech companies could feel like reaching the top of the industry. But four former Big Tech workers told Business Insider how quickly six-figure salaries and seemingly secure careers disappeared...",
-      "pub_date": "2026-09-27T19:00:18Z",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/technology/articles/big-tech-workers-speak-getting-190018481.html"
-    },
-    {
-      "title": "Bill Gates doubles down on AI warning after decades of optimism",
-      "summary": "The Microsoft co-founder spent 50 years selling the future. His latest message about it is much harder to hear.",
-      "pub_date": "2026-09-27T18:33:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/ai/articles/bill-gates-doubles-down-ai-183300679.html"
     }
   ]
 }

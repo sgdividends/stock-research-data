@@ -1,7 +1,14 @@
 {
   "ticker": "CDNS",
-  "generated_at": "2026-09-28T03:04:22.697643+00:00",
+  "generated_at": "2026-09-28T10:24:02.238106+00:00",
   "items": [
+    {
+      "title": "The Zacks Analyst Blog Highlights ExxonMobil, Automatic Data Processing and Cadence Design, BranchOut Food",
+      "summary": "XOM, ADP, CDNS and BOF feature in Zacks research, with AI, operational efficiency, recurring revenue and growth opportunities shaping their outlooks.",
+      "pub_date": "2026-09-28T06:18:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-exxonmobil-061800247.html"
+    },
     {
       "title": "Cadence Design Systems (CDNS) Outperforms Broader Market: What You Need to Know",
       "summary": "In the most recent trading session, Cadence Design Systems (CDNS) closed at $326.03, indicating a +1.25% shift from the previous trading day.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-24T13:55:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/options/articles/options-market-predicting-spike-cadence-135500156.html"
-    },
-    {
-      "title": "Cadence's New RTL Generation Agent Could Reshape AI-Driven Chip Design",
-      "summary": "CDNS' new RTL Generation Agent automates chip design and optimization, delivering 24% lower area and 18% lower power in early evaluations.",
-      "pub_date": "2026-09-23T13:58:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cadences-rtl-generation-agent-could-135800213.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "OMC",
-  "generated_at": "2026-09-28T03:04:57.323892+00:00",
+  "generated_at": "2026-09-28T10:24:36.602544+00:00",
   "items": [
+    {
+      "title": "3 of Wall Street\u2019s Favorite Stocks to Keep an Eye On",
+      "summary": "Wall Street has set ambitious price targets for the stocks in this article. While this suggests attractive upside potential, it\u2019s important to remain skeptical because analysts face institutional pressures that can sometimes lead to overly optimistic forecasts.",
+      "pub_date": "2026-09-28T08:22:23Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-wall-street-favorite-stocks-082223155.html"
+    },
     {
       "title": "1 Value Stock with Exciting Potential and 2 We Ignore",
       "summary": "The low valuation multiples for value stocks provide a margin of safety that growth stocks rarely offer. However, the challenge lies in determining whether these cheap assets are genuinely undervalued or simply on sale due to their potentially deteriorating business models.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-18T14:59:12Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/omnicom-stock-underperforming-p-500-145912589.html"
-    },
-    {
-      "title": "Omnicom Group Inc's Dividend Analysis",
-      "summary": "Omnicom Group Inc (NYSE:OMC) recently announced a total dividend of $0.80 per share, with the ex-dividend date set for Sept. 18, 2026.  This payout consists of a $0.80 per share cash dividend payable on Oct. 9, 2026.  For income-focused investors, the ex-dividend date is a critical marker: shareholders must own the stock before this date to qualify for the payment.",
-      "pub_date": "2026-09-18T11:02:07Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/omnicom-group-incs-dividend-analysis-110207012.html"
     }
   ]
 }
