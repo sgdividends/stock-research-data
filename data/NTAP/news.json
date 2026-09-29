@@ -1,11 +1,25 @@
 {
   "ticker": "NTAP",
-  "generated_at": "2026-09-28T19:06:58.072537+00:00",
+  "generated_at": "2026-09-29T00:07:45.102514+00:00",
   "items": [
+    {
+      "title": "Dow Jones Futures: Trump Sparks Stock Market Losses; Elon Musk-Led SpaceX, Tesla In Focus",
+      "summary": "Dow Jones Futures: Trump rejected Iran's proposal, sending the stock market lower. Elon Musk-led SpaceX and Tesla fell sharply.",
+      "pub_date": "2026-09-28T23:14:49Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-stock-market-losses-elon-musk-spacex-tesla/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Stock Market Today: Dow Ends Lower But Nvidia Pops On This; Leisure Play Tests Entry, MongoDB Dives",
+      "summary": "Stock Market Today: The Dow Jones index falls Monday as President Trump rejects Iran's bid to end Middle East fighting.",
+      "pub_date": "2026-09-28T20:34:25Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-oil-prices-treasury-yields/?src=A00220&yptr=yahoo"
+    },
     {
       "title": "IBD Stock Of The Day: NetApp's AI-Powered Rally Faces Next Test",
       "summary": "NetApp stock is the IBD Stock of the Day, as the enterprise data storage player rallies into its Insight customer conference.",
-      "pub_date": "2026-09-28T17:40:05Z",
+      "pub_date": "2026-09-28T20:22:45Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/research/ibd-stock-of-the-day/netapp-stock-ntap-insight-2026/?src=A00220&yptr=yahoo"
     },
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-25T12:00:20Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/research/ibd-industry-themes/micron-stock-mu-sandisk-sndk-memory-stocks/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "NetApp plans to acquire PEAK:AIO to expand AI infrastructure capabilities",
-      "summary": "NetApp Inc (NASDAQ:NTAP), the data infrastructure company, said Friday it plans to acquire PEAK:AIO, a UK-based software company focused on high-performance storage and metadata architecture for artificial intelligence (AI) workloads. The planned acquisition is intended to strengthen NetApp\u2019s...",
-      "pub_date": "2026-09-25T15:17:00Z",
-      "source": "Proactive",
-      "url": "https://finance.yahoo.com/technology/ai/articles/netapp-plans-acquire-peak-aio-151700571.html"
-    },
-    {
-      "title": "NetApp To Acquire PEAK:AIO To Accelerate AI Infrastructure Push, Add Scale For Growing Workloads",
-      "summary": "NetApp said the planned acquisition will add specialized metadata and parallel file-system technology to ONTAP, targeting increasingly large AI environments.",
-      "pub_date": "2026-09-25T14:04:40Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/technology/ai/articles/netapp-acquire-peak-aio-accelerate-140440317.html"
     }
   ]
 }

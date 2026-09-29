@@ -1,7 +1,21 @@
 {
   "ticker": "ADI",
-  "generated_at": "2026-09-28T19:06:07.465783+00:00",
+  "generated_at": "2026-09-29T00:06:59.679098+00:00",
   "items": [
+    {
+      "title": "Could Cadence Design (CDNS) and Analog Devices (ADI) Capture More of the Smart-Vehicle Opportunity?",
+      "summary": "On September 15, Cadence Design Systems, Inc. (NASDAQ:CDNS) and Analog Devices, Inc. (NASDAQ:ADI) announced a collaboration integrating Cadence\u2019s Tensilica DSP architecture into ADI\u2019s latest generation of SHARC automotive audio processors. The joint effort aims to enhance in-vehicle infotainment by embedding advanced digital signal processing capabilities into premium automotive systems. You May Also Want To Read: [\u2026]",
+      "pub_date": "2026-09-28T23:47:19Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/articles/could-cadence-design-cdns-analog-234719533.html"
+    },
+    {
+      "title": "ON Semiconductor Stock Looks Expensive Until You Price Its Fuller Factories",
+      "summary": "ON Semiconductor (ON) makes power and sensing chips for cars, industrial equipment and AI data centers. The stock trades at about 27.6 times trailing adjusted earnings, meaning normalized net income with stock-based compensation added back. That basis is meant to sit closer to the one analysts use in their forecasts than GAAP earnings would, though the two are not defined identically. At that multiple the stock looks expensive. But the trailing year was weak, and the weakness is fading.",
+      "pub_date": "2026-09-28T23:37:54Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stock-looks-expensive-until-233754854.html"
+    },
     {
       "title": "The Zacks Analyst Blog Highlights Analog Devices, Semtech, Taiwan Semiconductor and ASM",
       "summary": "ADI, SMTC, TSM and ASMIY are positioned to benefit from AI-driven semiconductor demand, spanning chips, connectivity, advanced packaging and ALD.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-24T14:30:03Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/semtech-smtc-20-3-since-143003902.html"
-    },
-    {
-      "title": "3 US AI Chip Stocks in Focus After Trump Xi AI Talks",
-      "summary": "AI infrastructure is suddenly geopolitical, not just technological, after a Trump\u2013Xi meeting put the AI race and chip policy in the spotlight. That kind of headline risk and potential rulebook change can reshape which AI and semiconductor stocks thrive and which struggle, creating real FOMO for investors who ignore it. This article breaks down 3 US-listed AI infrastructure and semiconductor leaders that look especially exposed to this news shock. The three stocks highlighted below are only a...",
-      "pub_date": "2026-09-23T23:19:16Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/3-us-ai-chip-stocks-231916383.html"
-    },
-    {
-      "title": "Own ON Semiconductor For AI Power, Or Own Micron's Contracts?",
-      "summary": "ON Semiconductor (ON) and Micron Technology (MU) are owned for the same reason. AI data centers need more silicon than the industry can make, and both sell into that shortage. The resemblance stops there. Micron has signed part of its peak pricing into multiyear contracts. ON Semiconductor is climbing out of a trough, still rationing parts between its AI customers and its car customers. Same shortage, opposite ends of a cycle.",
-      "pub_date": "2026-09-23T20:41:09Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/technology/articles/own-semiconductor-ai-power-own-204109239.html"
     }
   ]
 }

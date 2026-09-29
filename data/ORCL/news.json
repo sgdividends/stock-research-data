@@ -1,6 +1,6 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-09-28T19:06:59.716552+00:00",
+  "generated_at": "2026-09-29T00:07:46.909046+00:00",
   "items": [
     {
       "title": "The impact that AI will have on advertising, according to Sir Martin Sorrell",
@@ -11,52 +11,52 @@
     },
     {
       "title": "Meta hires MongoDB CEO to run new 'Meta Enterprise' platform",
-      "summary": "The 8:30 Hosts Julie Hyman, Jake Conley, and Pras Subramanian discuss what we know so far about Meta's (META) new enterprise unit, which MongoDB (MDB) CEO Dev Ittycheria will be running.",
+      "summary": "The 8:30 Hosts Julie Hyman, Jake Conley, and Pras Subramanian discuss what we know so far about Meta's (META) new enterprise unit, which MongoDB (MDB) CEO Chirantan \"CJ\" Desai will be running.",
       "pub_date": "2026-09-28T14:04:49Z",
       "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/meta-hires-mongodb-ceo-run-140449664.html"
+      "url": "https://finance.yahoo.com/video/meta-hires-mongodb-ceo-to-run-new-meta-enterprise-platform-140449664.html"
     },
     {
-      "title": "Stocks to Watch: Intel, MongoDB, Nvidia, Meta",
-      "summary": "\u2198\ufe0f Boeing (BA): Shares of the jet maker fell more than 6% after a Wall Street Journal article over the weekend said Boeing had identified a 737 MAX software glitch that could cause an automated navigation feature to fail.",
-      "pub_date": "2026-09-28T18:55:38Z",
+      "title": "Is Oracle Stock a Buy Now?",
+      "summary": "Revenue grew 30% last quarter, yet the market continues to punish the stock.",
+      "pub_date": "2026-09-28T21:20:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-buy-now-212000478.html"
+    },
+    {
+      "title": "Should You Buy Oracle (ORCL) Amid Project Jupiter and Negative Cash Flow Concerns?",
+      "summary": "Oracle Corporation (NYSE:ORCL) continues to insist that its massive 2.5-gigawatt AI data center campus, known as Project Jupiter, remains on schedule. However, concerns surrounding power availability, permitting, and construction have raised questions about whether the project can meet its targeted 2028 completion timeline. Recently, we analyzed whether AI Demand Could Turn Cloud Infrastructure Into Oracle\u2019s [\u2026]",
+      "pub_date": "2026-09-28T21:18:09Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-oracle-orcl-amid-project-211809018.html"
+    },
+    {
+      "title": "Stocks to Watch Recap: Intel, MongoDB, Nvidia, Meta",
+      "summary": "\u2198\ufe0f Boeing (BA): Shares of the jet maker fell 6.9% after a Wall Street Journal article over the weekend said Boeing had identified a 737 MAX software glitch that could cause an automated navigation feature to fail.",
+      "pub_date": "2026-09-28T20:40:08Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-28-2026/card/stocks-to-watch-intel-meta-oracle-xDbPWFTyOj0RjkaIT9a7?siteid=yhoof2&yptr=yahoo"
     },
     {
-      "title": "Microsoft, Oracle Stocks Tumble After Meta Unveils New AI Enterprise Push",
-      "summary": "Meta's push into enterprise software sparked a broad selloff among major technology companies with established business software operations",
-      "pub_date": "2026-09-28T18:51:42Z",
+      "title": "Meta Platform Takes Aim at Salesforce, ServiceNow With AI Push",
+      "summary": "A new AI competitor just entered enterprise software",
+      "pub_date": "2026-09-28T19:41:11Z",
       "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-oracle-stocks-tumble-meta-185142672.html"
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-platform-takes-aim-salesforce-194111319.html"
     },
     {
-      "title": "Oracle (ORCL) Invokes Force Majeure On Project Jupiter While Reaffirming Commitment",
-      "summary": "Oracle (NYSE:ORCL) has invoked force majeure on its multi billion dollar Project Jupiter data center due to permitting delays. The force majeure notice affects a single large scale Project Jupiter site that underpins part of Oracle's AI and cloud buildout. Bondholders tied to Project Jupiter financing are assessing how the delay could influence risk assumptions for Oracle's future capital projects. The force majeure move on Project Jupiter matters, but investors should weigh it against...",
-      "pub_date": "2026-09-28T16:09:10Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-invokes-force-majeure-160910609.html"
+      "title": "Meta Just Put Microsoft, Salesforce and ServiceNow on Notice",
+      "summary": "Meta is taking its AI technology deeper into corporate software with a new enterprise platform led by MongoDB's outgoing CEO.",
+      "pub_date": "2026-09-28T19:39:07Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-just-put-microsoft-salesforce-193907867.html"
     },
     {
-      "title": "AI Stock Leader Arista Eyes Latest Buy Point With RS Line At New Highs",
-      "summary": "Arista Stock: The AI stock leader is approaching a new buy point despite Monday's market weakness. Its RS line hit a new high last week.",
-      "pub_date": "2026-09-28T15:34:54Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/research/arista-stock-anet-buy-point/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Goldman Sachs has a blunt message for AI stock investors",
-      "summary": "The AI spending boom is getting bigger, but the numbers behind it are starting to raise new questions for investors.",
-      "pub_date": "2026-09-28T15:33:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-blunt-message-ai-153300950.html"
-    },
-    {
-      "title": "Michael Burry: Oracle Cannibalizing Cash Flow \u201cMuch Like WorldCom Did\u201d",
-      "summary": "Key TakeawaysMichael Burry compared Oracle to WorldCom over the weekend, saying Oracle\u2019s capital-intense AI strategy is cannibalizing its cash flow and margins, openly and without fraud. Credit markets are starting to price Oracle as a real risk: Its bonds are yielding 8%+.",
-      "pub_date": "2026-09-28T15:05:26Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-oracle-cannibalizing-cash-150526077.html"
+      "title": "Oracle Stocks Drop 2.43% as Oncology AI Enters the EHR",
+      "summary": "The specialized record unifies cancer workflows, but Oracle disclosed neither customers nor commercial availability.",
+      "pub_date": "2026-09-28T19:26:16Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-stocks-drop-2-43-192616648.html"
     }
   ]
 }

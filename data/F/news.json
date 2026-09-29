@@ -1,6 +1,6 @@
 {
   "ticker": "F",
-  "generated_at": "2026-09-28T19:06:34.049312+00:00",
+  "generated_at": "2026-09-29T00:07:23.344037+00:00",
   "items": [
     {
       "title": "Trump administration planning to cut back on Biden-era fuel mandates",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-28T13:34:56Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/trump-administration-planning-cut-back-133456460.html"
+    },
+    {
+      "title": "Ford and GM Just Got More Breathing Room on Their EV Plans",
+      "summary": "New U.S. fuel economy rules ease the pressure on automakers to move their lineups toward electric vehicles as quickly.",
+      "pub_date": "2026-09-28T20:38:37Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/economy/policy/articles/ford-gm-just-got-more-203837272.html"
     },
     {
       "title": "Can This Number Push Tesla Stock Higher?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-28T01:10:17Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/general-motors-gm-v-8s-011017613.html"
-    },
-    {
-      "title": "GM (GM) Looks to Sodium-Ion Batteries to Gain an Edge Over Ford (F)",
-      "summary": "On September 12, 2026, CNBC reported that General Motors Company (NYSE:GM) is in the early stages of developing next-generation battery cells that it says can reduce U.S. dependence on China, days after Ford Motor Company (NYSE:F) faced Trump administration criticism over its own Chinese battery-technology ties. GM has partnered with Denver-based startup Peak Energy to [\u2026]",
-      "pub_date": "2026-09-27T23:56:40Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/energy/articles/gm-gm-looks-sodium-ion-235640764.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "GOOGL",
-  "generated_at": "2026-09-28T19:06:39.410626+00:00",
+  "generated_at": "2026-09-29T00:07:28.037667+00:00",
   "items": [
+    {
+      "title": "AMD just spent $8.2 billion to enlist the 'Godmother of AI'",
+      "summary": "In spending $8.2 billion to scoop up World Labs, AMD CEO Lisa Su has gained the \"Godmother of AI\" and possible successor for when the time comes.",
+      "pub_date": "2026-09-28T23:06:34Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/article/amd-just-spent-82-billion-to-enlist-the-godmother-of-ai-230634166.html"
+    },
     {
       "title": "The AI Hacks Are Way Worse Than We Thought",
       "summary": "Have we reached the point-of-no-return for AI hacks? In recent days, a swarm of autonomous AI agents broke out of containment and executed a series of hacks\u2013including an attempt at breaching a government database. On today's episode of In The Loop, host Ejaaz Ahamadeen unpacks the breach, the fallout, and the question everyone in AI is suddenly asking out loud: is superintelligence finally here? Or is this just the beginning of losing control?",
@@ -10,53 +17,46 @@
       "url": "https://finance.yahoo.com/video/ai-hacks-way-worse-thought-180000827.html"
     },
     {
-      "title": "Google\u2019s \u20ac403 Million Privacy Fine Keeps Alphabet\u2019s EU Regulatory Risk in Focus",
-      "summary": "Alphabet Inc. (NASDAQ:GOOGL)\u2019s Google has been hit with another major European regulatory penalty, this time over how it historically processed users\u2019 location data. Ireland\u2019s Data Protection Commission (DPC), the lead EU privacy regulator for many of the largest U.S. technology companies, fined Google \u20ac403 million ($463 million) after finding that the company infringed the European [\u2026]",
-      "pub_date": "2026-09-28T19:02:53Z",
+      "title": "The impact that AI will have on advertising, according to Sir Martin Sorrell",
+      "summary": "Sir Martin Sorrell \u2014 the founder and executive chairman of S4Capital \u2014 sits down with Yahoo Finance Executive Editor Brian Sozzi to discuss how Meta's (META) new Muse chatbot and other AI products will impact the advertising space.",
+      "pub_date": "2026-09-28T14:40:00Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/impact-ai-advertising-according-sir-144000439.html"
+    },
+    {
+      "title": "Robotaxi Firms Quietly Growing Real Estate Footprint, Even Where They're Not Yet Legal",
+      "summary": "The amount of space robotaxi companies have leased in 2026 has exceeded the total of 2022 to 2025 combined, according to Cushman & Wakefield.",
+      "pub_date": "2026-09-28T23:34:11Z",
+      "source": "Bisnow",
+      "url": "https://finance.yahoo.com/real-estate/articles/robotaxi-firms-quietly-growing-real-233411871.html"
+    },
+    {
+      "title": "1 Monster AI Stock Greg Abel and Warren Buffett Are Extremely Bullish On",
+      "summary": "The legendary investor and his successor have transitioned Berkshire Hathaway's public equities portfolio toward a willingness to bet on tech companies.",
+      "pub_date": "2026-09-28T22:50:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/1-monster-ai-stock-greg-225000647.html"
+    },
+    {
+      "title": "Investors Concerned As Google Again Playing From Behind",
+      "summary": "Is Alphabet falling behind in the artificial intelligence race, or is a massive market comeback just around the corner? In a recent episode of The AI Investor Podcast, co-hosts Eric Bleeker and Austin Smith broke down the ripple effects of Meta\u2019s revolutionary Muse launch and what it means for major tech giants and AI stock investing. They examined why Google has historically dominated user login data and operating systems, and whether Alphabet can catch up to the new wave of agentic AI. Should Alphabet investors be concerned or might there be a killer new version of Gemini right around the corner that's ready to turn investor jeers into cheers?",
+      "pub_date": "2026-09-28T21:36:30Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/video/investors-concerned-google-again-playing-213630936.html"
+    },
+    {
+      "title": "Elon Musk Agrees 'for Now' With AI Chart Ranking Grok Behind Claude, GPT-6 Models \u2014 So Where Does Gemini Land?",
+      "summary": "Space Exploration Technologies Corp. CEO Elon Musk backed an artificial intelligence ranking chart that places his own Grok models below Anthropic and OpenAI\u2018s models, while Alphabet Inc.\u2018s Gemini ranks the lowest. Grok Splits Across Middle Tiers On the list a...",
+      "pub_date": "2026-09-28T21:30:31Z",
+      "source": "Benzinga",
+      "url": "https://tech.yahoo.com/ai/gemini/articles/elon-musk-agrees-now-ai-213031934.html"
+    },
+    {
+      "title": "Nokia (NOK) is Getting More Exposure to AI Spending. Is the Opportunity Bigger than it Looks?",
+      "summary": "On September 9, Shares of Nokia Oyj (NYSE:NOK) rose 3% to $10.98 following Google\u2019s announcement of a \u20ac13 billion investment to expand its AI infrastructure and cloud footprint in Hamina, Finland. Google highlighted that its Hamina site, part of a 43-region network, allows local entities like Nokia to deliver high-performance, low-latency services and scale AI [\u2026]",
+      "pub_date": "2026-09-28T21:28:53Z",
       "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/articles/google-403-million-privacy-fine-190253141.html"
-    },
-    {
-      "title": "Alphabet Stock Slips Before Its First Orbital TPU Test",
-      "summary": "Project Suncatcher will test AI chips in space without establishing commercial capacity, cost or customer demand.",
-      "pub_date": "2026-09-28T18:50:40Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/alphabet-stock-slips-first-orbital-185040983.html"
-    },
-    {
-      "title": "Arm Stock Sinks 7.6% as Agent Security Expands Its Compute Role",
-      "summary": "OpenShell supports Arm-based processors, while separate infrastructure processors can monitor and isolate autonomous workloads.",
-      "pub_date": "2026-09-28T18:44:57Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-sinks-7-6-184457268.html"
-    },
-    {
-      "title": "Can HP's AI-Centric PCs Reshape Its Competitive Edge in the PC Market (HPQ)?",
-      "summary": "Earlier this month, HP Inc. launched two AI-focused laptops: the HP Googlebook 14, a premium US$1,199.99 device built around Google Gemini and deep Android phone integration, and the HP ZBook Ultra G3a, a 16-inch mobile workstation co-engineered with AMD to run large local AI models for professional workflows. Together, these launches highlight HP\u2019s push toward AI-centric, highly connected PCs that blend smartphone-style experiences with on-device AI capabilities for creators and...",
-      "pub_date": "2026-09-28T18:12:29Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/hps-ai-centric-pcs-reshape-181229620.html"
-    },
-    {
-      "title": "Nvidia launches new tool to keep AI agents from going rogue",
-      "summary": "Chipmaker Nvidia said Monday it is introducing a new software platform to address concerns about artificial intelligence agents that have \u201cgone rogue\u201d and operated outside the control of humans. AI researcher Andrew Yoon joins CNN News Central.",
-      "pub_date": "2026-09-28T18:05:36Z",
-      "source": "CNN Business",
-      "url": "https://finance.yahoo.com/video/nvidia-launches-tool-keep-ai-180536325.html"
-    },
-    {
-      "title": "An Ex-Google Researcher Says AI Could \u201cKill Us All.\u201d Should Alphabet Investors Care?",
-      "summary": "Warnings about artificial intelligence don\u2019t get much more extreme than this. Bilal Chughtai, a former Google DeepMind research engineer who worked on AGI safety and alignment research, said he believes AI has the potential to \u201ckill us all\u201d and that time may be running out to prevent such an outcome. For Alphabet Inc. (NASDAQ:GOOG), the [\u2026]",
-      "pub_date": "2026-09-28T18:04:55Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ex-google-researcher-says-ai-180455667.html"
-    },
-    {
-      "title": "What You Actually Pay To Join The AAPL Run",
-      "summary": "The tech giant\u2019s stock is running hard on the back of a phenomenal business, but the price of admission is steep and real-world constraints are closing in.",
-      "pub_date": "2026-09-28T17:42:11Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/actually-pay-join-aapl-run-174211147.html"
+      "url": "https://finance.yahoo.com/technology/ai/articles/nokia-nok-getting-more-exposure-212853072.html"
     }
   ]
 }

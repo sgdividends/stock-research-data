@@ -1,7 +1,14 @@
 {
   "ticker": "TXN",
-  "generated_at": "2026-09-28T19:07:15.212321+00:00",
+  "generated_at": "2026-09-29T00:08:00.556098+00:00",
   "items": [
+    {
+      "title": "ON Semiconductor Stock Looks Expensive Until You Price Its Fuller Factories",
+      "summary": "ON Semiconductor (ON) makes power and sensing chips for cars, industrial equipment and AI data centers. The stock trades at about 27.6 times trailing adjusted earnings, meaning normalized net income with stock-based compensation added back. That basis is meant to sit closer to the one analysts use in their forecasts than GAAP earnings would, though the two are not defined identically. At that multiple the stock looks expensive. But the trailing year was weak, and the weakness is fading.",
+      "pub_date": "2026-09-28T23:37:54Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stock-looks-expensive-until-233754854.html"
+    },
     {
       "title": "67-Year-Old Costs Himself $1,315 A Year In Taxes Using A Treasury Fund To Add $1,000 A Month In Income To His Social Security And Pension. If He\u2019d Used SCHD Instead His Tax Bill Would Be Reduced By Over 60%",
       "summary": "A retired man collects Social Security and a pension, adds $1,000 a month from a popular Treasury fund, and ends up handing the IRS a bill he never needed to pay. The fund type is the culprit, and the fix is hiding in plain sight.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-25T14:27:52Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/does-nvidia-offer-texas-instruments-142752053.html"
-    },
-    {
-      "title": "MCHP Expands 48V Power Portfolio: Can It Outpace TXN & ADI?",
-      "summary": "Microchip Technology broadens its 48V power portfolio as data-center revenues surge, targeting AI servers and other high-growth power applications.",
-      "pub_date": "2026-09-25T14:22:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/articles/mchp-expands-48v-power-portfolio-142200932.html"
     }
   ]
 }

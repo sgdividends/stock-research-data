@@ -1,7 +1,21 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-09-28T19:06:24.841733+00:00",
+  "generated_at": "2026-09-29T00:07:14.675866+00:00",
   "items": [
+    {
+      "title": "Dell Stock Looks Less Expensive Once You Count The AI Backlog",
+      "summary": "Dell Technologies (DELL) stock has more than quadrupled over the past year, while the S&P 500 gained 18% (as of September 25, 2026). At about 32 times trailing earnings, it looks stretched. Those earnings are adjusted: normalized net income with stock-based compensation added back, a measure defined differently from the analyst forecasts behind the forward multiples. Yet most of what makes the stock look cheaper sits in a year Dell has already guided and half reported.",
+      "pub_date": "2026-09-28T21:41:30Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-looks-less-expensive-214130980.html"
+    },
+    {
+      "title": "Cisco Stock Moves Lower While Agent Security Escapes the Data Center",
+      "summary": "Hypershield, AI Defense and Splunk extend enforcement across clouds, branches, factories and robots.",
+      "pub_date": "2026-09-28T19:30:16Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-moves-lower-while-193016559.html"
+    },
     {
       "title": "Nvidia Launches Open Software Platform to Help Strengthen Governance of AI Agents",
       "summary": "Nvidia (NVDA) launched an open software platform Monday to help artificial intelligence developers t",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-27T18:20:45Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ibm-dividend-survived-old-ibm-182045150.html"
-    },
-    {
-      "title": "4 Dividend Rules That Keep Retirees From Buying a Payout That Gets Cut",
-      "summary": "A fat dividend yield can signal generosity or a countdown clock, and retirees who chase the wrong one lose twice when the payout finally breaks. Four tests separate the durable payers from the traps before the cut arrives.",
-      "pub_date": "2026-09-27T14:00:49Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/4-dividend-rules-keep-retirees-140049018.html"
-    },
-    {
-      "title": "What Was Cisco Telling You Before Its Stock Ran?",
-      "summary": "Cisco Systems (CSCO) stock returned 62% in the twelve months to September 24, 2026, against 16% for the S&P 500. A $10,000 holding at the start was worth about $16,220 at the end. The run was about AI data center orders from hyperscalers, the largest cloud companies. You could have read the run early only if two things held: Cisco was saying it, and its results were showing it.",
-      "pub_date": "2026-09-25T20:25:53Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-telling-stock-ran-202553745.html"
     }
   ]
 }

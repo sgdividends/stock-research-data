@@ -1,6 +1,6 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-09-28T19:06:24.588934+00:00",
+  "generated_at": "2026-09-29T00:07:14.374820+00:00",
   "items": [
     {
       "title": "The impact that AI will have on advertising, according to Sir Martin Sorrell",
@@ -10,18 +10,32 @@
       "url": "https://finance.yahoo.com/video/impact-ai-advertising-according-sir-144000439.html"
     },
     {
+      "title": "Stock Market Today: Dow Ends Lower But Nvidia Pops On This; Leisure Play Tests Entry, MongoDB Dives",
+      "summary": "Stock Market Today: The Dow Jones index falls Monday as President Trump rejects Iran's bid to end Middle East fighting.",
+      "pub_date": "2026-09-28T20:34:25Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-oil-prices-treasury-yields/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Meta Platform Takes Aim at Salesforce, ServiceNow With AI Push",
+      "summary": "A new AI competitor just entered enterprise software",
+      "pub_date": "2026-09-28T19:41:11Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-platform-takes-aim-salesforce-194111319.html"
+    },
+    {
+      "title": "Meta Just Put Microsoft, Salesforce and ServiceNow on Notice",
+      "summary": "Meta is taking its AI technology deeper into corporate software with a new enterprise platform led by MongoDB's outgoing CEO.",
+      "pub_date": "2026-09-28T19:39:07Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-just-put-microsoft-salesforce-193907867.html"
+    },
+    {
       "title": "Microsoft, Oracle Stocks Tumble After Meta Unveils New AI Enterprise Push",
       "summary": "Meta's push into enterprise software sparked a broad selloff among major technology companies with established business software operations",
       "pub_date": "2026-09-28T18:51:42Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-oracle-stocks-tumble-meta-185142672.html"
-    },
-    {
-      "title": "Stock Market Today: Dow Off Lows After Iran Report; Baseball Play Tests Entry, MongoDB Dives (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index was off lows Monday after a new Iran report. Oil prices jump but Nvidia gains on a buyback.",
-      "pub_date": "2026-09-28T18:22:05Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-oil-prices-treasury-yields/?src=A00220&yptr=yahoo"
     },
     {
       "title": "Salesforce Is Cheap. ServiceNow Is Growing Faster. Here\u2019s the Stock I\u2019d Buy.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-28T15:14:11Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-salesforce-servicenow-snowflake-dropped-151411514.html"
-    },
-    {
-      "title": "Meta and ServiceNow Drop 4% as Enterprise Platform Launch Reprices Software; MongoDB Tumbles 19%",
-      "summary": "A single newsroom post from Meta Platforms sent shockwaves through enterprise software in minutes, pulling down companies that had nothing to do with the announcement and one that lost something far more concrete than market confidence.",
-      "pub_date": "2026-09-28T14:43:38Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/meta-servicenow-drop-4-enterprise-144338703.html"
-    },
-    {
-      "title": "Software Stocks Slip as Meta Becomes Competition",
-      "summary": "Software companies just got new competition: Mark Zuckerberg's company is launching a business focused on selling its AI tools to enterprise customers. That's putting shares in the sector under pressure: The S&P 500 Software industry index is down nearly 2%.",
-      "pub_date": "2026-09-28T14:03:40Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-09-28-2026/card/software-stocks-slip-as-meta-becomes-competition-zzxAU8IFLrkUlyrADXTT?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

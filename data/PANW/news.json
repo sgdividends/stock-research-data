@@ -1,7 +1,21 @@
 {
   "ticker": "PANW",
-  "generated_at": "2026-09-28T19:07:00.427066+00:00",
+  "generated_at": "2026-09-29T00:07:47.518852+00:00",
   "items": [
+    {
+      "title": "Nvidia boosts stock buyback program, how AI will change the advertising landscape",
+      "summary": "Yahoo Finance Executive Editor Brian Sozzi shares his takes on the day's biggest market stories, including Nvidia's (NVDA) $150 billion extension to its stock buyback program and the state of Nike's turnaround strategy. Sozzi also sits down with Sir Martin Sorrell to discuss the impact AI will have on the advertising industry.",
+      "pub_date": "2026-09-28T15:07:26Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/nvidia-boosts-stock-buyback-program-how-ai-will-change-the-advertising-landscape-150726910.html"
+    },
+    {
+      "title": "Where Could Zscaler's Next Growth Come From?",
+      "summary": "Zscaler's best candidate for upside is a product line that its fiscal 2027 outlook does not call out. The stock has risen 46% over the past three months. It is still 43% below its 52-week high. The outlook matters now because it has revenue growth slowing. It calls for growth of 16.6% to 17.5%, from 25% in fiscal 2026. So which Zscaler (ZS) business could add growth beyond that outlook.",
+      "pub_date": "2026-09-28T22:11:30Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/technology/ai/articles/where-could-zscalers-next-growth-221130637.html"
+    },
     {
       "title": "Microsoft\u2019s AI Gains Can Push the Stock Higher. That\u2019s Good News for Software Peers.",
       "summary": "Microsoft\u2019s Azure business has cleared $100 billion in annual revenue and its stock is on a run. How high can it go?",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-28T12:45:02Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-raise-palo-alto-networks-124502958.html"
-    },
-    {
-      "title": "Palo Alto Networks (PANW) Lets Customers Pay Later. Is Credit Risk Rising?",
-      "summary": "Palo Alto Networks, Inc. (NASDAQ:PANW) reported $1.536 billion of net financing receivables as of July 31, 2026, down from $1.717 billion a year earlier. Yet balances in the weakest internal risk band, ratings 7 through 10, increased to $43 million from $18 million. The financing portfolio shrank roughly 10.5%, but weaker credits increased. Payment flexibility [\u2026]",
-      "pub_date": "2026-09-28T06:41:12Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-panw-lets-064112044.html"
-    },
-    {
-      "title": "The AI Security Opportunity Emerging for Palo Alto Networks",
-      "summary": "Palo Alto Networks, Inc. (NASDAQ:PANW) has launched Unit 42 Continuous Frontier AI Defense, an annual subscription service that uses Anthropic\u2019s Claude Mythos, OpenAI\u2019s GPT-5.6-Cyber, and open-weight models to continuously identify, validate, and remediate vulnerabilities across web applications, APIs, and cloud infrastructure. Reuters reported that the service is designed to respond to the growing use of [\u2026]",
-      "pub_date": "2026-09-27T20:33:08Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-security-opportunity-emerging-palo-203429896.html"
     }
   ]
 }

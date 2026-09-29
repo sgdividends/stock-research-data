@@ -1,7 +1,14 @@
 {
   "ticker": "CIEN",
-  "generated_at": "2026-09-28T19:06:21.325738+00:00",
+  "generated_at": "2026-09-29T00:07:11.272033+00:00",
   "items": [
+    {
+      "title": "Is Ciena Stock Outperforming the Nasdaq?",
+      "summary": "Ciena has notably outperformed the Nasdaq over the past year, and analysts are highly optimistic about the stock\u2019s prospects.",
+      "pub_date": "2026-09-28T14:02:41Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ciena-stock-outperforming-nasdaq-140241277.html"
+    },
     {
       "title": "Ciena's Optical Tech Gets a Boost From CtrlS Deployment",
       "summary": "CIEN is helping CtrlS build five metro networks across India, linking nine data centers with up to 100 Tb/s of capacity for AI-scale connectivity.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-25T13:04:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bb-q2-earnings-top-sales-130400989.html"
-    },
-    {
-      "title": "Ciena (CIEN) Stock Gets a $550 Price Target as AI Networking Opportunity Expands",
-      "summary": "Ciena Corporation (NYSE:CIEN) is positioned to benefit from the growing importance of optical networking as artificial intelligence infrastructure expands. As AI data centers scale, the need to move massive volumes of data between GPUs, servers, and data centers is driving demand for faster and higher-bandwidth optical connectivity. Wall Street\u2019s view on Ciena has shifted sharply. [\u2026]",
-      "pub_date": "2026-09-25T04:56:20Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ciena-cien-stock-gets-550-045620643.html"
     }
   ]
 }
