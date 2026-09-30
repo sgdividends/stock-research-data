@@ -1,13 +1,27 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-09-30T17:26:40.540137+00:00",
+  "generated_at": "2026-09-30T23:23:43.082617+00:00",
   "items": [
     {
       "title": "HPE, IBD Stock Of The Day, Breaks Out On Hiked Guidance, AI Momentum",
       "summary": "HPE stock has surged 165% in 2026 amid merger synergies with Juniper as well as AI data center opportunities involving AMD and Oracle.",
-      "pub_date": "2026-09-30T16:10:55Z",
+      "pub_date": "2026-09-30T20:48:55Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/research/ibd-stock-of-the-day/hpe-stock-juniper-amd-oracle-investor-day/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Is Oracle (ORCL) Turning AI Governance Into Its Next Competitive Moat With Fusion Claw?",
+      "summary": "In late September 2026, Oracle unveiled Fusion Claw, a governed agentic execution runtime that powers 25 new AI-driven enterprise applications and new financial-crime compliance tools designed to automate complex workflows while preserving tight governance and auditability. The launch highlights Oracle\u2019s push to blend AI reasoning with deterministic enterprise computation, aiming to make \u201csystems of outcomes\u201d a core layer of its business software rather than just adding AI features at the...",
+      "pub_date": "2026-09-30T18:14:09Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-turning-ai-governance-181409614.html"
+    },
+    {
+      "title": "How Much Upside Is Left In Microsoft Stock?",
+      "summary": "Microsoft (MSFT) shares returned 37% over the past three months, against 2.6% for the S&P 500. Even so, Microsoft's P/E, the price divided by a year of profit, is 28.3. That is below 31.8, the stock's average at the last twelve quarter-ends, leaving out readings above 100. A run that big makes buyers wary, but the shares cost less per dollar of profit than usual. So how much upside is left in Microsoft stock at today's price.",
+      "pub_date": "2026-09-30T17:26:50Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/much-upside-left-microsoft-stock-172650952.html"
     },
     {
       "title": "Oracle Stocks Fall Although Agentic AI Targets Financial-Crime Backlogs",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-30T13:43:47Z",
       "source": "InvestorsHub",
       "url": "https://finance.yahoo.com/technology/ai/articles/oracle-shares-fall-1-8-134347762.html"
-    },
-    {
-      "title": "Oracle shares slip on unconfirmed report of delays at Wisconsin AI mega-campus",
-      "summary": "Investing.com -- Oracle Corp. shares slipped Wednesday after a new report warned that the software giant\u2019s massive artificial-intelligence data-center project in Wisconsin faces severe delays due to a gridlocked power connection.",
-      "pub_date": "2026-09-30T13:19:51Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-shares-slip-unconfirmed-report-131951449.html"
-    },
-    {
-      "title": "Michael Burry Swapped Shorts for Micron Puts Struck Near Half the Share Price",
-      "summary": "Michael Burry just swapped unlimited-horizon short positions for expiring put contracts on Micron, accepting a hard deadline to be right before a stock up 550% in a year reports earnings in hours.",
-      "pub_date": "2026-09-30T13:16:48Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/options/articles/michael-burry-swapped-shorts-micron-131648289.html"
     }
   ]
 }

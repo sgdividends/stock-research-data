@@ -1,7 +1,21 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-09-30T17:26:02.786222+00:00",
+  "generated_at": "2026-09-30T23:23:08.664698+00:00",
   "items": [
+    {
+      "title": "Coinbase Global (COIN) Opens Regulated Stablecoin Payments To Merchants",
+      "summary": "Coinbase Global (NasdaqGS:COIN) and Citi announced new fiat and stablecoin interoperability features linking Citi\u2019s banking rails with Coinbase infrastructure. Citi\u2019s Virtual Account Wallet for Coinbase will automatically convert client fiat balances into stablecoins and convert incoming stablecoins back into fiat. Merchants using Citi\u2019s Spring platform will be able to accept stablecoin payments while keeping settlement within Citi\u2019s regulated banking system. The Citi Virtual Account Wallet...",
+      "pub_date": "2026-09-30T21:16:37Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-global-coin-opens-regulated-211637977.html"
+    },
+    {
+      "title": "Trying To Find Pokemon Cards? You Can Buy Them On Coinbase Soon.",
+      "summary": "Hunting for a 30th Anniversary Charizard? Coinbase hints at a new on-chain Pokemon trading card offering backed by real cards.",
+      "pub_date": "2026-09-30T18:52:06Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/coinbase-pokemon-trading-cards-blockchain-nft-coin-stock-cryptocurrency/?src=A00220&yptr=yahoo"
+    },
     {
       "title": "Bitcoin Rises on Cooler-Than-Expected Inflation Data",
       "summary": "Bitcoin added 1.4% over the last 24 hours to $85,380 on Tuesday, according to CoinDesk.  The cryptocurrency is down 2.5% this year, but is up 45% this quarter, pacing its best quarterly performance since 2024, according to Dow Jones Market Data.  The personal consumption expenditures, or PCE, price index reached 3.4% year over year in August, below consensus projections to remain at 3.7%.",
@@ -24,13 +38,6 @@
       "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-coin-stock-may-trading-131156782.html"
     },
     {
-      "title": "Trying To Find Pokemon Cards? You Can Buy Them On Coinbase Soon.",
-      "summary": "Hunting for a 30th Anniversary Charizard? Coinbase hints at a new on-chain Pokemon trading card offering backed by real cards.",
-      "pub_date": "2026-09-29T20:07:35Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/coinbase-pokemon-trading-cards-blockchain-nft-coin-stock-cryptocurrency/?src=A00220&yptr=yahoo"
-    },
-    {
       "title": "Sector Update: Financial Stocks Decline Late Afternoon",
       "summary": "Financial stocks declined in late Tuesday afternoon trading, with the NYSE Financial Index decreasin",
       "pub_date": "2026-09-29T20:05:25Z",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-29T16:15:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/coinbase-wins-approval-crypto-clearinghouse-161500672.html"
-    },
-    {
-      "title": "Citigroup Deepens Stablecoin Push With Expanded Coinbase Tie-Up",
-      "summary": "C expands its COIN tie-up to connect banking and settlement services with stablecoin payments. Can the push strengthen its digital-payments franchise?",
-      "pub_date": "2026-09-29T16:12:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/citigroup-deepens-stablecoin-push-expanded-161200370.html"
     }
   ]
 }

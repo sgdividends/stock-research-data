@@ -1,7 +1,21 @@
 {
   "ticker": "MCHP",
-  "generated_at": "2026-09-30T17:26:32.514519+00:00",
+  "generated_at": "2026-09-30T23:23:35.480696+00:00",
   "items": [
+    {
+      "title": "What Are Applied Materials Stock Investors Overlooking?",
+      "summary": "Applied Materials (AMAT) sold a record $7 billion of chipmaking tools in fiscal Q3 2026. That was about 77% of its $9.1 billion in revenue for the quarter. When you own the stock, you mostly own those tool sales. A record that large is easy to read as the new normal. So what might Applied Materials investors be overlooking about those tool sales.",
+      "pub_date": "2026-09-30T19:32:41Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-stock-investors-overlooking-193241721.html"
+    },
+    {
+      "title": "How Investors May Respond To Microchip Technology (MCHP) Expanding 10BASE-T1S Ethernet For Zonal Edge Architectures",
+      "summary": "In late September 2026, Microchip Technology expanded its 10BASE-T1S Single Pair Ethernet portfolio with the LAN8679 and LAN8680 PMD transceivers and the LAN8660X/1X/2X integrated endpoint family, aiming to simplify Ethernet-based zonal architectures in automotive, industrial and robotics applications while meeting AEC-Q100 and ISO 26262 functional safety standards. An interesting angle is how these multidrop, space-efficient devices are designed to cut wiring complexity and gateway use,...",
+      "pub_date": "2026-09-30T17:16:22Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-microchip-technology-171622063.html"
+    },
     {
       "title": "Microchip Technology (MCHP) Stock Trades Up, Here Is Why",
       "summary": "Shares of analog chipmaker Microchip Technology (NASDAQ:MCHP) jumped 1.9% in the afternoon session after the company announced the expansion of its 10BASE-T1S Single Pair Ethernet portfolio with new transceivers and endpoint devices.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-25T20:56:28Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dow-snaps-3-day-losing-205628233.html"
-    },
-    {
-      "title": "What Does NVIDIA Offer That Texas Instruments Does Not?",
-      "summary": "Texas Instruments (TXN) and NVIDIA both sell chips for the data centers now being built. Data centers bring in nearly all of NVIDIA's revenue, while TI sells to industrial and automotive customers as well as data centers. You pay 38.2 times the yearly profit for TI, yet only 28.1 times for NVIDIA. Their latest earnings calls show the two businesses parting ways on supply.",
-      "pub_date": "2026-09-25T14:27:52Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-nvidia-offer-texas-instruments-142752053.html"
-    },
-    {
-      "title": "MCHP Expands 48V Power Portfolio: Can It Outpace TXN & ADI?",
-      "summary": "Microchip Technology broadens its 48V power portfolio as data-center revenues surge, targeting AI servers and other high-growth power applications.",
-      "pub_date": "2026-09-25T14:22:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/articles/mchp-expands-48v-power-portfolio-142200932.html"
     }
   ]
 }

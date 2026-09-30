@@ -1,7 +1,28 @@
 {
   "ticker": "PANW",
-  "generated_at": "2026-09-30T17:26:41.054754+00:00",
+  "generated_at": "2026-09-30T23:23:43.525341+00:00",
   "items": [
+    {
+      "title": "Stock Market Today: Dow Knocked Down, Nasdaq Pares Gain; Micron Holds Firm After Earnings Soar",
+      "summary": "Stock Market Today: The Dow Jones index rises Wednesday on surprise inflation data. Micron earnings are due after the close.",
+      "pub_date": "2026-09-30T20:54:22Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-micron-earnings-mu-stock/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Nvidia, AMD Collaborator Teases Breakout To Record High. These Clues Bode Well.",
+      "summary": "Helping to bridge and connect the AI and IoT worlds, Semtech flirts with a breakout to a record high as Nvidia, AMD also shine.",
+      "pub_date": "2026-09-30T20:19:14Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/research/breakout-stocks-technical-analysis/semtech-stock-teases-record-high-nvidia-amd-enter-buy-range/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "The One Number Cisco Stock Investors Should Watch",
+      "summary": "You probably think of Cisco Systems (CSCO) as an AI stock, a supplier of AI infrastructure to the hyperscalers. That business was only about 6% of Cisco's revenue in fiscal 2026. The rest includes networking and security products sold to enterprises and telcos. Cisco stock returned 61% over the past year. With AI that small a share of revenue, you are paying for growth across the whole company. How fast is Cisco's business outside AI set to grow.",
+      "pub_date": "2026-09-30T17:53:18Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/one-number-cisco-stock-investors-175318103.html"
+    },
     {
       "title": "Palo Alto Networks Stocks Surges 2.4% as AI Defense Becomes Continuous Service",
       "summary": "Unit 42 combines multiple cyber models with human validation, code recommendations and recurring exposure testing.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-30T12:45:15Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-ceo-said-quiet-124515005.html"
-    },
-    {
-      "title": "Okta Stock Rises After Morgan Stanley Raises Price Target to $245",
-      "summary": "Okta Stock Rallies After Morgan Stanley Spots Fresh AI Growth Catalyst",
-      "pub_date": "2026-09-30T12:29:19Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/okta-stock-rises-morgan-stanley-122919510.html"
-    },
-    {
-      "title": "Nvidia, AMD Collaborator Teases Breakout To Record High. These Clues Bode Well.",
-      "summary": "Helping to bridge and connect the AI and IoT worlds, Semtech flirts with a breakout to a record high as Nvidia, AMD also shine.",
-      "pub_date": "2026-09-30T11:31:09Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/research/breakout-stocks-technical-analysis/semtech-stock-teases-record-high-nvidia-amd-enter-buy-range/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Zscaler Tanked Over One Year: A Prominent Firm Says 50% Gains to Arrive in 12 Months or Less",
-      "summary": "While cybersecurity peers doubled in value over the past year, Zscaler slid past 30% and now sits at a crossroads where one bold analyst sees a very different story unfolding than the rest of Wall Street is willing to admit.",
-      "pub_date": "2026-09-30T11:15:11Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zscaler-tanked-over-one-prominent-111511309.html"
     }
   ]
 }

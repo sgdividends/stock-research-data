@@ -1,7 +1,14 @@
 {
   "ticker": "SCHW",
-  "generated_at": "2026-09-30T17:26:48.705516+00:00",
+  "generated_at": "2026-09-30T23:23:49.524568+00:00",
   "items": [
+    {
+      "title": "Talk to \u2018Charley\u2019? Charles Schwab Unveils New AI Assistant for Investors",
+      "summary": "Customers can use the artificial intelligence-powered assistant to get information and complete certain tasks, but not trading, the brokerage firm says.",
+      "pub_date": "2026-09-30T18:12:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/advisor/articles/charles-schwab-charley-ai-assistant-b7d7cadd?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Schwab's Dividend ETF Has Nearly Quadrupled Its Payout Since 2012",
       "summary": "A buyer from late 2011 now gets around 12% a year on what they paid. Can a buyer at today's price expect the same?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-27T09:09:07Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bond-volatility-charles-schwab-stock-090907864.html"
-    },
-    {
-      "title": "Charles Schwab (SCHW) Is Opening Private Markets To Retail Investors",
-      "summary": "Charles Schwab (NYSE:SCHW) agreed to acquire private markets platform Forge Global to expand access to pre-IPO and private company shares. The brokerage plans to route Forge Global's private equity and venture-backed offerings into Schwab accounts for both retail and institutional clients. Schwab is rolling out Anthropic's Claude for Financial Advisors, becoming the first RIA custodian to integrate this AI assistant into advisor workflows. The Forge Global acquisition and Claude rollout are...",
-      "pub_date": "2026-09-26T16:12:43Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/charles-schwab-schw-opening-private-161243988.html"
     }
   ]
 }

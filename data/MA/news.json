@@ -1,7 +1,21 @@
 {
   "ticker": "MA",
-  "generated_at": "2026-09-30T17:26:31.855061+00:00",
+  "generated_at": "2026-09-30T23:23:34.791166+00:00",
   "items": [
+    {
+      "title": "Why MasterCard (MA) Dipped More Than Broader Market Today",
+      "summary": "In the closing of the recent trading day, MasterCard (MA) stood at $551.47, denoting a -2.15% move from the preceding trading day.",
+      "pub_date": "2026-09-30T20:50:04Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-mastercard-ma-dipped-more-205004819.html"
+    },
+    {
+      "title": "Mastercard Stocks Fall as AI Transactions Gain a Probability Score",
+      "summary": "U.S. testing starts with a score estimating whether an AI agent initiated each purchase.",
+      "pub_date": "2026-09-30T17:42:00Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-stocks-fall-ai-transactions-174200368.html"
+    },
     {
       "title": "Open Standard issues dollar stablecoin backed by Visa, Stripe, and Mastercard",
       "summary": "Investing.com -- A consortium backed by payment giants including Visa Inc (NYSE:V), Stripe Inc., and Mastercard Inc (NYSE:MA) has officially launched a new US dollar-pegged stablecoin, marking one of the most concerted traditional finance pushes to date into digital currency infrastructure.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-30T07:30:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/tech/apple-launches-mobile-payment-services-in-india-8453423b?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Apple Pay finally launches in India after years on the sidelines",
-      "summary": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
-      "pub_date": "2026-09-30T04:08:00Z",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/technology/articles/apple-pay-set-launch-india-184500796.html"
-    },
-    {
-      "title": "Going Rogue and Getting a Wallet: The $53 Billion AI Commerce Crisis No One Is Ready For",
-      "summary": "AI agents are already swiping cards, placing orders, and flooding complaint systems, and Visa, Mastercard, American Express, and Shopify are all racing to build guardrails for a trust problem that has no agreed-upon solution yet.",
-      "pub_date": "2026-09-29T16:13:02Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/going-rogue-getting-wallet-53-161302302.html"
     }
   ]
 }
