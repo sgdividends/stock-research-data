@@ -1,7 +1,14 @@
 {
   "ticker": "ETN",
-  "generated_at": "2026-09-30T10:12:49.696156+00:00",
+  "generated_at": "2026-09-30T17:26:12.893822+00:00",
   "items": [
+    {
+      "title": "AI Infrastructure Firm Accelevation Prices IPO Below Target Range",
+      "summary": "Accelevation is set to make its trading debut on Wednesday after the artificial intelligence infrast",
+      "pub_date": "2026-09-30T11:12:06Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-infrastructure-firm-accelevation-prices-111206196.html"
+    },
     {
       "title": "The Coming AI Blackout: $10 Trillion Data Center Surge Threatens to Break the Grid",
       "summary": "AI data centers are burning through electricity so fast that chip supply is no longer the binding constraint on the industry's growth, and the companies racing to close the gap may not be the ones investors expect.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-28T16:07:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/eatons-strategic-acquisitions-boost-further-160700410.html"
-    },
-    {
-      "title": "Eaton to acquire COL Group for $923m",
-      "summary": "The deal aims to strengthen Eaton's manufacturing and power distribution presence in EMEA, with a focus on data centres and utilities.",
-      "pub_date": "2026-09-28T08:21:54Z",
-      "source": "Power Technology",
-      "url": "https://finance.yahoo.com/technology/articles/eaton-acquire-col-group-923m-082154422.html"
     }
   ]
 }

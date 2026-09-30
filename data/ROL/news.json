@@ -1,7 +1,14 @@
 {
   "ticker": "ROL",
-  "generated_at": "2026-09-30T10:13:24.602144+00:00",
+  "generated_at": "2026-09-30T17:26:47.245190+00:00",
   "items": [
+    {
+      "title": "1 S&P 500 Stock for Long-Term Investors and 2 Facing Headwinds",
+      "summary": "While the S&P 500 (^GSPC) includes industry leaders, not every stock in the index is a winner. Some companies are past their prime, weighed down by poor execution, weak financials, or structural headwinds.",
+      "pub_date": "2026-09-30T12:45:13Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-p-500-stock-long-124513637.html"
+    },
     {
       "title": "Morgan Stanley cuts Rentokil on tougher U.S. pest-control competition",
       "summary": "Investing.com -- Morgan Stanley downgraded Rentokil Initial to \u201cequal-weight\u201d from \u201coverweight\u201d and cut its price target 16% to 420 pence from 500 pence, citing tougher competition in the U.S. pest control market and lower valuation multiples among peers.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-24T15:34:09Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/piper-sandler-cuts-rollins-neutral-153409149.html"
-    },
-    {
-      "title": "Waste Management Returned 290% in a Decade. These 4 Stocks Share Its Boring Advantage",
-      "summary": "Waste Management spent a decade delivering nearly 300% returns while nobody called it exciting. Four other companies share the same quiet structural advantage, and their customers cannot leave without breaking something.",
-      "pub_date": "2026-09-24T12:15:18Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/waste-management-returned-290-decade-121518727.html"
     }
   ]
 }

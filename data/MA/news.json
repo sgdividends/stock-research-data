@@ -1,13 +1,41 @@
 {
   "ticker": "MA",
-  "generated_at": "2026-09-30T10:13:09.232104+00:00",
+  "generated_at": "2026-09-30T17:26:31.855061+00:00",
   "items": [
     {
-      "title": "Citi and Coinbase to launch bank-grade stablecoin payments",
-      "summary": "Scott Melker discusses Citi (C) expanding its relationship by allowing Coinbase (COIN) business users to obtain bank-like account details to accept, hold, and send standard fiat currency. \"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.",
-      "pub_date": "2026-09-29T16:10:00Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/citi-coinbase-launch-bank-grade-161000272.html"
+      "title": "Open Standard issues dollar stablecoin backed by Visa, Stripe, and Mastercard",
+      "summary": "Investing.com -- A consortium backed by payment giants including Visa Inc (NYSE:V), Stripe Inc., and Mastercard Inc (NYSE:MA) has officially launched a new US dollar-pegged stablecoin, marking one of the most concerted traditional finance pushes to date into digital currency infrastructure.",
+      "pub_date": "2026-09-30T16:54:42Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/open-standard-issues-dollar-stablecoin-165442644.html"
+    },
+    {
+      "title": "Payment Giants Are Buying the Pipes Before the Lanes Are Built",
+      "summary": "Mastercard completed its acquisition of BVNK for up to $1.8 billion on August 3, 2026. The London-based firm handles fiat-to-stablecoin payments across 130 countries. The price \u2014 more than double BVNK\u2019s $750 million valuation from its December 2024 Series B \u2014 tells you how badly the payment giants want to own the infrastructure layer. \u201cDigital [\u2026]",
+      "pub_date": "2026-09-30T13:17:08Z",
+      "source": "Forkast News",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/payment-giants-buying-pipes-lanes-131708757.html"
+    },
+    {
+      "title": "Apple Pay launches in India with Axis Bank partnership",
+      "summary": "The rollout is limited to Axis Bank Visa and Mastercard credit cards at launch, entering a market dominated by UPI, Google Pay, and PhonePe",
+      "pub_date": "2026-09-30T12:55:26Z",
+      "source": "Quartz",
+      "url": "https://finance.yahoo.com/technology/articles/apple-pay-launches-india-axis-125526294.html"
+    },
+    {
+      "title": "Mastercard Stock Is Flat Over The Past Year, Does MA Have Room To Run By 2028?",
+      "summary": "Key Takeaways:Agentic Commerce: Mastercard launched Agent Pay for Machines, the only network protocol enabling AI agents to make purchases at machine speed, opening a new addressable market. Price Projection: Based on current assumptions, MA stock could reach $800 by December 2028.",
+      "pub_date": "2026-09-30T12:19:14Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-stock-flat-over-past-121914257.html"
+    },
+    {
+      "title": "AI shopping agents need receipts",
+      "summary": "As artificial intelligence assumes a bigger role in commerce and finances, having a clear record of agents\u2019 actions is critical, executives said.",
+      "pub_date": "2026-09-30T11:59:24Z",
+      "source": "Payments Dive",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-shopping-agents-receipts-115924303.html"
     },
     {
       "title": "Apple Launches Mobile Payment Services in India",
@@ -29,34 +57,6 @@
       "pub_date": "2026-09-29T16:13:02Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/going-rogue-getting-wallet-53-161302302.html"
-    },
-    {
-      "title": "Mastercard Expands B2B Payments With AI-Powered Analytics",
-      "summary": "MA's AI-powered B2B Analytics targets suppliers likely to accept cards, helping banks expand commercial-card opportunities and payment volumes.",
-      "pub_date": "2026-09-29T14:09:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mastercard-expands-b2b-payments-ai-140900344.html"
-    },
-    {
-      "title": "3 Financials Stocks to Research Further",
-      "summary": "Financial providers use their expertise in capital allocation and risk assessment to help facilitate economic growth while offering consumers and businesses essential financial services. But worries about economic uncertainty and potential market volatility have kept sentiment in check, and over the past six months, the industry\u2019s 12% return has trailed the S&P 500 by 10.1 percentage points.",
-      "pub_date": "2026-09-29T13:28:02Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-financials-stocks-research-further-132802180.html"
-    },
-    {
-      "title": "Is MasterCard (MA) a Buy as Wall Street Analysts Look Optimistic?",
-      "summary": "Based on the average brokerage recommendation (ABR), MasterCard (MA) should be added to one's portfolio. Wall Street analysts' overly optimistic recommendations cast doubt on the effectiveness of this highly sought-after metric. So, is the stock worth buying?",
-      "pub_date": "2026-09-29T12:30:03Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-ma-buy-wall-street-123003358.html"
-    },
-    {
-      "title": "Here's How Visa's AptPay Deal Expands Its iGaming Payments Opportunity",
-      "summary": "Visa expands its iGaming payments opportunity as AptPay integration brings faster payouts and Visa Direct Alias to the growing US online gaming market.",
-      "pub_date": "2026-09-29T12:14:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-visas-aptpay-deal-expands-121400345.html"
     }
   ]
 }

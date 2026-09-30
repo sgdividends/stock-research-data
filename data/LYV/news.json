@@ -1,7 +1,14 @@
 {
   "ticker": "LYV",
-  "generated_at": "2026-09-30T10:13:09.079860+00:00",
+  "generated_at": "2026-09-30T17:26:31.713664+00:00",
   "items": [
+    {
+      "title": "Update: US Equity Futures Higher Pre-Bell as Traders Await Key Inflation Report",
+      "summary": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
+      "pub_date": "2026-09-30T13:01:20Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/economy/policy/articles/us-equity-futures-higher-pre-130120059.html"
+    },
     {
       "title": "Sector Update: Consumer Stocks Mixed Late Afternoon",
       "summary": "Consumer stocks were mixed late Tuesday afternoon, with the State Street Consumer Staples Select Sec",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-17T09:06:19Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/live-nation-entertainment-stock-performance-090619228.html"
-    },
-    {
-      "title": "Executive Liquidates 2,900 Shares of Entertainment Stock, Valued at More Than $525,000",
-      "summary": "Capo's $534,000 liquidity event reduces his direct stake by 25%, leaving him with $1.6 million in remaining holdings as the stock maintains momentum.",
-      "pub_date": "2026-09-04T13:25:01Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/executive-liquidates-2-900-shares-132501806.html"
     }
   ]
 }
