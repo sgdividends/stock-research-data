@@ -1,5 +1,62 @@
 {
   "ticker": "QCOM",
-  "generated_at": "2026-09-30T03:32:50.015648+00:00",
-  "items": []
+  "generated_at": "2026-09-30T10:13:23.204875+00:00",
+  "items": [
+    {
+      "title": "Nvidia's answer to rogue AI changes the conversation",
+      "summary": "Nvidia CEO Jensen Huang just made two huge moves that might change how we think about AI risk entirely. First, a new agent safety platform engineered to catch and quarantine rogue AI agents in milliseconds, then a record-shattering $235 billion stock buyback that speaks volumes about how confident Nvidia is in where this is all headed. In The Loop host Ejaaz Ahamadeen breaks down how this new two-part safety system actually works, why Huang's stance is the opposite of what other AI labs are saying, and what a recent state dinner guest list reveals about who's really steering the US-China AI race.",
+      "pub_date": "2026-09-29T11:00:00Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/nvidias-answer-rogue-ai-changes-110000350.html"
+    },
+    {
+      "title": "Qualcomm Stock Moves Higher as Mobile AI Moves From Answers to Action",
+      "summary": "Snapdragon's agentic pitch expands on-device computing, but demonstrations must become profitable smartphone shipments.",
+      "pub_date": "2026-09-29T18:58:56Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-stock-moves-higher-mobile-185856411.html"
+    },
+    {
+      "title": "What Was AMD Telling You Before Its Stock Ran?",
+      "summary": "Advanced Micro Devices (AMD) stock returned 277% in the twelve months to September 28, 2026. That nearly quadrupled the value of a holding. The run turned out to be about data center chips: the server processors and AI accelerators AMD sells. A gain that size looks obvious afterward, but the fair way to judge it is by what was public beforehand. So what did AMD's management say before its stock ran.",
+      "pub_date": "2026-09-29T15:21:46Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-telling-stock-ran-152146148.html"
+    },
+    {
+      "title": "Arm Jumps 5% as Chip Selloff Unwinds; Marvell Climbs 4%, Qualcomm Inches Higher",
+      "summary": "Chip stocks are snapping back after a brutal session, but the recovery is anything but even, with one name surging five times harder than another. What separates the leaders from the laggards reveals something important about where semiconductor money is flowing right now.",
+      "pub_date": "2026-09-29T15:06:14Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arm-jumps-5-chip-selloff-150614662.html"
+    },
+    {
+      "title": "Qualcomm Stock Fell 7% in a Day as Its AI and Apple Rally Cooled. Here\u2019s What Higher 2027 Sales Estimates Mean",
+      "summary": "Key Stats for Qualcomm StockCurrent Price: $187. 48Target Price (Mid): ~$388Street Target: ~$194Potential Total Return: ~107%Annualized IRR: ~20% / yearWhat Happened?Qualcomm (QCOM) closed at $187.",
+      "pub_date": "2026-09-29T14:31:38Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-fell-7-day-143138931.html"
+    },
+    {
+      "title": "What Changed For Intel Stock, And What Did Not?",
+      "summary": "Intel (INTC) stock rose 12.1% on September 21, 2026. A $10,000 holding at the prior close was worth about $11,210 when that day ended. In the days before, reports said SK Hynix was in talks with Intel about making memory chips in the United States. That news was public before September 21, which means it cannot explain the jump. So why did Intel stock jump that day.",
+      "pub_date": "2026-09-29T14:02:14Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/changed-intel-stock-did-not-140214173.html"
+    },
+    {
+      "title": "Is The Market Underpricing NVIDIA Stock?",
+      "summary": "NVIDIA (NVDA) stock trades at 28.6 times the last twelve months of profit, well below its three-year average P/E of 42.8. The shares are only 2.7% below their 52-week high, yet the stock's P/E is low by its own past. So is the market underpricing NVIDIA stock.",
+      "pub_date": "2026-09-29T12:52:42Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/market-underpricing-nvidia-stock-125242239.html"
+    },
+    {
+      "title": "Why Qualcomm (QCOM) Stock Is Down Today",
+      "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chip stocks joined a broader tech selloff tied to rising yields.",
+      "pub_date": "2026-09-28T23:50:36Z",
+      "source": "StockStory",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-qcom-stock-down-235036316.html"
+    }
+  ]
 }
