@@ -1,7 +1,14 @@
 {
   "ticker": "PLTR",
-  "generated_at": "2026-09-30T23:23:45.385900+00:00",
+  "generated_at": "2026-10-01T03:37:31.264641+00:00",
   "items": [
+    {
+      "title": "OpenAI President Backs Out of Pledged $25-Million Donation to AI Super PAC",
+      "summary": "Greg Brockman has faced backlash from employees who support stronger artificial-intelligence regulations.",
+      "pub_date": "2026-10-01T00:12:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/tech/ai/openai-president-backs-out-of-pledged-25-million-donation-to-ai-super-pac-efb31fb4?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Was There Any Sign Palantir Stock Would Run?",
       "summary": "Palantir Technologies (PLTR) stock returned 60.3% in the three months from June 30 to September 29, 2026. A $10,000 holding at the start of that window was worth about $16,030 at the end. The run came from faster sales growth, led by the U.S. business, and Palantir reports that growth every quarter. Could you have seen that growth coming before June 30.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-30T03:08:13Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-pltr-stock-looks-fully-030813923.html"
-    },
-    {
-      "title": "Palantir Is Worth About as Much as Oracle on Less Than a Tenth of Oracle's Revenue",
-      "summary": "The two software businesses today cost around the same. So which stock's price is harder to live up to?",
-      "pub_date": "2026-09-30T03:06:01Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-worth-much-oracle-less-030601559.html"
     }
   ]
 }

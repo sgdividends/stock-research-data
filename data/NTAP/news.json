@@ -1,7 +1,14 @@
 {
   "ticker": "NTAP",
-  "generated_at": "2026-09-30T23:23:41.438712+00:00",
+  "generated_at": "2026-10-01T03:37:26.452335+00:00",
   "items": [
+    {
+      "title": "NetApp Unveils Novus, AI Data Engine Upgrades to Power Agentic AI",
+      "summary": "NetApp (NASDAQ:NTAP) used its INSIGHT 2026 event to outline a strategy for helping enterprises prepare data infrastructure for agentic AI, announcing expanded cloud partnerships, enhancements to its AI Data Engine and management platform, and a new high-scale storage architecture called NetApp Novus",
+      "pub_date": "2026-10-01T00:02:20Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/technology/ai/articles/netapp-unveils-novus-ai-data-000220713.html"
+    },
     {
       "title": "Stock Market Today: Dow Knocked Down, Nasdaq Pares Gain; Micron Holds Firm After Earnings Soar",
       "summary": "Stock Market Today: The Dow Jones index rises Wednesday on surprise inflation data. Micron earnings are due after the close.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-29T19:47:48Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/technology/ai/articles/ntap-stock-hits-record-high-194748358.html"
-    },
-    {
-      "title": "2 Reasons Oracle Stock Is on Pace to Snap a 4-Day Losing Streak",
-      "summary": "Oracle  stock advanced on Tuesday after the software and artificial-intelligence cloud provider made two significant AI announcements for the company\u2019s all-important cloud infrastructure business segment.  Oracle stock rose 3.8% to $137.69 on Tuesday and was on pace to snap a four-day losing streak while the  declined 1%.  The product will be available through 25 new applications, the latest additions to a growing portfolio of 75 agentic applications on Oracle cloud infrastructure.",
-      "pub_date": "2026-09-29T18:14:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/2-reasons-oracle-stock-is-on-pace-to-snap-a-4-day-losing-streak-46c3e15f?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
