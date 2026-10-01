@@ -1,7 +1,14 @@
 {
   "ticker": "PLTR",
-  "generated_at": "2026-10-01T10:39:36.939259+00:00",
+  "generated_at": "2026-10-01T17:52:42.782790+00:00",
   "items": [
+    {
+      "title": "IBM Jumps 5% as Bob Coding Agent Gains Self-Hosted Deployment; Salesforce Rises 3%, Palantir Inches Higher",
+      "summary": "IBM stock surged far ahead of the broader software sector after quietly extending its Bob coding agent into a corner of the market most AI platforms cannot reach. Whether the move signals a lasting repricing or a one-day pop depends on details IBM has not yet disclosed.",
+      "pub_date": "2026-10-01T13:23:43Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ibm-jumps-5-bob-coding-132343511.html"
+    },
     {
       "title": "Palantir\u2019s CEO Bought 37,000 Acres of Swedish Forestland and Hunting Leases Vanished. Five Years of Rent Can Count as $0 Toward Social Security\u2019s Earnings Test",
       "summary": "When Palantir's CEO quietly bought 37,000 acres of Swedish forest and shut out local hunters, it revealed something most landowners never consider: a single hunting lease can hit three separate government clocks at once, and the order you get paid changes everything.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-30T09:04:02Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-israel-englander-buys-2-090402585.html"
-    },
-    {
-      "title": "Palantir CEO Alex Karp quietly purchased 37,000 acres of forests in Sweden\u2014and locals found out when hunters lost leases to use the property",
-      "summary": "Cladonia Skog AB, a newly registered company owned by Karp, said it would use the land for \u201cforestry and other related activities.\u201d",
-      "pub_date": "2026-09-30T07:05:00Z",
-      "source": "Fortune",
-      "url": "https://finance.yahoo.com/real-estate/articles/palantir-ceo-alex-karp-quietly-070500422.html"
     }
   ]
 }

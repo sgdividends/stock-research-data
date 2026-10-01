@@ -1,6 +1,6 @@
 {
   "ticker": "PYPL",
-  "generated_at": "2026-10-01T10:39:38.848322+00:00",
+  "generated_at": "2026-10-01T17:52:45.059307+00:00",
   "items": [
     {
       "title": "Bank of America Flags Surprising Risk to Apple Stock",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-30T12:26:36Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-flags-surprising-risk-122636874.html"
+    },
+    {
+      "title": "Bitcoin Is Bouncing Back\u2014Here are 2 Ways to Play the Rebound",
+      "summary": "As Bitcoin rebounds more than 41% from its July low, Coinbase and Strategy shares have rallied too, offering investors equity-market exposure to crypto's recovery.",
+      "pub_date": "2026-09-30T12:05:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-bouncing-back-2-ways-120500539.html"
     },
     {
       "title": "PayPal (PYPL) Stock Looks Reasonable Based On Current Earnings",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-29T14:31:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/real-estate/luxury-homes/peter-thiel-casa-encantada-los-angeles-2077f388?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Meta\u2019s Muse Is Taking Aim at E-Commerce, But Amazon Isn\u2019t Playing Along",
-      "summary": "Meta plans to monetize its Muse AI agent via transaction fees on e-commerce, adding Walmart, Best Buy, and Wayfair as partners while Amazon blocks Muse from its site.",
-      "pub_date": "2026-09-29T14:20:00Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/technology/ai/articles/meta-muse-taking-aim-e-142000400.html"
     }
   ]
 }

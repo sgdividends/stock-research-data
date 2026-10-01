@@ -1,7 +1,35 @@
 {
   "ticker": "C",
-  "generated_at": "2026-10-01T10:38:58.125549+00:00",
+  "generated_at": "2026-10-01T17:51:56.600012+00:00",
   "items": [
+    {
+      "title": "Bank Stocks Slide as Money-Center Names Lead Financials Lower: Citigroup Falls 4%, Bank of America Drops 3%, JPMorgan Chase Slips",
+      "summary": "Citigroup is getting hit harder than Bank of America despite the legal headline landing at Merrill Lynch, and the gap between the two lenders points to something beyond the settlement driving the selloff across money-center banks.",
+      "pub_date": "2026-10-01T15:51:07Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-stocks-slide-money-center-155107514.html"
+    },
+    {
+      "title": "What It Actually Takes for Bank of America to Keep Raising Its Dividend",
+      "summary": "Bank of America just raised its dividend again, but a razor-thin capital cushion separates the next raise from a payout freeze. Here is the precise mechanism that determines whether shareholders get another bump or watch buybacks disappear first.",
+      "pub_date": "2026-10-01T15:45:50Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/actually-takes-bank-america-keep-154550775.html"
+    },
+    {
+      "title": "Moderna Climbs 3% Despite Citigroup\u2019s Downgrade to Sell; BioNTech Inches Higher, Pfizer Treads Water",
+      "summary": "Citigroup just told investors to sell Moderna and the stock responded by climbing 3%, raising one pointed question about whether pipeline optimism has fully broken free from Wall Street's valuation warnings.",
+      "pub_date": "2026-10-01T15:00:11Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/healthcare/articles/moderna-climbs-3-despite-citigroup-150011294.html"
+    },
+    {
+      "title": "Citigroup Lifts Bitcoin Target to $113K, Ether to $3,028",
+      "summary": "Citigroup (NYSE: $C) raised its 12-month price forecasts for Bitcoin (CRYPTO: $BTC) and Ethereum (CRYPTO: $ETH) on ...",
+      "pub_date": "2026-10-01T12:25:00Z",
+      "source": "CryptoProwl",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/citigroup-lifts-bitcoin-target-113k-122500754.html"
+    },
     {
       "title": "JPMorgan Trades Below 50-Day SMA: Buy, Sell or Hold the Stock?",
       "summary": "JPM trades below its 50-day SMA, signaling near-term caution. Still, loan growth, fee revenues and strong capital levels support its outlook. Is it a buy?",
@@ -29,34 +57,6 @@
       "pub_date": "2026-09-30T12:40:04Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/asx-limited-unsponsored-adr-asxfy-124004018.html"
-    },
-    {
-      "title": "Citi starts bullish Trustpilot coverage on AI-driven review demand",
-      "summary": "Investing.com -- Citi Research initiated coverage of Trustpilot Group PLC (LON:TRST) with a \u201cbuy\u201d rating and a \u00a33.75 price target, citing the online review platform\u2019s growing role in AI-generated brand recommendations and scope for stronger operating leverage.",
-      "pub_date": "2026-09-30T12:18:12Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/citi-starts-bullish-trustpilot-coverage-121812527.html"
-    },
-    {
-      "title": "Health Care Roundup: Market Talk",
-      "summary": "Find insight on Roche Holding, AstraZeneca\u2019s investment in Summit Therapeutics, and more in the latest Market Talks covering Health Care.",
-      "pub_date": "2026-09-29T21:04:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/health-care-roundup-market-talk-e04aa2dd?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Citigroup Deepens Stablecoin Push With Expanded Coinbase Tie-Up",
-      "summary": "C expands its COIN tie-up to connect banking and settlement services with stablecoin payments. Can the push strengthen its digital-payments franchise?",
-      "pub_date": "2026-09-29T16:12:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/citigroup-deepens-stablecoin-push-expanded-161200370.html"
-    },
-    {
-      "title": "Coinbase Backed Raven Raises Funding to Bring Liquidity to Prediction Markets",
-      "summary": "Coinbase Ventures (NASDAQ: $COIN) and CMCC Global have backed crypto trading firm Raven in a strategic funding roun...",
-      "pub_date": "2026-09-29T15:24:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-backed-raven-raises-funding-152400207.html"
     }
   ]
 }

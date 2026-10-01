@@ -1,7 +1,49 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-10-01T10:39:20.825711+00:00",
+  "generated_at": "2026-10-01T17:52:23.836659+00:00",
   "items": [
+    {
+      "title": "Intel (INTC) Rides AI Optimism But Is It Already Fully Valued",
+      "summary": "Recent commentary around Intel (INTC) has focused on its AI-centered strategy, including agentic CPU demand and anticipated foundry contracts, as investors respond to fresh data center momentum along with new enterprise security and edge AI tools. Intel\u2019s recent AI headlines are landing against a powerful share price move, with the stock up 34.3% over the past 30 days and a 205.3% year to date share price return. The 1 year total shareholder return of 234.5% signals that momentum has been...",
+      "pub_date": "2026-10-01T17:09:40Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-intc-rides-ai-optimism-170940802.html"
+    },
+    {
+      "title": "AMD Doesn\u2019t Need to Beat Nvidia to Be a Big AI Winner",
+      "summary": "AMD's Data Center revenue just doubled and hyperscalers are signing gigawatt-scale deals, yet our model flags a specific risk hiding in plain sight that could send the stock sharply lower before those wins fully materialize.",
+      "pub_date": "2026-10-01T16:00:53Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amd-doesn-t-beat-nvidia-160053875.html"
+    },
+    {
+      "title": "Intel, AMD Lead 5 Biggest Stock Winners in September",
+      "summary": "These 5 Stocks Crushed the Nasdaq in September",
+      "pub_date": "2026-10-01T12:13:38Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-amd-lead-5-biggest-121338707.html"
+    },
+    {
+      "title": "These 5 AI chip stocks are must-own into Q4, BofA says",
+      "summary": "Investing.com -- In a note on Thursday, analysts at Bank of America named its top semiconductor picks for the fourth quarter.",
+      "pub_date": "2026-10-01T11:46:14Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/5-ai-chip-stocks-must-114614029.html"
+    },
+    {
+      "title": "Every S&P Sector Fell in September Except One",
+      "summary": "Ten of eleven S&P sectors dropped in September as oil and Treasury yields surged together, yet one corner of the market kept climbing and now sits at its highest concentration in years.",
+      "pub_date": "2026-10-01T11:30:30Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/every-p-sector-fell-september-113030559.html"
+    },
+    {
+      "title": "I\u2019m Dollar Cost Averaging AMD at Today\u2019s Price Without Fear",
+      "summary": "AMD sits near a trillion-dollar market cap with a valuation that would make most investors flinch, yet one investor keeps hitting the buy button every single month without checking the price first. Here is the logic behind that discipline and the three numbers driving it.",
+      "pub_date": "2026-10-01T11:15:14Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/m-dollar-cost-averaging-amd-111514320.html"
+    },
     {
       "title": "Stock Market Today: Dow Knocked Down, Nasdaq Pares Gain; Micron Holds Firm After Earnings Soar",
       "summary": "Stock Market Today: The Dow Jones index rises Wednesday on surprise inflation data. Micron earnings are due after the close.",
@@ -15,48 +57,6 @@
       "pub_date": "2026-09-30T20:52:26Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/changed-marvells-story-205226599.html"
-    },
-    {
-      "title": "S&P 500 dips, Nasdaq higher after data shows moderate inflation rise",
-      "summary": "By Chuck Mikolajczak and Shashwat Chauhan NEW YORK, Sept 30 (Reuters) - Nasdaq climbed on Wednesday and the S&P 500 dipped, but both indexes notched their second straight quarterly gains, as a softer-",
-      "pub_date": "2026-09-30T20:35:11Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-slip-ahead-113432814.html"
-    },
-    {
-      "title": "Is Cerebras' Next Big Thing Already Here?",
-      "summary": "Cerebras Systems (CBRS) sells AI hardware and rents out computing power through its own cloud. The shares trade 37.3% below their 52-week high, even though management raised its 2026 revenue forecast in August. Cerebras still reports a loss. Anyone buying the shares today is paying for growth still to come. So how much of that growth has Cerebras already signed.",
-      "pub_date": "2026-09-30T19:15:32Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cerebras-next-big-thing-already-191532128.html"
-    },
-    {
-      "title": "What Is The Case For Waiting On Qualcomm Stock?",
-      "summary": "Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps growing as Apple sales shrink. Qualcomm plans to fill that gap with car and data center chips, and is raising prices as memory costs climb. Both plans are under way. So is there a case for waiting before you buy Qualcomm.",
-      "pub_date": "2026-09-30T18:51:54Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/case-waiting-qualcomm-stock-185154269.html"
-    },
-    {
-      "title": "Intel Stocks Jump as OpenShell Adds Agent Policy Enforcement",
-      "summary": "The optional component protects credentials, files and network access while keeping enforcement outside the model.",
-      "pub_date": "2026-09-30T17:27:33Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-stocks-jump-openshell-adds-172733653.html"
-    },
-    {
-      "title": "32 Analysts Say Hold on Intel. Here\u2019s What the Numbers Actually Show",
-      "summary": "Wall Street has overwhelmingly parked Intel in hold territory, but the stock just posted a 212% gain this year while simultaneously losing billions in its foundry division. Something in those conflicting signals deserves a closer look before you decide what to do with your shares.",
-      "pub_date": "2026-09-30T17:00:41Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/32-analysts-hold-intel-numbers-170041819.html"
-    },
-    {
-      "title": "Intel Rises 3% as Chip Contender Caps Off Surprisingly Strong September; NVIDIA Ticks Up, AMD Slips",
-      "summary": "Intel closed out September with a move that has investors debating whether the chip giant's turnaround is finally gaining real traction or whether the rally has already run ahead of the fundamentals.",
-      "pub_date": "2026-09-30T16:29:13Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-rises-3-chip-contender-162913840.html"
     }
   ]
 }

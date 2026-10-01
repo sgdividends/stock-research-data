@@ -1,6 +1,6 @@
 {
   "ticker": "IBKR",
-  "generated_at": "2026-10-01T10:39:19.934472+00:00",
+  "generated_at": "2026-10-01T17:52:22.739314+00:00",
   "items": [
     {
       "title": "3 Financial Stocks Watching The Treasury Trade Stress Test",
@@ -8,6 +8,13 @@
       "pub_date": "2026-09-30T15:11:37Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-financial-stocks-watching-treasury-151137401.html"
+    },
+    {
+      "title": "Up All Night: How Nasdaq\u2019s 23-Hour Trading Could Wake Up Wall Street",
+      "summary": "Nasdaq's Dec. 6, 2026 launch of a regulated overnight session extends trading to 23 hours a day, reshaping revenue potential for Nasdaq, Interactive Brokers and Robinhood.",
+      "pub_date": "2026-09-30T13:15:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/night-nasdaq-23-hour-trading-131500796.html"
     },
     {
       "title": "What to Expect From Interactive Brokers\u2019 Next Quarterly Earnings Report",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-28T02:07:01Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/where-interactive-brokers-stock-5-020701660.html"
-    },
-    {
-      "title": "Weekly Wrap: The Crypto Rally Continues",
-      "summary": "Bitcoin (CRYPTO: $BTC) managed to eke out a small 3% gain over the past week despite plenty of volatility in financ...",
-      "pub_date": "2026-09-25T20:18:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-crypto-rally-continues-201800965.html"
     }
   ]
 }

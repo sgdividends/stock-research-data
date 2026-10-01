@@ -1,7 +1,35 @@
 {
   "ticker": "SNPS",
-  "generated_at": "2026-10-01T10:39:42.076569+00:00",
+  "generated_at": "2026-10-01T17:52:49.086969+00:00",
   "items": [
+    {
+      "title": "Synopsys Investor Day Impresses BofA and KeyBanc, Driving Higher Price Targets and Stronger Growth Outlook",
+      "summary": "Wall Street analysts left Synopsys's Investor Day with sharply raised price targets and a growth outlook that surprised even the optimists, and the fresh deals with OpenAI and AWS may explain why the stock surged before most investors saw it coming.",
+      "pub_date": "2026-10-01T16:45:53Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/synopsys-investor-day-impresses-bofa-164553097.html"
+    },
+    {
+      "title": "Synopsys Sets Bold Growth Target After OpenAI Deal",
+      "summary": "Margins, buybacks and AI could reshape the next growth phase",
+      "pub_date": "2026-10-01T16:35:46Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/synopsys-sets-bold-growth-target-163546396.html"
+    },
+    {
+      "title": "Synopsys Is the Top Stock in the Nasdaq 100 Today. Here\u2019s Why.",
+      "summary": "Synopsys stock was rising as new partnerships with OpenAI and Amazon strengthen its case to be a beneficiary of artificial intelligence.",
+      "pub_date": "2026-10-01T14:33:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/synopsys-stock-price-amazon-ai-d9236ac5?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "OpenAI Just Sends This Tech Stock Soaring",
+      "summary": "Synopsys Delivers Triple Boost: OpenAI Deal, $1 Billion Buyback and 15% Growth Forecast",
+      "pub_date": "2026-10-01T12:15:29Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/openai-just-sends-tech-stock-121529691.html"
+    },
     {
       "title": "US Stock Market Today: S&P 500 Futures Edge Higher On Sticky Inflation And China Hopes",
       "summary": "The Morning Bull - US Market Morning Update Thursday, Oct, 1 2026 US stock futures are pointing slightly higher this morning, with the S&P 500 mini contract up about 0.2% and the Nasdaq-100 mini edging 0.1% stronger, as investors weigh fresh signals on inflation and global growth. The key focus is the Federal Reserve's preferred inflation gauge, the PCE index, with headline inflation expected at 3.7% and core at 3.3%. That means the cost of living is still running above the Fed's 2% goal. At...",
@@ -29,34 +57,6 @@
       "pub_date": "2026-09-30T18:44:48Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/low-autodesk-adsk-stock-184448299.html"
-    },
-    {
-      "title": "Which Gives You More Of Hard-To-Replace Software, PTC Or Fair Isaac?",
-      "summary": "PTC (PTC) and Fair Isaac are both owned for software that customers find hard to replace. PTC sells more to manufacturers it already serves, while Fair Isaac has raised the price of its mortgage credit score. Fair Isaac stock has lost 46% in a month, while PTC stock has lost 12.5%. Which of the two is gaining the firmer grip on its customers.",
-      "pub_date": "2026-09-30T15:17:11Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gives-more-hard-replace-software-151711426.html"
-    },
-    {
-      "title": "Synopsys signs $1B+ multi-year custom silicon IP agreement with AWS",
-      "summary": "Investing.com -- Synopsys Inc (NASDAQ:SNPS) stock rose over 3% in Wednesday trade after the chip design software maker announced a multi-year deal with Amazon Web Services worth more than $1 billion to license its silicon intellectual property. The agreement establishes Amazon.com Inc (NASDAQ:AMZN) as the lead customer for Synopsys\u2019 expanded offering of application-optimized IP blueprints.",
-      "pub_date": "2026-09-30T14:00:04Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/articles/synopsys-signs-1b-multi-custom-140004321.html"
-    },
-    {
-      "title": "Synopsys and Amazon Sign Multi-Year Silicon IP Agreement Valued at More Than $1 Billion",
-      "summary": "Synopsys, Inc. (NASDAQ:SNPS) announced a multi-year agreement with Amazon (NASDAQ:AMZN) valued at more than $1 billion, covering silicon intellectual property and engineering software for Amazon\u2019s custom chip development.",
-      "pub_date": "2026-09-30T13:51:18Z",
-      "source": "InvestorsHub",
-      "url": "https://finance.yahoo.com/technology/ai/articles/synopsys-amazon-sign-multi-silicon-135118151.html"
-    },
-    {
-      "title": "AWS signs $1B+ chip design licensing deal with Synopsys",
-      "summary": "The multi-year agreement makes Amazon the lead customer for Synopsys' expanded silicon IP business, which is shifting to a license-plus-royalty model",
-      "pub_date": "2026-09-30T13:46:33Z",
-      "source": "Quartz",
-      "url": "https://finance.yahoo.com/technology/articles/aws-signs-1b-chip-design-134633158.html"
     }
   ]
 }

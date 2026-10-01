@@ -1,7 +1,14 @@
 {
   "ticker": "NDAQ",
-  "generated_at": "2026-10-01T10:39:31.322385+00:00",
+  "generated_at": "2026-10-01T17:52:36.243918+00:00",
   "items": [
+    {
+      "title": "Up All Night: How Nasdaq\u2019s 23-Hour Trading Could Wake Up Wall Street",
+      "summary": "Nasdaq's Dec. 6, 2026 launch of a regulated overnight session extends trading to 23 hours a day, reshaping revenue potential for Nasdaq, Interactive Brokers and Robinhood.",
+      "pub_date": "2026-09-30T13:15:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/night-nasdaq-23-hour-trading-131500796.html"
+    },
     {
       "title": "Blockchain.com To Go Public At $6 Billion Valuation",
       "summary": "Blockchain.com says it plans to go public by year\u2019s end at a $6 billion U.S. valuation.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-24T11:02:28Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/technology/ai/articles/nasdaq-eyes-2027-equity-tokens-110228379.html"
-    },
-    {
-      "title": "NYSE, Blockchain Team Up For Round-The-Clock Trading",
-      "summary": "NYSE is partnering with a crypto-transaction firm to develop around-the-clock stock trading, the latest in a series of moves among financial firms that seek to expand and globalize stock trading.",
-      "pub_date": "2026-09-23T19:14:39Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/nyse-blockchain-tokenized-trading/?src=A00220&yptr=yahoo"
     }
   ]
 }
