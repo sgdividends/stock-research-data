@@ -1,16 +1,16 @@
 {
   "ticker": "AMT",
-  "price": 175.7,
-  "beta": 0.894,
-  "market_cap": 81869185024,
-  "ocf_ttm": 5569600000.0,
-  "capex_ttm": 1798800000.0,
-  "da_ttm": 2067300000.0,
+  "price": 163.69,
+  "beta": 0.895,
+  "market_cap": 76273000448,
+  "ocf_ttm": 5774900000.0,
+  "capex_ttm": 1815100000.0,
+  "da_ttm": 2071400000.0,
   "sbc_est": null,
   "cash": 1762499968,
   "debt": 44979900416,
   "shares": 465960048,
   "rev_cagr": 0.0334,
   "latest_rev_yoy": 0.047,
-  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "last_updated": "2026-10-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

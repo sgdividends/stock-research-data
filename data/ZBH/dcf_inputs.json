@@ -1,8 +1,8 @@
 {
   "ticker": "ZBH",
-  "price": 100.04,
-  "beta": 0.462,
-  "market_cap": 19081398272,
+  "price": 88.83,
+  "beta": 0.471,
+  "market_cap": 16943229952,
   "ocf_ttm": 1743300000.0,
   "capex_ttm": 341500000.0,
   "da_ttm": 1108400000.0,
@@ -12,5 +12,5 @@
   "shares": 190737689,
   "rev_cagr": 0.0585,
   "latest_rev_yoy": 0.048,
-  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "last_updated": "2026-10-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

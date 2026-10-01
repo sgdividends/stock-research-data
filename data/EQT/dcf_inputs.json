@@ -1,16 +1,16 @@
 {
   "ticker": "EQT",
-  "price": 53.39,
-  "beta": 0.55,
-  "market_cap": 33396140032,
-  "ocf_ttm": 6439832000.0,
-  "capex_ttm": 2387281000.0,
-  "da_ttm": 623471000.0,
+  "price": 48.56,
+  "beta": 0.576,
+  "market_cap": 30375059456,
+  "ocf_ttm": 6246145000.0,
+  "capex_ttm": 2487812000.0,
+  "da_ttm": 2700528000.0,
   "sbc_est": null,
   "cash": 112863000,
   "debt": 5655713792,
-  "shares": 625513000,
+  "shares": 625516000,
   "rev_cagr": -0.1172,
-  "latest_rev_yoy": -0.018,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": -0.039,
+  "last_updated": "2026-10-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

@@ -1,16 +1,16 @@
 {
   "ticker": "TPR",
-  "price": 123.39,
-  "beta": 1.464,
-  "market_cap": 24602939392,
-  "ocf_ttm": 1903100000.0,
-  "capex_ttm": 148100000.0,
-  "da_ttm": 220100000.0,
+  "price": 115.04,
+  "beta": 1.432,
+  "market_cap": 22938019840,
+  "ocf_ttm": 1978500000.0,
+  "capex_ttm": 166000000.0,
+  "da_ttm": 217200000.0,
   "sbc_est": null,
   "cash": 1152000000,
   "debt": 3956100096,
   "shares": 199391678,
-  "rev_cagr": 0.016,
+  "rev_cagr": 0.0632,
   "latest_rev_yoy": 0.089,
-  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "last_updated": "2026-10-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

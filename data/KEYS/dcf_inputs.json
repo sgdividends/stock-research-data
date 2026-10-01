@@ -1,16 +1,16 @@
 {
   "ticker": "KEYS",
-  "price": 325.13,
-  "beta": 1.214,
-  "market_cap": 55563210752,
-  "ocf_ttm": 1489000000.0,
-  "capex_ttm": 132000000.0,
-  "da_ttm": 354000000.0,
+  "price": 364.04,
+  "beta": 1.208,
+  "market_cap": 61975900160,
+  "ocf_ttm": 1604000000.0,
+  "capex_ttm": 135000000.0,
+  "da_ttm": 393000000.0,
   "sbc_est": null,
-  "cash": 2412000000,
-  "debt": 2763000064,
-  "shares": 170895368,
+  "cash": 2604999936,
+  "debt": 2766000128,
+  "shares": 170244745,
   "rev_cagr": -0.0028,
-  "latest_rev_yoy": 0.315,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.365,
+  "last_updated": "2026-10-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

@@ -1,16 +1,16 @@
 {
   "ticker": "INTC",
-  "price": 100.23,
-  "beta": 2.187,
-  "market_cap": 503755997184,
-  "ocf_ttm": 9980000000.0,
-  "capex_ttm": 13099000000.0,
-  "da_ttm": 12168000000.0,
+  "price": 120.23,
+  "beta": 2.231,
+  "market_cap": 635548401664,
+  "ocf_ttm": 14936000000.0,
+  "capex_ttm": 12105000000.0,
+  "da_ttm": 12379000000.0,
   "sbc_est": null,
-  "cash": 32789000192,
-  "debt": 45030998016,
-  "shares": 5026000000,
+  "cash": 29727000576,
+  "debt": 50537000960,
+  "shares": 5286105262,
   "rev_cagr": -0.0571,
-  "latest_rev_yoy": 0.072,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.254,
+  "last_updated": "2026-10-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

@@ -1,16 +1,16 @@
 {
   "ticker": "NCLH",
-  "price": 18.71,
-  "beta": 1.876,
-  "market_cap": 8589949952,
-  "ocf_ttm": 2221976000.0,
-  "capex_ttm": 3171053000.0,
-  "da_ttm": 1192961000.0,
+  "price": 14.66,
+  "beta": 1.881,
+  "market_cap": 6731693568,
+  "ocf_ttm": 2109712000.0,
+  "capex_ttm": 3295106000.0,
+  "da_ttm": 1222571000.0,
   "sbc_est": null,
-  "cash": 185047008,
-  "debt": 16082653184,
-  "shares": 459110140,
+  "cash": 218100000,
+  "debt": 15978818560,
+  "shares": 459187846,
   "rev_cagr": 0.266,
-  "latest_rev_yoy": 0.096,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.049,
+  "last_updated": "2026-10-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

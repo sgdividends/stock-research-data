@@ -1,8 +1,8 @@
 {
   "ticker": "UNP",
-  "price": 300.67,
-  "beta": 0.965,
-  "market_cap": 178620694528,
+  "price": 272.13,
+  "beta": 0.966,
+  "market_cap": 161665777664,
   "ocf_ttm": 10263000000.0,
   "capex_ttm": 3759000000.0,
   "da_ttm": 2513000000.0,
@@ -12,5 +12,5 @@
   "shares": 594075498,
   "rev_cagr": -0.0049,
   "latest_rev_yoy": 0.115,
-  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "last_updated": "2026-10-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

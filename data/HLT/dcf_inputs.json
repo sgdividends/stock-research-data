@@ -1,16 +1,16 @@
 {
   "ticker": "HLT",
-  "price": 320.18,
-  "beta": 1.052,
-  "market_cap": 72888451072,
-  "ocf_ttm": 2295000000.0,
-  "capex_ttm": 176000000.0,
-  "da_ttm": 186000000.0,
+  "price": 318.12,
+  "beta": 1.056,
+  "market_cap": 71597645824,
+  "ocf_ttm": 2109000000.0,
+  "capex_ttm": 170000000.0,
+  "da_ttm": 192000000.0,
   "sbc_est": null,
-  "cash": 564000000,
-  "debt": 13057999872,
-  "shares": 227648372,
+  "cash": 1009000000,
+  "debt": 14023000064,
+  "shares": 225064910,
   "rev_cagr": 0.1113,
-  "latest_rev_yoy": 0.11,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.025,
+  "last_updated": "2026-10-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

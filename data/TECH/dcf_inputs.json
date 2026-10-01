@@ -1,16 +1,16 @@
 {
   "ticker": "TECH",
-  "price": 72.31,
-  "beta": 1.277,
-  "market_cap": 11339526144,
-  "ocf_ttm": 294858000.0,
-  "capex_ttm": 25260000.0,
-  "da_ttm": 100329000.0,
+  "price": 72.47,
+  "beta": 1.275,
+  "market_cap": 11364618240,
+  "ocf_ttm": 292073000.0,
+  "capex_ttm": 28850000.0,
+  "da_ttm": 97359000.0,
   "sbc_est": null,
   "cash": 265479008,
   "debt": 289087008,
   "shares": 156818238,
   "rev_cagr": 0.0225,
   "latest_rev_yoy": 0.013,
-  "last_updated": "2026-09-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "last_updated": "2026-10-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

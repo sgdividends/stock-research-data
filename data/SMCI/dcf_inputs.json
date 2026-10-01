@@ -1,16 +1,16 @@
 {
   "ticker": "SMCI",
-  "price": 31.2,
-  "beta": 1.936,
-  "market_cap": 20182437888,
-  "ocf_ttm": -6693234000.0,
-  "capex_ttm": 156447000.0,
-  "da_ttm": 84592000.0,
+  "price": 41.07,
+  "beta": 1.996,
+  "market_cap": 26981568512,
+  "ocf_ttm": -6809886000.0,
+  "capex_ttm": 161999000.0,
+  "da_ttm": 90267000.0,
   "sbc_est": null,
-  "cash": 1305032960,
-  "debt": 9151156224,
-  "shares": 646873027,
-  "rev_cagr": 0.6171,
-  "latest_rev_yoy": 1.227,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "cash": 7544584192,
+  "debt": 9259886592,
+  "shares": 656965384,
+  "rev_cagr": 0.7634,
+  "latest_rev_yoy": 0.932,
+  "last_updated": "2026-10-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }
