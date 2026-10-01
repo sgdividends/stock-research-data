@@ -1,7 +1,14 @@
 {
   "ticker": "WMT",
-  "generated_at": "2026-10-01T03:37:52.091089+00:00",
+  "generated_at": "2026-10-01T10:39:52.512293+00:00",
   "items": [
+    {
+      "title": "This Fidelity Manager Likes Coca-Cola, Keurig Dr Pepper, and Other Consumer Staples Bargains",
+      "summary": "Ben Shuleva, consumer-sector leader at Fidelity Investments, sees tough times for the industry but opportunities in some food, beverage, and retailing names.",
+      "pub_date": "2026-10-01T07:30:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/coca-cola-keurig-dr-pepper-stocks-consumer-staples-880a65d7?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Walmart Stocks Slip as Digital Labels Reject Personalized Pricing",
       "summary": "Closed-system displays contain no cameras, microphones or facial recognition and show identical prices to every shopper.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-09-30T07:07:23Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ulta-beauty-ulta-turns-wellness-070723461.html"
-    },
-    {
-      "title": "Walmart (WMT) Says its Digital Shelf Labels Do Not Use Personal Data to Set Prices",
-      "summary": "Walmart Inc. (NYSE:WMT) said on September 27 that it does not use personal information to set prices, as it expands the digital shelf labels, replacing paper tags across its stores. The labels can be updated electronically rather than by hand, and the same capability has raised concern that prices could be varied by shopper or [\u2026]",
-      "pub_date": "2026-09-30T06:47:51Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-says-digital-shelf-064751305.html"
     }
   ]
 }

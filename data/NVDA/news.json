@@ -1,6 +1,6 @@
 {
   "ticker": "NVDA",
-  "generated_at": "2026-10-01T03:37:26.884353+00:00",
+  "generated_at": "2026-10-01T10:39:33.118037+00:00",
   "items": [
     {
       "title": "Breaking down Jensen Huang's biggest moves of Q3 2026",
@@ -8,6 +8,20 @@
       "pub_date": "2026-09-30T14:10:14Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/breaking-down-jensen-huangs-biggest-141014414.html"
+    },
+    {
+      "title": "How Micron's earnings results could impact chip ETFs",
+      "summary": "The 8:30 Hosts Julie Hyman, Pras Subramanian, and Jake Conley discuss the health of memory exchange-traded funds (ETFs) and how Micron's (MU) quarterly earnings results will factor in.",
+      "pub_date": "2026-09-30T13:36:32Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/microns-earnings-results-could-impact-133632512.html"
+    },
+    {
+      "title": "Meta reportedly calls its AI data centers \u2018pilot models\u2019 \u2014 its research tax credits jumped from $700M to $3.9B",
+      "summary": "The company appears to have netted the most from that credit among all publicly traded companies.",
+      "pub_date": "2026-10-01T03:55:00Z",
+      "source": "Moneywise",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-reportedly-calls-ai-data-035500665.html"
     },
     {
       "title": "Forget Waiting Three Months for SPY\u2019s Dividend. Invesco\u2019s High-Dividend Fund Pays Every Month",
@@ -43,20 +57,6 @@
       "pub_date": "2026-09-30T20:52:26Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/changed-marvells-story-205226599.html"
-    },
-    {
-      "title": "Nvidia, AMD Collaborator Teases Breakout To Record High. These Clues Bode Well.",
-      "summary": "Helping to bridge and connect the AI and IoT worlds, Semtech flirts with a breakout to a record high as Nvidia, AMD also shine.",
-      "pub_date": "2026-09-30T20:19:14Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/research/breakout-stocks-technical-analysis/semtech-stock-teases-record-high-nvidia-amd-enter-buy-range/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "FTC Reportedly Probes OpenAI and Anthropic as Trump Backs AI Self-Regulation",
-      "summary": "The inquiry into OpenAI and Anthropic adds regulatory uncertainty as President Trump endorses voluntary AI safety commitments.",
-      "pub_date": "2026-09-30T19:47:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/ftc-openai-anthropic-ai-safety-investigation-8eb4be96?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

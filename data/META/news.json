@@ -1,6 +1,6 @@
 {
   "ticker": "META",
-  "generated_at": "2026-10-01T03:37:21.025060+00:00",
+  "generated_at": "2026-10-01T10:39:28.488299+00:00",
   "items": [
     {
       "title": "Big Tech's equally big debt pile is raising concerns about the AI boom",
@@ -8,6 +8,27 @@
       "pub_date": "2026-09-30T13:50:17Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/big-techs-equally-big-debt-135017077.html"
+    },
+    {
+      "title": "OpenAI's Dots connect to 4,000 apps and never sleep",
+      "summary": "OpenAI just unveiled Dots: an always-on AI assistant with 4,000+ tools that might just be the closest thing yet to Tony Stark's \"Jarvis.\" In The Loop host Ejaaz Ahamadeen explains how Dots stacks up against Meta's Muse and Elon Musk's Grok Bot, and how OpenAI's other Dev Day launches fit together with the new, 24/7 agent. If you want to know where AI assistants are headed, start here.",
+      "pub_date": "2026-09-30T11:00:00Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/openais-dots-connect-4-000-110000304.html"
+    },
+    {
+      "title": "Meta counted Mark Zuckerberg\u2019s $4.1B stock payout as research pay to claim a $355M tax break \u2014 and the IRS wants it back",
+      "summary": "Meta says Zuckerberg was writing code when he got his options in 2005. The IRS says only his work from 2008 to 2010 counts, and $355 million rides on who's right.",
+      "pub_date": "2026-10-01T04:05:00Z",
+      "source": "Moneywise",
+      "url": "https://finance.yahoo.com/economy/policy/articles/meta-counted-mark-zuckerberg-4-040500231.html"
+    },
+    {
+      "title": "Meta reportedly calls its AI data centers \u2018pilot models\u2019 \u2014 its research tax credits jumped from $700M to $3.9B",
+      "summary": "The company appears to have netted the most from that credit among all publicly traded companies.",
+      "pub_date": "2026-10-01T03:55:00Z",
+      "source": "Moneywise",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-reportedly-calls-ai-data-035500665.html"
     },
     {
       "title": "Tech CEOs questioned Anthropic leader over AI safety warnings, WSJ reports",
@@ -36,27 +57,6 @@
       "pub_date": "2026-09-30T19:30:31Z",
       "source": "Benzinga",
       "url": "https://www.yahoo.com/news/politics/articles/mike-johnson-says-us-must-193031375.html"
-    },
-    {
-      "title": "Amazon Stock Has 46% Upside. Muse and Dots Threats Are \u2018Overstated.\u2019",
-      "summary": "Amazon stock has 46% upside even as Wall Street worries AI consumer AI agents could hit the business, according to one Wall Street firm.",
-      "pub_date": "2026-09-30T18:29:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/amazon-stock-meta-muse-openai-dots-64ca6378?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Meta Stock Slides as Muse Faces OpenAI Threat",
-      "summary": "The Facebook parent\u2019s move into AI personal assistants may end up costing more than its worth, StoneX analyst Mark Zgutowicz says.",
-      "pub_date": "2026-09-30T18:05:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/meta-muse-stock-openai-40103b67?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Needham names top SaaS picks amid Meta Enterprise Platform concerns",
-      "summary": "Investing.com -- Needham analyst Scott Berg identified three software stocks as top picks following a recent market selloff triggered by Meta's Enterprise Platform announcement, noting that the new offering does not directly compete with enterprise software vendors in his coverage universe.",
-      "pub_date": "2026-09-30T16:10:32Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/articles/needham-names-top-saas-picks-161032003.html"
     }
   ]
 }

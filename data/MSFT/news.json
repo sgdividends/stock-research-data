@@ -1,14 +1,7 @@
 {
   "ticker": "MSFT",
-  "generated_at": "2026-10-01T03:37:23.727646+00:00",
+  "generated_at": "2026-10-01T10:39:30.568533+00:00",
   "items": [
-    {
-      "title": "AI in America has a huge 1.7 million job shortage problem",
-      "summary": "Got skilled workers?",
-      "pub_date": "2026-09-30T10:08:47Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/article/ai-in-america-has-a-huge-17-million-job-shortage-problem-100847922.html"
-    },
     {
       "title": "Dow Jones Futures: Micron Earnings Crush Views, S&P 500 At Critical Level As Treasury Yields Rise",
       "summary": "The Nasdaq faded while the S&P 500 fell to its 50-day as Treasury yields keep running. Micron earnings easily beat views.",
@@ -57,6 +50,13 @@
       "pub_date": "2026-09-30T17:30:20Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/energy/articles/chevron-more-going-higher-oil-173020419.html"
+    },
+    {
+      "title": "How Much Upside Is Left In Microsoft Stock?",
+      "summary": "Microsoft (MSFT) shares returned 37% over the past three months, against 2.6% for the S&P 500. Even so, Microsoft's P/E, the price divided by a year of profit, is 28.3. That is below 31.8, the stock's average at the last twelve quarter-ends, leaving out readings above 100. A run that big makes buyers wary, but the shares cost less per dollar of profit than usual. So how much upside is left in Microsoft stock at today's price.",
+      "pub_date": "2026-09-30T17:26:50Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/much-upside-left-microsoft-stock-172650952.html"
     }
   ]
 }
