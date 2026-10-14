@@ -1,123 +1,123 @@
 {
-  "generated_at": "2026-10-13T13:11:27.686696+00:00",
+  "generated_at": "2026-10-14T10:51:45.084561+00:00",
   "universe_size": 509,
   "most_oversold_rsi": [
     {
       "ticker": "INCY",
       "rsi_14_pctile_1y": 0.0,
-      "close": 111.36
+      "close": 108.62
     },
     {
       "ticker": "BMY",
       "rsi_14_pctile_1y": 0.0,
-      "close": 57.58
+      "close": 56.67
     },
     {
       "ticker": "WDC",
       "rsi_14_pctile_1y": 0.0,
-      "close": 386.94
+      "close": 380.71
+    },
+    {
+      "ticker": "VRTX",
+      "rsi_14_pctile_1y": 0.0,
+      "close": 485.22
     },
     {
       "ticker": "STX",
       "rsi_14_pctile_1y": 0.0,
-      "close": 753.25
+      "close": 747.2
     },
     {
-      "ticker": "CMCSA",
-      "rsi_14_pctile_1y": 0.8,
-      "close": 20.68
+      "ticker": "BEN",
+      "rsi_14_pctile_1y": 0.4,
+      "close": 31.18
+    },
+    {
+      "ticker": "BNY",
+      "rsi_14_pctile_1y": 1.3,
+      "close": 141.03
     },
     {
       "ticker": "SNDK",
       "rsi_14_pctile_1y": 1.3,
-      "close": 1487.33
+      "close": 1482.33
+    },
+    {
+      "ticker": "C",
+      "rsi_14_pctile_1y": 1.3,
+      "close": 124.53
     },
     {
       "ticker": "IVZ",
-      "rsi_14_pctile_1y": 1.7,
-      "close": 29.26
-    },
-    {
-      "ticker": "VZ",
-      "rsi_14_pctile_1y": 2.1,
-      "close": 42.78
-    },
-    {
-      "ticker": "DE",
-      "rsi_14_pctile_1y": 2.5,
-      "close": 632.61
+      "rsi_14_pctile_1y": 1.3,
+      "close": 28.92
     },
     {
       "ticker": "STT",
-      "rsi_14_pctile_1y": 2.5,
-      "close": 174.93
-    },
-    {
-      "ticker": "PFG",
-      "rsi_14_pctile_1y": 3.0,
-      "close": 107.84
-    },
-    {
-      "ticker": "BNY",
-      "rsi_14_pctile_1y": 3.0,
-      "close": 142.85
-    },
-    {
-      "ticker": "MGM",
-      "rsi_14_pctile_1y": 3.0,
-      "close": 29.32
-    },
-    {
-      "ticker": "LVS",
-      "rsi_14_pctile_1y": 3.8,
-      "close": 36.15
+      "rsi_14_pctile_1y": 1.3,
+      "close": 174.1
     },
     {
       "ticker": "NTRS",
-      "rsi_14_pctile_1y": 4.2,
-      "close": 169.21
+      "rsi_14_pctile_1y": 1.7,
+      "close": 167.48
+    },
+    {
+      "ticker": "PFG",
+      "rsi_14_pctile_1y": 2.5,
+      "close": 107.64
+    },
+    {
+      "ticker": "MU",
+      "rsi_14_pctile_1y": 2.5,
+      "close": 953.19
+    },
+    {
+      "ticker": "TGT",
+      "rsi_14_pctile_1y": 2.5,
+      "close": 151.99
     }
   ],
   "most_overbought_rsi": [
     {
       "ticker": "AES",
       "rsi_14_pctile_1y": 99.6,
-      "close": 14.98
-    },
-    {
-      "ticker": "CCI",
-      "rsi_14_pctile_1y": 99.6,
-      "close": 81.01
-    },
-    {
-      "ticker": "PTC",
-      "rsi_14_pctile_1y": 99.2,
-      "close": 194.39
-    },
-    {
-      "ticker": "PLTR",
-      "rsi_14_pctile_1y": 98.7,
-      "close": 209.0
+      "close": 14.99
     },
     {
       "ticker": "WRB",
-      "rsi_14_pctile_1y": 98.7,
-      "close": 72.9
+      "rsi_14_pctile_1y": 99.6,
+      "close": 73.55
     },
     {
-      "ticker": "ZTS",
-      "rsi_14_pctile_1y": 98.7,
-      "close": 75.65
+      "ticker": "V",
+      "rsi_14_pctile_1y": 99.2,
+      "close": 396.06
     },
     {
-      "ticker": "AMT",
+      "ticker": "CCI",
       "rsi_14_pctile_1y": 98.7,
-      "close": 182.56
+      "close": 79.56
     },
     {
-      "ticker": "ABBV",
+      "ticker": "PLTR",
       "rsi_14_pctile_1y": 98.3,
-      "close": 281.12
+      "close": 208.67
+    },
+    {
+      "ticker": "VST",
+      "rsi_14_pctile_1y": 98.3,
+      "close": 162.36
+    },
+    {
+      "ticker": "PNW",
+      "rsi_14_pctile_1y": 98.3,
+      "close": 101.58
+    },
+    {
+      "ticker": "P",
+      "rsi_14_pctile_1y": 98.3,
+      "close": 156.97
     },
     {
       "ticker": "EA",
@@ -125,188 +125,188 @@
       "close": 209.7
     },
     {
-      "ticker": "V",
-      "rsi_14_pctile_1y": 97.5,
-      "close": 389.27
-    },
-    {
-      "ticker": "P",
-      "rsi_14_pctile_1y": 96.6,
-      "close": 155.31
-    },
-    {
-      "ticker": "RMD",
-      "rsi_14_pctile_1y": 95.4,
-      "close": 234.6
-    },
-    {
-      "ticker": "TJX",
-      "rsi_14_pctile_1y": 95.4,
-      "close": 141.92
-    },
-    {
       "ticker": "MA",
-      "rsi_14_pctile_1y": 94.9,
-      "close": 595.09
+      "rsi_14_pctile_1y": 97.9,
+      "close": 604.8
     },
     {
-      "ticker": "CCL",
-      "rsi_14_pctile_1y": 94.5,
-      "close": 26.48
+      "ticker": "PTC",
+      "rsi_14_pctile_1y": 97.0,
+      "close": 193.96
+    },
+    {
+      "ticker": "BRK-B",
+      "rsi_14_pctile_1y": 97.0,
+      "close": 520.59
+    },
+    {
+      "ticker": "CSGP",
+      "rsi_14_pctile_1y": 96.6,
+      "close": 30.0
+    },
+    {
+      "ticker": "PSX",
+      "rsi_14_pctile_1y": 96.6,
+      "close": 292.73
+    },
+    {
+      "ticker": "MTD",
+      "rsi_14_pctile_1y": 96.2,
+      "close": 1598.03
     }
   ],
   "most_below_bollinger": [
     {
-      "ticker": "CVNA",
-      "bb_pctb_pctile_1y": 0.4,
-      "close": 59.51
-    },
-    {
-      "ticker": "SOLV",
-      "bb_pctb_pctile_1y": 0.4,
-      "close": 85.31
-    },
-    {
-      "ticker": "SWKS",
-      "bb_pctb_pctile_1y": 0.4,
-      "close": 74.7
+      "ticker": "VRTX",
+      "bb_pctb_pctile_1y": 0.0,
+      "close": 485.22
     },
     {
       "ticker": "BMY",
-      "bb_pctb_pctile_1y": 0.9,
-      "close": 57.58
+      "bb_pctb_pctile_1y": 0.4,
+      "close": 56.67
     },
     {
-      "ticker": "NVR",
+      "ticker": "HWM",
       "bb_pctb_pctile_1y": 0.9,
-      "close": 5749.96
+      "close": 216.84
     },
     {
       "ticker": "IVZ",
       "bb_pctb_pctile_1y": 0.9,
-      "close": 29.26
+      "close": 28.92
+    },
+    {
+      "ticker": "BEN",
+      "bb_pctb_pctile_1y": 0.9,
+      "close": 31.18
+    },
+    {
+      "ticker": "TROW",
+      "bb_pctb_pctile_1y": 1.3,
+      "close": 101.39
+    },
+    {
+      "ticker": "C",
+      "bb_pctb_pctile_1y": 1.7,
+      "close": 124.53
+    },
+    {
+      "ticker": "CAT",
+      "bb_pctb_pctile_1y": 2.2,
+      "close": 772.78
+    },
+    {
+      "ticker": "MU",
+      "bb_pctb_pctile_1y": 2.2,
+      "close": 953.19
     },
     {
       "ticker": "SNDK",
-      "bb_pctb_pctile_1y": 1.7,
-      "close": 1487.33
-    },
-    {
-      "ticker": "HWM",
-      "bb_pctb_pctile_1y": 2.6,
-      "close": 220.81
-    },
-    {
-      "ticker": "DE",
-      "bb_pctb_pctile_1y": 2.6,
-      "close": 632.61
+      "bb_pctb_pctile_1y": 2.2,
+      "close": 1482.33
     },
     {
       "ticker": "UAL",
       "bb_pctb_pctile_1y": 2.6,
-      "close": 104.44
+      "close": 103.23
+    },
+    {
+      "ticker": "JNJ",
+      "bb_pctb_pctile_1y": 2.6,
+      "close": 248.61
     },
     {
       "ticker": "WDC",
       "bb_pctb_pctile_1y": 3.0,
-      "close": 386.94
+      "close": 380.71
     },
     {
       "ticker": "STX",
       "bb_pctb_pctile_1y": 3.4,
-      "close": 753.25
+      "close": 747.2
     },
     {
-      "ticker": "BEN",
-      "bb_pctb_pctile_1y": 3.4,
-      "close": 31.81
-    },
-    {
-      "ticker": "GRMN",
-      "bb_pctb_pctile_1y": 4.7,
-      "close": 266.76
-    },
-    {
-      "ticker": "ALB",
-      "bb_pctb_pctile_1y": 5.6,
-      "close": 98.51
+      "ticker": "TGT",
+      "bb_pctb_pctile_1y": 3.9,
+      "close": 151.99
     }
   ],
   "most_above_bollinger": [
     {
-      "ticker": "CL",
-      "bb_pctb_pctile_1y": 99.6,
-      "close": 89.98
-    },
-    {
-      "ticker": "ABBV",
-      "bb_pctb_pctile_1y": 99.6,
-      "close": 281.12
-    },
-    {
-      "ticker": "ZTS",
-      "bb_pctb_pctile_1y": 99.6,
-      "close": 75.65
-    },
-    {
-      "ticker": "PG",
-      "bb_pctb_pctile_1y": 99.6,
-      "close": 153.2
-    },
-    {
-      "ticker": "STE",
-      "bb_pctb_pctile_1y": 99.6,
-      "close": 218.98
-    },
-    {
-      "ticker": "CHD",
+      "ticker": "COP",
       "bb_pctb_pctile_1y": 99.1,
-      "close": 99.87
+      "close": 140.9
+    },
+    {
+      "ticker": "BF-B",
+      "bb_pctb_pctile_1y": 99.1,
+      "close": 27.29
+    },
+    {
+      "ticker": "EOG",
+      "bb_pctb_pctile_1y": 98.7,
+      "close": 153.17
+    },
+    {
+      "ticker": "EXE",
+      "bb_pctb_pctile_1y": 98.7,
+      "close": 92.37
+    },
+    {
+      "ticker": "XOM",
+      "bb_pctb_pctile_1y": 98.7,
+      "close": 174.08
+    },
+    {
+      "ticker": "IFF",
+      "bb_pctb_pctile_1y": 98.3,
+      "close": 88.2
     },
     {
       "ticker": "YUM",
-      "bb_pctb_pctile_1y": 99.1,
-      "close": 146.75
-    },
-    {
-      "ticker": "CCI",
-      "bb_pctb_pctile_1y": 99.1,
-      "close": 81.01
-    },
-    {
-      "ticker": "CTAS",
       "bb_pctb_pctile_1y": 98.3,
-      "close": 205.23
+      "close": 147.06
     },
     {
-      "ticker": "HCA",
+      "ticker": "CVX",
       "bb_pctb_pctile_1y": 98.3,
-      "close": 458.6
-    },
-    {
-      "ticker": "HUM",
-      "bb_pctb_pctile_1y": 98.3,
-      "close": 433.5
-    },
-    {
-      "ticker": "DECK",
-      "bb_pctb_pctile_1y": 97.8,
-      "close": 84.27
+      "close": 217.73
     },
     {
       "ticker": "MA",
+      "bb_pctb_pctile_1y": 98.3,
+      "close": 604.8
+    },
+    {
+      "ticker": "GEHC",
       "bb_pctb_pctile_1y": 97.8,
-      "close": 595.09
+      "close": 68.79
+    },
+    {
+      "ticker": "HST",
+      "bb_pctb_pctile_1y": 97.8,
+      "close": 23.22
     },
     {
       "ticker": "VLTO",
       "bb_pctb_pctile_1y": 97.4,
-      "close": 98.2
+      "close": 98.99
     },
     {
-      "ticker": "KDP",
+      "ticker": "EQT",
       "bb_pctb_pctile_1y": 97.4,
-      "close": 32.75
+      "close": 54.43
+    },
+    {
+      "ticker": "WRB",
+      "bb_pctb_pctile_1y": 97.4,
+      "close": 73.55
+    },
+    {
+      "ticker": "CSGP",
+      "bb_pctb_pctile_1y": 97.4,
+      "close": 30.0
     }
   ],
   "furthest_below_sma200": [
@@ -316,34 +316,29 @@
       "close": 12.17
     },
     {
-      "ticker": "CHTR",
-      "sma_200_pct_from_price": -40.37,
-      "close": 102.48
+      "ticker": "FICO",
+      "sma_200_pct_from_price": -38.82,
+      "close": 723.03
     },
     {
       "ticker": "APP",
-      "sma_200_pct_from_price": -38.93,
-      "close": 270.87
+      "sma_200_pct_from_price": -38.29,
+      "close": 272.28
     },
     {
-      "ticker": "FICO",
-      "sma_200_pct_from_price": -37.65,
-      "close": 740.0
+      "ticker": "CHTR",
+      "sma_200_pct_from_price": -37.59,
+      "close": 106.95
     },
     {
       "ticker": "ALB",
-      "sma_200_pct_from_price": -36.12,
-      "close": 98.51
+      "sma_200_pct_from_price": -36.57,
+      "close": 97.65
     },
     {
       "ticker": "ROL",
-      "sma_200_pct_from_price": -34.24,
-      "close": 32.07
-    },
-    {
-      "ticker": "PNR",
-      "sma_200_pct_from_price": -34.16,
-      "close": 52.33
+      "sma_200_pct_from_price": -33.88,
+      "close": 32.15
     },
     {
       "ticker": "BLDR",
@@ -351,119 +346,124 @@
       "close": 57.01
     },
     {
+      "ticker": "PNR",
+      "sma_200_pct_from_price": -33.13,
+      "close": 52.97
+    },
+    {
       "ticker": "LULU",
-      "sma_200_pct_from_price": -33.07,
-      "close": 94.66
+      "sma_200_pct_from_price": -33.02,
+      "close": 94.34
     },
     {
       "ticker": "APTV",
-      "sma_200_pct_from_price": -30.12,
-      "close": 43.55
-    },
-    {
-      "ticker": "LVS",
-      "sma_200_pct_from_price": -28.84,
-      "close": 36.15
+      "sma_200_pct_from_price": -28.79,
+      "close": 44.26
     },
     {
       "ticker": "BSX",
-      "sma_200_pct_from_price": -27.11,
-      "close": 43.84
-    },
-    {
-      "ticker": "WYNN",
-      "sma_200_pct_from_price": -26.22,
-      "close": 74.96
-    },
-    {
-      "ticker": "NKE",
-      "sma_200_pct_from_price": -26.19,
-      "close": 35.35
+      "sma_200_pct_from_price": -27.68,
+      "close": 43.31
     },
     {
       "ticker": "LII",
-      "sma_200_pct_from_price": -26.07,
-      "close": 356.72
+      "sma_200_pct_from_price": -27.33,
+      "close": 350.13
+    },
+    {
+      "ticker": "LVS",
+      "sma_200_pct_from_price": -26.88,
+      "close": 37.04
+    },
+    {
+      "ticker": "PODD",
+      "sma_200_pct_from_price": -26.53,
+      "close": 138.13
+    },
+    {
+      "ticker": "NKE",
+      "sma_200_pct_from_price": -26.05,
+      "close": 35.33
     }
   ],
   "furthest_above_sma200": [
     {
       "ticker": "MRNA",
-      "sma_200_pct_from_price": 190.65,
-      "close": 213.74
+      "sma_200_pct_from_price": 190.44,
+      "close": 216.25
     },
     {
       "ticker": "P",
-      "sma_200_pct_from_price": 91.51,
-      "close": 155.31
+      "sma_200_pct_from_price": 92.48,
+      "close": 156.97
     },
     {
       "ticker": "DELL",
-      "sma_200_pct_from_price": 88.16,
-      "close": 576.76
+      "sma_200_pct_from_price": 85.41,
+      "close": 572.47
     },
     {
       "ticker": "HPE",
-      "sma_200_pct_from_price": 83.62,
-      "close": 70.33
+      "sma_200_pct_from_price": 78.62,
+      "close": 68.81
     },
     {
       "ticker": "MPC",
-      "sma_200_pct_from_price": 69.9,
-      "close": 458.81
-    },
-    {
-      "ticker": "NTAP",
-      "sma_200_pct_from_price": 67.96,
-      "close": 239.18
-    },
-    {
-      "ticker": "CRWD",
-      "sma_200_pct_from_price": 66.43,
-      "close": 263.01
-    },
-    {
-      "ticker": "ILMN",
-      "sma_200_pct_from_price": 65.7,
-      "close": 276.67
+      "sma_200_pct_from_price": 75.61,
+      "close": 476.98
     },
     {
       "ticker": "VLO",
-      "sma_200_pct_from_price": 62.52,
-      "close": 436.0
+      "sma_200_pct_from_price": 69.22,
+      "close": 456.46
+    },
+    {
+      "ticker": "NTAP",
+      "sma_200_pct_from_price": 67.09,
+      "close": 239.01
+    },
+    {
+      "ticker": "CRWD",
+      "sma_200_pct_from_price": 64.55,
+      "close": 261.21
+    },
+    {
+      "ticker": "ILMN",
+      "sma_200_pct_from_price": 61.75,
+      "close": 271.18
     },
     {
       "ticker": "FTNT",
-      "sma_200_pct_from_price": 58.33,
-      "close": 192.94
-    },
-    {
-      "ticker": "PANW",
-      "sma_200_pct_from_price": 57.13,
-      "close": 403.83
-    },
-    {
-      "ticker": "MRVL",
-      "sma_200_pct_from_price": 53.97,
-      "close": 265.86
+      "sma_200_pct_from_price": 55.84,
+      "close": 190.76
     },
     {
       "ticker": "AMD",
-      "sma_200_pct_from_price": 53.46,
-      "close": 594.24
+      "sma_200_pct_from_price": 55.6,
+      "close": 605.53
     },
     {
-      "ticker": "DDOG",
-      "sma_200_pct_from_price": 51.97,
-      "close": 287.29
+      "ticker": "MRVL",
+      "sma_200_pct_from_price": 54.81,
+      "close": 268.73
     },
     {
       "ticker": "PSX",
-      "sma_200_pct_from_price": 49.42,
-      "close": 281.47
+      "sma_200_pct_from_price": 54.72,
+      "close": 292.73
+    },
+    {
+      "ticker": "PANW",
+      "sma_200_pct_from_price": 53.86,
+      "close": 397.03
+    },
+    {
+      "ticker": "DDOG",
+      "sma_200_pct_from_price": 49.31,
+      "close": 283.34
     }
   ],
-  "bullish_macd_count": 379,
-  "bearish_macd_count": 130,
+  "bullish_macd_count": 386,
+  "bearish_macd_count": 123,
   "note": "Rankings are each ticker's own trailing-1yr RSI/%%B percentile (how extreme vs its OWN history), not a cross-sectional rank vs the rest of the universe on the same day -- sma_200_pct_from_price columns ARE directly cross-sectional (plain %% distance) though. Use this file for 'which names look extreme' screens; fetch the individual data/{TICKER}/*.json files for a full single-name brief."
 }
