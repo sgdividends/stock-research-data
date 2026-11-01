@@ -1,0 +1,16 @@
+{
+  "ticker": "VMRK",
+  "price": 61.9,
+  "beta": 0.568,
+  "market_cap": 47896928256,
+  "ocf_ttm": 1660462000.0,
+  "capex_ttm": 291607000.0,
+  "da_ttm": 929837000.0,
+  "sbc_est": null,
+  "cash": 90121000,
+  "debt": 9187223552,
+  "shares": 773779120,
+  "rev_cagr": 0.0545,
+  "latest_rev_yoy": 0.033,
+  "last_updated": "2026-11-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

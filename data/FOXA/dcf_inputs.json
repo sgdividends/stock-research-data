@@ -1,16 +1,16 @@
 {
   "ticker": "FOXA",
-  "price": 55.09,
-  "beta": 0.55,
-  "market_cap": 23132325888,
-  "ocf_ttm": 2616000000.0,
-  "capex_ttm": 480000000.0,
-  "da_ttm": 401000000.0,
+  "price": 63.24,
+  "beta": 0.613,
+  "market_cap": 26666641408,
+  "ocf_ttm": 1970000000.0,
+  "capex_ttm": 502000000.0,
+  "da_ttm": 410000000.0,
   "sbc_est": null,
-  "cash": 3600999936,
-  "debt": 7574000128,
-  "shares": 419900652,
-  "rev_cagr": 0.0527,
-  "latest_rev_yoy": -0.086,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "cash": 4204999936,
+  "debt": 7568000000,
+  "shares": 421673622,
+  "rev_cagr": 0.0472,
+  "latest_rev_yoy": 0.281,
+  "last_updated": "2026-11-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

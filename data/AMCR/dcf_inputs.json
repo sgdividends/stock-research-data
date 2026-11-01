@@ -1,16 +1,16 @@
 {
   "ticker": "AMCR",
-  "price": 42.63,
-  "beta": 0.614,
-  "market_cap": 19709798400,
-  "ocf_ttm": 1670000000.0,
-  "capex_ttm": 907000000.0,
-  "da_ttm": 1437000000.0,
+  "price": 47.39,
+  "beta": 0.576,
+  "market_cap": 21891606528,
+  "ocf_ttm": 2151000000.0,
+  "capex_ttm": 922000000.0,
+  "da_ttm": 1479000000.0,
   "sbc_est": null,
-  "cash": 1587000064,
-  "debt": 16762999808,
-  "shares": 462345690,
-  "rev_cagr": 0.0105,
-  "latest_rev_yoy": 0.774,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "cash": 1115000064,
+  "debt": 15139999744,
+  "shares": 461945690,
+  "rev_cagr": 0.1695,
+  "latest_rev_yoy": 0.259,
+  "last_updated": "2026-11-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

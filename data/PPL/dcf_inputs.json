@@ -1,8 +1,8 @@
 {
   "ticker": "PPL",
-  "price": 32.89,
-  "beta": 0.583,
-  "market_cap": 24751198208,
+  "price": 35.65,
+  "beta": 0.577,
+  "market_cap": 26828224512,
   "ocf_ttm": 2654000000.0,
   "capex_ttm": 4646000000.0,
   "da_ttm": 1499000000.0,
@@ -12,5 +12,5 @@
   "shares": 752544841,
   "rev_cagr": 0.0459,
   "latest_rev_yoy": 0.042,
-  "last_updated": "2026-10-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "last_updated": "2026-11-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

@@ -1,0 +1,16 @@
+{
+  "ticker": "BE",
+  "price": 203.17,
+  "beta": 3.776,
+  "market_cap": 60044296192,
+  "ocf_ttm": 690968000.0,
+  "capex_ttm": 254264000.0,
+  "da_ttm": 54014000.0,
+  "sbc_est": null,
+  "cash": 2486702080,
+  "debt": 2786594048,
+  "shares": 295537217,
+  "rev_cagr": 0.1906,
+  "latest_rev_yoy": 1.381,
+  "last_updated": "2026-11-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

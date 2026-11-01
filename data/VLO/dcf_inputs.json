@@ -1,16 +1,16 @@
 {
   "ticker": "VLO",
-  "price": 305.26,
-  "beta": 0.545,
-  "market_cap": 90641702912,
-  "ocf_ttm": 6264000000.0,
-  "capex_ttm": 712000000.0,
-  "da_ttm": 3307000000.0,
+  "price": 399.66,
+  "beta": 0.592,
+  "market_cap": 111458942976,
+  "ocf_ttm": 15959000000.0,
+  "capex_ttm": 881000000.0,
+  "da_ttm": 3078000000.0,
   "sbc_est": null,
-  "cash": 5733000192,
-  "debt": 11491000320,
-  "shares": 296932782,
+  "cash": 9840000000,
+  "debt": 11000999936,
+  "shares": 278884400,
   "rev_cagr": -0.114,
-  "latest_rev_yoy": 0.066,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.465,
+  "last_updated": "2026-11-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

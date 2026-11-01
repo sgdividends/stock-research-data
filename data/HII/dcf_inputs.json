@@ -1,16 +1,16 @@
 {
   "ticker": "HII",
-  "price": 287.09,
-  "beta": 0.248,
-  "market_cap": 11312501760,
-  "ocf_ttm": 1201000000.0,
-  "capex_ttm": 409000000.0,
-  "da_ttm": 326000000.0,
+  "price": 316.88,
+  "beta": 0.21,
+  "market_cap": 12486992896,
+  "ocf_ttm": 749000000.0,
+  "capex_ttm": 422000000.0,
+  "da_ttm": 317000000.0,
   "sbc_est": null,
-  "cash": 216000000,
-  "debt": 2931000064,
-  "shares": 39404029,
+  "cash": 387000000,
+  "debt": 2928999936,
+  "shares": 39406060,
   "rev_cagr": 0.0535,
-  "latest_rev_yoy": 0.134,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.108,
+  "last_updated": "2026-11-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

@@ -1,16 +1,16 @@
 {
   "ticker": "RCL",
-  "price": 265.86,
-  "beta": 1.75,
-  "market_cap": 71104806912,
-  "ocf_ttm": 6786000000.0,
-  "capex_ttm": 7202000000.0,
-  "da_ttm": 1814000000.0,
+  "price": 307.18,
+  "beta": 1.822,
+  "market_cap": 82161721344,
+  "ocf_ttm": 6897000000.0,
+  "capex_ttm": 5387000000.0,
+  "da_ttm": 1868000000.0,
   "sbc_est": null,
-  "cash": 876000000,
-  "debt": 23517999104,
-  "shares": 267452084,
+  "cash": 851000000,
+  "debt": 23170000896,
+  "shares": 267470925,
   "rev_cagr": 0.2659,
-  "latest_rev_yoy": 0.065,
-  "last_updated": "2026-10-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
-}}
+  "latest_rev_yoy": 0.088,
+  "last_updated": "2026-11-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

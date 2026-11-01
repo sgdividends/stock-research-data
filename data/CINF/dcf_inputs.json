@@ -1,16 +1,16 @@
 {
   "ticker": "CINF",
-  "price": 179.38,
-  "beta": 0.553,
-  "market_cap": 27747706880,
-  "ocf_ttm": 3458000000.0,
+  "price": 181.19,
+  "beta": 0.528,
+  "market_cap": 27814535168,
+  "ocf_ttm": 3508000000.0,
   "capex_ttm": 19000000.0,
-  "da_ttm": 161000000.0,
+  "da_ttm": 152000000.0,
   "sbc_est": null,
-  "cash": 1259000064,
-  "debt": 884000000,
-  "shares": 154686742,
+  "cash": 1380000000,
+  "debt": 875000000,
+  "shares": 153510324,
   "rev_cagr": 0.2439,
-  "latest_rev_yoy": 0.116,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": -0.182,
+  "last_updated": "2026-11-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

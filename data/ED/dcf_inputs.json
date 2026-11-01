@@ -1,16 +1,16 @@
 {
   "ticker": "ED",
-  "price": 112.79,
-  "beta": 0.264,
-  "market_cap": 41566466048,
-  "ocf_ttm": 4137000000.0,
-  "capex_ttm": 4782000000.0,
-  "da_ttm": 2329000000.0,
+  "price": 116.64,
+  "beta": 0.25,
+  "market_cap": 43136811008,
+  "ocf_ttm": 3955000000.0,
+  "capex_ttm": 4817000000.0,
+  "da_ttm": 2331000000.0,
   "sbc_est": null,
-  "cash": 147000000,
-  "debt": 27177000960,
-  "shares": 368529705,
+  "cash": 1470000000,
+  "debt": 28320000000,
+  "shares": 369828633,
   "rev_cagr": 0.0259,
-  "latest_rev_yoy": 0.062,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.132,
+  "last_updated": "2026-11-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

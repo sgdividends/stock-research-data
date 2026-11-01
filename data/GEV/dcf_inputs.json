@@ -1,16 +1,16 @@
 {
   "ticker": "GEV",
-  "price": 1031.19,
-  "beta": 0.935,
-  "market_cap": 274640519168,
-  "ocf_ttm": 14139000000.0,
-  "capex_ttm": 1701000000.0,
-  "da_ttm": 1202000000.0,
+  "price": 857.87,
+  "beta": 0.967,
+  "market_cap": 227058515968,
+  "ocf_ttm": 19216000000.0,
+  "capex_ttm": 2101000000.0,
+  "da_ttm": 1428000000.0,
   "sbc_est": null,
-  "cash": 9772000256,
-  "debt": 3755000064,
-  "shares": 266333581,
+  "cash": 16364000256,
+  "debt": 3748000000,
+  "shares": 264677066,
   "rev_cagr": 0.0868,
-  "latest_rev_yoy": 0.163,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.268,
+  "last_updated": "2026-11-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

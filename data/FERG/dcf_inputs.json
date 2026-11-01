@@ -1,0 +1,16 @@
+{
+  "ticker": "FERG",
+  "price": 238.68,
+  "beta": 1.121,
+  "market_cap": 46173294592,
+  "ocf_ttm": 1687000000.0,
+  "capex_ttm": 422000000.0,
+  "da_ttm": 387000000.0,
+  "sbc_est": null,
+  "cash": 437000000,
+  "debt": 6887000064,
+  "shares": 193452717,
+  "rev_cagr": 0.025,
+  "latest_rev_yoy": 0.046,
+  "last_updated": "2026-11-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}

@@ -1,16 +1,16 @@
 {
   "ticker": "MKC",
-  "price": 50.19,
-  "beta": 0.626,
-  "market_cap": 13493658624,
-  "ocf_ttm": 1231500000.0,
-  "capex_ttm": 211600000.0,
-  "da_ttm": 256900000.0,
+  "price": 47.29,
+  "beta": 0.641,
+  "market_cap": 12724059136,
+  "ocf_ttm": 1140800000.0,
+  "capex_ttm": 214900000.0,
+  "da_ttm": 272300000.0,
   "sbc_est": null,
-  "cash": 331200000,
-  "debt": 4933499904,
-  "shares": 268851552,
+  "cash": 331100000,
+  "debt": 5018200064,
+  "shares": 269064479,
   "rev_cagr": 0.0251,
-  "latest_rev_yoy": 0.167,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.174,
+  "last_updated": "2026-11-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

@@ -1,16 +1,16 @@
 {
   "ticker": "KDP",
-  "price": 29.67,
-  "beta": 0.407,
-  "market_cap": 40367800320,
-  "ocf_ttm": 2063000000.0,
-  "capex_ttm": 487000000.0,
-  "da_ttm": 775000000.0,
+  "price": 35.84,
+  "beta": 0.41,
+  "market_cap": 48772001792,
+  "ocf_ttm": 2527000000.0,
+  "capex_ttm": 562000000.0,
+  "da_ttm": 1269000000.0,
   "sbc_est": null,
-  "cash": 898000000,
-  "debt": 28891000832,
-  "shares": 1360559471,
+  "cash": 1526000000,
+  "debt": 33528000512,
+  "shares": 1360826038,
   "rev_cagr": 0.0571,
-  "latest_rev_yoy": 0.094,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.756,
+  "last_updated": "2026-11-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

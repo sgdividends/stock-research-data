@@ -1,16 +1,16 @@
 {
   "ticker": "GPN",
-  "price": 77.86,
-  "beta": 0.769,
-  "market_cap": 21298098176,
-  "ocf_ttm": 1812647000.0,
-  "capex_ttm": 751528000.0,
-  "da_ttm": 1828026000.0,
+  "price": 96.84,
+  "beta": 0.805,
+  "market_cap": 25625643008,
+  "ocf_ttm": 1657741000.0,
+  "capex_ttm": 835022000.0,
+  "da_ttm": 2388008000.0,
   "sbc_est": null,
-  "cash": 5861312000,
-  "debt": 23587248128,
-  "shares": 273543507,
+  "cash": 5408962048,
+  "debt": 23555809280,
+  "shares": 264618390,
   "rev_cagr": -0.0496,
-  "latest_rev_yoy": 0.631,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.686,
+  "last_updated": "2026-11-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

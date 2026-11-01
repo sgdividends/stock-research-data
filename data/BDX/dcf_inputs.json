@@ -1,16 +1,16 @@
 {
   "ticker": "BDX",
-  "price": 152.97,
-  "beta": 0.271,
-  "market_cap": 42149416960,
-  "ocf_ttm": 3831000000.0,
-  "capex_ttm": 774000000.0,
-  "da_ttm": 2465000000.0,
+  "price": 197.88,
+  "beta": 0.279,
+  "market_cap": 53899902976,
+  "ocf_ttm": 3262000000.0,
+  "capex_ttm": 728000000.0,
+  "da_ttm": 2326000000.0,
   "sbc_est": null,
-  "cash": 816000000,
-  "debt": 17279000576,
-  "shares": 275540427,
+  "cash": 709000000,
+  "debt": 16807999488,
+  "shares": 272386800,
   "rev_cagr": 0.0499,
-  "latest_rev_yoy": 0.052,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.054,
+  "last_updated": "2026-11-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

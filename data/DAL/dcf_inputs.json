@@ -1,16 +1,16 @@
 {
   "ticker": "DAL",
-  "price": 81.97,
-  "beta": 1.288,
-  "market_cap": 53905362944,
-  "ocf_ttm": 8134000000.0,
-  "capex_ttm": 4724000000.0,
+  "price": 80.15,
+  "beta": 1.336,
+  "market_cap": 52731678720,
+  "ocf_ttm": 8000000000.0,
+  "capex_ttm": 4978000000.0,
   "da_ttm": null,
   "sbc_est": null,
-  "cash": 4664999936,
-  "debt": 21084000256,
-  "shares": 657623030,
+  "cash": 3787000064,
+  "debt": 19935000576,
+  "shares": 657912380,
   "rev_cagr": 0.078,
-  "latest_rev_yoy": 0.187,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.211,
+  "last_updated": "2026-11-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

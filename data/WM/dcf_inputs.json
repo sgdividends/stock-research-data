@@ -1,16 +1,16 @@
 {
   "ticker": "WM",
-  "price": 237.27,
-  "beta": 0.448,
-  "market_cap": 95281881088,
-  "ocf_ttm": 6336000000.0,
-  "capex_ttm": 3046000000.0,
-  "da_ttm": 1996000000.0,
+  "price": 233.45,
+  "beta": 0.43,
+  "market_cap": 92827869184,
+  "ocf_ttm": 6565000000.0,
+  "capex_ttm": 2825000000.0,
+  "da_ttm": 2037000000.0,
   "sbc_est": null,
-  "cash": 158000000,
-  "debt": 22890999808,
-  "shares": 401575752,
+  "cash": 247000000,
+  "debt": 23412000768,
+  "shares": 397634916,
   "rev_cagr": 0.0856,
-  "latest_rev_yoy": 0.035,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.063,
+  "last_updated": "2026-11-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

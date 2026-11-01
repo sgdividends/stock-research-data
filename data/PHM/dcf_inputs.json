@@ -1,16 +1,16 @@
 {
   "ticker": "PHM",
-  "price": 116.06,
-  "beta": 1.201,
-  "market_cap": 22107844608,
-  "ocf_ttm": 1626318000.0,
-  "capex_ttm": 113875000.0,
-  "da_ttm": 112728000.0,
+  "price": 124.74,
+  "beta": 1.164,
+  "market_cap": 23761266688,
+  "ocf_ttm": 1408093000.0,
+  "capex_ttm": 109536000.0,
+  "da_ttm": 113584000.0,
   "sbc_est": null,
-  "cash": 1337081984,
-  "debt": 2481007104,
+  "cash": 1370588032,
+  "debt": 2414220032,
   "shares": 190486353,
   "rev_cagr": 0.0266,
-  "latest_rev_yoy": -0.096,
-  "last_updated": "2026-10-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": -0.098,
+  "last_updated": "2026-11-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

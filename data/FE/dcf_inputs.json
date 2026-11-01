@@ -1,16 +1,16 @@
 {
   "ticker": "FE",
-  "price": 43.33,
-  "beta": 0.441,
-  "market_cap": 25072470016,
-  "ocf_ttm": 3118000000.0,
-  "capex_ttm": 5082000000.0,
-  "da_ttm": 1428000000.0,
+  "price": 46.91,
+  "beta": 0.418,
+  "market_cap": 27155886080,
+  "ocf_ttm": 3194000000.0,
+  "capex_ttm": 5353000000.0,
+  "da_ttm": 1823000000.0,
   "sbc_est": null,
   "cash": 63000000,
   "debt": 28982999040,
-  "shares": 578639932,
+  "shares": 578893330,
   "rev_cagr": 0.0659,
-  "latest_rev_yoy": 0.088,
-  "last_updated": "2026-10-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.099,
+  "last_updated": "2026-11-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

@@ -1,16 +1,16 @@
 {
   "ticker": "ARES",
-  "price": 121.28,
-  "beta": 1.536,
-  "market_cap": 40003796992,
-  "ocf_ttm": 1679271000.0,
-  "capex_ttm": 65846000.0,
+  "price": 128.15,
+  "beta": 1.554,
+  "market_cap": 42517086208,
+  "ocf_ttm": 912125000.0,
+  "capex_ttm": 75978000.0,
   "da_ttm": null,
   "sbc_est": null,
-  "cash": 1438083968,
-  "debt": 14147783680,
-  "shares": 329846626,
+  "cash": 1852358016,
+  "debt": 14872607744,
+  "shares": 331775947,
   "rev_cagr": 0.2239,
-  "latest_rev_yoy": 0.283,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": -0.187,
+  "last_updated": "2026-11-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

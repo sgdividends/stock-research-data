@@ -1,16 +1,16 @@
 {
   "ticker": "CASY",
-  "price": 875.25,
-  "beta": 0.619,
-  "market_cap": 32388548608,
-  "ocf_ttm": 1377540000.0,
-  "capex_ttm": 655920000.0,
-  "da_ttm": 449958000.0,
+  "price": 680.19,
+  "beta": 0.585,
+  "market_cap": 25139937280,
+  "ocf_ttm": 1389195000.0,
+  "capex_ttm": 740269000.0,
+  "da_ttm": 456989000.0,
   "sbc_est": null,
-  "cash": 522991008,
-  "debt": 2905074944,
-  "shares": 37004914,
+  "cash": 524059008,
+  "debt": 2888147968,
+  "shares": 36960167,
   "rev_cagr": 0.0517,
-  "latest_rev_yoy": 0.145,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.243,
+  "last_updated": "2026-11-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

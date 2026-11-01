@@ -1,16 +1,16 @@
 {
   "ticker": "TKO",
-  "price": 179.43,
-  "beta": 0.621,
-  "market_cap": 34293788672,
-  "ocf_ttm": 1817442000.0,
-  "capex_ttm": 119646000.0,
-  "da_ttm": 555015000.0,
+  "price": 180.68,
+  "beta": 0.692,
+  "market_cap": 34197250048,
+  "ocf_ttm": 1795136000.0,
+  "capex_ttm": 122766000.0,
+  "da_ttm": 553281000.0,
   "sbc_est": null,
-  "cash": 788891008,
-  "debt": 4964895232,
-  "shares": 191126288,
+  "cash": 592484992,
+  "debt": 4953576960,
+  "shares": 189269713,
   "rev_cagr": 0.6074,
-  "latest_rev_yoy": 0.259,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.182,
+  "last_updated": "2026-11-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

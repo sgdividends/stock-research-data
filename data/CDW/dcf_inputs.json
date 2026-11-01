@@ -1,16 +1,16 @@
 {
   "ticker": "CDW",
-  "price": 130.18,
-  "beta": 0.962,
-  "market_cap": 16630942720,
-  "ocf_ttm": 1192800000.0,
-  "capex_ttm": 116600000.0,
-  "da_ttm": 295800000.0,
+  "price": 153.79,
+  "beta": 0.941,
+  "market_cap": 19226429440,
+  "ocf_ttm": 981800000.0,
+  "capex_ttm": 121600000.0,
+  "da_ttm": 297600000.0,
   "sbc_est": null,
-  "cash": 578600000,
-  "debt": 6146299904,
-  "shares": 127753451,
+  "cash": 361800000,
+  "debt": 6429499904,
+  "shares": 125017426,
   "rev_cagr": -0.0189,
-  "latest_rev_yoy": 0.092,
-  "last_updated": "2026-07-24 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+  "latest_rev_yoy": 0.1,
+  "last_updated": "2026-11-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
 }

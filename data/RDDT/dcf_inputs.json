@@ -1,0 +1,16 @@
+{
+  "ticker": "RDDT",
+  "price": 91.73,
+  "beta": 2.053,
+  "market_cap": 17712488448,
+  "ocf_ttm": 1026095000.0,
+  "capex_ttm": 7446000.0,
+  "da_ttm": 16519000.0,
+  "sbc_est": null,
+  "cash": 3033432064,
+  "debt": 31409000,
+  "shares": 193093731,
+  "rev_cagr": 0.4893,
+  "latest_rev_yoy": 0.53,
+  "last_updated": "2026-11-01 -- auto-refreshed via GitHub Actions (refresh_fundamentals.py); sbc_est needs manual patch from the 10-K before use in enhanced_iv.py"
+}
