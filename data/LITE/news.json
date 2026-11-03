@@ -1,5 +1,62 @@
 {
   "ticker": "LITE",
-  "generated_at": "2026-11-02T21:21:31.991530+00:00",
-  "items": []
+  "generated_at": "2026-11-03T21:26:46.764510+00:00",
+  "items": [
+    {
+      "title": "Fabrinet Lost 32% in a Month. Barclays Sees 58% Upside From Here",
+      "summary": "Key TakeawaysFabrinet shares fell 32% in the past month as AI optics stocks, including Coherent, Lumentum and Marvell, sold off on fears about AI funding and hyperscaler spending. Fabrinet had no news of its own during the sell-off.",
+      "pub_date": "2026-11-03T20:57:46Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fabrinet-lost-32-month-barclays-205746597.html"
+    },
+    {
+      "title": "Tower Semiconductor Sinks 14% in a Week Despite \u201cThe Strongest Growth Phase in Our History\u201d",
+      "summary": "Key TakeawaysTower Semiconductor fell 14% in the past week, mostly in a chip selloff after Intel\u2019s weak forecast that also hit Lumentum and Coherent. Tower then posted record third-quarter revenue, up 33%, and guidance above estimates.",
+      "pub_date": "2026-11-03T20:42:20Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tower-semiconductor-sinks-14-week-204220913.html"
+    },
+    {
+      "title": "Marvell to Acquire Lumentum in Historic $115B Tech Deal",
+      "summary": "Bloomberg's Liana Baker joins Dani Burger on \"Bloomberg Deals.\" Marvell agreed to buy Lumentum Holdings at an enterprise value of $115 billion, clinching one of the largest technology deals in history in a push to capitalize on runaway data center spending.",
+      "pub_date": "2026-11-03T20:14:02Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/video/marvell-acquire-lumentum-historic-115b-201402012.html"
+    },
+    {
+      "title": "AXT Dropped 14% in a Week After a Record Quarter. Wedbush Still Sees $93",
+      "summary": "Key TakeawaysAXT shares fell 14% in the past week as AI and optical stocks sold off, including on the day Marvell agreed to buy Lumentum. Third-quarter revenue hit a record $73.",
+      "pub_date": "2026-11-03T18:59:27Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/axt-dropped-14-week-record-185927524.html"
+    },
+    {
+      "title": "Marvell\u2019s Lumentum Buy Threatens Broadcom\u2019s AI Optics Lead, Says TrendForce",
+      "summary": "Post-merger, the Marvell-Lumentum combined company\u2019s market share would approach 7%, placing it behind only NVIDIA and Broadcom, TrendForce said.",
+      "pub_date": "2026-11-03T18:43:11Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/technology/articles/marvell-lumentum-buy-threatens-broadcom-184311169.html"
+    },
+    {
+      "title": "Marvell cut to \"neutral\" by BofA as UBS backs Lumentum deal",
+      "summary": "Marvell Technology Inc (NASDAQ:MRVL) received a Bank of America downgrade to \"neutral\" from \"buy\" and a target cut to $225 from $400 over its Lumentum acquisition, while UBS favored the deal. Bank of America maintained its earnings estimates, attributing the target cut to a potential...",
+      "pub_date": "2026-11-03T18:38:00Z",
+      "source": "Proactive",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-cut-neutral-bofa-ubs-183800858.html"
+    },
+    {
+      "title": "What Nvidia and Apple\u2019s Tug-of-War Says About the AI Trade",
+      "summary": "The world\u2019s two largest companies trade places once more following Apple\u2019s so-so revenue guidance.",
+      "pub_date": "2026-11-03T18:14:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/nvidia-stock-market-valuation-apple-d9a136e5?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Marvell and Lumentum Have Lost $91 Billion in Market Value as Merger Doubts Mount",
+      "summary": "The selloff brings Marvell\u2019s valuation of Lumentum into question, but termination fees and strategic benefits could help keep the deal on track.",
+      "pub_date": "2026-11-03T18:12:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/marvell-lumentum-stock-merger-risks-58a5d5e8?siteid=yhoof2&yptr=yahoo"
+    }
+  ]
 }

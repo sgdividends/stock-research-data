@@ -1,5 +1,62 @@
 {
   "ticker": "CRWD",
-  "generated_at": "2026-11-02T21:20:46.150537+00:00",
-  "items": []
+  "generated_at": "2026-11-03T21:26:03.302268+00:00",
+  "items": [
+    {
+      "title": "CrowdStrike announces 'kill switch' for AI agents that go rogue",
+      "summary": "CrowdStrike has agreed to buy two AI security startups for a combined purchase price of $495 million, according to the Wall Street Journal.",
+      "pub_date": "2026-11-03T14:52:55Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/crowdstrike-says-it-will-buy-2-ai-cybersecurity-startups-announces-kill-switch-for-ai-agents-163631619.html"
+    },
+    {
+      "title": "CrowdStrike Launches AI Agent 'Kill Switch,' Plans to Acquire Fiddler AI",
+      "summary": "CrowdStrike's new kill switch lets security teams cut off unauthorized AI agents through a gateway, while its planned Fiddler acquisition aims to make autonomous software easier to monitor and audit.",
+      "pub_date": "2026-11-03T21:16:03Z",
+      "source": "decrypt",
+      "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-launches-ai-agent-kill-211603377.html"
+    },
+    {
+      "title": "CrowdStrike Makes $495 Million Bet on AI Security",
+      "summary": "The deals give CrowdStrike new tools to test and monitor autonomous AI agents.",
+      "pub_date": "2026-11-03T18:06:25Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-makes-495-million-bet-180625048.html"
+    },
+    {
+      "title": "CrowdStrike to Pay $495 Million for Two AI Startups",
+      "summary": "The deals landed alongside a new AI Kill Switch aimed at unauthorized agent activity",
+      "pub_date": "2026-11-03T18:00:00Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-pay-495-million-two-180000273.html"
+    },
+    {
+      "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+      "summary": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
+      "pub_date": "2026-11-03T17:56:52Z",
+      "source": "TechCrunch",
+      "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-shell-nearly-500m-2-175652041.html"
+    },
+    {
+      "title": "CrowdStrike Stocks Gain 2.5% as Fiddler Deal Expands AI Agent Oversight",
+      "summary": "Falcon Observe is planned for fiscal fourth-quarter availability, subject to transaction completion",
+      "pub_date": "2026-11-03T17:52:02Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-stocks-gain-2-5-175202432.html"
+    },
+    {
+      "title": "Cerebras Systems Craters Again, Down Nearly 50% Year-to-Date: 240% Gains to Come According to This Wall Street Analyst",
+      "summary": "A short report, an insider selling flood, and whispers that its biggest customer jumped ship sent Cerebras crashing below $100. One Wall Street analyst just slapped a Buy on the rubble and sees a path to triple-digit gains.",
+      "pub_date": "2026-11-03T15:45:20Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-systems-craters-again-down-154520047.html"
+    },
+    {
+      "title": "CrowdStrike Integrates Falcon Guardian Security Into Anthropic\u2019s Claude Cowork to Protect AI Agents",
+      "summary": "CrowdStrike (NASDAQ:CRWD) has announced a new integration between its Falcon Guardian AI Detection and Response (AIDR) technology and Anthropic\u2019s Claude Cowork platform, extending enterprise cybersecurity protection to artificial intelligence agents. The announcement was made during Fal.",
+      "pub_date": "2026-11-03T14:56:07Z",
+      "source": "InvestorsHub",
+      "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-integrates-falcon-guardian-security-145607875.html"
+    }
+  ]
 }
