@@ -1,20 +1,41 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-11-04T04:26:33.252234+00:00",
+  "generated_at": "2026-11-04T15:54:36.180818+00:00",
   "items": [
+    {
+      "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
+      "summary": "Titan OS has raised $110 million in funding to date",
+      "pub_date": "2026-11-04T15:00:00Z",
+      "source": "TechCrunch",
+      "url": "https://finance.yahoo.com/media-advertising/articles/titan-os-raises-46-million-150000272.html"
+    },
+    {
+      "title": "Circle\u2019s Earnings Beat Is a Sign Stablecoins Have Arrived. A Payoff for Crypto Stocks May Take Longer.",
+      "summary": "Circle Internet stock rises as the average circulation of its USDC stablecoin grows 8% from a year ago.",
+      "pub_date": "2026-11-04T12:10:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/circle-internet-earnings-stock-price-b3bace9c?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Should You Invest in the iShares U.S. Financial Services ETF (IYG)?",
+      "summary": "Sector ETF report for IYG",
+      "pub_date": "2026-11-04T10:20:02Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/invest-ishares-u-financial-services-102002854.html"
+    },
+    {
+      "title": "Should You Invest in the iShares U.S. Healthcare Providers ETF (IHF)?",
+      "summary": "Sector ETF report for IHF",
+      "pub_date": "2026-11-04T10:20:02Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/healthcare/articles/invest-ishares-u-healthcare-providers-102002181.html"
+    },
     {
       "title": "What Happens to Stocks After the Midterm Elections?",
       "summary": "Many market experts think that, by and large, who\u2019s in charge of Congress after the midterms may not matter much to investors\u2019 portfolios.",
       "pub_date": "2026-11-03T21:07:15Z",
       "source": "Investopedia",
       "url": "https://finance.yahoo.com/markets/stocks/articles/happens-stocks-midterm-elections-210715518.html"
-    },
-    {
-      "title": "Crypto Fears Set the Stage for Circle Earnings After Binance Hack",
-      "summary": "Circle Internet\u2019s stock got hit after the Binance hack. Solid earnings from the stablecoin issuer could get it back on track.",
-      "pub_date": "2026-11-03T21:07:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/circle-internet-earnings-stock-price-b3bace9c?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "BlackRock (BLK) Could Be 13% Overvalued As Robotics ETF Launch Tests Valuation",
@@ -36,27 +57,6 @@
       "pub_date": "2026-11-03T17:06:05Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/video/parents-missing-1-000-trump-170605557.html"
-    },
-    {
-      "title": "Bitcoin ETFs Lose $1 Billion as Midterms, Binance Hack Weigh on Sentiment",
-      "summary": "Investors pulled over $1 billion from US-listed Bitcoin funds over two trading sessions, as the record Binance hack and uncertainty around the US midterm elections remain an overhang on sentiment.",
-      "pub_date": "2026-11-03T15:18:58Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-etfs-lose-1-billion-151858654.html"
-    },
-    {
-      "title": "US Midterm Elections: Yardeni Warns A Blue Wave Could Deliver \u2018A Cold Shower For Stocks\u2019 \u2014 UBS Sees Near-Term Volatility",
-      "summary": "Strategists are weighing risks to fiscal negotiations, Treasury yields and AI investment as Americans vote in the November 3 midterm elections.",
-      "pub_date": "2026-11-03T13:26:00Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-midterm-elections-yardeni-warns-132600897.html"
-    },
-    {
-      "title": "U.S. Loses $35.1 Billion From Its Bet On Intel's Imploding Stock",
-      "summary": "Iran isn't the only place leaving the U.S. shellshocked. The nation's investment in Santa Clara, Calif. \u2014 on Intel \u2014 are causing pain.",
-      "pub_date": "2026-11-03T12:07:14Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/etfs-and-funds/sectors/sp500-u-s-loses-billions-from-its-bet-on-intels-imploding-stock/?src=A00220&yptr=yahoo"
     }
   ]
 }

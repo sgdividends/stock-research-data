@@ -1,7 +1,14 @@
 {
   "ticker": "WRB",
-  "generated_at": "2026-11-04T04:28:18.744864+00:00",
+  "generated_at": "2026-11-04T15:56:16.127532+00:00",
   "items": [
+    {
+      "title": "UNM Q3 Earnings Beat Estimates on Premium Growth and Investment Income",
+      "summary": "Unum Group's Q3 2026 earnings beat estimates despite a 21.7% decline, as premium growth and Colonial Life's strength offset elevated disability claims.",
+      "pub_date": "2026-11-04T14:30:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/healthcare/articles/unm-q3-earnings-beat-estimates-143000792.html"
+    },
     {
       "title": "CNA Q3 Earnings Miss on Higher LTC Reserves, Catastrophe Losses",
       "summary": "CNA Financial's Q3 earnings fall 50% as reserve updates and catastrophe losses pressure underwriting, despite premium growth and improved International results.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-10-27T14:15:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cinf-q3-earnings-beat-estimates-141500601.html"
-    },
-    {
-      "title": "BRO Q3 Earnings Miss Estimates on Weak Growth, Margin Pressure",
-      "summary": "Brown & Brown's Q3 revenue growth is supported by acquisitions, but weak organic growth, softer specialty markets and margin pressure weigh on results.",
-      "pub_date": "2026-10-27T14:11:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bro-q3-earnings-miss-estimates-141100706.html"
     }
   ]
 }
