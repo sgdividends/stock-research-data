@@ -1,7 +1,14 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-11-03T21:26:35.084645+00:00",
+  "generated_at": "2026-11-04T04:27:15.988830+00:00",
   "items": [
+    {
+      "title": "Lockheed Martin to Pay $29.5 Million to Settle Federal Probe Over Diversity Efforts",
+      "summary": "The Trump administration has been investigating big U.S. companies under a novel use of a law meant to police U.S. government contractors.",
+      "pub_date": "2026-11-04T00:36:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/lockheed-martin-to-pay-29-5-million-to-settle-federal-probe-over-diversity-efforts-fbf1adf1?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Salesforce vs. IBM: Comparing Consistent Revenue Expansion Against Slow Sales Growth",
       "summary": "IBM's revenue towers over Salesforce's, but a closer look at quarterly patterns reveals which company offers more predictable growth for long-term investors.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-02T16:57:01Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/international-business-machines-vs-synopsys-165701986.html"
-    },
-    {
-      "title": "Quantum X Labs Tests Qatacomb Encryption on IBM Quantum Processor",
-      "summary": "Quantum X Labs Inc. (NASDAQ:QXL) has completed its first demonstration of its Qatacomb quantum encryption technology on commercial quantum computing hardware, using IBM\u2019s 156-qubit Heron r2 processor and the open-source Qiskit framework.",
-      "pub_date": "2026-11-02T13:38:01Z",
-      "source": "InvestorsHub",
-      "url": "https://finance.yahoo.com/technology/ai/articles/quantum-x-labs-tests-qatacomb-133801997.html"
     }
   ]
 }

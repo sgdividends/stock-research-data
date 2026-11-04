@@ -1,18 +1,46 @@
 {
   "ticker": "MSFT",
-  "generated_at": "2026-11-03T21:26:55.984559+00:00",
+  "generated_at": "2026-11-04T04:27:36.677330+00:00",
   "items": [
     {
-      "title": "Apple just made twice as much free cash as Microsoft, Meta, Alphabet and Amazon combined: Chart of the Day",
-      "summary": "Apple just had the biggest cash year in its history, and it didn't need to build a fleet of AI data centers to get there.",
-      "pub_date": "2026-11-03T11:00:00Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/apple-just-made-twice-as-much-free-cash-as-microsoft-meta-alphabet-and-amazon-combined-chart-of-the-day-110000928.html"
+      "title": "Stock Market Election Night: Dow Futures Fall, Techs Tumble In Blue Wave; CoreWeave, SpaceX, Tesla Hit",
+      "summary": "AI stocks are sliding, even with Arista Networks and AMD rising on earnings.",
+      "pub_date": "2026-11-04T04:18:52Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-election-night-dow-jones-futures-ai-oil-prices-elon-musk-amd/?src=A00220&yptr=yahoo"
     },
     {
-      "title": "Stock Market Today: Dow Dips, Palantir Fights Back; DuPont Surges Past Entry (Live Coverage)",
+      "title": "Tom Lee says AI investors may be selling at the wrong time",
+      "summary": "Lee says the sell-off might be near a bottom.",
+      "pub_date": "2026-11-04T03:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tom-lee-says-ai-investors-030300330.html"
+    },
+    {
+      "title": "Microsoft (MSFT) Deepens Enterprise AI Networking Partnership",
+      "summary": "Microsoft (NasdaqGS:MSFT) and Lumen Technologies expanded their co-selling agreement to focus on AI-ready cloud networking for enterprises. The collaboration targets large organizations running distributed AI workloads on Microsoft Azure with integrated connectivity, security, and data services. Lumen plans to align its network and security offerings with Azure to support unified governance for enterprise AI agents and applications. The expanded Microsoft and Lumen AI networking push is...",
+      "pub_date": "2026-11-04T02:07:44Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-deepens-enterprise-ai-020744358.html"
+    },
+    {
+      "title": "AMD Earnings Show Big Tech Can\u2019t Get Enough AI Chips",
+      "summary": "The chip maker reports better-than-expected earnings for the third quarter and issues strong guidance for the rest of the year.",
+      "pub_date": "2026-11-03T22:36:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/amd-earnings-stock-price-7c8d5465?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Do You Know How Much of Your 401(k) Is Riding on the AI Trade Voters Want Paused?",
+      "summary": "Most index fund investors have no idea how much of their retirement balance depends on a single trade, and Congress is actively debating whether to slow it down. The answer, hiding in plain sight inside your quarterly statement, changes the math on rebalancing entirely.",
+      "pub_date": "2026-11-03T21:49:34Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/know-much-401-k-riding-214934258.html"
+    },
+    {
+      "title": "Stock Market Today: Dow Dips Amid Midterm Elections; Palantir Slips, DuPont Surges Past Entry",
       "summary": "Stock Market Today: The Dow Jones index drops on Election Day, but Palantir fought its way up from session lows. Chip stocks outperform.",
-      "pub_date": "2026-11-03T20:19:41Z",
+      "pub_date": "2026-11-03T21:27:49Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-election-day-apple-stock-palantir-stock/?src=A00220&yptr=yahoo"
     },
@@ -29,34 +57,6 @@
       "pub_date": "2026-11-03T19:35:55Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-corporation-msft-betting-big-193555181.html"
-    },
-    {
-      "title": "Even Apple Can\u2019t Outrun Big Tech\u2019s Selloff. The Stock Still Looks Like a Buy.",
-      "summary": "Higher memory costs are testing Apple\u2019s defensive appeal, but services growth could support the case for buying the dip.",
-      "pub_date": "2026-11-03T19:19:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/apple-stock-earnings-ai-memory-costs-buy-ec6c2529?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Cboe Global Markets, Inc. (CBOE) Could Benefit From the Growing Options Trading Market: Here\u2019s Why",
-      "summary": "Mott Capital Management, an investment research and management firm, released its \u201cThematic Growth Strategy\u201d Q3 2026 investor letter. A copy of the letter can be downloaded here. The strategy generated a 9.01% YTD return through Q3 2026, trailing the S&P 500 Total Return Index\u2019s 12.75%. Sector rotation and weakness in technology shares shaped the market [\u2026]",
-      "pub_date": "2026-11-03T18:45:00Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/options/articles/cboe-global-markets-inc-cboe-184500637.html"
-    },
-    {
-      "title": "UnitedHealth Group Incorporated (UNH) Rebounded After Better-Than-Expected Results: Mott Capital\u2019s Take",
-      "summary": "Mott Capital Management, an investment research and management firm, released its \u201cThematic Growth Strategy\u201d Q3 2026 investor letter. A copy of the letter can be downloaded here. The strategy generated a 9.01% YTD return through Q3 2026, trailing the S&P 500 Total Return Index\u2019s 12.75%. Sector rotation and weakness in technology shares shaped the market [\u2026]",
-      "pub_date": "2026-11-03T18:44:49Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/healthcare/articles/unitedhealth-group-incorporated-unh-rebounded-184449658.html"
-    },
-    {
-      "title": "Microsoft Corporation (MSFT) Delivered Strong Fiscal Fourth-Quarter Results: Mott Capital\u2019s Take",
-      "summary": "Mott Capital Management, an investment research and management firm, released its \u201cThematic Growth Strategy\u201d Q3 2026 investor letter. A copy of the letter can be downloaded here. The strategy generated a 9.01% YTD return through Q3 2026, trailing the S&P 500 Total Return Index\u2019s 12.75%. Sector rotation and weakness in technology shares shaped the market [\u2026]",
-      "pub_date": "2026-11-03T18:44:29Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-corporation-msft-delivered-strong-184429966.html"
     }
   ]
 }

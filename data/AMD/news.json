@@ -1,13 +1,20 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-11-03T21:25:39.078757+00:00",
+  "generated_at": "2026-11-04T04:26:24.290390+00:00",
   "items": [
     {
-      "title": "AMD beats Q3 estimates, as data center revenue climbs 97%",
+      "title": "AMD's Lisa Su: Q3 was 'largest and most profitable in our history'",
+      "summary": "AMD CEO (AMD) Lisa Su reported on a record third quarter on the company's earnings call, driven by record EPYC and Instinct sales and a 97% jump in data center revenue.",
+      "pub_date": "2026-11-03T22:27:18Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/amds-lisa-su-q3-was-largest-and-most-profitable-in-our-history-222718914.html"
+    },
+    {
+      "title": "AMD stock rises after Q3 earnings beat, as data center revenue climbs 97%",
       "summary": "AMD reported its third quarter earnings after the bell Tuesday.",
       "pub_date": "2026-11-02T19:03:27Z",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/article/amd-beats-q3-estimates-as-data-center-revenue-climbs-97-211944890.html"
+      "url": "https://finance.yahoo.com/technology/article/amd-stock-rises-after-q3-earnings-beat-as-data-center-revenue-climbs-97-213907282.html"
     },
     {
       "title": "Stock market today: Dow slips, S&P and Nasdaq gain as chip stocks rally, focus shifts to midterm elections",
@@ -15,6 +22,13 @@
       "pub_date": "2026-11-03T09:08:46Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-earnings-141143244.html"
+    },
+    {
+      "title": "AMD beats Q3 estimates with data center business booming",
+      "summary": "Patrick Moorhead, Moor Insights &amp; Strategy Founder, CEO, and Chief Analyst, joins Yahoo Finance Breaking Business News Reporter Jake Conley to discuss AMD's (AMD) third quarter earnings beating estimates, with data center revenue nearly doubling to $8.55 billion.",
+      "pub_date": "2026-11-03T21:28:30Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/amd-beats-q3-estimates-with-data-center-business-booming-212830094.html"
     },
     {
       "title": "Micron, Nvidia, and AMD lead chip stocks' rebound",
@@ -38,25 +52,11 @@
       "url": "https://finance.yahoo.com/video/earnings-amd-pfizer-plus-labor-130000986.html"
     },
     {
-      "title": "Earnings live updates: Pfizer lifts outlook as it continues to develop cancer and obesity drug pipeline",
-      "summary": "The third quarter earnings season is over halfway done, and the reports continue to pour in.",
-      "pub_date": "2026-11-02T21:28:56Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-apple-palantir-roku-and-more-212856249.html"
-    },
-    {
-      "title": "Nasdaq ends higher as AI heavyweights rebound ahead of midterm results",
-      "summary": "By Noel Randewich Nov 3 (Reuters) - The Nasdaq ended higher on Tuesday as AI heavyweights rebounded ahead of US midterm election results, while Apple fell after the iPhone maker joined the list of Big",
-      "pub_date": "2026-11-03T21:14:35Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-mixed-apple-104958801.html"
-    },
-    {
-      "title": "Did The Market Read Cerebras Stock Right?",
-      "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "pub_date": "2026-11-03T20:48:45Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/did-market-read-cerebras-stock-204845797.html"
+      "title": "Stock Market Election Night: Dow Futures Fall, Techs Tumble In Blue Wave; CoreWeave, SpaceX, Tesla Hit",
+      "summary": "AI stocks are sliding, even with Arista Networks and AMD rising on earnings.",
+      "pub_date": "2026-11-04T04:18:52Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-election-night-dow-jones-futures-ai-oil-prices-elon-musk-amd/?src=A00220&yptr=yahoo"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "TSLA",
-  "generated_at": "2026-11-03T21:27:29.256890+00:00",
+  "generated_at": "2026-11-04T04:28:08.752775+00:00",
   "items": [
     {
       "title": "Binance deposits overtake withdrawals, and the SEC creates crypto FAQs on governance",
@@ -8,6 +8,34 @@
       "pub_date": "2026-11-03T17:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/binance-deposits-overtake-withdrawals-sec-170000882.html"
+    },
+    {
+      "title": "Stock Market Election Night: Dow Futures Fall, Techs Tumble In Blue Wave; CoreWeave, SpaceX, Tesla Hit",
+      "summary": "AI stocks are sliding, even with Arista Networks and AMD rising on earnings.",
+      "pub_date": "2026-11-04T04:18:52Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-election-night-dow-jones-futures-ai-oil-prices-elon-musk-amd/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Investors Worry About Musk Companies Under Democratic Congress",
+      "summary": "Investors think a Democratic Congress spells trouble for Musk Inc.",
+      "pub_date": "2026-11-04T01:57:50Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-03-2026/card/investors-worry-about-musk-companies-under-democratic-congress-0RPYX3dheHjFSUjJZCz5?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Elon Musk Has A Lot Riding On Texas",
+      "summary": "Elon Musk wears many hats.",
+      "pub_date": "2026-11-04T00:30:01Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/election-results-midterms-2026/card/elon-musk-has-a-lot-riding-on-texas-QrguEbhhGKqPGKea2TP6?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Elon Musk\u2019s Tesla and SpaceX protest NYSE parent's new plan",
+      "summary": "Elon Musk\u2019s Tesla and SpaceX join a growing list of companies objecting to the NYSE parent ICE\u2019s new plan.",
+      "pub_date": "2026-11-03T21:59:29Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-tesla-spacex-protest-215929726.html"
     },
     {
       "title": "Tesla China Brushes Off Weak October, Still Up 21% In 2026",
@@ -29,34 +57,6 @@
       "pub_date": "2026-11-03T18:22:00Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/teslas-china-made-vehicle-sales-182200130.html"
-    },
-    {
-      "title": "Tesla Stocks Move Lower With Fort Worth Robotaxi Expansion in Focus",
-      "summary": "The new service area broadens the operating footprint, while fleet economics remain undisclosed.",
-      "pub_date": "2026-11-03T18:13:18Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-stocks-move-lower-fort-181318576.html"
-    },
-    {
-      "title": "Applied Digital Surges 9% as AI Data Center Stocks Rebound From Financing Jitters; IREN Jumps 9%, Nebius Climbs 7%",
-      "summary": "A CEO financing warning and an Elon Musk broadside sent AI data center stocks into a steep slide, but buyers are rushing back in today and one developer is leading the charge despite carrying more debt than it collects in rent.",
-      "pub_date": "2026-11-03T17:53:59Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-surges-9-ai-175359740.html"
-    },
-    {
-      "title": "Elon Musk\u2019s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue",
-      "summary": "Amazon, Tesla, SpaceX, Netflix, Lam Research, and SoFi objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 56.",
-      "pub_date": "2026-11-03T17:46:15Z",
-      "source": "decrypt",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/elon-musk-tesla-spacex-block-174615605.html"
-    },
-    {
-      "title": "CFTC Greenlights Perpetual Futures on U.S. Stocks",
-      "summary": "Kalshi, Coinbase, and Bitnomial already have filings in, though the onshore version comes with set trading hours and far less leverage than offshore perps.",
-      "pub_date": "2026-11-03T17:40:49Z",
-      "source": "Bankless",
-      "url": "https://finance.yahoo.com/markets/options/articles/cftc-greenlights-perpetual-futures-u-174049572.html"
     }
   ]
 }

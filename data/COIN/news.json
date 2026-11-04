@@ -1,6 +1,6 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-11-03T21:26:00.928936+00:00",
+  "generated_at": "2026-11-04T04:26:42.203288+00:00",
   "items": [
     {
       "title": "Coinbase gets New Jersey's staking brakes lifted: What it means for investors",
@@ -15,6 +15,20 @@
       "pub_date": "2026-11-03T17:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/binance-deposits-overtake-withdrawals-sec-170000882.html"
+    },
+    {
+      "title": "Bitcoin Falls as Democratic Wins Likely Put Crypto Bill on the Backburner",
+      "summary": "Bitcoin has fallen about 1.2% to $76,873 since polls have closed.",
+      "pub_date": "2026-11-04T01:53:07Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/election-results-midterms-2026/card/bitcoin-falls-as-democratic-wins-likely-put-crypto-bill-on-the-backburner-c1rGiUCUpqhFzhLRIR65?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Crypto Fears Set the Stage for Circle Earnings After Binance Hack",
+      "summary": "Circle Internet\u2019s stock got hit after the Binance hack. Solid earnings from the stablecoin issuer could get it back on track.",
+      "pub_date": "2026-11-03T21:07:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/circle-internet-earnings-stock-price-b3bace9c?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Hut 8 Lost 5% in a Week Before Earnings. B. Riley Still Sees $134",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-03T16:43:45Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-stock-rallies-again-much-164345980.html"
-    },
-    {
-      "title": "Is Coinbase Successfully Reducing Its Dependence on Bitcoin Trading?",
-      "summary": "Coinbase is reducing its Bitcoin trading reliance as subscriptions, stablecoins and new services drive revenue diversification despite crypto market volatility.",
-      "pub_date": "2026-11-03T16:17:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-successfully-reducing-dependence-bitcoin-161700237.html"
-    },
-    {
-      "title": "Coinbase Rebounds 9% as Goldman Calls It \u201cBest-Positioned\u201d for the Binance Exodus",
-      "summary": "Key TakeawaysCoinbase rose 9% today after Goldman Sachs named it, Robinhood and BitGo \u201cbest-positioned\u201d for customers leaving Binance after a $6. 3 billion hack.",
-      "pub_date": "2026-11-03T16:14:58Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-rebounds-9-goldman-calls-161458974.html"
     }
   ]
 }
