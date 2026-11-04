@@ -1,6 +1,6 @@
 {
   "ticker": "TFC",
-  "generated_at": "2026-11-04T15:56:02.298008+00:00",
+  "generated_at": "2026-11-04T21:41:31.527063+00:00",
   "items": [
     {
       "title": "Gartner: Truist says growth rebound looks further away, cuts rating",
@@ -8,6 +8,13 @@
       "pub_date": "2026-11-04T15:38:16Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/gartner-truist-says-growth-rebound-153816688.html"
+    },
+    {
+      "title": "Banks should play up human touch to stand out in AI era: fintech CEO",
+      "summary": "The human channel \u201cis the biggest moat or the biggest differentiator the banks have\u201d versus large language models and AI agents, said the chief executive of Personetics.",
+      "pub_date": "2026-11-04T14:37:15Z",
+      "source": "Banking Dive",
+      "url": "https://finance.yahoo.com/technology/ai/articles/banks-play-human-touch-stand-143715763.html"
     },
     {
       "title": "60% of S&P 500 Stocks Are in a Bear Market, With the Index Near a Record",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-03T15:08:46Z",
       "source": "Banking Dive",
       "url": "https://finance.yahoo.com/small-business/articles/truist-expands-merchant-tools-boost-150846896.html"
-    },
-    {
-      "title": "More Pain Ahead for Tech & Broader Market ETFs?",
-      "summary": "Tech stocks may face more pain, but the bull market isn't necessarily over. Here are some ETFs to navigate the volatility and sector rotation.",
-      "pub_date": "2026-11-03T14:00:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/more-pain-ahead-tech-broader-140000330.html"
     }
   ]
 }

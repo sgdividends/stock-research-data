@@ -1,7 +1,42 @@
 {
   "ticker": "STX",
-  "generated_at": "2026-11-04T15:55:58.467502+00:00",
+  "generated_at": "2026-11-04T21:41:28.677233+00:00",
   "items": [
+    {
+      "title": "Seagate Sinks 8%, Western Digital Down 6% on Election, Memory Price Worries",
+      "summary": "Key TakeawaysSeagate shares fell 8% today as investors sold data center and storage stocks after the midterm elections, with Western Digital down too. Seagate has little exposure to flash memory prices, and most of its drive supply is allocated under contracts through 2028, so the drop looks overdone.",
+      "pub_date": "2026-11-04T19:12:24Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-sinks-8-western-digital-191224599.html"
+    },
+    {
+      "title": "SanDisk Retreats 9%, Micron and Western Digital Fall 7% as Election and Memory Price Worries Weigh",
+      "summary": "Memory stocks are buckling under a convergence of election fallout and pricing pressure even as AI data-center demand stays strong, leaving SanDisk investors caught between record revenue and a deepening selloff.",
+      "pub_date": "2026-11-04T16:02:59Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-retreats-9-micron-western-160259339.html"
+    },
+    {
+      "title": "Western Digital's Q1 Beat and Q2 Outlook Signal More Margin Upside",
+      "summary": "Western Digital's strong pricing, higher-capacity drives and AI storage demand fuel margin growth, but valuation and technology execution risks remain in focus.",
+      "pub_date": "2026-11-04T15:21:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/western-digitals-q1-beat-q2-152100598.html"
+    },
+    {
+      "title": "Is WDC a Buy as Earnings Surge but Valuation and Execution Risks Rise?",
+      "summary": "Western Digital's surging earnings, expanding margins and strong cash flow bolster its growth case, but premium valuation and HAMR execution risks warrant caution.",
+      "pub_date": "2026-11-04T15:19:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wdc-buy-earnings-surge-valuation-151900977.html"
+    },
+    {
+      "title": "Western Digital Falls 15.5% in One Month. Is the Dip a Buying Chance?",
+      "summary": "Western Digital's stock pullback contrasts with surging earnings and cloud demand, but premium valuation and execution risks raise questions about buying the dip.",
+      "pub_date": "2026-11-04T15:17:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/western-digital-falls-15-5-151700174.html"
+    },
     {
       "title": "Seagate Revenue Soars 61% in Q1: Can This Momentum Continue?",
       "summary": "STX's fiscal 2027 starts strong with surging revenues, record cash flow and rising HAMR adoption, fueled by AI demand and favorable pricing trends.",
@@ -22,41 +57,6 @@
       "pub_date": "2026-11-04T11:06:50Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/could-wrong-western-digital-stock-110650808.html"
-    },
-    {
-      "title": "Micron, Nvidia, and AMD lead chip stocks' rebound",
-      "summary": "Chip stocks rebounded on Tuesday, reversing tech's heavy recent sell-off.",
-      "pub_date": "2026-11-03T14:05:38Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/micron-nvidia-amd-lead-chip-stocks-rebound-140538628.html"
-    },
-    {
-      "title": "Seagate Was Supposed to Lose to SSDs. Here\u2019s What $1,000 Invested 10 Years Ago Became",
-      "summary": "Hard drives were supposed to die quietly as flash storage took over, yet Seagate shareholders who held through a brutal downturn found themselves sitting on returns that crushed the S&P 500 at every horizon. The real question now is whether the AI-fueled surge has more room to run or already peaked.",
-      "pub_date": "2026-11-03T17:47:21Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-supposed-lose-ssds-1-174721348.html"
-    },
-    {
-      "title": "Seagate's $1.2 Billion Debt Paydown: What Comes Next for Investors?",
-      "summary": "STX's $1.2 billion debt paydown, surging free cash flow and higher dividend signal a shift toward shareholder returns, even as shares face valuation pressures.",
-      "pub_date": "2026-11-03T15:23:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/seagates-1-2-billion-debt-152300668.html"
-    },
-    {
-      "title": "What Did SanDisk Stock Investors Miss Before The Run?",
-      "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "pub_date": "2026-11-03T15:02:04Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/did-sandisk-stock-investors-miss-150204901.html"
-    },
-    {
-      "title": "SIMO Earnings Surge as Enterprise and AI Storage Drive New Momentum",
-      "summary": "Silicon Motion's Q3 earnings surge 335% as enterprise, automotive and AI storage demand accelerates, with strong guidance signaling further growth ahead.",
-      "pub_date": "2026-11-03T14:49:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/simo-earnings-surge-enterprise-ai-144900986.html"
     }
   ]
 }

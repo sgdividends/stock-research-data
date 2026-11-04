@@ -1,7 +1,14 @@
 {
   "ticker": "ECHO",
-  "generated_at": "2026-11-04T15:54:57.020503+00:00",
+  "generated_at": "2026-11-04T21:40:40.385934+00:00",
   "items": [
+    {
+      "title": "SpaceX Makes a Major Move Into America's Wireless Market",
+      "summary": "The multiyear agreement will support a U.S. cellular network designed to compete with established wireless carriers.",
+      "pub_date": "2026-11-04T18:42:42Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/articles/spacex-makes-major-move-americas-184242824.html"
+    },
     {
       "title": "Qualcomm, SpaceX Team Up To Build Starlink Cell Network: Deal Could \u2018Lay The Foundation For AI-Native 6G,\u2019 Says Executive",
       "summary": "Qualcomm will supply chips and software for the ground-based cellular sites supporting SpaceX\u2019s planned Starlink Mobile network.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-03T17:30:14Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/video/elon-musk-got-turned-down-173014840.html"
-    },
-    {
-      "title": "SpaceX and Musk Have Big Wireless Ambitions. Boost Mobile Won\u2019t Fulfill Them.",
-      "summary": "A Boost Mobile deal doesn\u2019t get SpaceX much closer to offering mobile wireless service.",
-      "pub_date": "2026-11-03T15:03:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/spacex-stock-boost-mobile-wireless-musk-71d20839?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

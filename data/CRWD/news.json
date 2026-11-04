@@ -1,13 +1,41 @@
 {
   "ticker": "CRWD",
-  "generated_at": "2026-11-04T15:54:48.133594+00:00",
+  "generated_at": "2026-11-04T21:40:34.396220+00:00",
   "items": [
+    {
+      "title": "Is AI creating the very threats they're now hired to fight?",
+      "summary": "Host and \"The Buy Side\" author Turney Duff and his panel of experts weigh in on CrowdStrike (CRWD) announcing a \"kill switch\" for AI agents, making the stock jump as demand for cybersecurity grows. \n\nToday's panel includes Drew Pettit, Chief Investment Strategist at Roundhill Investments; Mario Tufano, Senior Portfolio Manager at CS McKee; Emily Peck, Markets Reporter at Axios; and Al Root, Associate Editor at Barron's.\n\n",
+      "pub_date": "2026-11-04T18:29:06Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/is-ai-creating-the-very-threats-theyre-now-hired-to-fight-182906776.html"
+    },
     {
       "title": "CrowdStrike announces 'kill switch' for AI agents that go rogue",
       "summary": "CrowdStrike has agreed to buy two AI security startups for a combined purchase price of $495 million, according to the Wall Street Journal.",
       "pub_date": "2026-11-03T14:52:55Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/stocks/article/crowdstrike-says-it-will-buy-2-ai-cybersecurity-startups-announces-kill-switch-for-ai-agents-163631619.html"
+    },
+    {
+      "title": "AI Server Backlog Could Reshape The Dell Stock Story",
+      "summary": "CrowdStrike recently announced an integrated Falcon security offering for the Dell AI Factory with NVIDIA. At the same time, Dell expanded its own AI-focused cybersecurity, data protection and AI infrastructure services, including quantum-safe encryption, identity resilience tools and managed detection and response across AI workloads. These moves deepen Dell Technologies' role in securing enterprise AI stacks end to end, from data center infrastructure and AI servers to identity systems and...",
+      "pub_date": "2026-11-04T20:14:19Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-server-backlog-could-reshape-201419354.html"
+    },
+    {
+      "title": "Should Twilio Stock Holders Look At Fortinet Instead?",
+      "summary": "For questions about this article or underlying research, email help@trefis.com.",
+      "pub_date": "2026-11-04T20:00:18Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/twilio-stock-holders-look-fortinet-200018317.html"
+    },
+    {
+      "title": "CrowdStrike Is Spending $495 Million to Police AI Agents",
+      "summary": "CrowdStrike just signed two secret-priced deals at its Barcelona conference and flipped a new switch that lets humans shut down rogue AI agents cold. Whether the platform it is assembling will outrun rival offerings before the market decides who wins is now the question hanging over the stock.",
+      "pub_date": "2026-11-04T15:53:17Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-spending-495-million-police-155317489.html"
     },
     {
       "title": "Bloom Energy (BE) Raises Full-Year Outlook Following 166% Revenue Surge",
@@ -24,39 +52,11 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/argan-agx-shares-fall-record-152439057.html"
     },
     {
-      "title": "What Did CrowdStrike Do That MongoDB Did Not?",
-      "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "pub_date": "2026-11-04T15:14:22Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/did-crowdstrike-mongodb-did-not-151422959.html"
-    },
-    {
-      "title": "Zscaler Lags Cybersecurity Peers: Should Investors Hold the Stock?",
-      "summary": "ZS' slowing growth and rising spending weigh on its stock, but AI security momentum, Zero Trust adoption and attractive valuation support a hold strategy.",
-      "pub_date": "2026-11-04T14:45:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zscaler-lags-cybersecurity-peers-investors-144500471.html"
-    },
-    {
-      "title": "CrowdStrike Holdings (CRWD) Outperforms After Delivering Record Net New ARR",
-      "summary": "Polen Capital, an investment management company, released its \u201c5Perspectives Large Growth Strategy\u201d Q3 2026 investor letter. The letter can be downloaded here. In Q3 2026, the Polen 5Perspectives Large Growth Composite returned 0.0%, trailing the Russell 1000 Growth Index\u2019s 0.9%. The quarter saw heightened market volatility, particularly among AI equities, driven by concerns over hyperscaler [\u2026]",
-      "pub_date": "2026-11-04T14:37:59Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-holdings-crwd-outperforms-delivering-143759608.html"
-    },
-    {
-      "title": "Wall Street Analysts Think CrowdStrike (CRWD) Is a Good Investment: Is It?",
-      "summary": "Based on the average brokerage recommendation (ABR), CrowdStrike (CRWD) should be added to one's portfolio. Wall Street analysts' overly optimistic recommendations cast doubt on the effectiveness of this highly sought-after metric. So, is the stock worth buying?",
-      "pub_date": "2026-11-04T13:30:03Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-think-crowdstrike-133003310.html"
-    },
-    {
-      "title": "Jim Cramer Praises New \u201cAI Kill Switch,\u201d Says \u201cYou Should Just Go Buy CrowdStrike\u201d",
-      "summary": "Jim Cramer just told viewers to buy a cybersecurity stock after its CEO showed him what he called the holy grail of AI safety, but the product itself carries a significant warning buried in the fine print.",
-      "pub_date": "2026-11-04T11:19:49Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-praises-ai-kill-111949663.html"
+      "title": "CrowdStrike Launches an \u2018AI Kill Switch\u2019 Timed to Capitalize on Anthropic's $1.6 Trillion IPO",
+      "summary": "The cybersecurity leader launches what it describes as an \u2018off button\u2019 for AI agents that step outside of established guardrails.",
+      "pub_date": "2026-11-04T15:22:31Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-launches-ai-kill-switch-152231435.html"
     }
   ]
 }

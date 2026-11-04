@@ -1,7 +1,14 @@
 {
   "ticker": "BEN",
-  "generated_at": "2026-11-04T15:54:34.852448+00:00",
+  "generated_at": "2026-11-04T21:40:22.441792+00:00",
   "items": [
+    {
+      "title": "The XRP Ledger Now Ranks 6th for Tokenized Assets With $5 Billion. How Much of It Actually Needs XRP?",
+      "summary": "Major institutions like Franklin Templeton and Aviva Investors are racing to tokenize assets on the XRP Ledger, pushing its value past $5 billion, but the settlement details of their biggest deals reveal a surprising truth about XRP's actual role in the ecosystem.",
+      "pub_date": "2026-11-04T20:47:34Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-ledger-now-ranks-6th-204734406.html"
+    },
     {
       "title": "Franklin Templeton's Perkins sees crypto moving beyond rates",
       "summary": "Chris Perkins says investors are paying more attention to what individual crypto assets do, while interest rates still matter.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-10-29T22:05:06Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/federated-hermes-fhi-q3-earnings-220506961.html"
-    },
-    {
-      "title": "Franklin Templeton Just Launched ETFs That Turn Stock Dividends Into Bitcoin. Is That a Smarter Way to Own BTC?",
-      "summary": "Franklin Templeton just rewired two stock ETFs so that dividends automatically flow into Bitcoin instead of buying more shares. Whether that clever twist makes them smarter than a pure Bitcoin fund depends on what you actually want from crypto exposure.",
-      "pub_date": "2026-10-29T21:03:32Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/franklin-templeton-just-launched-etfs-210332077.html"
     }
   ]
 }

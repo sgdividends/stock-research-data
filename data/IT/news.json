@@ -1,7 +1,21 @@
 {
   "ticker": "IT",
-  "generated_at": "2026-11-04T15:55:20.677443+00:00",
+  "generated_at": "2026-11-04T21:40:58.648805+00:00",
   "items": [
+    {
+      "title": "Gartner Stock Sinks. Weak Forecast Underscores Threat From Cheaper AI Services.",
+      "summary": "The research and advisory company raises its annual outlook, but implied fourth-quarter earnings fall short of Wall Street expectations.",
+      "pub_date": "2026-11-04T18:51:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/gartner-earnings-stock-price-bd5b46b6?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Gartner Q3 Earnings Call Highlights Slower Growth Recovery",
+      "summary": "IT raises its 2026 outlook after Q3 earnings beat estimates, but slower contract value recovery, longer sales cycles and rising costs cloud growth prospects.",
+      "pub_date": "2026-11-04T16:42:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gartner-q3-earnings-call-highlights-164200112.html"
+    },
     {
       "title": "Gartner: Truist says growth rebound looks further away, cuts rating",
       "summary": "Investing.com -- Truist downgraded Gartner to Hold from Buy and cut its price target to $210 from $235 in a note Wednesday, telling clients that a recovery in the research company\u2019s key growth metric now looks less likely in the near term.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-04T02:10:08Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/gartner-stock-focus-earnings-beat-021008199.html"
-    },
-    {
-      "title": "Gartner Inc (IT) (Q3 2026) Earnings Call Highlights: Accelerating Contract Value, Raised ...",
-      "summary": "Gartner Inc (IT) beats Q3 expectations with 2.5% contract value growth, 30% adjusted EPS jump, and upgraded full-year 2026 outlook despite persistent new business headwinds.",
-      "pub_date": "2026-11-03T23:05:07Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gartner-inc-q3-2026-earnings-230507055.html"
-    },
-    {
-      "title": "Loyalty Must Leave the Corner Before Agents Rewrite Commerce, Says Epsilon\u2019s Hicks",
-      "summary": "If AI agents end up doing more of the shopping for consumers, the loyalty programs that brands built around apps, inboxes and points balances may need rebuilding within a few years. Gartner predicts 60% of brands will use agentic AI to deliver one-to-one interactions by 2028. Not everyone expects loyalty to survive intact. According to Emarketer, 44% of retail executives worldwide think generative AI will weaken brand loyalty by steering choice toward value and fit. Others argue loyalty programs are",
-      "pub_date": "2026-11-03T22:53:05Z",
-      "source": "Beet.TV",
-      "url": "https://finance.yahoo.com/video/loyalty-must-leave-corner-agents-225305851.html"
     }
   ]
 }

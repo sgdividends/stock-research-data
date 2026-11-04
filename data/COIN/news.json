@@ -1,7 +1,42 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-11-04T15:54:45.878621+00:00",
+  "generated_at": "2026-11-04T21:40:32.496830+00:00",
   "items": [
+    {
+      "title": "Bitcoin Rises, Crypto Miners Sharply Divided As Midterms Dampen AI Outlook",
+      "summary": "Bitcoin price rises. Miners diverge sharply after midterm elections on AI, data center slowdown fears. Riot Platforms spikes on $28bil deal.",
+      "pub_date": "2026-11-04T21:24:53Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/bitcoin-cryptocurrency-midterm-elections-2026-house-senate-democrat-control-outlook-ai-data-center/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers\u2019 Reach",
+      "summary": "Coinbase told customers it wasn\u2019t affected by the $6.4 billion Binance hack and detailed its security controls, including offline storage for over 99% of assets, split private keys and kill switches.",
+      "pub_date": "2026-11-04T20:46:03Z",
+      "source": "decrypt",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-says-99-customer-crypto-204603423.html"
+    },
+    {
+      "title": "Bitcoin, XRP, crypto stocks surge after GOP loses midterm 2026",
+      "summary": "Bitcoin fell to $75,618 after the midterms, below its $77,994 low after the Binance hack, but quickly recovered to $80,000.",
+      "pub_date": "2026-11-04T20:34:41Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-xrp-crypto-stocks-surge-203441456.html"
+    },
+    {
+      "title": "Bitcoin Tops $81,000 After Midterm Dip, Squeezing Short Sellers",
+      "summary": "Bitcoin slid to about $75,600 while the midterm results came in, then climbed past $81,000 on Wednesday, forcing out hundreds of millions of dollars in bets against crypto.",
+      "pub_date": "2026-11-04T16:56:26Z",
+      "source": "Unchained",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-tops-81-000-midterm-165626746.html"
+    },
+    {
+      "title": "Circle Earnings Show Stablecoins Have Arrived. A Crypto Payoff Could Take Longer.",
+      "summary": "Circle Internet stock rises as usage of its stablecoin, USDC, increased 8% from a year ago.",
+      "pub_date": "2026-11-04T16:14:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/circle-internet-earnings-stock-price-b3bace9c?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Investors poised for US gridlock as Democrats projected to win control of House",
       "summary": "(Corrects company name to State Street Investment Management from State Street Global Advisors in 7th paragraph) By Lewis Krauskopf, Suzanne McGee and Gregor Stuart Hunter NEW YORK/SINGAPORE, Nov 3 (",
@@ -22,41 +57,6 @@
       "pub_date": "2026-11-04T14:10:00Z",
       "source": "CryptoProwl",
       "url": "https://finance.yahoo.com/technology/ai/articles/riot-platforms-tops-revenue-estimates-141000840.html"
-    },
-    {
-      "title": "Coinbase Stock Could Be Getting Ready for Its Next Big Move",
-      "summary": "Coinbase just tanked after earnings, but the selloff may be punishing the stock for the wrong reasons. The real question is whether a quiet revenue shift happening inside the company changes everything about where COIN goes from here.",
-      "pub_date": "2026-11-04T13:03:31Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coinbase-stock-could-getting-ready-130331839.html"
-    },
-    {
-      "title": "Can Coinbase Stock Fall Another 40%?",
-      "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "pub_date": "2026-11-04T10:12:10Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coinbase-stock-fall-another-40-101210783.html"
-    },
-    {
-      "title": "Robinhood in a \u201cFood Fight\u201d for Anthropic IPO Shares as Crypto Trading Cools",
-      "summary": "Key TakeawaysRobinhood\u2019s CFO called the race among brokerages for shares in Anthropic\u2019s IPO, which could be the largest ever, \u201ca food fight. \u201dRobinhood\u2019s crypto revenue fell 55% in the third quarter, and its total revenue growth slowed to 12%.",
-      "pub_date": "2026-11-04T08:19:27Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-food-fight-anthropic-ipo-081927232.html"
-    },
-    {
-      "title": "Sherrod Brown Takes Back Senate Seat in Blow to Crypto Industry",
-      "summary": "Democrat Sherrod Brown is returning to the Senate after defeating incumbent Republican Sen. Jon Husted in Ohio, according to the AP.",
-      "pub_date": "2026-11-04T04:14:32Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/livecoverage/election-results-midterms-2026/card/sherrod-brown-takes-back-senate-seat-in-blow-to-crypto-industry-E3QCbNrI6BP4sMGbDrE2?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Bitcoin Falls as Democratic Wins Likely Put Crypto Bill on the Backburner",
-      "summary": "Bitcoin has fallen about 1.2% to $76,873 since polls have closed.",
-      "pub_date": "2026-11-04T01:53:07Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/livecoverage/election-results-midterms-2026/card/bitcoin-falls-as-democratic-wins-likely-put-crypto-bill-on-the-backburner-c1rGiUCUpqhFzhLRIR65?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

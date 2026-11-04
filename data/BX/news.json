@@ -1,7 +1,14 @@
 {
   "ticker": "BX",
-  "generated_at": "2026-11-04T15:54:37.704161+00:00",
+  "generated_at": "2026-11-04T21:40:26.218379+00:00",
   "items": [
+    {
+      "title": "Industrial CMBS Issuance Hits $22.3B, Nearing 2021 Record",
+      "summary": "Industrial CMBS issuance hit $22.3 billion through October, nearing the 2021 record as refinancings and data center deals reshape lending.",
+      "pub_date": "2026-11-04T17:25:52Z",
+      "source": "CRE Daily",
+      "url": "https://finance.yahoo.com/real-estate/articles/industrial-cmbs-issuance-hits-22-172552157.html"
+    },
     {
       "title": "Hamilton Lane Just Raised Its Dividend 11%. Is This Private Markets Payout Built to Last?",
       "summary": "Hamilton Lane just bumped its dividend for the ninth consecutive year, but a 32% stock selloff and management's own warning about uneven growth raise a pointed question: does the income hold up when private markets hit a rough patch?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-10-31T21:11:05Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/caught-blackstones-fall-heres-bears-211105229.html"
-    },
-    {
-      "title": "Does Blackstone (BX) Face A Bigger Risk After Its AI Debt Downgrade?",
-      "summary": "Blackstone (NYSE:BX) now expects Anthropic to carry a junk credit rating after its planned IPO, reversing an earlier investment-grade assumption. The revised outlook increases credit risk on Blackstone-managed funds that hold sizeable exposure to loans funding Anthropic's AI build-out. The downgrade expectation raises questions over how Anthropic will support its large-scale AI expansion through future financing arrangements. The shift to an expected junk rating for Anthropic after its IPO...",
-      "pub_date": "2026-10-31T11:08:48Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/does-blackstone-bx-face-bigger-110848428.html"
     }
   ]
 }
