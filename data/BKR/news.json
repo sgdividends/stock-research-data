@@ -1,7 +1,14 @@
 {
   "ticker": "BKR",
-  "generated_at": "2026-11-04T21:40:23.336849+00:00",
+  "generated_at": "2026-11-05T04:42:23.884853+00:00",
   "items": [
+    {
+      "title": "North America Enters Rig Addition Streak, BH Shows",
+      "summary": "North America added six rigs week on week, according to Baker Hughes' latest North America rotary rig count.",
+      "pub_date": "2026-11-04T16:29:56Z",
+      "source": "Rigzone.com",
+      "url": "https://finance.yahoo.com/energy/articles/north-america-enters-rig-addition-162956503.html"
+    },
     {
       "title": "Venture Global Opens Commercial Operations at Plaquemines LNG Phase 1",
       "summary": "VG launches commercial operations at Plaquemines LNG, advancing contracted deliveries and strengthening long-term cash flow visibility.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-10-30T21:36:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/business/energy-utilities-roundup-market-talk-8beef051?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "U.S. Oil, Gas Drillers Still on Hold",
-      "summary": "The total number of active drilling rigs for oil and gas in the United States remained unchanged again this week",
-      "pub_date": "2026-10-30T17:09:57Z",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/energy/articles/u-oil-gas-drillers-still-170957789.html"
     }
   ]
 }

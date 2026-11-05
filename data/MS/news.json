@@ -1,7 +1,21 @@
 {
   "ticker": "MS",
-  "generated_at": "2026-11-04T21:41:10.702112+00:00",
+  "generated_at": "2026-11-05T04:43:09.070669+00:00",
   "items": [
+    {
+      "title": "Steve Weiss Says the Midterms Just Put a Lid on AI Spending. Here\u2019s Who Could Get Hurt",
+      "summary": "Chipmakers barely flinched when Democrats swept the midterms, but two stocks tied to AI data centers got hammered. A Texas permit freeze could explain the split, and it may reach your 401(k) even if you never bought an AI stock.",
+      "pub_date": "2026-11-05T00:09:14Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/steve-weiss-says-midterms-just-000914700.html"
+    },
+    {
+      "title": "Coinbase gets downgraded for a breach that happened elsewhere",
+      "summary": "Morgan Stanley reacted negatively to Coinbase after the Binance hack rattled retail traders.",
+      "pub_date": "2026-11-04T22:47:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-gets-downgraded-breach-happened-224700573.html"
+    },
     {
       "title": "Astera Labs Keeps Sliding Despite Big Beats: Why Morgan Stanley Sees 75% Upside",
       "summary": "Key TakeawaysMorgan Stanley raised its Astera Labs price target to $389 from $382 on Nov. 4 and kept its Overweight rating.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-04T19:26:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/advisor/articles/morgan-stanley-merrill-rbc-bell-coast-b1b3553f?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Morgan Stanley Calls Tesla the \u201cVery Obvious Player\u201d as Data Centers Outbuy the Grid on Batteries",
-      "summary": "Key TakeawaysMorgan Stanley expects data centers to add more battery storage than the grid in 2030, and it called Tesla the \u201cvery obvious player\u201d in that market. Tesla\u2019s energy business is a real AI infrastructure play, with fatter margins than its cars.",
-      "pub_date": "2026-11-04T17:51:13Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/energy/articles/morgan-stanley-calls-tesla-very-175113191.html"
-    },
-    {
-      "title": "Wall Street\u2019s Plumbing Goes Onchain as Morgan Stanley Tokenizes Securities",
-      "summary": "Morgan Stanley says it has converted U.S. equities and Treasuries into tokenized form through the newly launched DTCC Tokenization Service, which 20 Wall Street firms have signed up to use.",
-      "pub_date": "2026-11-04T16:29:36Z",
-      "source": "decrypt",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/wall-street-plumbing-goes-onchain-162936419.html"
     }
   ]
 }

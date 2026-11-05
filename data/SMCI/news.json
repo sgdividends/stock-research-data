@@ -1,6 +1,6 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-11-04T21:41:27.158854+00:00",
+  "generated_at": "2026-11-05T04:43:25.167423+00:00",
   "items": [
     {
       "title": "Supermicro tops Q1 estimates, offers strong Q2 outlook",
@@ -8,6 +8,13 @@
       "pub_date": "2026-11-03T19:53:15Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/technology/article/supermicro-tops-q1-estimates-offers-strong-q2-outlook-220213885.html"
+    },
+    {
+      "title": "Super Micro Computer (SMCI) Stock Sinks After Q1 Results Expose Cash Strain",
+      "summary": "Super Micro Computer came into this earnings print with the stock already under pressure, down about 31% over the past month and a further 5.7% lower to roughly US$29.60 in the latest session. The popular thesis paints this as a prime artificial intelligence server beneficiary with significant top line potential. The Q1 2027 report delivered exactly that kind of headline, with revenue of about US$19.9b tied to large scale data center and AI system deployments. Yet the sharp one day selloff...",
+      "pub_date": "2026-11-05T02:13:18Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-stock-021318613.html"
     },
     {
       "title": "Super Micro Stock Has Disappointed for a Year: Why Raymond James Sees 107% Upside",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-04T18:29:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/nvidia-stock-price-data-centers-5b4a74a1?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Super Micro gets BofA upgrade to price target, but margins remain a concern",
-      "summary": "Super Micro Computer Inc (NASDAQ:SMCI) received a higher price target from Bank of America at $39 as stronger guidance failed to dispel concerns about margin sustainability. Management raised its fiscal year 2027 revenue guidance to $72 billion to $82 billion and its gross margin outlook to...",
-      "pub_date": "2026-11-04T18:08:00Z",
-      "source": "Proactive",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-gets-bofa-upgrade-180800303.html"
     }
   ]
 }

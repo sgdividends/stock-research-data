@@ -1,7 +1,14 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-11-04T21:40:56.299662+00:00",
+  "generated_at": "2026-11-05T04:42:55.202435+00:00",
   "items": [
+    {
+      "title": "Did IBM Just Tell the Truth About AI?",
+      "summary": "Lam Research is a semiconductor machine business that\u2019s breaking records, but its stock price has been cut nearly in half from highs in 2026. Is it a good stock to buy right now?",
+      "pub_date": "2026-11-05T00:46:39Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/ai/articles/did-ibm-just-tell-truth-004639499.html"
+    },
     {
       "title": "International Business Machines (IBM) Puts Quantum Encryption To Work On Heron R2",
       "summary": "International Business Machines (NYSE:IBM) supported Quantum X Labs in running an advanced quantum encryption trial on its Quantum Heron r2 processor. The Quantum X Labs experiment used IBM hardware to test an information theoretic security protocol for quantum secured communications in commercial settings. The project positions IBM's quantum infrastructure as a practical platform for companies seeking quantum grade protection for sensitive data flows. This quantum encryption work on IBM's...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-04T11:06:39Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/accenture-stock-jump-30-110639620.html"
-    },
-    {
-      "title": "Ross Perot Left IBM in 1962 and Started a Company With $1,000. In 1984, General Motors Bought It for $2.5 Billion",
-      "summary": "IBM capped his commissions, so Ross Perot quit with a borrowed $1,000 and a pitch his former employer had already rejected. What he built from that rejection forced one of America's largest corporations to come to him decades later.",
-      "pub_date": "2026-11-04T09:04:16Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/small-business/articles/ross-perot-left-ibm-1962-090416821.html"
     }
   ]
 }

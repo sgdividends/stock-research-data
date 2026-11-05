@@ -1,13 +1,41 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-11-04T21:40:32.496830+00:00",
+  "generated_at": "2026-11-05T04:42:30.607701+00:00",
   "items": [
+    {
+      "title": "Strategy Is Down 45% From Its High. Saylor Sees \u201cthe Next Bitcoin Bull Market\u201d",
+      "summary": "Key TakeawaysStrategy is down 45% from its high a year ago after bitcoin fell below what it paid for its coins and its STRC preferred stock slipped under $100, a slide that also hit MARA Holdings and Coinbase. Executive Chairman Michael Saylor says the next bitcoin bull market has begun, but Strategy\u2019s bitcoin per share is down 3.",
+      "pub_date": "2026-11-05T02:35:32Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-down-45-high-saylor-023532838.html"
+    },
+    {
+      "title": "Solana Foundation payments lead: Banks will hold cash on-chain",
+      "summary": "Solana Foundation payments lead Jamal Raees says bank deposit tokens like JPMorgan\u2019s JPMD will win the corporate treasury, while stablecoins from Circle and Tether will keep the global rails they need to move.",
+      "pub_date": "2026-11-04T23:40:11Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/solana-foundation-payments-lead-banks-234011252.html"
+    },
+    {
+      "title": "Coinbase gets downgraded for a breach that happened elsewhere",
+      "summary": "Morgan Stanley reacted negatively to Coinbase after the Binance hack rattled retail traders.",
+      "pub_date": "2026-11-04T22:47:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-gets-downgraded-breach-happened-224700573.html"
+    },
     {
       "title": "Bitcoin Rises, Crypto Miners Sharply Divided As Midterms Dampen AI Outlook",
       "summary": "Bitcoin price rises. Miners diverge sharply after midterm elections on AI, data center slowdown fears. Riot Platforms spikes on $28bil deal.",
       "pub_date": "2026-11-04T21:24:53Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/bitcoin-cryptocurrency-midterm-elections-2026-house-senate-democrat-control-outlook-ai-data-center/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Circle Earnings Show Stablecoins Have Arrived. A Crypto Payoff Could Take Longer.",
+      "summary": "Circle Internet stock rises as usage of its stablecoin, USDC, increased 8% from a year ago.",
+      "pub_date": "2026-11-04T21:09:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/circle-internet-earnings-stock-price-b3bace9c?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers\u2019 Reach",
@@ -29,34 +57,6 @@
       "pub_date": "2026-11-04T16:56:26Z",
       "source": "Unchained",
       "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-tops-81-000-midterm-165626746.html"
-    },
-    {
-      "title": "Circle Earnings Show Stablecoins Have Arrived. A Crypto Payoff Could Take Longer.",
-      "summary": "Circle Internet stock rises as usage of its stablecoin, USDC, increased 8% from a year ago.",
-      "pub_date": "2026-11-04T16:14:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/circle-internet-earnings-stock-price-b3bace9c?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Investors poised for US gridlock as Democrats projected to win control of House",
-      "summary": "(Corrects company name to State Street Investment Management from State Street Global Advisors in 7th paragraph) By Lewis Krauskopf, Suzanne McGee and Gregor Stuart Hunter NEW YORK/SINGAPORE, Nov 3 (",
-      "pub_date": "2026-11-04T14:32:56Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/news/investors-ready-possible-shake-congress-100659339.html"
-    },
-    {
-      "title": "Second Circuit Won\u2019t Pause New York, Connecticut Actions Against Kalshi and Coinbase",
-      "summary": "A Second Circuit panel turned down the prediction-market companies' requests for interim relief in a two-page order on Tuesday that leaves their federal preemption argument unresolved.",
-      "pub_date": "2026-11-04T14:32:23Z",
-      "source": "Unchained",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/second-circuit-won-t-pause-143223040.html"
-    },
-    {
-      "title": "Riot Platforms Tops Revenue Estimates, Signs $28 Billion AI Lease for Corsicana Campus",
-      "summary": "Bitcoin miner and AI data center developer Riot Platforms (NASDAQ: $RIOT) reported third-quarter revenue of $181.4 ...",
-      "pub_date": "2026-11-04T14:10:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/technology/ai/articles/riot-platforms-tops-revenue-estimates-141000840.html"
     }
   ]
 }

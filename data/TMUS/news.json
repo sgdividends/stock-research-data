@@ -1,6 +1,6 @@
 {
   "ticker": "TMUS",
-  "generated_at": "2026-11-04T21:41:32.391569+00:00",
+  "generated_at": "2026-11-05T04:43:30.824416+00:00",
   "items": [
     {
       "title": "SpaceX Makes a Major Move Into America's Wireless Market",
@@ -8,6 +8,13 @@
       "pub_date": "2026-11-04T18:42:42Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/articles/spacex-makes-major-move-americas-184242824.html"
+    },
+    {
+      "title": "EchoStar Shares Jumped on a Potential SpaceX Deal, But the ECHO Stock Financials Paint a Bleaker Picture",
+      "summary": "SpaceX is looking to launch its wireless mobile service.",
+      "pub_date": "2026-11-04T18:09:10Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/echostar-shares-jumped-potential-spacex-180910599.html"
     },
     {
       "title": "Amdocs Stock Has Its Worst Day in 24 Years as T-Mobile Business Is at Risk",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-04T13:46:23Z",
       "source": "InvestorsHub",
       "url": "https://finance.yahoo.com/markets/stocks/articles/amdocs-shares-plunge-39-4-134623055.html"
-    },
-    {
-      "title": "Elon Musk is set to spend $100B to disrupt wireless in the age of drones and robots",
-      "summary": "Elon Musk's SpaceX is moving ahead with plans to build a nationwide cellular network, selecting Qualcomm to provide key technology for tens of thousands of cell sites that it plans to begin deploying next year.",
-      "pub_date": "2026-11-04T13:30:05Z",
-      "source": "Axios",
-      "url": "https://finance.yahoo.com/technology/articles/elon-musk-set-spend-100b-133005412.html"
     }
   ]
 }

@@ -1,13 +1,27 @@
 {
   "ticker": "MMM",
-  "generated_at": "2026-11-04T21:41:09.062568+00:00",
+  "generated_at": "2026-11-05T04:43:07.392706+00:00",
   "items": [
     {
-      "title": "Stock Market Today: Dow Soars 1,500 Points; Microsoft Surges Off This Entry (Live Coverage)",
-      "summary": "The Dow Jones index surged 3% Wednesday following U.S. election results. Elon Musk-led SpaceX and Tesla dive.",
-      "pub_date": "2026-11-04T20:10:38Z",
+      "title": "Stock Market Today: Dow Soars 1,569 Points In postelection Rally; Microsoft Leaps Nearly 7% Off New Entry",
+      "summary": "The Dow Jones index surged 3% Wednesday following election results. Elon Musk-led SpaceX and Tesla dive.",
+      "pub_date": "2026-11-04T21:47:54Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-election-results-elon-musk-spacex-tesla-amd/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "A $7.4 Billion Legal Bill Sounds Bad. For 3M Stock, It\u2019s Pure Relief.",
+      "summary": "A new settlement over forever chemicals is bringing more certainty that the manufacturer\u2019s litigation nightmares are over.",
+      "pub_date": "2026-11-04T21:41:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/3m-stock-pfas-forever-chemicals-settlement-b3e2ea57?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Dow Rallies 1,590 Points on Midterm Relief: Stock Market Today",
+      "summary": "Stocks of just about all sectors and sizes rose in the wake of a \"blue wave\" that resolved midterm election uncertainty. But AI and oil are still big variables.",
+      "pub_date": "2026-11-04T21:12:48Z",
+      "source": "Kiplinger",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-rallies-1-590-points-211248687.html"
     },
     {
       "title": "3M settlement removes major PFAS overhang, UBS says",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-04T16:58:39Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/dow-jones-amazon-midterm-elections-sp-500-nasdaq-home-depot-3m/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Blue Chips Pop On Blue Wave As Dow Surges 1,000 Points",
-      "summary": "A blue wave sent blue chips surging at Wednesday's open, but the rally split the market in a way that reveals exactly where the risk in the AI trade now lives.",
-      "pub_date": "2026-11-04T15:39:27Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/blue-chips-pop-blue-wave-153927871.html"
-    },
-    {
-      "title": "3M Reaches $7.35B PFAS Personal Injury Settlement, Maintains 2026 Outlook",
-      "summary": "3M (NYSE:MMM) said it has reached a settlement to resolve personal injury claims in the aqueous film-forming foam, or AFFF, multidistrict litigation pending in federal court in South Carolina, marking what management described as a significant step in addressing its legacy PFAS-related litigation.",
-      "pub_date": "2026-11-04T15:14:27Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3m-reaches-7-35b-pfas-151427572.html"
     }
   ]
 }

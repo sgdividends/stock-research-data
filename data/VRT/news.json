@@ -1,20 +1,41 @@
 {
   "ticker": "VRT",
-  "generated_at": "2026-11-04T21:41:38.082011+00:00",
+  "generated_at": "2026-11-05T04:43:36.698624+00:00",
   "items": [
+    {
+      "title": "Vistra Sinks 16% in a Week to a New 52-Week Low. Is the Texas Selloff Overdone?",
+      "summary": "Key TakeawaysVistra fell 16% in a week to a new 52-week low, with Vertiv, after Texas elected a governor who promised to halt new data centers. Vistra had hedged about 94% of its expected 2027 output as of early August, and most of its new gas plants are in PJM, where a peer sees strong demand.",
+      "pub_date": "2026-11-05T02:29:37Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-sinks-16-week-52-022937824.html"
+    },
+    {
+      "title": "Steve Weiss Says the Midterms Just Put a Lid on AI Spending. Here\u2019s Who Could Get Hurt",
+      "summary": "Chipmakers barely flinched when Democrats swept the midterms, but two stocks tied to AI data centers got hammered. A Texas permit freeze could explain the split, and it may reach your 401(k) even if you never bought an AI stock.",
+      "pub_date": "2026-11-05T00:09:14Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/steve-weiss-says-midterms-just-000914700.html"
+    },
+    {
+      "title": "Alphabet Gains 3%, Amazon Up 6% as Big Tech Leads Post-Midterm Rebound",
+      "summary": "Key TakeawaysAlphabet rose 3% today as Big Tech, led by Amazon, rallied after the midterms. The bounce looks like relief, since a new Congress doesn\u2019t fix the Search miss or negative free cash flow.",
+      "pub_date": "2026-11-04T21:51:04Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-gains-3-amazon-6-215104195.html"
+    },
+    {
+      "title": "Why a Democratic Sweep Is Crushing GE Vernova and More Industrial Stocks",
+      "summary": "Remember the rule of three before buying into popular industrial stocks amid the postelection, AI backlash wipeout.",
+      "pub_date": "2026-11-04T21:14:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/ge-vernova-vertiv-eaton-ai-industrials-stocks-bf41f4bc?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Vertiv Holdings Co (VRT) Locked In Three Years Of AI Power Chip Supply",
       "summary": "Vertiv Holdings Co (NYSE:VRT) agreed to a three-year partnership with Infineon Technologies to secure power semiconductor supply for AI infrastructure. The Infineon arrangement covers components for Vertiv's next-generation digital infrastructure and 800 VDC power systems used in AI data centers. Vertiv also expanded work with Dassault Syst\u00e8mes and NVIDIA to combine virtual twin design with pre-engineered AI factory reference architectures. These moves connect Vertiv\u2019s Infineon supply deal...",
       "pub_date": "2026-11-04T19:10:25Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/vertiv-holdings-co-vrt-locked-191025134.html"
-    },
-    {
-      "title": "Why a Democratic Sweep Is Crushing GE Vernova and More Industrial Stocks",
-      "summary": "Remember the rule of three before buying into popular industrial stocks after the postelection, AI backlash wipe out.",
-      "pub_date": "2026-11-04T18:40:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/ge-vernova-vertiv-eaton-ai-industrials-stocks-bf41f4bc?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Should You Buy, Sell, or Hold TER Stock After a 53% Rise in One Year?",
@@ -36,27 +57,6 @@
       "pub_date": "2026-11-04T16:48:50Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/data-center-stocks-just-plunged-164850777.html"
-    },
-    {
-      "title": "SpaceX, Tesla stocks sink as analyst warns Democrats' victory will create 'major hurdles' for AI build-out",
-      "summary": "SpaceX, Tesla, and data center-related stocks declined on Wednesday after Democrats took control of the House and Senate, raising worries of a slowdown in AI data center build-outs.",
-      "pub_date": "2026-11-04T13:51:38Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/article/spacex-tesla-stocks-sink-as-analyst-warns-democrats-victory-will-create-major-hurdles-for-ai-build-out-135511616.html"
-    },
-    {
-      "title": "Vertiv Sinks 9%, GE Vernova Down 8% as Democrats Win Congress, Reviving Data Center Fears",
-      "summary": "Key TakeawaysVertiv fell 9% today after Democrats won Congress, dragging GE Vernova, Eaton and CoreWeave down too. Developers will still need Vertiv\u2019s gear even if they pay more for power, so the selloff looks overdone.",
-      "pub_date": "2026-11-04T15:09:52Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/vertiv-sinks-9-ge-vernova-150952479.html"
-    },
-    {
-      "title": "Vistra Sinks 10%, Constellation Down 6% as Democrats\u2019 \u201cBlue Tsunami\u201d Hits AI Power Stocks",
-      "summary": "Key TakeawaysVistra stock fell 10% today after Democrats won Congress and Texas, pulling Constellation Energy, GE Vernova and Vertiv down too. Texas Governor-elect Gina Hinojosa campaigned on a moratorium on new data centers.",
-      "pub_date": "2026-11-04T15:00:42Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/vistra-sinks-10-constellation-down-150042182.html"
     }
   ]
 }

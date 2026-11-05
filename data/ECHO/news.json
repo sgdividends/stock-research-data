@@ -1,6 +1,6 @@
 {
   "ticker": "ECHO",
-  "generated_at": "2026-11-04T21:40:40.385934+00:00",
+  "generated_at": "2026-11-05T04:42:38.644724+00:00",
   "items": [
     {
       "title": "SpaceX Makes a Major Move Into America's Wireless Market",
@@ -8,6 +8,13 @@
       "pub_date": "2026-11-04T18:42:42Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/articles/spacex-makes-major-move-americas-184242824.html"
+    },
+    {
+      "title": "EchoStar Shares Jumped on a Potential SpaceX Deal, But the ECHO Stock Financials Paint a Bleaker Picture",
+      "summary": "SpaceX is looking to launch its wireless mobile service.",
+      "pub_date": "2026-11-04T18:09:10Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/echostar-shares-jumped-potential-spacex-180910599.html"
     },
     {
       "title": "Qualcomm, SpaceX Team Up To Build Starlink Cell Network: Deal Could \u2018Lay The Foundation For AI-Native 6G,\u2019 Says Executive",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-04T01:30:06Z",
       "source": "Benzinga",
       "url": "https://finance.yahoo.com/technology/articles/jim-cramer-sees-bigger-threat-013006261.html"
-    },
-    {
-      "title": "Elon Musk Got Turned Down by 3 Phone Giants. Now SpaceX Is Eyeing Boost Mobile as a Shortcut Around a $300 Billion Build.",
-      "summary": "Eric Bleeker of 24/7 Wall St. looks at why SpaceX (NASDAQ: SPCX) may be eyeing Boost Mobile after Verizon (NYSE: VZ), AT&amp;T (NYSE: T) and T-Mobile (NASDAQ: TMUS) reportedly turned Elon Musk down as a phone partner. The Washington Post reported on November 2nd that SpaceX has been in talks to buy Boost from EchoStar (NASDAQ: SATS) or partner with it. Nothing has been signed, and the structure is still open.\n\nThe appeal is speed and cost. TD Cowen analyst Gregory Williams estimates a national network from scratch would cost upwards of $80 billion and take years. Verizon's CEO put the build at four to six years and $300 billion to $500 billion. Musk says two to three years. Boost brings customers, a brand and spectrum, and SpaceX already agreed to buy some EchoStar spectrum licenses for about $17 billion.\n\nT-Mobile's CEO sees no room for a SpaceX MVNO, though he is open to a resale deal for a complementary satellite product. AT&amp;T closed its EchoStar spectrum deal in the third quarter. Verizon added 406,000 postpaid phone net additions, AT&amp;T added 379,000, and T-Mobile raised full-year guidance.\n\nThe catch is that Boost leases network access from AT&amp;T and T-Mobile, and a change of control could let both end those agreements. Watch whether that risk derails any deal.",
-      "pub_date": "2026-11-03T17:30:14Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/video/elon-musk-got-turned-down-173014840.html"
     }
   ]
 }
