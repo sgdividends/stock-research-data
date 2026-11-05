@@ -1,7 +1,14 @@
 {
   "ticker": "EQIX",
-  "generated_at": "2026-11-05T04:42:40.767275+00:00",
+  "generated_at": "2026-11-05T16:00:03.300979+00:00",
   "items": [
+    {
+      "title": "Digital Realty Just Paid a 45% Premium for a Stake in a Rival Data Center Stock",
+      "summary": "Two days after a guidance cut sent NEXTDC reeling, a trust co-owned by Digital Realty came knocking with an offer the target calls a raid. The buyers say they have no takeover plans, but they kept the door open.",
+      "pub_date": "2026-11-05T15:19:10Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/digital-realty-just-paid-45-151910765.html"
+    },
     {
       "title": "These AI Data Center Stocks Are Rising, Bucking the Post-Election Slump",
       "summary": "While hardware and other data center stocks were hard hit over fears of new regulations or moratoriums on data centers, this niche was holding up just fine on Wednesday.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-02T13:15:02Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/unlocking-equinix-eqix-international-revenues-131502300.html"
-    },
-    {
-      "title": "Equinix Raises Outlook Again as Data Center Bookings Hit Record",
-      "summary": "Equinix signed a record $533 million of annualized bookings in Q3 and lifted its outlook a third time on AI demand.",
-      "pub_date": "2026-10-30T16:48:34Z",
-      "source": "CRE Daily",
-      "url": "https://finance.yahoo.com/real-estate/articles/equinix-raises-outlook-again-data-164834699.html"
     }
   ]
 }

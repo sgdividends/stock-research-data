@@ -1,7 +1,14 @@
 {
   "ticker": "WDAY",
-  "generated_at": "2026-11-05T04:43:37.952690+00:00",
+  "generated_at": "2026-11-05T16:01:12.902277+00:00",
   "items": [
+    {
+      "title": "Motorola Beats Q3 Earnings Estimates on Strong Demand, Record Orders",
+      "summary": "MSI's Q3 2026 earnings beat estimates on double-digit revenue growth, record orders and a $16.6B backlog, prompting an increase in full-year guidance.",
+      "pub_date": "2026-11-05T12:47:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/motorola-beats-q3-earnings-estimates-124700638.html"
+    },
     {
       "title": "Why Workday (WDAY) Outpaced the Stock Market Today",
       "summary": "The latest trading day saw Workday (WDAY) settling at $201.84, representing a +1.97% change from its previous close.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-10-29T16:13:44Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-apos-capital-plan-clarity-161344212.html"
-    },
-    {
-      "title": "ServiceNow Tumbles 19% as Slower Contract Growth Overshadows Raised AI Target; Salesforce Slides 6%, Workday Drops 5%",
-      "summary": "ServiceNow beat revenue estimates and raised its AI target, yet its stock cratered anyway, and the ripple hit Salesforce, Workday, and Adobe hard. One buried detail in the guidance is spooking investors across the entire enterprise software sector.",
-      "pub_date": "2026-10-29T13:09:05Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-tumbles-19-slower-contract-130905770.html"
     }
   ]
 }

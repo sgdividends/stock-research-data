@@ -1,7 +1,35 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-11-05T04:42:30.607701+00:00",
+  "generated_at": "2026-11-05T15:59:50.450845+00:00",
   "items": [
+    {
+      "title": "Coinbase Seeks To Reassure Investors After Binance Hack",
+      "summary": "Cryptocurrency exchange Coinbase Global (NASDAQ: $COIN) says that 99% of its customers\u2019 digital assets are sa...",
+      "pub_date": "2026-11-05T14:28:00Z",
+      "source": "CryptoProwl",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-seeks-reassure-investors-binance-142800930.html"
+    },
+    {
+      "title": "Which Stocks Overreacted To The Midterms?",
+      "summary": "Part of our midterms guide. Start here: what the vote really changes for your money.",
+      "pub_date": "2026-11-05T13:13:03Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-overreacted-midterms-131303514.html"
+    },
+    {
+      "title": "Coinbase Lays Out Hot Wallet Controls as Customers Ask if a Binance-Style Hack Could Hit It",
+      "summary": "Customers asked whether Binance\u2019s Oct. 29 breach could happen at Coinbase. The exchange pointed to signing keys that are never reassembled, caps on refilling hot wallets and switches that can pull keys offline.",
+      "pub_date": "2026-11-05T10:45:28Z",
+      "source": "Unchained",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-lays-hot-wallet-controls-104528804.html"
+    },
+    {
+      "title": "Is Wall Street Bullish or Bearish on Coinbase Stock?",
+      "summary": "Coinbase has underperformed the broader market. However, Wall Street sentiment remains cautiously optimistic, with analysts leaning toward a recovery.",
+      "pub_date": "2026-11-05T06:03:29Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/wall-street-bullish-bearish-coinbase-060329333.html"
+    },
     {
       "title": "Strategy Is Down 45% From Its High. Saylor Sees \u201cthe Next Bitcoin Bull Market\u201d",
       "summary": "Key TakeawaysStrategy is down 45% from its high a year ago after bitcoin fell below what it paid for its coins and its STRC preferred stock slipped under $100, a slide that also hit MARA Holdings and Coinbase. Executive Chairman Michael Saylor says the next bitcoin bull market has begun, but Strategy\u2019s bitcoin per share is down 3.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-11-04T21:24:53Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/bitcoin-cryptocurrency-midterm-elections-2026-house-senate-democrat-control-outlook-ai-data-center/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Circle Earnings Show Stablecoins Have Arrived. A Crypto Payoff Could Take Longer.",
-      "summary": "Circle Internet stock rises as usage of its stablecoin, USDC, increased 8% from a year ago.",
-      "pub_date": "2026-11-04T21:09:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/circle-internet-earnings-stock-price-b3bace9c?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers\u2019 Reach",
-      "summary": "Coinbase told customers it wasn\u2019t affected by the $6.4 billion Binance hack and detailed its security controls, including offline storage for over 99% of assets, split private keys and kill switches.",
-      "pub_date": "2026-11-04T20:46:03Z",
-      "source": "decrypt",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-says-99-customer-crypto-204603423.html"
-    },
-    {
-      "title": "Bitcoin, XRP, crypto stocks surge after GOP loses midterm 2026",
-      "summary": "Bitcoin fell to $75,618 after the midterms, below its $77,994 low after the Binance hack, but quickly recovered to $80,000.",
-      "pub_date": "2026-11-04T20:34:41Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-xrp-crypto-stocks-surge-203441456.html"
-    },
-    {
-      "title": "Bitcoin Tops $81,000 After Midterm Dip, Squeezing Short Sellers",
-      "summary": "Bitcoin slid to about $75,600 while the midterm results came in, then climbed past $81,000 on Wednesday, forcing out hundreds of millions of dollars in bets against crypto.",
-      "pub_date": "2026-11-04T16:56:26Z",
-      "source": "Unchained",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-tops-81-000-midterm-165626746.html"
     }
   ]
 }

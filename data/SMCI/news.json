@@ -1,13 +1,34 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-11-05T04:43:25.167423+00:00",
+  "generated_at": "2026-11-05T16:00:56.957626+00:00",
   "items": [
     {
-      "title": "Supermicro tops Q1 estimates, offers strong Q2 outlook",
-      "summary": "Supermicro reported its Q1 earnings after the bell Tuesday.",
-      "pub_date": "2026-11-03T19:53:15Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/technology/article/supermicro-tops-q1-estimates-offers-strong-q2-outlook-220213885.html"
+      "title": "Super Micro's $19.9 billion quarter exposes a hidden problem",
+      "summary": "Fiscal first-quarter revenue climbed to $19.95 billion from $5.02 billion a year earlier.",
+      "pub_date": "2026-11-05T12:00:01Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/super-micros-19-9-billion-120001217.html"
+    },
+    {
+      "title": "NetApp Up 62% in the Past Year: Should Investors Buy the Stock?",
+      "summary": "NTAP's shares have surged 62.2% in a year, fueled by AI, flash storage and cloud demand. Can strong earnings and an upbeat outlook offset margin pressures?",
+      "pub_date": "2026-11-05T11:40:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/netapp-62-past-investors-buy-114000617.html"
+    },
+    {
+      "title": "Arista Networks And 2 Other AI Infrastructure Stocks To Own",
+      "summary": "Data centre companies recently fell after US election results raised expectations of tighter oversight. That kind of policy scare can shift attention to the quieter workhorses of artificial intelligence: the switches, optical links and server hardware that keep AI models running. For investors, this corner of the market offers direct exposure to AI infrastructure demand. This article walks through three hardware stocks filtered from our AI networking and server-focused screener. The three...",
+      "pub_date": "2026-11-05T07:17:30Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/arista-networks-2-other-ai-071730127.html"
+    },
+    {
+      "title": "BofA lifts Supermicro target despite AI margin concerns",
+      "summary": "Record sales and strong AI demand prompted higher forecasts, but BofA remains concerned about profit margins and cash flow.",
+      "pub_date": "2026-11-05T05:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bofa-lifts-supermicro-target-despite-050300032.html"
     },
     {
       "title": "Super Micro Computer (SMCI) Stock Sinks After Q1 Results Expose Cash Strain",
@@ -36,27 +57,6 @@
       "pub_date": "2026-11-04T19:28:19Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/super-micros-ai-boom-just-192819629.html"
-    },
-    {
-      "title": "Super Micro Stock Soars -- Raises 2027 Sales Outlook as AI Demand Surges",
-      "summary": "Super Micro Stock Jumps as Company Unleashes Stunning $21.5 Billion Revenue Forecast",
-      "pub_date": "2026-11-04T19:11:45Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-stock-soars-raises-191145223.html"
-    },
-    {
-      "title": "Super Micro Has More\u00a0Going for It\u00a0Than Meets the\u00a0Eye",
-      "summary": "Supermicro shares have sold off hard even as its order backlog hit record levels and a preliminary quarter beat guidance. A single-digit forward multiple on a company growing faster than Dell raises a question worth examining before November 3.",
-      "pub_date": "2026-11-04T18:33:49Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-more-going-meets-183349679.html"
-    },
-    {
-      "title": "Why Nvidia Stock Can Ride Out a Data-Center Crackdown",
-      "summary": "Nvidia stock falls as investors digest strong AI earnings and the threat that Democrats will restrict data-center construction.",
-      "pub_date": "2026-11-04T18:29:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/nvidia-stock-price-data-centers-5b4a74a1?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
