@@ -1,7 +1,28 @@
 {
   "ticker": "CRWD",
-  "generated_at": "2026-11-05T15:59:52.761072+00:00",
+  "generated_at": "2026-11-05T21:51:46.231577+00:00",
   "items": [
+    {
+      "title": "Palantir and CrowdStrike stocks tumble as Wall Street dumps software's AI winners",
+      "summary": "Investors are selling the software stocks that rode the AI boom and mostly sparing the ones that have been left behind.",
+      "pub_date": "2026-11-05T17:35:40Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/palantir-and-crowdstrike-stocks-tumble-as-wall-street-dumps-softwares-ai-winners-173540737.html"
+    },
+    {
+      "title": "CrowdStrike Sinks 9%, Palo Alto Down 8%, Cloudflare Down 9% as AI Trade Unwinds",
+      "summary": "Key TakeawaysCrowdStrike shares fell 10% as investors sold off AI stocks, and the company had no news to explain the drop. Palo Alto Networks, Zscaler and Cloudflare fell with it, as the market sold cybersecurity as a group.",
+      "pub_date": "2026-11-05T18:18:56Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-sinks-9-palo-alto-181856889.html"
+    },
+    {
+      "title": "Palantir Tumbles 10%, CrowdStrike Sinks 9% as Wall Street Dumps Software\u2019s AI Winners; Okta Drops 10%",
+      "summary": "Software's biggest AI winners are getting hit hardest while the year's laggards barely move. A post-midterm shift in sentiment is reshaping who gets punished, and one security name is slipping far less than its peers.",
+      "pub_date": "2026-11-05T18:11:36Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-tumbles-10-crowdstrike-sinks-181136741.html"
+    },
     {
       "title": "3 Cybersecurity Stocks To Watch With Up To 45% Earnings Growth",
       "summary": "As US lawmakers push the Remote Access Security Act to close loopholes around cloud access to high end Nvidia chips, digital security is moving from a background concern to a frontline policy issue. That puts companies guarding data and networks in the spotlight. This article explains why this matters now and profiles 3 cyber security stocks from a global screener with strong balance sheets and high growth expectations. The stocks profiled below are just a short list to illustrate the...",
@@ -36,27 +57,6 @@
       "pub_date": "2026-11-05T02:37:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-gives-companies-kill-switch-023700838.html"
-    },
-    {
-      "title": "AI Server Backlog Could Reshape The Dell Stock Story",
-      "summary": "CrowdStrike recently announced an integrated Falcon security offering for the Dell AI Factory with NVIDIA. At the same time, Dell expanded its own AI-focused cybersecurity, data protection and AI infrastructure services, including quantum-safe encryption, identity resilience tools and managed detection and response across AI workloads. These moves deepen Dell Technologies' role in securing enterprise AI stacks end to end, from data center infrastructure and AI servers to identity systems and...",
-      "pub_date": "2026-11-04T20:14:19Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-server-backlog-could-reshape-201419354.html"
-    },
-    {
-      "title": "Should Twilio Stock Holders Look At Fortinet Instead?",
-      "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "pub_date": "2026-11-04T20:00:18Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/twilio-stock-holders-look-fortinet-200018317.html"
-    },
-    {
-      "title": "Is AI creating the very threats they're now hired to fight?",
-      "summary": "Host and \"The Buy Side\" author Turney Duff and his panel of experts weigh in on CrowdStrike (CRWD) announcing a \"kill switch\" for AI agents, making the stock jump as demand for cybersecurity grows. \n\nToday's panel includes Drew Pettit, Chief Investment Strategist at Roundhill Investments; Mario Tufano, Senior Portfolio Manager at CS McKee; Emily Peck, Markets Reporter at Axios; and Al Root, Associate Editor at Barron's.\n\n",
-      "pub_date": "2026-11-04T18:29:06Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/is-ai-creating-the-very-threats-theyre-now-hired-to-fight-182906776.html"
     }
   ]
 }

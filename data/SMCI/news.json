@@ -1,7 +1,35 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-11-05T16:00:56.957626+00:00",
+  "generated_at": "2026-11-05T21:52:46.458460+00:00",
   "items": [
+    {
+      "title": "Nvidia Stock Tumbles. IBM and Supermicro AI Deal Delivers 56x Speed Boost",
+      "summary": "Nvidia Teams Up With IBM and Supermicro to Tackle a Major AI Bottleneck",
+      "pub_date": "2026-11-05T18:45:50Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-tumbles-ibm-supermicro-184550220.html"
+    },
+    {
+      "title": "Super Micro Sinks 10%, ASE Technology Holding Co. Down 17%, Celestica Down 13% as AI Hardware Selloff Deepens",
+      "summary": "Key TakeawaysSuper Micro Computer fell 10% today with no company news, as AI hardware selling continued after Democrats\u2019 midterm wins. Celestica, ASE Technology and Everpure fell harder on fears that data center building could slow.",
+      "pub_date": "2026-11-05T17:02:38Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-sinks-10-ase-170238778.html"
+    },
+    {
+      "title": "Dell Sinks Another 11% as Post-Midterm Tech Sell-Off Deepens",
+      "summary": "Key TakeawaysDell fell another 11% today with no news of its own, as the tech sell-off that followed Democrats\u2019 midterm wins deepened. Analysts expect Dell\u2019s earnings to more than double this fiscal year, yet its forward P/E is back near its 5-year average.",
+      "pub_date": "2026-11-05T16:20:12Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-sinks-another-11-post-162012605.html"
+    },
+    {
+      "title": "SMCI Stock Falls 5.7% After Q1 Results: Should You Hold or Fold?",
+      "summary": "Super Micro Computer's record AI-driven sales and higher revenue guidance boost its growth outlook.",
+      "pub_date": "2026-11-05T15:22:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/smci-stock-falls-5-7-152200528.html"
+    },
     {
       "title": "Super Micro's $19.9 billion quarter exposes a hidden problem",
       "summary": "Fiscal first-quarter revenue climbed to $19.95 billion from $5.02 billion a year earlier.",
@@ -17,46 +45,18 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/netapp-62-past-investors-buy-114000617.html"
     },
     {
+      "title": "What Are Wall Street Analysts' Target Price for Super Micro Computer Stock?",
+      "summary": "Super Micro Computer has underperformed the broader market and technology sector despite record revenue, raised guidance, and mixed analyst sentiment.",
+      "pub_date": "2026-11-05T10:40:26Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-target-price-104026410.html"
+    },
+    {
       "title": "Arista Networks And 2 Other AI Infrastructure Stocks To Own",
       "summary": "Data centre companies recently fell after US election results raised expectations of tighter oversight. That kind of policy scare can shift attention to the quieter workhorses of artificial intelligence: the switches, optical links and server hardware that keep AI models running. For investors, this corner of the market offers direct exposure to AI infrastructure demand. This article walks through three hardware stocks filtered from our AI networking and server-focused screener. The three...",
       "pub_date": "2026-11-05T07:17:30Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/arista-networks-2-other-ai-071730127.html"
-    },
-    {
-      "title": "BofA lifts Supermicro target despite AI margin concerns",
-      "summary": "Record sales and strong AI demand prompted higher forecasts, but BofA remains concerned about profit margins and cash flow.",
-      "pub_date": "2026-11-05T05:03:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/ai/articles/bofa-lifts-supermicro-target-despite-050300032.html"
-    },
-    {
-      "title": "Super Micro Computer (SMCI) Stock Sinks After Q1 Results Expose Cash Strain",
-      "summary": "Super Micro Computer came into this earnings print with the stock already under pressure, down about 31% over the past month and a further 5.7% lower to roughly US$29.60 in the latest session. The popular thesis paints this as a prime artificial intelligence server beneficiary with significant top line potential. The Q1 2027 report delivered exactly that kind of headline, with revenue of about US$19.9b tied to large scale data center and AI system deployments. Yet the sharp one day selloff...",
-      "pub_date": "2026-11-05T02:13:18Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-stock-021318613.html"
-    },
-    {
-      "title": "Super Micro Stock Has Disappointed for a Year: Why Raymond James Sees 107% Upside",
-      "summary": "Key TakeawaysRaymond James raised its Super Micro Computer price target to $65 from $48 on Nov. 4, 107% above the Nov.",
-      "pub_date": "2026-11-04T20:24:33Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-stock-disappointed-why-202433153.html"
-    },
-    {
-      "title": "Super Micro Sinks 6%, Flex Down 13% as Election Raises Fears of \u201cData Center Moratoriums\u201d",
-      "summary": "Key TakeawaysSuper Micro fell 6% today, alongside Flex, on fears of Texas limits on data center construction after Tuesday\u2019s midterms. Super Micro\u2019s full-year gross margin guide of 11.",
-      "pub_date": "2026-11-04T20:16:19Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-sinks-6-flex-201619307.html"
-    },
-    {
-      "title": "Super Micro's AI Boom Just Got Much Bigger",
-      "summary": "Revenue nearly quadrupled as AI server demand overwhelmed Wall Street expectations.",
-      "pub_date": "2026-11-04T19:28:19Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/super-micros-ai-boom-just-192819629.html"
     }
   ]
 }

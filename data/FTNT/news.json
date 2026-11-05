@@ -1,7 +1,21 @@
 {
   "ticker": "FTNT",
-  "generated_at": "2026-11-05T16:00:13.355048+00:00",
+  "generated_at": "2026-11-05T21:52:03.976673+00:00",
   "items": [
+    {
+      "title": "Fortinet (FTNT) Unveiled Two New Security Services",
+      "summary": "Fortinet (NasdaqGS:FTNT) has introduced the FortiGuard Inline AI Security Service and FortiLink SASE Service to broaden its security portfolio. The FortiGuard Inline AI Security Service provides AI-specific inspection and guardrails for enterprises adopting generative AI tools and workflows. FortiLink SASE Service offers agentless, cloud-delivered security for distributed locations that do not deploy on site firewalls. The launch of FortiGuard Inline AI Security Service and FortiLink SASE...",
+      "pub_date": "2026-11-05T20:14:18Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/fortinet-ftnt-unveiled-two-security-201418648.html"
+    },
+    {
+      "title": "Palantir Tumbles 10%, CrowdStrike Sinks 9% as Wall Street Dumps Software\u2019s AI Winners; Okta Drops 10%",
+      "summary": "Software's biggest AI winners are getting hit hardest while the year's laggards barely move. A post-midterm shift in sentiment is reshaping who gets punished, and one security name is slipping far less than its peers.",
+      "pub_date": "2026-11-05T18:11:36Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-tumbles-10-crowdstrike-sinks-181136741.html"
+    },
     {
       "title": "Fortinet (FTNT) Stock May Be 11% Undervalued Following Service Outlook Cut",
       "summary": "Fortinet has rewarded long term holders with a powerful run, yet the recent share pullback and shifting expectations for its service business leave a clear question about how well today\u2019s valuation lines up with the cash the company can generate. With the stock now reacting sharply to any change in growth assumptions, investors are increasingly focused on what its future cash flows are really worth. Over the past 3 years the stock has gained 160.5%, which puts a lot of past optimism about...",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-04T17:59:41Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/5-large-cap-tech-stocks-175941681.html"
-    },
-    {
-      "title": "Zscaler Lags Cybersecurity Peers: Should Investors Hold the Stock?",
-      "summary": "ZS' slowing growth and rising spending weigh on its stock, but AI security momentum, Zero Trust adoption and attractive valuation support a hold strategy.",
-      "pub_date": "2026-11-04T14:45:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zscaler-lags-cybersecurity-peers-investors-144500471.html"
-    },
-    {
-      "title": "FTNT Q3 Earnings Call Highlights Services Outlook and AI Demand",
-      "summary": "Fortinet raises its 2026 outlook as AI security and enterprise demand fuel growth, but service revenue delays and rising component costs pose challenges.",
-      "pub_date": "2026-11-04T14:00:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ftnt-q3-earnings-call-highlights-140000200.html"
     }
   ]
 }

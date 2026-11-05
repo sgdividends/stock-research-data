@@ -1,7 +1,35 @@
 {
   "ticker": "MCHP",
-  "generated_at": "2026-11-05T16:00:34.464647+00:00",
+  "generated_at": "2026-11-05T21:52:24.041089+00:00",
   "items": [
+    {
+      "title": "Microchip Tech: Fiscal Q2 Earnings Snapshot",
+      "summary": "(AP) \u2014 Microchip Technology Inc. (MCHP) on Thursday reported fiscal second-quarter earnings of $401.",
+      "pub_date": "2026-11-05T21:29:32Z",
+      "source": "Associated Press",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microchip-tech-fiscal-q2-earnings-212932625.html"
+    },
+    {
+      "title": "Intel Sinks 8% as Midterm Chip Sell-Off Deepens",
+      "summary": "Key TakeawaysIntel fell 8% today as chip stocks sold off on worries that Democrats\u2019 midterm wins could slow the data-center buildout. Intel\u2019s problem is supply: it can\u2019t make enough server chips, so a slower buildout hurts it less than most.",
+      "pub_date": "2026-11-05T20:20:40Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-sinks-8-midterm-chip-202040508.html"
+    },
+    {
+      "title": "Onsemi\u2019s AI Data Center Sales Reportedly Grew 175%. Is That the Chip Stock\u2019s New Story?",
+      "summary": "Onsemi just posted its fourth straight earnings beat while trading nearly 48% below its 52-week high, and a surprise surge in one fast-growing segment has analysts split on whether the stock is a bargain or a value trap.",
+      "pub_date": "2026-11-05T18:33:34Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/onsemi-ai-data-center-sales-183334697.html"
+    },
+    {
+      "title": "Top Robotics Stocks With Strong Potential for Long-Term Growth",
+      "summary": "Robotics is poised for robust long-term growth. Consider OMCL, SNPS, CDNS and MCHP for potential market dominance across sectors.",
+      "pub_date": "2026-11-05T15:33:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-robotics-stocks-strong-potential-153300390.html"
+    },
     {
       "title": "Was The Run In Applied Materials Stock Hiding In Plain Sight?",
       "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-11-04T14:36:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/monday-com-report-q3-earnings-143600997.html"
-    },
-    {
-      "title": "Are Wall Street Analysts Bullish on Microchip Technology Stock?",
-      "summary": "Microchip Technology has outperformed the broader market over the past year, and analysts are highly optimistic about the stock\u2019s prospects.",
-      "pub_date": "2026-11-04T14:05:40Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-microchip-140540223.html"
-    },
-    {
-      "title": "Why Is Monolithic Power Stock Going Up?",
-      "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "pub_date": "2026-11-04T13:49:22Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-monolithic-power-stock-going-134922228.html"
-    },
-    {
-      "title": "Can Semtech Stock Hit $190?",
-      "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "pub_date": "2026-11-04T11:53:07Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/semtech-stock-hit-190-115307936.html"
-    },
-    {
-      "title": "Did Earnings Beat Hopes Just Shift Microchip Technology (MCHP) Investment Narrative?",
-      "summary": "Microchip Technology recently expanded its PolarFire FPGA and SoC industrial edge networking stack with Beckhoff EtherCAT IP and in house TSN capabilities, while advancing PIC64 HPSC spaceflight processors through radiation testing and customer evaluations. The combination of EtherCAT and TSN support on PolarFire devices alongside radiation hardened PIC64 HPSC progress highlights Microchip Technology\u2019s focus on real time industrial and space computing workloads that require deterministic...",
-      "pub_date": "2026-11-03T22:24:23Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/did-earnings-beat-hopes-just-222423219.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-11-05T15:59:48.694909+00:00",
+  "generated_at": "2026-11-05T21:51:43.093320+00:00",
   "items": [
+    {
+      "title": "Bond Rally Drives 10-Year Yield to Two-Month Low",
+      "summary": "Today\u2019s sharp selloff in stocks is fueling a flight-to-quality rally in U.S. Treasurys, with yields dropping to their lowest levels since early September.",
+      "pub_date": "2026-11-05T17:31:22Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/bond-rally-drives-10-year-yield-to-two-month-low-fX6bfSD43aIoqn48SEIS?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Why a Cboe, Citadel backed group is suing CFTC regulators",
       "summary": "Scott Melker discusses how a group comprised of Cboe and Citadel Securities sued US Commodity Futures Trading Commission (CFTC) regulators in hopes of blocking the authorization of single-stock perpetual futures contracts.\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-03T22:31:03Z",
       "source": "IPO-Edge.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/proactive-market-making-gts-director-223103385.html"
-    },
-    {
-      "title": "Oil Edges Lower As U.S. Bombs Iran Before Election Day",
-      "summary": "Crude oil futures fell about 1% to around $96 a barrel.",
-      "pub_date": "2026-11-03T21:07:20Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/oil-prices-us-iran-hormuz-trump-exxon-chevron-midterm-election/?src=A00220&yptr=yahoo"
     }
   ]
 }

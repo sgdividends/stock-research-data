@@ -1,7 +1,35 @@
 {
   "ticker": "BAC",
-  "generated_at": "2026-11-05T15:59:39.905347+00:00",
+  "generated_at": "2026-11-05T21:51:33.215003+00:00",
   "items": [
+    {
+      "title": "Uber price target cut to $98 by BofA as delivery offsets mobility slowdown",
+      "summary": "Uber Technologies Inc (NYSE:UBER, XETRA:UT8) received a price target cut to $98 from $101 from Bank of America, which maintained its \"buy\" rating as delivery strength offset slowing mobility growth. Third-quarter gross bookings matched Wall Street expectations at $59.8 billion, while EBITDA...",
+      "pub_date": "2026-11-05T20:01:00Z",
+      "source": "Proactive",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/uber-price-target-cut-98-200100173.html"
+    },
+    {
+      "title": "Eli Lilly gets BofA target hike as non-obesity pipeline takes focus",
+      "summary": "Eli Lilly and Co (NYSE:LLY) received a higher price target of $1,557 from Bank of America, which maintained its \"buy\" rating while highlighting potential upside from drugs beyond obesity. The bank raised its valuation multiple from 25 times to 26 times estimated 2028 underlying earnings per...",
+      "pub_date": "2026-11-05T19:42:00Z",
+      "source": "Proactive",
+      "url": "https://finance.yahoo.com/healthcare/articles/eli-lilly-gets-bofa-target-194200264.html"
+    },
+    {
+      "title": "Costco retains BofA \"buy\" as October US comps rise 8.1%",
+      "summary": "Costco Wholesale Corporation (NASDAQ:COST, XETRA:CTO) US comparable sales accelerated in October, prompting Bank of America to maintain its \"buy\" rating. US comparable sales excluding gasoline price changes rose 8.1%, with growth improving from September on both a year-over-year and two-year...",
+      "pub_date": "2026-11-05T19:20:00Z",
+      "source": "Proactive",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/costco-retains-bofa-buy-october-192000711.html"
+    },
+    {
+      "title": "AppLovin's Q3 Beat Limits Downside, But Long-Term Growth Visibility Remains Uncertain, BofA Says",
+      "summary": "AppLovin (APP) delivered a significant Q3 revenue beat, supported by the partial rollout of its new",
+      "pub_date": "2026-11-05T16:36:03Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/applovin-apos-q3-beat-limits-163603001.html"
+    },
     {
       "title": "Goldman Sachs S&P 500 Premium Income (GPIX) Adds Meta and Alphabet on Nov. 3",
       "summary": "The fund bought $234.4 million more than it sold, lifting 244 positions and trimming 117.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-11-05T05:03:00Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/technology/ai/articles/bofa-lifts-supermicro-target-despite-050300032.html"
-    },
-    {
-      "title": "Bank of America has unexpected verdict on AI stocks after post-midterm Democrat sweep",
-      "summary": "Investors may have feared the wrong outcome.",
-      "pub_date": "2026-11-04T18:47:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/technology/ai/articles/bank-america-unexpected-verdict-ai-184700844.html"
-    },
-    {
-      "title": "AMD price targets hold firm as analysts lift forecasts on AI growth outlook",
-      "summary": "Advanced Micro Devices Inc (NASDAQ:AMD, XETRA:AMD) won continued support from Bank of America and Wedbush, with both firms raising earnings forecasts as management\u2019s outlook for more than 80% revenue growth in 2027 reinforced expectations for its AI and server CPU businesses. Bank of America...",
-      "pub_date": "2026-11-04T18:38:00Z",
-      "source": "Proactive",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amd-price-targets-hold-firm-183800430.html"
-    },
-    {
-      "title": "Super Micro gets BofA upgrade to price target, but margins remain a concern",
-      "summary": "Super Micro Computer Inc (NASDAQ:SMCI) received a higher price target from Bank of America at $39 as stronger guidance failed to dispel concerns about margin sustainability. Management raised its fiscal year 2027 revenue guidance to $72 billion to $82 billion and its gross margin outlook to...",
-      "pub_date": "2026-11-04T18:08:00Z",
-      "source": "Proactive",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-gets-bofa-upgrade-180800303.html"
-    },
-    {
-      "title": "Arista Networks gets BofA backing as 2027 growth outlook tops Street",
-      "summary": "Arista Networks Inc (NYSE:ANET) drew higher estimates from Bank of America after its 2027 growth outlook topped Wall Street expectations, with the broker reiterating its \"buy\" rating and $240 price target. Management forecast 39% revenue growth in 2027 against the Street's 28%, following...",
-      "pub_date": "2026-11-04T17:48:00Z",
-      "source": "Proactive",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-gets-bofa-backing-174800684.html"
     }
   ]
 }

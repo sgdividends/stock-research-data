@@ -1,20 +1,27 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-11-05T15:59:35.405942+00:00",
+  "generated_at": "2026-11-05T21:51:26.776719+00:00",
   "items": [
+    {
+      "title": "AMD CEO Lisa Su sees AI becoming 'essential to every aspect of our lives'",
+      "summary": "AMD CEO Lisa Su strikes a bullish tone on AI's outlook amid a jittery market.",
+      "pub_date": "2026-11-05T17:28:25Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/article/amd-ceo-lisa-su-sees-ai-becoming-essential-to-every-aspect-of-our-lives-172825495.html"
+    },
+    {
+      "title": "Qualcomm, Micron, Sandisk, and AMD stocks sink, leading chip sector lower",
+      "summary": "Qualcomm, Micron, and Arm Holdings tanked on Thursday as investors unloaded AI trade stocks.",
+      "pub_date": "2026-11-05T13:31:00Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/qualcomm-micron-arm-stocks-sink-lead-chip-sector-lower-133100607.html"
+    },
     {
       "title": "AMD CEO Su on earnings outlook, new Starbucks holiday menu, and Hilton CEO on hotel demand",
       "summary": "Yahoo Finance Executive Editor Brian Sozzi tackles the biggest news of the market day, including AMD's (AMD) earnings outlook topping estimates as chip demand soars, what the blue wave in Congress means for a market rally, and how Starbucks (SBUX) plans its business around the holiday season with new products. \n\nSozzi also goes 1-on-1 with Hilton (HLT) CEO Chris Nassetta to discuss AI's impact on the hospitality industry. ",
       "pub_date": "2026-11-05T15:04:53Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/amd-ceo-su-on-earnings-outlook-new-starbucks-holiday-menu-and-hilton-ceo-on-hotel-demand-150453106.html"
-    },
-    {
-      "title": "Qualcomm, Micron, Sandisk, and AMD stocks sink, leading chip sector lower",
-      "summary": "Qualcomm, Micron, and Arm Holdings were all trading lower on Thursday as chip stocks continued to slide.",
-      "pub_date": "2026-11-05T13:31:00Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/qualcomm-micron-arm-stocks-sink-lead-chip-sector-lower-133100607.html"
     },
     {
       "title": "AMD is a 'data center first' company, says CEO Lisa Su",
@@ -24,39 +31,32 @@
       "url": "https://finance.yahoo.com/video/amd-is-a-data-center-first-company-says-ceo-lisa-su-132618996.html"
     },
     {
-      "title": "Stock Market Today: Nasdaq Craters 5% As Chips Sell Off; Arm Misses Key Metric (Live Coverage)",
+      "title": "Nvidia has lost nearly $1.4 trillion since its October record",
+      "summary": "Nvidia is losing the most in S&P 500 stocks by value in Thursday's market rout, on track for a fifth straight week of losses.",
+      "pub_date": "2026-11-05T16:59:12Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-has-lost-nearly-14-trillion-since-its-october-record-165912910.html"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Slammed By Big Tech Sell Off; Nvidia Hits Bear Territory (Live Coverage)",
       "summary": "The Dow Jones index rises Thursday after the postelection rally. Cava and Dutch Bros plunge on earnings.",
-      "pub_date": "2026-11-05T15:55:00Z",
+      "pub_date": "2026-11-05T21:34:45Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-election-rally-cava-dutch-bros/?src=A00220&yptr=yahoo"
     },
     {
-      "title": "AMD Tumbles 13%, NVIDIA Slides 7% as AI Regulation Fears Hit Chip Stocks; Intel Sinks 8%",
-      "summary": "Political risk is outweighing strong earnings across the AI chip trade, and Advanced Micro Devices (NASDAQ:AMD) is taking the hardest hit. AMD stock is at $424.36, down 13% in morning trading. The slide comes days after the chipmaker reported a quarter that CEO Lisa Su said \u201cwas the largest and most profitable in our history.\u201d [\u2026]",
-      "pub_date": "2026-11-05T15:46:01Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amd-tumbles-13-nvidia-slides-154601778.html"
+      "title": "US stocks nosedive as Democrat victory sparks investor panic",
+      "summary": "Wall Street suffered its worst sell-off since Donald Trump\u2019s tariff rollout amid fears the Democrats will derail the AI boom.",
+      "pub_date": "2026-11-05T21:32:40Z",
+      "source": "The Telegraph",
+      "url": "https://finance.yahoo.com/news/us-stocks-nosedive-democrat-victory-213240012.html"
     },
     {
-      "title": "AMD Sinks 13%, Bloom Energy Down 18% as Midterm \u201cSeismic Shift\u201d Deepens Chip Sell-Off",
-      "summary": "Key TakeawaysAMD fell 13% today, with Intel and Bloom Energy also lower, on fears that Democrats\u2019 midterm sweep will slow the AI data-center build-out. AMD had no news of its own, two days after a strong quarter and a forecast for 80%-plus revenue growth in 2027.",
-      "pub_date": "2026-11-05T15:12:41Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-sinks-13-bloom-energy-151241226.html"
-    },
-    {
-      "title": "Here Are the Stocks Getting Hit Hardest in Today\u2019s Rotation",
-      "summary": "As investors reassess their portfolios after Tuesday's blue wave, they're positioning for a slowdown in the AI build-out, knocking chip and data-center stocks.",
-      "pub_date": "2026-11-05T14:55:22Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/here-are-the-stocks-getting-hit-hardest-in-today-s-rotation-idhGJw2g2Q72J2tjuiZn?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Qualcomm stock drops on rising memory pricing, supply challenges",
-      "summary": "Both shares of Qualcomm (QCOM) and Arm Holdings (ARM) are sinking in Thursday's pre-market trading since each company reported its respective earnings results yesterday.\n\nInteractive Brokers Chief Strategist Steve Sosnick joins Pras Subramanian and Brooke DiPalma on The 8:30 to discuss memory chip pricing and supply challenges that Qualcomm is facing.",
-      "pub_date": "2026-11-05T14:10:21Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/qualcomm-stock-drops-on-rising-memory-pricing-supply-challenges-141021851.html"
+      "title": "The AI Trade Just Had Its Worst Day Since The Pandemic",
+      "summary": "Nvidia gave back its entire 2026 gain in one session as Wall Street reprices the AI buildout after the midterms.",
+      "pub_date": "2026-11-05T21:21:11Z",
+      "source": "Moby",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-trade-just-had-worst-212111179.html"
     }
   ]
 }

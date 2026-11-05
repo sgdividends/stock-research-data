@@ -1,62 +1,62 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-11-05T15:59:38.645265+00:00",
+  "generated_at": "2026-11-05T21:51:30.547933+00:00",
   "items": [
     {
-      "title": "AMD Tumbles 13%, NVIDIA Slides 7% as AI Regulation Fears Hit Chip Stocks; Intel Sinks 8%",
-      "summary": "Political risk is outweighing strong earnings across the AI chip trade, and Advanced Micro Devices (NASDAQ:AMD) is taking the hardest hit. AMD stock is at $424.36, down 13% in morning trading. The slide comes days after the chipmaker reported a quarter that CEO Lisa Su said \u201cwas the largest and most profitable in our history.\u201d [\u2026]",
-      "pub_date": "2026-11-05T15:46:01Z",
+      "title": "Stocks slide as Wall Street's post-election rally fizzles",
+      "summary": "Yahoo Finance Markets and Data Editor Jared Blikre breaks down all of today's market moves, which largely trended downward as markets reversed the gains and optimism from the blue wave rally.",
+      "pub_date": "2026-11-05T21:42:50Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/stocks-slide-as-wall-streets-post-election-rally-fizzles-214250142.html"
+    },
+    {
+      "title": "Nvidia has lost nearly $1.4 trillion since its October record",
+      "summary": "Nvidia is losing the most in S&P 500 stocks by value in Thursday's market rout, on track for a fifth straight week of losses.",
+      "pub_date": "2026-11-05T16:59:12Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-has-lost-nearly-14-trillion-since-its-october-record-165912910.html"
+    },
+    {
+      "title": "The AI Trade Just Had Its Worst Day Since The Pandemic",
+      "summary": "Nvidia gave back its entire 2026 gain in one session as Wall Street reprices the AI buildout after the midterms.",
+      "pub_date": "2026-11-05T21:21:11Z",
+      "source": "Moby",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-trade-just-had-worst-212111179.html"
+    },
+    {
+      "title": "Micron stock sinks 17% as chip sector crashes",
+      "summary": "Micron led the chip sector lower on Thursday amid a heavy sell-off.",
+      "pub_date": "2026-11-05T16:31:37Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/micron-declines-12-as-chip-sell-off-deepens-163137019.html"
+    },
+    {
+      "title": "Marvell Just Dropped 49% in a Month: Is MRVL Stock Hopeless or Ready for a Rebound?",
+      "summary": "Marvell's results keep improving, yet its shares have been gutted by an all-stock acquisition and an election night shock for AI spending. Two analysts looked at the same deal and reached opposite verdicts, and the gap between them is huge.",
+      "pub_date": "2026-11-05T20:03:21Z",
       "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amd-tumbles-13-nvidia-slides-154601778.html"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-just-dropped-49-month-200321691.html"
     },
     {
-      "title": "Marvell Stock Eyes 35% Upside After Lumentum Deal",
-      "summary": "Marvell's stock has collapsed nearly 30% in a month while its own guidance keeps climbing, and the gap between those two lines is exactly where our model's price target lives.",
-      "pub_date": "2026-11-05T14:33:57Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-eyes-35-upside-143357159.html"
+      "title": "Anthropic's IPO plans run up against a battered Wall Street",
+      "summary": "Anthropic's IPO plans are clashing with a market rout.",
+      "pub_date": "2026-11-05T19:21:38Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/article/anthropics-ipo-plans-run-up-against-a-battered-wall-street-192138177.html"
     },
     {
-      "title": "MRVL's Networking Business Grows on the Back of AI: What's Ahead?",
-      "summary": "Marvell Technology's AI networking business is gaining momentum on the back of AI data center demand for efficient connectivity solutions.",
-      "pub_date": "2026-11-05T14:10:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mrvls-networking-business-grows-back-141000835.html"
+      "title": "Chip Stocks Face AI Regulation Fears",
+      "summary": "Nvidia isn\u2019t the only chipmaker feeling a post-midterms chill.",
+      "pub_date": "2026-11-05T18:52:06Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/chip-stocks-hit-by-data-center-ai-regulation-fears-TjThbzZVLKxkZW5tt26b?siteid=yhoof2&yptr=yahoo"
     },
     {
-      "title": "Nvidia Just Dipped Below $200 for the First Time Since August",
-      "summary": "While the S&P 500 and Nasdaq surged, Nvidia lost its crown as the world's largest company to Apple in a single session. Analysts still see huge upside, but one political shift could decide whether they are right.",
-      "pub_date": "2026-11-05T13:49:06Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-just-dipped-below-200-134906202.html"
-    },
-    {
-      "title": "TSMC\u2019s AI Opportunity Is Expanding. Here\u2019s the Question That Matters for Its Stock Price",
-      "summary": "TSMC just posted its third straight earnings beat while AI demand outstrips supply, yet shares have dropped nearly 11% in a month. One question from the CFO's own playbook now determines whether the stock recovers or stalls from here.",
-      "pub_date": "2026-11-05T13:33:37Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-ai-opportunity-expanding-matters-133337251.html"
-    },
-    {
-      "title": "Why Did Amazon And Google Stock Rise?",
-      "summary": "Part of our midterms guide. Start here: what the vote really changes for your money.",
-      "pub_date": "2026-11-05T13:13:00Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-amazon-google-stock-131300461.html"
-    },
-    {
-      "title": "Broadcom Stock Could Be Approaching a Major Turning Point. Here\u2019s the Price Target",
-      "summary": "Broadcom's share price keeps falling while its AI revenue explodes to record highs, and that widening gap between fundamentals and stock performance rarely lasts long before something gives.",
-      "pub_date": "2026-11-05T13:03:07Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stock-could-approaching-major-130307410.html"
-    },
-    {
-      "title": "When Should You Buy Intel Stock?",
-      "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "pub_date": "2026-11-05T12:06:21Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-intel-stock-120621720.html"
+      "title": "Broadcom Stocks Fall 6.42% With $21.7 Billion AI Forecast in Focus",
+      "summary": "Custom accelerators and networking face a tougher test of spending durability.",
+      "pub_date": "2026-11-05T18:50:39Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-stocks-fall-6-42-185039421.html"
     }
   ]
 }

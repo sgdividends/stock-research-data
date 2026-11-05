@@ -1,7 +1,28 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-11-05T16:00:21.891677+00:00",
+  "generated_at": "2026-11-05T21:52:12.036817+00:00",
   "items": [
+    {
+      "title": "IonQ Wants to Be the Nvidia of Quantum. Its Latest Numbers Back Up the Swagger.",
+      "summary": "IonQ CEO Niccolo de Masi envisions the company as a cornerstone of U.S. dominance in quantum technology.",
+      "pub_date": "2026-11-05T21:05:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/ionq-earnings-stock-price-44567619?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Nvidia Stock Tumbles. IBM and Supermicro AI Deal Delivers 56x Speed Boost",
+      "summary": "Nvidia Teams Up With IBM and Supermicro to Tackle a Major AI Bottleneck",
+      "pub_date": "2026-11-05T18:45:50Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-stock-tumbles-ibm-supermicro-184550220.html"
+    },
+    {
+      "title": "D-Wave Sinks 8%, Rigetti Down 8%, IonQ Down 8% as Quantum Stocks Slide Again",
+      "summary": "Key TakeawaysD-Wave Quantum shares fell 18% today alongside Rigetti Computing and IonQ, with no D-Wave news behind the drop. Quantum stocks are trading as high-beta bets on tech risk, and Wednesday\u2019s chip selloff carried into Thursday.",
+      "pub_date": "2026-11-05T15:54:29Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/d-wave-sinks-8-rigetti-155429691.html"
+    },
     {
       "title": "Can D-Wave Quantum Stock Fall 50%?",
       "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-11-05T10:36:24Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-hit-560-103624703.html"
-    },
-    {
-      "title": "Confluent launches Streamhouse architecture to support real-time AI",
-      "summary": "The Streamhouse architecture aims to deliver up-to-date business data for enterprise AI, analytics, and decision-making.",
-      "pub_date": "2026-11-05T10:09:59Z",
-      "source": "Verdict",
-      "url": "https://finance.yahoo.com/news/confluent-launches-streamhouse-architecture-support-100959709.html"
-    },
-    {
-      "title": "Did IBM Just Tell the Truth About AI?",
-      "summary": "Lam Research is a semiconductor machine business that\u2019s breaking records, but its stock price has been cut nearly in half from highs in 2026. Is it a good stock to buy right now?",
-      "pub_date": "2026-11-05T00:46:39Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/technology/ai/articles/did-ibm-just-tell-truth-004639499.html"
-    },
-    {
-      "title": "International Business Machines (IBM) Puts Quantum Encryption To Work On Heron R2",
-      "summary": "International Business Machines (NYSE:IBM) supported Quantum X Labs in running an advanced quantum encryption trial on its Quantum Heron r2 processor. The Quantum X Labs experiment used IBM hardware to test an information theoretic security protocol for quantum secured communications in commercial settings. The project positions IBM's quantum infrastructure as a practical platform for companies seeking quantum grade protection for sensitive data flows. This quantum encryption work on IBM's...",
-      "pub_date": "2026-11-04T19:11:42Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/international-business-machines-ibm-puts-191142844.html"
     }
   ]
 }

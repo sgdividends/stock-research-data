@@ -1,7 +1,28 @@
 {
   "ticker": "PANW",
-  "generated_at": "2026-11-05T16:00:46.518513+00:00",
+  "generated_at": "2026-11-05T21:52:35.770531+00:00",
   "items": [
+    {
+      "title": "Palantir and CrowdStrike stocks tumble as Wall Street dumps software's AI winners",
+      "summary": "Investors are selling the software stocks that rode the AI boom and mostly sparing the ones that have been left behind.",
+      "pub_date": "2026-11-05T17:35:40Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/palantir-and-crowdstrike-stocks-tumble-as-wall-street-dumps-softwares-ai-winners-173540737.html"
+    },
+    {
+      "title": "CrowdStrike Sinks 9%, Palo Alto Down 8%, Cloudflare Down 9% as AI Trade Unwinds",
+      "summary": "Key TakeawaysCrowdStrike shares fell 10% as investors sold off AI stocks, and the company had no news to explain the drop. Palo Alto Networks, Zscaler and Cloudflare fell with it, as the market sold cybersecurity as a group.",
+      "pub_date": "2026-11-05T18:18:56Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-sinks-9-palo-alto-181856889.html"
+    },
+    {
+      "title": "Palantir Tumbles 10%, CrowdStrike Sinks 9% as Wall Street Dumps Software\u2019s AI Winners; Okta Drops 10%",
+      "summary": "Software's biggest AI winners are getting hit hardest while the year's laggards barely move. A post-midterm shift in sentiment is reshaping who gets punished, and one security name is slipping far less than its peers.",
+      "pub_date": "2026-11-05T18:11:36Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-tumbles-10-crowdstrike-sinks-181136741.html"
+    },
     {
       "title": "Palo Alto Networks Eyes $500 Million AI Security Deal",
       "summary": "Cybersecurity giants are racing to buy specialized AI-security technology.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-11-04T20:00:18Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/twilio-stock-holders-look-fortinet-200018317.html"
-    },
-    {
-      "title": "Zscaler Lags Cybersecurity Peers: Should Investors Hold the Stock?",
-      "summary": "ZS' slowing growth and rising spending weigh on its stock, but AI security momentum, Zero Trust adoption and attractive valuation support a hold strategy.",
-      "pub_date": "2026-11-04T14:45:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zscaler-lags-cybersecurity-peers-investors-144500471.html"
-    },
-    {
-      "title": "Wall Street Analysts Think Palo Alto (PANW) Is a Good Investment: Is It?",
-      "summary": "According to the average brokerage recommendation (ABR), one should invest in Palo Alto (PANW). It is debatable whether this highly sought-after metric is effective because Wall Street analysts' recommendations tend to be overly optimistic. Would it be worth investing in the stock?",
-      "pub_date": "2026-11-04T13:30:03Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-think-palo-133003356.html"
-    },
-    {
-      "title": "Jim Cramer Praises New \u201cAI Kill Switch,\u201d Says \u201cYou Should Just Go Buy CrowdStrike\u201d",
-      "summary": "Jim Cramer just told viewers to buy a cybersecurity stock after its CEO showed him what he called the holy grail of AI safety, but the product itself carries a significant warning buried in the fine print.",
-      "pub_date": "2026-11-04T11:19:49Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-praises-ai-kill-111949663.html"
     }
   ]
 }
