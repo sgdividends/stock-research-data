@@ -1,11 +1,18 @@
 {
   "ticker": "VEEV",
-  "generated_at": "2026-11-06T04:43:23.664601+00:00",
+  "generated_at": "2026-11-06T15:35:05.328201+00:00",
   "items": [
     {
-      "title": "Dow Jones Futures Fall, Techs Rise After Nasdaq Dives 5.5%; Nvidia, Sandisk, CoreWeave, SpaceX Plunge",
+      "title": "Midterms Send Energy Packing, But These Sectors Gain In IBD 50",
+      "summary": "Under the latest sector rotation, healthcare and software are now crowding the IBD 50.",
+      "pub_date": "2026-11-06T15:01:04Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/stock-lists/ibd-50/ibd-50-energy-oil-stocks-health-care/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Dow Jones Futures Fall, AI Stocks Nvidia, Sandisk, CoreWeave, SpaceX Bounce; Tesla To End Cybertruck Production",
       "summary": "Nvidia, CoreWeave, SpaceX plunged, but the stock market sell-off spread far beyond AI. The October jobs report looms.",
-      "pub_date": "2026-11-06T04:05:01Z",
+      "pub_date": "2026-11-06T13:01:21Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-dives-55-nvidia-sandisk-coreweave-spacex-plunge-jobs/?src=A00220&yptr=yahoo"
     },
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-03T14:28:25Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/veeva-systems-veev-turning-industry-142825862.html"
-    },
-    {
-      "title": "Intuitive Surgical (ISRG) Drives Better Outcomes and Lower Care Costs",
-      "summary": "Riverbridge Partners, an investment management company, released its Q3 2026 investor letter for \u201cRiverbridge All Cap Growth Strategy.\u201d The letter can be downloaded here. The Russell 3000 Growth Index was nearly flat in Q3 2026, masking a shift away from AI infrastructure and consumer stocks amid concerns about sustainability, inflation, and oil prices. Riverbridge All [\u2026]",
-      "pub_date": "2026-11-03T14:26:35Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/healthcare/articles/intuitive-surgical-isrg-drives-better-142635109.html"
     }
   ]
 }

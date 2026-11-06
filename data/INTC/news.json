@@ -1,62 +1,62 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-11-06T04:42:35.607189+00:00",
+  "generated_at": "2026-11-06T15:34:13.443620+00:00",
   "items": [
     {
-      "title": "Intel's stock crash shares an uncanny resemblance to its 2000 bust",
-      "summary": "Intel stock's 26-year comeback and subsequent reckoning this year carry an eerie echo of its dot-com days.",
-      "pub_date": "2026-11-05T21:59:41Z",
+      "title": "Stocks lost $2 trillion. The market is wrong about AI",
+      "summary": "The stock market lost $2 trillion in 40 minutes, and AI stocks took the worst of it, with Intel down more than half since October and AMD off 17% in a day. Host Ejaaz Ahamadeen breaks down why it happened and why he thinks the market is wrong, from GPU rental prices up 106% to the CPU boom and Anthropic's IPO valuation.",
+      "pub_date": "2026-11-06T12:00:00Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/stocks-lost-2-trillion-market-120000040.html"
+    },
+    {
+      "title": "IREN stock soars, driven by massive gains in AI cloud sales",
+      "summary": "IREN Ltd. (IREN) stock is surging higher after reporting that its AI cloud sales have doubled since last quarter.\n\nInteractive Brokers chief strategist Steve Sosnick and AInvest managing editor Adam Shapiro join Pras Subramanian to discuss IREN's post-earnings stock moves.",
+      "pub_date": "2026-11-06T14:59:35Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/iren-stock-soars-driven-by-massive-gains-in-ai-cloud-sales-145935931.html"
+    },
+    {
+      "title": "Oversold AI and chip stocks after the Nasdaq\u2019s worst day since 2020",
+      "summary": "Investing.com -- Thursday\u2019s selloff hit technology stocks hard. The Nasdaq 100 fell 6.4%, its worst day since 2020. The S&P 500 lost 4.4%, and the Philadelphia Semiconductor Index dropped more than 12%. The trigger was Democratic midterm wins in key data-center states, which stoked fears of tougher AI regulation and a slower data-center buildout. Jefferies called it \"reactionary, not a fundamental reset\" (Nov 6, 2026).",
+      "pub_date": "2026-11-06T14:47:40Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oversold-ai-chip-stocks-nasdaq-144740381.html"
+    },
+    {
+      "title": "Your AMD Stock Thesis Still Has Loose Ends",
+      "summary": "For questions about this article or underlying research, email help@trefis.com.",
+      "pub_date": "2026-11-06T14:41:55Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-thesis-still-loose-144155873.html"
+    },
+    {
+      "title": "Can AMD Stock Fall 50%?",
+      "summary": "For questions about this article or underlying research, email help@trefis.com.",
+      "pub_date": "2026-11-06T14:41:50Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-fall-50-144150694.html"
+    },
+    {
+      "title": "Nvidia, AMD, and Micron stocks lead chip sector higher following worst sell-off since 2020",
+      "summary": "Nvidia, AMD, Micron, and Sandisk rebounded on Friday after the chip sector suffered its worst daily drop since 2020.",
+      "pub_date": "2026-11-06T13:43:36Z",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/article/intels-stock-crash-shares-an-uncanny-resemblance-to-its-2000-bust-215941388.html"
+      "url": "https://finance.yahoo.com/markets/article/nvidia-amd-micron-sandsik-lead-chip-sector-higher-134336542.html"
     },
     {
-      "title": "Intel (INTC) Brings Hardware Backed Security To EdgeAI And Sharpens Xeon AI Case",
-      "summary": "Intel (NasdaqGS:INTC) is supplying hardware-backed security for Atsign\u2019s new EdgeAI platform for AI and IoT networking in 2026. Atsign\u2019s EdgeAI offering uses Intel technology to combine high-throughput data handling with encrypted, device-level protection at the network edge. Symbolic Mind has reported efficiency gains in AI training and inference using Intel Xeon processors for on-premise enterprise workloads. These Intel security and CPU-based AI advances with Atsign EdgeAI and Symbolic...",
-      "pub_date": "2026-11-06T02:21:04Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/intel-intc-brings-hardware-backed-022104103.html"
+      "title": "What's Going To Happen With NVIDIA Stock Soon?",
+      "summary": "For questions about this article or underlying research, email help@trefis.com.",
+      "pub_date": "2026-11-06T14:19:24Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/whats-going-happen-nvidia-stock-141924419.html"
     },
     {
-      "title": "Chip Stocks Fall on AI Regulation Fears",
-      "summary": "Nvidia isn\u2019t the only chipmaker feeling a post-midterms chill.",
-      "pub_date": "2026-11-05T22:33:13Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/chip-stocks-hit-by-data-center-ai-regulation-fears-TjThbzZVLKxkZW5tt26b?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Stock Market Today, Nov. 5: Intel Falls on Weak Fourth-Quarter Sales Outlook Amid Chip Selloff",
-      "summary": "On Nov. 5, 2026, Intel's shares tumbled as a soft revenue forecast for the coming quarter rattled investors already wary of chip-sector weakness.",
-      "pub_date": "2026-11-05T22:22:16Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-5-222216828.html"
-    },
-    {
-      "title": "Nvidia, Micron, Intel, Sandisk, Palantir, AppLovin, Qualcomm, and More Stocks That Explain Today\u2019s Market",
-      "summary": "Intel stock is on track to slump more than 50% in a month.",
-      "pub_date": "2026-11-05T22:12:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-8b39c82b?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Stock market tumbles on post-election reset",
-      "summary": "The S&P 500 and Nasdaq Composite are down over 3% and 5%, respectively, today.",
-      "pub_date": "2026-11-05T22:08:01Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-tumbles-post-election-220801771.html"
-    },
-    {
-      "title": "Nasdaq Stock Market Correction: History Says This Is What Happens Next",
-      "summary": "The Nasdaq Composite is officially in correction territory. Here's what past corrections suggest about the months ahead.",
-      "pub_date": "2026-11-05T21:39:01Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-stock-market-correction-history-213901931.html"
-    },
-    {
-      "title": "Is AMD Stock a Buy as AI Revenue Soars?",
-      "summary": "AMD expects its revenue to surge 80% next year.",
-      "pub_date": "2026-11-05T20:39:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-buy-ai-revenue-203900198.html"
+      "title": "Wall Street set to stabilise after multi-trillion dollar tech plunge",
+      "summary": "(Refiles to fix bullet point formatting) By Marc Jones LONDON, Nov 6 (Reuters) - Wall Street looked set to stabilise on Friday, after fears about tighter AI regulations in the United States had wiped",
+      "pub_date": "2026-11-06T14:05:49Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-drop-ai-rout-235808955.html"
     }
   ]
 }

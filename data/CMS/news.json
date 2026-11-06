@@ -1,7 +1,21 @@
 {
   "ticker": "CMS",
-  "generated_at": "2026-11-06T04:42:04.830973+00:00",
+  "generated_at": "2026-11-06T15:33:41.340829+00:00",
   "items": [
+    {
+      "title": "Consolidated Edison Q3 Earnings Lag Estimates, Revenues Rise Y/Y",
+      "summary": "ED's Q3 revenues rise 8.5% and earnings grow 8.4%, while the utility narrows its 2026 earnings guidance and outlines $38 billion in planned investments.",
+      "pub_date": "2026-11-06T13:09:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/consolidated-edison-q3-earnings-lag-130900521.html"
+    },
+    {
+      "title": "Ameren Q3 Earnings Surpass Estimates, Revenues Increase Y/Y",
+      "summary": "AEE's Q3 earnings beat estimates by 5.7%, prompting higher 2026 guidance as infrastructure investments and stronger electricity sales drive growth.",
+      "pub_date": "2026-11-06T13:06:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ameren-q3-earnings-surpass-estimates-130600436.html"
+    },
     {
       "title": "Duke Energy Q3 Earnings Surpass Estimates on 2% Retail Load Growth",
       "summary": "DUK's Q3 earnings and revenues beat estimates, driven by infrastructure investment recovery, rising electricity demand and favorable weather.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-02T14:37:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/peg-q3-earnings-miss-expectations-143700707.html"
-    },
-    {
-      "title": "Dominion Energy's Q3 Earnings Top Estimates, Revenues Increase Y/Y",
-      "summary": "D's Q3 earnings rise 20.8% and beat estimates by 6.7%, while revenues increase 24.1% and surpass expectations by 17%, driven by strong utility performance.",
-      "pub_date": "2026-10-30T13:32:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dominion-energys-q3-earnings-top-133200481.html"
-    },
-    {
-      "title": "Edison International Q3 Earnings Outpace Estimates, Revenues Miss",
-      "summary": "EIX's Q3 earnings decline 17.9% but beat estimates by 4.9%, while revenues fall 15% and miss expectations by 11.7%.",
-      "pub_date": "2026-10-30T13:22:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/edison-international-q3-earnings-outpace-132200872.html"
     }
   ]
 }

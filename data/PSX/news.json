@@ -1,7 +1,14 @@
 {
   "ticker": "PSX",
-  "generated_at": "2026-11-06T04:43:04.844218+00:00",
+  "generated_at": "2026-11-06T15:34:46.402962+00:00",
   "items": [
+    {
+      "title": "State Street Energy SPDR (XLE) Sells $75.9 Million of Exxon on Nov. 4",
+      "summary": "The fund sold $312.6 million of stock and bought nothing on Wednesday, cutting all 21 of its positions.",
+      "pub_date": "2026-11-06T11:05:25Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/energy/articles/state-street-energy-spdr-xle-110525697.html"
+    },
     {
       "title": "Can MPC's Gulf Coast Focus Fuel Stronger Future Refining Returns?",
       "summary": "Marathon Petroleum's $4.2B asset sale sets the stage for Gulf Coast investments aimed at boosting diesel output, crude throughput and premium gasoline exports.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-04T13:45:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/energy/articles/bet-oil-gas-etfs-capitalizing-134500348.html"
-    },
-    {
-      "title": "Valero's $320.5M Houston Refinery Deal: A Growth Catalyst for VLO?",
-      "summary": "VLO's $320.5 million Houston refinery acquisition adds 165,000 barrels per day of planned capacity, expanding its Gulf Coast footprint.",
-      "pub_date": "2026-11-04T13:45:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/energy/articles/valeros-320-5m-houston-refinery-134500912.html"
     }
   ]
 }
