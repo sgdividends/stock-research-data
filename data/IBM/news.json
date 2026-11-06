@@ -1,11 +1,25 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-11-05T21:52:12.036817+00:00",
+  "generated_at": "2026-11-06T04:42:34.122724+00:00",
   "items": [
+    {
+      "title": "Quantinuum\u2019s Revenue Triples. What It Really Wants Is Quantum for the Masses.",
+      "summary": "Quantinuum\u2019s revenue more than tripled to $9.1 million, ahead of the $8.1 million analysts had expected.",
+      "pub_date": "2026-11-05T22:36:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/quantinuum-quantum-computing-stock-443a8594?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "IBM (IBM) Stock Could Trade At A Discount After Quantum Computing News",
+      "summary": "International Business Machines has delivered a 5 year share price that puts a lot of history into today\u2019s US$254.32 quote, which raises a simple but hard question for investors: Is the current valuation of IBM really in step with the cash the business is expected to generate over time? Over the past 5 years, International Business Machines has returned 152.8%, which puts a spotlight on whether the cash flow profile has evolved enough to carry that kind of move. Fresh announcements around...",
+      "pub_date": "2026-11-05T22:09:46Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ibm-ibm-stock-could-trade-220946495.html"
+    },
     {
       "title": "IonQ Wants to Be the Nvidia of Quantum. Its Latest Numbers Back Up the Swagger.",
       "summary": "IonQ CEO Niccolo de Masi envisions the company as a cornerstone of U.S. dominance in quantum technology.",
-      "pub_date": "2026-11-05T21:05:00Z",
+      "pub_date": "2026-11-05T21:38:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/ionq-earnings-stock-price-44567619?siteid=yhoof2&yptr=yahoo"
     },
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-05T12:06:18Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-ready-slower-growth-120618583.html"
-    },
-    {
-      "title": "How Quantinuum Is Taking Aim at a Quantum Computing Bottleneck",
-      "summary": "Quantinuum is striving to automate quantum error correction as part of its push toward fault-tolerant computing by 2029.",
-      "pub_date": "2026-11-05T12:00:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/quantinuum-quantum-computing-stock-443a8594?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Can Dell Stock Hit $560?",
-      "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "pub_date": "2026-11-05T10:36:24Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-hit-560-103624703.html"
     }
   ]
 }

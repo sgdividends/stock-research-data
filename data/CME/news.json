@@ -1,7 +1,14 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-11-05T21:51:43.093320+00:00",
+  "generated_at": "2026-11-06T04:42:04.213636+00:00",
   "items": [
+    {
+      "title": "Treasury Yields Hover Around Two-Month Lows Ahead of Payrolls",
+      "summary": "Treasury yields fell as WTI crude remained around $90.",
+      "pub_date": "2026-11-05T21:12:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/long-term-jgb-yields-fall-after-oil-price-drops-5cd454d2?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Bond Rally Drives 10-Year Yield to Two-Month Low",
       "summary": "Today\u2019s sharp selloff in stocks is fueling a flight-to-quality rally in U.S. Treasurys, with yields dropping to their lowest levels since early September.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-04T10:12:10Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/coinbase-stock-fall-another-40-101210783.html"
-    },
-    {
-      "title": "Proactive Market-Making: GTS Director Edward Zelles, Live from NYSE",
-      "summary": "IPO Edge hosted a fireside chat from the floor of the New York Stock Exchange during the 3rd Annual Private Equity IPO Summit with Edward Zelles, Director, Head of Corporate Services [\u2026]",
-      "pub_date": "2026-11-03T22:31:03Z",
-      "source": "IPO-Edge.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/proactive-market-making-gts-director-223103385.html"
     }
   ]
 }

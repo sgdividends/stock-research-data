@@ -1,7 +1,14 @@
 {
   "ticker": "MA",
-  "generated_at": "2026-11-05T21:52:22.773375+00:00",
+  "generated_at": "2026-11-06T04:42:46.225882+00:00",
   "items": [
+    {
+      "title": "US Fintech Weekly: Fiserv Bounces Post-Earnings, Crypto Brokers Suffer, And Federal Agencies Prepare Innovation Guidelines",
+      "summary": "A Democratic sweep is pulling Bitcoin prices lower and weighing on crypto brokerages.",
+      "pub_date": "2026-11-05T23:09:25Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-fintech-weekly-fiserv-bounces-230925126.html"
+    },
     {
       "title": "GPN Q3 Earnings Beat Estimates on Genius Growth, Margins Rise",
       "summary": "Global Payments tops Q3 earnings estimates, driven by strong Genius adoption and higher enterprise volumes, while expanding margins and progress on Worldpay integration support growth.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-05T10:19:04Z",
       "source": "TIKR",
       "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-got-targets-765-q3-101904884.html"
-    },
-    {
-      "title": "Mastercard Soars 10% in a Week to a Record. Its CFO\u2019s Warning: \u201cA Similar Offset in Q4\u201d",
-      "summary": "Key TakeawaysMastercard stock rose 10% in a week to a record. The run began with 14% revenue growth and ended the day after a Senate author of the swipe-fee bill, which also hangs over Visa, lost his seat.",
-      "pub_date": "2026-11-05T03:21:41Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-soars-10-week-record-032141351.html"
     }
   ]
 }
