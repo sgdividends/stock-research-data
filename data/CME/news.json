@@ -1,13 +1,20 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-11-06T15:33:40.757878+00:00",
+  "generated_at": "2026-11-06T21:13:06.341098+00:00",
   "items": [
     {
-      "title": "US job growth surges in October; unemployment rate falls to 4.1%",
-      "summary": "By Lucia Mutikani WASHINGTON, Nov 6 (Reuters) - US job growth accelerated in October and the unemployment rate fell to 4.1%, suggesting that the labor market could be strengthening after stumbling in",
-      "pub_date": "2026-11-06T15:07:27Z",
+      "title": "US labor market regains ground as job growth surges, unemployment rate falls to 4.1%",
+      "summary": "WASHINGTON, Nov 6 (Reuters) - US job growth accelerated in October and the unemployment rate fell to 4.1%, suggesting that the labor market could be strengthening after stumbling in mid-summer and keeping the Federal Reserve on track to raise interest rates in December.",
+      "pub_date": "2026-11-06T18:17:54Z",
       "source": "Reuters",
       "url": "https://finance.yahoo.com/news/us-job-growth-beats-expectations-133634157.html"
+    },
+    {
+      "title": "BC-Lumber Futures",
+      "summary": "NEW YORK (AP) \u2014 Prices as of 4:05:00 PM Friday, November 06.Contract Open High Low Last Change Today's Volume Thursday's Volume  Nov 26 519.",
+      "pub_date": "2026-11-06T15:30:13Z",
+      "source": "Associated Press",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/bc-lumber-futures-153013939.html"
     },
     {
       "title": "Big Jobs Report Keeps Fed Rate-Hike Door Wide Open Despite Sell-Off (Live Coverage)",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-04T14:14:10Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/options/articles/investors-reacting-cme-group-cme-141410793.html"
-    },
-    {
-      "title": "Coinbase Stock Could Be Getting Ready for Its Next Big Move",
-      "summary": "Coinbase just tanked after earnings, but the selloff may be punishing the stock for the wrong reasons. The real question is whether a quiet revenue shift happening inside the company changes everything about where COIN goes from here.",
-      "pub_date": "2026-11-04T13:03:31Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coinbase-stock-could-getting-ready-130331839.html"
     }
   ]
 }

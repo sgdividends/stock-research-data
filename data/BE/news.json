@@ -1,7 +1,28 @@
 {
   "ticker": "BE",
-  "generated_at": "2026-11-06T15:33:30.845386+00:00",
+  "generated_at": "2026-11-06T21:12:57.806708+00:00",
   "items": [
+    {
+      "title": "Google Is Spending $17 Billion on a Wyoming Data Center and Says It Will Pay for 100% of Its Power",
+      "summary": "Google just answered the loudest objection to AI data centers, yet the market barely noticed and one key supplier tumbled. The fine print on who supplies the power, and what the pledge leaves out, may matter more than the headline.",
+      "pub_date": "2026-11-06T19:26:29Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/energy/articles/google-spending-17-billion-wyoming-192629782.html"
+    },
+    {
+      "title": "Bloom Energy Rises 2%, AMD Up 8% as AI Stocks Rebound From Midterm Rout",
+      "summary": "Key TakeawaysBloom Energy rose 2% today as AI stocks, AMD among them, bounced back from Thursday\u2019s post-midterm selloff. Bloom had just landed a 900-megawatt NTT DATA deal and a 1-gigawatt plan with California Resources.",
+      "pub_date": "2026-11-06T18:28:16Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-rises-2-amd-182816164.html"
+    },
+    {
+      "title": "AI Stocks Plunge: Buy, Sell or Hold?",
+      "summary": "Amid the sharp correction in AI stocks, investors question what to do next.",
+      "pub_date": "2026-11-06T17:16:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-plunge-buy-sell-171600469.html"
+    },
     {
       "title": "Oklo Soars 16% as Narrower-Than-Expected Q3 Loss Sparks Rebound From Election Sell-Off",
       "summary": "Key TakeawaysOklo shares jumped 16% after a narrower-than-expected third-quarter loss of $0. 22 a share.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-11-06T00:02:30Z",
       "source": "TIKR",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-sinks-16-despite-000230240.html"
-    },
-    {
-      "title": "Google plans $17 billion Wyoming data center amid rising threats of curbs",
-      "summary": "Nov 5 (Reuters) - Alphabet's Google will invest $17 billion to build its first data center in Wyoming, the company said on Thursday, pushing ahead with a major AI infrastructure investment as",
-      "pub_date": "2026-11-05T20:45:51Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/technology/ai/articles/google-plans-17-billion-wyoming-204551123.html"
-    },
-    {
-      "title": "Credo Sinks Another 14% as Democratic Sweep Stokes \u201cLeft-Tail Event\u201d Fears for AI",
-      "summary": "Key TakeawaysCredo Technology fell 14% today as an AI hardware sell-off over Democrats\u2019 midterm sweep entered a second day. The drop prices in a slower data center buildout that hasn\u2019t shown up in Credo\u2019s guidance or analysts\u2019 estimates.",
-      "pub_date": "2026-11-05T20:02:12Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/credo-sinks-another-14-democratic-200212855.html"
-    },
-    {
-      "title": "The Stock Market Celebrated Election Day. Then the AI Trade Imploded.",
-      "summary": "Investors have to consider how quickly data centers can actually be built, and what that will mean for the companies selling products into the ecosystem.",
-      "pub_date": "2026-11-05T19:04:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-market-ai-stocks-tech-nasdaq-f33b2af3?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

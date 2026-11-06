@@ -1,7 +1,14 @@
 {
   "ticker": "CAT",
-  "generated_at": "2026-11-06T15:33:35.313864+00:00",
+  "generated_at": "2026-11-06T21:13:02.473786+00:00",
   "items": [
+    {
+      "title": "Stock Market Today: Nasdaq Bounces After Jobs Report; Moderna Races Higher (Live Coverage)",
+      "summary": "The Dow Jones index falls Friday after a strong October jobs report. Nvidia stock gains after an AI trade rout.",
+      "pub_date": "2026-11-06T20:19:32Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-october-jobs-report-nvidia-stock-nvda/?src=A00220&yptr=yahoo"
+    },
     {
       "title": "ASTE Q3 Earnings Miss Estimates on Weak Margins and Higher Costs",
       "summary": "Astec's Q3 2026 earnings miss estimates as inflation and weak margins hurt profits, prompting a cut to its EBITDA outlook despite a sharp rise in backlog.",
@@ -15,6 +22,13 @@
       "pub_date": "2026-11-06T13:57:51Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-aristocrats-wall-street-135751766.html"
+    },
+    {
+      "title": "Michael Burry Dumps 25% of His Semiconductor Bet Amid Brutal Tech Selloff",
+      "summary": "Big Short Investor Michael Burry Takes Profits on Chip Stock Bets After Brutal Selloff",
+      "pub_date": "2026-11-06T13:12:44Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-dumps-25-semiconductor-131244639.html"
     },
     {
       "title": "The AI Trade Selloff Is Crushing Industrial Stocks. What Caterpillar\u2019s Valuation Tells Us.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-06T04:40:10Z",
       "source": "BeInCrypto",
       "url": "https://finance.yahoo.com/markets/crypto/articles/ben-cowen-says-nasdaq-fall-044010700.html"
-    },
-    {
-      "title": "Can Oshkosh Stock Compound Your Money?",
-      "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "pub_date": "2026-11-06T03:14:54Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oshkosh-stock-compound-money-031454604.html"
-    },
-    {
-      "title": "Industrial Stocks Drop Amid Fears of AI Data Center Slowdown",
-      "summary": "Shares of industrial companies behind artificial-intelligence data center construction declined broadly on Thursday as investors signaled anxiety that the building boom will be curtailed.",
-      "pub_date": "2026-11-06T00:00:07Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/industrial-stocks-drop-amid-fears-of-ai-data-center-slowdown-M2ehv9f5DVkImxtpdJ5i?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
