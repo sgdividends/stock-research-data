@@ -1,7 +1,14 @@
 {
   "ticker": "BE",
-  "generated_at": "2026-11-07T04:08:25.161466+00:00",
+  "generated_at": "2026-11-07T14:36:05.980907+00:00",
   "items": [
+    {
+      "title": "Bloom Energy Just Dropped 12% in a Week. Is It Time to Sell, or Load Up?",
+      "summary": "Key TakeawaysBloom Energy fell 12% in the past week as Democrats\u2019 midterm sweep sank AI stocks, despite new deals with NTT DATA and California Resources. Bloom made 97% of its third-quarter revenue in the US, so slower US data-center approvals are the main risk, and Oracle\u2019s spending is the thing to watch.",
+      "pub_date": "2026-11-07T12:35:38Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-just-dropped-12-123538640.html"
+    },
     {
       "title": "Google Is Spending $17 Billion on a Wyoming Data Center and Says It Will Pay for 100% of Its Power",
       "summary": "Google just answered the loudest objection to AI data centers, yet the market barely noticed and one key supplier tumbled. The fine print on who supplies the power, and what the pledge leaves out, may matter more than the headline.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-06T03:29:11Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-stock-jump-50-032911335.html"
-    },
-    {
-      "title": "Bloom Energy Sinks 16% Despite 900 MW NTT DATA Deal as Midterm Fears Hit AI Power Stocks",
-      "summary": "Key TakeawaysBloom Energy fell 16% today, even after NTT DATA agreed to deploy 900 megawatts of Bloom\u2019s onsite power. Investors fear Democrats\u2019 win in Congress could stall the data-center buildout, and they sold the AI power trade, GE Vernova and Oklo included.",
-      "pub_date": "2026-11-06T00:02:30Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-sinks-16-despite-000230240.html"
     }
   ]
 }

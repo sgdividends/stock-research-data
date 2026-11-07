@@ -1,7 +1,28 @@
 {
   "ticker": "MCHP",
-  "generated_at": "2026-11-07T04:09:18.741486+00:00",
+  "generated_at": "2026-11-07T14:36:59.447740+00:00",
   "items": [
+    {
+      "title": "The Chip Shortage Is Back, and Microchip Says AI Customers Are Crowding Everyone Out",
+      "summary": "Microchip beat its own forecast, yet the stock still got hammered. The CEO says AI buyers swept through supplier factories and shoved everyone else aside, and one fix could take six months. Is this a lasting problem or a timing glitch?",
+      "pub_date": "2026-11-07T13:46:47Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/chip-shortage-back-microchip-says-134647000.html"
+    },
+    {
+      "title": "3 US Semiconductor Stocks With Less China Exposure To Watch Now",
+      "summary": "Nvidia is back in the spotlight for all the wrong reasons, with questions around CEO Jensen Huang and fresh scrutiny of the group\u2019s China links putting governance, regulation, and key-person risk front and center. When one heavyweight is under the microscope, attention can swing quickly to US semiconductor and equipment stocks with limited China exposure. This article walks through three such US-listed companies from our screener that could sit on investors\u2019 watchlists as this story...",
+      "pub_date": "2026-11-07T06:15:48Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/articles/3-us-semiconductor-stocks-less-061548967.html"
+    },
+    {
+      "title": "Microchip Technology (MCHP) Added AI And Space Chips As Q2 Hit $1,621.5 Million",
+      "summary": "Microchip Technology (NasdaqGS:MCHP) announced acquisitions of edge AI chip designer Hailo and radiation-hardened specialist Vorago Technologies in 2024. The Hailo purchase adds dedicated processors for accelerated AI at the device level, aimed at compact and power-limited hardware. Vorago Technologies brings components built for harsh environments such as aerospace and defense, including high radiation and extreme temperatures. Strong Q2 results, together with the Hailo and Vorago deals,...",
+      "pub_date": "2026-11-07T04:25:13Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/microchip-technology-mchp-added-ai-042513167.html"
+    },
     {
       "title": "Nvidia Stock, Other AI Names Rebound After Sell-Off",
       "summary": "Nvidia and other chip stocks exposed to the AI data center buildout rebounded on Friday after a hard sell-off.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-11-06T14:41:58Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-applied-materials-stock-144158587.html"
-    },
-    {
-      "title": "This Chip CEO Just Warned the Data Center Market Is in a 'Bubble.' Which Stocks Are Most Exposed?",
-      "summary": "On one of the worst days for AI stocks in years, a veteran chip executive said out loud what many investors fear. Here's who has the most to lose if he's right.",
-      "pub_date": "2026-11-06T14:40:14Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/chip-ceo-just-warned-data-144014733.html"
-    },
-    {
-      "title": "Semtech Stock Plunges 34% in 3 Months: Should You Buy the Dip?",
-      "summary": "SMTC shares plunge 34% in three months, but strong AI data center demand, 1.6T growth and rising LoRa adoption make the stock an attractive buy.",
-      "pub_date": "2026-11-06T14:39:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/semtech-stock-plunges-34-3-143900373.html"
-    },
-    {
-      "title": "MCHP Q2 Earnings Call Highlights Supply Constraints and Growth",
-      "summary": "Microchip's Q2 earnings beat estimates as industrial and data center demand surged, but supply constraints and rising costs threaten near-term growth.",
-      "pub_date": "2026-11-06T14:00:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mchp-q2-earnings-call-highlights-140000387.html"
     }
   ]
 }
