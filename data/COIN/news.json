@@ -1,7 +1,14 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-11-07T14:36:18.243700+00:00",
+  "generated_at": "2026-11-07T19:47:22.305562+00:00",
   "items": [
+    {
+      "title": "Treasury Says Crypto Exchange MEXC Moved at Least $16 Billion Tied to Illicit Activity",
+      "summary": "Treasury is targeting an exchange Americans were never supposed to use, and the real pressure lands on U.S. banks and payment firms. So who actually gains, and why might Coinbase and Robinhood get less than traders expect?",
+      "pub_date": "2026-11-07T16:18:55Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/treasury-says-crypto-exchange-mexc-161855156.html"
+    },
     {
       "title": "Coinbase Global (COIN) Loses Bid To Pause State Actions In Prediction Markets Case",
       "summary": "Coinbase Global (NasdaqGS:COIN) failed to secure a pause on state enforcement actions from the U.S. Second Circuit in a prediction markets dispute. The ruling keeps state gambling regulators free to continue actions against Coinbase while courts assess prediction market contracts under federal and state law. Judges in the Second Circuit are weighing arguments over whether federal commodities and securities statutes override state gambling rules for these products. The Second Circuit's...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-06T16:34:43Z",
       "source": "Bankless",
       "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-enables-borrowing-against-gold-163443341.html"
-    },
-    {
-      "title": "Is Coinbase Building a More Resilient and Profitable Business?",
-      "summary": "Coinbase's growing subscription revenues and cost discipline bolster resilience, but crypto volatility, weak underlying profits and rich valuation pose risks.",
-      "pub_date": "2026-11-06T16:21:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-building-more-resilient-profitable-162100995.html"
     }
   ]
 }

@@ -1,62 +1,62 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-11-07T14:37:10.852087+00:00",
+  "generated_at": "2026-11-07T19:48:21.215490+00:00",
   "items": [
+    {
+      "title": "Older Nvidia Chips Just Cost Oracle Its Microsoft AI Deal",
+      "summary": "Microsoft is quietly switching off the AI servers it rented from Oracle, and Oracle insists its aging GPUs still command a premium. Which story holds up, and what does it mean for a stock already down by half?",
+      "pub_date": "2026-11-07T18:08:44Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/older-nvidia-chips-just-cost-180844578.html"
+    },
+    {
+      "title": "Walton Family Gets $100 Billion Richer As Walmart Surges",
+      "summary": "Among the world's wealthiest people, they are the only ones who never founded or ran a company, yet their fortunes are climbing while tech titans slide. What explains the Waltons' remarkable 2026 run?",
+      "pub_date": "2026-11-07T17:18:44Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/walton-family-gets-100-billion-171844543.html"
+    },
+    {
+      "title": "3 Cash Flow Stocks Trading Up To 47% Below Fair Value",
+      "summary": "Bond markets just absorbed a stronger than expected US jobs report, and Treasury yields moved higher as investors braced for possible rate hikes. Higher discount rates tend to punish stocks priced on distant hopes rather than hard cash today. That shift draws attention to businesses generating solid cash inflows yet priced below estimated fair value. This article highlights three such opportunities from our discounted cash flow value screen. The three examples in this piece are just a...",
+      "pub_date": "2026-11-07T17:14:50Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-cash-flow-stocks-trading-171450371.html"
+    },
+    {
+      "title": "AI Stocks Are Falling; Bitcoin Is Holding Ground. Here's What Could Come Next.",
+      "summary": "Bitcoin's relative stability amid market turbulence portends well for its future.",
+      "pub_date": "2026-11-07T16:51:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/ai-stocks-falling-bitcoin-holding-165100578.html"
+    },
+    {
+      "title": "CoreWeave\u2019s Bonds Now Yield More Than 16%, Days Before Earnings",
+      "summary": "Credit markets and stock analysts are telling opposite stories about CoreWeave, and only one can be right. A single earnings report on November 10 will decide which side has misread a company that still needs tens of billions to build.",
+      "pub_date": "2026-11-07T15:37:53Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-bonds-now-yield-more-153753330.html"
+    },
+    {
+      "title": "Fed Chair Kevin Warsh Just Issued a 6-Word Warning That Could Spell Disaster for AI Stocks",
+      "summary": "Two AI stocks lost nearly half their value in a month while Microsoft barely moved. The split has less to do with chips than with one question every data center builder now has to answer, and rising rates are forcing the issue.",
+      "pub_date": "2026-11-07T15:26:32Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fed-chair-kevin-warsh-just-152632993.html"
+    },
+    {
+      "title": "Cerebras Sinks 18% in a Week, CoreWeave Down 16% as AI Stocks Slide: Buy Before Earnings?",
+      "summary": "Key TakeawaysCerebras shares fell 18% in a week as AI stocks sold off on Oracle\u2019s $20 billion raise and again after the midterms. Cerebras made no announcement of its own, and CoreWeave and Oracle fell on the same AI worries.",
+      "pub_date": "2026-11-07T14:06:18Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-sinks-18-week-coreweave-140618974.html"
+    },
     {
       "title": "OpenAI Just Raised $11 Billion at a $1.25 Trillion Valuation, Below the $1.4 Trillion It First Sought",
       "summary": "OpenAI got its money, but not on the terms it wanted, and the gap between its growth story and investor appetite is landing on two giants. One faces a bookkeeping hit, the other a deeper dependency on the funding flow.",
       "pub_date": "2026-11-07T13:38:42Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/openai-just-raised-11-billion-133842228.html"
-    },
-    {
-      "title": "Bloom Energy Just Dropped 12% in a Week. Is It Time to Sell, or Load Up?",
-      "summary": "Key TakeawaysBloom Energy fell 12% in the past week as Democrats\u2019 midterm sweep sank AI stocks, despite new deals with NTT DATA and California Resources. Bloom made 97% of its third-quarter revenue in the US, so slower US data-center approvals are the main risk, and Oracle\u2019s spending is the thing to watch.",
-      "pub_date": "2026-11-07T12:35:38Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-just-dropped-12-123538640.html"
-    },
-    {
-      "title": "How Much Should This Move Change Your View Of Snowflake Stock?",
-      "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "pub_date": "2026-11-07T10:06:55Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/much-move-change-view-snowflake-100655492.html"
-    },
-    {
-      "title": "Microsoft (MSFT) Is Pulling Back From Key Neocloud Data Center Deals",
-      "summary": "Microsoft (NasdaqGS:MSFT) is winding down several neocloud data center capacity deals, including a non-renewal of its Oracle arrangement. The company is exiting relationships with operators such as Nscale and IREN, reducing outsourced capacity tied to neocloud hubs. Management is refocusing on more flexible, in-house data centers as regulators, cost pressures, sustainability rules, and anti-AI protests reshape project economics. The decision to pull back from neocloud data center deals is...",
-      "pub_date": "2026-11-07T03:19:36Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/articles/microsoft-msft-pulling-back-key-031936381.html"
-    },
-    {
-      "title": "Goldman raises global data center capacity forecast to 273 GW by 2030",
-      "summary": "Investing.com -- Goldman Sachs raised its forecast for global data center capacity to 273 gigawatts by 2030 from 217 gigawatts previously, citing stronger artificial intelligence infrastructure demand and expectations for further project announcements.",
-      "pub_date": "2026-11-07T00:40:19Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/goldman-raises-global-data-center-004019419.html"
-    },
-    {
-      "title": "\u201cAlready Popping\u201d: CoreWeave Is Down 30% in 2026. Dead Money, or Due for a Bounce?",
-      "summary": "Key TakeawaysCoreWeave (CRWV) fell approximately 30% year to date through November 2, closing at $50. 15 as investors questioned the financing costs behind its AI expansion.",
-      "pub_date": "2026-11-07T00:06:55Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/already-popping-coreweave-down-30-000655937.html"
-    },
-    {
-      "title": "Oracle Just Sold $10 Billion of Stock at $116 a Share. Is the Stock a Buy at That Price?",
-      "summary": "The cloud giant maxed out its new four-year fundraising cap in five days. What did it cost shareholders?",
-      "pub_date": "2026-11-07T00:01:02Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-just-sold-10-billion-000102063.html"
-    },
-    {
-      "title": "Oracle (ORCL) Ranks Sixth Among the Cheapest AI Data Center Stocks",
-      "summary": "We just published our list of the 10 Cheapest AI Data Center Stocks to Buy According to Billionaires, and Oracle Corporation (NYSE:ORCL) ranked sixth. AI data center investment keeps expanding, but the companies supplying that capacity face different paths to profit. The International Energy Agency\u2019s October 2026 report estimates that hyperscalers will spend more than [\u2026]",
-      "pub_date": "2026-11-06T23:34:10Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-ranks-sixth-among-233410631.html"
     }
   ]
 }

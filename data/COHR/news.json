@@ -1,7 +1,14 @@
 {
   "ticker": "COHR",
-  "generated_at": "2026-11-07T14:36:18.037304+00:00",
+  "generated_at": "2026-11-07T19:47:21.972311+00:00",
   "items": [
+    {
+      "title": "Applied Optoelectronics Says AI Demand Will Outrun Its Capacity Through 2027",
+      "summary": "Applied Optoelectronics is sold out of 1.6T transceivers, signed a hyperscaler deal worth up to $1.5 billion, and still guided below Wall Street. Is the capacity crunch a growth engine or the excuse behind another letdown?",
+      "pub_date": "2026-11-07T17:06:37Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/applied-optoelectronics-says-ai-demand-170637357.html"
+    },
     {
       "title": "Coherent Stock Fell 8% in a Week. J.P. Morgan Sees 100% Upside From Here",
       "summary": "Key TakeawaysCoherent (COHR) stock fell 8% during the week ended November 6, closing at $193 despite a sharp Friday rebound. Marvell Technology (MRVL) agreed to acquire Lumentum (LITE) in a $115 billion all-stock deal, potentially strengthening competition in AI optical connectivity.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-05T23:19:06Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/coherent-cohr-stock-price-falls-231906614.html"
-    },
-    {
-      "title": "Chip Stocks Tumble After Arm, Qualcomm Reports",
-      "summary": "Chip stocks continued to fall Thursday in the wake of Tuesday's election results and earnings reports from Arm, Qualcomm and others.",
-      "pub_date": "2026-11-05T21:43:43Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/chip-stocks-tumble-arm-qualcomm-reports/?src=A00220&yptr=yahoo"
     }
   ]
 }

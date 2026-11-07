@@ -1,6 +1,6 @@
 {
   "ticker": "XYZ",
-  "generated_at": "2026-11-07T14:37:45.951827+00:00",
+  "generated_at": "2026-11-07T19:49:00.504266+00:00",
   "items": [
     {
       "title": "3 U.S. Financial Stocks Built For Tougher Consumer Protection Rules",
@@ -15,6 +15,20 @@
       "pub_date": "2026-11-06T16:50:51Z",
       "source": "TIKR",
       "url": "https://finance.yahoo.com/markets/stocks/articles/block-jumps-11-two-days-165051595.html"
+    },
+    {
+      "title": "Tech layoffs November update: Job cuts hit workers at Amazon, Angi, Block, Canva, and Squarespace",
+      "summary": "With the holidays fast approaching, high-profile companies across the technology sector continue to slash jobs this year.",
+      "pub_date": "2026-11-06T16:41:00Z",
+      "source": "FastCompany",
+      "url": "https://finance.yahoo.com/technology/articles/tech-layoffs-november-job-cuts-164100155.html"
+    },
+    {
+      "title": "Block by Block: Cash App Builds a Stronger Foundation",
+      "summary": "Block's stock rose about 15% after third-quarter earnings beat estimates, as Cash App monetization and a Square payment volume gain of 14% offset a $764 million DOJ settlement charge.",
+      "pub_date": "2026-11-06T16:05:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/block-block-cash-app-builds-160500582.html"
     },
     {
       "title": "PayPal Is Up 15% in Six Months After a Q3 Beat: Take Profits, or Buy More?",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-05T20:43:45Z",
       "source": "FastCompany",
       "url": "https://finance.yahoo.com/technology/ai/articles/jack-dorsey-block-cutting-jobs-204345016.html"
-    },
-    {
-      "title": "Robinhood Sinks 12%, SoFi Tumbles 9%, Affirm Drops 8% as Bitcoin Slides and Democratic Congress Weighs on Fintech",
-      "summary": "Crypto is bleeding and a new Congress is circling, but the sharpest fintech selloff is not hitting every name equally. Why are PayPal and Block holding up while the growth darlings take the heat, and who in Washington is setting the stakes?",
-      "pub_date": "2026-11-05T19:03:03Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/robinhood-sinks-12-sofi-tumbles-190303224.html"
-    },
-    {
-      "title": "Sector Update: Financial Stocks Fall Thursday Afternoon",
-      "summary": "Financial stocks were lower in Thursday afternoon trading, with the NYSE Financial Index declining 2",
-      "pub_date": "2026-11-05T18:43:16Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-fall-thursday-184316253.html"
     }
   ]
 }
