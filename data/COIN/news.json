@@ -1,11 +1,18 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-11-06T21:13:07.623046+00:00",
+  "generated_at": "2026-11-07T04:08:36.244079+00:00",
   "items": [
+    {
+      "title": "Coinbase has news for gold holders",
+      "summary": "Coinbase users can now borrow USDC against gold.",
+      "pub_date": "2026-11-06T22:35:58Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-news-gold-holders-223558450.html"
+    },
     {
       "title": "Bitcoin Tumbles On ETF Flows, Liquidations. IREN Leads Miner Rebound Attempt.",
       "summary": "Bitcoin price falls to three-month low amid AI-led tech retreat. IREN leads modest rebound for miners after earnings.",
-      "pub_date": "2026-11-06T20:45:40Z",
+      "pub_date": "2026-11-06T21:30:44Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/bitcoin-price-etf-outflows-cryptocurrency-liquidations-midterms-ai-miners-rebound-iren/?src=A00220&yptr=yahoo"
     },
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-06T15:15:54Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/3-trillion-wipe-out-ceos-on-the-volatility-of-politics-and-the-status-of-the-ai-trade-151554253.html"
-    },
-    {
-      "title": "Samsung Wallet and USDC Light the Fuse as CRCL Tokenized Stock Goes Electric",
-      "summary": "Samsung is bringing stablecoins closer to mainstream consumers, putting Circle\u2019s USDC inside one of the world\u2019s most widely used smartphone wallets. The Samsung Wallet USDC rollout officially went live, opening access across 82 million compatible US Galaxy devices. The integration lets eligible users buy, hold, send, and receive USDC without ...",
-      "pub_date": "2026-11-06T10:00:04Z",
-      "source": "99bitcoins",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/samsung-wallet-usdc-light-fuse-100004807.html"
     }
   ]
 }

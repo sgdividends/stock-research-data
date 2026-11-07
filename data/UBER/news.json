@@ -1,7 +1,21 @@
 {
   "ticker": "UBER",
-  "generated_at": "2026-11-06T21:14:20.335810+00:00",
+  "generated_at": "2026-11-07T04:09:53.064457+00:00",
   "items": [
+    {
+      "title": "Uber\u2019s Robo Push",
+      "summary": "Uber plans to have tens of thousands of autonomous vehicles by 2030.",
+      "pub_date": "2026-11-07T00:19:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/ubers-robo-push-18461554?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Uber Reveals AI Agents Barely Make a Dent: Just 504 Orders and Rides Against 320 Million Weekly Transactions \u2014 \u2018Very, Very Early and Very Limited Traction\u2019",
+      "summary": "Uber Technologies Inc. revealed that artificial intelligence agents generated just 504 orders and rides during Halloween week, compared with approximately 320 million trips across its platforms, highlighting how little autonomous AI has penetrated everyday consumer services. Uber And DoorDash Report...",
+      "pub_date": "2026-11-06T21:30:42Z",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/technology/ai/articles/uber-reveals-ai-agents-barely-213042380.html"
+    },
     {
       "title": "Walmart Backs Zipline With 300 More Drone Sites as $1.5B Raise Closes",
       "summary": "The 300-site expansion builds on Walmart's 2 million drone deliveries to date, with Zipline using its new capital to expand U.S. manufacturing and hiring.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-06T16:16:00Z",
       "source": "SmartCities Dive",
       "url": "https://finance.yahoo.com/technology/articles/uber-700-robotaxis-end-161600631.html"
-    },
-    {
-      "title": "Costco Stock: Earnings Growth Could Shape the Next Big Move",
-      "summary": "Six straight earnings beats have pushed Costco shares up 20% this year, yet a 49x trailing P/E leaves little room for error. One metric could decide whether the rally keeps running or finally stalls.",
-      "pub_date": "2026-11-06T13:33:45Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/costco-stock-earnings-growth-could-133345016.html"
-    },
-    {
-      "title": "Zipline Valuation Soars as Drone Startup Raises Funds, Expands Walmart Deal",
-      "summary": "Plus, Democrats are targeting Trump\u2019s Canada tariffs, and emails offer a peek into the Houthis\u2019 little-known office for clearing Red Sea transits.",
-      "pub_date": "2026-11-06T11:51:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/logistics-report/zipline-valuation-soars-as-drone-startup-raises-funds-expands-walmart-deal-48676792?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

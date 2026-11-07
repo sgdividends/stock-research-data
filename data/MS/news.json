@@ -1,7 +1,21 @@
 {
   "ticker": "MS",
-  "generated_at": "2026-11-06T21:13:50.966683+00:00",
+  "generated_at": "2026-11-07T04:09:24.581239+00:00",
   "items": [
+    {
+      "title": "Morgan Stanley resets Cisco stock price target before earnings",
+      "summary": "AI is boosting sales, but cheaper hyperscaler hardware is squeezing margins. Here\u2019s the second worry.",
+      "pub_date": "2026-11-06T23:33:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-resets-cisco-stock-233300698.html"
+    },
+    {
+      "title": "Weekly Wrap: Bitcoin Falls as U.S. Market Crashes",
+      "summary": "Cryptocurrencies such as Bitcoin (CRYPTO: $BTC) remain under pressure due to a U.S. market rout. Bitcoin\u2019s pr...",
+      "pub_date": "2026-11-06T22:50:00Z",
+      "source": "CryptoProwl",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-falls-u-225000991.html"
+    },
     {
       "title": "Week\u2019s Best: How to Get In on Anthropic\u2019s IPO",
       "summary": "Here\u2019s our weekly roundup of the most-read articles at Barron\u2019s Advisor.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-06T09:20:06Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/glanbia-shares-tumble-6-morgan-092006822.html"
-    },
-    {
-      "title": "What Could Morgan Stanley (MS) Tokenization Mean For Its Role In Markets?",
-      "summary": "Morgan Stanley (NYSE:MS) is now actively using DTCC's Tokenization Service for U.S. equities and Treasuries. The bank has moved from an initial participant role to live user of the DTCC platform for tokenized securities. The DTCC service is designed to connect tokenized assets with existing post trade infrastructure used across traditional markets. Morgan Stanley's adoption of DTCC tokenization for U.S. securities is important, but it should not define your entire view of the stock. Our...",
-      "pub_date": "2026-11-06T05:13:36Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/could-morgan-stanley-ms-tokenization-051336559.html"
-    },
-    {
-      "title": "Morgan Stanley sees golden buying opportunity in a battered stock",
-      "summary": "AI shopping is growing fast but still a small part of the overall market; here\u2019s what Morgan Stanley says matters before the holidays.",
-      "pub_date": "2026-11-06T00:07:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sees-golden-buying-000700394.html"
     }
   ]
 }
