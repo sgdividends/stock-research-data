@@ -1,7 +1,14 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-11-07T19:47:22.305562+00:00",
+  "generated_at": "2026-11-07T23:19:34.442433+00:00",
   "items": [
+    {
+      "title": "Bitcoin Has Traded at a Discount on Coinbase for 61 Straight Days. Have U.S. Investors Stopped Buying BTC?",
+      "summary": "Coinbase's price gap has flashed a warning sign for two months, yet past streaks like this ended only after Bitcoin had already bounced. What does the signal really measure, and what is it missing about American buyers?",
+      "pub_date": "2026-11-07T21:29:03Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-traded-discount-coinbase-61-212903407.html"
+    },
     {
       "title": "Treasury Says Crypto Exchange MEXC Moved at Least $16 Billion Tied to Illicit Activity",
       "summary": "Treasury is targeting an exchange Americans were never supposed to use, and the real pressure lands on U.S. banks and payment firms. So who actually gains, and why might Coinbase and Robinhood get less than traders expect?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-06T18:01:24Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-under-76-000-430m-180124346.html"
-    },
-    {
-      "title": "Coinbase Enables Borrowing Against Gold via Morpho",
-      "summary": "Eligible U.S. users can borrow USDC against Paxos' tokenized gold (PAXG) on Base \u2014 Coinbase Borrow's first non-crypto collateral.",
-      "pub_date": "2026-11-06T16:34:43Z",
-      "source": "Bankless",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-enables-borrowing-against-gold-163443341.html"
     }
   ]
 }

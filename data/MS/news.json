@@ -1,7 +1,14 @@
 {
   "ticker": "MS",
-  "generated_at": "2026-11-07T19:48:13.687967+00:00",
+  "generated_at": "2026-11-07T23:20:25.919891+00:00",
   "items": [
+    {
+      "title": "Morgan Stanley says SpaceX stock is now cheaper than the S&P 500",
+      "summary": "Five months after its blockbuster IPO, SpaceX investors are back where they started; Morgan Stanley sees an opening.",
+      "pub_date": "2026-11-07T20:13:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-says-spacex-stock-201300543.html"
+    },
     {
       "title": "Charter Is Cutting $2 Billion in Costs After Losing Another 233,000 Internet Customers",
       "summary": "Wall Street punished Charter even as it promised billions in savings. The market wants proof that broadband customers are coming back, and the gap between the plan and the quarterly results explains why investors refused to wait.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-06T18:25:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/advisor/articles/weeks-best-anthropic-ipo-b349b859?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Block by Block: Cash App Builds a Stronger Foundation",
-      "summary": "Block's stock rose about 15% after third-quarter earnings beat estimates, as Cash App monetization and a Square payment volume gain of 14% offset a $764 million DOJ settlement charge.",
-      "pub_date": "2026-11-06T16:05:00Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/block-block-cash-app-builds-160500582.html"
     }
   ]
 }

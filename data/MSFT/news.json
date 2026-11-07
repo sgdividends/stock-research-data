@@ -1,7 +1,28 @@
 {
   "ticker": "MSFT",
-  "generated_at": "2026-11-07T19:48:13.974156+00:00",
+  "generated_at": "2026-11-07T23:20:26.413634+00:00",
   "items": [
+    {
+      "title": "Dow Jones Futures: Market Needs Repair But Apple, Amazon, Microsoft Strong; Berkshire Doubles Stock Buyback",
+      "summary": "The stock market needs repair while Sandisk and Micron seem broken. Apple, Amazon and Microsoft are holding up. Berkshire earnings fell.",
+      "pub_date": "2026-11-07T21:45:54Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-broken-apple-amazon-microsoft-strong-berkshire-earnings/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "What Concentrix (CNXC)'s AI Migration Tool Launch Means For Shareholders",
+      "summary": "Concentrix Corporation recently launched its proprietary Concentrix Migration Engine for Dynamics 365 Contact Center on Microsoft Marketplace, an agentic AI tool that automates moves from legacy CX platforms and is being highlighted at Microsoft Ignite 2026 after early client migrations showed materially faster deployment timelines. The patent pending app gives Concentrix a concrete way to tie AI migration work, Microsoft Copilot usage, and real time workflow orchestration directly to client...",
+      "pub_date": "2026-11-07T20:12:48Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/concentrix-cnxc-ai-migration-tool-201248119.html"
+    },
+    {
+      "title": "Republican Senator Who Won Reelection Is Selling Magnificent Seven Stocks: Here Are the Trades",
+      "summary": "Sen. Shelley Moore Capito (R-W.Va.) was among the Republicans who held onto their seats in the 2026 midterm elections. Weeks before the election, Capito sold shares of three Magnificent Seven stocks. Capito Sells Magnificent Seven Stocks Capito sold four stocks...",
+      "pub_date": "2026-11-07T19:30:25Z",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/republican-senator-won-reelection-selling-193025792.html"
+    },
     {
       "title": "Older Nvidia Chips Just Cost Oracle Its Microsoft AI Deal",
       "summary": "Microsoft is quietly switching off the AI servers it rented from Oracle, and Oracle insists its aging GPUs still command a premium. Which story holds up, and what does it mean for a stock already down by half?",
@@ -24,13 +45,6 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/apple-completes-set-every-magnificent-170103142.html"
     },
     {
-      "title": "Dow Jones Futures: Market Needs Repair But Apple, Amazon, Microsoft Strong; Berkshire Doubles Stock Buyback",
-      "summary": "The stock market needs repair while Sandisk and Micron seem broken. Apple, Amazon and Microsoft are holding up. Berkshire earnings fell.",
-      "pub_date": "2026-11-07T16:19:28Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sandisk-micron-broken-apple-amazon-microsoft-strong-berkshire-earnings/?src=A00220&yptr=yahoo"
-    },
-    {
       "title": "AI Stocks Diverge as Democratic Election Victory Sparks Rotation Into Cloud Giants",
       "summary": "US technology stocks experienced a significant shift in investor positioning on Wednesday, as the Democratic Party\u2019s election victory raised concerns about potential restrictions on new data centre developments. Investors moved toward established cloud computing companies while reducing exposure to semiconductor manufacturers and AI infrastructure developers.",
       "pub_date": "2026-11-07T15:54:00Z",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-07T15:37:53Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-bonds-now-yield-more-153753330.html"
-    },
-    {
-      "title": "Fed Chair Kevin Warsh Just Issued a 6-Word Warning That Could Spell Disaster for AI Stocks",
-      "summary": "Two AI stocks lost nearly half their value in a month while Microsoft barely moved. The split has less to do with chips than with one question every data center builder now has to answer, and rising rates are forcing the issue.",
-      "pub_date": "2026-11-07T15:26:32Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fed-chair-kevin-warsh-just-152632993.html"
-    },
-    {
-      "title": "OpenAI Just Raised $11 Billion at a $1.25 Trillion Valuation, Below the $1.4 Trillion It First Sought",
-      "summary": "OpenAI got its money, but not on the terms it wanted, and the gap between its growth story and investor appetite is landing on two giants. One faces a bookkeeping hit, the other a deeper dependency on the funding flow.",
-      "pub_date": "2026-11-07T13:38:42Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/openai-just-raised-11-billion-133842228.html"
     }
   ]
 }
