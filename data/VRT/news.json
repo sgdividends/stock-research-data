@@ -1,7 +1,14 @@
 {
   "ticker": "VRT",
-  "generated_at": "2026-11-08T11:00:13.436211+00:00",
+  "generated_at": "2026-11-08T17:31:05.084081+00:00",
   "items": [
+    {
+      "title": "America\u2019s AI Spending Boom Just Crossed a Staggering $1 Trillion Milestone",
+      "summary": "Record shipments of AI hardware are pouring into American data centers, yet NVIDIA's stock has dropped more than 21% in a month. What does the import data reveal that the share price refuses to show, and who else profits?",
+      "pub_date": "2026-11-08T16:15:33Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/america-ai-spending-boom-just-161533505.html"
+    },
     {
       "title": "Texas Data Center Freeze: Is Vistra a Better Buy Than Vertiv?",
       "summary": "A looming Texas moratorium threatens billions in AI spending, yet one stock tied to it has sunk while its earnings soared. Which company is better positioned if data centers stall, relocate, or move overseas?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-06T20:45:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/vertiv-stock-ai-power-data-centers-f5fc3e23?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Constellation Energy Fell 9% on the Midterm Sweep. Monday\u2019s Report Has to Defend Its Growth Estimates",
-      "summary": "Key TakeawaysConstellation Energy fell 9% in the two sessions after Democrats swept the midterms, and it reports third-quarter results on Monday, Nov. 9, before the open.",
-      "pub_date": "2026-11-06T18:35:40Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/constellation-energy-fell-9-midterm-183540469.html"
     }
   ]
 }
