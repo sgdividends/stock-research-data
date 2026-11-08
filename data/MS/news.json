@@ -1,6 +1,6 @@
 {
   "ticker": "MS",
-  "generated_at": "2026-11-07T23:20:25.919891+00:00",
+  "generated_at": "2026-11-08T03:53:30.093226+00:00",
   "items": [
     {
       "title": "Morgan Stanley says SpaceX stock is now cheaper than the S&P 500",
@@ -15,6 +15,13 @@
       "pub_date": "2026-11-07T19:03:44Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/charter-cutting-2-billion-costs-190344576.html"
+    },
+    {
+      "title": "Why Wall Street Is Betting a \u2018Shale Revolution\u2019 Can Make Fervo Stock a Huge Winner",
+      "summary": "Fervo Energy looks positioned to benefit from a \u201cshale revolution\u201d in geothermal energy, with Morgan Stanley highlighting its enhanced geothermal technology could be worth betting on.",
+      "pub_date": "2026-11-07T18:30:03Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/energy/articles/why-wall-street-betting-shale-183003099.html"
     },
     {
       "title": "Anthropic Could Postpone Its $1.5 Trillion IPO, Per One Investor, As Market Sours On AI Trade. Another Says It Could End Up Closer To $1 Trillion",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-06T22:50:00Z",
       "source": "CryptoProwl",
       "url": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-falls-u-225000991.html"
-    },
-    {
-      "title": "Week\u2019s Best: How to Get In on Anthropic\u2019s IPO",
-      "summary": "Here\u2019s our weekly roundup of the most-read articles at Barron\u2019s Advisor.",
-      "pub_date": "2026-11-06T18:25:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/advisor/articles/weeks-best-anthropic-ipo-b349b859?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
