@@ -1,7 +1,14 @@
 {
   "ticker": "HPQ",
-  "generated_at": "2026-11-08T17:29:59.294889+00:00",
+  "generated_at": "2026-11-08T23:23:26.807869+00:00",
   "items": [
+    {
+      "title": "Better Dividend Stock: HP Inc. vs. Texas Instruments",
+      "summary": "Key TakeawaysTexas Instruments raised its quarterly dividend 7% in September, and HP named former GSK CEO Emma Walmsley its next CEO on Nov. 4.",
+      "pub_date": "2026-11-06T21:53:49Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/better-dividend-stock-hp-inc-215349413.html"
+    },
     {
       "title": "Super Micro Computer and Dell Climb 6%, Hewlett Packard Enterprise Gains 2% as AI Server Stocks Rebound From Election Sell-Off",
       "summary": "Record AI backlogs and steady earnest estimates sit on one side, while cash burn, heavy debt, and fresh political threats to data center construction sit on the other. Which AI server maker has the most to lose if the bounce fades?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-04T15:50:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/hp-stock-price-new-ceo-6497e7e3?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "HP Taps Former GSK Executive Emma Walmsley as Next CEO",
-      "summary": "HP said Walmsley, who was at the helm of drugmaker GSK from April 2017 until the end of 2025, will join the Palo Alto, Calif., company on Jan. 4.",
-      "pub_date": "2026-11-04T13:45:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/tech/hp-taps-former-gsk-executive-emma-walmsley-as-next-ceo-18165d93?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
