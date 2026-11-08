@@ -1,7 +1,14 @@
 {
   "ticker": "AKAM",
-  "generated_at": "2026-11-08T03:52:30.441560+00:00",
+  "generated_at": "2026-11-08T10:58:39.222853+00:00",
   "items": [
+    {
+      "title": "What Cloudflare (NET) Said on Its Q3 Earnings Call",
+      "summary": "Cloudflare (NYSE:NET) reported third-quarter revenue of $782.5 million, up 39% from a year earlier, as growth in its developer platform and spending by large customers helped drive what management described as its strongest quarter as a public company. The company also forecast fourth-quarter reven",
+      "pub_date": "2026-11-08T08:14:26Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-net-said-q3-earnings-081426675.html"
+    },
     {
       "title": "Anthropic Deal Could Reshape The Case For Akamai Stock",
       "summary": "Akamai Technologies recently reported Q3 2026 results, issued revenue guidance through 2028, and highlighted more than US$14b in multi year cloud infrastructure commitments anchored by a US$11.6b, seven year Anthropic deal. The launch of Akamai Inference and Agent Sandbox, supported by expanded NVIDIA powered GPU capacity, illustrates how the business is positioning its network as an AI focused infrastructure platform rather than just a traditional CDN provider. We will examine how Akamai...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-06T14:32:40Z",
       "source": "TIKR",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-soars-11-fastest-revenue-143240688.html"
-    },
-    {
-      "title": "Cloudflare Soars 20%, IREN Surges 15% as Earnings Beats Spark AI Cloud Rebound; CoreWeave Jumps 10%",
-      "summary": "Two earnings reports just yanked beaten-down AI cloud stocks off the mat, and even CoreWeave caught the updraft without reporting a thing. The real test is whether the bounce survives funding worries, heavy debt, and widening losses.",
-      "pub_date": "2026-11-06T14:06:46Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-soars-20-iren-surges-140646893.html"
     }
   ]
 }

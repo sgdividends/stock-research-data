@@ -1,7 +1,14 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-11-08T03:52:48.165519+00:00",
+  "generated_at": "2026-11-08T10:58:56.285265+00:00",
   "items": [
+    {
+      "title": "Coinbase Just Hit a New 52-Week Low After Losing 16% Since Earnings. Is the Selling Overdone?",
+      "summary": "Key TakeawaysCoinbase fell 16% after its Oct. 29 report to a 52-week low on a weak quarter, a record Binance hack, and Bitcoin\u2019s slide.",
+      "pub_date": "2026-11-08T04:03:53Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-just-hit-52-week-040353503.html"
+    },
     {
       "title": "Bitcoin Has Traded at a Discount on Coinbase for 61 Straight Days. Have U.S. Investors Stopped Buying BTC?",
       "summary": "Coinbase's price gap has flashed a warning sign for two months, yet past streaks like this ended only after Bitcoin had already bounced. What does the signal really measure, and what is it missing about American buyers?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-06T18:57:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/tokenized-stocks-okx-ice-company-objections-b183cb0a?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Bitcoin Under $76,000 After $430M ETF Outflows. Has It Bottomed?",
-      "summary": "A rare 4-sigma stock market rout dragged Bitcoin down while every spot ETF issuer watched cash walk out the door. One small bounce has traders split on whether the worst is over, and a single price line may settle it.",
-      "pub_date": "2026-11-06T18:01:24Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-under-76-000-430m-180124346.html"
     }
   ]
 }
