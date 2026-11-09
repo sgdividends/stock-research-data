@@ -1,7 +1,21 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-11-09T04:06:23.463000+00:00",
+  "generated_at": "2026-11-09T18:07:55.742546+00:00",
   "items": [
+    {
+      "title": "BC-Lumber Futures",
+      "summary": "NEW YORK (AP) \u2014 Prices as of 12:30:00 PM Monday, November 09.Contract Open High Low Last Change Today's Volume Friday's Volume  Nov 26 501.",
+      "pub_date": "2026-11-09T15:30:13Z",
+      "source": "Associated Press",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/bc-lumber-futures-153013771.html"
+    },
+    {
+      "title": "The Reorientation of China's Sway Over Commodities",
+      "summary": "While China remains a major driver of commodity markets, its influence over oil markets has waned as its EV sector expands rapidly.",
+      "pub_date": "2026-11-09T07:00:00Z",
+      "source": "CME Group",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/reorientation-chinas-sway-over-commodities-070000326.html"
+    },
     {
       "title": "Markets Are Pricing in a Fed Rate Hike in December. Here's What Investors Should Do, According to History.",
       "summary": "Another Fed rate hike looks likely. If history is any guide, investors will want to take four steps.",
@@ -31,13 +45,6 @@
       "url": "https://www.investors.com/news/jobs-report-oct-ai-stocks-federal-reserve-rate-hike-sp-500/?src=A00220&yptr=yahoo"
     },
     {
-      "title": "Gold price today, Friday, November 6, 2026: Gold hovers above $4,000 ahead of jobs report",
-      "summary": "Gold futures opened at $4,098.50 per troy ounce on Friday, November 6, 2026, down 0.4% from Thursday's closing price. Gold is sliding in early trading this morning to $4,072 per troy ounce as of 7:14 a.m. ET.",
-      "pub_date": "2026-11-06T12:24:50Z",
-      "source": "Yahoo Personal Finance",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-november-6-2026-gold-hovers-above-4000-ahead-of-jobs-report-122450100.html"
-    },
-    {
       "title": "Treasury Yields Hover Around Two-Month Lows Ahead of Payrolls",
       "summary": "Treasury yields fell as WTI crude remained around $90.",
       "pub_date": "2026-11-05T21:12:00Z",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-05T17:31:22Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/bond-rally-drives-10-year-yield-to-two-month-low-fX6bfSD43aIoqn48SEIS?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Why a Cboe, Citadel backed group is suing CFTC regulators",
-      "summary": "Scott Melker discusses how a group comprised of Cboe and Citadel Securities sued US Commodity Futures Trading Commission (CFTC) regulators in hopes of blocking the authorization of single-stock perpetual futures contracts.\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.",
-      "pub_date": "2026-11-04T19:00:00Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/why-a-cboe-citadel-backed-group-is-suing-cftc-regulators-190619853.html"
     }
   ]
 }

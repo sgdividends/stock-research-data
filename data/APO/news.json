@@ -1,7 +1,14 @@
 {
   "ticker": "APO",
-  "generated_at": "2026-11-09T04:06:08.286883+00:00",
+  "generated_at": "2026-11-09T18:07:45.776939+00:00",
   "items": [
+    {
+      "title": "12% of U.S. hospitals are owned by private equity",
+      "summary": "As scrutiny over cost and quality at private equity-backed hospitals persists, a new tracker shows that PE hospital ownership has expanded nationwide and is concentrated among a handful of firms.",
+      "pub_date": "2026-11-09T14:52:23Z",
+      "source": "Healthcare Dive",
+      "url": "https://finance.yahoo.com/healthcare/articles/12-u-hospitals-owned-private-145223491.html"
+    },
     {
       "title": "Musk \u201cWould Never Lend Money\u201d to Pure AI Clouds. Goldman Is Selling SpaceX\u2019s $40 Billion GPU Debt",
       "summary": "Key TakeawaysGoldman Sachs and Apollo are marketing slices of a roughly $40 billion debt package that buys Nvidia chips for SpaceX to rent, Bloomberg reported. Elon Musk says he would never lend to a company that only makes money serving AI from a data center, and this deal is written so lenders can count on all of SpaceX, Starlink included, to pay the rent.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-05T21:41:21Z",
       "source": "IPO-Edge.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/value-creation-ipo-accordion-managing-214121604.html"
-    },
-    {
-      "title": "SpaceX Lessors Look To Sell $40 Bil AI Deal. ARK Buys The Dip On SPCX Stock.",
-      "summary": "Goldman Sachs, Apollo Global look to sell portions of $40 billion GPU deal with SpaceX. Cathie Wood buys the dip amid AI retreat.",
-      "pub_date": "2026-11-05T21:39:37Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/spacex-goldman-sachs-apollo-40bil-nvidia-ai-gpu-deal-sale-cathie-wood-ark-invest-spcx-stock/?src=A00220&yptr=yahoo"
     }
   ]
 }

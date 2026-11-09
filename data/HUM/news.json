@@ -1,7 +1,14 @@
 {
   "ticker": "HUM",
-  "generated_at": "2026-11-09T04:07:00.965495+00:00",
+  "generated_at": "2026-11-09T18:08:22.696858+00:00",
   "items": [
+    {
+      "title": "Company News for Nov 9, 2026",
+      "summary": "Companies In The News Are:FLY,ASTS,LRCX,HUM and BEN",
+      "pub_date": "2026-11-09T10:21:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/company-news-nov-9-2026-102100919.html"
+    },
     {
       "title": "Medicare Just Locked In Most of Your 2027 Costs. One Big Number Is Still Missing",
       "summary": "Medicare open enrollment ends Dec. 7, and most 2027 costs are set: a $2,400 Part D cap, a $700 deductible and a 3.6% COLA. For a 72-year-old with one costly drug, the bill rises $300, her check nets about $76 more a month, and a plan comparison is worth $408.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-06T21:15:54Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/healthcare/articles/humana-inc-hum-q3-2026-211554581.html"
-    },
-    {
-      "title": "Humana Inc. Q3 2026 Earnings Call Summary",
-      "summary": "Moby summary of Humana Inc.'s Q3 2026 earnings call",
-      "pub_date": "2026-11-06T18:48:21Z",
-      "source": "Moby",
-      "url": "https://finance.yahoo.com/healthcare/articles/humana-inc-q3-2026-earnings-184821321.html"
     }
   ]
 }
