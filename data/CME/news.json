@@ -1,7 +1,14 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-11-10T02:29:23.261642+00:00",
+  "generated_at": "2026-11-10T12:00:26.353931+00:00",
   "items": [
+    {
+      "title": "Fed Hike Odds Hit 84% After Bitcoin ETFs Lose $1.28 Billion",
+      "summary": "Fed hike odds reach 84% for December while Bitcoin ETFs shed $1.28 billion. See what a hawkish Fed could mean for BTC.",
+      "pub_date": "2026-11-10T05:29:07Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/economy/policy/articles/fed-hike-odds-hit-84-052907123.html"
+    },
     {
       "title": "Treasury Yields Edge Higher Ahead of CPI Data",
       "summary": "Treasury yields rose ahead of inflation data from the Labor Department.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-06T15:30:13Z",
       "source": "Associated Press",
       "url": "https://finance.yahoo.com/markets/commodities/articles/bc-lumber-futures-153013939.html"
-    },
-    {
-      "title": "Big Jobs Report Keeps Fed Rate-Hike Door Wide Open Despite Sell-Off (Live Coverage)",
-      "summary": "U.S. added 165,000 jobs last month, more than double expectations. The unemployment rate unexpectedly fell.",
-      "pub_date": "2026-11-06T14:38:54Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/jobs-report-oct-ai-stocks-federal-reserve-rate-hike-sp-500/?src=A00220&yptr=yahoo"
     }
   ]
 }

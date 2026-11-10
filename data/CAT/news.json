@@ -1,7 +1,14 @@
 {
   "ticker": "CAT",
-  "generated_at": "2026-11-10T02:29:19.655018+00:00",
+  "generated_at": "2026-11-10T12:00:21.807357+00:00",
   "items": [
+    {
+      "title": "Spdr Dow Jones Industrial Average ETF (DIA) Buys $36 Million More GS on Friday",
+      "summary": "The fund added $358.4 million across all 30 holdings, with Goldman Sachs its largest purchase at $36.0 million.",
+      "pub_date": "2026-11-10T11:05:30Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spdr-dow-jones-industrial-average-110530396.html"
+    },
     {
       "title": "Stock Market Today: Dow Jumps, These Stocks Test Entries; Warren Buffett Play Clears Buy Zone",
       "summary": "The Dow Jones index rallied Monday as Nvidia dived on a probe into CEO Jensen Huang. Multiple stocks cleared buy points.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-09T16:00:28Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-grabs-1-7-gigawatts-160028097.html"
-    },
-    {
-      "title": "GE Vernova Soars 7% as Constellation Raises Guidance, Easing Data-Center Moratorium Fears",
-      "summary": "Key TakeawaysGE Vernova shares jumped 7% today, with Bloom Energy and Vertiv, after Constellation Energy beat estimates and raised its 2026 guidance. Constellation\u2019s new deals show data-center buyers are still signing, so last week\u2019s moratorium selloff looks overdone.",
-      "pub_date": "2026-11-09T15:48:18Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ge-vernova-soars-7-constellation-154818525.html"
     }
   ]
 }

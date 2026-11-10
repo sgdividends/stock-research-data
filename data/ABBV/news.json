@@ -1,7 +1,14 @@
 {
   "ticker": "ABBV",
-  "generated_at": "2026-11-10T02:29:05.311850+00:00",
+  "generated_at": "2026-11-10T12:00:07.257461+00:00",
   "items": [
+    {
+      "title": "While pharma peers stumble, AbbVie defeated the patent cliff",
+      "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
+      "pub_date": "2026-11-10T10:23:53Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/healthcare/articles/while-pharma-peers-stumble-abbvie-102353320.html"
+    },
     {
       "title": "Can IBM's Latest Quantum System Boost Illinois' Innovation Future?",
       "summary": "IBM has launched its first quantum computer in Illinois, advancing research partnerships, industry applications and plans to create 750 technology jobs.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-07T12:00:00Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-11-2-120000947.html"
-    },
-    {
-      "title": "What Could Stall AbbVie Stock's Run?",
-      "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "pub_date": "2026-11-07T10:07:00Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/healthcare/articles/could-stall-abbvie-stocks-run-100700466.html"
     }
   ]
 }
