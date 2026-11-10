@@ -1,7 +1,14 @@
 {
   "ticker": "AEP",
-  "generated_at": "2026-11-10T12:00:09.249690+00:00",
+  "generated_at": "2026-11-10T19:34:49.116511+00:00",
   "items": [
+    {
+      "title": "AI Boom Fuels Southern Company's Data Center Power Usage Growth",
+      "summary": "SO's data center electricity usage surges 59% in Q3 2026, backed by 21 GW of signed contracts, fueling growth and major capital investment plans.",
+      "pub_date": "2026-11-10T18:15:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/energy/articles/ai-boom-fuels-southern-companys-181500524.html"
+    },
     {
       "title": "5 Dividend Stocks With Ex-Dividend Deadlines This Week. The First Is Today",
       "summary": "One utility's payout window slams shut at today's closing bell, and four more follow before Friday. Each dividend carries a hidden catch, from heavy debt to a payout frozen since 2020, so the yield alone won't tell you which are safe.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-07T01:20:01Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nrg-energy-reports-soon-stock-012001063.html"
-    },
-    {
-      "title": "Google Is Spending $17 Billion on a Wyoming Data Center and Says It Will Pay for 100% of Its Power",
-      "summary": "Google just answered the loudest objection to AI data centers, yet the market barely noticed and one key supplier tumbled. The fine print on who supplies the power, and what the pledge leaves out, may matter more than the headline.",
-      "pub_date": "2026-11-06T19:26:29Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/energy/articles/google-spending-17-billion-wyoming-192629782.html"
     }
   ]
 }

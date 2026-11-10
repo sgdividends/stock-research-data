@@ -1,7 +1,28 @@
 {
   "ticker": "MCO",
-  "generated_at": "2026-11-10T12:01:05.431848+00:00",
+  "generated_at": "2026-11-10T19:35:42.854905+00:00",
   "items": [
+    {
+      "title": "Moody\u2019s Pilot With Chainlink Puts Test Ratings on Several Blockchains in One Pass",
+      "summary": "Moody's has so far added its ratings engine one blockchain at a time. This time the companies sent the same stand-in ratings to several chains at once, a trial with no real rating actions that ran only on test networks.",
+      "pub_date": "2026-11-10T19:20:24Z",
+      "source": "Unchained",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/moody-pilot-chainlink-puts-test-192024526.html"
+    },
+    {
+      "title": "Should You Buy Fair Isaac Stock Now Or Wait?",
+      "summary": "For questions about this article or underlying research, email help@trefis.com.",
+      "pub_date": "2026-11-10T14:46:50Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-fair-isaac-stock-now-144650154.html"
+    },
+    {
+      "title": "Moody\u2019s Taps Chainlink to Send Credit Ratings Across Multiple Blockchains",
+      "summary": "The testnet pilot used Chainlink\u2019s CCIP to distribute Moody\u2019s ratings simultaneously across permissioned and permissionless blockchains, while preserving the firm\u2019s existing publication and governance processes.",
+      "pub_date": "2026-11-10T14:01:02Z",
+      "source": "decrypt",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/moody-taps-chainlink-send-credit-140102755.html"
+    },
     {
       "title": "Moody\u2019s and S&P downgrade Akamai on debt-fueled AI infrastructure buildout",
       "summary": "Investing.com -- Akamai Technologies Inc (NASDAQ:AKAM) saw its credit profile take a significant hit on Monday as both Moody\u2019s Ratings and S&P Global Ratings downgraded the company following its decision to raise over $2 billion in convertible debt to pre-fund an aggressive push into artificial intelligence edge infrastructure. S&P lowered Akamai\u2019s issuer credit rating to \u2018BB+\u2019 from \u2018BBB-\u2019, pushing the content delivery specialist into speculative-grade territory, while Moody\u2019s cut its rating one",
@@ -36,27 +57,6 @@
       "pub_date": "2026-11-06T22:13:12Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-us-financial-stocks-riding-221312514.html"
-    },
-    {
-      "title": "Treasury Yields Are Falling. These 3 Dividend Stocks Could Be Big Winners",
-      "summary": "A post-midterm risk-off move is pushing Treasury yields lower, and regulated utilities stand to gain twice. One pays the most income, one owns a 52-year raise streak, and one has OpenAI as a customer. Each also hides a risk.",
-      "pub_date": "2026-11-05T13:47:43Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/treasury-yields-falling-3-dividend-134743046.html"
-    },
-    {
-      "title": "Sotera Health (SHC) Could Be 28% Below Fair Value As Earnings Beat Lands",
-      "summary": "Sotera Health (SHC) is back in focus after reporting third quarter 2026 results that topped Wall Street forecasts, reaffirming its full year revenue and earnings outlook, and securing a Moody's credit rating upgrade. Recent trading tells a mixed story, with Sotera Health\u2019s share price up 2.25% on the day of the earnings beat yet down about 12% over the past week and 11% over the last month. At the same time, the 1 year total shareholder return of 3.67% and 3 year total shareholder return of...",
-      "pub_date": "2026-11-05T12:19:37Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sotera-health-shc-could-28-121937144.html"
-    },
-    {
-      "title": "Warren Buffett's 3 Longest-Held Stocks Average a 3,757% Gain and Collectively Deliver $1.53 Billion in Annual Dividend Income for Berkshire Hathaway",
-      "summary": "The Oracle of Omaha\u2019s patience has paid off handsomely for his company and its shareholders.",
-      "pub_date": "2026-11-04T10:26:02Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffetts-3-longest-held-102602242.html"
     }
   ]
 }

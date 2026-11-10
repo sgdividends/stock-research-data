@@ -1,7 +1,14 @@
 {
   "ticker": "BA",
-  "generated_at": "2026-11-10T12:00:16.448712+00:00",
+  "generated_at": "2026-11-10T19:34:55.452843+00:00",
   "items": [
+    {
+      "title": "ACHR Q3 Earnings Call Highlights LA Launch and Boeing Deal",
+      "summary": "Archer Aviation advances Los Angeles air taxi flights and nears a Boeing acquisition, targeting 2027 passenger service while expanding its defense business.",
+      "pub_date": "2026-11-10T14:00:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/achr-q3-earnings-call-highlights-140000784.html"
+    },
     {
       "title": "ACHR Stock Tumbles Overnight On Earnings Miss: Archer CEO Calls Midnight\u2019s LA Push Its \u2018Most Important\u2019 Milestone Yet",
       "summary": "Archer\u2019s third-quarter loss per share fell short of expectations while the company ended the quarter with a $1.4 billion cash reserve.",
@@ -15,6 +22,13 @@
       "pub_date": "2026-11-10T04:14:35Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/markets/stocks/articles/archer-aviation-q3-earnings-call-041435466.html"
+    },
+    {
+      "title": "How the Nvidia Scandal Threatens to Upend U.S.-China Tech Truce",
+      "summary": "Nvidia CEO Jensen Huang has been a central figure in the U.S. and China relationship. What happens now?",
+      "pub_date": "2026-11-09T22:18:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/nvidia-jensen-huang-u-s-china-tech-ai-beac73e1?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "SoFi\u2019s Earnings Shine While PayPal & Boeing\u2019s Earnings Look \u201cMeh\u201d",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-09T20:08:01Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/boeing-ba-stock-may-sit-200801154.html"
-    },
-    {
-      "title": "Boeing to Lay Off Workers, Report Says, Even as It Struggles to Build More Planes",
-      "summary": "Boeing\u2019s production struggles could result in layoffs to help control costs.",
-      "pub_date": "2026-11-09T19:59:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/boeing-stock-layoffs-cbafa1b8?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Boeing Commercial Airplanes to Reduce Workforce by Around 5%",
-      "summary": "CEO Stephanie Pope said layoffs will be necessary to implement a revised business plan and stabilize the company\u2019s supply chain.",
-      "pub_date": "2026-11-09T19:50:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/boeing-commercial-airplanes-to-reduce-workforce-by-around-5-86bae74b?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

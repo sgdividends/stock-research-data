@@ -1,7 +1,14 @@
 {
   "ticker": "SCHW",
-  "generated_at": "2026-11-10T12:01:23.232948+00:00",
+  "generated_at": "2026-11-10T19:36:03.429676+00:00",
   "items": [
+    {
+      "title": "Charles Schwab Expands Crypto Offerings",
+      "summary": "U.S. brokerage Charles Schwab (NYSE: $SCHW) is expanding its crypto trading offerings to investors.",
+      "pub_date": "2026-11-10T15:26:00Z",
+      "source": "CryptoProwl",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/charles-schwab-expands-crypto-offerings-152600835.html"
+    },
     {
       "title": "$13 trillion brokerage giant offers cheapest ways to trade crypto",
       "summary": "Schwab\u2019s crypto accounts now go beyond Bitcoin and Ethereum, and its trading fee is among the lowest in the industry.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-06T12:38:56Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/options/articles/treasuries-temperament-wimpy-income-investing-123856436.html"
-    },
-    {
-      "title": "Fidelity and Schwab Won\u2019t Send a Dollar of Your 401(k) RMD to Charity. The Tax-Free QCD Only Works From an IRA, and the Year You Roll Over to Get It, That Year\u2019s RMD Can\u2019t Move With It",
-      "summary": "Rolling a 401(k) into an IRA unlocks the tax-free charity gift, but one year's required withdrawal gets stuck behind. Before you move a dollar, find out what that stranded payment can cost in taxes and Medicare premiums.",
-      "pub_date": "2026-11-06T09:04:55Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/fidelity-schwab-won-t-send-090455449.html"
     }
   ]
 }
