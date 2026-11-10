@@ -1,10 +1,24 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-11-09T18:07:55.742546+00:00",
+  "generated_at": "2026-11-10T02:29:23.261642+00:00",
   "items": [
     {
+      "title": "Treasury Yields Edge Higher Ahead of CPI Data",
+      "summary": "Treasury yields rose ahead of inflation data from the Labor Department.",
+      "pub_date": "2026-11-09T20:43:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/gilts-outperform-eurozone-peers-as-oil-prices-drop-500fe046?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Will a Federal Reserve Interest Rate Hike Trigger a Recession? Here's What History Says.",
+      "summary": "Trading activity implies a 70% probability that the federal funds rate will be higher before year-end.",
+      "pub_date": "2026-11-09T18:20:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/economy/policy/articles/federal-interest-rate-hike-trigger-182000595.html"
+    },
+    {
       "title": "BC-Lumber Futures",
-      "summary": "NEW YORK (AP) \u2014 Prices as of 12:30:00 PM Monday, November 09.Contract Open High Low Last Change Today's Volume Friday's Volume  Nov 26 501.",
+      "summary": "NEW YORK (AP) \u2014 Prices as of 4:05:00 PM Monday, November 09.Contract Open High Low Last Change Today's Volume Friday's Volume  Nov 26 501.",
       "pub_date": "2026-11-09T15:30:13Z",
       "source": "Associated Press",
       "url": "https://finance.yahoo.com/markets/commodities/articles/bc-lumber-futures-153013771.html"
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-06T14:38:54Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/jobs-report-oct-ai-stocks-federal-reserve-rate-hike-sp-500/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Treasury Yields Hover Around Two-Month Lows Ahead of Payrolls",
-      "summary": "Treasury yields fell as WTI crude remained around $90.",
-      "pub_date": "2026-11-05T21:12:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/long-term-jgb-yields-fall-after-oil-price-drops-5cd454d2?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Bond Rally Drives 10-Year Yield to Two-Month Low",
-      "summary": "Today\u2019s sharp selloff in stocks is fueling a flight-to-quality rally in U.S. Treasurys, with yields dropping to their lowest levels since early September.",
-      "pub_date": "2026-11-05T17:31:22Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-05-2026/card/bond-rally-drives-10-year-yield-to-two-month-low-fX6bfSD43aIoqn48SEIS?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

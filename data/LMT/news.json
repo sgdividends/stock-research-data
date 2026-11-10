@@ -1,13 +1,48 @@
 {
   "ticker": "LMT",
-  "generated_at": "2026-11-09T18:08:32.850439+00:00",
+  "generated_at": "2026-11-10T02:29:57.126291+00:00",
   "items": [
+    {
+      "title": "Pete Hegseth Might Get Impeached. What That Means for Defense Stocks.",
+      "summary": "Monday, Kentucky Representative Thomas Massie introduced articles of impeachment against Defense Secretary Pete Hegseth.",
+      "pub_date": "2026-11-09T21:31:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/defense-stocks-hegseth-impeachment-0a45fb65?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "SpaceX, Blue Origin Winners As NASA Awards $10 Bil In Moon Base Contracts",
+      "summary": "NASA over the weekend awarded major contracts to SpaceX, Blue Origin, Lockheed Martin and more for its Moon Base efforts. Space stocks surged.",
+      "pub_date": "2026-11-09T21:27:11Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/spacex-blue-origin-nasa-moon-base-contracts-firefly-voyager-lockheed-billion-space-stocks/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Why Voyager Technologies Stock Went to the Moon on Monday",
+      "summary": "A new NASA contract could be worth $10 billion -- or $15 billion -- to Voyager Technologies (and others).",
+      "pub_date": "2026-11-09T19:45:43Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-voyager-technologies-stock-went-194543931.html"
+    },
+    {
+      "title": "Why Intuitive Machines Stock Went to the Moon on Monday",
+      "summary": "A new NASA contract could be worth $10 billion -- or $15 billion -- to Intuitive Machines (and others).",
+      "pub_date": "2026-11-09T18:23:35Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-intuitive-machines-stock-went-182335948.html"
+    },
+    {
+      "title": "What Is Lockheed Martin (LMT) Building With Its Nomad UAV And Counter Drone Push?",
+      "summary": "Lockheed Martin (NYSE:LMT) launched its Nomad vertical take-off and landing unmanned aerial vehicle, targeting long-endurance missions and autonomous operations. The defense contractor is pushing deeper into AI-enabled surveillance aircraft, aiming to meet rising demand for long-range monitoring capabilities. Lockheed Martin is also expanding solutions in the global counter-drone market, focusing on systems to detect, track, and neutralize hostile UAVs. The Nomad UAV and Lockheed Martin's...",
+      "pub_date": "2026-11-09T18:09:52Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-lmt-building-nomad-180952256.html"
+    },
     {
       "title": "Defense Realignment: Lockheed Martin vs. Palantir",
       "summary": "Both companies crushed earnings, then the midterms hit and both stocks tumbled. One defense giant built contracts to survive a budget fight, while the other bet on corporate AI. Which model holds up when Washington tightens the purse?",
       "pub_date": "2026-11-09T17:45:51Z",
       "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/defense-realignment-lockheed-martin-vs-174551942.html"
+      "url": "https://finance.yahoo.com/news/defense-realignment-lockheed-martin-vs-174551942.html"
     },
     {
       "title": "Is Lockheed Martin (LMT) Cheap After Its $694 Million Hypersonic Contract?",
@@ -22,41 +57,6 @@
       "pub_date": "2026-11-09T17:17:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/aerovironment-stock-drone-contract-deal-161ec543?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "SpaceX, Blue Origin Winners As NASA Awards $10 Bil In Moon Base Contracts",
-      "summary": "NASA over the weekend awarded major contracts to SpaceX, Blue Origin, Lockheed Martin and more for its Moon Base efforts. Space stocks surged.",
-      "pub_date": "2026-11-09T16:54:37Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/spacex-blue-origin-nasa-moon-base-contracts-firefly-voyager-lockheed-billion-space-stocks/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "10 Best Value Stocks Legendary Investor Donald Yacktman Was Buying Before AI Crash",
-      "summary": "The AI stock crash on November 5 has once again reminded investors to stop chasing the hype and go back to the basics. The Nasdaq entered a correction. AI stocks fell on fears that Democrats will limit new data centers, after the midterm elections. For months, wise investors kept warning that the AI bubble could [\u2026]",
-      "pub_date": "2026-11-09T14:20:45Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/10-best-value-stocks-legendary-142045496.html"
-    },
-    {
-      "title": "SpaceX Cratered 20% in The Last Month: This Wall Street Pro Predicts 500% Returns at Today\u2019s Price",
-      "summary": "A midterm sweep in Texas rattled SpaceX investors, yet most analysts held their Buy ratings and one still sees a far higher number. What do the bulls see that the market is ignoring, and where could the thesis break?",
-      "pub_date": "2026-11-09T13:45:32Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-cratered-20-last-month-134532080.html"
-    },
-    {
-      "title": "How much SpaceX stock does CEO Elon Musk actually own?",
-      "summary": "SpaceX\u2019s IPO turned Elon Musk into the world\u2019s first trillionaire. Here\u2019s how many SpaceX shares Musk owns and how he accumulated his stake.",
-      "pub_date": "2026-11-09T00:42:41Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/much-spacex-stock-does-ceo-004241271.html"
-    },
-    {
-      "title": "After the Midterms, Which of These 3 Defense ETFs Looks Strongest?",
-      "summary": "Defense ETFs SHLD, ITA, and PPA offer distinct exposure to global military spending as midterm election results and the Iran war shape the sector's outlook despite recent declines.",
-      "pub_date": "2026-11-08T13:35:00Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/midterms-3-defense-etfs-looks-133500711.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-11-09T18:08:41.319827+00:00",
+  "generated_at": "2026-11-10T02:30:05.306427+00:00",
   "items": [
+    {
+      "title": "Palantir Rises 5%, Snowflake Up 6% as AI Stocks Rebound After Market Was \u201cFreaking Out\u201d",
+      "summary": "Key TakeawaysPalantir rose 5% today with no news of its own, as Cloudflare, Snowflake and other AI stocks rebounded from last week\u2019s selloff. That selloff came after a quarter in which Palantir\u2019s revenue grew 96%.",
+      "pub_date": "2026-11-09T18:29:50Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-rises-5-snowflake-6-182950732.html"
+    },
     {
       "title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
       "summary": "Apple and Meta\u2019s objections mean all seven of the biggest U.S. tech companies have now asked to keep their shares off the planned OKX-ICE venue.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-06T11:03:18Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-servicenow-now-110318563.html"
-    },
-    {
-      "title": "ServiceNow (NOW) Expands Partnerships For Enterprise AI Workflows",
-      "summary": "ServiceNow (NYSE: NOW) is expanding partnerships to roll out agentic AI and large-scale AI workflows across enterprise customers. Partner LTM is deploying ServiceNow AI Agents and the Super Intelligence Control Tower internally as a model for wider adoption. Companies such as KORE and Keysight are choosing the ServiceNow platform to support next-generation customer experience and efficiency solutions. These wider deployments of agentic AI on ServiceNow only tell part of the story about the...",
-      "pub_date": "2026-11-06T03:19:42Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-now-expands-partnerships-enterprise-031942186.html"
     }
   ]
 }

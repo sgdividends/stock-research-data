@@ -1,62 +1,62 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-11-09T18:08:43.923111+00:00",
+  "generated_at": "2026-11-10T02:30:07.952354+00:00",
   "items": [
     {
-      "title": "Cloudflare Jumps 11%, Nebius Surges 9% as AI Cloud Stocks Defy NVIDIA\u2019s Slide; CoreWeave Rallies 6% on Wayve Deal",
-      "summary": "While NVIDIA slides on a startling report about its CEO, the cloud companies that buy its chips are drawing buyers back. One of them just posted what its CEO calls a best-ever quarter, but a few numbers underneath complicate the celebration.",
-      "pub_date": "2026-11-09T17:55:11Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-jumps-11-nebius-surges-175511344.html"
+      "title": "AI Capacity Risks Following Democrats' Win Overblown, UBS Says",
+      "summary": "Risks around artificial intelligence data center capacity expansion have increased following the Dem",
+      "pub_date": "2026-11-09T20:28:58Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-capacity-risks-following-democrats-202858079.html"
     },
     {
-      "title": "Nvidia Isn\u2019t Staying in The $180s for Long",
-      "summary": "A political earthquake in Washington and a boardroom investigation into its CEO have rattled Nvidia shares, yet analysts keep raising their numbers. Two upcoming answers could decide which side of this standoff turns out to be right.",
-      "pub_date": "2026-11-09T17:45:02Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-isn-t-staying-180s-174502274.html"
-    },
-    {
-      "title": "Skydance Earnings Will Put Its Streaming Strategy to the Test",
-      "summary": "Skydance reports third-quarter earnings after the closing bell Monday, and analysts\u2019 expectations are modest.",
-      "pub_date": "2026-11-09T17:22:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/skydance-earnings-stock-price-faf3fe8d?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Microsoft Borrows at \u201c10 Percentage Points Below CoreWeave.\u201d Now It\u2019s Backing Away From Neoclouds",
-      "summary": "Key TakeawaysMicrosoft wants fewer neocloud partners and won\u2019t renew one of its cloud contracts with Oracle, CNBC reported on Friday. Citi\u2019s Steven Wieting says Microsoft\u2019s cost of debt is about 10 percentage points below CoreWeave\u2019s.",
-      "pub_date": "2026-11-09T15:27:21Z",
+      "title": "The Stock Market Is \u201cPetrified of Oracle\u2019s Balance Sheet\u201d as Microsoft Walks Away",
+      "summary": "Key TakeawaysMicrosoft is winding down a deal to rent AI computing power from Oracle, days after Oracle canceled an estimated $7 billion chip-leasing deal with Tencent. The Microsoft contract itself looks small, but losing it leaves Oracle\u2019s backlog leaning even harder on OpenAI, which S&P says accounts for about half of it.",
+      "pub_date": "2026-11-09T19:48:58Z",
       "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-borrows-10-percentage-points-152721212.html"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-petrified-oracle-balance-194858775.html"
+    },
+    {
+      "title": "Credo Technology Group Holding (CRDO) Helped Set New AI Network Standards, Is The 44% Undervaluation Real?",
+      "summary": "Credo Technology Group Holding (CRDO) has contributed to the delivery of two new Open Compute Project optical telemetry standards, created with Oracle and industry partners. These standards aim to support more reliable AI data center networks by enabling richer link monitoring. For investors watching Credo Technology Group Holding, the approval of these Open Compute Project standards lands after a sharp reset in sentiment. The share price has risen 7.3% over the last day but is still down...",
+      "pub_date": "2026-11-09T19:13:42Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-group-holding-crdo-191342028.html"
+    },
+    {
+      "title": "ING Is Getting Cold Feet on the AI Boom",
+      "summary": "ING is shopping $500 million in loans tied to US data center projects, including one connected to OpenAI-backed Stargate. The sale isn\u2019t a distress signal, but it raises questions about who will finance AI\u2019s increasingly expensive buildout.",
+      "pub_date": "2026-11-09T18:49:25Z",
+      "source": "Moby",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ing-getting-cold-feet-ai-184925924.html"
     },
     {
       "title": "Google Pushes New AI Chips. Why There Could Be an Opening.",
       "summary": "Alphabet\u2019s Google is expanding its AI hardware lineup with systems designed for sensitive data and large workloads.",
-      "pub_date": "2026-11-09T15:16:00Z",
+      "pub_date": "2026-11-09T18:28:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/google-ai-tpu-systems-nvidia-8d354665?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "AMD Stock Could Jump 34%. No, It\u2019s Got Nothing to Do With the Nvidia Turmoil.",
       "summary": "Oppenheimer analyst Rick Schafer expects AMD\u2019s data-center sales to surge 135% next year thanks to robust AI spending.",
-      "pub_date": "2026-11-09T14:58:00Z",
+      "pub_date": "2026-11-09T18:02:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/amd-stock-upgrade-nvidia-jensen-huang-probe-3fabd3f8?siteid=yhoof2&yptr=yahoo"
     },
     {
-      "title": "Is Oracle (ORCL) Losing Ground In AI Infrastructure Demand?",
-      "summary": "Oracle (NYSE: ORCL) is losing a cloud AI rental arrangement as Microsoft winds down use of Oracle infrastructure tied to older Nvidia chips. ING plans to sell a large portfolio of data center loans that includes a major Oracle related AI project involving OpenAI and SoftBank. Both the Microsoft exit and ING loan sale raise fresh questions about demand for Oracle linked AI infrastructure projects. Take a look at 4 other big wins we have identified for Oracle. Consider widening your research...",
-      "pub_date": "2026-11-09T14:09:34Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/oracle-orcl-losing-ground-ai-140934525.html"
+      "title": "Cloudflare Jumps 11%, Nebius Surges 9% as AI Cloud Stocks Defy NVIDIA\u2019s Slide; CoreWeave Rallies 6% on Wayve Deal",
+      "summary": "While NVIDIA slides on a startling report about its CEO, the cloud companies that buy its chips are drawing buyers back. One of them just posted what its CEO calls a best-ever quarter, but a few numbers underneath complicate the celebration.",
+      "pub_date": "2026-11-09T17:55:11Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/news/cloudflare-jumps-11-nebius-surges-175511344.html"
     },
     {
-      "title": "Dell and HPE Were AI Winners Until the Selloff. Can Earnings Put Them Back on Track?",
-      "summary": "Dell and HPE both erased roughly 40% of their AI-fueled gains in a month, and two earnings reports land within days of each other. One company's cash flow and the other's networking bet will decide which rebound is real.",
-      "pub_date": "2026-11-09T14:04:29Z",
+      "title": "Nvidia Isn\u2019t Staying in The $180s for Long",
+      "summary": "A political earthquake in Washington and a boardroom investigation into its CEO have rattled Nvidia shares, yet analysts keep raising their numbers. Two upcoming answers could decide which side of this standoff turns out to be right.",
+      "pub_date": "2026-11-09T17:45:02Z",
       "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-hpe-were-ai-winners-140429773.html"
+      "url": "https://finance.yahoo.com/news/nvidia-isn-t-staying-180s-174502274.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "FTNT",
-  "generated_at": "2026-11-09T18:08:14.081954+00:00",
+  "generated_at": "2026-11-10T02:29:40.987367+00:00",
   "items": [
+    {
+      "title": "Palo Alto Networks Is Down 27% From Its High: Is It Time to Sell, or Load Up?",
+      "summary": "Key TakeawaysPalo Alto Networks reports fiscal first-quarter results on November 18, with revenue guided to $3. 30 billion to $3.",
+      "pub_date": "2026-11-09T18:07:53Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-down-27-180753011.html"
+    },
     {
       "title": "Can CrowdStrike's Latest AI Integrations Drive Security Growth?",
       "summary": "CRWD expands AI security through Anthropic, AWS and Lovable integrations, strengthening Falcon's reach across AI agents, cloud infrastructure and applications.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-05T20:14:18Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/fortinet-ftnt-unveiled-two-security-201418648.html"
-    },
-    {
-      "title": "Palantir Tumbles 10%, CrowdStrike Sinks 9% as Wall Street Dumps Software\u2019s AI Winners; Okta Drops 10%",
-      "summary": "Software's biggest AI winners are getting hit hardest while the year's laggards barely move. A post-midterm shift in sentiment is reshaping who gets punished, and one security name is slipping far less than its peers.",
-      "pub_date": "2026-11-05T18:11:36Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-tumbles-10-crowdstrike-sinks-181136741.html"
     }
   ]
 }
