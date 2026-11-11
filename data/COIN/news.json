@@ -1,13 +1,41 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-11-10T19:35:06.032755+00:00",
+  "generated_at": "2026-11-11T00:23:04.165635+00:00",
   "items": [
+    {
+      "title": "Coinbase's national trust charter approval is a major win for crypto custody",
+      "summary": "A top financial regulatory cop has granted Coinbase \u2014 the world's biggest crypto exchange \u2014 a national trust charter.",
+      "pub_date": "2026-11-10T20:55:37Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/crypto/article/coinbases-national-trust-charter-approval-is-a-major-win-for-crypto-custody-205537967.html"
+    },
     {
       "title": "Coinbase, Kalshi, and Kraken are lawyering up. Here's why.",
       "summary": "Scott Melker outlines the latest update on the US Commodity Futures Trading Commission's (CFTC's) legal fight over perpetual futures, highlighting why Coinbase (COIN), Kalshi (KLSH.PVT), and Kraken (KRAK.PVT) are getting involved.",
       "pub_date": "2026-11-10T17:03:04Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/coinbase-kalshi-and-kraken-are-lawyering-up-heres-why-170304663.html"
+    },
+    {
+      "title": "7.1 Million Bitcoin Sit in Wallets a Quantum Computer Could One Day Crack. Is Yours One of Them?",
+      "summary": "A third of all Bitcoin has a public key sitting in plain view, yet the real pressure on price is coming from somewhere else entirely. Find out which coins count as exposed and what one cheap transaction could change.",
+      "pub_date": "2026-11-10T20:04:59Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/7-1-million-bitcoin-sit-200459730.html"
+    },
+    {
+      "title": "Coinbase Gets National Bank Charter Approval",
+      "summary": "Bloomberg's Olga Kharif joins Isabelle Lee and Tim Stenovec on \"Bloomberg Crypto.\" Coinbase, the largest US crypto exchange, said a key regulator has fully signed off on its request to become a nationally chartered trust bank, the latest example of firms in the digital-asset space entering the world of traditional finance.",
+      "pub_date": "2026-11-10T20:03:01Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/video/coinbase-gets-national-bank-charter-200301882.html"
+    },
+    {
+      "title": "Securitize Stock Jumps 24%, Defying Crypto Slump. Its Tokenized Assets Hit $5 Billion.",
+      "summary": "Securitize stock is heading for its best single-day percentage gain on record even after reporting mixed earnings.",
+      "pub_date": "2026-11-10T18:14:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/securitize-earnings-stock-price-1fbba0c1?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Coinbase Falls 4%, Robinhood Slides 3% as Hot Inflation Data Drags Bitcoin Lower; Webull Declines 2%",
@@ -29,34 +57,6 @@
       "pub_date": "2026-11-10T16:26:13Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/brian-armstrong-sees-ahead-coinbase-162613007.html"
-    },
-    {
-      "title": "What Bitdeer Technologies Group (BTDR) Said on Its Q3 Earnings Call",
-      "summary": "Bitdeer Technologies Group (NASDAQ:BTDR) reported record third-quarter revenue as Bitcoin production and co-mining expanded, while management outlined plans to finance a growing pipeline of artificial intelligence infrastructure projects. Revenue rose 89% year over year to $320.7 million, and adjus",
-      "pub_date": "2026-11-10T16:15:24Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitdeer-technologies-group-btdr-said-161524560.html"
-    },
-    {
-      "title": "Anthropic IPO Buzz Has Coinbase Stock And Retail Broker Shares Back On Watch",
-      "summary": "A near trillion dollar Anthropic IPO with a large retail allocation is about to pull huge attention back into trading apps and brokerage platforms, and that surge in curiosity about AI and option fueled speculation will not bypass US listed retail brokerage and trading stocks. If you think crowded AI headlines create both potential opportunity and risk, keep reading. This article breaks down three stocks exposed to this news and what that might mean for your portfolio. The stocks covered...",
-      "pub_date": "2026-11-10T16:09:29Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-buzz-coinbase-stock-160929432.html"
-    },
-    {
-      "title": "Bitcoin Drops Below $74,000 as Core Inflation Runs Above Forecasts",
-      "summary": "Bitcoin swung more than $1,100 in the five minutes after the Bureau of Labor Statistics released October inflation data, then traded in the high-$73,000s.",
-      "pub_date": "2026-11-10T14:34:18Z",
-      "source": "Unchained",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-drops-below-74-000-143418783.html"
-    },
-    {
-      "title": "Morning Minute: Vitalik Recasts ETH as a Store of Value",
-      "summary": "It\u2019s a big shift for Ethereum from the \u201cultrasound money\u201d days. But can ETH compete as a store-of-value play?",
-      "pub_date": "2026-11-10T13:24:51Z",
-      "source": "decrypt",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/morning-minute-vitalik-recasts-eth-132451875.html"
     }
   ]
 }

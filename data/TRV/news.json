@@ -1,14 +1,7 @@
 {
   "ticker": "TRV",
-  "generated_at": "2026-11-10T19:36:13.158041+00:00",
+  "generated_at": "2026-11-11T00:24:07.329226+00:00",
   "items": [
-    {
-      "title": "Stock Market Today: Dow Dips On Hot Inflation Data, Rate Hike Calls; Rubio Says This On Iran (Live Coverage)",
-      "summary": "Stock Market Today: The Dow Jones index falls Tuesday on a hot inflation report. Anthropic prices its IPO range. Nvidia sells off.",
-      "pub_date": "2026-11-10T18:04:25Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-cpi-inflation-report-anthropic-ipo/?src=A00220&yptr=yahoo"
-    },
     {
       "title": "Can WRB's Net Investment Income Continue to Support Earnings?",
       "summary": "W. R. Berkley's investment income growth is supported by a larger portfolio and attractive reinvestment yields, though growth may moderate.",
@@ -57,6 +50,13 @@
       "pub_date": "2026-11-06T11:01:45Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-47-1-million-110145530.html"
+    },
+    {
+      "title": "MET Q3 Earnings Beat on Higher Investment Income, Revenues Miss",
+      "summary": "MetLife's Q3 2026 earnings beat estimates on higher investment income and business growth, while rising expenses and actuarial adjustments temper gains.",
+      "pub_date": "2026-11-05T12:54:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/met-q3-earnings-beat-higher-125400498.html"
     }
   ]
 }
