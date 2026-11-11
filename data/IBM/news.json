@@ -1,7 +1,21 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-11-11T00:23:30.311672+00:00",
+  "generated_at": "2026-11-11T11:39:10.379455+00:00",
   "items": [
+    {
+      "title": "Quantum Computing\u2019s Next Winners May Not Be Quantum Stocks",
+      "summary": "Quantum processors keep getting better, yet the companies building them keep bleeding cash and shareholders. Behind the earnings misses, a quieter group of giants may be positioning to collect the profits no matter which qubit design prevails.",
+      "pub_date": "2026-11-11T02:24:42Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/quantum-computing-next-winners-may-022442514.html"
+    },
+    {
+      "title": "Rigetti Computing CEO Says Focus on Quantum Milestones, Not Sales Numbers",
+      "summary": "As Rigetti Computing posts just $1.4 million in quarterly revenue, CEO Subodh Kulkarni says focusing on sales growth is \u201cpremature.\u201d",
+      "pub_date": "2026-11-11T00:16:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/rigetti-computing-earnings-stock-price-b2a7f0dd?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Is Accenture Stock Becoming A Different Bet?",
       "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-10T13:00:00Z",
       "source": "CIO Dive",
       "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-ibm-team-ai-agent-130000434.html"
-    },
-    {
-      "title": "$300,000 in Cisco, IBM and Microsoft Could Pay You $5,150 a Year",
-      "summary": "The tech stocks your portfolio treats as growth bets also mail checks every quarter. One pays the least yet raises fastest, another has paid since 1916, and each carries a hidden risk that could squeeze that income.",
-      "pub_date": "2026-11-09T19:17:55Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/news/300-000-cisco-ibm-microsoft-191755626.html"
-    },
-    {
-      "title": "What Is IBM (IBM) Signaling With Its Quantum System Two Launch In Chicago?",
-      "summary": "International Business Machines (NYSE:IBM) has deployed its Quantum System Two computer in Chicago at the Illinois Quantum and Microelectronics Park. The new installation connects IBM with Illinois research universities, state agencies, and corporate partners focused on quantum information science. State officials describe the project as a cornerstone for positioning Illinois as a global hub for quantum technology and microelectronics. The Quantum System Two launch in Chicago is important,...",
-      "pub_date": "2026-11-09T16:19:24Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/articles/ibm-ibm-signaling-quantum-system-161924795.html"
     }
   ]
 }
