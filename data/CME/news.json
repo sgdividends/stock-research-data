@@ -1,7 +1,49 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-11-11T11:38:34.291587+00:00",
+  "generated_at": "2026-11-11T19:08:13.864616+00:00",
   "items": [
+    {
+      "title": "Sector Update: Financial Stocks Advance Wednesday Afternoon",
+      "summary": "Financial stocks were higher in Wednesday afternoon trading, with the NYSE Financial Index increasin",
+      "pub_date": "2026-11-11T18:48:08Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-advance-wednesday-184808367.html"
+    },
+    {
+      "title": "Government Shutdown, Continued Oil Price Drop Could Prevent December Fed Rate Hike, Macquarie Says",
+      "summary": "A potential US government shutdown and a further decline in oil prices are among the factors that co",
+      "pub_date": "2026-11-11T18:21:53Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/economy/policy/articles/government-shutdown-continued-oil-price-182153985.html"
+    },
+    {
+      "title": "Dollar advances as markets price in December Fed rate hike",
+      "summary": "By Chibuike Oguh and Shashwat Chauhan NEW YORK, Nov 11 (Reuters) - The dollar strengthened against major currencies on Wednesday, buoyed by growing expectations that the Federal Reserve will raise",
+      "pub_date": "2026-11-11T16:36:15Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-gains-traction-fed-speakers-005619960.html"
+    },
+    {
+      "title": "BC-Lumber Futures",
+      "summary": "NEW YORK (AP) \u2014 Prices as of 1:30:00 PM Wednesday, November 11.Contract Open High Low Last Change Today's Volume Tuesday's Volume  Nov 26 512.",
+      "pub_date": "2026-11-11T15:30:16Z",
+      "source": "Associated Press",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/bc-lumber-futures-153016208.html"
+    },
+    {
+      "title": "Gold price today, Wednesday, November 11, 2026: Gold prices fall back as inflation concerns broaden",
+      "summary": "Gold futures opened at $4,043.70 per troy ounce on Wednesday, November 11, 2026, down 2.5% from Tuesday's open. Gold prices are gaining a little ground this morning, rising to $4,055.20 at 7:02 a.m. ET.",
+      "pub_date": "2026-11-11T12:11:48Z",
+      "source": "Yahoo Personal Finance",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-november-11-2026-gold-prices-fall-back-as-inflation-concerns-broaden-121148323.html"
+    },
+    {
+      "title": "U.S. Inflation Makes Further Fed Rate Rise in December Inevitable",
+      "summary": "U.S. inflation remains too high for the Federal Reserve, making an interest-rate hike at the December FOMC meeting virtually inevitable, Julius Baer Chief Economist David Kohl said in a note.",
+      "pub_date": "2026-11-11T11:57:51Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-111126/card/u-s-inflation-makes-further-fed-rate-rise-in-december-inevitable-mnbdGVbpOlUrG7nKjBTd?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Wall St ends lower as hot inflation data, Fed comments heighten rate worries",
       "summary": "By Chuck Mikolajczak and Niket Nishant NEW YORK, Nov 10 (Reuters) - US stocks closed lower on Tuesday, as a hotter-than-expected inflation reading hardened expectations for a rate hike from the",
@@ -15,48 +57,6 @@
       "pub_date": "2026-11-10T20:52:07Z",
       "source": "CFO Dive",
       "url": "https://finance.yahoo.com/economy/policy/articles/inflation-rises-faster-expected-boosting-205207412.html"
-    },
-    {
-      "title": "CME Group (CME) Delivers Resilient Performance Amid Competition",
-      "summary": "Cooper Investors, an investment management firm, released its third-quarter 2026 investor letter for \u201cCooper Investors Global Equities Fund (Unhedged)\u201d. The letter can be downloaded here. The Fund returned 0.50% net of fees in the quarter, driven by Compounding and Real Asset investments, partially offset by weaker Reversionary investments. The Compounding Capital Pool, which makes up [\u2026]",
-      "pub_date": "2026-11-10T18:45:12Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/options/articles/cme-group-cme-delivers-resilient-184512282.html"
-    },
-    {
-      "title": "Coinbase Falls 4%, Robinhood Slides 3% as Hot Inflation Data Drags Bitcoin Lower; Webull Declines 2%",
-      "summary": "A hotter-than-expected CPI print has traders betting on a December Fed rate hike, and crypto-linked stocks are feeling it unevenly. Which one is bleeding most, and what separates Coinbase from its peers when rate fears spike?",
-      "pub_date": "2026-11-10T17:51:41Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-falls-4-robinhood-slides-175141701.html"
-    },
-    {
-      "title": "WSJ Dollar Index Rises 0.49% to 97.54",
-      "summary": "The WSJ Dollar Index rose 0.5%, up three of the past four trading days.",
-      "pub_date": "2026-11-10T22:20:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/articles/dollar-weakens-ahead-of-u-s-inflation-data-c7cddfbe?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "BC-Lumber Futures",
-      "summary": "NEW YORK (AP) \u2014 Prices as of 4:05:00 PM Tuesday, November 10.Contract Open High Low Last Change Today's Volume Monday's Volume  Nov 26 510.",
-      "pub_date": "2026-11-10T15:30:14Z",
-      "source": "Associated Press",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/bc-lumber-futures-153014544.html"
-    },
-    {
-      "title": "A Fed Governor Said He'd be Open to a Half-Point Rate Hike if Inflation Came in Hotter. That Just Happened.",
-      "summary": "Waller said in London that he was \"leaning toward\" a rate hike even if the October reading was softer than expected and would back \"more robust action\" if it was higher than the forecasts.",
-      "pub_date": "2026-11-10T14:26:07Z",
-      "source": "International Business Times",
-      "url": "https://finance.yahoo.com/economy/policy/articles/fed-governor-said-hed-open-142607543.html"
-    },
-    {
-      "title": "Inflation Came in Hotter Than Expected in October. A Rate Hike is All But Certain Now.",
-      "summary": "U.S. consumer prices rose more than expected in October, sending the implied probability of a Federal Reserve rate hike to 98.8%, according to CME Group data.",
-      "pub_date": "2026-11-10T13:58:27Z",
-      "source": "International Business Times",
-      "url": "https://finance.yahoo.com/economy/policy/articles/inflation-came-hotter-expected-october-135827068.html"
     }
   ]
 }

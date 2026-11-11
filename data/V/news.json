@@ -1,7 +1,35 @@
 {
   "ticker": "V",
-  "generated_at": "2026-11-11T11:40:03.778809+00:00",
+  "generated_at": "2026-11-11T19:09:28.511568+00:00",
   "items": [
+    {
+      "title": "Visa adds Monad to stablecoin settlement options",
+      "summary": "Scott Melker discusses Visa (V) adding Monad as yet another option for settlecoin settlements. Visa already allows settlements on ethereum (ETH-USD), Solana (SOL-USD), and Avalanche (AVAX-USD).\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.\n\n",
+      "pub_date": "2026-11-11T19:00:00Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/visa-adds-monad-stablecoin-settlement-190000310.html"
+    },
+    {
+      "title": "Wall Street hits the night shift thanks to Okxice, and Kraken puts daq in your wallet",
+      "summary": "Scott Melker discusses Okxice's plans for a Nov. 23 launch under an SEC innovation exemption; Kraken (KRAK.PVT) to launch Nasdaq-backed tokenized versions of European stocks; and Goldman Sachs (GS) and Citi (C) among the banks\u00a0committing to stablecoin ventures.\n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.",
+      "pub_date": "2026-11-11T17:00:00Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/wall-street-hits-night-shift-170000622.html"
+    },
+    {
+      "title": "Goldman Sachs, Citi commit millions to stablecoin venture: What to know",
+      "summary": "Goldman Sachs, Citi, and other banks are committing $270 million to a stablecoin venture called \"Project Faro.\" Scott Melker outlines what you need to know.",
+      "pub_date": "2026-11-11T17:58:49Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/goldman-sachs-citi-commit-millions-to-stablecoin-venture-what-to-know-175849941.html"
+    },
+    {
+      "title": "Can Visa's Monad Integration Boost Its Stablecoin Strategy?",
+      "summary": "V expands its stablecoin settlement network with Monad, enhancing blockchain flexibility as settlement volumes surge and institutional adoption gains momentum.",
+      "pub_date": "2026-11-11T17:17:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/visas-monad-integration-boost-stablecoin-171700114.html"
+    },
     {
       "title": "Financial Select Sector SPDR (XLF) Buys $26.7 Million More Berkshire on Nov. 9",
       "summary": "The fund added $202.9 million across all 76 of its positions on Monday, with Berkshire Hathaway and JPMorgan leading the buys.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-11-11T02:14:44Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/markets/stocks/articles/visa-services-grow-over-20-021444751.html"
-    },
-    {
-      "title": "Goldman, Citi Commit $270M to Their Own Stablecoin: Can Tether and Circle Hold On?",
-      "summary": "Goldman, Citi and 19 other firms fund a $270M stablecoin to take on Tether and Circle. Here is what it means for Circle stock.",
-      "pub_date": "2026-11-10T20:19:48Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/goldman-citi-commit-270m-own-201948909.html"
-    },
-    {
-      "title": "Monad Is Now a Settlement Option in Visa\u2019s Stablecoin Program",
-      "summary": "Visa hasn't announced the addition itself, and the Monad Foundation's release doesn't say which stablecoins will settle on the network.",
-      "pub_date": "2026-11-10T19:50:00Z",
-      "source": "Unchained",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/monad-now-settlement-option-visa-195000605.html"
-    },
-    {
-      "title": "US credit card debt hits record $1.29 trillion in third quarter",
-      "summary": "Investing.com -- Credit card balances in the United States rose by $22 billion in the third quarter to reach a record $1.29 trillion, according to the Federal Reserve Bank of New York's household debt report released today. The balances increased 4.2% compared to the same period last year.",
-      "pub_date": "2026-11-10T18:47:38Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/economy/articles/us-credit-card-debt-hits-184738675.html"
-    },
-    {
-      "title": "Bill Ackman\u2019s Best Buy Is Already Up 27%. Is It Too Late to Follow Him?",
-      "summary": "Key TakeawaysFour of the five stocks Bill Ackman\u2019s Pershing Square bought or added to in the second quarter are up since June 30: Mastercard, Visa, S&P Global and Meta Platforms. Netflix is down 11%.",
-      "pub_date": "2026-11-10T17:18:29Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-best-buy-already-171829483.html"
     }
   ]
 }
