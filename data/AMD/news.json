@@ -1,7 +1,14 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-11-12T01:45:39.041940+00:00",
+  "generated_at": "2026-11-12T12:04:10.015793+00:00",
   "items": [
+    {
+      "title": "Why AMD CEO Lisa Su is Yahoo Finance's 'CEO of the Year'",
+      "summary": "AMD CEO Lisa Su won at every stop this year.",
+      "pub_date": "2026-11-12T12:00:00Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/article/why-amd-ceo-lisa-su-is-yahoo-finances-ceo-of-the-year-120000902.html"
+    },
     {
       "title": "Anthropic's Mythos claim may put Nvidia\u2019s CUDA moat in a vulnerable spot",
       "summary": "Yahoo Finance's Deirdre Bosa discusses an Anthropic (ANTH.PVT) claim that its Mythos model got Claude running on AMD (AMD) chips in about three days, raising questions about whether AI can erode the value of Nvidia's (NVDA) CUDA moat.",
@@ -10,53 +17,46 @@
       "url": "https://finance.yahoo.com/video/anthropics-mythos-claim-may-put-nvidias-cuda-moat-in-a-vulnerable-spot-214346380.html"
     },
     {
-      "title": "Dow Jones Futures: Techs Tumble As Nvidia May Oust CEO Huang; AI Stocks Slide, But Not AMD",
-      "summary": "Techs fell as Nvidia dived on news that it may oust CEO Jensen Huang. AMD extended gains. Will that spoil Wednesday's rally?",
-      "pub_date": "2026-11-12T01:36:51Z",
+      "title": "Nvidia's $164 billion AI strategy faces an unexpected threat",
+      "summary": "Investors worry a leadership change could disrupt Nvidia's financial support for AI infrastructure projects and its long-term strategy.",
+      "pub_date": "2026-11-12T11:54:32Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-164-billion-ai-strategy-115432025.html"
+    },
+    {
+      "title": "Dow Jones Futures: Techs Fall As Nvidia Board Mulls Ousting CEO Jensen Huang",
+      "summary": "Techs fell as Nvidia dived on news that it may oust CEO Jensen Huang. AMD extended gains. Will the Nvidia woes sink the new market rally?",
+      "pub_date": "2026-11-12T11:52:38Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coreweave-sandisk-nvidia-amd-nebius-bloom/?src=A00220&yptr=yahoo"
     },
     {
-      "title": "Meet Ian Buck: The NVIDIA Executive Insiders Believe Is the One Man Who Can Replace Jensen Huang",
-      "summary": "Nvidia's board is reportedly preparing to oust Jensen Huang, and the company has never named a successor. Ian Buck, a key architect of CUDA who runs Nvidia's hyperscale business, is the name that keeps coming up: an essay in Time called him a 'hugely strong replacement' with endorsements including Jim Cramer's.",
-      "pub_date": "2026-11-12T01:11:50Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/meet-ian-buck-nvidia-executive-011150144.html"
+      "title": "Nvidia CEO Exit Reports Sends Shockwaves Through AI Chip Stocks --  AMD and Broadcom Stocks Jump",
+      "summary": "Nvidia's Leadership Drama Opens Door for AMD, Broadcom and Google's AI Chips",
+      "pub_date": "2026-11-12T11:51:14Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-exit-reports-sends-115114044.html"
     },
     {
-      "title": "Nvidia Stock Sinks as Jensen Huang Ouster Report Sends Investors Toward AMD, Broadcom",
-      "summary": "Broadcom Inc. (NASDAQ:AVGO) and Advanced Micro Devices Inc. (NASDAQ:AMD) shares each rose more than 3% in extended trading Wednesday as fresh turmoil surrounding Nvidia Corp. (NASDAQ:NVDA) CEO Jensen Huang sent investors toward rival chipmakers. Nvidia moved sharply in the other direction. Its shares fell 8.08% after hours to $159.68, according to Benzinga Pro. \u2022 Broadcom stock is moving in positive territory. Why is AVGO stock advancing? Board Reportedly Preparing to Act Nvidia\u2019s board is prepa",
-      "pub_date": "2026-11-12T00:25:04Z",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-sinks-jensen-huang-002504447.html"
+      "title": "Nvidia, Dell, Super Micro, Sandisk, and More Stocks That Explain Today\u2019s Market",
+      "summary": "Nvidia and other stocks tumble as reports of a leadership crisis at the chip maker dent the AI trade.",
+      "pub_date": "2026-11-12T11:43:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stock-movers-cd2d0ebf?siteid=yhoof2&yptr=yahoo"
     },
     {
-      "title": "Nvidia board meets to decide CEO Huang's future, source says",
-      "summary": "By Alexandra Alper Nov 11 (Reuters) - Nvidia's board is meeting on Wednesday to decide whether to oust CEO Jensen Huang, a source familiar with the matter told Reuters, as the world's dominant",
-      "pub_date": "2026-11-12T00:23:32Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/news/nvidia-preparing-oust-ceo-jensen-223546395.html"
+      "title": "AMD, Broadcom gain after reports say Nvidia board preparing to oust Huang",
+      "summary": "Investing.com -- AMD and Broadcom rallied in Thursday premarket trading after The Wall Street Journal reported that Nvidia\u2019s board is preparing to oust founder and CEO Jensen Huang.",
+      "pub_date": "2026-11-12T11:21:00Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-broadcom-gain-reports-nvidia-112100529.html"
     },
     {
-      "title": "More Bad News for NVIDIA. With Board Planning to Boot Jensen Huang, Sam Altman Reveals Master Plan to Stop Buying Their Chips",
-      "summary": "Nvidia fell 7.9% after hours to $160.03 as the Wall Street Journal reported its board is preparing to oust Jensen Huang. The same day, Sam Altman's remarks to Samsung executives laid out OpenAI's plan: vertically integrated infrastructure cheaper than anyone's, including chips it designs itself, which means paying Nvidia less over time.",
-      "pub_date": "2026-11-12T00:19:31Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/more-bad-news-nvidia-board-001931303.html"
-    },
-    {
-      "title": "Stock Market Today, Nov. 11: Intel Climbs on Broader Chip Rally as AI Infrastructure Demand Lifts Semiconductor Stocks",
-      "summary": "Today, Nov. 11, 2026, Intel shares rallied as CoreWeave's stronger results reinforced AI chip demand across the semiconductor group.",
-      "pub_date": "2026-11-11T23:04:34Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-11-230434786.html"
-    },
-    {
-      "title": "Stock Market Today, Nov. 11: Advanced Micro Devices Jumps -- and Not Only Because of CoreWeave's Results",
-      "summary": "On Nov. 11, 2026, shares climbed as investors weighed fresh signs of AI chip demand and what comes next for server growth.",
-      "pub_date": "2026-11-11T22:52:34Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-11-225234353.html"
+      "title": "AMD's AI Sales Set to Overtake Server CPUs, William Blair Says",
+      "summary": "AMD's valuation multiple now sits near its three-year forward median",
+      "pub_date": "2026-11-12T11:18:34Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amds-ai-sales-set-overtake-111834124.html"
     }
   ]
 }

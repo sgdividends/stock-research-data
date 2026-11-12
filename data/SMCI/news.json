@@ -1,7 +1,35 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-11-12T01:47:18.025317+00:00",
+  "generated_at": "2026-11-12T12:05:37.773925+00:00",
   "items": [
+    {
+      "title": "Nvidia, Dell, Super Micro, Sandisk, and More Stocks That Explain Today\u2019s Market",
+      "summary": "Nvidia and other stocks tumble as reports of a leadership crisis at the chip maker dent the AI trade.",
+      "pub_date": "2026-11-12T11:43:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stock-movers-cd2d0ebf?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "CoreWeave Stock Drops. Why Nvidia AI Contagion Will be Widespread.",
+      "summary": "Shares of companies with ties to the $4 trillion chip maker are dropping as investors wonder what will happen next.",
+      "pub_date": "2026-11-12T11:07:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/coreweave-stock-drops-nvidia-ai-contagion-3b3bbc9b?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Top 3 AI Infrastructure Stocks To Watch In November 2026",
+      "summary": "Global grid expansion jumped 50% last year as utilities rushed to upgrade power networks for electrification and AI data centres. Every new data hall needs high-speed switches, routers and server racks to move all that compute. That is where the companies building AI networking and server hardware come in. This article highlights three stocks from this group that could help you get direct exposure to this critical plumbing of AI. The three stocks below are just a starter set. The full screen...",
+      "pub_date": "2026-11-12T08:11:08Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/top-3-ai-infrastructure-stocks-081108648.html"
+    },
+    {
+      "title": "Jensen Huang\u2019s Future At Nvidia Hangs In Balance As Board Weighs Fallout: Analysts Warn Of Challenges Ahead",
+      "summary": "Nvidia CEO Jensen Huang\u2019s possible departure would have implications well beyond Nvidia\u2019s business.",
+      "pub_date": "2026-11-12T02:43:31Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-future-nvidia-hangs-024331993.html"
+    },
     {
       "title": "Super Micro Computer (SMCI) Unveils H15 Servers As Export Scrutiny Draws Focus",
       "summary": "Super Micro Computer (NasdaqGS:SMCI) launched its new H15 server portfolio built around 6th Gen AMD EPYC processors for AI and cloud workloads. The H15 line is designed to support higher core density and next generation GPUs aimed at advanced AI inference and training use cases. Regulators are scrutinizing reports that Super Micro servers with Nvidia chips were rented to China's Moonshot AI despite export control concerns. The launch of H15 EPYC servers and the Moonshot AI rental scrutiny...",
@@ -29,34 +57,6 @@
       "pub_date": "2026-11-11T16:22:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/articles/vertivs-data-center-growth-fuels-162200912.html"
-    },
-    {
-      "title": "Dell Jumps 11% as AI Server Stocks Rebound From a Rough Month; Super Micro Surges 8%, Hewlett Packard Enterprise Advances 6%",
-      "summary": "After a brutal month that wiped out roughly a third of their value, AI server stocks are snapping back hard. A Texas political threat, a CoreWeave surprise, and two looming earnings reports will decide whether the rebound holds.",
-      "pub_date": "2026-11-11T16:02:31Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/dell-jumps-11-ai-server-160231177.html"
-    },
-    {
-      "title": "Supermicro Begins Shipping New AMD-Powered AI Servers \u2014 Claims Up To 1.8x Higher AI Throughput",
-      "summary": "The company is also expanding its AMD-based rack-scale offerings with the Helios and Helion platforms, though it didn\u2019t disclose shipment volumes, orders, or expected revenue.",
-      "pub_date": "2026-11-11T15:28:19Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/technology/ai/articles/supermicro-begins-shipping-amd-powered-152819794.html"
-    },
-    {
-      "title": "Super Micro Computer: Q1 Earnings Had Plenty to Cheer and Plenty to Worry About",
-      "summary": "Super Micro delivered a blockbuster quarter, but its balance sheet reveals the cost of chasing AI demand.",
-      "pub_date": "2026-11-11T13:24:02Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-q1-earnings-132402586.html"
-    },
-    {
-      "title": "Exclusive-Military-linked Chinese university bought Nvidia H200 chips despite US blacklist, records show",
-      "summary": "BEIJING, Nov 11 (Reuters) - A Chinese university with deep ties to the People's Liberation Army bought Nvidia's powerful H200 AI chips last month despite being on a US export blacklist, procurement records show, highlighting gaps in Washington's efforts to curb China's access to advanced technology. The findings come as Nvidia and its CEO Jensen Huang face mounting scrutiny in Washington over his lobbying for looser restrictions on sales \u200cof AI chips to China, following reports alleging he was",
-      "pub_date": "2026-11-11T08:40:44Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/news/exclusive-pla-linked-chinese-university-051308504.html"
     }
   ]
 }

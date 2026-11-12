@@ -1,7 +1,14 @@
 {
   "ticker": "D",
-  "generated_at": "2026-11-12T01:46:02.503367+00:00",
+  "generated_at": "2026-11-12T12:04:34.860545+00:00",
   "items": [
+    {
+      "title": "ETFs Are Net Sellers of Dominion (D) on Nov. 10",
+      "summary": "ETFs sold a net $27.3 million of Dominion on Tuesday, with 25 funds buying and 13 selling.",
+      "pub_date": "2026-11-12T11:02:47Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-dominion-d-110247142.html"
+    },
     {
       "title": "NextEra Energy (NEE) Draws Fresh Virginia Questions Over Merger Consumer Protections",
       "summary": "NextEra Energy (NYSE:NEE) faces fresh scrutiny as Virginia's Consumer Counsel flags ongoing gaps in the merger case with Dominion Energy. The Consumer Counsel's latest regulatory filing questions the completeness of merger data on competitive effects, rate impacts, and consumer safeguards. Regulators in Virginia are being asked to examine alleged filing errors, unclear market impact assumptions, and the enforceability of promised protections for customers. The Consumer Counsel's criticism of...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-06T19:47:40Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/western-union-yields-13-5-194740503.html"
-    },
-    {
-      "title": "NextEra Energy Vs. AES Corporation: Utility Scale Energy Production Just Got a Major Blue Boost",
-      "summary": "Democrats just took Congress, and clean energy stocks surged. But one utility giant is racing to build batteries for data centers while its rival has already put itself up for sale. Only one of them captured the rally.",
-      "pub_date": "2026-11-06T17:45:45Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/energy/articles/nextera-energy-vs-aes-corporation-174545387.html"
     }
   ]
 }

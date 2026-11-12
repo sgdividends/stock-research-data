@@ -1,7 +1,21 @@
 {
   "ticker": "MA",
-  "generated_at": "2026-11-12T01:46:47.827510+00:00",
+  "generated_at": "2026-11-12T12:05:12.985487+00:00",
   "items": [
+    {
+      "title": "Financial Select Sector SPDR (XLF) Sells $18.9 Million of Berkshire on Nov. 10",
+      "summary": "The fund sold $142.7 million of stock and bought nothing, trimming all 76 of its positions.",
+      "pub_date": "2026-11-12T11:05:46Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/financial-select-sector-spdr-xlf-110546923.html"
+    },
+    {
+      "title": "Bernstein names its top payments stock picks",
+      "summary": "Investing.com -- Bernstein has named its preferred stocks in the payments sector, citing attractive valuations, expanding growth opportunities and the potential for stronger shareholder returns, while downgrading Toast to Market-Perform.",
+      "pub_date": "2026-11-12T08:14:30Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-names-top-payments-stock-081430921.html"
+    },
     {
       "title": "Can Visa's Monad Integration Boost Its Stablecoin Strategy?",
       "summary": "V expands its stablecoin settlement network with Monad, enhancing blockchain flexibility as settlement volumes surge and institutional adoption gains momentum.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-10T23:14:42Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/technology/ai/articles/mastercard-sees-ai-security-driving-231442258.html"
-    },
-    {
-      "title": "US credit card debt hits record $1.29 trillion in third quarter",
-      "summary": "Investing.com -- Credit card balances in the United States rose by $22 billion in the third quarter to reach a record $1.29 trillion, according to the Federal Reserve Bank of New York's household debt report released today. The balances increased 4.2% compared to the same period last year.",
-      "pub_date": "2026-11-10T18:47:38Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/economy/articles/us-credit-card-debt-hits-184738675.html"
-    },
-    {
-      "title": "Bill Ackman\u2019s Best Buy Is Already Up 27%. Is It Too Late to Follow Him?",
-      "summary": "Key TakeawaysFour of the five stocks Bill Ackman\u2019s Pershing Square bought or added to in the second quarter are up since June 30: Mastercard, Visa, S&P Global and Meta Platforms. Netflix is down 11%.",
-      "pub_date": "2026-11-10T17:18:29Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bill-ackman-best-buy-already-171829483.html"
     }
   ]
 }

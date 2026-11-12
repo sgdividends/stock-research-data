@@ -1,7 +1,14 @@
 {
   "ticker": "XYZ",
-  "generated_at": "2026-11-12T01:47:40.481585+00:00",
+  "generated_at": "2026-11-12T12:05:58.204103+00:00",
   "items": [
+    {
+      "title": "Bernstein names its top payments stock picks",
+      "summary": "Investing.com -- Bernstein has named its preferred stocks in the payments sector, citing attractive valuations, expanding growth opportunities and the potential for stronger shareholder returns, while downgrading Toast to Market-Perform.",
+      "pub_date": "2026-11-12T08:14:30Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-names-top-payments-stock-081430921.html"
+    },
     {
       "title": "Jack Dorsey's Block jumps 22 places on the Roundtable 100",
       "summary": "Block stands at No. 23 in the Roundtable 100.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-10T16:15:33Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/barclays-scotiabank-both-raised-block-161533452.html"
-    },
-    {
-      "title": "Block to provide data to FTC",
-      "summary": "The company said it will turn over documents the Federal Trade Commission sought in January in response to a probe of complaints about Square.",
-      "pub_date": "2026-11-10T14:20:00Z",
-      "source": "Payments Dive",
-      "url": "https://finance.yahoo.com/economy/policy/articles/block-data-ftc-142000417.html"
     }
   ]
 }

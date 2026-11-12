@@ -1,7 +1,21 @@
 {
   "ticker": "PYPL",
-  "generated_at": "2026-11-12T01:47:12.241495+00:00",
+  "generated_at": "2026-11-12T12:05:32.455271+00:00",
   "items": [
+    {
+      "title": "Germany raises competition concerns over PayPal surcharging ban",
+      "summary": "According to Bundeskartellamt, PayPal is one of the most widely used online payment methods in Germany.",
+      "pub_date": "2026-11-12T09:50:30Z",
+      "source": "Electronic Payments",
+      "url": "https://finance.yahoo.com/news/germany-raises-competition-concerns-over-095030229.html"
+    },
+    {
+      "title": "Can PYPL Stock Build On Its Recovery? This Analyst Raises Target To $60, Burry Is Also Adding Shares",
+      "summary": "Bernstein analyst Harshita Rawat raised the price target on PayPal to $60 from $55 and maintained a \u2018Market Perform\u2019 rating on the shares.",
+      "pub_date": "2026-11-12T01:46:59Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pypl-stock-build-recovery-analyst-014659119.html"
+    },
     {
       "title": "Michael Burry Re-Enters LULU On Weakness, Boosts Positions In MercadoLibre, PayPal, JD And More",
       "summary": "Burry cited lululemon\u2019s new management\u2019s failure so far to reverse a prolonged \u201cblack hole\u201d in marketing and messaging, which has left the stock overlooked during a low-information stretch.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-11T17:20:41Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-pypl-stock-may-50-172041983.html"
-    },
-    {
-      "title": "Can Visa's Monad Integration Boost Its Stablecoin Strategy?",
-      "summary": "V expands its stablecoin settlement network with Monad, enhancing blockchain flexibility as settlement volumes surge and institutional adoption gains momentum.",
-      "pub_date": "2026-11-11T17:17:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/visas-monad-integration-boost-stablecoin-171700114.html"
-    },
-    {
-      "title": "PayPal in German Regulator's Crosshairs Over Merchant Restrictions on Payment Fees",
-      "summary": "PayPal (PYPL) may be impeding competition among online payment providers, Germany's antitrust watchd",
-      "pub_date": "2026-11-11T10:47:47Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/economy/policy/articles/paypal-german-regulator-apos-crosshairs-104747214.html"
     }
   ]
 }
