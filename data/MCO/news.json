@@ -1,7 +1,14 @@
 {
   "ticker": "MCO",
-  "generated_at": "2026-11-12T12:05:14.443379+00:00",
+  "generated_at": "2026-11-12T22:00:44.235607+00:00",
   "items": [
+    {
+      "title": "One of 3 ratings agencies now has XPO as investment-grade",
+      "summary": "LTL carrier XPO is now an investment-grade credit at one of the three major ratings agencies. Fitch Ratings has upgraded its rating on XPO (NYSE: XPO) to BBB-. That is one notch above the cutoff between investment-grade and non-investment grade debt. It comes just a few months after both Moody\u2019s (NYSE: MCO) and S&P Global [\u2026] The post One of 3 ratings agencies now has XPO as investment-grade appeared first on FreightWaves.",
+      "pub_date": "2026-11-12T13:19:10Z",
+      "source": "FreightWaves",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/one-3-ratings-agencies-now-131910215.html"
+    },
     {
       "title": "Rattled Market Has S&P 500 Stock Assessing Risk \u2014 And Opportunity",
       "summary": "As the S&P 500 index tries to rebound, risk assessment giant Moody's stock monitors a recent breakout attempt.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-10T14:46:50Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/buy-fair-isaac-stock-now-144650154.html"
-    },
-    {
-      "title": "Moody\u2019s Taps Chainlink to Send Credit Ratings Across Multiple Blockchains",
-      "summary": "The testnet pilot used Chainlink\u2019s CCIP to distribute Moody\u2019s ratings simultaneously across permissioned and permissionless blockchains, while preserving the firm\u2019s existing publication and governance processes.",
-      "pub_date": "2026-11-10T14:01:02Z",
-      "source": "decrypt",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/moody-taps-chainlink-send-credit-140102755.html"
     }
   ]
 }

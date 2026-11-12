@@ -1,7 +1,14 @@
 {
   "ticker": "CARR",
-  "generated_at": "2026-11-12T12:04:20.933576+00:00",
+  "generated_at": "2026-11-12T22:00:05.178423+00:00",
   "items": [
+    {
+      "title": "Keeping AI Cool: AAON Rides the AI Heatwave to Record Growth",
+      "summary": "AAON posted a Q3 earnings and revenue beat driven by surging BASX data center cooling sales, raised 2026 sales guidance, but also disclosed a material weakness requiring restated results.",
+      "pub_date": "2026-11-11T20:40:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/technology/ai/articles/keeping-ai-cool-aaon-rides-204000591.html"
+    },
     {
       "title": "Can Comfort Systems' Mechanical Margins Offset Electrical Weakness?",
       "summary": "FIX's Mechanical segment boosts profitability with 43% revenue growth and expanding margins, helping offset Electrical's reported margin decline.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-02T12:10:03Z",
       "source": "Facilities Dive",
       "url": "https://finance.yahoo.com/technology/articles/carrier-leverages-chillers-grow-data-121003870.html"
-    },
-    {
-      "title": "CARR Q3 deep dive: margin pressures and robust backlog reshape outlook",
-      "summary": "Heating, ventilation, air conditioning, and refrigeration company Carrier Global (NYSE:CARR) beat Wall Street\u2019s revenue expectations in Q3 2026, with sales up 12.3% year on year to $6.26 billion. The company\u2019s full-year revenue guidance of $23.9 billion at the midpoint came in 2.4% above analysts\u2019 estimates. Its non-GAAP profit of $0.87 per share was 13.4% above analysts\u2019 consensus estimates.",
-      "pub_date": "2026-10-31T17:07:29Z",
-      "source": "StockStory",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/carr-q3-deep-dive-margin-170729574.html"
     }
   ]
 }

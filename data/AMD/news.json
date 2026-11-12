@@ -1,7 +1,35 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-11-12T12:04:10.015793+00:00",
+  "generated_at": "2026-11-12T21:59:56.455409+00:00",
   "items": [
+    {
+      "title": "AMD, Broadcom stocks jump as Nvidia CEO Jensen Huang resigns",
+      "summary": "Chip giants Broadcom and AMD rose on the back of Nvidia's recent woes. Other AI trade-related names didn't fare as well.",
+      "pub_date": "2026-11-12T13:39:10Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/amd-broadcom-stocks-jump-as-nvidia-ceo-jensen-huang-resigns-143725561.html"
+    },
+    {
+      "title": "AMD CEO Lisa Su on data center backlash: Tech has to sell the vision",
+      "summary": "AMD CEO Lisa Su says tech has to do a better job of selling the data center vision to the public.",
+      "pub_date": "2026-11-12T16:26:04Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/article/amd-ceo-lisa-su-on-data-center-backlash-tech-has-to-sell-the-vision-162604989.html"
+    },
+    {
+      "title": "AMD CEO Dr. Lisa Su reflects on her biggest lessons of 2026",
+      "summary": "CEO of the Year winner, AMD (AMD) chair and CEO Dr. Lisa Su joins Yahoo Finance Executive Editor Brian Sozzi at Yahoo Finance's 2026 Invest conference to reflect on lessons learned in 2026.",
+      "pub_date": "2026-11-12T15:36:56Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/amd-ceo-dr-lisa-su-reflects-on-her-biggest-lessons-of-2026-153656562.html"
+    },
+    {
+      "title": "AMD CEO Dr. Lisa Su continues making the 'right, big bets'",
+      "summary": "CEO of the Year winner, AMD (AMD) chair and CEO Dr. Lisa Su joins Yahoo Finance Executive Editor Brian Sozzi at Yahoo Finance's 2026 Invest conference to discuss what has led to her success over the last 5 years.",
+      "pub_date": "2026-11-12T15:23:05Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/amd-ceo-dr-lisa-su-continues-making-the-right-big-bets-152305265.html"
+    },
     {
       "title": "Why AMD CEO Lisa Su is Yahoo Finance's 'CEO of the Year'",
       "summary": "AMD CEO Lisa Su won at every stop this year.",
@@ -10,53 +38,25 @@
       "url": "https://finance.yahoo.com/technology/article/why-amd-ceo-lisa-su-is-yahoo-finances-ceo-of-the-year-120000902.html"
     },
     {
-      "title": "Anthropic's Mythos claim may put Nvidia\u2019s CUDA moat in a vulnerable spot",
-      "summary": "Yahoo Finance's Deirdre Bosa discusses an Anthropic (ANTH.PVT) claim that its Mythos model got Claude running on AMD (AMD) chips in about three days, raising questions about whether AI can erode the value of Nvidia's (NVDA) CUDA moat.",
-      "pub_date": "2026-11-11T21:43:46Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/anthropics-mythos-claim-may-put-nvidias-cuda-moat-in-a-vulnerable-spot-214346380.html"
+      "title": "The Bank of Nvidia just lost its banker \u2014 here\u2019s where the AI trade is exposed",
+      "summary": "Jensen Huang's resignation puts a spotlight on the deals Nvidia used to fund the AI boom.",
+      "pub_date": "2026-11-12T15:31:42Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/the-bank-of-nvidia-just-lost-its-banker--heres-where-the-ai-trade-is-exposed-215638010.html"
     },
     {
-      "title": "Nvidia's $164 billion AI strategy faces an unexpected threat",
-      "summary": "Investors worry a leadership change could disrupt Nvidia's financial support for AI infrastructure projects and its long-term strategy.",
-      "pub_date": "2026-11-12T11:54:32Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidias-164-billion-ai-strategy-115432025.html"
+      "title": "S&P 500 Recovered $1 Trillion in 90 Minutes Despite Wider Market Crash",
+      "summary": "The S&P 500 erased early losses as $1 trillion returned to US stocks. See the key levels on the path to a record high.",
+      "pub_date": "2026-11-12T21:14:43Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-recovered-1-trillion-211443065.html"
     },
     {
-      "title": "Dow Jones Futures: Techs Fall As Nvidia Board Mulls Ousting CEO Jensen Huang",
-      "summary": "Techs fell as Nvidia dived on news that it may oust CEO Jensen Huang. AMD extended gains. Will the Nvidia woes sink the new market rally?",
-      "pub_date": "2026-11-12T11:52:38Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coreweave-sandisk-nvidia-amd-nebius-bloom/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Nvidia CEO Exit Reports Sends Shockwaves Through AI Chip Stocks --  AMD and Broadcom Stocks Jump",
-      "summary": "Nvidia's Leadership Drama Opens Door for AMD, Broadcom and Google's AI Chips",
-      "pub_date": "2026-11-12T11:51:14Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-exit-reports-sends-115114044.html"
-    },
-    {
-      "title": "Nvidia, Dell, Super Micro, Sandisk, and More Stocks That Explain Today\u2019s Market",
-      "summary": "Nvidia and other stocks tumble as reports of a leadership crisis at the chip maker dent the AI trade.",
-      "pub_date": "2026-11-12T11:43:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-cd2d0ebf?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "AMD, Broadcom gain after reports say Nvidia board preparing to oust Huang",
-      "summary": "Investing.com -- AMD and Broadcom rallied in Thursday premarket trading after The Wall Street Journal reported that Nvidia\u2019s board is preparing to oust founder and CEO Jensen Huang.",
-      "pub_date": "2026-11-12T11:21:00Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-broadcom-gain-reports-nvidia-112100529.html"
-    },
-    {
-      "title": "AMD's AI Sales Set to Overtake Server CPUs, William Blair Says",
-      "summary": "AMD's valuation multiple now sits near its three-year forward median",
-      "pub_date": "2026-11-12T11:18:34Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amds-ai-sales-set-overtake-111834124.html"
+      "title": "Chip Stocks Finish Lower as Industry Digests Jensen Huang Exit",
+      "summary": "Chip stocks bounced around today in reaction to the sudden exit of Nvidia CEO Jensen Huang, but as the trading day wound down, the tone grew more negative.",
+      "pub_date": "2026-11-12T21:11:03Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-12-2026/card/chip-stocks-down-as-industry-digests-jensen-huang-exit-Lq6UDhwOoZUotX38oTUL?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

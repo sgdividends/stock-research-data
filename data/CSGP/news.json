@@ -1,7 +1,14 @@
 {
   "ticker": "CSGP",
-  "generated_at": "2026-11-12T12:04:32.225127+00:00",
+  "generated_at": "2026-11-12T22:00:13.305790+00:00",
   "items": [
+    {
+      "title": "US hotels saw 11% RevPAR uptick in September, highest increase since 2023: CoStar",
+      "summary": "Hotels benefited from healthy leisure demand, favorable calendar holiday shifts and a rebound in corporate group demand during the month, per an analyst.",
+      "pub_date": "2026-11-12T14:58:21Z",
+      "source": "Hotel Dive",
+      "url": "https://finance.yahoo.com/real-estate/articles/us-hotels-saw-11-revpar-145821470.html"
+    },
     {
       "title": "CoStar: 3 Key Takeaways for Long-Term Investors",
       "summary": "Margin expansion and a $730M acquisition in aerial imagery position CoStar to accelerate subscription growth, but sales productivity remains the wildcard.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-10-30T16:12:53Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/costar-group-csgp-stock-fair-161253614.html"
-    },
-    {
-      "title": "CoStar Group (CSGP) Agrees To Acquire Vexcel Group",
-      "summary": "CoStar Group (NasdaqGS: CSGP) agreed to acquire Vexcel Group, adding high resolution aerial imagery to its real estate data platform. The transaction is structured to feed tens of billions of additional data fields per property into CoStar's AI driven analytics tools. Vexcel's aerial and street level imagery is expected to support richer property search, valuation and risk assessment capabilities across CoStar's products. The move to buy Vexcel Group reshapes how CoStar sources and...",
-      "pub_date": "2026-10-30T09:17:19Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/real-estate/articles/costar-group-csgp-agrees-acquire-091719742.html"
     }
   ]
 }

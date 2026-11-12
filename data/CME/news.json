@@ -1,7 +1,28 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-11-12T12:04:26.931399+00:00",
+  "generated_at": "2026-11-12T22:00:09.215573+00:00",
   "items": [
+    {
+      "title": "BC-Lumber Futures",
+      "summary": "NEW YORK (AP) \u2014 Prices as of 4:05:00 PM Thursday, November 12.Contract Open High Low Last Change Today's Volume Wednesday's Volume  Nov 26 495.",
+      "pub_date": "2026-11-12T15:30:14Z",
+      "source": "Associated Press",
+      "url": "https://finance.yahoo.com/news/bc-lumber-futures-153014621.html"
+    },
+    {
+      "title": "Silver prices today, Thursday, November 12, 2026: Silver holds at open as markets prep for another Fed rate increase",
+      "summary": "Silver futures opened at $51.64 per ounce on Thursday, November 12, 2026, up 0.2% from Wednesday's close. Silver prices fell in early trading, reaching $50.98 as of 7:22 a.m. ET.",
+      "pub_date": "2026-11-12T12:33:31Z",
+      "source": "Yahoo Personal Finance",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-november-12-2026-silver-holds-at-open-as-markets-prep-for-another-fed-rate-increase-123331268.html"
+    },
+    {
+      "title": "Gold prices today, Thursday, November 12, 2026: Prices open back under $4,000 as rate hikes crystallize",
+      "summary": "Gold futures opened at $3,994 per troy ounce on Thursday, November 12, 2026, down 1.2% from Wednesday's open. The price of gold fell further this morning to $3,951.70 as of 6:57 a.m. ET.",
+      "pub_date": "2026-11-12T12:19:13Z",
+      "source": "Yahoo Personal Finance",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-november-12-2026-prices-open-back-under-4000-as-rate-hikes-crystallize-121913089.html"
+    },
     {
       "title": "Dollar climbs as traders raise December Fed hike bets",
       "summary": "By Chibuike Oguh NEW YORK, Nov 11 (Reuters) - The dollar strengthened against major currencies on Wednesday, buoyed by growing expectations that the Federal Reserve will raise interest rates after hot",
@@ -36,27 +57,6 @@
       "pub_date": "2026-11-11T15:30:16Z",
       "source": "Associated Press",
       "url": "https://finance.yahoo.com/markets/commodities/articles/bc-lumber-futures-153016208.html"
-    },
-    {
-      "title": "Gold price today, Wednesday, November 11, 2026: Gold prices fall back as inflation concerns broaden",
-      "summary": "Gold futures opened at $4,043.70 per troy ounce on Wednesday, November 11, 2026, down 2.5% from Tuesday's open. Gold prices are gaining a little ground this morning, rising to $4,055.20 at 7:02 a.m. ET.",
-      "pub_date": "2026-11-11T12:11:48Z",
-      "source": "Yahoo Personal Finance",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-november-11-2026-gold-prices-fall-back-as-inflation-concerns-broaden-121148323.html"
-    },
-    {
-      "title": "U.S. Inflation Makes Further Fed Rate Rise in December Inevitable",
-      "summary": "U.S. inflation remains too high for the Federal Reserve, making an interest-rate hike at the December FOMC meeting virtually inevitable, Julius Baer Chief Economist David Kohl said in a note.",
-      "pub_date": "2026-11-11T11:57:51Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-111126/card/u-s-inflation-makes-further-fed-rate-rise-in-december-inevitable-mnbdGVbpOlUrG7nKjBTd?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Wall St ends lower as hot inflation data, Fed comments heighten rate worries",
-      "summary": "By Chuck Mikolajczak and Niket Nishant NEW YORK, Nov 10 (Reuters) - US stocks closed lower on Tuesday, as a hotter-than-expected inflation reading hardened expectations for a rate hike from the",
-      "pub_date": "2026-11-10T21:26:31Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-dow-futures-climb-102635174.html"
     }
   ]
 }

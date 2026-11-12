@@ -1,7 +1,42 @@
 {
   "ticker": "GPN",
-  "generated_at": "2026-11-12T12:04:55.420586+00:00",
+  "generated_at": "2026-11-12T22:00:29.053637+00:00",
   "items": [
+    {
+      "title": "Global Payments Sinks 12% as CD&R and GTCR Walk Away From Buyout Talks",
+      "summary": "Key TakeawaysGlobal Payments fell 12% today after Reuters reported that CD&R and GTCR dropped early-stage talks to take it private. The drop is about the same size as the stock\u2019s 11% jump on Oct.",
+      "pub_date": "2026-11-12T21:05:58Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/global-payments-sinks-12-cd-210558807.html"
+    },
+    {
+      "title": "This Fintech Is Getting Clobbered. Buyouts Are Tough These Days.",
+      "summary": "Shares of Global Payments were down more than 10% after the report that two private equity firms had abandoned the plan.",
+      "pub_date": "2026-11-12T19:30:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/global-payments-stock-fintech-take-private-bid-a83a757c?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "GPN Stock On Track For Its Worst Day In About 19 Months As Private Equity Firms Reportedly Abandon Takeover Talks",
+      "summary": "Reports of a potential take-private bid first surfaced in late October 2026, briefly lifting the shares.",
+      "pub_date": "2026-11-12T19:18:26Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gpn-stock-track-worst-day-191826785.html"
+    },
+    {
+      "title": "Global Payments falls 9% as CD&R, GTCR abandon takeover talks",
+      "summary": "Investing.com -- Global Payments shares fell 9% on Thursday and were halted under a volatility breaker after private equity firms Clayton, Dubilier & Rice (CD&R) and GTCR abandoned discussions about a potential acquisition of the payments processor, Reuters reported, citing two people familiar with the matter.",
+      "pub_date": "2026-11-12T17:42:16Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/global-payments-falls-9-cd-174216727.html"
+    },
+    {
+      "title": "Are Wall Street Analysts Bullish on Global Payments Stock?",
+      "summary": "While Global Payments has outperformed the broader market over the past year, Wall Street analysts maintain a cautiously optimistic outlook about the stock\u2019s prospects.",
+      "pub_date": "2026-11-12T09:26:21Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-global-092621783.html"
+    },
     {
       "title": "Visa (V) Ties Monad Stablecoin Settlement Move To New Fraud API Rollout",
       "summary": "Visa (NYSE: V) has added the Monad blockchain to its stablecoin settlement program as a new multi-chain option. Global Payments is integrating Visa's IDX API into its Adaptive Authentication service to support identity and fraud checks for clients. Both moves signal Visa's push to expand blockchain-based settlement tools and strengthen digital transaction security for payment partners. Visa's Monad stablecoin expansion and IDX integration with Global Payments matter, but they are only part...",
@@ -22,41 +57,6 @@
       "pub_date": "2026-11-10T13:11:30Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dates-matter-most-visa-stock-131130517.html"
-    },
-    {
-      "title": "Global Payments Bets on AI and Visa to Win More Transactions",
-      "summary": "GPN expands its AI-powered authentication platform with Visa's IDX API to boost payment approvals, cut false declines and drive merchant growth.",
-      "pub_date": "2026-11-10T12:40:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/global-payments-bets-ai-visa-124000569.html"
-    },
-    {
-      "title": "Global Payments adds Visa IDX API to Adaptive Authentication",
-      "summary": "The payments technology company said the integration is intended to help merchants share more transaction data with card issuers.",
-      "pub_date": "2026-11-10T12:25:00Z",
-      "source": "Electronic Payments",
-      "url": "https://finance.yahoo.com/technology/articles/global-payments-adds-visa-idx-122500384.html"
-    },
-    {
-      "title": "Fiserv Soars 26% in a Week on a $1 Billion Savings Plan: Buybacks Return \u201cEarlier Than Anticipated\u201d",
-      "summary": "Key TakeawaysFiserv shares jumped 26% in the week through Nov. 6 after its third-quarter report.",
-      "pub_date": "2026-11-09T19:37:51Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fiserv-soars-26-week-1-193751904.html"
-    },
-    {
-      "title": "Global Payments faces industry pricing pressure",
-      "summary": "While analysts point to an increasingly competitive environment for the processor, the company is still trying to raise prices.",
-      "pub_date": "2026-11-09T15:59:00Z",
-      "source": "Payments Dive",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/global-payments-faces-industry-pricing-155900269.html"
-    },
-    {
-      "title": "Michael Burry Is Betting a Buyer Will Pay Up to $120 a Share for Fiserv",
-      "summary": "Michael Burry says a buyer could pay $100 to $120 a share for Fiserv. For a 68-year-old who bought 1,000 shares at $120 in 2023 and now holds $62,880, the top of that range is break-even. Here is what Burry's range, Wall Street's $61 target and the tax loss on a sale each mean in dollars, and the case for selling half.",
-      "pub_date": "2026-11-08T21:17:00Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burry-betting-buyer-pay-211700086.html"
     }
   ]
 }

@@ -1,7 +1,21 @@
 {
   "ticker": "CDNS",
-  "generated_at": "2026-11-12T12:04:23.622646+00:00",
+  "generated_at": "2026-11-12T22:00:07.196475+00:00",
   "items": [
+    {
+      "title": "Can AI-Driven EDA Accelerate Synopsys' Next Growth Phase?",
+      "summary": "SNPS is advancing AI-powered chip design and verification, expanding EDA capabilities and integrating Ansys as rising demand supports its next growth phase.",
+      "pub_date": "2026-11-12T14:13:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-driven-eda-accelerate-synopsys-141300180.html"
+    },
+    {
+      "title": "Implied Volatility Surging for Cadence Stock Options",
+      "summary": "Investors need to pay close attention to CDNS stock based on the movements in the options market lately.",
+      "pub_date": "2026-11-12T13:09:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/options/articles/implied-volatility-surging-cadence-stock-130900542.html"
+    },
     {
       "title": "What Is Cadence Design Systems (CDNS) Showing With Its New Edge AI Subsystem?",
       "summary": "Cadence Design Systems (NasdaqGS:CDNS) and Expedera announced a joint edge AI subsystem integration using Cadence's Tensilica NeuroEdge 130 AI Co-Processor and Expedera's Origin Evolution NPU IP. The partners are showcasing pre-silicon simulation of workload distribution and execution for edge inference use cases. The collaboration is aimed at power efficient AI inference in edge devices where performance and energy use are tightly constrained. This new Cadence and Expedera AI subsystem demo...",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-11T17:14:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-synopsys-stock-171400426.html"
-    },
-    {
-      "title": "What Gave Agilysys Stock Its Edge Over Cadence?",
-      "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "pub_date": "2026-11-11T15:39:15Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/gave-agilysys-stock-edge-over-153915805.html"
-    },
-    {
-      "title": "Synopsys Is Silently Building a Picks-and-Shovels Moat in The Global AI Chip Buildout",
-      "summary": "Whichever chipmaker wins the AI race, its designs pass through the same software gatekeepers. One of them just slipped 9.81% in a month, carries $10 billion in debt, and faces an export-control wildcard. Is the dip a warning or an opening?",
-      "pub_date": "2026-11-11T13:45:15Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/synopsys-silently-building-picks-shovels-134515995.html"
     }
   ]
 }

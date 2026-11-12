@@ -1,11 +1,53 @@
 {
   "ticker": "BE",
-  "generated_at": "2026-11-12T12:04:16.934189+00:00",
+  "generated_at": "2026-11-12T22:00:01.353268+00:00",
   "items": [
     {
-      "title": "Dow Jones Futures: Techs Fall As Nvidia Board Mulls Ousting CEO Jensen Huang",
-      "summary": "Techs fell as Nvidia dived on news that it may oust CEO Jensen Huang. AMD extended gains. Will the Nvidia woes sink the new market rally?",
-      "pub_date": "2026-11-12T11:52:38Z",
+      "title": "Micron, Other Memory Chip Stocks Fall on Nvidia Shakeup. Why They\u2019re at Risk.",
+      "summary": "Shares of Micron, SK Hynix, and Sandisk were all down.",
+      "pub_date": "2026-11-12T18:16:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/micron-memory-chip-stocks-nvidia-shakeup-adf6b711?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "What Sent Bloom Energy Stock Higher On Wednesday?",
+      "summary": "For questions about this article or underlying research, email help@trefis.com.",
+      "pub_date": "2026-11-12T17:21:21Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sent-bloom-energy-stock-higher-172121667.html"
+    },
+    {
+      "title": "Bloom Energy Has Found an Unexpected Customer: AI",
+      "summary": "Bloom Energy built fuel cells for hospitals and retailers, then AI hyperscalers walked in and changed everything. A record quarter still sparked a brutal selloff, leaving investors to weigh gigawatt orders against cash burn and a wild ride ahead.",
+      "pub_date": "2026-11-12T16:03:26Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-found-unexpected-customer-160326883.html"
+    },
+    {
+      "title": "These Energy Stocks Can\u2019t Escape Nvidia\u2019s Wake",
+      "summary": "Any hiccup in the AI buildout will also slow the growth of power demand needed to energize data centers.",
+      "pub_date": "2026-11-12T15:40:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/nvidia-jensen-huang-ai-energy-stocks-bloom-solaris-coreweave-ed1e46d7?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Talen Energy's 750-MW Capacity Deal Boosts Long-Term Revenue Outlook",
+      "summary": "TLN's seven-year, 750-MW capacity deal promises $100M in annual revenues, boosting earnings visibility and supporting long-term cash flow stability.",
+      "pub_date": "2026-11-12T15:22:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/energy/articles/talen-energys-750-mw-capacity-152200955.html"
+    },
+    {
+      "title": "What Changed For Bloom Energy Stock, And What Did Not?",
+      "summary": "For questions about this article or underlying research, email help@trefis.com.",
+      "pub_date": "2026-11-12T13:26:20Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/changed-bloom-energy-stock-did-132620907.html"
+    },
+    {
+      "title": "Dow Jones Futures Fall, Techs Tumble As Nvidia Board Mulls Ousting CEO Jensen Huang; CoreWeave Rival Nebius Dives On Results",
+      "summary": "Futures fell as Nvidia dived on news that the board may oust CEO Huang. CoreWeave rival Nebius beat views but sold off.",
+      "pub_date": "2026-11-12T13:19:57Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coreweave-sandisk-nvidia-amd-nebius-bloom/?src=A00220&yptr=yahoo"
     },
@@ -15,48 +57,6 @@
       "pub_date": "2026-11-12T01:38:02Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-clocked-best-single-day-013802230.html"
-    },
-    {
-      "title": "What\u2019s Propelling Bloom Energy\u2019s (BE) 13% Run?",
-      "summary": "Bloom Energy Corp. (NYSE:BE) is one of the AI Stocks Dominating List of Biggest Winners. Bloom Energy saw its share price increase by 12.99 percent on Wednesday to close at $209.5 apiece, as investor sentiment was bolstered by one of its customers\u2019 strong earnings performance in the third quarter of the year, helping allay fears [\u2026]",
-      "pub_date": "2026-11-11T23:22:01Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/propelling-bloom-energy-13-run-232201092.html"
-    },
-    {
-      "title": "Bloom Energy Just Jumped 13% After CoreWeave Calmed AI Data Center Fears. History Says What Usually Comes Next for a Stock That Halved",
-      "summary": "Bloom Energy jumped 13% on Wednesday after CoreWeave's results eased fears about AI data center spending, adding about $7 billion of market value. The stock is still 39% below its June record and in its third halving since the 2018 IPO. Here is what its own history says about days like this, and what the move did to a retiree holding 1,000 shares bought at $9 in 2024.",
-      "pub_date": "2026-11-11T23:07:13Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bloom-energy-just-jumped-13-230713604.html"
-    },
-    {
-      "title": "Bloom Energy stock surges as CoreWeave earnings spur rally in power stocks",
-      "summary": "Bloom Energy rode the wave of positive sentiment following CoreWeave's stellar earnings report.",
-      "pub_date": "2026-11-11T18:53:58Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/article/bloom-energy-stock-surges-as-coreweave-earnings-spur-rally-in-power-stocks-185358201.html"
-    },
-    {
-      "title": "Here's Why Bloom Energy Stock Popped Today",
-      "summary": "Reports of the death of data centers were greatly exaggerated.",
-      "pub_date": "2026-11-11T16:52:52Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-bloom-energy-stock-165252291.html"
-    },
-    {
-      "title": "FuelCell Energy Advances AI Data Center Power With New Testbed",
-      "summary": "FCEL advances its AI data center strategy with a new testbed to assess integrated fuel cell power systems for reliability and flexibility.",
-      "pub_date": "2026-11-11T16:00:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/energy/articles/fuelcell-energy-advances-ai-data-160000000.html"
-    },
-    {
-      "title": "CoreWeave Boosts AI Trade. Bloom Energy, Other Power Stocks Are Big Winners.",
-      "summary": "The cloud computing company\u2019s earnings have reignited AI stocks\u2014some more than others.",
-      "pub_date": "2026-11-11T14:37:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/coreweave-ai-bloom-energy-stock-power-addbb638?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "EW",
-  "generated_at": "2026-11-12T12:04:44.085935+00:00",
+  "generated_at": "2026-11-12T22:00:22.153674+00:00",
   "items": [
+    {
+      "title": "Boston Scientific Bets on WATCHMAN Growth Despite Market Slowdown",
+      "summary": "BSX bets on WATCHMAN growth through clinical trials and physician outreach, even as slowing demand and rising competition cloud its outlook.",
+      "pub_date": "2026-11-12T16:21:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/healthcare/articles/boston-scientific-bets-watchman-growth-162100939.html"
+    },
     {
       "title": "Edwards Lifesciences Q3 Earnings Call Highlights",
       "summary": "Edwards Lifesciences (NYSE:EW) raised its 2026 sales and earnings guidance after third-quarter results exceeded management\u2019s expectations, with growth across its heart-valve businesses and regions. The medical device maker reported sales of $1.72 billion, up 11.2% from a year earlier, and adjusted",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-05T16:02:26Z",
       "source": "MedTech Dive",
       "url": "https://finance.yahoo.com/healthcare/articles/edwards-bumps-sales-forecast-tavr-160226537.html"
-    },
-    {
-      "title": "Edwards Lifesciences (EW) Trial Data Points To Earlier TAVR Use In Moderate Aortic Stenosis",
-      "summary": "Edwards Lifesciences (NYSE:EW) reported new PROGRESS Trial data showing transcatheter aortic valve replacement outperformed active surveillance in moderate aortic stenosis. The trial linked TAVR use in moderate aortic stenosis with fewer combined outcomes of death or heart failure events in at-risk patients. Researchers also reported fewer heart failure hospitalizations and better quality of life measures for TAVR patients compared with those under surveillance. The PROGRESS Trial findings...",
-      "pub_date": "2026-11-05T13:13:58Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/healthcare/articles/edwards-lifesciences-ew-trial-data-131358891.html"
     }
   ]
 }

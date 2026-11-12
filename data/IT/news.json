@@ -1,7 +1,14 @@
 {
   "ticker": "IT",
-  "generated_at": "2026-11-12T12:05:04.680878+00:00",
+  "generated_at": "2026-11-12T22:00:35.601648+00:00",
   "items": [
+    {
+      "title": "Super Micro Slides 7% Despite Gartner\u2019s $957 Billion AI Server Forecast; Dell Falls 4%, Hewlett Packard Enterprise Dips",
+      "summary": "Gartner just pointed to a near trillion dollar AI server market, yet Wall Street is selling the very companies that build the machines. A sudden shake-up at the top of the chip world explains why, and one server maker looks far more exposed than its rivals.",
+      "pub_date": "2026-11-12T16:02:50Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/super-micro-slides-7-despite-160250995.html"
+    },
     {
       "title": "AI-Optimized Server Spending To Reach Nearly $957B In 2027, Says Gartner \u2014 Global AI Spending To Cross $4T",
       "summary": "Gartner expects AI infrastructure to account for 59% of global AI spending next year, driven by expanding computing workloads and rising server prices.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-09T09:12:41Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/gartner-maps-2027-ai-trends-091241581.html"
-    },
-    {
-      "title": "Why Barclays Cut Gartner (IT) Despite a 27% Rally in Its Shares",
-      "summary": "We just published a list of the 10 High-Profile Stocks Just Dumped by Top Analysts and Gartner (NYSE:IT) ranked 6th on this list. Wall Street had one of its roughest sessions of the year this week. The Nasdaq Composite fell 5.52% on November 5, its deepest one-day drop in 19 months, Reuters reported that day. [\u2026]",
-      "pub_date": "2026-11-08T20:24:03Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-barclays-cut-gartner-despite-202403354.html"
     }
   ]
 }
