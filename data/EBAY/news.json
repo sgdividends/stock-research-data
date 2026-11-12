@@ -1,7 +1,14 @@
 {
   "ticker": "EBAY",
-  "generated_at": "2026-11-11T19:08:24.495177+00:00",
+  "generated_at": "2026-11-12T01:46:09.951138+00:00",
   "items": [
+    {
+      "title": "Why Nike\u2019s CEO Comeback Isn\u2019t Working",
+      "summary": "Nike\u2019s new CEO undid almost every bad decision his predecessor made. And they still got kicked out of the S&amp;P 100.",
+      "pub_date": "2026-11-11T19:32:48Z",
+      "source": "The Hustle",
+      "url": "https://finance.yahoo.com/video/why-nike-ceo-comeback-isn-193248185.html"
+    },
     {
       "title": "eBay makes major AI change for millions of online sellers",
       "summary": "The new feature turns product photos into ready-to-review listings, reducing the work required to sell items online.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-11T01:34:50Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/did-market-read-ebay-stock-013450320.html"
-    },
-    {
-      "title": "DraftKings downgraded, AMD upgraded: Wall Street's top analyst calls",
-      "summary": "DraftKings downgraded, AMD upgraded: Wall Street's top analyst calls",
-      "pub_date": "2026-11-09T14:35:30Z",
-      "source": "The Fly",
-      "url": "https://finance.yahoo.com/news/netflix-resumed-starbucks-downgraded-wall-133343741.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "DAL",
-  "generated_at": "2026-11-11T19:08:18.368232+00:00",
+  "generated_at": "2026-11-12T01:46:02.847684+00:00",
   "items": [
+    {
+      "title": "Sector Update: Consumer Stocks Mixed Late Afternoon",
+      "summary": "Consumer stocks were mixed late Wednesday afternoon, with the State Street Consumer Staples Select S",
+      "pub_date": "2026-11-11T20:40:26Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-mixed-afternoon-204026005.html"
+    },
     {
       "title": "Sector Update: Consumer Stocks Decline Wednesday Afternoon",
       "summary": "Consumer stocks were lower Wednesday afternoon, with the State Street Consumer Staples Select Sector",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-09T23:18:53Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/delta-air-lines-dal-stock-231853806.html"
-    },
-    {
-      "title": "Delta Air Lines Stocks Rise 4.68% as Oil Retreats Toward $87",
-      "summary": "Crude extended last week's slide, offering relief to an airline facing a $6 billion jump in annual fuel costs.",
-      "pub_date": "2026-11-09T19:03:40Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/delta-air-lines-stocks-rise-190340880.html"
     }
   ]
 }

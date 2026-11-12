@@ -1,7 +1,14 @@
 {
   "ticker": "BX",
-  "generated_at": "2026-11-11T19:08:08.134417+00:00",
+  "generated_at": "2026-11-12T01:45:49.217675+00:00",
   "items": [
+    {
+      "title": "Pfizer Signs $1.5 Billion Deal With Blackstone to Fund Weight-Loss-Drug Development",
+      "summary": "The investment is set to cover development costs for berobenatide, an investigational drug being studied for chronic weight management and obesity-related conditions.",
+      "pub_date": "2026-11-11T22:00:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/health/pharma/pfizer-signs-1-5-billion-deal-with-blackstone-to-fund-weight-loss-drug-development-b6b08b5d?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Blackstone Aims to Raise $3 Billion for Real Estate Secondaries",
       "summary": "Blackstone Inc. is pitching a fund that will snap up stakes in other asset managers\u2019 real estate vehicles, expecting to raise at least $3 billion amid a prolonged need for liquidity in the sector.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-09T17:29:46Z",
       "source": "CRE Daily",
       "url": "https://finance.yahoo.com/real-estate/articles/blackstone-real-estate-turns-leaders-172946975.html"
-    },
-    {
-      "title": "Nvidia Gets the Spotlight, but This AI Stock Could Steal the Show in 2027",
-      "summary": "While Nvidia hogs the headlines, Broadcom quietly builds the custom chips that let OpenAI and Google bypass the GPU. The stock has stumbled this year, yet one 2027 setup could flip that story fast. What would it take?",
-      "pub_date": "2026-11-09T16:33:58Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-gets-spotlight-ai-stock-163358092.html"
     }
   ]
 }

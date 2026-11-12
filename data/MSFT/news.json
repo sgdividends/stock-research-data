@@ -1,7 +1,14 @@
 {
   "ticker": "MSFT",
-  "generated_at": "2026-11-11T19:08:58.357494+00:00",
+  "generated_at": "2026-11-12T01:46:55.545332+00:00",
   "items": [
+    {
+      "title": "Is the AI boom hiding a jobs crisis for graduates?",
+      "summary": "Entrepreneur, bestselling author, and former presidential candidate Andrew Yang and former Salesforce AI CEO Clara Shih join Yahoo Finance's Deirdre Bosa to examine the challenging job market facing recent college graduates. They discuss whether the massive AI infrastructure boom is masking broader labor market weakness and what the rise of artificial intelligence could mean for the next generation of workers.",
+      "pub_date": "2026-11-11T21:45:03Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/is-the-ai-boom-hiding-a-jobs-crisis-for-graduates-214503208.html"
+    },
     {
       "title": "Anthropic's new Claude tools put software stocks on notice",
       "summary": "Yahoo Finance Executive Editor Brian Sozzi breaks down Anthropic's (ANTH.PVT) new Claude project tools that may impact software companies Monday.com (MNDY), Zoom (ZM), and Asana (ASAN).",
@@ -10,53 +17,46 @@
       "url": "https://finance.yahoo.com/video/anthropics-new-claude-tools-put-software-stocks-on-notice-151339178.html"
     },
     {
-      "title": "Billionaire venture capitalist Vinod Khosla says judge AI by usage, not stock prices",
-      "summary": "Vinod Khosla, the billionaire Sun Microsystems co-founder and early OpenAI backer, says usage is the number to watch, not the stock market's mood swings.",
-      "pub_date": "2026-11-11T19:02:30Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/billionaire-venture-capitalist-vinod-khosla-says-judge-ai-by-usage-not-stock-prices-190230250.html"
+      "title": "Market Chatter: Microsoft Wants to Power Data Centers Without Subsidies or Higher Costs for Others",
+      "summary": "Microsoft (MSFT) aims to find ways to power its data centers without relying on government subsidies",
+      "pub_date": "2026-11-12T00:08:18Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/technology/articles/market-chatter-microsoft-wants-power-000818359.html"
     },
     {
-      "title": "Stock Market Today: Nasdaq Soars On AI Rally, But This Major Tech Icon Gets Left Out (Live Coverage)",
-      "summary": "The Nasdaq composite led the stock market with a nearly 3% romp as CoreWeave's bullish earnings report revived the artificial intelligence trade.",
-      "pub_date": "2026-11-11T18:41:01Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-coreweave-earnings-crwv-nvidia-stock-nvda/?src=A00220&yptr=yahoo"
+      "title": "Fusion's Next Race Is Over Superconducting Tape, Not Plasma",
+      "summary": "Proxima Fusion signed deals with Japan's Fujikura and Kyoto Fusioneering to build a European fusion supply chain, starting with superconducting tape.",
+      "pub_date": "2026-11-11T23:00:00Z",
+      "source": "Oilprice.com",
+      "url": "https://finance.yahoo.com/energy/articles/fusions-next-race-over-superconducting-230000192.html"
     },
     {
-      "title": "OpenAI may be falling behind Anthropic based on these two factors",
-      "summary": "Host Kevin Kelly, Kelly Intelligence Founder, CEO, and CCO, and his panel of experts compare Anthropic (ANTH.PVT) and OpenAI (OPAI.PVT) based on run rate and leadership, and determine which has a brighter future. Today's panel includes EP Wealth Advisors Managing Director of Investments Adam Phillips, Zacks Investment Management Chief Market Strategist Brian Mulberry, and ProShares Global Investment Strategist Simeon Hyman.",
-      "pub_date": "2026-11-11T18:10:38Z",
+      "title": "Stock Market Today, Nov. 11: IREN Rises as AI Cloud Peers Rally on CoreWeave Results",
+      "summary": "Trading volume ran well above its three-month average as the AI data center operator rode a sector rally, today, Nov. 11, 2026.",
+      "pub_date": "2026-11-11T22:25:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-11-222501628.html"
+    },
+    {
+      "title": "A day after Anthropic\u2019s office push, Databricks jumps in with AI agents that never sleep",
+      "summary": "The $190 billion AI startup's new tool, which operates in the background and shadows the user's daily workday, comes on the heels of Anthropic's renewed push for corporate users.",
+      "pub_date": "2026-11-11T22:07:04Z",
+      "source": "Fortune",
+      "url": "https://finance.yahoo.com/technology/ai/articles/day-anthropic-office-push-databricks-220704968.html"
+    },
+    {
+      "title": "Stocks Slide as AI Trade Roars Back | Closing Bell",
+      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Vonnie Quinn, Carol Massar and Tim Stenovec.",
+      "pub_date": "2026-11-11T22:04:43Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/video/stocks-slide-ai-trade-roars-220443238.html"
+    },
+    {
+      "title": "Anthropic's Mythos claim may put Nvidia\u2019s CUDA moat in a vulnerable spot",
+      "summary": "Yahoo Finance's Deirdre Bosa discusses an Anthropic (ANTH.PVT) claim that its Mythos model got Claude running on AMD (AMD) chips in about three days, raising questions about whether AI can erode the value of Nvidia's (NVDA) CUDA moat.",
+      "pub_date": "2026-11-11T21:43:46Z",
       "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/openai-may-be-falling-behind-anthropic-based-on-these-two-factors-181038162.html"
-    },
-    {
-      "title": "Nebius earnings preview: what to watch when Q3 results hit Thursday",
-      "summary": "Investing.com -- Nebius Group NV (NBIS) reports Q3 before the market opens Thursday, Nov 12, 2026. The stock is trading at $159.10 (+18.73%) as of Nov 11, 12:34 PM EST, with a market cap of about $36.7B. It is still down 28% over 1 month and sits well below its $299.86 52-week high.",
-      "pub_date": "2026-11-11T18:08:33Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-earnings-preview-watch-q3-180833951.html"
-    },
-    {
-      "title": "Nebius Stock Dropped 30% in a Week. Is It Time to Sell or Load Up?",
-      "summary": "Key TakeawaysNebius Group (NBIS) stock plunged approximately 30% from October 29 to November 5, closing at $120. 37 before rebounding sharply ahead of earnings.",
-      "pub_date": "2026-11-11T18:05:08Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-stock-dropped-30-week-180508608.html"
-    },
-    {
-      "title": "Is Take-Two Still The Business You Bought?",
-      "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "pub_date": "2026-11-11T17:54:04Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/two-still-business-bought-175404204.html"
-    },
-    {
-      "title": "This Number Tells Me The Microsoft Data Center Selloff Is Excessive, Prompting Me to Buy",
-      "summary": "Wall Street sees Microsoft's data center spending as a cash bonfire, and the stock keeps sliding. One overlooked figure on the balance sheet changes how that spending looks, and it explains why one investor keeps buying every dip.",
-      "pub_date": "2026-11-11T17:45:26Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/number-tells-microsoft-data-center-174526103.html"
+      "url": "https://finance.yahoo.com/video/anthropics-mythos-claim-may-put-nvidias-cuda-moat-in-a-vulnerable-spot-214346380.html"
     }
   ]
 }

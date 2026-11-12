@@ -1,62 +1,62 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-11-11T19:08:00.281263+00:00",
+  "generated_at": "2026-11-12T01:45:39.041940+00:00",
   "items": [
     {
-      "title": "Goldman Sachs calls chip stocks 'oversold.' Here are the names it says to buy.",
-      "summary": "Goldman has found some stocks to buy from within the AI rubble.",
-      "pub_date": "2026-11-10T16:53:14Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/goldman-sachs-calls-chip-stocks-oversold-here-are-the-names-it-says-to-buy-165654250.html"
+      "title": "Anthropic's Mythos claim may put Nvidia\u2019s CUDA moat in a vulnerable spot",
+      "summary": "Yahoo Finance's Deirdre Bosa discusses an Anthropic (ANTH.PVT) claim that its Mythos model got Claude running on AMD (AMD) chips in about three days, raising questions about whether AI can erode the value of Nvidia's (NVDA) CUDA moat.",
+      "pub_date": "2026-11-11T21:43:46Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/anthropics-mythos-claim-may-put-nvidias-cuda-moat-in-a-vulnerable-spot-214346380.html"
     },
     {
-      "title": "Nvidia, AMD and Broadcom Lead AI Stock Rally as CoreWeave Results Ease Spending Fears",
-      "summary": "CoreWeave delivers a blockbuster quarter. why memory and chip stocks are moving higher.",
-      "pub_date": "2026-11-11T18:37:08Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-amd-broadcom-lead-ai-183708900.html"
+      "title": "Dow Jones Futures: Techs Tumble As Nvidia May Oust CEO Huang; AI Stocks Slide, But Not AMD",
+      "summary": "Techs fell as Nvidia dived on news that it may oust CEO Jensen Huang. AMD extended gains. Will that spoil Wednesday's rally?",
+      "pub_date": "2026-11-12T01:36:51Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-coreweave-sandisk-nvidia-amd-nebius-bloom/?src=A00220&yptr=yahoo"
     },
     {
-      "title": "Super Micro Computer (SMCI) Unveils H15 Servers As Export Scrutiny Draws Focus",
-      "summary": "Super Micro Computer (NasdaqGS:SMCI) launched its new H15 server portfolio built around 6th Gen AMD EPYC processors for AI and cloud workloads. The H15 line is designed to support higher core density and next generation GPUs aimed at advanced AI inference and training use cases. Regulators are scrutinizing reports that Super Micro servers with Nvidia chips were rented to China's Moonshot AI despite export control concerns. The launch of H15 EPYC servers and the Moonshot AI rental scrutiny...",
-      "pub_date": "2026-11-11T18:14:19Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/super-micro-computer-smci-unveils-181419192.html"
-    },
-    {
-      "title": "BofA Raised Its Earnings Estimates but Cut Its Target on AMD (AMD), Here\u2019s Why",
-      "summary": "We just published a list of the Analysts Just Slashed Their Price Targets on These 10 Stocks and Advanced Micro Devices (NASDAQ:AMD) ranked 8th on this list. Wall Street had its worst day in 19 months last Thursday, with chip stocks leading the selloff. The Nasdaq Composite fell 5.52% to 24,315.00, its biggest one-day drop [\u2026]",
-      "pub_date": "2026-11-11T18:02:02Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-raised-earnings-estimates-cut-180202870.html"
-    },
-    {
-      "title": "What\u2019s Moving Markets Today?",
-      "summary": "Tech shares are on the up and up, thanks to strong earnings late yesterday from CoreWeave.",
-      "pub_date": "2026-11-11T17:55:12Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-11-2026/card/what-s-moving-markets-today--j5jTjRGVG9kIfe0DTobA?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Why Advanced Micro Devices Stock Popped Today",
-      "summary": "It's more than just CoreWeave's earnings beat that's lifting AMD stock today.",
-      "pub_date": "2026-11-11T17:54:22Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-advanced-micro-devices-stock-175422041.html"
-    },
-    {
-      "title": "Nvidia Vs. AMD: No, Neither is Getting Choked Out By Congress Come January",
-      "summary": "Record AI quarters have NVIDIA and AMD staring down a Congress eager to police where advanced chips can go. One of them already wrote China out of its forecast, and the other still has more to lose than its growth curve suggests.",
-      "pub_date": "2026-11-11T17:45:08Z",
+      "title": "Meet Ian Buck: The NVIDIA Executive Insiders Believe Is the One Man Who Can Replace Jensen Huang",
+      "summary": "Nvidia's board is reportedly preparing to oust Jensen Huang, and the company has never named a successor. Ian Buck, a key architect of CUDA who runs Nvidia's hyperscale business, is the name that keeps coming up: an essay in Time called him a 'hugely strong replacement' with endorsements including Jim Cramer's.",
+      "pub_date": "2026-11-12T01:11:50Z",
       "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/articles/nvidia-vs-amd-no-neither-174508871.html"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/meet-ian-buck-nvidia-executive-011150144.html"
     },
     {
-      "title": "Why Is Dell Technologies (DELL) Talking Up 157 PB Storage And AI Racks?",
-      "summary": "Dell Technologies (NYSE:DELL) and KIOXIA introduced an industry first 157 PB single rack object storage solution for data heavy workloads. Dell OEM Solutions also launched the AMD Instinct Coder 355 platform, powered by Dell PowerEdge servers, for turnkey AI coding infrastructure. Both products target enterprise clients seeking higher density storage and scalable AI compute inside existing data center footprints. The 157 PB rack and AMD Instinct Coder 355 launch matter, but investors need a...",
-      "pub_date": "2026-11-11T17:15:57Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/why-dell-technologies-dell-talking-171557642.html"
+      "title": "Nvidia Stock Sinks as Jensen Huang Ouster Report Sends Investors Toward AMD, Broadcom",
+      "summary": "Broadcom Inc. (NASDAQ:AVGO) and Advanced Micro Devices Inc. (NASDAQ:AMD) shares each rose more than 3% in extended trading Wednesday as fresh turmoil surrounding Nvidia Corp. (NASDAQ:NVDA) CEO Jensen Huang sent investors toward rival chipmakers. Nvidia moved sharply in the other direction. Its shares fell 8.08% after hours to $159.68, according to Benzinga Pro. \u2022 Broadcom stock is moving in positive territory. Why is AVGO stock advancing? Board Reportedly Preparing to Act Nvidia\u2019s board is prepa",
+      "pub_date": "2026-11-12T00:25:04Z",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-sinks-jensen-huang-002504447.html"
+    },
+    {
+      "title": "Nvidia board meets to decide CEO Huang's future, source says",
+      "summary": "By Alexandra Alper Nov 11 (Reuters) - Nvidia's board is meeting on Wednesday to decide whether to oust CEO Jensen Huang, a source familiar with the matter told Reuters, as the world's dominant",
+      "pub_date": "2026-11-12T00:23:32Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/nvidia-preparing-oust-ceo-jensen-223546395.html"
+    },
+    {
+      "title": "More Bad News for NVIDIA. With Board Planning to Boot Jensen Huang, Sam Altman Reveals Master Plan to Stop Buying Their Chips",
+      "summary": "Nvidia fell 7.9% after hours to $160.03 as the Wall Street Journal reported its board is preparing to oust Jensen Huang. The same day, Sam Altman's remarks to Samsung executives laid out OpenAI's plan: vertically integrated infrastructure cheaper than anyone's, including chips it designs itself, which means paying Nvidia less over time.",
+      "pub_date": "2026-11-12T00:19:31Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/more-bad-news-nvidia-board-001931303.html"
+    },
+    {
+      "title": "Stock Market Today, Nov. 11: Intel Climbs on Broader Chip Rally as AI Infrastructure Demand Lifts Semiconductor Stocks",
+      "summary": "Today, Nov. 11, 2026, Intel shares rallied as CoreWeave's stronger results reinforced AI chip demand across the semiconductor group.",
+      "pub_date": "2026-11-11T23:04:34Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-11-230434786.html"
+    },
+    {
+      "title": "Stock Market Today, Nov. 11: Advanced Micro Devices Jumps -- and Not Only Because of CoreWeave's Results",
+      "summary": "On Nov. 11, 2026, shares climbed as investors weighed fresh signs of AI chip demand and what comes next for server growth.",
+      "pub_date": "2026-11-11T22:52:34Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-11-225234353.html"
     }
   ]
 }

@@ -1,7 +1,21 @@
 {
   "ticker": "META",
-  "generated_at": "2026-11-11T19:08:55.606313+00:00",
+  "generated_at": "2026-11-12T01:46:51.290051+00:00",
   "items": [
+    {
+      "title": "Bots don't fly here: United Airlines restricts AI agents from booking flights",
+      "summary": "AI agents just got denied boarding at United Airlines.",
+      "pub_date": "2026-11-11T20:39:43Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/bots-dont-fly-here-united-airlines-restricts-ai-agents-from-booking-flights-203943442.html"
+    },
+    {
+      "title": "How does Meta solve Muse's monetization problem?",
+      "summary": "Host Kevin Kelly, Kelly Intelligence Founder, CEO, and CCO, and his panel of experts weigh in on how Meta's (META) Muse will make money after Amazon (AMZN) refused to let it buy goods on its site.Today's panel includes EP Wealth Advisors Managing Director of Investments Adam Phillips, Zacks Investment Management Chief Market Strategist Brian Mulberry, and ProShares Global Investment Strategist Simeon Hyman.",
+      "pub_date": "2026-11-11T19:14:52Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/how-does-meta-solve-muses-monetization-problem-191452841.html"
+    },
     {
       "title": "Billionaire venture capitalist Vinod Khosla says judge AI by usage, not stock prices",
       "summary": "Vinod Khosla, the billionaire Sun Microsystems co-founder and early OpenAI backer, says usage is the number to watch, not the stock market's mood swings.",
@@ -10,53 +24,39 @@
       "url": "https://finance.yahoo.com/markets/article/billionaire-venture-capitalist-vinod-khosla-says-judge-ai-by-usage-not-stock-prices-190230250.html"
     },
     {
-      "title": "Airbnb and Travel Stocks Fall as OpenAI Acquisition Raises New AI Threat",
-      "summary": "OpenAI\u2019s acquisition of Odessia raises fresh concerns about artificial-intelligence disruption.",
-      "pub_date": "2026-11-11T18:01:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/airbnb-stock-openai-travel-odessia-6c8a589b?siteid=yhoof2&yptr=yahoo"
+      "title": "Applied Digital (APLD) Could Be 71% Undervalued After CoreWeave Lifted AI Sentiment",
+      "summary": "Applied Digital (APLD) jumped after CoreWeave reported strong AI hardware demand, raised its revenue outlook and showed pricing power, which lifted sentiment toward data center and AI infrastructure peers. Applied Digital\u2019s sharp 1-day share price return of 7.4% sits against a tougher backdrop, with the 30-day move down 23% and the year-to-date share price return down 36%, even though the 3-year total shareholder return is very large at over 3x. Recent headlines, from financing plans for the...",
+      "pub_date": "2026-11-12T01:11:56Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-digital-apld-could-71-011156493.html"
     },
     {
-      "title": "Nvidia Vs. AMD: No, Neither is Getting Choked Out By Congress Come January",
-      "summary": "Record AI quarters have NVIDIA and AMD staring down a Congress eager to police where advanced chips can go. One of them already wrote China out of its forecast, and the other still has more to lose than its growth curve suggests.",
-      "pub_date": "2026-11-11T17:45:08Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/articles/nvidia-vs-amd-no-neither-174508871.html"
+      "title": "How Investors May Respond To Shopify (SHOP) Mixed Earnings And AI Push",
+      "summary": "Shopify reported third quarter 2026 revenue of US$3.74b and net income of US$462m, issued guidance for low 30% revenue growth in the fourth quarter, and filed an omnibus shelf registration covering equity, debt, warrants and units. The quarter highlighted Shopify\u2019s heavier tilt toward merchant solutions and AI driven commerce tools, including a partnership with Meta\u2019s Muse agent that ties Shop Pay more directly to transaction volume on major social platforms. We will look at how Shopify's...",
+      "pub_date": "2026-11-12T01:10:10Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-shopify-shop-011010918.html"
     },
     {
-      "title": "Google and Meta fight new rule that could change online news",
-      "summary": "The bill would require digital platforms to compensate news publishers for displaying content links and introduce rules covering AI.",
-      "pub_date": "2026-11-11T17:35:28Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/articles/google-meta-fight-rule-could-173528327.html"
+      "title": "Meta Platforms (META) Braces For EU Rules With 6% Revenue Penalty Risk",
+      "summary": "Meta Platforms (NasdaqGS:META) faces new EU rules that target addictive social media features and simulated AI relationships, with potential fines of up to 6% of global revenue for violations. Draft EU regulation would require Meta products to offer users clear options to disable engagement tools that keep them scrolling for longer. The same EU package aims to limit AI systems that mimic personal intimacy, which could affect how Meta deploys conversational agents across its apps. The EU...",
+      "pub_date": "2026-11-11T23:17:20Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-platforms-meta-braces-eu-231720243.html"
     },
     {
-      "title": "AI Bots Do the Shopping and Fraudsters Do the Stealing. Riskified Steps In.",
-      "summary": "AI agentic shopping is bringing more risk to e-commerce merchants. Riskified has a plan to combat that risk.",
-      "pub_date": "2026-11-11T17:11:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/ai-bots-do-the-shopping-and-fraudsters-do-the-stealing-riskified-steps-in-e48872b9?siteid=yhoof2&yptr=yahoo"
+      "title": "Hugging Face co-founder says AI hacks show even the biggest labs haven't figured out AI alignment",
+      "summary": "Hugging Face cofounder Thomas Wolf says AI alignment is a key issue the company is focusing on following OpenAI hack.",
+      "pub_date": "2026-11-11T22:00:00Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/article/hugging-face-co-founder-says-ai-hacks-show-even-the-biggest-labs-havent-figured-out-ai-alignment-220000796.html"
     },
     {
-      "title": "Meta infrastructure chief Santosh Janardhan to step down in early 2027 - Bloomberg",
-      "summary": "Investing.com -- Meta Platforms Inc's (NASDAQ:META) longtime infrastructure chief and engineering co-head Santosh Janardhan will step down in early 2027, marking a pivotal executive transition as the social media giant accelerates its massive artificial intelligence buildout. According to an internal memo obtained by Bloomberg News, Janardhan plans to hand operational leadership of the division to Dave Brown, a former Amazon Web Services executive who joined Meta earlier this year.",
-      "pub_date": "2026-11-11T16:56:30Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/meta-infrastructure-chief-santosh-janardhan-165630956.html"
-    },
-    {
-      "title": "CoreWeave\u2019s Rise Takes Super Micro Along for the Ride, Sending Stock Higher",
-      "summary": "The artificial intelligence server company also announced it was shipping some new products.",
-      "pub_date": "2026-11-11T16:51:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/coreweave-super-micro-stock-higher-570a7632?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Many AI companies will adopt advertising: Criteo CEO",
-      "summary": "Many AI platforms will end up eventually adopting advertising, the chief executive of the online advertising agency Criteo told AFP Tuesday, as investors are focused on whether the technology will ever be profitable.\"I believe that a lot of AI platforms will find their way to advertising models over time,\" said the group's chief executive Michael Komasinski on the sidelines of the Web Summit in Lisbon.",
-      "pub_date": "2026-11-11T16:25:58Z",
-      "source": "AFP",
-      "url": "https://finance.yahoo.com/media-advertising/articles/many-ai-companies-adopt-advertising-022443967.html"
+      "title": "Meta Stock Slips After United Airlines Announces AI-Bot Ban",
+      "summary": "Meta Platforms stock edged 2% lower after The Wall Street Journal reported that United Airlines plans to prevent personal artificial-intelligence assistants from accessing its systems to book tickets.",
+      "pub_date": "2026-11-11T21:36:42Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-11-2026/card/meta-stock-edges-lower-after-united-airlines-announces-ai-bot-ban-2n0rApNJXJ0CjimyeJfw?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "V",
-  "generated_at": "2026-11-11T19:09:28.511568+00:00",
+  "generated_at": "2026-11-12T01:47:32.124095+00:00",
   "items": [
     {
       "title": "Visa adds Monad to stablecoin settlement options",
@@ -15,6 +15,13 @@
       "pub_date": "2026-11-11T17:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/wall-street-hits-night-shift-170000622.html"
+    },
+    {
+      "title": "Visa (V) Ties Monad Stablecoin Settlement Move To New Fraud API Rollout",
+      "summary": "Visa (NYSE: V) has added the Monad blockchain to its stablecoin settlement program as a new multi-chain option. Global Payments is integrating Visa's IDX API into its Adaptive Authentication service to support identity and fraud checks for clients. Both moves signal Visa's push to expand blockchain-based settlement tools and strengthen digital transaction security for payment partners. Visa's Monad stablecoin expansion and IDX integration with Global Payments matter, but they are only part...",
+      "pub_date": "2026-11-11T21:16:00Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/visa-v-ties-monad-stablecoin-211600627.html"
     },
     {
       "title": "Goldman Sachs, Citi commit millions to stablecoin venture: What to know",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-11T06:14:43Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/markets/stocks/articles/fiserv-ceo-sees-clearer-results-061443090.html"
-    },
-    {
-      "title": "Visa\u2019s Services Grow Over 20% as Company Pushes Beyond Payments",
-      "summary": "Visa (NYSE:V) is expanding its value-added services business through faster product development, broader payment and banking capabilities, and increased investment in security, according to Andrew Torre, the company\u2019s president of value-added services. Torre said Visa launched more than 350 product",
-      "pub_date": "2026-11-11T02:14:44Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/visa-services-grow-over-20-021444751.html"
     }
   ]
 }
