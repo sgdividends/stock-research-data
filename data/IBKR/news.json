@@ -1,7 +1,14 @@
 {
   "ticker": "IBKR",
-  "generated_at": "2026-11-13T15:51:32.206980+00:00",
+  "generated_at": "2026-11-13T21:46:29.544185+00:00",
   "items": [
+    {
+      "title": "Coinbase Strengthens Crypto Custody With National Trust Launch",
+      "summary": "Coinbase strengthens institutional crypto custody with its National Trust Company launch, aiming to bridge digital assets and traditional finance.",
+      "pub_date": "2026-11-13T17:20:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-strengthens-crypto-custody-national-172000778.html"
+    },
     {
       "title": "Anthropic IPO Access: Growth Opportunity for Interactive Brokers?",
       "summary": "IBKR's move to offer U.K. investors access to Anthropic's IPO could boost client growth, trading activity and its global brokerage presence.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-12T22:11:41Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/does-anthropic-ipo-access-change-221141252.html"
-    },
-    {
-      "title": "Robinhood's Margin Balances Reach $23B: Tailwind for Interest Income?",
-      "summary": "HOOD's margin balances surge 39% to $23B in October 2026, boosting prospects for recurring interest income despite rate pressures and trading volatility.",
-      "pub_date": "2026-11-12T15:24:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/robinhoods-margin-balances-reach-23b-152400771.html"
     }
   ]
 }

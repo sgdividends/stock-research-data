@@ -1,7 +1,14 @@
 {
   "ticker": "HII",
-  "generated_at": "2026-11-13T15:51:29.328195+00:00",
+  "generated_at": "2026-11-13T21:46:26.019648+00:00",
   "items": [
+    {
+      "title": "Fortune 500 Power Moves: Which executives gained and lost power this month so far",
+      "summary": "See which Fortune 500 companies are making changes to their C-suite ranks.",
+      "pub_date": "2026-11-13T18:00:00Z",
+      "source": "Fortune",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fortune-500-power-moves-executives-180000645.html"
+    },
     {
       "title": "Amazon Joins Goldman Sachs\u2019 Conviction List Alongside 4 Other Stock Picks",
       "summary": "Goldman Sachs just overhauled its Conviction List with five new additions, and the upside targets on some of these picks will raise eyebrows. One hyperscaler alone carries a 51% potential gain, but it is far from the biggest number on the list.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-10-30T16:11:29Z",
       "source": "StockStory",
       "url": "https://finance.yahoo.com/markets/stocks/articles/1-profitable-stock-watchlist-2-161129735.html"
-    },
-    {
-      "title": "Textron Soars 12% on Earnings Beat and Raised Outlook as MV-75 Funding Comes Through, \u201cMitigating the Risks\u201d",
-      "summary": "Key TakeawaysTextron jumped 12% after adjusted EPS of $1. 76 beat the $1.",
-      "pub_date": "2026-10-30T13:09:22Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/textron-soars-12-earnings-beat-130922703.html"
     }
   ]
 }
