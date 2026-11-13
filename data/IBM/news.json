@@ -1,7 +1,21 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-11-13T04:38:11.616068+00:00",
+  "generated_at": "2026-11-13T15:51:32.228493+00:00",
   "items": [
+    {
+      "title": "Better Dividend Stock for Retirees: IBM vs. ADP",
+      "summary": "Key TakeawaysADP raised its quarterly dividend 12% on Nov. 11, its 52nd consecutive year of increases, while IBM declared its regular $1.",
+      "pub_date": "2026-11-13T14:23:23Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/better-dividend-stock-retirees-ibm-142323601.html"
+    },
+    {
+      "title": "Microsoft (MSFT) Unveiled An Enterprise AI Agent Platform",
+      "summary": "Microsoft (NasdaqGS:MSFT) and IBM launched the Imagine Enterprise AI agent platform for sector specific deployments in regulated industries. The Imagine Enterprise platform is designed to embed governance, security and compliance controls directly into enterprise AI agent workflows. A recent global Microsoft outage disrupted Outlook, Teams, Microsoft 365, Copilot and the Microsoft Store for more than 130,000 users. The Imagine Enterprise launch and the large scale outage highlight how...",
+      "pub_date": "2026-11-13T05:15:28Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-unveiled-enterprise-ai-051528313.html"
+    },
     {
       "title": "Should You Buy HubSpot Stock For Its Cash?",
       "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-12T15:54:28Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/technology/ai/articles/accentures-next-big-thing-already-155428681.html"
-    },
-    {
-      "title": "Was The Run In Dell Stock Hiding In Plain Sight?",
-      "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "pub_date": "2026-11-12T14:19:34Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/run-dell-stock-hiding-plain-141934998.html"
-    },
-    {
-      "title": "Can IonQ's Latest Carahsoft Deal Accelerate Federal Quantum Adoption?",
-      "summary": "IONQ's Carahsoft partnership aims to expand federal access to quantum computing, networking, sensing and security as government commitment to quantum innovation grows.",
-      "pub_date": "2026-11-12T11:11:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ionqs-latest-carahsoft-deal-accelerate-111100359.html"
     }
   ]
 }

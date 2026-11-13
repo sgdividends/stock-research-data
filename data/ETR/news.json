@@ -1,7 +1,14 @@
 {
   "ticker": "ETR",
-  "generated_at": "2026-11-13T04:37:54.342594+00:00",
+  "generated_at": "2026-11-13T15:51:18.836022+00:00",
   "items": [
+    {
+      "title": "ETFs Are Net Sellers of Entergy (ETR) on Nov. 11",
+      "summary": "Entergy (ETR) drew $15.6 million in net ETF selling on Wednesday, with 25 funds buying and 14 selling.",
+      "pub_date": "2026-11-13T11:02:42Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-entergy-etr-110242034.html"
+    },
     {
       "title": "These Energy Stocks Can\u2019t Escape Nvidia\u2019s Wake",
       "summary": "Any hiccup in the AI buildout will also slow the growth of power demand needed to energize data centers.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-10T12:10:26Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/entergy-etr-priced-beyond-dividend-121026447.html"
-    },
-    {
-      "title": "The AI Power Grab That Could Upend America's Electricity Industry",
-      "summary": "AI data centers are building their own power infrastructure, potentially adding 30\u201350 GW of behind-the-meter generation within five years, largely using natural gas turbines.",
-      "pub_date": "2026-11-09T18:00:00Z",
-      "source": "Oilprice.com",
-      "url": "https://finance.yahoo.com/energy/articles/ai-power-grab-could-upend-180000495.html"
     }
   ]
 }

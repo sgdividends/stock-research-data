@@ -1,7 +1,14 @@
 {
   "ticker": "NTAP",
-  "generated_at": "2026-11-13T04:38:35.990933+00:00",
+  "generated_at": "2026-11-13T15:51:48.958468+00:00",
   "items": [
+    {
+      "title": "Learn Why The Bull Case For NetApp (NTAP) Could Change Following Novus Adoption",
+      "summary": "Nebul announced that it is the first neocloud provider to adopt NetApp Novus, a high performance ONTAP based architecture designed to keep millions of GPUs productive in sovereign AI cloud environments. The Novus rollout connects NetApp\u2019s existing ONTAP data estates directly to sovereign platforms, which can simplify data governance and security for enterprises scaling AI workloads. This article will examine how NetApp's investment narrative evolves as Nebul adopts Novus to support large...",
+      "pub_date": "2026-11-13T08:15:40Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-netapp-081540881.html"
+    },
     {
       "title": "Why the Market Dipped But NetApp (NTAP) Gained Today",
       "summary": "NetApp (NTAP) concluded the recent trading session at $186.34, signifying a +1.76% move from its prior day's close.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-10T14:36:25Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/changed-owning-sandisk-stock-143625311.html"
-    },
-    {
-      "title": "Is Western Digital Emerging as a Big Winner in the AI Storage Boom?",
-      "summary": "WDC is capitalizing on AI-driven storage demand, with surging cloud revenue, higher-capacity HDD adoption and strong fiscal 2027 growth prospects.",
-      "pub_date": "2026-11-09T12:16:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/western-digital-emerging-big-winner-121600337.html"
     }
   ]
 }

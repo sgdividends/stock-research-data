@@ -1,27 +1,41 @@
 {
   "ticker": "CME",
-  "generated_at": "2026-11-13T04:37:35.773358+00:00",
+  "generated_at": "2026-11-13T15:51:07.059777+00:00",
   "items": [
+    {
+      "title": "BC-Lumber Futures",
+      "summary": "NEW YORK (AP) \u2014 Prices as of 10:30:00 AM Friday, November 13.Contract Open High Low Last Change Today's Volume Thursday's Volume  Nov 26 488.",
+      "pub_date": "2026-11-13T15:30:15Z",
+      "source": "Associated Press",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/bc-lumber-futures-153015612.html"
+    },
+    {
+      "title": "Silver price today, Friday, November 13, 2026: Silver opens down 3%, slides further",
+      "summary": "Silver futures opened at $50.01 per ounce on Friday, November 13, 2026, down 3.2% from Thursday's open. Silver is moving down this morning, reaching $49.60 as of 9:28 a.m. ET.",
+      "pub_date": "2026-11-13T14:35:36Z",
+      "source": "Yahoo Personal Finance",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-friday-november-13-2026-silver-opens-down-3-slides-further-143536840.html"
+    },
+    {
+      "title": "Wall St set to open higher after soft producer prices",
+      "summary": "By Niket Nishant and Utkarsh Hathi Nov 13 (Reuters) - The main US stock indexes were on course for a higher open on Friday after data showed October producer prices were slightly softer than expected,",
+      "pub_date": "2026-11-13T14:03:24Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-dip-nvidia-tumult-103901600.html"
+    },
+    {
+      "title": "How Much Downside Is Left In Coinbase Stock Now?",
+      "summary": "For questions about this article or underlying research, email help@trefis.com.",
+      "pub_date": "2026-11-13T12:12:51Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/much-downside-left-coinbase-stock-121251029.html"
+    },
     {
       "title": "BC-Lumber Futures",
       "summary": "NEW YORK (AP) \u2014 Prices as of 4:05:00 PM Thursday, November 12.Contract Open High Low Last Change Today's Volume Wednesday's Volume  Nov 26 495.",
       "pub_date": "2026-11-12T15:30:14Z",
       "source": "Associated Press",
       "url": "https://finance.yahoo.com/news/bc-lumber-futures-153014621.html"
-    },
-    {
-      "title": "Silver prices today, Thursday, November 12, 2026: Silver holds at open as markets prep for another Fed rate increase",
-      "summary": "Silver futures opened at $51.64 per ounce on Thursday, November 12, 2026, up 0.2% from Wednesday's close. Silver prices fell in early trading, reaching $50.98 as of 7:22 a.m. ET.",
-      "pub_date": "2026-11-12T12:33:31Z",
-      "source": "Yahoo Personal Finance",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-november-12-2026-silver-holds-at-open-as-markets-prep-for-another-fed-rate-increase-123331268.html"
-    },
-    {
-      "title": "Gold prices today, Thursday, November 12, 2026: Prices open back under $4,000 as rate hikes crystallize",
-      "summary": "Gold futures opened at $3,994 per troy ounce on Thursday, November 12, 2026, down 1.2% from Wednesday's open. The price of gold fell further this morning to $3,951.70 as of 6:57 a.m. ET.",
-      "pub_date": "2026-11-12T12:19:13Z",
-      "source": "Yahoo Personal Finance",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-november-12-2026-prices-open-back-under-4000-as-rate-hikes-crystallize-121913089.html"
     },
     {
       "title": "Dollar climbs as traders raise December Fed hike bets",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-11T18:48:08Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-advance-wednesday-184808367.html"
-    },
-    {
-      "title": "Government Shutdown, Continued Oil Price Drop Could Prevent December Fed Rate Hike, Macquarie Says",
-      "summary": "A potential US government shutdown and a further decline in oil prices are among the factors that co",
-      "pub_date": "2026-11-11T18:21:53Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/economy/policy/articles/government-shutdown-continued-oil-price-182153985.html"
-    },
-    {
-      "title": "BC-Lumber Futures",
-      "summary": "NEW YORK (AP) \u2014 Prices as of 4:05:00 PM Wednesday, November 11.Contract Open High Low Last Change Today's Volume Tuesday's Volume  Nov 26 512.",
-      "pub_date": "2026-11-11T15:30:16Z",
-      "source": "Associated Press",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/bc-lumber-futures-153016208.html"
     }
   ]
 }
