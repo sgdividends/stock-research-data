@@ -1,7 +1,14 @@
 {
   "ticker": "FDS",
-  "generated_at": "2026-11-12T22:00:23.877466+00:00",
+  "generated_at": "2026-11-13T04:37:57.522488+00:00",
   "items": [
+    {
+      "title": "Cisco Systems Raises Outlook On Soaring Revenue, Profit",
+      "summary": "The company posted a first-quarter profit of $4.55 billion, driven by high demand in the agentic artificial-intelligence market.",
+      "pub_date": "2026-11-12T21:50:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/earnings/cisco-systems-raises-outlook-on-soaring-revenue-profit-7efeabd0?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Cerebras Lifts Outlook as Cloud Revenue Surges in Third Quarter",
       "summary": "The company now expects core revenue of between $940 million and $960 million for the year on continued demand for its cloud services, even as direct sales of its artificial-intelligence chips fell.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-11T17:15:54Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-shares-jump-q3-revenue-171554001.html"
-    },
-    {
-      "title": "FactSet's Medium-Term Targets Largely in Line at Investor Day, Morgan Stanley Says",
-      "summary": "FactSet Research Systems' (FDS) medium-term financial framework outlined at its Investor Day in New",
-      "pub_date": "2026-11-11T15:52:33Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/ai/articles/factset-apos-medium-term-targets-155233162.html"
     }
   ]
 }

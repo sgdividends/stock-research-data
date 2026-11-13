@@ -1,7 +1,14 @@
 {
   "ticker": "MSCI",
-  "generated_at": "2026-11-12T22:00:46.370655+00:00",
+  "generated_at": "2026-11-13T04:38:31.513391+00:00",
   "items": [
+    {
+      "title": "Europe\u2019s largest asset manager doubles down on MicroStrategy amid MSCI setback",
+      "summary": "Europe\u2019s largest asset manager boosted MicroStrategy stake.",
+      "pub_date": "2026-11-12T22:25:25Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/europe-largest-asset-manager-doubles-222525371.html"
+    },
     {
       "title": "Strategy Made $19.5 Billion in Profit. So Why Is MSCI Removing It From Stock Indexes?",
       "summary": "Michael Saylor\u2019s Bitcoin giant is being excluded from major investment benchmarks, raising questions about what qualifies as a business\u2014and whether the decision could slow its Bitcoin buying.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-12T13:54:53Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/strategy-drops-6-msci-confirms-135453310.html"
-    },
-    {
-      "title": "Strategy to Leave MSCI Indexes By Month End, Metaplanet Also Out",
-      "summary": "Strategy and Metaplanet, both flagged by MSCI\u2019s non-operating company screen, drop out of its indexes at the Nov. 30 close, and Strategy is the only one of 24 USA Index deletions not moving down to small cap.",
-      "pub_date": "2026-11-12T11:45:09Z",
-      "source": "Unchained",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/strategy-leave-msci-indexes-month-114509257.html"
     }
   ]
 }
