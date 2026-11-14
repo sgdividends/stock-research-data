@@ -1,7 +1,28 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-11-13T21:45:59.863363+00:00",
+  "generated_at": "2026-11-14T04:32:11.023958+00:00",
   "items": [
+    {
+      "title": "US Fintech Weekly: Coinbase Secures Federal Trust Charter, While Hot CPI Pressures Rate-Sensitive Lenders",
+      "summary": "Hotter-than-expected October inflation data weighed on consumer lending equities during the week ending November 13, 2026.",
+      "pub_date": "2026-11-14T01:33:35Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-fintech-weekly-coinbase-secures-013335853.html"
+    },
+    {
+      "title": "What Could 5,000 XRP, 5,000 Cardano and 5,000 Stellar Be Worth by 2028?",
+      "summary": "One of these three coins could multiply a $5,000 stake several times over by 2028, while another could shrink it by nearly half. Supply growth, stalled ETF money, and a few quiet platform changes decide which one wins.",
+      "pub_date": "2026-11-14T00:22:33Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/could-5-000-xrp-5-002233138.html"
+    },
+    {
+      "title": "Over 35% of Bitcoin Supply Faces Potential Quantum Risk, New Data Shows",
+      "summary": "Glassnode says 7.12 million BTC have visible public keys. Robinhood, Binance and Satoshi's coins top the exposure list.",
+      "pub_date": "2026-11-13T23:30:00Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/over-35-bitcoin-supply-faces-233000047.html"
+    },
     {
       "title": "Weekly Wrap: Bitcoin Falls Below $70,000 As Crypto Selling Worsens",
       "summary": "Bitcoin (CRYPTO: $BTC) was trading below $70,000 U.S. on Nov. 13 and headed for a weekly loss of nearly 10% as the ...",
@@ -24,13 +45,6 @@
       "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-strengthens-crypto-custody-national-172000778.html"
     },
     {
-      "title": "Nvidia, AMD, Microsoft, Cerebras, Cisco, Modine, and More Stocks That Explain Today\u2019s Market",
-      "summary": "Microsoft falls as a global outage across the company\u2019s tools impact millions of people.",
-      "pub_date": "2026-11-13T17:09:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-9a030e1c?siteid=yhoof2&yptr=yahoo"
-    },
-    {
       "title": "MSCI Boots Strategy, and Trump picks his next crypto regulatory referees",
       "summary": "Scott Melker discusses MSCI kicking Michael Saylor's Strategy out of its index, but his bitcoin (BTC-USD) remains; Trump taps next regulatory crypto referees, and SoFi's (SOFI) dollar gets a Polygon address. \n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.",
       "pub_date": "2026-11-13T17:00:00Z",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-13T16:32:23Z",
       "source": "BeInCrypto",
       "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-miners-lead-wall-streets-163223374.html"
-    },
-    {
-      "title": "Stripe awaits payoff on Tempo chain",
-      "summary": "The company sees its Tempo blockchain as a key digital infrastructure play for the growing use of stablecoin transactions.",
-      "pub_date": "2026-11-13T15:57:00Z",
-      "source": "Payments Dive",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/stripe-awaits-payoff-tempo-chain-155700581.html"
-    },
-    {
-      "title": "DOJ, CFTC Sue Arkansas to Protect Kalshi\u2019s Prediction Markets",
-      "summary": "The U.S. Department of Justice and the Commodity Futures Trading Commission have sued Arkansas Attorney General Tim Griffin, ...",
-      "pub_date": "2026-11-13T15:33:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/options/articles/doj-cftc-sue-arkansas-protect-153300260.html"
     }
   ]
 }

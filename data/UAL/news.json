@@ -1,13 +1,13 @@
 {
   "ticker": "UAL",
-  "generated_at": "2026-11-13T21:47:23.339280+00:00",
+  "generated_at": "2026-11-14T04:33:33.081236+00:00",
   "items": [
     {
-      "title": "FAA orders nationwide ground stop for all flights, airline stocks fall",
+      "title": "FAA lifts ground stop flights, airline stocks fall",
       "summary": "Airline stocks fell right before Friday's close after the Federal Aviation Administration (FAA) ordered a nationwide ground stop. Departing flights cannot take off, while flights already in the air may continue to their destination.",
       "pub_date": "2026-11-13T21:32:02Z",
       "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/faa-orders-nationwide-ground-stop-for-all-flights-airline-stocks-fall-213202648.html"
+      "url": "https://finance.yahoo.com/markets/article/faa-lifts-ground-stop-flights-airline-stocks-fall-015910724.html"
     },
     {
       "title": "How United Airlines' AI bot booking ban could backfire",
@@ -31,6 +31,20 @@
       "url": "https://finance.yahoo.com/video/high-fuel-costs-starlink-and-the-beauty-of-ai-alerts-united-airlines-ceo-154733220.html"
     },
     {
+      "title": "United, Other Airline Stocks Drop After Nationwide Flight Ground Stop. Rental Car Stocks Rise.",
+      "summary": "Transportation Secretary Sean Duffy said the stoppage was due to \u201ca communication issue impacting all Air Route Traffic Control Centers. FAA technicians are investigating the issue.\u201d",
+      "pub_date": "2026-11-13T22:41:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/united-delta-american-airline-stock-flight-ground-stop-ab188a70?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Airline Stocks Drop After FAA Temporarily Halts Flights",
+      "summary": "Airline stocks ticked lower this afternoon and fell further in postmarket trading following the Federal Aviation Administration\u2019s decision to halt flight departures nationwide.",
+      "pub_date": "2026-11-13T21:40:46Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-13-2026/card/airline-stocks-drop-after-faa-temporarily-halts-flights-B4lSlZrqYy2RLegAjjA3?siteid=yhoof2&yptr=yahoo"
+    },
+    {
       "title": "United is the first airline to ban bookings from Meta\u2019s AI agent, Muse: 'I don't want to create another middleman'",
       "summary": "CEO Scott Kirby cites security risks and FAA concerns as United bans third-party AI agents from its platforms.",
       "pub_date": "2026-11-13T16:55:00Z",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-13T15:53:47Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/united-ceo-says-100-sure-155347118.html"
-    },
-    {
-      "title": "United Airlines Blocks AI Agents From Booking Flights as Analyst Says Carrier Wants to Avoid Another Google-Like Intermediary",
-      "summary": "United Airlines Holdings Inc. is barring unauthorized AI agents from booking flights, citing risks involving customer data, loyalty accounts, and compliance with federal aviation requirements. United announced on Wednesday that third-party AI assistants will not be permitted to reserve flights...",
-      "pub_date": "2026-11-13T13:00:10Z",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/technology/ai/articles/united-airlines-blocks-ai-agents-130010387.html"
-    },
-    {
-      "title": "One Reason United Airlines Stock Looks Better Than Its Price",
-      "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "pub_date": "2026-11-13T12:12:51Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/one-reason-united-airlines-stock-121251644.html"
     }
   ]
 }

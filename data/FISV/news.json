@@ -1,7 +1,14 @@
 {
   "ticker": "FISV",
-  "generated_at": "2026-11-13T21:46:18.799673+00:00",
+  "generated_at": "2026-11-14T04:32:31.908810+00:00",
   "items": [
+    {
+      "title": "US Fintech Weekly: Coinbase Secures Federal Trust Charter, While Hot CPI Pressures Rate-Sensitive Lenders",
+      "summary": "Hotter-than-expected October inflation data weighed on consumer lending equities during the week ending November 13, 2026.",
+      "pub_date": "2026-11-14T01:33:35Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-fintech-weekly-coinbase-secures-013335853.html"
+    },
     {
       "title": "What Could Go Wrong With Mastercard Stock?",
       "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-11T18:02:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/crypto/articles/crcl-expands-partnerships-globally-strengthen-180200787.html"
-    },
-    {
-      "title": "Fiserv preps debit network sale",
-      "summary": "The processing giant is shifting customers to one of its debit networks in anticipation of selling or shuttering a second one, the company\u2019s CEO said Tuesday.",
-      "pub_date": "2026-11-11T16:30:26Z",
-      "source": "Payments Dive",
-      "url": "https://finance.yahoo.com/technology/articles/fiserv-preps-debit-network-sale-163026519.html"
     }
   ]
 }
