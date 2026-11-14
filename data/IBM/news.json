@@ -1,7 +1,21 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-11-14T04:32:44.672591+00:00",
+  "generated_at": "2026-11-14T14:42:36.674807+00:00",
   "items": [
+    {
+      "title": "Why a Rising TSMC Challenger Could Reshape the Chip Foundry Landscape",
+      "summary": "Japan's state-backed Rapidus is promising cheaper 2-nanometer chips, but it still has to prove that it can manufacture them.",
+      "pub_date": "2026-11-14T12:04:00Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/technology/articles/why-rising-tsmc-challenger-could-120400048.html"
+    },
+    {
+      "title": "Cadence Stock And 2 AI Software Names With Stronger Governance Profiles",
+      "summary": "Jensen Huang\u2019s abrupt exit from Nvidia throws a harsh spotlight on how much faith investors place in a single leader, and it ripples across every stock tied to the AI story. Leadership risk suddenly feels very real, which creates room for both overreactions and mispricing. This article walks through 3 stocks from our Governance-Resilient Large-Cap AI and Tech Leaders screener that appear better positioned in this moment, and explains why their governance profile might matter more than...",
+      "pub_date": "2026-11-14T09:12:04Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cadence-stock-2-ai-software-091204904.html"
+    },
     {
       "title": "IBM\u2019s cybersecurity move raises new questions for investors",
       "summary": "IBM is buying a startup it has quietly backed for years. What it plans to do with it says a lot about where corporate risk is heading.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-12T20:27:17Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/buy-hubspot-stock-cash-202717964.html"
-    },
-    {
-      "title": "What Happened With Rigetti Computing Stock Yesterday?",
-      "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "pub_date": "2026-11-12T17:50:49Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/happened-rigetti-computing-stock-yesterday-175049731.html"
-    },
-    {
-      "title": "Why Is IBM (IBM) Warning Enterprises About AI Sovereignty Gaps?",
-      "summary": "IBM (NYSE:IBM) released a new Digital Sovereignty Index highlighting how enterprises handle control over data and AI systems. The index reports most organizations struggle to provide evidence of sovereign control over their technology despite confidence in their capabilities. Findings point to an \"overconfidence gap\" that could affect business continuity and resilience as AI adoption and regulation expand. IBM's Digital Sovereignty Index is important context, but investors should weigh it...",
-      "pub_date": "2026-11-12T17:13:45Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/why-ibm-ibm-warning-enterprises-171345227.html"
     }
   ]
 }

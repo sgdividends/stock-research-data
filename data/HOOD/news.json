@@ -1,7 +1,14 @@
 {
   "ticker": "HOOD",
-  "generated_at": "2026-11-14T04:32:42.037275+00:00",
+  "generated_at": "2026-11-14T14:42:35.734877+00:00",
   "items": [
+    {
+      "title": "Meta Is Testing a Prediction-Market App With Its Employees",
+      "summary": "Meta employees are betting fake points on Jeopardy! winners inside a secret app that has already worn three names. Can a free game succeed where the company's 2020 attempt failed, and why would an ad giant want it?",
+      "pub_date": "2026-11-14T14:22:45Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/articles/meta-testing-prediction-market-app-142245481.html"
+    },
     {
       "title": "Robinhood's $2.1 Billion IPO Returns To Haunt It. Supreme Court Takes Up Investor Lawsuit",
       "summary": "Robinhood's IPO battle is heading to the Supreme Court just as its crypto trading volumes plunge 48%, putting fresh attention on the brokerage's dependence on retail trading activity.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-13T16:59:36Z",
       "source": "TIKR",
       "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-slumped-why-goldman-sachs-165936612.html"
-    },
-    {
-      "title": "Robinhood Stocks Fall 3.87% as Crypto Volume Sinks 48% While Prediction Bets Jump 136%",
-      "summary": "October data showed $15.1 billion in net deposits and record event-contract activity, but crypto trading slumped with Bitcoin.",
-      "pub_date": "2026-11-13T16:12:50Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-stocks-fall-3-87-161250697.html"
     }
   ]
 }

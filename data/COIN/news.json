@@ -1,7 +1,21 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-11-14T04:32:11.023958+00:00",
+  "generated_at": "2026-11-14T14:42:22.319337+00:00",
   "items": [
+    {
+      "title": "Wall Street Has Nearly Halved Its Coinbase Target. Cantor Fitzgerald Still Sees 57% Upside",
+      "summary": "Key TakeawaysCantor Fitzgerald kept its Overweight rating and $200 price target on Coinbase on Nov. 12, 57% above the stock\u2019s price after a 58% drop over the past year.",
+      "pub_date": "2026-11-14T09:30:18Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-nearly-halved-coinbase-093018652.html"
+    },
+    {
+      "title": "Coinbase CEO Brian Armstrong Credits SEC, CFTC Chiefs For Ending \u2018Turf Wars\u2019 Over Stock Perps",
+      "summary": "Coinbase joined Kalshi, Payward, and Paradigm in asking the court to accept a brief supporting the CFTC.",
+      "pub_date": "2026-11-14T05:11:49Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/options/articles/coinbase-ceo-brian-armstrong-credits-051149760.html"
+    },
     {
       "title": "US Fintech Weekly: Coinbase Secures Federal Trust Charter, While Hot CPI Pressures Rate-Sensitive Lenders",
       "summary": "Hotter-than-expected October inflation data weighed on consumer lending equities during the week ending November 13, 2026.",
@@ -24,6 +38,13 @@
       "url": "https://finance.yahoo.com/markets/crypto/articles/over-35-bitcoin-supply-faces-233000047.html"
     },
     {
+      "title": "Bitcoin is now below $69,000 and could fall even further if investors cash out to buy into the Anthropic IPO",
+      "summary": "Investors may have to sell some of their existing bets in crypto to make room in their portfolio for what could be one of the most sought-after stock offerings in history.",
+      "pub_date": "2026-11-13T21:26:00Z",
+      "source": "MarketWatch",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-now-below-69-000-212600222.html"
+    },
+    {
       "title": "Weekly Wrap: Bitcoin Falls Below $70,000 As Crypto Selling Worsens",
       "summary": "Bitcoin (CRYPTO: $BTC) was trading below $70,000 U.S. on Nov. 13 and headed for a weekly loss of nearly 10% as the ...",
       "pub_date": "2026-11-13T20:21:00Z",
@@ -36,27 +57,6 @@
       "pub_date": "2026-11-13T20:16:03Z",
       "source": "decrypt",
       "url": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-bitcoin-crypto-linked-holdings-201603257.html"
-    },
-    {
-      "title": "Coinbase Strengthens Crypto Custody With National Trust Launch",
-      "summary": "Coinbase strengthens institutional crypto custody with its National Trust Company launch, aiming to bridge digital assets and traditional finance.",
-      "pub_date": "2026-11-13T17:20:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-strengthens-crypto-custody-national-172000778.html"
-    },
-    {
-      "title": "MSCI Boots Strategy, and Trump picks his next crypto regulatory referees",
-      "summary": "Scott Melker discusses MSCI kicking Michael Saylor's Strategy out of its index, but his bitcoin (BTC-USD) remains; Trump taps next regulatory crypto referees, and SoFi's (SOFI) dollar gets a Polygon address. \n\n\"The Daily Wolf with Scott Melker\" airs every day at 12:00 p.m. Tune in for your daily dose of all things crypto.",
-      "pub_date": "2026-11-13T17:00:00Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/msci-boots-strategy-trump-picks-170000840.html"
-    },
-    {
-      "title": "Bitcoin Miners Lead Wall Street's Crypto Sell-Off: Why Are They Falling Hardest?",
-      "summary": "Bitcoin hit a three-month low near $68,000. Hut 8, Riot and MARA fell hardest as hot US inflation fuels Fed rate hike bets.",
-      "pub_date": "2026-11-13T16:32:23Z",
-      "source": "BeInCrypto",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-miners-lead-wall-streets-163223374.html"
     }
   ]
 }
