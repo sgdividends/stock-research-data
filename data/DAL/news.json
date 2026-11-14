@@ -1,7 +1,21 @@
 {
   "ticker": "DAL",
-  "generated_at": "2026-11-14T14:42:26.130910+00:00",
+  "generated_at": "2026-11-14T20:17:48.589690+00:00",
   "items": [
+    {
+      "title": "Duffy Says an L3Harris Crew Was Working on the FAA Network When Flights Stopped. Its Stock Fell 4% After Hours",
+      "summary": "Transportation Secretary Sean Duffy said an L3Harris crew was switching FAA lines from copper wire to fiber when a router flooded the air traffic control network. L3Harris fell 4.2% after hours, and airlines owe stranded travelers nothing.",
+      "pub_date": "2026-11-14T17:09:00Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/duffy-says-l3harris-crew-working-170900518.html"
+    },
+    {
+      "title": "FAA ground stop: What to do if your flight was delayed or canceled on Friday",
+      "summary": "What to do if your flight was cancelled or delayed by the FAA's national ground stop on Friday.",
+      "pub_date": "2026-11-14T02:46:15Z",
+      "source": "Yahoo Personal Finance",
+      "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/faa-ground-stop-what-to-do-if-your-flight-was-delayed-or-canceled-on-friday-024615873.html"
+    },
     {
       "title": "Weekend Air Travel Woes Mount After FAA Lifts Nationwide Groundstop",
       "summary": "The disruption is still expected to create travel problems that persist through the weekend.",
@@ -24,13 +38,6 @@
       "url": "https://finance.yahoo.com/news/faa-issues-national-ground-stop-211012223.html"
     },
     {
-      "title": "FAA ground stop: What to do if your flight was delayed or canceled on Friday",
-      "summary": "What to do if your flight was cancelled or delayed by the FAA's national ground stop on Friday",
-      "pub_date": "2026-11-14T02:46:15Z",
-      "source": "Yahoo Personal Finance",
-      "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/faa-ground-stop-what-to-do-if-your-flight-was-delayed-or-canceled-on-friday-024615873.html"
-    },
-    {
       "title": "FAA lifts ground stop flights, airline stocks fall",
       "summary": "Airline stocks fell right before Friday's close after the Federal Aviation Administration (FAA) ordered a nationwide ground stop. Departing flights cannot take off, while flights already in the air may continue to their destination.",
       "pub_date": "2026-11-13T21:32:02Z",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-13T22:20:11Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/news/faa-ground-stop-flights-canceled/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "FAA Grounds All Flights Nationwide",
-      "summary": "All flights in the US have been grounded. The Federal Aviation Administration cited \"extraordinary circumstances\" and \"reasons of safety\" for the ground stop, which affects all US airports. Bloomberg's Will Guisbond is following this breaking news.",
-      "pub_date": "2026-11-13T22:07:33Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/video/faa-grounds-flights-nationwide-220733055.html"
     }
   ]
 }

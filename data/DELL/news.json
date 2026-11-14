@@ -1,7 +1,14 @@
 {
   "ticker": "DELL",
-  "generated_at": "2026-11-14T14:42:26.880890+00:00",
+  "generated_at": "2026-11-14T20:17:49.498738+00:00",
   "items": [
+    {
+      "title": "Dell Technologies (DELL) Will Build An Alabama Research Computing Center",
+      "summary": "Dell Technologies (NYSE:DELL) and the University of Alabama announced a new high performance computing center for statewide research collaboration. The facility will integrate Dell infrastructure with NVIDIA AI systems to support data intensive projects across Alabama's academic community. Federal funding is involved in the build out, tying the project to broader public research and education priorities. The Dell and University of Alabama high performance computing partnership is only one...",
+      "pub_date": "2026-11-14T18:06:48Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/dell-technologies-dell-build-alabama-180648207.html"
+    },
     {
       "title": "DLLL 2X Dell ETF Plunges 16% as Dell Tumbles 8% in AI Hardware Selloff; Hewlett Packard Enterprise Falls 4%",
       "summary": "Dell posted record AI orders and a $95 billion backlog, yet its leveraged ETF just lost a sixth of its value in a day. What is spooking the AI hardware trade, and why is the smallest drop landing on the company at the center of the probe?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-13T15:08:49Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/qualcomm-ceo-cristiano-amon-on-fueling-the-ai-boom-150849126.html"
-    },
-    {
-      "title": "SanDisk Stock At $937: Why So Cheap?",
-      "summary": "More on the AI trade: our AI storyline page collects our pieces on AI stocks.",
-      "pub_date": "2026-11-13T14:56:12Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-stock-937-why-cheap-121251961.html"
     }
   ]
 }
