@@ -1,7 +1,14 @@
 {
   "ticker": "MSCI",
-  "generated_at": "2026-11-15T15:12:48.667262+00:00",
+  "generated_at": "2026-11-15T20:43:57.202998+00:00",
   "items": [
+    {
+      "title": "Michael Saylor\u2019s Strategy Just Lost Its MSCI Index Spot as Bitcoin Plunges. Is MSTR Stock a Sell?",
+      "summary": "With an index provider cutting it loose and bitcoin sitting below its purchase price, Saylor's funding machine faces its toughest test yet. A cash cushion buys time, but one signal could decide whether patience pays off.",
+      "pub_date": "2026-11-15T17:28:50Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-saylor-strategy-just-lost-172850606.html"
+    },
     {
       "title": "Strategy Is Down 27% in 2026: Dead Money, or Due for a Bounce?",
       "summary": "Key TakeawaysStrategy stock is down 27% in 2026, and the whole loss came after it finished September about where it started the year. MSCI\u2019s decision to drop Strategy from its indexes and the cash going into STRC buybacks both make it harder to sell stock at the premium its bitcoin buying needs.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-12T22:25:25Z",
       "source": "TheStreet",
       "url": "https://finance.yahoo.com/markets/stocks/articles/europe-largest-asset-manager-doubles-222525371.html"
-    },
-    {
-      "title": "Strategy Made $19.5 Billion in Profit. So Why Is MSCI Removing It From Stock Indexes?",
-      "summary": "Michael Saylor\u2019s Bitcoin giant is being excluded from major investment benchmarks, raising questions about what qualifies as a business\u2014and whether the decision could slow its Bitcoin buying.",
-      "pub_date": "2026-11-12T21:26:03Z",
-      "source": "decrypt",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/strategy-made-19-5-billion-212603009.html"
     }
   ]
 }

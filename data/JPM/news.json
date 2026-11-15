@@ -1,7 +1,14 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-11-15T15:12:35.155070+00:00",
+  "generated_at": "2026-11-15T20:43:46.531900+00:00",
   "items": [
+    {
+      "title": "Michael Saylor\u2019s Strategy Just Lost Its MSCI Index Spot as Bitcoin Plunges. Is MSTR Stock a Sell?",
+      "summary": "With an index provider cutting it loose and bitcoin sitting below its purchase price, Saylor's funding machine faces its toughest test yet. A cash cushion buys time, but one signal could decide whether patience pays off.",
+      "pub_date": "2026-11-15T17:28:50Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-saylor-strategy-just-lost-172850606.html"
+    },
     {
       "title": "She Moves $500,000 Into Municipal Bonds amid \u2018Rare Opportunity\u2019, Expecting Every Dollar of Interest to Stay Tax-Free. The IRS Counts That Interest When It Taxes Her Social Security, Pushing $16,900 More of Her Benefits Into Taxable Income",
       "summary": "A retiree parks an unexpected inheritance in muni bonds, certain the interest will never touch her tax bill. One line in an IRS publication says otherwise, and it changes what her Social Security checks cost her come April.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-13T20:21:00Z",
       "source": "CryptoProwl",
       "url": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-falls-below-202100180.html"
-    },
-    {
-      "title": "JPMorgan\u2019s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
-      "summary": "The bank\u2019s Q3 13F shows roughly $981 million across Bitcoin ETFs, Strategy and Coinbase\u2014likely over $1 billion counting Robinhood and miners.",
-      "pub_date": "2026-11-13T20:16:03Z",
-      "source": "decrypt",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-bitcoin-crypto-linked-holdings-201603257.html"
     }
   ]
 }

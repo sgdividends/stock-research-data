@@ -1,7 +1,14 @@
 {
   "ticker": "LHX",
-  "generated_at": "2026-11-15T15:12:39.123500+00:00",
+  "generated_at": "2026-11-15T20:43:49.683850+00:00",
   "items": [
+    {
+      "title": "Airlines Cancel, Delay Thousands More Flights on Another Day of Travel Chaos",
+      "summary": "Major airline travel hubs in Dallas, New York, Chicago, and Atlanta were still among the most affected as of Sunday morning, according to FlightAware.",
+      "pub_date": "2026-11-15T19:53:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/air-travelers-airlines-delays-cancellations-faa-duffy-c10c6beb?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "US air travel disruptions to persist until late on Sunday, FAA head says",
       "summary": "WASHINGTON, Nov 14 (Reuters) - US air travel is not expected to return to normal schedules until late on Sunday, the head of the FAA said, as the aviation system gradually recovers from a nationwide flight shutdown that officials blamed on routine maintenance gone awry. ET (0235 GMT), airlines on Saturday had \u200ccanceled more than 6,400 US flights and delayed more than 8,000, according to FlightAware, an aviation website.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-14T08:06:07Z",
       "source": "Reuters",
       "url": "https://finance.yahoo.com/news/faa-issues-national-ground-stop-211012223.html"
-    },
-    {
-      "title": "Labcorp\u2019s Lab Growth Surges as $125 Million Reimbursement Risk Looms",
-      "summary": "Labcorp (NYSE:LH) Chief Financial Officer Julia Wang said strength in the company\u2019s central laboratory business and diagnostic testing helped drive third-quarter growth, while management prepares for a potential reduction in government reimbursement rates in 2027. Speaking at the UBS Global Healthc",
-      "pub_date": "2026-11-13T16:14:51Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/healthcare/articles/labcorp-lab-growth-surges-125-161451327.html"
     }
   ]
 }

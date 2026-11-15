@@ -1,7 +1,21 @@
 {
   "ticker": "MS",
-  "generated_at": "2026-11-15T15:12:48.222397+00:00",
+  "generated_at": "2026-11-15T20:43:56.995496+00:00",
   "items": [
+    {
+      "title": "Morgan Stanley doubles down on Microsoft stock with bold outlook",
+      "summary": "Morgan Stanley just made its boldest case yet for Microsoft stock.",
+      "pub_date": "2026-11-15T17:33:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/morgan-stanley-doubles-down-microsoft-173300820.html"
+    },
+    {
+      "title": "New York Has 2,590 SEC-Registered Investment Advisers, the Most of Any State. North Dakota and Alaska Have 9 Each",
+      "summary": "A state's advisor headcount looks like a measure of wealth, but the real story is stranger. Learn why a saver in Fargo can hire a Manhattan firm, and the free checks that matter far more than geography.",
+      "pub_date": "2026-11-15T16:38:30Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/york-2-590-sec-registered-163830089.html"
+    },
     {
       "title": "Cerebras beats estimates, but its biggest customer is waiting",
       "summary": "Cerebras sales jumped 70%, and margins are improving, but data center delays put a big contract at risk.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-13T15:30:03Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-morgan-stanley-ms-3-153003149.html"
-    },
-    {
-      "title": "HOOD's Securities Lending Revenues Slide 43% in October: Q4 at Risk?",
-      "summary": "Robinhood's securities-lending revenues plunged 43% in October, pressuring NIR growth. Rising margin balances may offer some support in Q4.",
-      "pub_date": "2026-11-13T13:21:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hoods-securities-lending-revenues-slide-132100983.html"
-    },
-    {
-      "title": "CoreWeave's $4 Billion Loan Plan Comes With a Catch",
-      "summary": "Explosive growth is creating an increasingly expensive financial challenge.",
-      "pub_date": "2026-11-12T23:06:01Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/coreweaves-4-billion-loan-plan-230601586.html"
     }
   ]
 }
