@@ -1,7 +1,28 @@
 {
   "ticker": "V",
-  "generated_at": "2026-11-15T04:21:32.909600+00:00",
+  "generated_at": "2026-11-15T15:13:21.179146+00:00",
   "items": [
+    {
+      "title": "Prediction: Visa Stock Hits $500 in 2028",
+      "summary": "The stock has been a standout in 2026, up 20% year to date.",
+      "pub_date": "2026-11-15T14:50:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-visa-stock-hits-500-145001590.html"
+    },
+    {
+      "title": "A $5.9 Billion Fund Bought These 3 Stocks",
+      "summary": "Key TakeawaysA $5. 9 billion fund more than tripled its Alphabet stake and added heavily to Danaher and Visa in the quarter ended June 30.",
+      "pub_date": "2026-11-15T12:52:32Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-9-billion-fund-bought-125232607.html"
+    },
+    {
+      "title": "What Is Next For Global Payments (GPN) After Elliott Pressure And Authentication Upgrade?",
+      "summary": "Global Payments (NYSE:GPN) is under pressure from Elliott Investment Management, which has taken an activist stake and is questioning the rationale for the Worldpay acquisition. Elliott is pushing Global Payments' board for greater disclosure around capital allocation decisions tied to the Worldpay deal and related integration plans. Separately, Global Payments has upgraded its Adaptive Authentication platform by integrating Visa's Intelligent Data Exchange API to refine fraud checks and...",
+      "pub_date": "2026-11-15T12:08:27Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/next-global-payments-gpn-elliott-120827361.html"
+    },
     {
       "title": "MercadoLibre vs. Uber Technologies: Which Consumer Network Stock Is a Better Buy for 2027?",
       "summary": "MercadoLibre's 47% revenue surge stands out, but Uber's cheaper earnings multiple and steadier balance sheet make the 2027 call far closer than the growth numbers suggest.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-11-13T18:27:55Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-friday-182755340.html"
-    },
-    {
-      "title": "OpenAI Wants to Spend Your Money\u2014With Your Permission, of Course",
-      "summary": "OpenAI\u2019s ChatGPT Wallet enables AI agents to make transactions without accessing credit-card details, but gaining users\u2019 trust will be a challenge.",
-      "pub_date": "2026-11-13T18:04:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/openai-chatgpt-wallet-american-express-e7b0f5e8?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "The hard part of stablecoin payments is the exit",
-      "summary": "Ivan Kroshnyi sets out what businesses need from fiat-and-stablecoin accounts beyond holding balances and why reliable supplier payments and access to working capital matter, not settlement speed alone",
-      "pub_date": "2026-11-13T17:58:00Z",
-      "source": "Electronic Payments",
-      "url": "https://finance.yahoo.com/news/hard-part-stablecoin-payments-exit-175800071.html"
-    },
-    {
-      "title": "OpenAI Debuts New ChatGPT Payment Method With Card Networks",
-      "summary": "OpenAI introduced ChatGPT Wallet, a new secure payment method that its artificial intelligence tool can use to make purchases on consumers\u2019 behalf, renewing its push into AI shopping after winding down an Instant Checkout feature earlier this year.",
-      "pub_date": "2026-11-13T17:06:11Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/technology/ai/articles/openai-debuts-chatgpt-payment-method-170611135.html"
     }
   ]
 }

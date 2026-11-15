@@ -1,7 +1,14 @@
 {
   "ticker": "VRT",
-  "generated_at": "2026-11-15T04:21:34.672849+00:00",
+  "generated_at": "2026-11-15T15:13:23.740430+00:00",
   "items": [
+    {
+      "title": "3 US Stocks Riding The AI Data Center Power And Cooling Buildout",
+      "summary": "AI is burning through compute and power, and the Anthropic IPO, Nvidia leadership questions, and fresh regulatory scrutiny have pushed that reality into sharp focus for investors. Money chasing AI is not just flowing into model developers; it is pulling attention toward the digital plumbing behind them. This article explains how three US stocks exposed to that story could either benefit from, or be hurt by, this surge in demand. The stocks covered below are just a sample, and the full screen...",
+      "pub_date": "2026-11-15T13:07:50Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-us-stocks-riding-ai-130750054.html"
+    },
     {
       "title": "Why Should Vertiv Stock Holders Keep Watching This Number?",
       "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-13T14:12:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ciscos-q1-earnings-beat-estimates-141200789.html"
-    },
-    {
-      "title": "Vertiv Holdings Co (VRT) Debuts PowerNexus MV UPS For AI Data Centers",
-      "summary": "Vertiv Holdings Co (NYSE:VRT) introduced the PowerNexus MV UPS, a medium-voltage power system for AI data centers, focusing on grid integration and outdoor deployment. The PowerNexus MV UPS is designed for use with long-duration battery systems, targeting power-hungry AI compute clusters that strain existing electrical infrastructure. Vertiv plans a dedicated laboratory for PowerNexus MV UPS research and testing, with the goal of refining grid connectivity and outdoor performance for AI...",
-      "pub_date": "2026-11-12T21:11:54Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/vertiv-holdings-co-vrt-debuts-211154957.html"
     }
   ]
 }

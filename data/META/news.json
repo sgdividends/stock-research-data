@@ -1,7 +1,28 @@
 {
   "ticker": "META",
-  "generated_at": "2026-11-15T04:21:05.257530+00:00",
+  "generated_at": "2026-11-15T15:12:45.058412+00:00",
   "items": [
+    {
+      "title": "Italy Fines Meta \u20ac805 Million. Why the Legal Route Matters More Than the Money",
+      "summary": "Key TakeawaysItaly fined Meta \u20ac805 million (about $887 million) over a Facebook Android feature that accessed users\u2019 photo galleries without specific consent. Meta must switch it off by default within 60 days, and it plans to appeal.",
+      "pub_date": "2026-11-15T13:53:24Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/technology/articles/italy-fines-meta-805-million-135324699.html"
+    },
+    {
+      "title": "Meta (META) Faces $880 Million Italy Fine Over User Photo Access",
+      "summary": "Meta Platforms (NasdaqGS:META) faces a proposed \u20ac880 million fine in Italy over alleged misuse of users' photos and metadata. Italy's data protection authority targets Facebook's Gallery Suggestions feature for accessing and processing images without explicit, informed consent. Meta has stated it plans to appeal the Italian regulator's decision through available legal channels. The Italian fine over Gallery Suggestions arrives as regulators intensify scrutiny of how Meta handles user data...",
+      "pub_date": "2026-11-15T13:06:40Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/articles/meta-meta-faces-880-million-130640061.html"
+    },
+    {
+      "title": "From Dodge to Anthropic: The Century-Old Playbook Taking Over Tech IPOs",
+      "summary": "Many of the hottest companies now use dual-share structures in which in insiders hold most of the voting stock.",
+      "pub_date": "2026-11-15T10:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/dual-share-structures-voting-stock-42e564b1?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Evercore explains why Apple has the right assets to win the personal agents race",
       "summary": "Investing.com -- Apple Inc (NASDAQ:AAPL) has the technology, user base, and payment infrastructure to become a leading player in personal AI agents, potentially generating billions in new revenue, according to Evercore ISI analyst Amit Daryanani.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-11-14T15:05:02Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-bill-ackman-says-huge-150502419.html"
-    },
-    {
-      "title": "Meta Is Testing a Prediction-Market App With Its Employees",
-      "summary": "Meta employees are betting fake points on Jeopardy! winners inside a secret app that has already worn three names. Can a free game succeed where the company's 2020 attempt failed, and why would an ad giant want it?",
-      "pub_date": "2026-11-14T14:22:45Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/articles/meta-testing-prediction-market-app-142245481.html"
-    },
-    {
-      "title": "SpaceX Hollows Out Its AI Video Division. Elon Musk Now Has Different Priorities",
-      "summary": "A quiet round of layoffs just gutted one of Elon Musk's flashiest AI products, months after he vowed to double down on it. The retreat could hand a rival with deep pockets and a giant video platform exactly the opening it needs.",
-      "pub_date": "2026-11-14T13:16:36Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/spacex-hollows-ai-video-division-131636093.html"
-    },
-    {
-      "title": "Jamie Dimon Just Said 5 Words Blocking Outside AI Agents From JPMorgan Accounts: \"You Don't Want Rogue Agents.\" Here's Why That Security Stance Matters for JPM and Its Tech Rivals.",
-      "summary": "The CEO of JPMorgan Chase isn't going to open his customers' accounts to \"just any\" AI agents from third parties.",
-      "pub_date": "2026-11-14T12:54:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/technology/ai/articles/jamie-dimon-just-said-5-125400574.html"
     }
   ]
 }

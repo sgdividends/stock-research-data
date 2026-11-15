@@ -1,7 +1,14 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-11-15T04:20:28.191154+00:00",
+  "generated_at": "2026-11-15T15:11:56.447724+00:00",
   "items": [
+    {
+      "title": "Strategy Is Down 27% in 2026: Dead Money, or Due for a Bounce?",
+      "summary": "Key TakeawaysStrategy stock is down 27% in 2026, and the whole loss came after it finished September about where it started the year. MSCI\u2019s decision to drop Strategy from its indexes and the cash going into STRC buybacks both make it harder to sell stock at the premium its bitcoin buying needs.",
+      "pub_date": "2026-11-15T02:26:59Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/strategy-down-27-2026-dead-022659333.html"
+    },
     {
       "title": "Wall Street Has Nearly Halved Its Coinbase Target. Cantor Fitzgerald Still Sees 57% Upside",
       "summary": "Key TakeawaysCantor Fitzgerald kept its Overweight rating and $200 price target on Coinbase on Nov. 12, 57% above the stock\u2019s price after a 58% drop over the past year.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-13T20:21:00Z",
       "source": "CryptoProwl",
       "url": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-bitcoin-falls-below-202100180.html"
-    },
-    {
-      "title": "JPMorgan\u2019s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
-      "summary": "The bank\u2019s Q3 13F shows roughly $981 million across Bitcoin ETFs, Strategy and Coinbase\u2014likely over $1 billion counting Robinhood and miners.",
-      "pub_date": "2026-11-13T20:16:03Z",
-      "source": "decrypt",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-bitcoin-crypto-linked-holdings-201603257.html"
     }
   ]
 }
