@@ -1,7 +1,14 @@
 {
   "ticker": "MA",
-  "generated_at": "2026-11-14T20:18:23.353244+00:00",
+  "generated_at": "2026-11-15T04:21:03.545624+00:00",
   "items": [
+    {
+      "title": "American Express vs. Mastercard: Which Financial Stock Is a Better Buy for 2027?",
+      "summary": "Amex trades at 17.3x forward earnings while Mastercard commands 32.5x, a valuation gap that raises a real question about which payments giant deserves the premium.",
+      "pub_date": "2026-11-14T20:32:01Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/american-express-vs-mastercard-financial-203201337.html"
+    },
     {
       "title": "MercadoLibre vs. Uber Technologies: Which Consumer Network Stock Is a Better Buy for 2027?",
       "summary": "MercadoLibre's 47% revenue surge stands out, but Uber's cheaper earnings multiple and steadier balance sheet make the 2027 call far closer than the growth numbers suggest.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-13T17:58:00Z",
       "source": "Electronic Payments",
       "url": "https://finance.yahoo.com/news/hard-part-stablecoin-payments-exit-175800071.html"
-    },
-    {
-      "title": "OpenAI Debuts New ChatGPT Payment Method With Card Networks",
-      "summary": "OpenAI introduced ChatGPT Wallet, a new secure payment method that its artificial intelligence tool can use to make purchases on consumers\u2019 behalf, renewing its push into AI shopping after winding down an Instant Checkout feature earlier this year.",
-      "pub_date": "2026-11-13T17:06:11Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/technology/ai/articles/openai-debuts-chatgpt-payment-method-170611135.html"
     }
   ]
 }

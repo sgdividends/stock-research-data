@@ -1,7 +1,21 @@
 {
   "ticker": "LHX",
-  "generated_at": "2026-11-14T20:18:20.294512+00:00",
+  "generated_at": "2026-11-15T04:21:00.946031+00:00",
   "items": [
+    {
+      "title": "US air travel disruptions to persist until late on Sunday, FAA head says",
+      "summary": "WASHINGTON, Nov 14 (Reuters) - US air travel is not expected to return to normal schedules until late on Sunday, the head of the FAA said, as the aviation system gradually recovers from a nationwide flight shutdown that officials blamed on routine maintenance gone awry. ET (0235 GMT), airlines on Saturday had \u200ccanceled more than 6,400 US flights and delayed more than 8,000, according to FlightAware, an aviation website.",
+      "pub_date": "2026-11-15T02:42:24Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/news/thousands-us-flights-canceled-delayed-155615998.html"
+    },
+    {
+      "title": "The Tangle of Wires at the Heart of a Nationwide Air-Travel Meltdown",
+      "summary": "Aviation authorities have struggled to modernize communications systems between pilots and air-traffic controllers",
+      "pub_date": "2026-11-15T00:49:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/business/airlines/the-tangle-of-wires-at-the-heart-of-a-nationwide-air-travel-meltdown-0356872e?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "US aviation shutdown blamed on L3 Harris installed router",
       "summary": "By David Shepardson WASHINGTON, Nov 14 (Reuters) - A massive, nearly five-hour shutdown of the US aviation system that has disrupted more than 20,000 flights since Friday may have been the fault of a",
@@ -11,24 +25,10 @@
     },
     {
       "title": "Why L3Harris Stock Lost Altitude After the FAA\u2019s Nationwide Groundstop",
-      "summary": "Transportation Secretary Sean Duffy attributed the rare groundstop to \u201can incredibly old air traffic control system.\u201d",
+      "summary": "Friday night\u2019s rare air traffic stoppage hit airline shares and boosted car rental stocks.",
       "pub_date": "2026-11-14T19:11:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/faa-ground-stop-l3harris-stock-f7b775db?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Duffy investigates L3Harris over FAA outage that grounded U.S. flights",
-      "summary": "Investing.com -- U.S. Transportation Secretary Sean Duffy said on Saturday officials are investigating whether L3Harris Technologies (NYSE:LHX) was responsible for an FAA air traffic control failure that halted flights nationwide for more than four hours.",
-      "pub_date": "2026-11-14T18:48:02Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/duffy-investigates-l3harris-over-faa-184802914.html"
-    },
-    {
-      "title": "Thousands of US flights canceled, delayed as air travel system slowly recovers from shutdown",
-      "summary": "By David Shepardson and Doyinsola Oladipo WASHINGTON, Nov 14 (Reuters) - Airlines canceled 4,500 US flights and delayed 4,400 more on Saturday as the United States struggled to recover from the",
-      "pub_date": "2026-11-14T18:37:43Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/news/thousands-us-flights-canceled-delayed-155615998.html"
     },
     {
       "title": "Duffy Probing Possible L3Harris \u2018Incompetence\u2019 in FAA Meltdown",
