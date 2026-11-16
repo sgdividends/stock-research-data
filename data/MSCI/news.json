@@ -1,7 +1,21 @@
 {
   "ticker": "MSCI",
-  "generated_at": "2026-11-16T04:20:35.806252+00:00",
+  "generated_at": "2026-11-16T17:47:50.878037+00:00",
   "items": [
+    {
+      "title": "AI Stocks Lose $6 Trillion. Pension Funds Face Hidden Exposure Risks.",
+      "summary": "A $6 trillion selloff in AI stocks has exposed concentration risks across investment portfolios, with pension funds and bond managers examining how far their exposure extends.",
+      "pub_date": "2026-11-16T16:42:28Z",
+      "source": "International Business Times",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-stocks-lose-6-trillion-164228025.html"
+    },
+    {
+      "title": "Beat the Market the Zacks Way: Vera Bradley, Herc, Visa in Focus",
+      "summary": "Vera Bradley, Herc and Visa lead Zacks' latest market-beating performances, highlighting the gains delivered by its stock recommendations and investment portfolios.",
+      "pub_date": "2026-11-16T13:38:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/beat-market-zacks-way-vera-133800008.html"
+    },
     {
       "title": "86% Upside for Strategy After MSCI Drops It? Cantor Fitzgerald Sees a Path to $208",
       "summary": "Key TakeawaysStrategy (MSTR) fell 13. 4% over five trading sessions through November 13, closing at $111.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-13T13:05:01Z",
       "source": "International Business Times",
       "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-below-70-000-130501023.html"
-    },
-    {
-      "title": "Strategy Stocks Drop 6.83% as MSCI Confirms Removal From Its USA Index",
-      "summary": "MSCI's November review deletes Strategy effective November 30, as bitcoin slips and NVIDIA's shake-up rattles risk assets.",
-      "pub_date": "2026-11-13T11:54:09Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/strategy-stocks-drop-6-83-115409289.html"
-    },
-    {
-      "title": "JPMorgan Sees Up to $8.8 Billion at Risk as MSCI Drops Strategy: Sell, or Load Up?",
-      "summary": "Key TakeawaysStrategy shares fell after MSCI said it will remove the company from its global indexes after the November 30 close. Strategy says MSCI-tracking funds hold about 13 million shares, while JPMorgan has estimated up to $8.",
-      "pub_date": "2026-11-13T07:36:27Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-sees-8-8-billion-073627912.html"
     }
   ]
 }

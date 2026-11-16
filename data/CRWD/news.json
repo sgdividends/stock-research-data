@@ -1,7 +1,14 @@
 {
   "ticker": "CRWD",
-  "generated_at": "2026-11-16T04:19:54.584320+00:00",
+  "generated_at": "2026-11-16T17:47:09.470935+00:00",
   "items": [
+    {
+      "title": "Jim Cramer: Anthropic\u2019s \u201cNext $100 Billion in Revenue\u201d Might Be Cybersecurity. CrowdStrike Should Worry",
+      "summary": "Key TakeawaysDays before Anthropic\u2019s IPO, Jim Cramer named cybersecurity as a possible source of the AI lab\u2019s next $100 billion in revenue, given how good Claude is at spotting code vulnerabilities. A bigger Claude security push would make Anthropic a direct competitor to CrowdStrike and Palo Alto Networks, which both jumped nearly 3% early on Nov.",
+      "pub_date": "2026-11-16T02:22:51Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-anthropic-next-100-022251773.html"
+    },
     {
       "title": "Palo Alto Networks Sank Nearly 10% in a Day. Arora Still Sees AI as \u201cDurable Tailwinds\u201d",
       "summary": "Key TakeawaysPalo Alto Networks reports fiscal first-quarter results on November 18, after a software selloff sent its shares down nearly 10% on November 5. Fortinet\u2019s product revenue growth slowed to 37% from 52%, while Palo Alto\u2019s product revenue grew 28.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-13T17:52:46Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-outage-sends-cybersecurity-stocks-175246078.html"
-    },
-    {
-      "title": "CrowdStrike (CRWD) Stock Trades At A Premium To Sales",
-      "summary": "CrowdStrike Holdings has produced a very strong share-price story over the past few years, which naturally raises a simple question for you as an investor: Is the current US$229.87 price tag still grounded in what the cybersecurity specialist is generating in sales? Over the past 3 years, CrowdStrike has delivered a very large 350.1% total return, which puts extra weight on whether revenue can keep carrying that kind of value creation argument. Fresh products like the Agentic Adversary...",
-      "pub_date": "2026-11-13T17:10:54Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/crowdstrike-crwd-stock-trades-premium-171054150.html"
     }
   ]
 }

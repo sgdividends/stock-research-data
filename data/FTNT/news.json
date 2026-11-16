@@ -1,7 +1,14 @@
 {
   "ticker": "FTNT",
-  "generated_at": "2026-11-16T04:20:11.277609+00:00",
+  "generated_at": "2026-11-16T17:47:25.432473+00:00",
   "items": [
+    {
+      "title": "Zscaler's AI Security Push: Can It Overcome Slower FY27 Growth?",
+      "summary": "ZS' AI security bookings and pipeline are surging, but slowing fiscal 2027 revenue growth raises questions about its ability to convert demand into sales.",
+      "pub_date": "2026-11-16T12:48:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/zscalers-ai-security-push-overcome-124800615.html"
+    },
     {
       "title": "Palo Alto Networks Sank Nearly 10% in a Day. Arora Still Sees AI as \u201cDurable Tailwinds\u201d",
       "summary": "Key TakeawaysPalo Alto Networks reports fiscal first-quarter results on November 18, after a software selloff sent its shares down nearly 10% on November 5. Fortinet\u2019s product revenue growth slowed to 37% from 52%, while Palo Alto\u2019s product revenue grew 28.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-12T23:14:27Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/technology/ai/articles/fortinet-sees-ai-fueling-firewall-231427255.html"
-    },
-    {
-      "title": "Is Earnings Beat Altering The Investment Case For Fortinet Stock (FTNT)?",
-      "summary": "Fortinet raised its 2026 outlook for the third time this year after Q3 results exceeded guidance midpoints and it rolled out new AI security offerings, including FortiGuard Inline AI Security Service and FortiAIGate. The launch of FortiAIGate as an AI security guardrail on Equinix\u2019s Distributed AI Hub highlights Fortinet\u2019s push to secure distributed AI infrastructure directly where workloads and data sit. Next comes a look at how Fortinet\u2019s higher 2026 outlook and new AI security products...",
-      "pub_date": "2026-11-12T22:10:51Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-beat-altering-investment-case-221051589.html"
     }
   ]
 }

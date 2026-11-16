@@ -1,13 +1,48 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-11-16T04:20:55.270700+00:00",
+  "generated_at": "2026-11-16T17:48:09.688824+00:00",
   "items": [
+    {
+      "title": "Super Micro Falls 5% as Reported DOJ Smuggling Probe Weighs for a Third Session; Dell and Hewlett Packard Enterprise Drop 4%",
+      "summary": "A reported federal probe into smuggling AI servers to China is rattling Super Micro just as its revenue explodes. The question hanging over the stock is whether prosecutors will bring charges, and what that means for Dell and HPE.",
+      "pub_date": "2026-11-16T15:02:27Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-falls-5-reported-150227586.html"
+    },
+    {
+      "title": "3 AI Stocks With Earnings Growth Over 45%",
+      "summary": "Investors just watched a sharp AI selloff force funds to rethink how much risk they really tied to the theme. When enthusiasm cools, pricing can get messy and some solid AI stocks end up marked down along with the hype. That is where underappreciated opportunities can appear. This article walks through three companies from our undervalued AI shortlist that put real money behind chips, models and cloud tools. The three undervalued AI stocks that follow are only a small sample from the screen,...",
+      "pub_date": "2026-11-16T14:12:29Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-stocks-earnings-growth-141229474.html"
+    },
+    {
+      "title": "Nvidia Faces Bessent\u2019s Question on Whether China Sales \u201cgoose\u201d Earnings. Here\u2019s What Tuesday\u2019s Report Has to Show",
+      "summary": "Key TakeawaysTreasury Secretary Scott Bessent asked whether NVIDIA pushed suspect China sales to \u201cgoose\u201d earnings, two days before its Nov. 17 report.",
+      "pub_date": "2026-11-16T11:56:52Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-faces-bessent-whether-china-115652535.html"
+    },
+    {
+      "title": "Super Micro Computer Stock Faces a New Problem Despite Explosive AI Sales",
+      "summary": "Investors are questioning whether rising data center spending can translate into sustainable profits and cash flow.",
+      "pub_date": "2026-11-16T11:47:08Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-stock-faces-114708843.html"
+    },
     {
       "title": "Super Micro Computer (SMCI) Faces Growing Pressure as AI Server Margins Shrink",
       "summary": "We just published our list, 10 Worst AI Infrastructure and Data Center Stocks to Buy According to Short Sellers, and Super Micro Computer Inc. ranked 9th on this list. A steep selloff is unfolding around AI infrastructure and data center stocks, reflecting growing investor concerns about the sustainability of the AI investment boom and elevated valuations. Major [\u2026]",
       "pub_date": "2026-11-16T02:58:41Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-faces-025841221.html"
+    },
+    {
+      "title": "Super Micro Is Priced Like It \u201cGoes Bankrupt Next Quarter\u201d Despite $16B of Equity",
+      "summary": "Key TakeawaysSuper Micro fell 11. 3% on Nov.",
+      "pub_date": "2026-11-16T02:10:38Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-priced-goes-bankrupt-021038816.html"
     },
     {
       "title": "Super Micro Computer (SMCI) Under DOJ Scrutiny Over Alleged Server Smuggling To China",
@@ -22,41 +57,6 @@
       "pub_date": "2026-11-14T16:32:49Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-gets-swept-spreading-163249295.html"
-    },
-    {
-      "title": "Super Micro, run by Jensen Huang\u2019s friend, says Megaspeed was \u2018never\u2019 its customer",
-      "summary": "The hardware maker also pushed back on authorities in Singapore, who claimed the company had offered \u201climited\u201d cooperation.",
-      "pub_date": "2026-11-13T23:48:45Z",
-      "source": "Fortune",
-      "url": "https://finance.yahoo.com/technology/articles/super-micro-run-jensen-huang-234845498.html"
-    },
-    {
-      "title": "Cisco CEO on trusting Nvidia chips after Jensen Huang's exit: 'Absolutely'",
-      "summary": "Cisco (CSCO) CEO Chuck Robbins sits down with Yahoo Finance Executive Editor Brian Sozzi to outline his thoughts on what Nvidia's (NVDA) business and the broader tech landscape might look like without Jensen Huang at the helm.",
-      "pub_date": "2026-11-13T20:10:49Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/cisco-ceo-on-trusting-nvidia-chips-after-jensen-huangs-exit-absolutely-201049124.html"
-    },
-    {
-      "title": "DLLL 2X Dell ETF Plunges 16% as Dell Tumbles 8% in AI Hardware Selloff; Hewlett Packard Enterprise Falls 4%",
-      "summary": "Dell posted record AI orders and a $95 billion backlog, yet its leveraged ETF just lost a sixth of its value in a day. What is spooking the AI hardware trade, and why is the smallest drop landing on the company at the center of the probe?",
-      "pub_date": "2026-11-13T19:03:32Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dlll-2x-dell-etf-plunges-190332569.html"
-    },
-    {
-      "title": "Super Micro stock plunges, analyst sees 140% upside",
-      "summary": "Raymond James analyst Simon Leopold maintains a $65 price target, implying approximately 141% upside.",
-      "pub_date": "2026-11-13T17:16:42Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-stock-plunges-analyst-171642777.html"
-    },
-    {
-      "title": "Super Micro Slides 3% as Reported DOJ Smuggling Probe Weighs for a Second Day; Dell Sinks 8%, NVIDIA Retreats 4%",
-      "summary": "The company named in the headline is falling the least, while Dell and NVIDIA take the bigger hits. A reported federal inquiry into China shipments is rattling AI hardware, and one question could decide whether the selling steadies.",
-      "pub_date": "2026-11-13T16:03:34Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-slides-3-reported-160334003.html"
     }
   ]
 }

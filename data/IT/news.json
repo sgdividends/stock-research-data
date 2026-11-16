@@ -1,7 +1,14 @@
 {
   "ticker": "IT",
-  "generated_at": "2026-11-16T04:20:22.322695+00:00",
+  "generated_at": "2026-11-16T17:47:36.762098+00:00",
   "items": [
+    {
+      "title": "AI spurs finance headcount dip",
+      "summary": "CFOs are advised to view artificial intelligence as a catalyst for workforce transformation rather than a direct staff-reduction lever, according to research from Gartner.",
+      "pub_date": "2026-11-16T15:00:00Z",
+      "source": "CFO.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-spurs-finance-headcount-dip-150000584.html"
+    },
     {
       "title": "CoreWeave Stock Surges as Revenue Soars. Is It Too Late to Buy the Stock?",
       "summary": "CoreWeave stock jumped after delivering strong revenue growth.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-10T16:12:17Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/tencent-sehk-700-lands-gartner-161217261.html"
-    },
-    {
-      "title": "IonQ Named Market Shaper in Gartner\u2019s 2026 Emerging Market Quadrant for Quantum Computing",
-      "summary": "IonQ (NYSE:IONQ) announced that it has been positioned as a Market Shaper in Gartner\u2019s inaugural Emerging Market Quadrant for Quantum Computing \u2013 Established Vendors, published in November 2026. The report evaluates established vendors operating in the developing quantum computing market, including their ability to deliver and support quantum systems in commercial environments.",
-      "pub_date": "2026-11-10T15:36:56Z",
-      "source": "InvestorsHub",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ionq-named-market-shaper-gartner-153656156.html"
     }
   ]
 }
