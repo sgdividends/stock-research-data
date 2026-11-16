@@ -1,7 +1,14 @@
 {
   "ticker": "T",
-  "generated_at": "2026-11-15T20:44:18.934398+00:00",
+  "generated_at": "2026-11-16T04:20:59.160968+00:00",
   "items": [
+    {
+      "title": "Can AT&T (T) Turn Satellite Handoffs Into A Real Wireless Edge?",
+      "summary": "AT&T (NYSE:T) reports a first successful handoff between ground cellular and direct to device satellite service with AST SpaceMobile. The test involved support from network equipment vendors Ericsson and Nokia to coordinate terrestrial and satellite connectivity on standard smartphones. The breakthrough targets coverage gaps in remote and rural areas where traditional cell towers are limited or absent. This new terrestrial to satellite handoff is only part of the AT&T story that investors...",
+      "pub_date": "2026-11-15T23:21:33Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/articles/t-t-turn-satellite-handoffs-232133824.html"
+    },
     {
       "title": "FAA Chief Warns System \u2018Will Continue to Break.\u2019 AT&T, Verizon, and Lumen Could Be Big Winners",
       "summary": "When the nation's top aviation regulator admits the air traffic system is guaranteed to fail again, someone gets paid to fix it. One telecom giant already holds a foothold in the contract, and its stock may be pricing in far too little.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-14T14:20:19Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-defensive-dividend-stocks-retirees-142019468.html"
-    },
-    {
-      "title": "How to Ensure That AI Disruption Doesn\u2019t Leave Workers Behind",
-      "summary": "Policymakers and business leaders have important roles to play in supporting U.S. citizens through the AI transition.",
-      "pub_date": "2026-11-13T23:37:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/how-to-ensure-that-ai-disruption-doesnt-leave-workers-behind-6c7ca991?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
