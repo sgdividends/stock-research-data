@@ -1,7 +1,14 @@
 {
   "ticker": "IBKR",
-  "generated_at": "2026-11-17T02:44:21.264926+00:00",
+  "generated_at": "2026-11-17T12:42:12.428282+00:00",
   "items": [
+    {
+      "title": "Will Senators' Pushback Derail Robinhood's Prediction-Market Growth?",
+      "summary": "HOOD's prediction-market growth faces regulatory uncertainty as nine senators challenge a CFTC directive, potentially complicating its nationwide expansion.",
+      "pub_date": "2026-11-17T11:13:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/options/articles/senators-pushback-derail-robinhoods-prediction-111300488.html"
+    },
     {
       "title": "SCHW Client Assets Hit $13.27T in October: Will the Momentum Continue?",
       "summary": "Schwab's client assets hit $13.27 trillion in October, with record net new assets and robust trading activity fueling growth.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-13T13:54:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-access-growth-opportunity-135400868.html"
-    },
-    {
-      "title": "HOOD's Securities Lending Revenues Slide 43% in October: Q4 at Risk?",
-      "summary": "Robinhood's securities-lending revenues plunged 43% in October, pressuring NIR growth. Rising margin balances may offer some support in Q4.",
-      "pub_date": "2026-11-13T13:21:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hoods-securities-lending-revenues-slide-132100983.html"
     }
   ]
 }

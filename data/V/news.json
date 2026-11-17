@@ -1,7 +1,14 @@
 {
   "ticker": "V",
-  "generated_at": "2026-11-17T02:44:58.528364+00:00",
+  "generated_at": "2026-11-17T12:42:53.485861+00:00",
   "items": [
+    {
+      "title": "US Judge defers ruling on $38bn Visa, Mastercard swipe fee settlement",
+      "summary": "The proposed agreement would cover more than 12 million merchants.",
+      "pub_date": "2026-11-17T11:55:00Z",
+      "source": "Electronic Payments",
+      "url": "https://finance.yahoo.com/economy/policy/articles/us-judge-defers-ruling-38bn-115500189.html"
+    },
     {
       "title": "Top British Hedge Fund Loads Up on Martin Marietta Stock, Trims Stake in Visa",
       "summary": "The fund decreased its reported holdings by $3 billion to $49.6 billion.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-16T16:32:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/currencies/articles/mastercards-mambu-deal-expand-apac-163200156.html"
-    },
-    {
-      "title": "Can Visa's Samsung Wallet Deal Unlock New Growth Across Asia-Pacific?",
-      "summary": "V's Samsung Wallet deal expands QR payments across Asia-Pacific, potentially boosting cross-border transactions and unlocking new revenue growth opportunities.",
-      "pub_date": "2026-11-16T16:28:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/currencies/articles/visas-samsung-wallet-deal-unlock-162800127.html"
     }
   ]
 }

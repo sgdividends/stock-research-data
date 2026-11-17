@@ -1,7 +1,21 @@
 {
   "ticker": "MA",
-  "generated_at": "2026-11-17T02:44:29.839946+00:00",
+  "generated_at": "2026-11-17T12:42:22.686529+00:00",
   "items": [
+    {
+      "title": "US Judge defers ruling on $38bn Visa, Mastercard swipe fee settlement",
+      "summary": "The proposed agreement would cover more than 12 million merchants.",
+      "pub_date": "2026-11-17T11:55:00Z",
+      "source": "Electronic Payments",
+      "url": "https://finance.yahoo.com/economy/policy/articles/us-judge-defers-ruling-38bn-115500189.html"
+    },
+    {
+      "title": "Mastercard (MA) Rolls Out App Payments, APAC Transfers And AI Travel Tests",
+      "summary": "Mastercard (NYSE:MA) introduced Mastercard Accept, which lets eligible debit and prepaid cardholders take digital payments directly in their banking or payment apps. The group expanded its partnership with cloud banking platform Mambu to offer broader cross border digital payment services for APAC banks. Mastercard also started pilots for secure AI driven travel bookings with Booked AI and Travelport, testing new services for travelers. The Mastercard Accept rollout, Mambu expansion and AI...",
+      "pub_date": "2026-11-17T03:10:10Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/mastercard-ma-rolls-app-payments-031010545.html"
+    },
     {
       "title": "Can Mastercard (MA) Justify A Premium Through Excess Returns?",
       "summary": "Mastercard has delivered strong multi year returns for shareholders. At a last close of US$661.71, the key issue for anyone looking at the stock today is whether that price is still supported by the returns the business earns on its capital. Over the past 5 years, Mastercard has returned 112.2%, which puts real weight on the question of whether its current valuation lines up with the quality and durability of those capital returns. New services such as Mastercard Accept and recent work...",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-16T16:28:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/currencies/articles/visas-samsung-wallet-deal-unlock-162800127.html"
-    },
-    {
-      "title": "AmEx Plunges 13.3% YTD: Is the Selloff an Opportunity or a Warning?",
-      "summary": "AXP stock is down 13.3% YTD despite resilient card spending and lending growth. Can premium-card momentum offset rising costs and fierce competition?",
-      "pub_date": "2026-11-16T15:56:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amex-plunges-13-3-ytd-155600758.html"
-    },
-    {
-      "title": "Mastercard pilots AI travel purchases",
-      "summary": "The card network is deploying its technology to validate consumers\u2019 agentic transactions and hide their payment details in the process.",
-      "pub_date": "2026-11-16T15:49:00Z",
-      "source": "Payments Dive",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mastercard-pilots-ai-travel-purchases-154900094.html"
     }
   ]
 }
