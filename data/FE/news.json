@@ -1,7 +1,14 @@
 {
   "ticker": "FE",
-  "generated_at": "2026-11-16T17:47:22.810227+00:00",
+  "generated_at": "2026-11-17T02:44:11.939493+00:00",
   "items": [
+    {
+      "title": "Are Wall Street Analysts Bullish on FirstEnergy Stock?",
+      "summary": "FirstEnergy has underperformed the broader market, supported by earnings growth, rising demand, and moderately bullish analyst sentiment.",
+      "pub_date": "2026-11-16T13:01:25Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-firstenergy-130125714.html"
+    },
     {
       "title": "PPL Stock Trading at a Premium to the Industry at 16.83X: How to Play?",
       "summary": "PPL trades at a premium valuation despite recent share weakness, while rising data center demand and a $25B investment plan fuel its long-term growth outlook.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-10-29T07:18:13Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/firstenergy-fe-q3-results-contrast-071813579.html"
-    },
-    {
-      "title": "FirstEnergy's data center demand nearly doubles in less than year",
-      "summary": "The amount of energy that FirstEnergy has contracted to provide to data centers jumped more than 20% over the third financial quarter of 2026.",
-      "pub_date": "2026-10-28T21:20:28Z",
-      "source": "Akron Beacon Journal",
-      "url": "https://finance.yahoo.com/energy/articles/firstenergys-data-center-demand-nearly-212028126.html"
     }
   ]
 }

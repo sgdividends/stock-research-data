@@ -1,7 +1,14 @@
 {
   "ticker": "MSCI",
-  "generated_at": "2026-11-16T17:47:50.878037+00:00",
+  "generated_at": "2026-11-17T02:44:33.487193+00:00",
   "items": [
+    {
+      "title": "Dear MicroStrategy Stock Fans, Mark Your Calendars for November 30",
+      "summary": "Multiple negative macroeconomic and political catalysts are likely to weigh on MSTR stock for the foreseeable future.",
+      "pub_date": "2026-11-16T18:58:54Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dear-microstrategy-stock-fans-mark-185854350.html"
+    },
     {
       "title": "AI Stocks Lose $6 Trillion. Pension Funds Face Hidden Exposure Risks.",
       "summary": "A $6 trillion selloff in AI stocks has exposed concentration risks across investment portfolios, with pension funds and bond managers examining how far their exposure extends.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-13T14:47:16Z",
       "source": "TIKR",
       "url": "https://finance.yahoo.com/markets/stocks/articles/msci-dropping-strategy-indexes-jpmorgan-144716377.html"
-    },
-    {
-      "title": "Bitcoin Falls Below $70,000. Strategy Faces New Pressure After MSCI Exclusion.",
-      "summary": "Michael Saylor's company faces potential selling by index-tracking funds, with billions in additional outflows possible if other benchmark providers follow MSCI.",
-      "pub_date": "2026-11-13T13:05:01Z",
-      "source": "International Business Times",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-below-70-000-130501023.html"
     }
   ]
 }

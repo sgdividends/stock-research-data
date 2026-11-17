@@ -1,7 +1,14 @@
 {
   "ticker": "NTAP",
-  "generated_at": "2026-11-16T17:47:56.358299+00:00",
+  "generated_at": "2026-11-17T02:44:36.724047+00:00",
   "items": [
+    {
+      "title": "Dell and HPE Have an Opportunity Outside AI, Citi Says",
+      "summary": "The next test is whether orders turn into sales.",
+      "pub_date": "2026-11-16T19:43:46Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/articles/dell-hpe-opportunity-outside-ai-194346820.html"
+    },
     {
       "title": "Dell and HPE Stocks Are Getting Hammered. Why the Selloff May Be Overdone.",
       "summary": "Strong AI and enterprise infrastructure demand could offset PC weakness, analysts say, following steep declines in the hardware stocks.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-12T13:00:02Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/netapp-inc-ntap-trending-stock-130002957.html"
-    },
-    {
-      "title": "Nebul Picks NetApp Novus: Why It Matters for NTAP's AI Growth",
-      "summary": "NetApp strengthens its AI infrastructure presence as Nebul adopts its new Novus architecture, targeting faster data access and sovereign AI needs.",
-      "pub_date": "2026-11-12T12:11:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nebul-picks-netapp-novus-why-121100773.html"
     }
   ]
 }

@@ -1,20 +1,48 @@
 {
   "ticker": "COIN",
-  "generated_at": "2026-11-16T17:47:07.148598+00:00",
+  "generated_at": "2026-11-17T02:43:55.069167+00:00",
   "items": [
+    {
+      "title": "Stocks to Watch Recap: Robinhood, Nvidia, SpaceX, L3Harris",
+      "summary": "\u2198\ufe0f Nvidia (NVDA): Heated debate around the leadership of the AI giant isn't going away, with a Silicon Valley campaign to reinstate Jensen Huang as CEO under way, and the Treasury secretary and Nvidia board less on board.",
+      "pub_date": "2026-11-16T22:49:44Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-16-2026/card/stocks-to-watch-nvidia-intel-spacex-QOpa7fFDgsDwemeMk9Sf?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Bitcoin Tumbles Ahead Of Anthropic IPO. Is It Paralleling Its SpaceX Sell Off?",
+      "summary": "Bitcoin price undercuts $65K during weekend liquidation wave. Anthropic IPO may be pulling bitcoin ETF demand, industry expert says.",
+      "pub_date": "2026-11-16T21:28:03Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/bitcoin-price-unravels-bitcoin-liquidations-etf-flows-anthropic-ipo-spacex-crypto-stocks/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Coinbase Stocks Fall 7.54% as Bitcoin Slides Toward $64,000 and Trading Volumes Shrink",
+      "summary": "A deepening crypto rout and a lowered B. Riley target pushed Coinbase toward fresh lows as transaction revenue keeps shrinking.",
+      "pub_date": "2026-11-16T18:59:46Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-stocks-fall-7-54-185946617.html"
+    },
+    {
+      "title": "Did Bitcoin Prices Bottom at $62,000? Strategy Has Bought the Decline.",
+      "summary": "Strategy, Coinbase Global, and other crypto stocks fall Monday.",
+      "pub_date": "2026-11-16T18:56:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/bitcoin-prices-strategy-coinbase-f7d3191e?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Robinhood Stocks Fall 5.4% as Crypto Rout Pressures a Shrinking Revenue Line",
+      "summary": "Bitcoin's slide toward $64,000 hit Robinhood after crypto trading revenue already fell 55% last quarter.",
+      "pub_date": "2026-11-16T17:56:15Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-stocks-fall-5-4-175615099.html"
+    },
     {
       "title": "Crypto Stocks Slide as Bitcoin Sinks and Strategy Leads the Retreat",
       "summary": "Strategy Stock Drops With Bitcoin as Nvidia Turmoil Rattles Risk Appetite",
       "pub_date": "2026-11-16T16:57:58Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-stocks-slide-bitcoin-sinks-165758731.html"
-    },
-    {
-      "title": "Bitcoin Tumbles Ahead Of Anthropic IPO. Is It Paralleling Its SpaceX Sell Off?",
-      "summary": "Bitcoin price undercuts $65K during weekend liquidation wave. Anthropic IPO may be pulling bitcoin ETF demand, industry expert says.",
-      "pub_date": "2026-11-16T16:51:16Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/bitcoin-price-unravels-bitcoin-liquidations-etf-flows-anthropic-ipo-spacex-crypto-stocks/?src=A00220&yptr=yahoo"
     },
     {
       "title": "Tom Lee Points to Anthropic IPO as Ether Slide Cuts Bitmine\u2019s Holdings to $11.8 Billion",
@@ -29,34 +57,6 @@
       "pub_date": "2026-11-16T16:31:16Z",
       "source": "Bloomberg",
       "url": "https://finance.yahoo.com/video/crypto-stocks-sink-bitcoins-slide-163116959.html"
-    },
-    {
-      "title": "Did Bitcoin Prices Bottom at $62,000? Strategy Has Bought the Decline.",
-      "summary": "Strategy, Coinbase Global, and other crypto stocks fall Monday.",
-      "pub_date": "2026-11-16T16:07:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/bitcoin-prices-strategy-coinbase-f7d3191e?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Coinbase, Broadridge to Bring Shareholder Voting Rights to Tokenized Stocks",
-      "summary": "Coinbase (NASDAQ: $COIN) and financial technology company Broadridge (NYSE: $BR) have introduced an open standard d...",
-      "pub_date": "2026-11-16T15:47:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-broadridge-bring-shareholder-voting-154700598.html"
-    },
-    {
-      "title": "Strategy Sinks 6% as Bitcoin Slides Near Three-Month Low in a Collapse Peter Schiff Says Is \u201cGathering Steam\u201d",
-      "summary": "Key TakeawaysStrategy fell 6% as bitcoin slid near a three-month low, taking Circle, Coinbase and Robinhood with it. Bitcoin is now about 14% below the average price Strategy paid for its coins.",
-      "pub_date": "2026-11-16T14:58:00Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/strategy-sinks-6-bitcoin-slides-145800525.html"
-    },
-    {
-      "title": "Stocks to Watch: Robinhood, Nvidia, SpaceX, L3Harris",
-      "summary": "\u2198\ufe0f Nvidia (NVDA): Heated debate around the leadership of the AI giant isn't going away, with a Silicon Valley campaign to reinstate Jensen Huang as CEO under way.",
-      "pub_date": "2026-11-16T14:53:31Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-16-2026/card/stocks-to-watch-nvidia-intel-spacex-QOpa7fFDgsDwemeMk9Sf?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

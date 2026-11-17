@@ -1,7 +1,14 @@
 {
   "ticker": "FOX",
-  "generated_at": "2026-11-16T17:47:24.727412+00:00",
+  "generated_at": "2026-11-17T02:44:13.232664+00:00",
   "items": [
+    {
+      "title": "DOJ Open to Behavioral Remedies in Merger Reviews, Antitrust Official Says",
+      "summary": "The US Justice Department is open to approving mergers based on commitments about how companies will",
+      "pub_date": "2026-11-17T00:49:07Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/economy/policy/articles/doj-open-behavioral-remedies-merger-004907935.html"
+    },
     {
       "title": "Roku drops smart-home products days after Fox takeover",
       "summary": "Roku is ending sales of its security cameras and video doorbells, raising questions about how long existing devices will be supported.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-11T22:23:29Z",
       "source": "CorpGov.com",
       "url": "https://finance.yahoo.com/news/value-creation-pro-sports-transactions-222329757.html"
-    },
-    {
-      "title": "Homebuying Cost Surges for Mortgage Holders Amid Elevated Rates, Prices, Realtor.com Says",
-      "summary": "The typical mortgage holder in the US would need roughly $1,100 more each month than they pay at pre",
-      "pub_date": "2026-11-11T19:09:58Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/real-estate/articles/homebuying-cost-surges-mortgage-holders-190958040.html"
     }
   ]
 }

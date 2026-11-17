@@ -1,7 +1,35 @@
 {
   "ticker": "PANW",
-  "generated_at": "2026-11-16T17:47:58.633585+00:00",
+  "generated_at": "2026-11-17T02:44:39.534337+00:00",
   "items": [
+    {
+      "title": "'Even bad hackers have become OK': PAN CEO Nikesh Arora on AI tools",
+      "summary": "Palo Alto Networks (PANW) CEO Nikesh Arora said during a panel with Federal Reserve Chairman Kevin Warsh that AI tools are lowering the bar for cyberattacks, leaving security help in short supply and attacks more frequent, but that the same technology can also help companies find vulnerabilities and rewrite old code.",
+      "pub_date": "2026-11-16T18:40:00Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/even-bad-hackers-become-ok-184000523.html"
+    },
+    {
+      "title": "NVIDIA: The Most Important Earnings Chart This Week",
+      "summary": "NVIDIA is an earnings all-star. But will another beat even matter?",
+      "pub_date": "2026-11-16T22:01:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-most-important-earnings-chart-220100357.html"
+    },
+    {
+      "title": "Earnings to watch: NVIDIA, Walmart, Home Depot and more report this week",
+      "summary": "Investing.com -- This week\u2019s calendar pairs the consumer (Home Depot, Lowe\u2019s, Target, TJX, Walmart) with the AI trade (NVIDIA). Data is from the earnings calendar as of Mon, Nov 16, 2026 at 3:17 PM EST. Estimates are consensus and can shift.",
+      "pub_date": "2026-11-16T20:53:09Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-watch-nvidia-walmart-home-205309775.html"
+    },
+    {
+      "title": "Fed Examines AI\u2019s Impact on the Economy. It Seems Like Anything Could Happen.",
+      "summary": "Warsh has argued that AI-driven productivity gains could allow the economy to grow more quickly without generating additional inflation.",
+      "pub_date": "2026-11-16T17:30:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/fed-chair-kevin-warsh-ai-interest-rates-aad5f9a5?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Update: US Equity Futures Lower Pre-Bell as Traders Await Nvidia Results, Anthropic IPO",
       "summary": "(Updates with economic data, recent oil price movement, world markets' overview and corporate stock",
@@ -29,34 +57,6 @@
       "pub_date": "2026-11-16T12:48:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/zscalers-ai-security-push-overcome-124800615.html"
-    },
-    {
-      "title": "Nobody can replace Jensen Huang. What that means for AI",
-      "summary": "Jensen Huang is out at Nvidia after a week of alleged spy ties, reported affairs and a resignation, with about $2 trillion gone from Nvidia's value. Host Ejaaz Ahamadeen breaks down why he was a one-of-one founder, who might replace him, the rivals circling Nvidia and why a China chip ban could backfire.",
-      "pub_date": "2026-11-16T12:00:00Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/nobody-replace-jensen-huang-means-120000902.html"
-    },
-    {
-      "title": "Jim Cramer: Anthropic\u2019s \u201cNext $100 Billion in Revenue\u201d Might Be Cybersecurity. CrowdStrike Should Worry",
-      "summary": "Key TakeawaysDays before Anthropic\u2019s IPO, Jim Cramer named cybersecurity as a possible source of the AI lab\u2019s next $100 billion in revenue, given how good Claude is at spotting code vulnerabilities. A bigger Claude security push would make Anthropic a direct competitor to CrowdStrike and Palo Alto Networks, which both jumped nearly 3% early on Nov.",
-      "pub_date": "2026-11-16T02:22:51Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-anthropic-next-100-022251773.html"
-    },
-    {
-      "title": "Palo Alto Networks Stock Outlook: Is Wall Street Bullish or Bearish?",
-      "summary": "Palo Alto Networks has significantly outperformed the broader market and software sector, supported by AI-driven cybersecurity demand, expanding services, and increasingly bullish analyst sentiment.",
-      "pub_date": "2026-11-15T21:50:58Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/palo-alto-networks-stock-outlook-215058763.html"
-    },
-    {
-      "title": "What To Expect In Markets This Week: NVDA, PANW, DIS, HD, TGT, WMT, GRRR Earnings, Kevin Warsh Speech And More",
-      "summary": "Remarks from central bank officials may provide clues about the Fed's thinking on its next policy moves.",
-      "pub_date": "2026-11-15T10:24:28Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/expect-markets-week-nvda-panw-102428642.html"
     }
   ]
 }

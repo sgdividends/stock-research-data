@@ -1,7 +1,28 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-11-16T17:47:33.863807+00:00",
+  "generated_at": "2026-11-17T02:44:21.425391+00:00",
   "items": [
+    {
+      "title": "Learn Why The Bull Case For IBM Stock Could Change Following Quantum Computing Expansion",
+      "summary": "International Business Machines recently announced a series of quantum and AI moves, including new Nighthawk processors, a Chicago Quantum System Two deployment, multiple co-design platforms with partners such as NVIDIA, AMD, Fermilab, and Oak Ridge, and an AI agent platform collaboration with Microsoft. These projects point to IBM leaning heavily into capital-intensive, research-heavy quantum and enterprise AI infrastructure. This could influence long-term margins, required investment, and...",
+      "pub_date": "2026-11-16T23:19:29Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/learn-why-bull-case-ibm-231929118.html"
+    },
+    {
+      "title": "What a New AI Agent Partnership with Microsoft Means for IBM Stock",
+      "summary": "IBM\u2019s new AI-agent partnership with Microsoft could provide a powerful catalyst for enterprise AI growth, potentially strengthening its business and giving IBM stock a fresh upside opportunity.",
+      "pub_date": "2026-11-16T15:47:24Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-agent-partnership-microsoft-means-154724648.html"
+    },
+    {
+      "title": "IBM\u2019s Software Segment Remains Value Creator as ARR Swells",
+      "summary": "IBM is acquiring AuthMind in a cybersecurity push",
+      "pub_date": "2026-11-16T15:13:04Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/technology/articles/ibm-software-segment-remains-value-151304121.html"
+    },
     {
       "title": "IBM vs. Jabil: Which Stock is Better Positioned for AI Growth Now?",
       "summary": "JBL outshines IBM in stock performance, valuation and growth estimates, supported by rising AI infrastructure demand.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-11-16T00:19:06Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-deepens-001906359.html"
-    },
-    {
-      "title": "Micron, Amazon, and IBM: My 3 Favorite Stocks to Buy and Hold Through 2030",
-      "summary": "Why would a cheap chip stock, a massive AI spender, and a business that has paid dividends since 1916 make a good team?",
-      "pub_date": "2026-11-15T10:37:02Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-amazon-ibm-3-favorite-103702400.html"
-    },
-    {
-      "title": "Arista Networks vs. IBM: Which Technology Stock Is a Better Buy for 2027?",
-      "summary": "Arista's margins are running hot, but IBM's steady software pivot and far lower valuation make the 2027 choice closer than the price tags suggest.",
-      "pub_date": "2026-11-14T17:01:02Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-vs-ibm-technology-170102487.html"
-    },
-    {
-      "title": "Why a Rising TSMC Challenger Could Reshape the Chip Foundry Landscape",
-      "summary": "Japan's state-backed Rapidus is promising cheaper 2-nanometer chips, but it still has to prove that it can manufacture them.",
-      "pub_date": "2026-11-14T12:04:00Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/technology/articles/why-rising-tsmc-challenger-could-120400048.html"
     }
   ]
 }
