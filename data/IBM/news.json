@@ -1,7 +1,14 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-11-17T23:17:53.662425+00:00",
+  "generated_at": "2026-11-18T05:33:04.279946+00:00",
   "items": [
+    {
+      "title": "Could IBM (IBM) Reshape Scientific Computing With Its New Quantum Classical Platform?",
+      "summary": "IBM (NYSE:IBM), NVIDIA and Fermilab unveiled a modular quantum classical computing platform that pairs IBM Nighthawk quantum processors with NVIDIA systems. The collaboration places NVIDIA DGX B200 infrastructure in the same facility as IBM's latest quantum hardware to tighten system integration for research workloads. The new setup targets scientific computing tasks that previously could not be addressed using standalone quantum or classical architectures. The launch of this IBM, NVIDIA and...",
+      "pub_date": "2026-11-18T01:17:08Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/could-ibm-ibm-reshape-scientific-011708713.html"
+    },
     {
       "title": "Stock Market Today: Dow Dives, Nvidia Falls Amid This Jensen Huang Offer; Cyber Plays Mixed",
       "summary": "The Dow Jones index drops on the stock market today. Nvidia stock falls amid news of a new probe. Cybersecurity stocks mostly fall.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-17T18:30:16Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/needs-true-buy-dell-stock-183016061.html"
-    },
-    {
-      "title": "Is Consulting Holding Back IBM Stock?",
-      "summary": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-      "pub_date": "2026-11-17T14:40:50Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/consulting-holding-back-ibm-stock-144050105.html"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-11-17T23:16:58.093437+00:00",
+  "generated_at": "2026-11-18T05:32:19.595185+00:00",
   "items": [
     {
       "title": "Wells Fargo customers double their BlackRock bitcoin ETF holdings to $2.35B",
@@ -8,6 +8,13 @@
       "pub_date": "2026-11-17T17:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/wells-fargo-customers-double-their-blackrock-bitcoin-etf-holdings-to-235b-194909496.html"
+    },
+    {
+      "title": "Billionaire Paul Tudor Jones doubles stake in BlackRock's Bitcoin ETF",
+      "summary": "Billionaire Paul Tudor Jones\u2019 fund boosted stake in IBIT by 98% in Q3.",
+      "pub_date": "2026-11-18T00:24:50Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/billionaire-paul-tudor-jones-doubles-002450666.html"
     },
     {
       "title": "Jeff Bezos\u2019 Former Hedge Fund Is Buying Bitcoin Again",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-17T18:07:40Z",
       "source": "BeInCrypto",
       "url": "https://finance.yahoo.com/markets/crypto/articles/wall-street-investors-slowly-back-180740158.html"
-    },
-    {
-      "title": "SPCX Stock In Focus: SpaceX To Reportedly Launch $4B Bond Sale This Week",
-      "summary": "The bond sale is part of a larger $40 billion financing to buy Nvidia\u2019s Vera Rubin chips.",
-      "pub_date": "2026-11-17T18:07:04Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spcx-stock-focus-spacex-reportedly-180704362.html"
     }
   ]
 }

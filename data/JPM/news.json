@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-11-17T23:18:02.246561+00:00",
+  "generated_at": "2026-11-18T05:33:10.575111+00:00",
   "items": [
     {
       "title": "Software bug freezes Chase: Is it the time for bitcoin?",
@@ -15,6 +15,20 @@
       "pub_date": "2026-11-17T15:31:10Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/jpmorgan-cfo-jeremy-barnum-to-step-down-as-jamie-dimons-succession-plans-take-shape-153110270.html"
+    },
+    {
+      "title": "Iron Mountain Sees Billion-Dollar Growth in Data Centers and IT Asset Services",
+      "summary": "Iron Mountain (NYSE:IRM) is counting on cross-selling digital services, asset lifecycle management and data center capacity to its established customer base as it expands beyond records storage, Chief Financial Officer Barry Hytinen said at a J.P. Morgan services event. Hytinen said the company ser",
+      "pub_date": "2026-11-18T04:12:06Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/real-estate/articles/iron-mountain-sees-billion-dollar-041206625.html"
+    },
+    {
+      "title": "America's AI Boom Has a Hidden Cost \u2014 Top Economist Warns Inflation Is Rising, Capital Is Being Sucked Away, and the Rest of the Economy Is Falling Behind",
+      "summary": "Moody\u2019s Analytics Chief Economist Mark Zandi warned that the artificial intelligence boom is driving up inflation and borrowing costs while diverting investment away from other sectors of the U.S. economy. AI Spending Fuels Inflation and Higher Rates On Sunday, in...",
+      "pub_date": "2026-11-17T23:30:27Z",
+      "source": "Benzinga",
+      "url": "https://finance.yahoo.com/economy/policy/articles/americas-ai-boom-hidden-cost-233027907.html"
     },
     {
       "title": "A Third Outage Strikes, This Time at Chase, Big Banks. The Stocks Are Falling.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-17T19:04:54Z",
       "source": "American Banker",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-cfo-plans-exit-company-190454860.html"
-    },
-    {
-      "title": "Charles Schwab Resolves Brief Web Issue Following Wider Bank Outages",
-      "summary": "A Charles Schwab spokesperson says its brief webpage loading issue is now resolved.",
-      "pub_date": "2026-11-17T19:04:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/charles-schwab-brief-web-outage-d3911986?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Software Stocks Retreat Amid Inflation Worries, New OpenAI Model",
-      "summary": "Software stocks sold off on Tuesday amid investor worries over inflation and debut of new OpenAI model.",
-      "pub_date": "2026-11-17T18:26:08Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/software-stocks-down-interest-rates-nvidia-cybersecurity/?src=A00220&yptr=yahoo"
     }
   ]
 }
