@@ -1,27 +1,13 @@
 {
   "ticker": "HPE",
-  "generated_at": "2026-11-19T01:37:26.767405+00:00",
+  "generated_at": "2026-11-19T12:23:58.669351+00:00",
   "items": [
     {
-      "title": "HPE CEO's advice to employees: Major in your job, minor in AI",
-      "summary": "HPE President &amp; CEO Antonio Neri explains why \"culture is everything\" when it comes to retaining talent, and shares his advice on how anyone in the workforce can take advantage of the new opportunities AI will create, even as it reduces some jobs.",
-      "pub_date": "2026-11-18T13:00:00Z",
+      "title": "Anthropic to debut amid security worries and SpaceX to finance GPU rentals",
+      "summary": "Deirdre Bosa discusses Anthropic's (ANTH.PVT) expected IPO to launch amid multiple security worries, SpaceX (SPCX) financing GPU rentals, and getting around the AI bottleneck.\n\nDeirdre Bosa then sits down with Micron (MU) president and CTO Scott J. DeBoer to discuss the chip stock sell-off, Washington putting the screws to China in the AI trade, and TSMC's (TSM) potential move into memory.\n\n'Deirdre Bosa Live' airs every day at 4 p.m. Tune in daily to hear how the latest developments in AI and technology are reshaping companies, industries, and the global economy.",
+      "pub_date": "2026-11-18T22:58:01Z",
       "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/hpe-ceos-advice-to-employees-major-in-your-job-minor-in-ai-175529247.html"
-    },
-    {
-      "title": "Inside the HPE cooling lab solving AI's power problem",
-      "summary": "CEO Antonio Neri showcases the water-cooled supercomputer lab where HPE is tackling the heat and energy demands of AI by developing systems that use less space and less energy, explaining why sustainability requires the whole infrastructure, not just the chips, to keep up.",
-      "pub_date": "2026-11-18T12:00:00Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/inside-the-hpe-cooling-lab-solving-ais-power-problem-175535946.html"
-    },
-    {
-      "title": "HPE CEO Antonio Neri is building the machines behind the AI boom",
-      "summary": "Hewlett Packard Enterprise (NYSE: HPE) President &amp; CEO Antonio Neri shows host Ryan Patel around the company's Houston campus, from its supercomputer labs to its beekeeping project, showcasing how HPE is building the AI infrastructure powering the future, from missions to the moon to next-gen cooling tech.",
-      "pub_date": "2026-11-18T11:00:00Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/hpe-ceo-antonio-neri-building-110000376.html"
+      "url": "https://finance.yahoo.com/video/anthropic-to-debut-amid-security-worries-and-spacex-to-finance-gpu-rentals-225801261.html"
     },
     {
       "title": "HPE Adds Former JPMorgan Exec to Board, Amends Agreement With Elliott Investment",
@@ -57,6 +43,20 @@
       "pub_date": "2026-11-18T17:39:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-drops-7-post-earnings-173900714.html"
+    },
+    {
+      "title": "Why Analysts Are Suddenly Talking About This Forgotten Tech Stock",
+      "summary": "Cisco just posted a record quarter, and the stock still sank. Behind the selloff sits an AI networking bet, a margin squeeze, and a valuation gap with Arista that has some analysts rethinking what this old dividend payer is really worth.",
+      "pub_date": "2026-11-18T17:03:52Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-analysts-suddenly-talking-forgotten-170352143.html"
+    },
+    {
+      "title": "Can SMCI Convert Capacity Expansion Into Growth in 2027?",
+      "summary": "Super Micro Computer's AI server demand, expanding liquid-cooling capabilities and rising production capacity position it to capitalize on growing data center infrastructure needs.",
+      "pub_date": "2026-11-18T14:23:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/smci-convert-capacity-expansion-growth-142300625.html"
     }
   ]
 }

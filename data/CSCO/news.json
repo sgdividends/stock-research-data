@@ -1,7 +1,28 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-11-19T01:37:04.678568+00:00",
+  "generated_at": "2026-11-19T12:23:52.411718+00:00",
   "items": [
+    {
+      "title": "Jim Cramer\u2019s AI Hyperscale List: 5 Core Infrastructure Stocks for 2027",
+      "summary": "When a cloud company orders thousands of AI servers, the date it can put them to work often depends on when the local utility can deliver power. Contractors prepare the site and build the grid connection. Inside the facility, electrical equipment distributes power to the server racks, cooling systems carry heat away from the chips, [\u2026]",
+      "pub_date": "2026-11-19T11:02:40Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jim-cramer-ai-hyperscale-list-110240248.html"
+    },
+    {
+      "title": "ETFs Are Net Sellers of Cisco (CSCO) on Nov. 17",
+      "summary": "ETFs sold a net $189.2 million of Cisco stock on Tuesday, Nov. 17.",
+      "pub_date": "2026-11-19T11:02:21Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-cisco-csco-110221495.html"
+    },
+    {
+      "title": "ETF Activity: QQQ Outflows Lead Fund Moves on Nov. 17",
+      "summary": "Large-cap tech funds led a mixed day as broad-market inflows offset sector-level selling.",
+      "pub_date": "2026-11-19T11:00:12Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/etf-activity-qqq-outflows-lead-110012726.html"
+    },
     {
       "title": "Cisco (CSCO) Stock Lags Record Q1 Earnings As AI Revenue Builds",
       "summary": "Cisco Systems just posted Q1 FY2027 numbers that read like a victory lap, while the stock is only inching higher. Shares closed at US$97.18, up 2.2% on the day, even as the networking giant delivered record quarterly revenue of US$18.5b and non GAAP earnings per share of US$1.40. That gap between a modest price move and a very strong earnings print is the story. The market is reacting, but not as dramatically as the fundamentals might suggest. This sets up a clear test of whether traders are...",
@@ -36,27 +57,6 @@
       "pub_date": "2026-11-18T17:39:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-drops-7-post-earnings-173900714.html"
-    },
-    {
-      "title": "Why Analysts Are Suddenly Talking About This Forgotten Tech Stock",
-      "summary": "Cisco just posted a record quarter, and the stock still sank. Behind the selloff sits an AI networking bet, a margin squeeze, and a valuation gap with Arista that has some analysts rethinking what this old dividend payer is really worth.",
-      "pub_date": "2026-11-18T17:03:52Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-analysts-suddenly-talking-forgotten-170352143.html"
-    },
-    {
-      "title": "Anthropic IPO: Why Are Nvidia, Google And Others Buying $26 Billion?",
-      "summary": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036.",
-      "pub_date": "2026-11-18T14:40:59Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-why-nvidia-google-144059595.html"
-    },
-    {
-      "title": "Can Arista Strengthen AI Networking With Its New Etherlink Offerings?",
-      "summary": "ANET expands its AI networking portfolio with energy-efficient Etherlink R4 platforms, offering secure, low-latency inferencing and high-capacity connectivity across distributed data centers.",
-      "pub_date": "2026-11-18T14:33:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/arista-strengthen-ai-networking-etherlink-143300058.html"
     }
   ]
 }
