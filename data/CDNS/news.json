@@ -1,7 +1,14 @@
 {
   "ticker": "CDNS",
-  "generated_at": "2026-11-18T16:52:48.782474+00:00",
+  "generated_at": "2026-11-19T01:36:57.787096+00:00",
   "items": [
+    {
+      "title": "Nvidia highlights open models amid leadership shakeup",
+      "summary": "In its first earnings call since Jensen Huang\u2019s resignation, Nvidia shed light on the growth of open models and the ecosystem it\u2019s helping to build around them.",
+      "pub_date": "2026-11-18T21:19:47Z",
+      "source": "CIO Dive",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-highlights-open-models-amid-211947814.html"
+    },
     {
       "title": "3 Software Stocks to Add to Your Portfolio on AI, Cloud Tailwinds",
       "summary": "Amid broader market volatility, steady digital transformation and strong adoption of AI bode well for Computer Software industry participants like CDNS, SNPS and PRGS.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-12T13:09:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/options/articles/implied-volatility-surging-cadence-stock-130900542.html"
-    },
-    {
-      "title": "What Is Cadence Design Systems (CDNS) Showing With Its New Edge AI Subsystem?",
-      "summary": "Cadence Design Systems (NasdaqGS:CDNS) and Expedera announced a joint edge AI subsystem integration using Cadence's Tensilica NeuroEdge 130 AI Co-Processor and Expedera's Origin Evolution NPU IP. The partners are showcasing pre-silicon simulation of workload distribution and execution for edge inference use cases. The collaboration is aimed at power efficient AI inference in edge devices where performance and energy use are tightly constrained. This new Cadence and Expedera AI subsystem demo...",
-      "pub_date": "2026-11-12T05:15:58Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cadence-design-systems-cdns-showing-051558593.html"
     }
   ]
 }

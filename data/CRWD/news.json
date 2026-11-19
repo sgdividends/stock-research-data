@@ -1,7 +1,42 @@
 {
   "ticker": "CRWD",
-  "generated_at": "2026-11-18T16:52:56.975074+00:00",
+  "generated_at": "2026-11-19T01:37:04.548879+00:00",
   "items": [
+    {
+      "title": "Stock Market Today: Dow Ends In Red On Rate Shock Fears; Nvidia Sinks As Anthropic IPO Looms",
+      "summary": "The Dow Jones index falls Wednesday as a Fed official calls for a \"shock\" in rate hikes to cool inflation. Nvidia ends lower.",
+      "pub_date": "2026-11-18T21:48:30Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-minutes-nvidia-earnings-nvda-stock-lowes-target/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Tech Stocks Boosted by Cybersecurity Rally",
+      "summary": "Plus, Nvidia slips after earnings and a Fed governor pushes for an aggressive hike",
+      "pub_date": "2026-11-18T21:40:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/stocks/tech-stocks-boosted-by-cybersecurity-rally-5f9ff803?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Nvidia highlights open models amid leadership shakeup",
+      "summary": "In its first earnings call since Jensen Huang\u2019s resignation, Nvidia shed light on the growth of open models and the ecosystem it\u2019s helping to build around them.",
+      "pub_date": "2026-11-18T21:19:47Z",
+      "source": "CIO Dive",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-highlights-open-models-amid-211947814.html"
+    },
+    {
+      "title": "AI Risks Lift Cyber Stocks as Software Looks to Shrug Off Slump",
+      "summary": "Cybersecurity stocks rise as software weakness appears to be easing after outages and general tech stock concern has hit the sector.",
+      "pub_date": "2026-11-18T19:25:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/cybersecurity-software-stocks-palo-alto-eaaa4906?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Cybersecurity Stocks Shine as Outage Theories Swirl",
+      "summary": "Cybersecurity stocks are rising after a string of recent outages spooked Wall Street and Main Street alike.",
+      "pub_date": "2026-11-18T17:05:13Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-111826/card/cybersecurity-stocks-shine-as-outage-theories-swirl-R2GcK5jQOyXTFeDxjwVq?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Google Says Fully Autonomous AI Cyberattacks Are Likely Within 6 Months",
       "summary": "Google is forecasting a wave of machine-run hacking while selling the cure, and Palo Alto reports earnings in the middle of it. Why a stock sliding toward its lows may face its toughest test yet.",
@@ -22,41 +57,6 @@
       "pub_date": "2026-11-18T15:17:12Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-large-cap-u-stocks-151712324.html"
-    },
-    {
-      "title": "Should Okta Stock Holders Look At Salesforce Instead?",
-      "summary": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036.",
-      "pub_date": "2026-11-18T14:50:17Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/okta-stock-holders-look-salesforce-145017141.html"
-    },
-    {
-      "title": "Can Datadog Stock Jump 50%?",
-      "summary": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036.",
-      "pub_date": "2026-11-18T11:58:31Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/datadog-stock-jump-50-115831283.html"
-    },
-    {
-      "title": "iShares Expanded Tech-Software (IGV) Sells $19.0 Million of Microsoft on Nov. 16",
-      "summary": "The fund sold $207.4 million of stock and bought nothing, cutting 103 positions while increasing none.",
-      "pub_date": "2026-11-18T11:05:17Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-expanded-tech-software-igv-110517237.html"
-    },
-    {
-      "title": "CrowdStrike Holdings (CRWD) Lands Frost Radar Honor As New AI Agent Risks Rise",
-      "summary": "CrowdStrike Holdings (NasdaqGS:CRWD) was named a Visionary Leader in the 2026 Frost Radar AI Security Operations Centers report. The report cited CrowdStrike for work on agentic security operations centers and AI driven security tooling. CrowdStrike introduced Agentic Adversary Emulation, an AI system designed to simulate autonomous attacker behavior against customer environments. The firm also launched Agent Insider Threat Detection to monitor and flag risky or abusive actions by AI agents...",
-      "pub_date": "2026-11-18T00:17:52Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-holdings-crwd-lands-frost-001752933.html"
-    },
-    {
-      "title": "Cantor Fitzgerald Raises Its CrowdStrike Target to $275. Is It Still Too Low?",
-      "summary": "Key TakeawaysCantor Fitzgerald raised its CrowdStrike price target to $275 from $250 on Nov. 16 and kept its Overweight rating.",
-      "pub_date": "2026-11-17T22:55:11Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cantor-fitzgerald-raises-crowdstrike-target-225511018.html"
     }
   ]
 }

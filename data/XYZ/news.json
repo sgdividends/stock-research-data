@@ -1,7 +1,14 @@
 {
   "ticker": "XYZ",
-  "generated_at": "2026-11-18T16:54:22.619843+00:00",
+  "generated_at": "2026-11-19T01:38:15.877245+00:00",
   "items": [
+    {
+      "title": "Jay-Z-Backed Music Financing Startup Duetti Raises $665M",
+      "summary": "A Jay-Z-backed music financing startup has raised new funding.",
+      "pub_date": "2026-11-18T17:52:05Z",
+      "source": "AfroTech",
+      "url": "https://finance.yahoo.com/media-advertising/articles/jay-z-backed-music-financing-175205249.html"
+    },
     {
       "title": "A $12 Billion Fund Dumps These 3 Stocks",
       "summary": "Key TakeawaysPointState Capital, a firm that manages $12 billion, sold all of its DoorDash, Block and Meta Platforms shares in the third quarter, its latest 13F shows. By Sept.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-17T12:49:24Z",
       "source": "TIKR",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-raises-block-target-105-124924043.html"
-    },
-    {
-      "title": "Cathie Wood's ARK Sells Solana And Ethereum Staking Funds, Buys Three Crypto Stocks Amid Bitcoin Slide",
-      "summary": "ARK Invest reversed its position on Block Inc., by purchasing the stock, while it had sold a substantial number last week.",
-      "pub_date": "2026-11-17T05:25:43Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/cathie-woods-ark-sells-solana-052543089.html"
     }
   ]
 }
