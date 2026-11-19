@@ -1,7 +1,49 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-11-19T12:24:16.943253+00:00",
+  "generated_at": "2026-11-19T22:53:05.043468+00:00",
   "items": [
+    {
+      "title": "Short Seller Raises Questions About Nvidia's Former Top Sales Executive. $2.5 Billion China Chip Case In Focus.",
+      "summary": "A short seller's report has drawn Nvidia's former top sales executive into scrutiny surrounding an alleged $2.5 billion China chip-diversion scheme. The reported personal connection remains unverified.",
+      "pub_date": "2026-11-19T19:49:17Z",
+      "source": "International Business Times",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/short-seller-raises-questions-nvidias-194917610.html"
+    },
+    {
+      "title": "Vertiv's 800 VDC Push Boosts AI Prospects: Can It Beat APH and SMCI?",
+      "summary": "VRT's expanding 800 VDC portfolio and surging AI infrastructure demand fuel growth prospects amid stiff competition from Amphenol and Super Micro Computer.",
+      "pub_date": "2026-11-19T16:46:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/vertivs-800-vdc-push-boosts-164600968.html"
+    },
+    {
+      "title": "SMCI vs. NTAP: Which Stock Is the Better Value Option?",
+      "summary": "SMCI vs. NTAP: Which Stock Is the Better Value Option?",
+      "pub_date": "2026-11-19T15:40:02Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/smci-vs-ntap-stock-better-154002713.html"
+    },
+    {
+      "title": "3 Storage Device Stocks to Buy as the Industry Gains Momentum",
+      "summary": "Momentum in cloud computing, IoT, auto and AI is expected to drive the prospects of Zacks Computer-Storage Devices industry players like WDC, SMCI and QMCO.",
+      "pub_date": "2026-11-19T15:06:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-storage-device-stocks-buy-150600022.html"
+    },
+    {
+      "title": "Should Investors Buy, Sell or Hold HPE Stock Before Q4 Earnings?",
+      "summary": "Hewlett Packard Enterprise heads into Q4 earnings with strong AI infrastructure demand, a growing AI backlog and expanding networking opportunities.",
+      "pub_date": "2026-11-19T15:04:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-buy-sell-hold-hpe-150400180.html"
+    },
+    {
+      "title": "Dell Is Down 16% in a Week. Steve Eisman Warns It \u201cWill Also Slow Along With Nvidia.\u201d Time to Buy?",
+      "summary": "Key TakeawaysDell stock fell 16% in the past week as AI hardware sold off after Jensen Huang resigned as Nvidia\u2019s CEO, and Super Micro and CoreWeave fell too. Steve Eisman warns Dell will slow along with Nvidia, but Cisco just raised its AI forecast and analysts have raised Dell\u2019s earnings estimates slightly.",
+      "pub_date": "2026-11-19T11:34:45Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-down-16-week-steve-113445078.html"
+    },
     {
       "title": "Super Micro Computer (SMCI) Ships PCIe Gen 6 Servers, Is It 57% Below Fair Value?",
       "summary": "Super Micro Computer (SMCI) has begun shipping new AMD EPYC based all flash storage servers that support the PCIe Gen 6 standard. These products target AI scale data, analytics and high throughput storage workloads. For investors watching Super Micro Computer, the recent launch of PCIe Gen 6 storage arrives during a tough stretch in the share price. The stock is down about 34% on the 90 day share price return and roughly 25% on the 30 day share price return as legal questions and sector...",
@@ -15,48 +57,6 @@
       "pub_date": "2026-11-18T19:04:59Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/supermicro-ai-bottleneck-turning-amd-190459248.html"
-    },
-    {
-      "title": "Supermicro Unveils Major AI Technology Breakthrough With AMD Chips",
-      "summary": "Supermicro launches AMD-powered storage servers with twice the read bandwidth.",
-      "pub_date": "2026-11-18T18:32:52Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/supermicro-unveils-major-ai-technology-183252634.html"
-    },
-    {
-      "title": "What Has The Market Missed In Hewlett Packard Enterprise Stock's Drop?",
-      "summary": "Today's big story: Anthropic IPO: Priced For 2031, Or 2036.",
-      "pub_date": "2026-11-18T18:16:58Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/market-missed-hewlett-packard-enterprise-181658489.html"
-    },
-    {
-      "title": "Was Nvidia\u2019s strong report a clearing event for the wider chip sector?",
-      "summary": "Investing.com -- It\u2019s too early to call the report a clearing event. As of 9:07 AM ET on Nov 18, 2026, the market is closed until 9:30 AM ET, so no regular-session reaction exists yet. The evidence so far is premarket and overseas trading, and it points to a relief bounce on top of unresolved problems.",
-      "pub_date": "2026-11-18T14:41:26Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-strong-report-clearing-event-144126778.html"
-    },
-    {
-      "title": "Wife of senior Nvidia executive embroiled in chip smuggling scandal",
-      "summary": "The wife of one of Jensen Huang\u2019s most senior allies has been caught up in a chip-smuggling scandal that has engulfed one of Nvidia\u2019s biggest partners.",
-      "pub_date": "2026-11-18T14:38:31Z",
-      "source": "The Telegraph",
-      "url": "https://finance.yahoo.com/news/wife-senior-nvidia-executive-embroiled-143831399.html"
-    },
-    {
-      "title": "Can SMCI Convert Capacity Expansion Into Growth in 2027?",
-      "summary": "Super Micro Computer's AI server demand, expanding liquid-cooling capabilities and rising production capacity position it to capitalize on growing data center infrastructure needs.",
-      "pub_date": "2026-11-18T14:23:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/smci-convert-capacity-expansion-growth-142300625.html"
-    },
-    {
-      "title": "Why Is Super Micro Computer Stock Rising Today?",
-      "summary": "Super Micro Computer (NASDAQ:SMCI) shares climbed 4. 3% in US premarket trading, supported by a broader recovery in artificial intelligence infrastructure stocks following stronger-than-expected quarterly earnings from Nvidia.",
-      "pub_date": "2026-11-18T12:19:00Z",
-      "source": "InvestorsHub",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-super-micro-computer-stock-121900061.html"
     }
   ]
 }

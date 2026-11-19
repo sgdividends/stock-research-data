@@ -1,7 +1,21 @@
 {
   "ticker": "GEHC",
-  "generated_at": "2026-11-19T12:23:56.996306+00:00",
+  "generated_at": "2026-11-19T22:52:26.444352+00:00",
   "items": [
+    {
+      "title": "A $467 Billion Fund Just Bought These 3 Stocks",
+      "summary": "Key TakeawaysA fund that manages $467 billion made Amazon, GE HealthCare and a third stock its three biggest new or added positions in the third quarter, per its 13F filed Nov. 13.",
+      "pub_date": "2026-11-19T17:23:56Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/467-billion-fund-just-bought-172356112.html"
+    },
+    {
+      "title": "GE HealthCare Wins FDA Nod for AI Feeding Tube Detection Software",
+      "summary": "GEHC secures FDA clearance for AI-powered feeding tube detection software, expanding bedside X-ray capabilities for adult and pediatric patients.",
+      "pub_date": "2026-11-19T16:50:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/healthcare/articles/ge-healthcare-wins-fda-nod-165000314.html"
+    },
     {
       "title": "Top Stock Reports for Merck, Caterpillar & Union Pacific",
       "summary": "Merck, Caterpillar and Union Pacific benefit from strong demand, strategic growth drivers and solid cash generation, but face key competitive and execution risks.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-18T14:10:30Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/healthcare/articles/ge-healthcare-technologies-gehc-fda-141030491.html"
-    },
-    {
-      "title": "Does FDA Clearance Change The Bull Case For GE HealthCare Technologies (GEHC)?",
-      "summary": "GE HealthCare Technologies recently received FDA 510(k) clearance for Critical Care Suite 3.0, an AI-enabled mobile X-ray software that supports bedside feeding tube detection and assessment for both adult and pediatric patients without relying on internet connectivity. During the same period, the company expanded its research network around Photonova Spectra photon-counting CT, indicating that GE HealthCare Technologies is committing meaningful resources to higher value imaging software, AI...",
-      "pub_date": "2026-11-18T13:11:47Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/healthcare/articles/does-fda-clearance-change-bull-131147960.html"
-    },
-    {
-      "title": "How Long Can HeartFlow Keep Burning Cash?",
-      "summary": "Today's big story: Could Nvidia Stock Fall 50%? Follow The Cash.",
-      "pub_date": "2026-11-17T15:38:01Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/healthcare/articles/long-heartflow-keep-burning-cash-153801523.html"
     }
   ]
 }

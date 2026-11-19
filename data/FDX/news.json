@@ -1,7 +1,14 @@
 {
   "ticker": "FDX",
-  "generated_at": "2026-11-19T12:23:55.911562+00:00",
+  "generated_at": "2026-11-19T22:52:21.876552+00:00",
   "items": [
+    {
+      "title": "UPS Has Frozen Its Dividend at $1.64. Its 6% Yield Raises Questions",
+      "summary": "UPS stopped raising its payout while buybacks vanished and debt climbed. Behind the CEO's reassurance sits a thin cash cushion, a rival with a stronger balance sheet, and one number in 2027 that could decide everything.",
+      "pub_date": "2026-11-19T19:47:02Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ups-frozen-dividend-1-64-194702468.html"
+    },
     {
       "title": "Corporate America demands a stronger voice on AI",
       "summary": "Seven corporate giants are joining forces to give the businesses using AI a bigger voice in writing the rules around its deployment.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-16T12:25:00Z",
       "source": "Supply Chain Dive",
       "url": "https://finance.yahoo.com/markets/commodities/articles/fedex-launches-china-us-air-122500307.html"
-    },
-    {
-      "title": "FedEx Was Down to Its Last $5,000 When Its Founder, a Marine Who Served Two Tours in Vietnam, Flew to Las Vegas and Sat Down at a Blackjack Table. He Came Back With $27,000, and the Planes Kept Flying",
-      "summary": "FedEx was down to about $5,000 when Fred Smith flew to Las Vegas and won $27,000 at blackjack. He called it an omen. The real save was the $11 million he raised next.",
-      "pub_date": "2026-11-14T10:37:00Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/small-business/articles/fedex-down-last-5-000-103700767.html"
     }
   ]
 }
