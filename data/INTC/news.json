@@ -1,13 +1,27 @@
 {
   "ticker": "INTC",
-  "generated_at": "2026-11-19T22:52:34.664679+00:00",
+  "generated_at": "2026-11-20T05:19:30.468632+00:00",
   "items": [
+    {
+      "title": "AI sell-off: These sectors held firm as tech slumped in Oct, Nov",
+      "summary": "Investing.com -- Semiconductors, software, and memory stocks fell hard through October and early-November amid mounting questions over the long-term artificial intelligence trade.",
+      "pub_date": "2026-11-20T04:45:23Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-sell-off-sectors-held-044523371.html"
+    },
     {
       "title": "Is Tech in a Bear Market? 20 Tech Stocks Fall Up to 76% From Highs",
       "summary": "Kobeissi Letter data shows 20 tech stocks down 25% to 76% from record highs as the S&P 500 sheds over $6 trillion.",
       "pub_date": "2026-11-19T22:40:39Z",
       "source": "BeInCrypto",
       "url": "https://finance.yahoo.com/markets/stocks/articles/tech-bear-market-20-tech-224039016.html"
+    },
+    {
+      "title": "Shots Fired: Hunterbrook Shorts AMD Over China. Its China and Hong Kong Billing Share Is Nearly 2.5x Nvidia\u2019s",
+      "summary": "Key TakeawaysAMD fell 8% today after Hunterbrook Media tied AMD firmware to a blacklisted Chinese server maker, and Hunterbrook\u2019s fund disclosed a short position. Hunterbrook says China and Hong Kong billing made up 22.",
+      "pub_date": "2026-11-19T22:37:49Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/shots-fired-hunterbrook-shorts-amd-223749072.html"
     },
     {
       "title": "Nvidia vs. Intel: One AI Stock Is Worth the Drama, the Other Isn\u2019t Worth the Wait, Says Investor",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-19T20:28:33Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/lumentum-sales-surged-137-why-202833709.html"
-    },
-    {
-      "title": "Marvell Stock Halved Again. What Does Its Cash Say?",
-      "summary": "Today's big story: Could Anthropic Stock Fall 25.",
-      "pub_date": "2026-11-19T20:25:57Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-stock-halved-again-does-202557344.html"
-    },
-    {
-      "title": "Wall St slides as Anthropic's debut fails to revive AI trade optimism",
-      "summary": "(Corrects analyst's name and designation in paragraph 7) By Ragini Mathur, Utkarsh Hathi and Medha Singh Nov 19 (Reuters) - US stock indexes tumbled on Thursday after Anthropic's blockbuster market",
-      "pub_date": "2026-11-19T19:30:54Z",
-      "source": "Reuters",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-jump-anthropics-record-090243474.html"
     }
   ]
 }

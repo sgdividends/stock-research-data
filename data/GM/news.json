@@ -1,7 +1,14 @@
 {
   "ticker": "GM",
-  "generated_at": "2026-11-19T22:52:27.855267+00:00",
+  "generated_at": "2026-11-20T05:19:25.427277+00:00",
   "items": [
+    {
+      "title": "The 25 Biggest US IPOs of All Time",
+      "summary": "The biggest IPOS in U.S. history include a major chipmaker, a ride-hailing firm and a handful of global telecoms.",
+      "pub_date": "2026-11-19T21:38:58Z",
+      "source": "Kiplinger",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/25-biggest-u-ipos-time-172550995.html"
+    },
     {
       "title": "Can Tesla's Cash Cover $20 Billion Of Spending?",
       "summary": "Today's big story: Could Anthropic Stock Fall 25.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-19T14:16:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ford-begins-shipping-lfp-batteries-141600372.html"
-    },
-    {
-      "title": "Are You Sure You Understand General Motors Stock's Risk?",
-      "summary": "Today's big story: Could Anthropic Stock Fall 25.",
-      "pub_date": "2026-11-19T13:02:23Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sure-understand-general-motors-stocks-130223423.html"
     }
   ]
 }

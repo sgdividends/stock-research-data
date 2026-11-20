@@ -1,7 +1,14 @@
 {
   "ticker": "AKAM",
-  "generated_at": "2026-11-19T22:51:46.159096+00:00",
+  "generated_at": "2026-11-20T05:18:52.253881+00:00",
   "items": [
+    {
+      "title": "Akamai Technologies (AKAM) Expands Mobile Enterprise Browser Security",
+      "summary": "Akamai Technologies (NasdaqGS:AKAM) announced a new collaboration with Microsoft to secure Microsoft Edge for Business on mobile devices. The partnership targets iOS and Android, bringing enterprise browser controls such as real time threat prevention directly into Microsoft Edge for Business. Akamai says the integration also introduces generative AI governance features designed for corporate use of Microsoft Edge for Business on phones and tablets. This new Akamai and Microsoft enterprise...",
+      "pub_date": "2026-11-20T03:16:34Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/articles/akamai-technologies-akam-expands-mobile-031634349.html"
+    },
     {
       "title": "What Sent Cloudflare Stock Higher?",
       "summary": "Today's big story: Could Anthropic Stock Fall 25.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-18T11:04:04Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/spdr-p-500-etf-trust-110404302.html"
-    },
-    {
-      "title": "David Tepper and 33 Other Funds Bought Software Stocks. CoreWeave Is Down 43% Since. Time to Buy?",
-      "summary": "Key TakeawaysThe 13Fs of David Tepper\u2019s Appaloosa, Cathie Wood\u2019s ARK and 32 other funds show third-quarter buys in software stocks such as CoreWeave, Oracle, Core Scientific, Akamai and ServiceNow. All five stocks have fallen since Sept.",
-      "pub_date": "2026-11-17T14:48:19Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/david-tepper-33-other-funds-144819139.html"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-11-19T22:53:05.043468+00:00",
+  "generated_at": "2026-11-20T05:20:01.629708+00:00",
   "items": [
     {
       "title": "Short Seller Raises Questions About Nvidia's Former Top Sales Executive. $2.5 Billion China Chip Case In Focus.",
@@ -8,6 +8,20 @@
       "pub_date": "2026-11-19T19:49:17Z",
       "source": "International Business Times",
       "url": "https://finance.yahoo.com/markets/stocks/articles/short-seller-raises-questions-nvidias-194917610.html"
+    },
+    {
+      "title": "Muddy Waters Has Issued a New Short Call on Nvidia. I Still Expect NVDA Stock to Grind Higher.",
+      "summary": "Muddy Waters issued a new short call on Nvidia, focusing on export-compliance risks around chips potentially reaching China, hours before the company reported $115.8 billion in revenue.",
+      "pub_date": "2026-11-19T18:53:26Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/news/muddy-waters-issued-short-call-185326049.html"
+    },
+    {
+      "title": "Who is Cenly Chen? Inside the Alleged Family Ties Between Nvidia, Supermicro, and Illicit GPU Sales",
+      "summary": "An outgoing Nvidia sales chief's marriage to an ex-Supermicro executive raises fresh disclosure questions amid the latter company's $2.5 billion China diversion case.",
+      "pub_date": "2026-11-19T17:51:12Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cenly-chen-inside-alleged-family-175112859.html"
     },
     {
       "title": "Vertiv's 800 VDC Push Boosts AI Prospects: Can It Beat APH and SMCI?",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-19T11:34:45Z",
       "source": "TIKR",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dell-down-16-week-steve-113445078.html"
-    },
-    {
-      "title": "Super Micro Computer (SMCI) Ships PCIe Gen 6 Servers, Is It 57% Below Fair Value?",
-      "summary": "Super Micro Computer (SMCI) has begun shipping new AMD EPYC based all flash storage servers that support the PCIe Gen 6 standard. These products target AI scale data, analytics and high throughput storage workloads. For investors watching Super Micro Computer, the recent launch of PCIe Gen 6 storage arrives during a tough stretch in the share price. The stock is down about 34% on the 90 day share price return and roughly 25% on the 30 day share price return as legal questions and sector...",
-      "pub_date": "2026-11-18T20:10:20Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-smci-ships-201020693.html"
-    },
-    {
-      "title": "Supermicro Has an AI Bottleneck and Is Turning to AMD",
-      "summary": "The launch could help it sell more per deployment.",
-      "pub_date": "2026-11-18T19:04:59Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/supermicro-ai-bottleneck-turning-amd-190459248.html"
     }
   ]
 }

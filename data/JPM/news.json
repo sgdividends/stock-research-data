@@ -1,6 +1,6 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-11-19T22:52:38.179334+00:00",
+  "generated_at": "2026-11-20T05:19:33.580975+00:00",
   "items": [
     {
       "title": "JPMorgan, Visa, and Mastercard disclose cyberattack on third-party vendors",
@@ -22,6 +22,13 @@
       "pub_date": "2026-11-19T22:07:32Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-warning-anyone-buying-220732866.html"
+    },
+    {
+      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+      "summary": "The incident involved data belonging to thousands of customers, but it isn\u2019t disrupting payment services or connected to banking issues earlier this week.",
+      "pub_date": "2026-11-19T21:56:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Can banks provide the added security AI assistants require?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-19T20:23:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-berkshire-hathaway-202300112.html"
-    },
-    {
-      "title": "Hackers Leak Visa, Mastercard and JPMorgan Customer Data",
-      "summary": "A ransomware group breached third-party vendors, not the companies\u2019 own systems. Visa said no card data was affected while Mastercard cited a limited cardholder subset.",
-      "pub_date": "2026-11-19T20:15:32Z",
-      "source": "decrypt",
-      "url": "https://finance.yahoo.com/technology/articles/hackers-leak-visa-mastercard-jpmorgan-201532737.html"
     }
   ]
 }

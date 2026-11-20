@@ -1,6 +1,6 @@
 {
   "ticker": "MA",
-  "generated_at": "2026-11-19T22:52:44.702048+00:00",
+  "generated_at": "2026-11-20T05:19:40.061181+00:00",
   "items": [
     {
       "title": "JPMorgan, Visa, and Mastercard disclose cyberattack on third-party vendors",
@@ -17,6 +17,13 @@
       "url": "https://finance.yahoo.com/technology/articles/vendor-attack-exposes-jpmorgan-cardholder-222213821.html"
     },
     {
+      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+      "summary": "The incident involved data belonging to thousands of customers, but it isn\u2019t disrupting payment services or connected to banking issues earlier this week.",
+      "pub_date": "2026-11-19T21:56:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?siteid=yhoof2&yptr=yahoo"
+    },
+    {
       "title": "Update: US Equity Indexes Slide Following Anthropic's Nasdaq Debut; Dow Sinks Over 1,000 Points",
       "summary": "(Updates with index/price moves from the first paragraph.) US equity indexes slumped, with the Do",
       "pub_date": "2026-11-19T20:40:42Z",
@@ -29,13 +36,6 @@
       "pub_date": "2026-11-19T20:15:32Z",
       "source": "decrypt",
       "url": "https://finance.yahoo.com/technology/articles/hackers-leak-visa-mastercard-jpmorgan-201532737.html"
-    },
-    {
-      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
-      "summary": "The incident involved data belonging to thousands of customers, but it isn\u2019t disrupting payment services or connected to banking issues earlier this week.",
-      "pub_date": "2026-11-19T20:12:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?siteid=yhoof2&yptr=yahoo"
     },
     {
       "title": "Update: US Equity Indexes Drop After Anthropic's Nasdaq Debut, Crude Oil Climbs",
