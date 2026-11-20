@@ -1,7 +1,21 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-11-20T05:19:47.394867+00:00",
+  "generated_at": "2026-11-20T16:36:56.556021+00:00",
   "items": [
+    {
+      "title": "How Anthropic compares to other tech companies",
+      "summary": "Yahoo Finance Executive Editor Brian Sozzi takes a closer look at how Anthropic  (ANT) compares to other tech giants.",
+      "pub_date": "2026-11-20T15:48:45Z",
+      "source": "Yahoo Finance Video",
+      "url": "https://finance.yahoo.com/video/how-anthropic-compares-to-other-tech-companies-154845765.html"
+    },
+    {
+      "title": "Salesforce Lost 16% in a Week as AI Fears Hit Software. Piper Sandler Sees 53% Upside",
+      "summary": "Key TakeawaysSalesforce stock fell 16% in a week as investors sold software ahead of Anthropic\u2019s IPO, and ServiceNow fell less. Salesforce will probably sell its Anthropic stake to pay down the debt from its $25 billion buyback.",
+      "pub_date": "2026-11-20T08:27:53Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-lost-16-week-ai-082753178.html"
+    },
     {
       "title": "AI sell-off: These sectors held firm as tech slumped in Oct, Nov",
       "summary": "Investing.com -- Semiconductors, software, and memory stocks fell hard through October and early-November amid mounting questions over the long-term artificial intelligence trade.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-19T12:25:52Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-servicenow-stock-122552637.html"
-    },
-    {
-      "title": "Twilio vs. ServiceNow: Which AI Software Stock Has the Edge?",
-      "summary": "TWLO outpaces NOW in earnings growth, estimate revisions and stock performance, but its higher valuation raises questions. Which AI stock has the edge?",
-      "pub_date": "2026-11-19T12:06:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/twilio-vs-servicenow-ai-software-120600590.html"
-    },
-    {
-      "title": "Atlassian Looks Cheap Until You Count Stock Pay",
-      "summary": "Today's big story: Could Anthropic Stock Fall 25.",
-      "pub_date": "2026-11-19T11:22:27Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/atlassian-looks-cheap-until-count-112227927.html"
     }
   ]
 }

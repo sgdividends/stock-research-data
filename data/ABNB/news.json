@@ -1,7 +1,14 @@
 {
   "ticker": "ABNB",
-  "generated_at": "2026-11-20T05:18:49.289542+00:00",
+  "generated_at": "2026-11-20T16:35:47.997038+00:00",
   "items": [
+    {
+      "title": "SpaceX's Cursor weighs phasing out Chinese AI models over geopolitical risk, CNBC reports",
+      "summary": "Nov 20 (Reuters) - SpaceX's AI coding platform, Cursor, is considering moving away from Chinese AI models due to \"geopolitical risk,\" CNBC reported on Friday, citing a report by the House Committee on",
+      "pub_date": "2026-11-20T14:55:06Z",
+      "source": "Reuters",
+      "url": "https://finance.yahoo.com/technology/ai/articles/spacexs-cursor-weighs-phasing-chinese-144823758.html"
+    },
     {
       "title": "Exclusive-Trump administration weighs forcing US firms to disclose Chinese AI use",
       "summary": "WASHINGTON, Nov 18 (Reuters) - The Trump administration is considering requiring US companies to publicly disclose their use of Chinese AI models, a bid to discourage reliance on the technology without imposing new restrictions that could anger industry or Beijing, three people told Reuters. The Treasury Department and the White House Office of Science and Technology Policy (OSTP) have \u200cdiscussed the plan, which would apply to companies such as Airbnb, the people said.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-18T19:42:39Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/booking-holdings-stock-investors-worry-194239594.html"
-    },
-    {
-      "title": "Trump Administration Reportedly Weighs \u2018Name And Shame\u2019 Plan For Companies Using Chinese AI",
-      "summary": "The proposal is being discussed by the Treasury Department and the White House Office of Science and Technology Policy, according to a Reuters report.",
-      "pub_date": "2026-11-18T14:19:55Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/technology/ai/articles/trump-administration-reportedly-weighs-name-141955396.html"
     }
   ]
 }

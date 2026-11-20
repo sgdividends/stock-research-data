@@ -1,7 +1,21 @@
 {
   "ticker": "STX",
-  "generated_at": "2026-11-20T05:20:03.552094+00:00",
+  "generated_at": "2026-11-20T16:37:16.501925+00:00",
   "items": [
+    {
+      "title": "Sandisk stock begins trading at 8-for-1 split, shares sink",
+      "summary": "Sandisk shares began trading at an 8-for-1 split on Friday.",
+      "pub_date": "2026-11-20T14:20:41Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/sandisk-shares-begin-trading-at-8-for-1-split-stock-sinks-as-chip-sector-sells-off-142041917.html"
+    },
+    {
+      "title": "Capital Group Core Equity (CGUS) Buys $25.4 Million More Intel on Nov. 18",
+      "summary": "The ETF bought $25.4 million of Intel and $16.8 million of Meta while selling $37.6 million of Nvidia.",
+      "pub_date": "2026-11-20T11:04:26Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/capital-group-core-equity-cgus-110426396.html"
+    },
     {
       "title": "Billionaire Stanley Druckenmiller Cut TSMC 94% in One Quarter, Leaving Just $14.9 Million",
       "summary": "TSMC's revenue kept surging while one of Wall Street's sharpest macro minds headed for the exit. His new buys in storage, gold and space hint at what spooked him, and his own words about the next 12 months add another clue.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-19T14:17:48Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-stanley-druckenmiller-ai-warning-141748585.html"
-    },
-    {
-      "title": "Adaptive Storage Launch Could Be A Game Changer For Seagate Stock (STX)",
-      "summary": "Seagate Technology Holdings recently launched the FireCuda Forge, the first hard drive built on its Alkemi intelligent storage platform. It combines SSD-like responsiveness with HDD capacity through real-time adaptive caching across 8TB and 20TB models, priced from US$699 and US$899. The Alkemi platform brings enterprise-style intelligent data tiering into consumer systems. This aligns directly with Seagate\u2019s focus on AI and hyperscale storage workloads while still targeting gamers and...",
-      "pub_date": "2026-11-19T11:10:54Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/adaptive-storage-launch-could-game-111054487.html"
-    },
-    {
-      "title": "SanDisk Slides 4% Ahead of 8-for-1 Stock Split as NAND Glut Worries Linger; Micron Drops 3%, Seagate Edges Lower",
-      "summary": "SanDisk has more than tripled this year, yet a single analyst warning about oversupply is rattling memory stocks just before its split. Why is SanDisk absorbing the sharpest blow while Micron, Seagate and Western Digital hold steadier?",
-      "pub_date": "2026-11-18T16:57:46Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/news/sandisk-slides-4-ahead-8-165746503.html"
     }
   ]
 }

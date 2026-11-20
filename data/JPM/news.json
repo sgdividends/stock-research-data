@@ -1,62 +1,62 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-11-20T05:19:33.580975+00:00",
+  "generated_at": "2026-11-20T16:36:41.521605+00:00",
   "items": [
     {
-      "title": "JPMorgan, Visa, and Mastercard disclose cyberattack on third-party vendors",
-      "summary": "JPMorgan Chase, Visa, and Mastercard said on Thursday that some select customer data, including emails, was accessed by attackers after a cyberattack on a vendor.",
-      "pub_date": "2026-11-19T19:03:14Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/jpmorgan-visa-and-mastercard-disclose-cyberattack-on-third-party-vendors-190314490.html"
-    },
-    {
-      "title": "Vendor attack exposes JPMorgan Reserve cardholder emails",
-      "summary": "About 16,700 Reserve card member records, with emails and ZIP codes but no names, sit in the JPMorgan files. No company has named any vendor.",
-      "pub_date": "2026-11-19T22:22:13Z",
-      "source": "American Banker",
-      "url": "https://finance.yahoo.com/technology/articles/vendor-attack-exposes-jpmorgan-cardholder-222213821.html"
-    },
-    {
-      "title": "Jim Cramer\u2019s Warning for Anyone Buying Anthropic Stock: Use a Limit Order",
-      "summary": "Anthropic opened far above its IPO price, then gave back a chunk of that gain within hours. Cramer says one small choice at the buy button separates smart entries from costly ones, and most retail buyers never see it coming.",
-      "pub_date": "2026-11-19T22:07:32Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-warning-anyone-buying-220732866.html"
-    },
-    {
-      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
-      "summary": "The incident involved data belonging to thousands of customers, but it isn\u2019t disrupting payment services or connected to banking issues earlier this week.",
-      "pub_date": "2026-11-19T21:56:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Can banks provide the added security AI assistants require?",
-      "summary": "Banks are blocking external artificial intelligence agents for now, but some bankers believe that is only temporary, and there is an opportunity to play a more direct role in agentic commerce.",
-      "pub_date": "2026-11-19T20:33:45Z",
-      "source": "American Banker",
-      "url": "https://finance.yahoo.com/technology/ai/articles/banks-added-security-ai-assistants-203345761.html"
-    },
-    {
-      "title": "3 Dow Dividend Passive Income Stocks for Retirement, Led by a 64-Year Streak",
-      "summary": "One Dow giant keeps raising payouts while another carries a rare asterisk from the financial crisis. Before you build a retirement paycheck, see which dividend is best covered, which stock looks stretched, and what risks hide beneath each yield.",
-      "pub_date": "2026-11-19T20:32:19Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-dow-dividend-passive-income-203219013.html"
-    },
-    {
-      "title": "Why JPMorgan\u2019s 13x P/E isn\u2019t the bargain it looks like",
-      "summary": "Investing.com and Yahoo Finance LLC may earn commission or revenue on some items through the links below.",
-      "pub_date": "2026-11-19T20:29:13Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-jpmorgan-13x-p-e-202913875.html"
-    },
-    {
-      "title": "Top Analyst Reports for Berkshire Hathaway, JPMorgan & Procter & Gamble",
-      "summary": "Berkshire Hathaway, JPMorgan and Procter & Gamble benefit from strong business fundamentals, but rising costs and growth challenges create risks.",
-      "pub_date": "2026-11-19T20:23:00Z",
+      "title": "Can Bank of America Sustain Its Robust Capital Returns in 2027?",
+      "summary": "BAC's strong earnings, ample liquidity and solid capital position support 2027 shareholder returns, but regulatory and credit risks could pose hurdles.",
+      "pub_date": "2026-11-20T14:32:00Z",
       "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/top-analyst-reports-berkshire-hathaway-202300112.html"
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-sustain-robust-capital-143200500.html"
+    },
+    {
+      "title": "Tech Outages Are Inevitable. Business Chaos Doesn\u2019t Have to Be.",
+      "summary": "Plus, tech stock market rout intensifies with Anthropic shares down as much as 10% premarket",
+      "pub_date": "2026-11-20T14:12:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/cio-journal/tech-outages-are-inevitable-business-chaos-doesnt-have-to-be-8394cbaa?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "JPMorgan Faces Data Leak After Banking Outage: Risks Mount?",
+      "summary": "JPM faces mounting technology risks after a third-party data breach and banking outage, raising concerns over cybersecurity, resilience and rising costs.",
+      "pub_date": "2026-11-20T14:12:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/articles/jpmorgan-faces-data-leak-banking-141200565.html"
+    },
+    {
+      "title": "The Zacks Analyst Blog Highlights Berkshire Hathaway, JPMorgan, Procter & Gamble and National Presto",
+      "summary": "Berkshire Hathaway, JPMorgan, Procter & Gamble and National Presto are included in this Analyst Blog.",
+      "pub_date": "2026-11-20T13:39:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-berkshire-133900318.html"
+    },
+    {
+      "title": "Circle Stock At $52: What Would It Take To Get To $90?",
+      "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
+      "pub_date": "2026-11-20T13:33:18Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/circle-stock-52-90-133318221.html"
+    },
+    {
+      "title": "Moody's Ratings Gain From AI Infrastructure and Private Credit Growth",
+      "summary": "MCO sees rising ratings demand from AI infrastructure financing and private credit growth, supported by hyperscaler investments and new ratings mandates.",
+      "pub_date": "2026-11-20T13:11:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/moodys-ratings-gain-ai-infrastructure-131100021.html"
+    },
+    {
+      "title": "Scout24 shares fall 6% as J.P. Morgan flags AI threat to property portals",
+      "summary": "Investing.com -- Shares in German online listings operator Scout24 fell over 6% on Friday after J.P. Morgan downgraded the stock to \u201cneutral\u201d from \u201coverweight,\u201d saying AI search tools that aggregate listings from multiple sources are likely to weigh on its valuation.",
+      "pub_date": "2026-11-20T12:04:18Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/real-estate/articles/scout24-shares-fall-6-j-120418371.html"
+    },
+    {
+      "title": "How Low Could Circle Stock Go?",
+      "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
+      "pub_date": "2026-11-20T11:57:54Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/low-could-circle-stock-115754302.html"
     }
   ]
 }

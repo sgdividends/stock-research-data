@@ -1,7 +1,14 @@
 {
   "ticker": "GEHC",
-  "generated_at": "2026-11-20T05:19:24.419730+00:00",
+  "generated_at": "2026-11-20T16:36:30.301654+00:00",
   "items": [
+    {
+      "title": "Invesco S&P 500 Equal Weight (RSP) Sells $0.4 Million of NVR on Nov. 18",
+      "summary": "The $102.85 billion fund sold $136.0 million of stock and bought nothing, trimming 502 positions.",
+      "pub_date": "2026-11-20T11:05:16Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/invesco-p-500-equal-weight-110516166.html"
+    },
     {
       "title": "A $467 Billion Fund Just Bought These 3 Stocks",
       "summary": "Key TakeawaysA fund that manages $467 billion made Amazon, GE HealthCare and a third stock its three biggest new or added positions in the third quarter, per its 13F filed Nov. 13.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-18T14:40:20Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/healthcare/articles/buy-ge-healthcare-stock-cash-144020746.html"
-    },
-    {
-      "title": "GE HealthCare Technologies (GEHC) On FDA AI Clearance And Whether The Upside Is Priced In",
-      "summary": "GE HealthCare Technologies (GEHC) just picked up FDA 510(k) clearance for Critical Care Suite 3.0, putting AI-powered feeding tube detection directly on mobile X-ray devices and extending this capability to pediatric patients at the bedside. Investors have been digesting a busy run of product news from GE HealthCare Technologies, yet the share price has eased over the past week, even after a strong 30 day share price return of 17.6% and a 90 day share price gain of 9.7%. The 1 year total...",
-      "pub_date": "2026-11-18T14:10:30Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/healthcare/articles/ge-healthcare-technologies-gehc-fda-141030491.html"
     }
   ]
 }
