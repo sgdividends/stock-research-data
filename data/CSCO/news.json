@@ -1,7 +1,21 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-11-21T01:01:37.779625+00:00",
+  "generated_at": "2026-11-21T11:58:46.179209+00:00",
   "items": [
+    {
+      "title": "Is Dell Stock Really Cheap?",
+      "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
+      "pub_date": "2026-11-21T06:32:47Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-really-cheap-063247105.html"
+    },
+    {
+      "title": "Cisco vs. HPE: One Has Better Financials, the Other Has 93% Upside. Which Stock Wins?",
+      "summary": "Cisco and HPE both power the AI buildout and pay dividends. We compare their financials, payouts, and analyst targets to find the better buy.",
+      "pub_date": "2026-11-21T00:00:03Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-vs-hpe-one-better-000003483.html"
+    },
     {
       "title": "The Fear Gauge Hit 40. This Is What the Market Is Worried About.",
       "summary": "Investors no longer believe the AI bull case. They fear an unwinding is coming.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-20T14:03:25Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-fell-89-nvidia-stock-140325020.html"
-    },
-    {
-      "title": "The Zacks Analyst Blog Highlights Cisco, UnitedHealth and Salesforce",
-      "summary": "Cisco, UnitedHealth and Salesforce are included in this Analyst Blog.",
-      "pub_date": "2026-11-20T13:42:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-cisco-134200852.html"
-    },
-    {
-      "title": "CIEN Targets a $50B Market: How AI Could Expand Its Growth Opportunity",
-      "summary": "Ciena is poised to benefit from surging AI-driven optical connectivity demand, with its addressable market projected to double to $50 billion by 2029.",
-      "pub_date": "2026-11-20T13:10:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cien-targets-50b-market-ai-131000909.html"
     }
   ]
 }
