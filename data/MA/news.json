@@ -1,7 +1,35 @@
 {
   "ticker": "MA",
-  "generated_at": "2026-11-20T16:36:48.132902+00:00",
+  "generated_at": "2026-11-21T01:02:15.839429+00:00",
   "items": [
+    {
+      "title": "Shopping Till We Drop",
+      "summary": "Retail sales are doing well now, but don\u2019t break out the eggnog just yet.",
+      "pub_date": "2026-11-20T23:30:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/shopping-till-we-drop-60621077?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Weekly Wrap: Crypto Falls As Stocks Struggle",
+      "summary": "Bitcoin\u2019s (CRYPTO: $BTC) price continues to fall and is approaching $60,000 U.S. as the stock market struggle...",
+      "pub_date": "2026-11-20T22:38:00Z",
+      "source": "CryptoProwl",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/weekly-wrap-crypto-falls-stocks-223800731.html"
+    },
+    {
+      "title": "JPMorgan, Visa Warn of Cyberattack That Hit Outside Vendor",
+      "summary": "Devon Ackerman, LevelBlue, Global Leader for Digital Forensics and Incident Response, joined Bloomberg's Paul Sweeney and Scarlet Fu  to discuss the recent onslaught of outages and cyber attacks.\nJPMorgan Chase &amp; Co.,\u00a0Visa Inc.\u00a0and\u00a0Mastercard Inc.\u00a0said some customer information was accessed in a cyberattack on a vendor.\nJPMorgan said it believes, based on an investigation so far, that hackers accessed marketing data held by an outside firm, which may include customer names and email addresses. The bank said the issue isn't related to an outage it faced earlier this week.",
+      "pub_date": "2026-11-20T17:55:29Z",
+      "source": "Bloomberg",
+      "url": "https://finance.yahoo.com/video/jpmorgan-visa-warn-cyberattack-hit-175529831.html"
+    },
+    {
+      "title": "A $4.7 Billion Fund Just Bought These 3 Stocks",
+      "summary": "Key TakeawaysA fund that manages $4. 7 billion added to its stakes in MercadoLibre, Mastercard and Visa in the third quarter, according to its 13F.",
+      "pub_date": "2026-11-20T14:57:44Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/4-7-billion-fund-just-145744670.html"
+    },
     {
       "title": "Tech Outages Are Inevitable. Business Chaos Doesn\u2019t Have to Be.",
       "summary": "Plus, tech stock market rout intensifies with Anthropic shares down as much as 10% premarket",
@@ -29,34 +57,6 @@
       "pub_date": "2026-11-20T12:57:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-chinas-ai-firms-are-hooked-on-nvidia-chips-now-comes-the-withdrawal-57391e23?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "How Low Could Circle Stock Go?",
-      "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
-      "pub_date": "2026-11-20T11:57:54Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/low-could-circle-stock-115754302.html"
-    },
-    {
-      "title": "Warren Buffett\u2019s Successor Just Bought $10 Billion of This AI Stock, and It\u2019s Not Apple",
-      "summary": "During the past year, Greg Abel has ramped up Berkshire's position in this AI-focused \"Magnificent Seven\" stock.",
-      "pub_date": "2026-11-20T09:20:02Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/technology/ai/articles/warren-buffett-successor-just-bought-092002081.html"
-    },
-    {
-      "title": "What Is Visa (V) Facing After The $38 Billion Swipe Fee Ruling Delay?",
-      "summary": "Visa (NYSE: V) faces renewed legal uncertainty after a US federal judge deferred a ruling on a proposed US$38b swipe fee settlement. The case, involving Visa and Mastercard interchange fees charged to merchants, could proceed to a full trial as late as 2027. The postponed decision keeps open the possibility of major changes to how card transaction fees are structured for US merchants. The deferred ruling on the US$38b swipe fee settlement is important, but it should not dominate every Visa...",
-      "pub_date": "2026-11-20T09:08:20Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/visa-v-facing-38-billion-090820296.html"
-    },
-    {
-      "title": "What Does Mastercard (MA) Joining The AI Transparency Initiative Mean For Investors?",
-      "summary": "Mastercard (NYSE: MA) has joined Microsoft and more than 40 organizations in a new AI Transparency Initiative. The group plans to create shared standards for transparency, security, and governance of AI systems across multiple industries. The initiative aims to shape how large enterprises validate, monitor, and document AI models used in critical business processes. This move by Mastercard to co launch the AI Transparency Initiative with Microsoft is important to weigh against the rest of...",
-      "pub_date": "2026-11-20T05:22:40Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/does-mastercard-ma-joining-ai-052240359.html"
     }
   ]
 }

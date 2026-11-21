@@ -1,7 +1,28 @@
 {
   "ticker": "HD",
-  "generated_at": "2026-11-20T16:36:34.165396+00:00",
+  "generated_at": "2026-11-21T01:01:58.184643+00:00",
   "items": [
+    {
+      "title": "Shopping Till We Drop",
+      "summary": "Retail sales are doing well now, but don\u2019t break out the eggnog just yet.",
+      "pub_date": "2026-11-20T23:30:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/shopping-till-we-drop-60621077?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Peter Lynch Made Millions for Investors by Following One Simple Rule",
+      "summary": "Peter Lynch told investors to buy what they know, but that was only half his rule. Home Depot and McDonald's pass the shopper test easily, so why do their latest quarters raise harder questions?",
+      "pub_date": "2026-11-20T19:21:31Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/peter-lynch-made-millions-investors-192131441.html"
+    },
+    {
+      "title": "Own Walmart? Its Cash Lags Its Price",
+      "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
+      "pub_date": "2026-11-20T18:24:11Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/own-walmart-cash-lags-price-182411964.html"
+    },
     {
       "title": "Trump\u2019s Tariff Refund Saved Lowe\u2019s From An Earnings Miss. Here\u2019s The Math On How Government Tariff Refunds Are Padding Retailers\u2019 Profits",
       "summary": "Lowe's cleared Wall Street's bar last quarter, but one line in the release tells a different story. Court-ordered tariff refunds are flowing to retailers, not shoppers, and each company is spending the windfall differently.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-11-20T12:48:19Z",
       "source": "International Business Times",
       "url": "https://finance.yahoo.com/economy/policy/articles/343-companies-report-28-5-124819208.html"
-    },
-    {
-      "title": "What State Street Consumer Discretionary SPDR (XLY) Bought: Amazon Leads on Nov. 18",
-      "summary": "The $22.83 billion fund bought $172.9 million of stock and sold nothing, lifting all 47 positions.",
-      "pub_date": "2026-11-20T11:04:57Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-consumer-discretionary-spdr-110457372.html"
-    },
-    {
-      "title": "Capital Group Dividend Value (CGDV) Adds BlackRock and Dominion on Nov. 18",
-      "summary": "The $39.09 billion fund bought $720.1 million of stock on Wednesday, with $496.0 million net bought across 56 increased positions.",
-      "pub_date": "2026-11-20T11:03:50Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/capital-group-dividend-value-cgdv-110350011.html"
-    },
-    {
-      "title": "Home Depot (HD) Sees $76.7 Million in Net ETF Buying on Nov. 18",
-      "summary": "31 ETFs bought Home Depot shares versus 19 that sold on Wednesday.",
-      "pub_date": "2026-11-20T11:00:53Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/home-depot-hd-sees-76-110053110.html"
     }
   ]
 }

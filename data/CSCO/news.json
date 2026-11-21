@@ -1,7 +1,35 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-11-20T16:36:12.260171+00:00",
+  "generated_at": "2026-11-21T01:01:37.779625+00:00",
   "items": [
+    {
+      "title": "The Fear Gauge Hit 40. This Is What the Market Is Worried About.",
+      "summary": "Investors no longer believe the AI bull case. They fear an unwinding is coming.",
+      "pub_date": "2026-11-20T22:26:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stock-market-vix-fear-gauge-ai-d1012e90?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "How Investors May Respond To Cisco Stock After Earnings Beat",
+      "summary": "Cisco Systems reported past Q1 FY2027 results with revenue of US$18.5b, net income of US$4.6b, higher EPS than a year earlier, raised full year guidance, and a higher AI infrastructure outlook alongside new AI focused alliances with DXC Technology and Qumulo. The combination of stronger fundamentals, Cisco's US$9b AI infrastructure revenue target from hyperscalers and real world security and IT operations partnerships signals heavier reliance on AI driven networking and software to support...",
+      "pub_date": "2026-11-20T19:12:20Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-cisco-stock-191220194.html"
+    },
+    {
+      "title": "Is Dell Stock's Steep Fall A Bargain Or A Warning?",
+      "summary": "Today\u2019s big story: Will 2027 Be A 2022 Repeat For Stocks.",
+      "pub_date": "2026-11-20T18:17:11Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stocks-steep-fall-bargain-181711455.html"
+    },
+    {
+      "title": "Cisco Systems, Inc. (CSCO) Posted Record $17.3 Billion Revenue, but Margins Slipped: Is the Stock Still Worth Buying?",
+      "summary": "Investment management company First Pacific Advisors recently released its \u201cFPA Queens Road Value Fund\u201d Q3 2026 investor letter. A copy of the letter can be downloaded here. The Fund returned -1.82% in the third quarter of 2026, underperforming the S&P 500 Value Index, which gained 0.90%, while its year-to-date return reached 9.16%, slightly ahead of the [\u2026]",
+      "pub_date": "2026-11-20T17:22:23Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-systems-inc-csco-posted-172223888.html"
+    },
     {
       "title": "Can Arista Networks Stock Fall 30%?",
       "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-11-20T13:10:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/cien-targets-50b-market-ai-131000909.html"
-    },
-    {
-      "title": "Own Dell Or HPE? Look Past The Record Backlog",
-      "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
-      "pub_date": "2026-11-20T13:02:21Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/own-dell-hpe-look-past-130221575.html"
-    },
-    {
-      "title": "Anthropic Defies Tech Rout On Debut \u2014 Tom Lee Sees \u2018Big Payoff\u2019 Ahead And Says Cisco\u2019s Wild 1997 Ride Shows Why",
-      "summary": "After six straight S&P 500 losses, Lee noted that the index rose the following week in all 10 prior cases he analyzed.",
-      "pub_date": "2026-11-20T05:18:58Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-defies-tech-rout-debut-051858481.html"
-    },
-    {
-      "title": "HSBC Just Turned Bullish on Cisco Stock Again. Here\u2019s Why It Expects 40% Upside.",
-      "summary": "Cisco's strongest growth in more than 15 years has caught Wall Street's attention, and now HSBC has turned bullish.",
-      "pub_date": "2026-11-19T22:57:46Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hsbc-just-turned-bullish-cisco-225746853.html"
-    },
-    {
-      "title": "What Is Cisco Systems (CSCO) Really Gaining From Its New AI Alliances?",
-      "summary": "Cisco Systems (NasdaqGS: CSCO) announced new AI-focused alliances with DXC Technology and Qumulo on 19 November 2026. The DXC partnership integrates Cisco AI-driven network intelligence into DXC's orchestration platforms to speed up incident resolution for large enterprises. The Qumulo collaboration links Cisco smart switches with Qumulo storage monitoring so ransomware activity can trigger real time, automated network isolation. Cisco's DXC and Qumulo AI tie ups are important, but investors...",
-      "pub_date": "2026-11-19T22:10:30Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-systems-csco-really-gaining-221030896.html"
     }
   ]
 }

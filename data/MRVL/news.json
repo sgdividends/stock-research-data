@@ -1,62 +1,62 @@
 {
   "ticker": "MRVL",
-  "generated_at": "2026-11-20T16:36:53.024123+00:00",
+  "generated_at": "2026-11-21T01:02:20.498499+00:00",
   "items": [
+    {
+      "title": "Data Center AI Chips Could Change the Winners: Broadcom and Marvell",
+      "summary": "While investors fixate on Nvidia's share price, hyperscalers are quietly buying different chips for different jobs. Counting accelerators misses the real money, and a memory-stack model shows why the chip tally can mislead.",
+      "pub_date": "2026-11-20T23:25:54Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/data-center-ai-chips-could-232554816.html"
+    },
+    {
+      "title": "Marvell Reports Dec. 1. History Says What Its Stock Usually Does Next.",
+      "summary": "The chipmaker's stock has swung an average of around 12% the day after its latest reports. Which way will it go this time?",
+      "pub_date": "2026-11-20T21:43:02Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-reports-dec-1-history-214302502.html"
+    },
+    {
+      "title": "Marvell's $115 Billion Lumentum Deal Creates a New Valuation Test",
+      "summary": "The semiconductor company's pending Lumentum acquisition and data center growth remain central to its investment outlook.",
+      "pub_date": "2026-11-20T21:41:12Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/articles/marvells-115-billion-lumentum-deal-214112963.html"
+    },
+    {
+      "title": "Lumentum Holdings (LITE) Stock Dropped, So What Is Driving Attention Now?",
+      "summary": "Lumentum Holdings (LITE) has been pulled into the spotlight after Marvell Technology agreed to acquire the optical components maker in an all stock transaction valued at about US$115b. The merger headlines land against a sharp swing in Lumentum Holdings\u2019 trading pattern, with the share price down 34.9% over the past month and 38.3% over 90 days, even as year to date share price return is 38.6% and the 1 year total shareholder return is 129.4%. This is supported by a very large 3 year total...",
+      "pub_date": "2026-11-20T21:12:17Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lumentum-holdings-lite-stock-dropped-211217297.html"
+    },
+    {
+      "title": "Micron Keeps Falling as Memory Stocks Get Agonizingly Cheap",
+      "summary": "Before rushing to buy, investors should consider catalysts looming next week.",
+      "pub_date": "2026-11-20T18:14:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/micron-stock-memory-price-catalyst-58e84734?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Broadcom is Overvalued at 17.73X P/E: Buy, Sell or Hold the Stock?",
+      "summary": "AVGO's 17.73X P/E signals overvaluation, but surging AI semiconductor revenues and strong hyperscaler ties support long-term growth. Is holding the stock wise?",
+      "pub_date": "2026-11-20T17:52:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-overvalued-17-73x-p-175200037.html"
+    },
+    {
+      "title": "Goldman Sachs Cut Its Broadcom Target to $460, and the Reason Has Nothing to Do With Broadcom\u2019s Earnings",
+      "summary": "Key Takeaways Goldman Sachs cut its Broadcom price target to $460 from $540 on Nov. 18 and kept its Buy rating, so the target was still 30% above that day\u2019s close.",
+      "pub_date": "2026-11-20T17:41:54Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-cut-broadcom-target-174154820.html"
+    },
     {
       "title": "Marvell and Lumentum deal: good, real, and ugly scenarios",
       "summary": "Investing.com -- Marvell Technology Inc (MRVL) owns the platform ambition, while Lumentum Holdings Inc (LITE) owns scarce optical capacity.",
       "pub_date": "2026-11-20T16:20:15Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-lumentum-deal-good-real-162015619.html"
-    },
-    {
-      "title": "Lumentum\u2019s CEO Admits \u201cShareholders Are Not Happy\u201d About the Marvell Deal",
-      "summary": "A fixed exchange ratio chained Lumentum to Marvell's slide, and now the CEO is courting angry investors. Three upcoming events could decide whether his promise of a stronger combined company holds up or unravels.",
-      "pub_date": "2026-11-20T15:28:43Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lumentum-ceo-admits-shareholders-not-152843866.html"
-    },
-    {
-      "title": "AI trade stocks hit hardest after Jensen Huang\u2019s exit from Nvidia",
-      "summary": "Investing.com -- The market is treating the AI trade as a complex ecosystem, not a single stock, and the damage is widest among companies that depended on NVIDIA (NVDA)\u2019s spending and financing. The 1-month moves are from the Nov 19 snapshot.",
-      "pub_date": "2026-11-20T15:26:51Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-trade-stocks-hit-hardest-152651279.html"
-    },
-    {
-      "title": "Micron Keeps Falling as Memory Stocks Get Agonizingly Cheap. The Next Catalyst.",
-      "summary": "Before rushing to buy, investors should consider catalysts looming next week.",
-      "pub_date": "2026-11-20T14:44:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/micron-stock-memory-price-catalyst-58e84734?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Credo Sinks 6%, Marvell Down 5% as Cramer Says Nvidia Woes Are \u201cOverwhelming the Good News\u201d",
-      "summary": "Key TakeawaysCredo Technology fell 6% this morning, along with Marvell, Lumentum, Coherent and Astera Labs, as Nvidia\u2019s troubles weighed on AI suppliers. Stifel cut its target to $250 but still expects Credo to beat and raise on Dec.",
-      "pub_date": "2026-11-20T14:39:04Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/credo-sinks-6-marvell-down-143904477.html"
-    },
-    {
-      "title": "CRDO vs. MRVL: Which AI Connectivity Stock Is the Better Pick?",
-      "summary": "Credo and Marvell are riding the AI connectivity boom, but differences in growth outlook, profitability, customer exposure and risks could sway investors.",
-      "pub_date": "2026-11-20T14:06:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/crdo-vs-mrvl-ai-connectivity-140600363.html"
-    },
-    {
-      "title": "Anthropic, Nvidia, AMD, Intuit, Bloom Energy, and More Stocks That Explain Today\u2019s Market",
-      "summary": "Anthropic\u2019s post-IPO slide adds pressure to artificial-intelligence stocks as chip makers and data center suppliers retreat.",
-      "pub_date": "2026-11-20T13:53:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-affd1759?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Marvell Technology And 2 Top AI Stocks To Watch",
-      "summary": "The Anthropic IPO put a hard number on something investors have sensed for a while: AI ambitions now come with infrastructure price tags in the trillions. Every chatbot, model upgrade, and safety promise needs concrete assets like chips, power, and data centers. That is where the real cash flows can sit. This article breaks down three US listed AI plumbing stocks from our screener that target that opportunity. The three stocks in this article are just a starter pack, while the full AI...",
-      "pub_date": "2026-11-20T13:09:41Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/marvell-technology-2-top-ai-130941530.html"
     }
   ]
 }

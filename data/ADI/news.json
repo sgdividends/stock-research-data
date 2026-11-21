@@ -1,7 +1,14 @@
 {
   "ticker": "ADI",
-  "generated_at": "2026-11-20T16:35:49.103885+00:00",
+  "generated_at": "2026-11-21T01:01:21.258395+00:00",
   "items": [
+    {
+      "title": "Earnings Calendar and Analysis for This Week",
+      "summary": "Check out our earnings calendar for this week, as well as our previews and recaps of the more noteworthy reports.",
+      "pub_date": "2026-11-20T16:09:54Z",
+      "source": "Kiplinger",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-calendar-analysis-week-june-162434561.html"
+    },
     {
       "title": "ADI Set to Report Q4 Earnings: What's in the Cards for the Stock?",
       "summary": "Analog Devices gears up for Q4 fiscal 2026 earnings, with AI-driven data center demand, industrial strength and improving margins expected to fuel growth.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-18T14:30:23Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/where-did-texas-instruments-fall-143023738.html"
-    },
-    {
-      "title": "What iShares PHLX SOX Semi Index Fund (SOXX) Sold: AMD Leads on Nov. 16",
-      "summary": "The fund sold $567.6 million of stock and bought nothing, cutting all 30 of its positions.",
-      "pub_date": "2026-11-18T11:04:32Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-phlx-sox-semi-index-110432199.html"
     }
   ]
 }

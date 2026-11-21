@@ -1,7 +1,14 @@
 {
   "ticker": "AKAM",
-  "generated_at": "2026-11-20T16:35:50.979942+00:00",
+  "generated_at": "2026-11-21T01:01:23.925598+00:00",
   "items": [
+    {
+      "title": "Tech Stocks Collapsed This Week. 4 Cybersecurity Stocks Escaped.",
+      "summary": "Palo Alto Networks led parts of the cybersecurity sector higher this week, overcoming a brutal tech selloff.",
+      "pub_date": "2026-11-20T18:02:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/tech-stocks-down-cybersecurity-stocks-50f7140f?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Akamai Technologies (AKAM) Expands Mobile Enterprise Browser Security",
       "summary": "Akamai Technologies (NasdaqGS:AKAM) announced a new collaboration with Microsoft to secure Microsoft Edge for Business on mobile devices. The partnership targets iOS and Android, bringing enterprise browser controls such as real time threat prevention directly into Microsoft Edge for Business. Akamai says the integration also introduces generative AI governance features designed for corporate use of Microsoft Edge for Business on phones and tablets. This new Akamai and Microsoft enterprise...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-18T11:13:32Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-akamai-111332878.html"
-    },
-    {
-      "title": "What SPDR S&P 500 ETF Trust (SPY) Bought: Apple Leads on Monday",
-      "summary": "The fund bought $6.73 billion in gross trades and added $6.72 billion net, with Apple's $541.4 million purchase the largest.",
-      "pub_date": "2026-11-18T11:04:04Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spdr-p-500-etf-trust-110404302.html"
     }
   ]
 }
