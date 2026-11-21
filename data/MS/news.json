@@ -1,7 +1,21 @@
 {
   "ticker": "MS",
-  "generated_at": "2026-11-21T11:59:29.516334+00:00",
+  "generated_at": "2026-11-21T18:51:42.572838+00:00",
   "items": [
+    {
+      "title": "Wall Street\u2019s Fear Index Just Hit 9.7. History Says the S&P 500 Could Rally 10.5% in 3 Weeks",
+      "summary": "Panic has gripped Wall Street, and the last time sentiment sank this low, buyers who stepped in were rewarded within weeks. Three signals will show whether this selloff is ending or only halfway done.",
+      "pub_date": "2026-11-21T15:28:29Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-fear-index-just-152829696.html"
+    },
+    {
+      "title": "Renaissance Technologies Opened $739 Million in New Positions in Three Big Banks",
+      "summary": "The quant giant behind the Medallion Fund just piled into three Wall Street heavyweights, then watched those stocks tumble within days of the filing. Does a 13F snapshot reveal conviction, or only a moment already gone?",
+      "pub_date": "2026-11-21T15:11:03Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/renaissance-technologies-opened-739-million-151103653.html"
+    },
     {
       "title": "Morgan Stanley Ends Anthropic Stock Support After Just One Day",
       "summary": "Morgan Stanley closed Anthropic\u2019s price support after one day as ANT stock slid toward its $83 IPO price. Will the stock hold?",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-20T13:06:11Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/no-bear-sight-major-wall-130611909.html"
-    },
-    {
-      "title": "SiTime (SITM) Stock Sees Fair Value Cut As Analysts Reassess AI Growth Upside",
-      "summary": "SiTime\u2019s modeled fair value has been reset from US$832.27 to US$713.75, which marks a sizeable change in how upside potential is being framed. Recent analyst commentary around AI timing demand, execution risks and prior share price moves helps explain why targets across the Street have moved in different directions, even as the core SiTime story still focuses on precision timing for high performance systems. As you read on, you will see how to interpret these shifts and track the evolving...",
-      "pub_date": "2026-11-20T12:11:01Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sitime-sitm-stock-sees-fair-121101395.html"
-    },
-    {
-      "title": "Morgan Stanley (MS) Debuts Four Active UCITS ETFs In Europe",
-      "summary": "Morgan Stanley (NYSE: MS) has launched an active ETF platform in Europe using four Ireland domiciled UCITS ETFs. The new range focuses on long term thematic and actively managed strategies aimed at investors outside the U.S. The ETFs are registered under Irish UCITS rules, giving passporting access to multiple European markets. Morgan Stanley's new European active ETF platform signals a broader shift in how the firm wants to compete for global flows. We have also spotted 1 warning sign worth...",
-      "pub_date": "2026-11-20T03:19:45Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-ms-debuts-four-031945299.html"
     }
   ]
 }

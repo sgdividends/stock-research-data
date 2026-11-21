@@ -1,7 +1,14 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-11-21T11:59:32.774403+00:00",
+  "generated_at": "2026-11-21T18:51:45.460367+00:00",
   "items": [
+    {
+      "title": "SoundHound AI Sinks 44% in a Month. Now Its $120 Million of Cost Cuts Have to Land",
+      "summary": "Key TakeawaysSoundHound AI stock fell 44% in the month through Nov. 20 to a new 52-week low.",
+      "pub_date": "2026-11-21T01:28:00Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/soundhound-ai-sinks-44-month-012800165.html"
+    },
     {
       "title": "Salesforce vs. ServiceNow: Which Technology Stock Is a Better Buy for 2027?",
       "summary": "Salesforce trades at a lower forward P/E than ServiceNow, yet ServiceNow is growing revenue faster, forcing investors to weigh price against momentum.",
@@ -31,6 +38,13 @@
       "url": "https://finance.yahoo.com/video/how-anthropic-compares-to-other-tech-companies-154845765.html"
     },
     {
+      "title": "AI vendors say companies are measuring ROI the wrong way. What will convince CFOs to keep paying?",
+      "summary": "As CFOs set 2027 budgets, seven enterprise AI leaders explain what buyers should measure before committing to another year of spending.",
+      "pub_date": "2026-11-20T10:09:00Z",
+      "source": "FastCompany",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-vendors-companies-measuring-roi-100900812.html"
+    },
+    {
       "title": "Salesforce Lost 16% in a Week as AI Fears Hit Software. Piper Sandler Sees 53% Upside",
       "summary": "Key TakeawaysSalesforce stock fell 16% in a week as investors sold software ahead of Anthropic\u2019s IPO, and ServiceNow fell less. Salesforce will probably sell its Anthropic stake to pay down the debt from its $25 billion buyback.",
       "pub_date": "2026-11-20T08:27:53Z",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-20T04:45:23Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ai-sell-off-sectors-held-044523371.html"
-    },
-    {
-      "title": "ServiceNow vs. UiPath: Which Technology Stock Is a Better Buy for 2027?",
-      "summary": "ServiceNow's revenue top $15 billion while UiPath trades at a lower forward multiple, but the gap between the two growth stories may matter more than price.",
-      "pub_date": "2026-11-19T19:03:02Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-vs-uipath-technology-stock-190302076.html"
-    },
-    {
-      "title": "UiPath's ARR Nears $2 Billion: Can It Sustain the Growth Momentum?",
-      "summary": "PATH's ARR climbs 12.5% to $1.94 billion in Q2 fiscal 2027, with annual gains accelerating. Can wider enterprise deployments sustain the momentum?",
-      "pub_date": "2026-11-19T17:27:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/uipaths-arr-nears-2-billion-172700842.html"
     }
   ]
 }

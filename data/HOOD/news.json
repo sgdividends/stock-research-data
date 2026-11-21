@@ -1,7 +1,35 @@
 {
   "ticker": "HOOD",
-  "generated_at": "2026-11-21T11:59:09.954698+00:00",
+  "generated_at": "2026-11-21T18:51:26.266259+00:00",
   "items": [
+    {
+      "title": "Bitcoin Bounces Off Two-Year Lows. Could Crypto Rescue Stocks on Monday?",
+      "summary": "The price of Bitcoin has climbed over the past 24 hours and is rebounding from two-year lows. That might be a good sign for the stock market on Monday.",
+      "pub_date": "2026-11-21T18:03:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/bitcoin-price-today-news-2098674f?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "CME vs. Robinhood Markets: Which Financial Stock Is a Better Buy for 2027?",
+      "summary": "Robinhood's revenue grew far faster than CME's over the latest 12 months, yet its debt load tells a very different story about financial risk.",
+      "pub_date": "2026-11-21T14:40:02Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cme-vs-robinhood-markets-financial-144002749.html"
+    },
+    {
+      "title": "Kalshi Says New York Could Shut It Down Nationwide",
+      "summary": "A judge just sent New York's case against Kalshi back to state court, and one headquarters address could turn a local fight into a national one. Robinhood is racing to shift its prediction-market flow before a single order lands.",
+      "pub_date": "2026-11-21T12:57:13Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/options/articles/kalshi-says-york-could-shut-125713573.html"
+    },
+    {
+      "title": "SoFi Is Down 15% in a Month and Just Hit a New 52-Week Low. Is the Selling Overdone?",
+      "summary": "Key TakeawaysSoFi stock is down 15% over the past month to a new 52-week low. That gives back the jump that followed its record third quarter.",
+      "pub_date": "2026-11-21T01:39:44Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sofi-down-15-month-just-013944116.html"
+    },
     {
       "title": "Funds With Anthropic Exposure Got Off to a Rough Start. More Trouble May Be on the Way.",
       "summary": "ETFs that had ties to Anthropic got crushed Thursday in the AI selloff and tumbled again Friday Single-stock funds tied to Anthropic are set to debut too.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-11-20T16:53:06Z",
       "source": "TIKR",
       "url": "https://finance.yahoo.com/markets/options/articles/coinbase-plans-own-prediction-markets-165306922.html"
-    },
-    {
-      "title": "COIN Lags Industry, Trades at a Premium: Buy, Hold or Sell the Stock?",
-      "summary": "Coinbase's 52.4% YTD decline, premium valuation and weak trading volumes raise caution, even as its everything-exchange strategy offers growth opportunities.",
-      "pub_date": "2026-11-20T16:38:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coin-lags-industry-trades-premium-163800224.html"
-    },
-    {
-      "title": "Robinhood Markets vs. Nu: Which Financial Stock Is a Better Buy for 2027?",
-      "summary": "Nu's forward P/E sits at 13.7 versus Robinhood's 38.3, yet the cheaper stock carries a different set of risks worth weighing.",
-      "pub_date": "2026-11-20T15:15:02Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-markets-vs-nu-financial-151502976.html"
-    },
-    {
-      "title": "The Wall Street veteran turning alternative data into infrastructure for everyone",
-      "summary": "Kirk McKeown, Co-Founder and CEO of Carbon Arc, spent years running the alternative data business at Point72 before setting out to make Wall Street\u2019s data edge available to everyone. Carbon Arc is the infrastructure platform he built to do exactly that: removing the legal, compliance, and usability friction that keeps private data locked away from the decision makers who need it most. In this interview at the TomorrowX Summit, Kirk breaks down the Kalshi partnership that made alternative data a settlement framework for prediction markets for the first time, the upcoming Robinhood MCP integration that puts 600 data assets in traders\u2019 hands for $10 a month, and why he believes data structure is the new capital market.",
-      "pub_date": "2026-11-20T14:57:35Z",
-      "source": "CoinDesk",
-      "url": "https://finance.yahoo.com/video/wall-street-veteran-turning-alternative-145735414.html"
-    },
-    {
-      "title": "Robinhood Just Dropped 29% in a Month. Is It Time to Sell, or Load Up?",
-      "summary": "Key TakeawaysRobinhood stock fell 29% in the past month as crypto trading slumped, and Coinbase fell even harder in the same selloff. Robinhood\u2019s crypto revenue fell 55% in the third quarter and its October crypto volume fell 48%, but prediction markets now bring in more revenue than crypto, and deposits keep growing.",
-      "pub_date": "2026-11-20T13:35:19Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/robinhood-just-dropped-29-month-133519070.html"
     }
   ]
 }

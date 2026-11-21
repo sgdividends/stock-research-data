@@ -1,13 +1,55 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-11-21T11:58:33.797559+00:00",
+  "generated_at": "2026-11-21T18:50:51.715997+00:00",
   "items": [
     {
-      "title": "Nvidia drops 12%, Broadcom and AMD extend declines as the AI trade melts down",
-      "summary": "Chip giant Nvidia slid further into red territory on Friday along with the rest of the semiconductor sector.",
-      "pub_date": "2026-11-20T13:36:58Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/article/nvidia-amd-and-broadcom-lead-chip-stocks-lower-133658985.html"
+      "title": "Microsoft Was The Only Big AI Buyer Paying Down Debt. How Much More Can It Spend?",
+      "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
+      "pub_date": "2026-11-21T18:32:03Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-only-big-ai-buyer-183203505.html"
+    },
+    {
+      "title": "Anthropic Owes $71 Billion for Compute Within a Year, \u201c87% of Current Run Rate Revenue,\u201d per Scott Galloway",
+      "summary": "Key TakeawaysScott Galloway says $71 billion of Anthropic\u2019s compute commitments come due within a year, a bill that reaches Amazon, Alphabet and Broadcom. With over $200 billion of cash after its IPO, Anthropic can pay it, so the bigger worry is its slowing revenue growth.",
+      "pub_date": "2026-11-21T16:20:47Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-owes-71-billion-compute-162047602.html"
+    },
+    {
+      "title": "ASML vs. Broadcom: Which Tech Stock Is a Better Buy for 2027?",
+      "summary": "ASML's near-monopoly on chip-printing machines faces off against Broadcom's networking empire, with a sharp valuation gap complicating the choice for growth investors.",
+      "pub_date": "2026-11-21T14:41:02Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/asml-vs-broadcom-tech-stock-144102288.html"
+    },
+    {
+      "title": "3 AI Infrastructure Stocks to Watch Before Broadcom Reports on Dec. 9",
+      "summary": "One chip giant's earnings call could swing the power plants feeding every AI data center. We ranked three infrastructure plays by beats, guidance, and customer wins, and the winner may not be the one with the biggest earnings surprise.",
+      "pub_date": "2026-11-21T14:27:15Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-watch-142715430.html"
+    },
+    {
+      "title": "Billionaire Daniel Loeb\u2019s \u2018Bear Math\u2019: AI\u2019s $7 Trillion Spending Boom Faces a $3 Trillion Reality Check",
+      "summary": "Tech giants are racing to build the AI future, but a hedge fund manager has run the numbers on what it must earn to pay for it. His math, and the debt market's growing unease, point to a hurdle few investors are pricing in.",
+      "pub_date": "2026-11-21T14:13:43Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-daniel-loeb-bear-math-141343636.html"
+    },
+    {
+      "title": "The 1 Thing I'll Be Watching When Broadcom Reports on Dec. 9",
+      "summary": "The chip designer has beaten its own AI forecast three quarters straight. Can the next outlook keep 2027 on track?",
+      "pub_date": "2026-11-21T13:46:02Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-thing-ill-watching-broadcom-134602300.html"
+    },
+    {
+      "title": "Nvidia\u2019s Worst Losing Streak Since 2008 Now Has an SEC Problem. What Shareholders Need to Know",
+      "summary": "A reported SEC probe, a CEO exit, and a California subpoena have hit Nvidia while its earnings keep soaring. Retirees holding the stock directly or through index funds face a hard question about which signal to trust.",
+      "pub_date": "2026-11-21T13:23:50Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-worst-losing-streak-since-132350647.html"
     },
     {
       "title": "Broadcom Backstops Up to $29 Billion of Anthropic\u2019s Leases. Anthropic Just Gave Back Its IPO Pop",
@@ -15,48 +57,6 @@
       "pub_date": "2026-11-21T10:35:24Z",
       "source": "TIKR",
       "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-backstops-29-billion-anthropic-103524920.html"
-    },
-    {
-      "title": "Here\u2019s My Top AI Stock to Buy With Nvidia in Uncertain Territory",
-      "summary": "Broadcom is a great alternative to Nvidia.",
-      "pub_date": "2026-11-21T07:51:02Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/technology/ai/articles/top-ai-stock-buy-nvidia-075102252.html"
-    },
-    {
-      "title": "Data Center AI Chips Could Change the Winners: Broadcom and Marvell",
-      "summary": "While investors fixate on Nvidia's share price, hyperscalers are quietly buying different chips for different jobs. Counting accelerators misses the real money, and a memory-stack model shows why the chip tally can mislead.",
-      "pub_date": "2026-11-20T23:25:54Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/data-center-ai-chips-could-232554816.html"
-    },
-    {
-      "title": "Stock Market Today, Nov. 20: Stocks Plunge as AI Trade Unwinds",
-      "summary": "Wall Street's worst stretch of the year deepened as AI-linked names sold off while defensive sectors drew buyers, today, Nov. 20, 2026.",
-      "pub_date": "2026-11-20T22:35:13Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-20-223513707.html"
-    },
-    {
-      "title": "Tech sees huge sell-off as Anthropic IPO fails to lift the market",
-      "summary": "Deirdre Bosa discusses the AI trade falling apart as Wall Street sees widespread losses, Anthropic's (ANT) debut failing to boost\u00a0markets, and the state of cybersecurity.\n\n'Deirdre Bosa Live' airs every day at 4 p.m. Tune in daily to hear how the latest developments in AI and technology are reshaping companies, industries, and the global economy.",
-      "pub_date": "2026-11-20T22:19:25Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/tech-sees-huge-sell-off-as-anthropic-ipo-fails-to-lift-the-market-221925316.html"
-    },
-    {
-      "title": "Stock market today: Dow and S&P 500 enter correction, Nasdaq sinks 5% to erase 2026 gains as AI trade melts down",
-      "summary": "Stocks are on track to post weekly losses after Nvidia earnings and Anthropic's IPO weren't enough for investors to shake off AI angst.",
-      "pub_date": "2026-11-20T09:28:27Z",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html"
-    },
-    {
-      "title": "Anthropic Stocks Jump 17.07% in Record Debut as $26 Billion Chipmaker Placement Lands",
-      "summary": "First trade hit $111.50 before the pop cooled, leaving Amazon and Google holding roughly $360 billion of Anthropic at the close.",
-      "pub_date": "2026-11-20T21:41:50Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-stocks-jump-17-07-214150203.html"
     }
   ]
 }

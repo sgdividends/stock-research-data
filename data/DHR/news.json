@@ -1,7 +1,14 @@
 {
   "ticker": "DHR",
-  "generated_at": "2026-11-21T11:58:51.458317+00:00",
+  "generated_at": "2026-11-21T18:51:10.790488+00:00",
   "items": [
+    {
+      "title": "A $12 Billion Fund Just Bought These 3 Stocks",
+      "summary": "Key TakeawaysCastle Hook Partners, a $12 billion fund, opened a new stake in Microsoft and added heavily to Danaher and Thermo Fisher Scientific in the third quarter, per its 13F filed Nov. 16.",
+      "pub_date": "2026-11-21T14:51:03Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/12-billion-fund-just-bought-145103840.html"
+    },
     {
       "title": "Did Microsoft AI Partnership Just Shift Danaher's (DHR) Investment Narrative?",
       "summary": "Danaher announced a partnership with Microsoft to build AI assisted, cloud based scientific instruments and lab software, with early tools such as MetaXpress Acquire AI Assistant already moving toward commercial rollout. The push toward an interoperable agent platform suggests Danaher is trying to embed its hardware more deeply into customers\u2019 workflows, which could reinforce recurring software and consumables usage over time. Now the focus shifts to how this AI centric tie up with Microsoft...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-20T13:51:36Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/technology/ai/articles/danaher-teams-microsoft-develop-ai-135136424.html"
-    },
-    {
-      "title": "A $22 Billion Hedge Fund Just Bought These 3 Stocks",
-      "summary": "Key TakeawaysA $22 billion hedge fund opened new positions in Amazon, Danaher and Meta in the third quarter, and they\u2019re now its three largest holdings. The three made up 22% of its 13F stocks at Sept.",
-      "pub_date": "2026-11-19T16:30:25Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/22-billion-hedge-fund-just-163025338.html"
     }
   ]
 }

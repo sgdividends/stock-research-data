@@ -1,7 +1,21 @@
 {
   "ticker": "BX",
-  "generated_at": "2026-11-21T11:58:36.459536+00:00",
+  "generated_at": "2026-11-21T18:50:56.947724+00:00",
   "items": [
+    {
+      "title": "Databricks Wants a $225 Billion Valuation Even as AI Stocks Slide",
+      "summary": "While chip stocks crater, a private data giant is reportedly shopping for a far richer price tag. Its public rival, Snowflake, now faces a December 2 earnings test that could expose which valuation is wrong.",
+      "pub_date": "2026-11-21T14:32:46Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/databricks-wants-225-billion-valuation-143246522.html"
+    },
+    {
+      "title": "The Latest Alternative Investment? Data Centers",
+      "summary": "More investors are getting into data centers in the form of real estate trusts or debt financing.",
+      "pub_date": "2026-11-20T13:00:00Z",
+      "source": "The Daily Upside",
+      "url": "https://finance.yahoo.com/real-estate/articles/latest-alternative-investment-data-centers-130000366.html"
+    },
     {
       "title": "Market Chatter: Blackstone, Carlyle Among Lenders to Take Over Vivid Seats in Debt Deal",
       "summary": "Blackstone (BX) and Carlyle Group (CG) are among a group of lenders that will take over Vivid Seats",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-18T16:21:59Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/blackstone-gray-says-market-shakeout-162159619.html"
-    },
-    {
-      "title": "Amazon\u2019s CEO Says Pulling Back on Data Centers Would Be a \u201cHistoric Mistake\u201d",
-      "summary": "Andy Jassy defended a spending spree of hundreds of billions to a crowd that had just rejected data centers, yet he left out the one number investors need most. The real threat to Amazon's AI bet may not be demand at all.",
-      "pub_date": "2026-11-18T16:03:20Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-ceo-says-pulling-back-160320793.html"
-    },
-    {
-      "title": "4 Dividend Stocks That Can Thrive Under a Democratic Congress",
-      "summary": "When Washington stalls, most investors worry about their portfolios. Income seekers have a different play: four payers from four sectors that need no new law to keep raising dividends, including one with a streak nearly half a century long.",
-      "pub_date": "2026-11-18T13:15:11Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/4-dividend-stocks-thrive-under-131511575.html"
     }
   ]
 }

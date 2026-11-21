@@ -1,7 +1,14 @@
 {
   "ticker": "C",
-  "generated_at": "2026-11-21T11:58:36.840807+00:00",
+  "generated_at": "2026-11-21T18:50:57.269491+00:00",
   "items": [
+    {
+      "title": "Renaissance Technologies Opened $739 Million in New Positions in Three Big Banks",
+      "summary": "The quant giant behind the Medallion Fund just piled into three Wall Street heavyweights, then watched those stocks tumble within days of the filing. Does a 13F snapshot reveal conviction, or only a moment already gone?",
+      "pub_date": "2026-11-21T15:11:03Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/renaissance-technologies-opened-739-million-151103653.html"
+    },
     {
       "title": "Does Citigroup (C) Risk Error And USDC Pilot Change The Investment Case?",
       "summary": "Citigroup (NYSE:C) identified a US$35b risk modeling error in its European trading unit\u2019s risk weighted asset calculations in 2026. The bank reported that the discrepancy was found through internal reviews and said it moved to adjust its models and capital metrics. Citigroup and partners ran a pilot using USDC stablecoins for cross border World Bank development disbursements to test on chain settlement. Focusing only on the US$35b risk modeling error and USDC pilot misses how these shifts...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-20T12:03:07Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/economy/policy/articles/citis-reported-35-billion-capital-120307962.html"
-    },
-    {
-      "title": "Is Citi Wrong to Give Up on McDonald\u2019s? Wall Street Still Sees $299",
-      "summary": "Key TakeawaysCiti downgraded McDonald\u2019s to Neutral from Buy on Nov. 18 and cut its price target to $301 from $315.",
-      "pub_date": "2026-11-20T08:26:32Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/citi-wrong-mcdonald-wall-street-082632061.html"
     }
   ]
 }

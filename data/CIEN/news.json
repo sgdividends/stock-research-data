@@ -1,7 +1,14 @@
 {
   "ticker": "CIEN",
-  "generated_at": "2026-11-21T11:58:41.260183+00:00",
+  "generated_at": "2026-11-21T18:51:00.775955+00:00",
   "items": [
+    {
+      "title": "A $10 Billion Fund Bought These 3 Stocks Last Quarter",
+      "summary": "Key TakeawaysA $10 billion fund opened a stake in MercadoLibre and added to Snowflake and Ciena in the third quarter, its latest 13F shows. All three stocks are down since Sept.",
+      "pub_date": "2026-11-21T14:22:56Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/10-billion-fund-bought-3-142256180.html"
+    },
     {
       "title": "An $11 Billion Fund Just Bought These 3 Stocks",
       "summary": "Key TakeawaysAtreides Management manages $10. 74 billion.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-19T11:02:50Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/technology/ai/articles/ciena-won-jim-cramer-praise-110250164.html"
-    },
-    {
-      "title": "How Does Ciena (CIEN) Change The Optical Networking Race With 800 Gb/s?",
-      "summary": "Ciena (NYSE:CIEN) and research network Internet2 set a new record for 800 Gb/s terrestrial optical transmission over 2,104 kilometers. The trial used Ciena\u2019s WaveLogic 6 Nano coherent pluggable technology to send 800 Gb/s over Internet2\u2019s production network infrastructure. Internet2 expects to apply this 800 Gb/s over 2,104 kilometers capability to upgrade its backbone, targeting higher capacity for research data traffic. This record 800 Gb/s, 2,104 kilometer link is only part of the story...",
-      "pub_date": "2026-11-19T06:15:30Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/articles/does-ciena-cien-change-optical-061530843.html"
     }
   ]
 }

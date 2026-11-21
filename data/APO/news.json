@@ -1,7 +1,14 @@
 {
   "ticker": "APO",
-  "generated_at": "2026-11-21T11:58:33.263094+00:00",
+  "generated_at": "2026-11-21T18:50:50.643532+00:00",
   "items": [
+    {
+      "title": "SpaceX Is Paying Up to 8.36% on $44 Billion of Debt for Nvidia Chips",
+      "summary": "Lenders lined up to fund SpaceX's chip spree, then demanded a steep price for it. The real risk may be what happens to those GPUs, and to SpaceX's cash flow, before the first rent check clears.",
+      "pub_date": "2026-11-21T14:13:54Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-paying-8-36-44-141354361.html"
+    },
     {
       "title": "Apollo (APO) Stock May Be 30% Undervalued As AI Credit Risks Loom",
       "summary": "Apollo Global Management has delivered a 70.4% total return over the past 5 years, yet the recent share price pullback and fresh deal activity put a sharper spotlight on whether that valuation can be explained by the returns it earns on its capital. A 70.4% gain over 5 years puts real weight on the question of whether Apollo's current price is anchored in the actual profitability of the capital it deploys for clients and on its own balance sheet. New financing commitments around AI...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-20T12:00:52Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/spacexs-8-26-bond-yield-120052825.html"
-    },
-    {
-      "title": "SpaceX Sells $32 Billion of AI Chip Debt at Yields Topping 8%",
-      "summary": "SpaceX sold $32 billion of bonds to fund its purchase of artificial intelligence chips on Thursday, in a complicated and relatively high-yielding transaction that may serve as a model for a wave of similar financings to come.",
-      "pub_date": "2026-11-19T23:41:12Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/technology/ai/articles/spacex-sells-32-billion-ai-234112045.html"
     }
   ]
 }

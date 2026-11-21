@@ -1,6 +1,6 @@
 {
   "ticker": "UAL",
-  "generated_at": "2026-11-21T11:59:59.071163+00:00",
+  "generated_at": "2026-11-21T18:52:08.791379+00:00",
   "items": [
     {
       "title": "Southwest (LUV) Up 8.5% Since Last Earnings Report: Can It Continue?",
@@ -8,6 +8,13 @@
       "pub_date": "2026-11-20T15:30:07Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/southwest-luv-8-5-since-153007424.html"
+    },
+    {
+      "title": "Airfares Are Up, Flights Are Tight: 3 Airline Stocks Facing a Winter Test",
+      "summary": "United, Delta, and JetBlue are cutting winter seat capacity to boost yields amid high fuel costs, pushing holiday fares near decade highs while supporting margins and cash flow.",
+      "pub_date": "2026-11-20T14:20:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/airfares-flights-tight-3-airline-142000451.html"
     },
     {
       "title": "Visa, Mastercard, JPMorgan Hit By Reported Data Leak, Payment Information Not Affected",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-18T15:09:45Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/nvidia-earnings-call-takeaways-and-3-things-explaining-the-stocks-market-moves-150945023.html"
-    },
-    {
-      "title": "Apple Outage Adds to a Week of US Tech Failures",
-      "summary": "Downdetector logged about 2,300 Apple Pay reports in the US at the outage's height",
-      "pub_date": "2026-11-18T12:18:08Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/articles/apple-outage-adds-week-us-121808131.html"
     }
   ]
 }
