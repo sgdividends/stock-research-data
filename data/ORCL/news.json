@@ -1,7 +1,14 @@
 {
   "ticker": "ORCL",
-  "generated_at": "2026-11-21T18:51:48.373082+00:00",
+  "generated_at": "2026-11-22T00:02:13.761844+00:00",
   "items": [
+    {
+      "title": "Nvidia Falls 48% From Peak as AI Selloff Spreads to Bitcoin and Crypto",
+      "summary": "Nvidia (NASDAQ: $NVDA) plunged 14% on Friday and the Nasdaq Composite lost 5.3%, capping the index's worst week...",
+      "pub_date": "2026-11-21T22:50:00Z",
+      "source": "CryptoProwl",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/nvidia-falls-48-peak-ai-225000738.html"
+    },
     {
       "title": "Oracle (ORCL) Hospital Java Patching Rush Meets New AI Product Push",
       "summary": "Oracle (NYSE:ORCL) disclosed new Java security vulnerabilities affecting US hospital systems as health networks rushed to apply patches in recent days. Hospital IT teams across multiple US regions have initiated accelerated maintenance windows to secure clinical and back office systems running Java-based applications. Oracle launched new Life Sciences AI Agents and AI-enabled Primavera Cloud features aimed at drug research and large construction project planning. The surge in hospital Java...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-20T22:43:06Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/technology/ai/articles/oracle-says-openai-contract-fully-224306974.html"
-    },
-    {
-      "title": "Credo Technology Group vs. Western Digital: Which Technology Stock Is a Better Buy for 2027?",
-      "summary": "Credo's AI connectivity and Western Digital's storage rebound are very different bets, and the valuation gap between them may tip the scales.",
-      "pub_date": "2026-11-20T22:17:08Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/credo-technology-group-vs-western-221708703.html"
     }
   ]
 }

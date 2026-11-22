@@ -1,7 +1,14 @@
 {
   "ticker": "AVGO",
-  "generated_at": "2026-11-21T18:50:51.715997+00:00",
+  "generated_at": "2026-11-22T00:01:27.909266+00:00",
   "items": [
+    {
+      "title": "Cathie Wood Just Sold $6 Million of Broadcom",
+      "summary": "Key TakeawaysCathie Wood\u2019s ARK Invest sold 19,314 shares of Broadcom from its ARKW fund on Friday, which comes to about $6 million at Friday\u2019s close. The sale is a small trim of a stake ARK nearly doubled in the third quarter.",
+      "pub_date": "2026-11-21T18:51:32Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-just-sold-6-185132026.html"
+    },
     {
       "title": "Microsoft Was The Only Big AI Buyer Paying Down Debt. How Much More Can It Spend?",
       "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-21T13:23:50Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-worst-losing-streak-since-132350647.html"
-    },
-    {
-      "title": "Broadcom Backstops Up to $29 Billion of Anthropic\u2019s Leases. Anthropic Just Gave Back Its IPO Pop",
-      "summary": "Key TakeawaysBroadcom shares fell 11% today as Anthropic gave back much of its IPO pop. Broadcom expects Anthropic to be its largest custom AI chip customer in 2027.",
-      "pub_date": "2026-11-21T10:35:24Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-backstops-29-billion-anthropic-103524920.html"
     }
   ]
 }
