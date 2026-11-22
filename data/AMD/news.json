@@ -1,7 +1,49 @@
 {
   "ticker": "AMD",
-  "generated_at": "2026-11-22T12:11:58.755782+00:00",
+  "generated_at": "2026-11-22T21:26:59.436226+00:00",
   "items": [
+    {
+      "title": "Stocks are 'on fire sale' as Anthropic IPO fails to calm AI trade jitters",
+      "summary": "Anthropic's public debut did little to calm the stock market as the AI trade unravels.",
+      "pub_date": "2026-11-22T19:00:51Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/stocks-are-on-fire-sale-as-anthropic-ipo-fails-to-calm-ai-trade-jitters-190051253.html"
+    },
+    {
+      "title": "Prediction: These Will Be AMD\u2019s and Nvidia\u2019s Stock Prices by 2028",
+      "summary": "Shares of both semiconductor companies can soar impressively, but one of them seems primed for bigger gains.",
+      "pub_date": "2026-11-22T16:04:02Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-amd-nvidia-stock-prices-160402811.html"
+    },
+    {
+      "title": "Arm Sinks 20% in a Week as Chips Slide and Nvidia\u2019s Headhunters Approach CEO Rene Haas. Time to Buy?",
+      "summary": "Key TakeawaysArm shares fell 20% in a week in an AI chip selloff that also hit Nvidia and AMD. Arm\u2019s own risk: Nvidia\u2019s recruiters reportedly approached CEO Rene Haas, who leads Arm\u2019s data center chip push.",
+      "pub_date": "2026-11-22T13:35:27Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arm-sinks-20-week-chips-133527300.html"
+    },
+    {
+      "title": "Advanced Micro Devices (AMD) Faces Firmware Allegations And Class Action Scrutiny",
+      "summary": "Advanced Micro Devices (NasdaqGS:AMD) faces allegations it supplied updated firmware to US-blacklisted Chinese server maker IEIT Systems. A short seller's investigative report accused AMD of providing post-blacklist support to IEIT, prompting legal and regulatory scrutiny. Law firms have launched a class-action investigation into AMD for potential securities law violations following the short seller's claims. The reported AMD firmware support for IEIT Systems is a fresh risk signal that...",
+      "pub_date": "2026-11-22T13:06:05Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-faces-130605212.html"
+    },
+    {
+      "title": "OpenAI\u2019s Greg Brockman: AI Delivered \u201cRoughly an Additional Year of Progress\u201d on AMD\u2019s Chip in Under 5 Months",
+      "summary": "Key TakeawaysOpenAI\u2019s Greg Brockman says OpenAI\u2019s models delivered roughly an extra year of progress on an AMD chip in under five months. AMD\u2019s edge over Nvidia comes from who did the work: OpenAI, which plans to deploy up to 6 gigawatts of AMD GPUs and holds a warrant that pays off as those chips ship.",
+      "pub_date": "2026-11-22T12:35:32Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/technology/ai/articles/openai-greg-brockman-ai-delivered-123532256.html"
+    },
+    {
+      "title": "Nvidia Must Become a Frontier Lab \u201cFaster Than Frontier Labs Are Becoming Chip Companies.\u201d Nemotron Is Its Head Start",
+      "summary": "Key TakeawaysNvidia shares are down 48% from their high after Jensen Huang\u2019s departure as CEO and a report that the SEC is examining the company\u2019s accounting. Nvidia\u2019s biggest customers are building their own chips with Alphabet and Broadcom, and AI labs are moving code onto chips from AMD.",
+      "pub_date": "2026-11-22T12:35:25Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-must-become-frontier-lab-123525803.html"
+    },
     {
       "title": "Jim Cramer Will \u201cThank the Shortseller for a Discount\u201d on AMD. Is the China Risk Overblown?",
       "summary": "Key TakeawaysAMD fell 20% in two days, starting with an 8% drop after short seller Hunterbrook reported that a blacklisted Chinese server maker kept using newer AMD firmware. The firmware is for EPYC server CPUs, and Hunterbrook says its findings don\u2019t prove an export violation.",
@@ -15,48 +57,6 @@
       "pub_date": "2026-11-22T10:30:02Z",
       "source": "Investing.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/street-calls-week-103002019.html"
-    },
-    {
-      "title": "Stanley Druckenmiller, David Tepper and 33 Other Big Funds Sold Advanced Micro Devices Last Quarter, While 21 Bought. Who\u2019s Right?",
-      "summary": "Key TakeawaysOf 460 big funds that have filed 13Fs for the quarter ended Sept. 30, 35 sold Advanced Micro Devices, including Stanley Druckenmiller\u2019s and David Tepper\u2019s, while 21 bought.",
-      "pub_date": "2026-11-22T10:22:43Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-david-tepper-33-102243689.html"
-    },
-    {
-      "title": "AMD Stock Just Plunged on a Short-Seller Report. Is This a Golden Buying Opportunity?",
-      "summary": "AMD\u2019s fundamentals are more than just a whisper of \u201cbuy the dip.\u201d",
-      "pub_date": "2026-11-22T08:50:02Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-stock-just-plunged-short-085002079.html"
-    },
-    {
-      "title": "Billionaire David Tepper Just Made a Massive AI Chip Rotation \u2014 Will It Pay Off?",
-      "summary": "Tepper was selling shares of AMD, Broadcom, and Alphabet in Q3, while buying Nvidia and Micron.",
-      "pub_date": "2026-11-22T03:20:02Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/technology/ai/articles/billionaire-david-tepper-just-made-032002032.html"
-    },
-    {
-      "title": "Nvidia Stock Has Crashed 48% and Now Trades at 15 Times Earnings, Its Cheapest in More Than a Decade and Cheaper Than Microsoft and Broadcom",
-      "summary": "Nvidia closed 48% below its record on Friday and trades at 15 times its last four quarters of earnings, the lowest since at least 2014 and less than Microsoft or Broadcom. Here is what that price assumes and why the market doubts the earnings.",
-      "pub_date": "2026-11-22T00:47:00Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-crashed-48-now-004700969.html"
-    },
-    {
-      "title": "Nvidia Falls 48% From Peak as AI Selloff Spreads to Bitcoin and Crypto",
-      "summary": "Nvidia (NASDAQ: $NVDA) plunged 14% on Friday and the Nasdaq Composite lost 5.3%, capping the index's worst week...",
-      "pub_date": "2026-11-21T22:50:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/nvidia-falls-48-peak-ai-225000738.html"
-    },
-    {
-      "title": "Cathie Wood Doubles Down On \u2018Highest Conviction Names\u2019 Nvidia, Tesla and AMD As Cyclical Tech Stocks Get \u2018Slaughtered\u2019 Amid Market Pullback",
-      "summary": "ARK Invest founder, CEO, and Chief Investment Officer Cathie Wood stated her firm used the recent market pullback to purchase shares of Nvidia Corp., Tesla Inc., and Advanced Micro Devices Inc., while noting that cyclical technology and memory stocks fell...",
-      "pub_date": "2026-11-21T19:30:08Z",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-doubles-down-highest-193008245.html"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "ticker": "BLK",
-  "generated_at": "2026-11-22T12:12:05.674097+00:00",
+  "generated_at": "2026-11-22T21:27:06.207542+00:00",
   "items": [
     {
       "title": "BlackRock, State Street Say Tokenization Won't Kill ETFs, But Could Draw Crypto Holders Who Avoid Banks",
@@ -8,6 +8,13 @@
       "pub_date": "2026-11-22T08:49:35Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/crypto/articles/blackrock-state-street-tokenization-wont-084935324.html"
+    },
+    {
+      "title": "Solana ETFs Defy Wall Street\u2019s Big Crypto Sell-Off",
+      "summary": "Solana ETFs logged the only crypto ETF inflow last week, and most of it came on the day Bitwise published a SOL forecast.",
+      "pub_date": "2026-11-21T10:49:42Z",
+      "source": "BeInCrypto",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/solana-etfs-defy-wall-street-104942729.html"
     },
     {
       "title": "S&P Global (SPGI) Could Be 16% Undervalued As Board Adds BlackRock Veteran",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-20T17:51:02Z",
       "source": "Bankless",
       "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-falls-below-60k-etfs-175102708.html"
-    },
-    {
-      "title": "Bitcoin on track for seventh straight weekly loss as ETF outflows hit record",
-      "summary": "Investing.com -- Bitcoin (BTC/USD) was at $60,231, down 4.53%, as of Nov 20, 10:37 AM EST. Today\u2019s range is $60,103\u2013$63,401, and its 52-week range is $57,877\u2013$97,787.",
-      "pub_date": "2026-11-20T16:08:47Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-track-seventh-straight-weekly-160847329.html"
     }
   ]
 }

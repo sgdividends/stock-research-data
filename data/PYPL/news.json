@@ -1,7 +1,14 @@
 {
   "ticker": "PYPL",
-  "generated_at": "2026-11-22T12:13:06.949614+00:00",
+  "generated_at": "2026-11-22T21:28:10.562707+00:00",
   "items": [
+    {
+      "title": "Venmo moves from splitting dinner to running the register",
+      "summary": "Pay with Venmo lets shoppers pay merchants through the app. Here\u2019s what could go wrong and what PayPal wants next.",
+      "pub_date": "2026-11-22T14:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/small-business/articles/venmo-moves-splitting-dinner-running-140300621.html"
+    },
     {
       "title": "Is PayPal Holdings (PYPL) A Bargain On Its Leadership Shake Up?",
       "summary": "PayPal Holdings (PYPL) is back in focus after a broad leadership shake up that introduced a new chief financial officer and several senior executives tied to its multi year execution plan. Recent trading has been rough for PayPal Holdings, with the share price down 5.46% on the day and 10.10% over the past week, extending a 30 day share price decline of 7.38% and a 1 year total shareholder return fall of 11.24% as investors assess the leadership overhaul and the associated execution...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-20T19:49:00Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-names-cfo-other-execs-194900976.html"
-    },
-    {
-      "title": "PayPal shuffles leadership to bolster risk, AI and banking talent",
-      "summary": "The payment company tapped bankers and execs from the technology industry as CEO Enrique Lores attempts to execute a three-year restructuring.",
-      "pub_date": "2026-11-20T19:34:21Z",
-      "source": "American Banker",
-      "url": "https://finance.yahoo.com/technology/ai/articles/paypal-shuffles-leadership-bolster-risk-193421684.html"
     }
   ]
 }

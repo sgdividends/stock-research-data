@@ -1,6 +1,6 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-11-22T12:12:40.334125+00:00",
+  "generated_at": "2026-11-22T21:27:41.760026+00:00",
   "items": [
     {
       "title": "D-Wave CEO: No Quantum Rival Has Produced \u201cEven One Logical Qubit\u201d",
@@ -38,6 +38,13 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-ibm-ibm-down-11-153006748.html"
     },
     {
+      "title": "IBM or Paychex: Only One Gets My Dividend Dollars for the Next 20 Years",
+      "summary": "Key TakeawaysPaychex yields 4. 2% and IBM yields 2.",
+      "pub_date": "2026-11-20T14:59:23Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ibm-paychex-only-one-gets-145923203.html"
+    },
+    {
       "title": "Bank Of Montreal (TSX:BMO) Reached Quantum Utility In Banking Machine Learning",
       "summary": "Bank of Montreal (TSX:BMO) reported a successful quantum utility test using IBM quantum computers for real-world machine learning workloads. The bank highlighted new quantum machine learning capabilities that apply directly to portfolio modeling and risk-related analytics inside its operations. BMO also rolled out AI Agent Assist across client service teams to support frontline staff interactions with customers. Beyond the quantum utility milestone and AI Agent Assist rollout, BMO\u2019s broader...",
       "pub_date": "2026-11-20T07:12:12Z",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-20T02:24:01Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ibm-stock-down-23-2026-022401616.html"
-    },
-    {
-      "title": "IBM (IBM) Stock May Be 27% Below Fair Value On Quantum Platform News",
-      "summary": "International Business Machines has pulled back sharply in recent months after a powerful multi year run, which puts a fresh spotlight on whether the current share price fairly reflects the cash that IBM can generate over time. Over the past 5 years the stock has returned 130.8%, so a lot of investor wealth now rests on how durable IBM's future cash flows prove to be. Fresh partnerships in quantum and AI, including work with NVIDIA, Fermilab and Microsoft, may support expectations for new...",
-      "pub_date": "2026-11-20T00:20:28Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ibm-ibm-stock-may-27-002028644.html"
     }
   ]
 }

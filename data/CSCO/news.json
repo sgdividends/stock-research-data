@@ -1,7 +1,21 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-11-22T12:12:15.728173+00:00",
+  "generated_at": "2026-11-22T21:27:17.339567+00:00",
   "items": [
+    {
+      "title": "Is Nvidia the Next Cisco? What the Dot-Com Crash Says About the AI Sell-Off",
+      "summary": "Nvidia posted a blockbuster quarter, yet its stock has cratered 41% in a month, and Wall Street keeps whispering Cisco. One set of numbers cuts against the chart, and one upcoming forecast could decide which story wins.",
+      "pub_date": "2026-11-22T14:06:07Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-next-cisco-dot-com-140607621.html"
+    },
+    {
+      "title": "Arista Networks Lost 15% in a Week. Rosenblatt Sees 67% Upside From Here",
+      "summary": "Key TakeawaysArista Networks fell 15% in a week with no company news, caught in an AI-hardware selloff tied to Nvidia. Rosenblatt reiterated its Buy rating and $280 target during the drop.",
+      "pub_date": "2026-11-22T13:35:21Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-lost-15-week-133521354.html"
+    },
     {
       "title": "Tom Lee Says AI Sell-Off Is \u2018Max Pain\u2019 Before A \u2018Big Payoff\u2019 For Patient Investors",
       "summary": "During an interview with CNBC, Lee pointed to historical parallels, continued infrastructure demand and the economic importance of data centers as reasons investors shouldn't abandon the trade just yet.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-20T22:26:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/stock-market-vix-fear-gauge-ai-d1012e90?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "How Investors May Respond To Cisco Stock After Earnings Beat",
-      "summary": "Cisco Systems reported past Q1 FY2027 results with revenue of US$18.5b, net income of US$4.6b, higher EPS than a year earlier, raised full year guidance, and a higher AI infrastructure outlook alongside new AI focused alliances with DXC Technology and Qumulo. The combination of stronger fundamentals, Cisco's US$9b AI infrastructure revenue target from hyperscalers and real world security and IT operations partnerships signals heavier reliance on AI driven networking and software to support...",
-      "pub_date": "2026-11-20T19:12:20Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-cisco-stock-191220194.html"
-    },
-    {
-      "title": "Is Dell Stock's Steep Fall A Bargain Or A Warning?",
-      "summary": "Today\u2019s big story: Will 2027 Be A 2022 Repeat For Stocks.",
-      "pub_date": "2026-11-20T18:17:11Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stocks-steep-fall-bargain-181711455.html"
     }
   ]
 }
