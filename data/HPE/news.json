@@ -1,7 +1,14 @@
 {
   "ticker": "HPE",
-  "generated_at": "2026-11-22T00:01:53.992588+00:00",
+  "generated_at": "2026-11-22T12:12:38.493766+00:00",
   "items": [
+    {
+      "title": "A battered stock market looks for the bottom: What to watch this week",
+      "summary": "After a week headlined by the Anthropic IPO and the long-awaited release of GTA VI, the upcoming five-day stretch should be a bit calmer.",
+      "pub_date": "2026-11-22T10:00:00Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/a-battered-stock-market-looks-for-the-bottom-what-to-watch-this-week-100000117.html"
+    },
     {
       "title": "Cisco Stock Fell 15.5% Despite Its Strongest Growth in 15 Years. Is the Dividend Safe?",
       "summary": "Cisco just posted its best growth in over 15 years, yet investors rushed for the exits. For income seekers, the real question is what the numbers behind that payout reveal, and which lever management would pull first if demand cools.",
@@ -38,13 +45,6 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/3-ai-infrastructure-stocks-68-081341637.html"
     },
     {
-      "title": "Dell Stock Before Nov 24: Can A $95 Billion Backlog Still Make Money?",
-      "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
-      "pub_date": "2026-11-21T06:32:47Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-nov-24-95-063247452.html"
-    },
-    {
       "title": "Is Dell Stock Really Cheap?",
       "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
       "pub_date": "2026-11-21T06:32:47Z",
@@ -52,11 +52,11 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-really-cheap-063247105.html"
     },
     {
-      "title": "Cisco vs. HPE: One Has Better Financials, the Other Has 93% Upside. Which Stock Wins?",
-      "summary": "Cisco and HPE both power the AI buildout and pay dividends. We compare their financials, payouts, and analyst targets to find the better buy.",
-      "pub_date": "2026-11-21T00:00:03Z",
-      "source": "Barchart",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-vs-hpe-one-better-000003483.html"
+      "title": "Dell Stock Before Nov 24: Can A $95 Billion Backlog Still Make Money?",
+      "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
+      "pub_date": "2026-11-21T06:32:47Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-nov-24-95-063247452.html"
     }
   ]
 }

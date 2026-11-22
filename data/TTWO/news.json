@@ -1,7 +1,28 @@
 {
   "ticker": "TTWO",
-  "generated_at": "2026-11-22T00:02:31.087483+00:00",
+  "generated_at": "2026-11-22T12:13:21.570034+00:00",
   "items": [
+    {
+      "title": "A battered stock market looks for the bottom: What to watch this week",
+      "summary": "After a week headlined by the Anthropic IPO and the long-awaited release of GTA VI, the upcoming five-day stretch should be a bit calmer.",
+      "pub_date": "2026-11-22T10:00:00Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/a-battered-stock-market-looks-for-the-bottom-what-to-watch-this-week-100000117.html"
+    },
+    {
+      "title": "Is \u2018Grand Theft Auto VI\u2019 Gaming\u2019s Last Blockbuster?",
+      "summary": "While it is expected to be one of the most lucrative entertainment events in history, the release of \u201cGrand Theft Auto VI\u201d also represents an inflection point for the videogame industry, which is grappling with steep layoffs, a pivot to new business models and questions about the role AI could play in its future. Veteran videogame journalist Chris Plante joins host Pierre Bienaim\u00e9 to discuss where the industry goes from here. Further Reading: Just How Big Is \u2018Grand Theft Auto VI\u2019? The Multibillion-Dollar Frenzy in Charts Rave Reviews for \u2018Grand Theft Auto VI\u2019 Lift Take-Two Interactive Stock",
+      "pub_date": "2026-11-22T11:00:00Z",
+      "source": "WSJ",
+      "url": "https://finance.yahoo.com/video/grand-theft-auto-vi-gaming-110000013.html"
+    },
+    {
+      "title": "GTA 6's $3.79 billion debut sends Apple stock investors an unmistakable signal",
+      "summary": "Investors may not like the lesson here.",
+      "pub_date": "2026-11-22T04:17:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gta-6s-3-79-billion-041700009.html"
+    },
     {
       "title": "A $2.2 Billion Fund Just Bought These 3 Stocks",
       "summary": "Key TakeawaysDiscovery Capital Management\u2019s latest 13F shows its three biggest new or added positions in the third quarter were Amazon, Take-Two Interactive and First Solar. Analysts\u2019 average targets sit 32% to 82% above the last close for all three.",
@@ -24,39 +45,18 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/gamers-poured-3-79b-gta-133105018.html"
     },
     {
+      "title": "MarketBeat Week in Review \u2013 11/16 - 11/20",
+      "summary": "Despite the Dow's drop below 50,000 and a rough week for stocks, strong earnings and falling oil offer context. MarketBeat analysts round up this week's top stock picks and analysis.",
+      "pub_date": "2026-11-21T12:00:00Z",
+      "source": "MarketBeat",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marketbeat-week-review-11-16-120000166.html"
+    },
+    {
       "title": "Cathie Wood Just Sold $8 Million of Roblox",
       "summary": "Key TakeawaysCathie Wood\u2019s ARK Invest sold 161,616 shares of Roblox from one ETF on Nov. 20.",
       "pub_date": "2026-11-21T11:19:41Z",
       "source": "TIKR",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-just-sold-8-111941993.html"
-    },
-    {
-      "title": "Roblox CFO admits \u2018limited data\u2019 on GTA 6 as BofA urges patience",
-      "summary": "Roblox\u2019s finance chief made a candid admission about the holiday quarter. Bank of America thinks investors should take the hint.",
-      "pub_date": "2026-11-21T04:07:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/roblox-cfo-admits-limited-data-040700389.html"
-    },
-    {
-      "title": "Decibel puts Take-Two and Anthropic in the same around-the-clock market",
-      "summary": "Anthropic\u2019s debut and the GTA 6 launch kept traders busy overnight on Decibel, a platform built on Aptos.",
-      "pub_date": "2026-11-20T22:30:00Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/options/articles/decibel-puts-two-anthropic-same-223000934.html"
-    },
-    {
-      "title": "Prediction: Netflix and Disney Will \u201cBlame Grand Theft Auto\u201d for Falling Viewership, per Scott Galloway",
-      "summary": "Key TakeawaysGrand Theft Auto VI sold an estimated $2. 36 billion of digital copies on its first day, and Scott Galloway predicts Netflix and Disney will blame it for weaker viewership.",
-      "pub_date": "2026-11-20T21:59:41Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/media-advertising/articles/prediction-netflix-disney-blame-grand-215941213.html"
-    },
-    {
-      "title": "GTA VI shatters records with $3.8 billion in first-day sales",
-      "summary": "By Deborah Mary Sophia Nov 20 (Reuters) - \"Grand Theft Auto VI\" raked in $3.79 billion in sales within the first 24 hours of its launch, becoming the world's biggest entertainment release ever, as",
-      "pub_date": "2026-11-20T21:59:14Z",
-      "source": "Reuters",
-      "url": "https://www.yahoo.com/news/articles/two-set-shatter-sales-records-162847652.html"
     }
   ]
 }

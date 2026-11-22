@@ -1,7 +1,14 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-11-22T00:02:11.639507+00:00",
+  "generated_at": "2026-11-22T12:12:58.641841+00:00",
   "items": [
+    {
+      "title": "ServiceNow (NOW) Launches Autonomous CRM Engine And Expands AI Risk Monitoring",
+      "summary": "ServiceNow (NYSE:NOW) introduced its Autonomous CRM Engine, an AI-native product designed to automate large enterprise CRM migrations. The firm also released agentic AI capabilities for continuous control monitoring within its integrated risk management offering, spanning over 100 third-party systems. Management positioned Autonomous CRM Engine as a way to automate discovery, data transformation, and live deployment for legacy CRM replacements. ServiceNow's Autonomous CRM Engine and new...",
+      "pub_date": "2026-11-22T01:11:49Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-now-launches-autonomous-crm-011149322.html"
+    },
     {
       "title": "Worried About a Market Crash? This AI Stock Should Bounce Back Fastest.",
       "summary": "AI stocks with strong fundamentals should rebound quickly from a market crash.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-20T10:09:00Z",
       "source": "FastCompany",
       "url": "https://finance.yahoo.com/technology/ai/articles/ai-vendors-companies-measuring-roi-100900812.html"
-    },
-    {
-      "title": "Salesforce Lost 16% in a Week as AI Fears Hit Software. Piper Sandler Sees 53% Upside",
-      "summary": "Key TakeawaysSalesforce stock fell 16% in a week as investors sold software ahead of Anthropic\u2019s IPO, and ServiceNow fell less. Salesforce will probably sell its Anthropic stake to pay down the debt from its $25 billion buyback.",
-      "pub_date": "2026-11-20T08:27:53Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-lost-16-week-ai-082753178.html"
     }
   ]
 }

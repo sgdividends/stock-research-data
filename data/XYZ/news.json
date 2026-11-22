@@ -1,7 +1,14 @@
 {
   "ticker": "XYZ",
-  "generated_at": "2026-11-22T00:02:38.666579+00:00",
+  "generated_at": "2026-11-22T12:13:31.575711+00:00",
   "items": [
+    {
+      "title": "Average American spends $13 in Bitcoin, led by coffee",
+      "summary": "Here\u2019s what nearly a year of Square data reveals about how Americans actually spend their Bitcoin.",
+      "pub_date": "2026-11-22T09:42:27Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/average-american-spends-13-bitcoin-094227653.html"
+    },
     {
       "title": "Cathie Wood, Dan Loeb and 7 Other Big Funds Bought Block Last Quarter, While 7 Sold. Who\u2019s Right?",
       "summary": "Key TakeawaysNine big funds bought Block in the third quarter and seven sold. The buyers include Cathie Wood\u2019s ARK Invest and Dan Loeb\u2019s Third Point, and three of the buyers also cut the card giant.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-20T03:06:00Z",
       "source": "CryptoProwl",
       "url": "https://finance.yahoo.com/markets/crypto/articles/moonpay-applies-national-trust-bank-030600024.html"
-    },
-    {
-      "title": "CRCL Has Fallen 36.8% in a Month: Is Circle Stock Ready to Rebound?",
-      "summary": "CRCL has plunged 36.8% in a month despite rising USDC activity and payment network growth. Can Circle overcome margin pressures and rebound sustainably?",
-      "pub_date": "2026-11-19T17:33:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/crcl-fallen-36-8-month-173300468.html"
     }
   ]
 }

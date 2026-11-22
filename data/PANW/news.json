@@ -1,7 +1,14 @@
 {
   "ticker": "PANW",
-  "generated_at": "2026-11-22T00:02:14.675019+00:00",
+  "generated_at": "2026-11-22T12:13:02.137092+00:00",
   "items": [
+    {
+      "title": "CrowdStrike-Zscaler Merger Could Make Cybersecurity Rival \u2018More Formidable\u2019 Against Palo Alto Networks, Says Jefferies",
+      "summary": "According to TheFly, Jefferies analysts see significant merit in the reported deal, arguing that combining the two cybersecurity companies could strengthen CrowdStrike\u2019s capabilities.",
+      "pub_date": "2026-11-22T04:59:48Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/technology/articles/crowdstrike-zscaler-merger-could-cybersecurity-045948646.html"
+    },
     {
       "title": "Palo Alto Networks CEO Nikesh Arora Says Companies Haven't 'Figured Out' AI Coding Security: 'Don't Let Your Coding Agents Run Amok Into Your Enterprise'",
       "summary": "Palo Alto Networks Inc. CEO Nikesh Arora warned that many companies still haven\u2019t learned how to secure AI developer tools such as Anthropic\u2018s Claude Code, OpenAI\u2018s Codex, and Space Exploration Technologies Corp.\u2018s Cursor. Enterprises Have Not Secured AI Developer Tools...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-21T00:30:05Z",
       "source": "Benzinga",
       "url": "https://finance.yahoo.com/technology/ai/articles/palo-alto-sees-rising-cyber-003005491.html"
-    },
-    {
-      "title": "CrowdStrike, Zscaler Merger Would Create Cybersecurity Giant",
-      "summary": "CrowdStrike stock fell and Zscaler stock popped amid a report the companies are in merger talks. A deal would create a cybersecurity giant.",
-      "pub_date": "2026-11-20T23:56:14Z",
-      "source": "Investor's Business Daily",
-      "url": "https://www.investors.com/news/technology/crowdstrike-zscaler-merger-create-cybersecurity-giant/?src=A00220&yptr=yahoo"
     }
   ]
 }
