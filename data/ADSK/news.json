@@ -1,7 +1,21 @@
 {
   "ticker": "ADSK",
-  "generated_at": "2026-11-23T05:13:52.848196+00:00",
+  "generated_at": "2026-11-23T19:44:24.682804+00:00",
   "items": [
+    {
+      "title": "Option Volatility and Earnings Report For Nov 23-27",
+      "summary": "Earnings season is winding down, but we do have some important companies reporting earnings this week. Let\u2019s take a look at which companies are reporting and what the options market is saying.",
+      "pub_date": "2026-11-23T12:00:03Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/options/articles/option-volatility-earnings-report-nov-120003396.html"
+    },
+    {
+      "title": "Inflation Data, Market Turbulence: What to Watch This Week",
+      "summary": "It\u2019s a holiday-shortened week in the U.S., but there\u2019s plenty to keep an eye on.",
+      "pub_date": "2026-11-23T09:17:31Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-23-2026/card/inflation-data-market-turbulence-what-to-watch-this-week-DEKUguQS9nSfULtKC8JD?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Autodesk (ADSK) Brings Cloud Building Code Checks Into Forma Workflows",
       "summary": "Autodesk (NasdaqGS:ADSK) users gained direct access to Kestrel Labs' building code compliance engine inside Autodesk Forma through a new integration announced in November 2026. The link allows architects to run automated, recurring code checks on BIM-native models entirely in the cloud without local installs. Teams can review compliance results through browser-based 3D visualizations that connect with commonly used BIM and design tools in current workflows. The Autodesk Forma and Kestrel...",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-19T13:15:06Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/unlocking-q3-potential-autodesk-adsk-131506331.html"
-    },
-    {
-      "title": "How Risky Is Adobe Stock After Its Long Slide?",
-      "summary": "Today's big story: Could Anthropic Stock Fall 25.",
-      "pub_date": "2026-11-19T12:54:10Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/risky-adobe-stock-long-slide-125410031.html"
-    },
-    {
-      "title": "Buy Alert: 5 Stocks Analysts Upgraded on Friday",
-      "summary": "October\u2019s Consumer Price Index rose 0.4% from September, above the 0.3% economists expected, while core prices rose 0.3% against a forecast of 0.2%, the third straight month at that pace, Investing.com reported on November 10. The report arrived hours after Federal Reserve Governor Christopher Waller said in London that he would back a quarter-point rate [\u2026]",
-      "pub_date": "2026-11-18T16:12:33Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-alert-5-stocks-analysts-161233275.html"
     }
   ]
 }
