@@ -1,7 +1,14 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-11-22T21:27:17.339567+00:00",
+  "generated_at": "2026-11-23T05:14:13.643721+00:00",
   "items": [
+    {
+      "title": "How Did Dell Grow From $56 Billion To $151 Billion In 20 Years?",
+      "summary": "Today's big story: Will 2027 Be A 2022 Repeat For Stocks.",
+      "pub_date": "2026-11-23T02:44:11Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/did-dell-grow-56-billion-024411022.html"
+    },
     {
       "title": "Is Nvidia the Next Cisco? What the Dot-Com Crash Says About the AI Sell-Off",
       "summary": "Nvidia posted a blockbuster quarter, yet its stock has cratered 41% in a month, and Wall Street keeps whispering Cisco. One set of numbers cuts against the chart, and one upcoming forecast could decide which story wins.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-21T00:00:03Z",
       "source": "Barchart",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-vs-hpe-one-better-000003483.html"
-    },
-    {
-      "title": "The Fear Gauge Hit 40. This Is What the Market Is Worried About.",
-      "summary": "Investors no longer believe the AI bull case. They fear an unwinding is coming.",
-      "pub_date": "2026-11-20T22:26:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-market-vix-fear-gauge-ai-d1012e90?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

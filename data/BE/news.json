@@ -1,7 +1,14 @@
 {
   "ticker": "BE",
-  "generated_at": "2026-11-22T21:27:04.782392+00:00",
+  "generated_at": "2026-11-23T05:14:02.376834+00:00",
   "items": [
+    {
+      "title": "Stifel Says SpaceX Could Buy Stalled Data Centers for One Reason: Their Power. Here\u2019s Why Electricity Is the Real Asset.",
+      "summary": "There is increasing pushback against AI because of its impact on the power grid, but that's also an opportunity.",
+      "pub_date": "2026-11-23T01:21:02Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/energy/articles/stifel-says-spacex-could-buy-012102404.html"
+    },
     {
       "title": "Bloom Energy Stock Has Crashed Nearly 60%. Is It a Once-in-a-Decade Opportunity at $145, or Should You Keep Waiting for a Bigger Drop?",
       "summary": "Bloom Energy has plunged about 60% from its peak, even as revenue and profits surge. Is it a screaming buy or still expensive?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-20T21:53:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/stock-movers-affd1759?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Bloom Energy (BE) Says Its Fuel Cells Can Power AI Data Centers Within Months",
-      "summary": "Bloom Energy (NYSE:BE) is pitching its onsite fuel cell systems as a way to power AI data centers without waiting for new grid connections. The firm says these modular fuel cell units can be installed and activated within months, compared with multi year utility interconnection timelines. Bloom Energy points to Oracle's Utah data center as an example where its technology already supports large scale computing workloads. Bloom's claim that fuel cells can bypass long grid queues for AI...",
-      "pub_date": "2026-11-20T20:13:36Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/bloom-energy-says-fuel-cells-201336479.html"
     }
   ]
 }

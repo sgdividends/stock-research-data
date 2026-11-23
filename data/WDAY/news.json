@@ -1,7 +1,21 @@
 {
   "ticker": "WDAY",
-  "generated_at": "2026-11-22T21:28:30.523227+00:00",
+  "generated_at": "2026-11-23T05:15:13.382783+00:00",
   "items": [
+    {
+      "title": "Inflation, Best Buy, Zoom, Dell, Deere, and More to Watch This Week",
+      "summary": "Thanksgiving week will bring the personal consumption expenditures index, and earnings from Agilent, Hewlett, Dick\u2019s, and more.",
+      "pub_date": "2026-11-22T19:00:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/inflation-best-buy-zoom-dell-deere-stocks-fc646b50?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Tech and AI Sentiment, Thanksgiving and Other Key Things to Watch this Week",
+      "summary": "Wall Street heads into Thanksgiving week bruised after another brutal selloff in tech and AI stocks. Nvidia beat estimates, yet the stock reversed lower the next day. Anthropic soared in its record debut but closed well off its opening price. Markets close Thursday for Thanksgiving and shut early at 1:00pm Friday.",
+      "pub_date": "2026-11-22T18:00:03Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/tech-ai-sentiment-thanksgiving-other-180003267.html"
+    },
     {
       "title": "How to Survive the Coming Age of Everything Breaking",
       "summary": "We wanted a hyperconnected world and now we have to live in it.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-19T12:54:10Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-better-buy-atlassian-now-125410866.html"
-    },
-    {
-      "title": "Atlassian Looks Cheap Until You Count Stock Pay",
-      "summary": "Today's big story: Could Anthropic Stock Fall 25.",
-      "pub_date": "2026-11-19T11:22:27Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/atlassian-looks-cheap-until-count-112227927.html"
-    },
-    {
-      "title": "What Could Workday (WDAY) Gain From Its AI Deal And EU Cloud Safeguards?",
-      "summary": "Workday (NasdaqGS: WDAY) plans to acquire Honeydew, a semantic layer for AI and business intelligence, to plug into its Workday Data Cloud. The Honeydew deal is intended to support governed business intelligence and autonomous agents across Workday's finance and HR applications. Workday also introduced new operational safeguards for its EU Sovereign Cloud that address European data sovereignty and governance requirements. The Honeydew acquisition and fresh EU Sovereign Cloud safeguards sit...",
-      "pub_date": "2026-11-19T09:12:38Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/could-workday-wday-gain-ai-091238205.html"
     }
   ]
 }

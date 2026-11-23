@@ -1,7 +1,14 @@
 {
   "ticker": "NFLX",
-  "generated_at": "2026-11-22T21:28:00.410137+00:00",
+  "generated_at": "2026-11-23T05:14:48.347975+00:00",
   "items": [
+    {
+      "title": "Michael Burry's Netflix warning puts investors in a $39 dilemma",
+      "summary": "Bill Ackman is betting big on Netflix, but everyday investors face a difficult choice.",
+      "pub_date": "2026-11-22T21:33:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/michael-burrys-netflix-warning-puts-213300373.html"
+    },
     {
       "title": "What's Going On With Netflix's Stock?",
       "summary": "Netflix shares have fallen sharply. Is the market overlooking a long-term opportunity, or is slower growth a warning investors shouldn't ignore?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-20T21:29:47Z",
       "source": "TipRanks",
       "url": "https://finance.yahoo.com/media-advertising/articles/disney-dis-catching-netflix-nflx-212947164.html"
-    },
-    {
-      "title": "Walt Disney (DIS) Says Its In House AI Cuts Film Compute Costs 30%",
-      "summary": "Walt Disney (NYSE:DIS) CEO outlined a new content licensing agreement with Netflix, confirming it as a planned extension of Disney IP reach. Management framed the Netflix deal as a way to support streaming subscriber growth without relying solely on Disney owned platforms. The CEO also revealed an internal AI tool for film production that cuts rendering compute requirements by 30%. Disney's Netflix licensing move and 30% AI compute saving deserve to be weighed against the rest of our...",
-      "pub_date": "2026-11-20T21:16:08Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/walt-disney-dis-says-house-211608108.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "GS",
-  "generated_at": "2026-11-22T21:27:37.806401+00:00",
+  "generated_at": "2026-11-23T05:14:29.713661+00:00",
   "items": [
+    {
+      "title": "Goldman Sachs\u2019 economic outlook for 2027",
+      "summary": "Investing.com -- Goldman Sachs expects global real gross domestic product growth of 2.8% in 2027, slightly above their estimate of 2.7% in 2026 but with risks titled to the downside. According to the brokerage, tighter financial conditions and more neutral fiscal policy have been offset by lower energy prices and still-strong artificial intelligence capital expenditure.",
+      "pub_date": "2026-11-22T22:54:42Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/economy/articles/goldman-sachs-economic-outlook-2027-225442534.html"
+    },
     {
       "title": "Goldman Traders See Entry Point in US Stocks But Warn of Risks",
       "summary": "Goldman Sachs Group Inc.\u2019s trading desk says last week\u2019s selloff has created an attractive opportunity to snap up US stocks. Still, the bank cautions that overall investor positioning remains elevated, signaling the broader capitulation needed for a meaningful rally could be missing.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-21T14:22:43Z",
       "source": "TIKR",
       "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-just-dropped-14-142243590.html"
-    },
-    {
-      "title": "SpaceX Is Paying Up to 8.36% on $44 Billion of Debt for Nvidia Chips",
-      "summary": "Lenders lined up to fund SpaceX's chip spree, then demanded a steep price for it. The real risk may be what happens to those GPUs, and to SpaceX's cash flow, before the first rent check clears.",
-      "pub_date": "2026-11-21T14:13:54Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-paying-8-36-44-141354361.html"
     }
   ]
 }

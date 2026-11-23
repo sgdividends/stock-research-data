@@ -1,13 +1,27 @@
 {
   "ticker": "DAL",
-  "generated_at": "2026-11-22T21:27:19.274927+00:00",
+  "generated_at": "2026-11-23T05:14:15.090463+00:00",
   "items": [
     {
-      "title": "Delta Delays Hundreds of Flights Over System Outage",
+      "title": "Atlanta\u2019s Airport Has Massive Flight Delays. Expect More Tech \u2018Glitches,\u2019 Clayton Says.",
+      "summary": "The Federal Aviation Administration said in a social media post that Delta was working to resolve issues with the carrier\u2019s weight and balance automation system, which isn\u2019t related to any FAA air traffic systems.",
+      "pub_date": "2026-11-23T00:42:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/atlanta-airport-flight-delays-delta-air-lines-482bc8b6?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Delta Resolves Automation Outage That Led to Over 1,000 Flight Delays",
       "summary": "The issues have arisen a little more than week after a nationwide ground stop and ahead of Thanksgiving travel.",
-      "pub_date": "2026-11-22T17:28:00Z",
+      "pub_date": "2026-11-22T21:49:00Z",
       "source": "The Wall Street Journal",
       "url": "https://www.wsj.com/business/airlines/delta-delays-hundreds-of-flights-over-system-outage-6bbba92c?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Delta Air Lines exits entire market",
+      "summary": "A flight scheduled to restart in December has been cut from the schedule.",
+      "pub_date": "2026-11-22T21:40:12Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/delta-air-lines-exits-entire-214012791.html"
     },
     {
       "title": "Delta Air Lines (DAL) Flags Cost Strain While Ed Bastian Details Seat Reforms",
@@ -43,20 +57,6 @@
       "pub_date": "2026-10-23T18:11:43Z",
       "source": "Yahoo Personal Finance",
       "url": "https://finance.yahoo.com/personal-finance/credit-cards/article/amex-platinums-benefits-updates-2027-181143354.html"
-    },
-    {
-      "title": "DoorDash pushes back on FTC pricing inquiry: 'We don\u2019t do surveillance pricing'",
-      "summary": "Last month, the Federal Trade Commission launched an investigation into nine companies \u2014 including DoorDash, Uber, and Instacart \u2014 over how consumer data is used to set prices.",
-      "pub_date": "2026-11-20T17:30:52Z",
-      "source": "Nation's Restaurant News",
-      "url": "https://finance.yahoo.com/economy/policy/articles/doordash-pushes-back-ftc-pricing-173052936.html"
-    },
-    {
-      "title": "Airfares Are Up, Flights Are Tight: 3 Airline Stocks Facing a Winter Test",
-      "summary": "United, Delta, and JetBlue are cutting winter seat capacity to boost yields amid high fuel costs, pushing holiday fares near decade highs while supporting margins and cash flow.",
-      "pub_date": "2026-11-20T14:20:00Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/airfares-flights-tight-3-airline-142000451.html"
     }
   ]
 }
