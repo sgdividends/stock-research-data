@@ -1,7 +1,42 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-11-23T19:44:48.458088+00:00",
+  "generated_at": "2026-11-24T04:33:23.677124+00:00",
   "items": [
+    {
+      "title": "Chamath Says Microsoft \u201cClearly Is Going to Need to Have a Frontier Model.\u201d Nadella Is Betting It Won\u2019t",
+      "summary": "Key TakeawaysChamath Palihapitiya says Microsoft needs a frontier model, the week Anthropic debuted at about $1. 75 trillion fully diluted.",
+      "pub_date": "2026-11-23T22:50:31Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/technology/ai/articles/chamath-says-microsoft-clearly-going-225031529.html"
+    },
+    {
+      "title": "Salesforce (CRM) Ascends But Remains Behind Market: Some Facts to Note",
+      "summary": "Salesforce (CRM) closed the most recent trading day at $185.46, moving +2.68% from the previous trading session.",
+      "pub_date": "2026-11-23T21:45:02Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-crm-ascends-remains-behind-214502680.html"
+    },
+    {
+      "title": "Zoom Communications (ZM) Q3 Earnings and Revenues Beat Estimates",
+      "summary": "Zoom (ZM) delivered earnings and revenue surprises of +6.71% and +0.92%, respectively, for the quarter ended October 2026. Do the numbers hold clues to what lies ahead for the stock?",
+      "pub_date": "2026-11-23T21:25:03Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zoom-communications-zm-q3-earnings-212503128.html"
+    },
+    {
+      "title": "Citi Just Slashed Its Price Target on Salesforce Stock. Here's Why",
+      "summary": "Citi analyst Tyler Radke's research note on Salesforce cautioned investors about softening demand. These are the key reasons for the lowered price target.",
+      "pub_date": "2026-11-23T21:15:08Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/citi-just-slashed-price-target-211508568.html"
+    },
+    {
+      "title": "Palantir Rips 10% to Lead Software Stocks. Cloudflare and ServiceNow Also Join \u2018Jensen Rally\u2019",
+      "summary": "Eric Bleeker, Chief Investment Officer at 24/7 Wall St., says Jensen Huang's return to NVIDIA is lifting technology stocks on Monday. The NASDAQ was up more than 7% as of 1:30 p.m. Eastern, after opening with a 3% pre-market gain following Friday's sell-off. Chip stocks as a group rose more than 13%.\n\nSoftware is also higher, but the gains are uneven. Microsoft (NASDAQ: MSFT) and Salesforce (NYSE: CRM) are each up about 3%, while the IGV software ETF is up 4%. The biggest winners are companies that benefit from sovereign AI and a strong open-weight ecosystem. Palantir (NASDAQ: PLTR) leads at 10%, and Palantir has been one of the loudest backers of sovereign AI. Cloudflare (NYSE: NET) is up roughly 7%, and ServiceNow (NYSE: NOW) is up 5%, helped by its control tower software that guides customers between models and agentic workloads. Anthropic is lagging, since Huang has pushed open-weight models that pressure leading labs like Anthropic and OpenAI.\n\nBleeker's takeaway: if Huang keeps backing open weight model makers, Palantir, Cloudflare and ServiceNow, up 5% to 10%, should keep outperforming the 2% to 3% gains in the rest of software.",
+      "pub_date": "2026-11-23T20:08:09Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/video/palantir-rips-10-lead-software-200809872.html"
+    },
     {
       "title": "Salesforce Ex-CEO's AI Startup Sierra Hits $30 Billion Valuation. It Doubled In Just Six Months.",
       "summary": "Sierra says it raised $1.75 billion at a $30 billion valuation, roughly doubling its value in six months as demand for enterprise AI agents grows.",
@@ -22,41 +57,6 @@
       "pub_date": "2026-11-23T17:31:01Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/docusign-vs-figma-technology-stock-173101954.html"
-    },
-    {
-      "title": "Benioff Says \u201c226K Custom Agents\u201d Now Run on Slack. Salesforce Has a New Answer to the SaaSpocalypse",
-      "summary": "Key TakeawaysSalesforce CEO Marc Benioff says 226,000 custom agents from every major agent builder platform have been deployed to Slack. With Slack hosting agents and Microsoft bringing Salesforce\u2019s data into Copilot and Teams, Salesforce is plugging into the AI tools investors feared would replace it.",
-      "pub_date": "2026-11-23T15:52:04Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/technology/ai/articles/benioff-says-226k-custom-agents-155204823.html"
-    },
-    {
-      "title": "Is Microsoft Stock Stronger Than It Looks?",
-      "summary": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
-      "pub_date": "2026-11-23T15:45:39Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-stronger-looks-154539408.html"
-    },
-    {
-      "title": "CRM vs. ADYEY: Which Stock Should Value Investors Buy Now?",
-      "summary": "CRM vs. ADYEY: Which Stock Is the Better Value Option?",
-      "pub_date": "2026-11-23T15:40:02Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/crm-vs-adyey-stock-value-154002347.html"
-    },
-    {
-      "title": "Citi Issues Stark Warning on Salesforce Ahead of Earnings",
-      "summary": "The AI revolution has yet to deliver its promised payoff.",
-      "pub_date": "2026-11-23T15:14:44Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/citi-issues-stark-warning-salesforce-151444009.html"
-    },
-    {
-      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
-      "pub_date": "2026-11-23T14:43:03Z",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/technology/ai/articles/sierra-doubles-valuation-30b-within-144303731.html"
     }
   ]
 }

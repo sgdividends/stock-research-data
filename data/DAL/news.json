@@ -1,7 +1,14 @@
 {
   "ticker": "DAL",
-  "generated_at": "2026-11-23T19:44:51.632396+00:00",
+  "generated_at": "2026-11-24T04:33:26.122341+00:00",
   "items": [
+    {
+      "title": "Coworking with Sophie Ozoux",
+      "summary": "She\u2019s co-founder, Kin.",
+      "pub_date": "2026-11-23T20:31:17Z",
+      "source": "Marketing Brew",
+      "url": "https://finance.yahoo.com/news/coworking-sophie-ozoux-203117969.html"
+    },
     {
       "title": "Amex Platinum's $600 hotel credit now comes with a catch starting in 2027",
       "summary": "American Express has made a few updates to the benefits offered by the Platinum Card\u00ae, including changes to its hotel and airport perks.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-23T00:42:00Z",
       "source": "Barrons.com",
       "url": "https://www.barrons.com/articles/atlanta-airport-flight-delays-delta-air-lines-482bc8b6?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Delta Resolves Automation Outage That Led to Over 1,000 Flight Delays",
-      "summary": "The issues have arisen a little more than week after a nationwide ground stop and ahead of Thanksgiving travel.",
-      "pub_date": "2026-11-22T21:49:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/business/airlines/delta-delays-hundreds-of-flights-over-system-outage-6bbba92c?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }

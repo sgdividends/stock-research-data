@@ -1,7 +1,21 @@
 {
   "ticker": "ANET",
-  "generated_at": "2026-11-23T19:44:30.259020+00:00",
+  "generated_at": "2026-11-24T04:33:02.986993+00:00",
   "items": [
+    {
+      "title": "Own HP Stock? Memory Costs Are The Risk",
+      "summary": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
+      "pub_date": "2026-11-23T23:58:29Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/own-hp-stock-memory-costs-235829031.html"
+    },
+    {
+      "title": "Meta\u2019s AI Chief Warns \u201cSuperintelligence Is Arriving.\u201d Lawmakers Are Now Quoting Him to Push a Ban",
+      "summary": "Key TakeawaysMeta\u2019s chief AI officer, Alexandr Wang, wrote that \u201csuperintelligence is arriving,\u201d and lawmakers calling for a ban shared his essay within hours. Analysts expect Meta\u2019s free cash flow to stay negative from 2026 through 2028, and suppliers AMD and Arista Networks depend on that spending.",
+      "pub_date": "2026-11-23T21:33:15Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-ai-chief-warns-superintelligence-213315957.html"
+    },
     {
       "title": "Goldman Sachs Names Top Communication Technology Stock",
       "summary": "Investing.com -- Goldman Sachs has released its latest rankings for the communication technology sector, highlighting key players positioned to benefit from ongoing digital transformation and cloud infrastructure growth.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-21T21:47:55Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cisco-stock-fell-15-5-214755324.html"
-    },
-    {
-      "title": "Arista Stock Faces Valuation Questions After AI Networking Growth And R4 Launch",
-      "summary": "Arista Networks expanded its Etherlink portfolio in November 2026 with new 5nm R4 routing and coherent transport platforms designed for secure, low-latency distributed AI inferencing, including compact 7020HR4/7020R4 systems and high-availability 7282R4 and 7280R4 hardware, plus a 25.6 Tbps pluggable optical line system. The new Etherlink R4 platforms target real operational pressures such as power usage, latency, data sovereignty and secure multi-tenant AI workloads, tying Arista Networks\u2019...",
-      "pub_date": "2026-11-21T17:07:47Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-stock-faces-valuation-questions-170747366.html"
-    },
-    {
-      "title": "Buy Microsoft and Amazon at More Than 70x 2028 Free Cash Flow? Here\u2019s What Their Capex Must Return",
-      "summary": "Key TakeawaysAt the Nov. 20 close, Microsoft traded at about 77x the free cash flow analysts expect for fiscal 2028, and Amazon traded at about 75x.",
-      "pub_date": "2026-11-21T16:20:38Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-microsoft-amazon-more-70x-162038920.html"
     }
   ]
 }
