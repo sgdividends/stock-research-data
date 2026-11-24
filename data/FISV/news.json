@@ -1,7 +1,14 @@
 {
   "ticker": "FISV",
-  "generated_at": "2026-11-24T04:33:41.033786+00:00",
+  "generated_at": "2026-11-24T19:16:25.361602+00:00",
   "items": [
+    {
+      "title": "ETFs Are Net Sellers of Fiserv (FISV) on Friday",
+      "summary": "ETFs sold $21.4 million of Fiserv (FISV) shares on net last Friday.",
+      "pub_date": "2026-11-24T11:02:29Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-fiserv-fisv-110229493.html"
+    },
     {
       "title": "FISV, TOST, GPN: Which Is The Top Payments Services Pick For Citizens?",
       "summary": "Citizens initiated coverage of Fiserv, Toast and Global Payments alongside other transaction and payment processing services companies.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-20T08:10:25Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/fiserv-fisv-cheap-following-ai-081025220.html"
-    },
-    {
-      "title": "Visa Targets Secure AI Agent Payments Through Expanded Industry Partnership",
-      "summary": "Visa Inc. announced on Tuesday that it expanded its Agentic Ready program to include merchants, payment service providers (PSPs), acquirers and commerce platforms, helping them prepare for transactions initiated by AI agents. The initiative, part of Visa Intelligent Commerce, launched...",
-      "pub_date": "2026-11-20T03:30:05Z",
-      "source": "Benzinga",
-      "url": "https://finance.yahoo.com/technology/ai/articles/visa-targets-secure-ai-agent-033005559.html"
     }
   ]
 }

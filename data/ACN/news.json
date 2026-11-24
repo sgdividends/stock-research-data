@@ -1,62 +1,62 @@
 {
   "ticker": "ACN",
-  "generated_at": "2026-11-24T04:32:56.286478+00:00",
+  "generated_at": "2026-11-24T19:15:54.571314+00:00",
   "items": [
+    {
+      "title": "What Would A Short Seller Say About IBM Stock?",
+      "summary": "Today's big story: Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire.",
+      "pub_date": "2026-11-24T18:18:22Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/short-seller-ibm-stock-181822010.html"
+    },
+    {
+      "title": "Clarivate (CLVT) Stock Is Up 8.8% Today Without Company News",
+      "summary": "On Tuesday, Nov. 24, the stock rose 8.8% without company-specific news",
+      "pub_date": "2026-11-24T17:01:12Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/clarivate-clvt-stock-8-8-170112510.html"
+    },
+    {
+      "title": "Globant (GLOB) Stock Is Up 12.4% Today Without Company News",
+      "summary": "On Tuesday, Nov. 24, shares rose 12.4% without company-specific news while the S&P 500 fell 1.2%.",
+      "pub_date": "2026-11-24T16:01:04Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/globant-glob-stock-12-4-160104786.html"
+    },
+    {
+      "title": "The Single Most Important Metric For Accenture Stock",
+      "summary": "Today's big story: Nvidia Added $954 Billion In A Day. Is Jensen Huang Too Big To Fire.",
+      "pub_date": "2026-11-24T13:56:14Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/single-most-important-metric-accenture-135614763.html"
+    },
+    {
+      "title": "CDW Launches Advanced AI Tools to Boost Enterprise Adoption",
+      "summary": "CDW unveils three new AI capabilities to tackle rising costs, engineering talent shortages and governance challenges while accelerating production deployments.",
+      "pub_date": "2026-11-24T13:01:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/cdw-launches-advanced-ai-tools-130100584.html"
+    },
+    {
+      "title": "Accenture vs. Palo Alto Networks: Which Tech Stock Is a Better Buy for 2027?",
+      "summary": "Palo Alto trades at 84.8 times forward earnings while Accenture sits at 14.9 times, a gap that makes this choice harder than it looks.",
+      "pub_date": "2026-11-24T12:28:02Z",
+      "source": "Motley Fool",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/accenture-vs-palo-alto-networks-122802059.html"
+    },
+    {
+      "title": "In Zscaler, CrowdStrike Finds Its Perfect Cybersecurity Partner",
+      "summary": "CrowdStrike specializes in hardening the defenses of hardware \u201cendpoints\" while Zscaler specializes in protecting clients\u2019 virtual networks.",
+      "pub_date": "2026-11-24T05:01:00Z",
+      "source": "The Daily Upside",
+      "url": "https://finance.yahoo.com/technology/articles/zscaler-crowdstrike-finds-perfect-cybersecurity-050100321.html"
+    },
     {
       "title": "Accenture (ACN) Pushes Deeper Into Regulatory Data With AI And Real Time Risk Monitoring",
       "summary": "Accenture (NYSE:ACN) is expanding its role in the global regulatory data market using AI, cloud tools and real time risk monitoring. The consulting group is pitching integrated platforms that connect regulatory data feeds with enterprise risk systems for large financial and corporate clients. Accenture is positioning these offerings around compliance, cybersecurity and operational resilience as regulators tighten expectations on data handling and reporting. Accenture\u2019s push into AI led...",
       "pub_date": "2026-11-24T02:17:08Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/accenture-acn-pushes-deeper-regulatory-021708658.html"
-    },
-    {
-      "title": "Fashion\u2019s Resale Supply Hunt Leads to Shoppers\u2019 Closets",
-      "summary": "Nine in 10 shoppers surveyed in four markets cleared out their wardrobes in the past year. The Ellen MacArthur Foundation sees a source of resale stock.",
-      "pub_date": "2026-11-24T00:01:00Z",
-      "source": "Sourcing Journal",
-      "url": "https://finance.yahoo.com/small-business/articles/fashion-resale-supply-hunt-leads-000100040.html"
-    },
-    {
-      "title": "Vuzix stock jumps on reseller deal with Friends With Holograms",
-      "summary": "Investing.com -- Vuzix Corp (NASDAQ:VUZI) shares rose over 8% in trading Monday following the announcement of a reseller agreement with Friends With Holograms, a New York-based company specializing in smart glasses and spatial computing solutions for enterprises.",
-      "pub_date": "2026-11-23T15:50:40Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/vuzix-stock-jumps-reseller-deal-155040814.html"
-    },
-    {
-      "title": "How Did IBM Stock Leave Cognizant Behind?",
-      "summary": "Today\u2019s big story: Could Anthropic Stock Fall 25.",
-      "pub_date": "2026-11-19T21:55:11Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/did-ibm-stock-leave-cognizant-215511163.html"
-    },
-    {
-      "title": "ServiceNow vs. UiPath: Which Technology Stock Is a Better Buy for 2027?",
-      "summary": "ServiceNow's revenue top $15 billion while UiPath trades at a lower forward multiple, but the gap between the two growth stories may matter more than price.",
-      "pub_date": "2026-11-19T19:03:02Z",
-      "source": "Motley Fool",
-      "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-vs-uipath-technology-stock-190302076.html"
-    },
-    {
-      "title": "4 Tech Dividend Stocks Yielding Over 2% That Retirees Can Own for Growth and Income",
-      "summary": "Retirees who stick to utilities and REITs skip the fastest-growing corner of the market. Four tech names now pay real dividends backed by surging cash flow, but one carries a hidden risk that could undercut its payout.",
-      "pub_date": "2026-11-19T15:20:52Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/4-tech-dividend-stocks-yielding-152052028.html"
-    },
-    {
-      "title": "Accenture (ACN) Gains as AI Disruption Fears Eased",
-      "summary": "Carillon Tower Advisers, an investment management company, released its third-quarter 2026 investor letter for the \u201cCarillon Eagle Growth & Income Fund\u201d. The letter can be downloaded here. In the third quarter, the S&P 500 Index rose 2.3%, its best quarter since the pandemic, driven by strong underlying fundamentals amid significant headwinds like Middle Eastern conflicts [\u2026]",
-      "pub_date": "2026-11-19T15:19:58Z",
-      "source": "Insider Monkey",
-      "url": "https://finance.yahoo.com/technology/ai/articles/accenture-acn-gains-ai-disruption-151958461.html"
-    },
-    {
-      "title": "Anthropic initiated, MongoDB upgraded: Wall Street's top analyst calls",
-      "summary": "Anthropic initiated, MongoDB upgraded: Wall Street's top analyst calls",
-      "pub_date": "2026-11-19T14:48:16Z",
-      "source": "The Fly",
-      "url": "https://finance.yahoo.com/news/meta-downgraded-mongodb-upgraded-wall-143614569.html"
     }
   ]
 }
