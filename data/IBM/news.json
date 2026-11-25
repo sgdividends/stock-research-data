@@ -1,7 +1,21 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-11-25T03:18:01.170952+00:00",
+  "generated_at": "2026-11-25T13:48:05.577570+00:00",
   "items": [
+    {
+      "title": "IBM and Microsoft expand Azure Compute Fleet integration",
+      "summary": "The plug-ins connect IBM\u2019s workload orchestration software with Azure Compute Fleet for compute-intensive workloads across hybrid environments.",
+      "pub_date": "2026-11-25T11:43:37Z",
+      "source": "Verdict",
+      "url": "https://finance.yahoo.com/news/ibm-microsoft-expand-azure-compute-114337558.html"
+    },
+    {
+      "title": "Is IBM Stock Paying You Enough For The Swings?",
+      "summary": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
+      "pub_date": "2026-11-25T11:43:00Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ibm-stock-paying-enough-swings-114300691.html"
+    },
     {
       "title": "What IBM Holders Got Wrong Before The Slide",
       "summary": "If you had been weighing International Business Machines against flashier AI stocks and decided to sit it out, the result may look surprising. Investors who held International Business Machines over the past year are down 21.3%, including dividends. That drop now sits next to earlier research arguing for premium pricing based on hybrid cloud, GenAI and quantum potential. If you were back on 23 November 2025, which assumption or risk on record would you interrogate first? The move put...",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-24T13:48:27Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/palantir-stock-priced-against-rivals-134827328.html"
-    },
-    {
-      "title": "Can Quantum Utility Change The Bull Case For BMO (TSX:BMO)?",
-      "summary": "BMO Financial Group recently reported that it used IBM quantum computers, including the IBM Quantum Nighthawk r2 processor, to reach quantum utility in a machine learning feature selection application developed with the Democritus University of Thrace. The project suggests BMO could train data hungry AI models with far fewer samples, which directly targets future efficiency, risk analytics quality and client personalization across its banking operations. Next, the focus will be on how BMO\u2019s...",
-      "pub_date": "2026-11-24T10:10:07Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/quantum-utility-change-bull-case-101007181.html"
-    },
-    {
-      "title": "International Business Machines (IBM) Emerges As A Smart Ports Leader In New Industry Analysis",
-      "summary": "Industry researchers highlight International Business Machines (NYSE:IBM) as a key technology supplier in the global smart ports market. The new analysis singles out IBM's role in digitalization, AI, blockchain and cybersecurity projects across major port operators worldwide. Smart ports are described as a multibillion dollar infrastructure opportunity that links automation, data platforms and sustainability focused logistics systems. IBM's smart ports profile, described in the fresh...",
-      "pub_date": "2026-11-24T00:21:13Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/articles/international-business-machines-ibm-emerges-002113886.html"
     }
   ]
 }

@@ -1,7 +1,21 @@
 {
   "ticker": "STX",
-  "generated_at": "2026-11-25T03:18:32.272086+00:00",
+  "generated_at": "2026-11-25T13:48:43.564770+00:00",
   "items": [
+    {
+      "title": "Nvidia, AMD, and Micron stocks sink as investors flee AI trade",
+      "summary": "Chip stocks led an AI trade sell-off on Wednesday.",
+      "pub_date": "2026-11-25T13:45:18Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-amd-micron-stocks-sink-as-investors-flee-ai-trade-134518921.html"
+    },
+    {
+      "title": "Prediction: Seagate\u2019s Record Profitability Could Be Just the Beginning, 27% Upside Ahead",
+      "summary": "Seagate just posted the most profitable quarter in its history, yet the stock has shed a quarter of its value in a month. What is the market missing, and how far could the gap between earnings and price close?",
+      "pub_date": "2026-11-25T12:17:14Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-seagate-record-profitability-could-121714702.html"
+    },
     {
       "title": "Nvidia, AMD, Broadcom lead chip stocks lower as AI trade comes under pressure",
       "summary": "Chip giant Nvidia led semiconductor stocks lower on Tuesday.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-24T13:46:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/technology/ai/articles/sndks-data-center-revenues-gain-134600224.html"
-    },
-    {
-      "title": "NetApp's Q2 Revenue Outlook Signals 23% Growth: Can It Deliver?",
-      "summary": "NTAP eyes 23% revenue growth in fiscal Q2, fueled by accelerating AI demand, all-flash storage momentum and expanding cloud modernization opportunities.",
-      "pub_date": "2026-11-24T12:20:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netapps-q2-revenue-outlook-signals-122000542.html"
-    },
-    {
-      "title": "Sandisk Plunges 44% in a Month: Buy, Sell or Hold the Stock?",
-      "summary": "SNDK plunges 44% in a month as margin concerns and slowing growth overshadow booming AI-driven NAND demand. Is the discounted stock worth buying now?",
-      "pub_date": "2026-11-24T12:15:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-plunges-44-month-buy-121500828.html"
     }
   ]
 }

@@ -1,7 +1,21 @@
 {
   "ticker": "XYZ",
-  "generated_at": "2026-11-25T03:18:42.904786+00:00",
+  "generated_at": "2026-11-25T13:49:00.622725+00:00",
   "items": [
+    {
+      "title": "T-PASC formed to standardise banking tech vetting",
+      "summary": "Kayce Seifert has been appointed as interim chief executive to direct operational development and partner coordination.",
+      "pub_date": "2026-11-25T12:05:30Z",
+      "source": "Retail Banker International",
+      "url": "https://finance.yahoo.com/news/t-pasc-formed-standardise-banking-120530627.html"
+    },
+    {
+      "title": "HOOD, COIN Get Wedbush Outperform Ratings: Here\u2019s What The Firm Sees In Fintech\u2019s Next Growth Phase",
+      "summary": "The financial firm also set a price target of $127 for Coinbase, representing a 25% upside from its latest close.",
+      "pub_date": "2026-11-25T04:33:11Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hood-coin-wedbush-outperform-ratings-043311844.html"
+    },
     {
       "title": "Citizens boosts payment tech as banks chase businesses",
       "summary": "The bank has added new treasury management tools as rivals tout advancements designed to reduce small firms' third party expense.",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-23T11:05:45Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/ark-blockchain-fintech-arkf-bought-110545933.html"
-    },
-    {
-      "title": "62% of Bitcoin Payments Are Made for Coffee, Jack Dorsey\u2019s Block Data Reveals",
-      "summary": "Bitcoin becoming a mainstream mode of payment is something the crypto industry has been trying to achieve for years. Companies are experimenting with payment apps, merchant integrations and cashback incentives to bring Bitcoin into people\u2019s everyday lives. The idea is simple. Instead of just buying and holding Bitcoin, people should also be able to use",
-      "pub_date": "2026-11-23T08:33:39Z",
-      "source": "CoinGape",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/62-bitcoin-payments-made-coffee-083339599.html"
-    },
-    {
-      "title": "How Block is pushing its AI to merchants",
-      "summary": "Jack Dorsey\u2019s payments company spent the better part of the last year using artificial intelligence to reimagine how it operates. Now, Block is making good on its promise to share some of that technology with its sellers on Square.",
-      "pub_date": "2026-11-23T00:45:00Z",
-      "source": "American Banker",
-      "url": "https://finance.yahoo.com/technology/ai/articles/block-pushing-ai-merchants-004500086.html"
     }
   ]
 }
