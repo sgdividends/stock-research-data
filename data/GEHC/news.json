@@ -1,7 +1,14 @@
 {
   "ticker": "GEHC",
-  "generated_at": "2026-11-24T19:16:27.512606+00:00",
+  "generated_at": "2026-11-25T03:17:55.539913+00:00",
   "items": [
+    {
+      "title": "What Is GE HealthCare Technologies (GEHC) Signaling With Its RSNA 2026 AI Push?",
+      "summary": "GE HealthCare Technologies (NasdaqGS:GEHC) used RSNA 2026 to unveil a slate of AI, imaging, and workflow products. The business introduced ViewPoint Ultra, an enterprise-wide ultrasound reporting and analytics platform aimed at standardizing imaging workflows across hospitals. Management also showed Imaging 360 AI assistant and protocoling tools, designed to support radiology operations and exam consistency across modalities. The company reported Phase 2 results for the LUMINA trial of...",
+      "pub_date": "2026-11-24T20:12:48Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/healthcare/articles/ge-healthcare-technologies-gehc-signaling-201248121.html"
+    },
     {
       "title": "GEHC Launches ViewPoint Ultra to Streamline Ultrasound Workflows",
       "summary": "GE HealthCare expands its digital healthcare offerings with ViewPoint Ultra, targeting fragmented ultrasound workflows and wider adoption across health systems.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-19T17:23:56Z",
       "source": "TIKR",
       "url": "https://finance.yahoo.com/markets/stocks/articles/467-billion-fund-just-bought-172356112.html"
-    },
-    {
-      "title": "GE HealthCare Wins FDA Nod for AI Feeding Tube Detection Software",
-      "summary": "GEHC secures FDA clearance for AI-powered feeding tube detection software, expanding bedside X-ray capabilities for adult and pediatric patients.",
-      "pub_date": "2026-11-19T16:50:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/healthcare/articles/ge-healthcare-wins-fda-nod-165000314.html"
     }
   ]
 }

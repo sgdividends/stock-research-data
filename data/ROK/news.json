@@ -1,7 +1,14 @@
 {
   "ticker": "ROK",
-  "generated_at": "2026-11-24T19:17:04.667379+00:00",
+  "generated_at": "2026-11-25T03:18:28.957938+00:00",
   "items": [
+    {
+      "title": "Rockwell Automation Stock: Analyst Estimates & Ratings",
+      "summary": "Rockwell Automation has underperformed the broader market despite strong earnings, raised guidance, and a strategic acquisition, while analyst sentiment remains moderately bullish.",
+      "pub_date": "2026-11-24T13:07:38Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rockwell-automation-stock-analyst-estimates-130738914.html"
+    },
     {
       "title": "From PLCs to AI: How Rockwell Automation is evolving in the digital age",
       "summary": "The company previewed its digital orchestration platform at its automation fair in Boston last week. It also recently expanded its digital twins, computing and robotics capabilities.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-18T02:11:24Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/technology/ai/articles/gpu-edge-launch-change-rockwell-021124213.html"
-    },
-    {
-      "title": "Rockwell Automation (ROK) Expands Factory Modernization Push With New Partnership And AI Simulation",
-      "summary": "Rockwell Automation (NYSE:ROK) announced a new partnership with Velotic to support industrial modernization for manufacturers. The collaboration focuses on connecting legacy factory equipment with newer automation platforms to streamline production workflows. Rockwell Automation reported expanded use of NVIDIA Omniverse within its Emulate3D software to support advanced industrial simulation and design. These moves, from the Velotic partnership to deeper NVIDIA Omniverse integration in...",
-      "pub_date": "2026-11-17T10:09:00Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/rockwell-automation-rok-expands-factory-100900248.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "MA",
-  "generated_at": "2026-11-24T19:16:47.248822+00:00",
+  "generated_at": "2026-11-25T03:18:09.012964+00:00",
   "items": [
+    {
+      "title": "Citizens boosts payment tech as banks chase businesses",
+      "summary": "The bank has added new treasury management tools as rivals tout advancements designed to reduce small firms' third party expense.",
+      "pub_date": "2026-11-24T20:17:06Z",
+      "source": "American Banker",
+      "url": "https://finance.yahoo.com/small-business/articles/citizens-boosts-payment-tech-banks-201706445.html"
+    },
     {
       "title": "How Much Could You Lose In PayPal Stock?",
       "summary": "For questions about this article or underlying research, email help@trefis.com.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-23T16:50:02Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-vs-paypal-financial-stock-165002430.html"
-    },
-    {
-      "title": "Big Banks Are Restricting AI Agents: What It Means for Meta's Muse",
-      "summary": "As Meta's Muse AI agent pushes into e-commerce, major banks like JPMorgan restrict agentic account and card access, while Stripe, Visa and Mastercard build alternative payment paths.",
-      "pub_date": "2026-11-23T15:30:00Z",
-      "source": "MarketBeat",
-      "url": "https://finance.yahoo.com/technology/ai/articles/big-banks-restricting-ai-agents-153000601.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "XYZ",
-  "generated_at": "2026-11-24T19:17:24.615847+00:00",
+  "generated_at": "2026-11-25T03:18:42.904786+00:00",
   "items": [
+    {
+      "title": "Citizens boosts payment tech as banks chase businesses",
+      "summary": "The bank has added new treasury management tools as rivals tout advancements designed to reduce small firms' third party expense.",
+      "pub_date": "2026-11-24T20:17:06Z",
+      "source": "American Banker",
+      "url": "https://finance.yahoo.com/small-business/articles/citizens-boosts-payment-tech-banks-201706445.html"
+    },
     {
       "title": "Shopify's Global Expansion Gains Pace: Can It Fuel More Growth?",
       "summary": "SHOP's international expansion is gaining momentum, fueled by robust overseas GMV growth, localized commerce solutions and expanding payment capabilities.",
@@ -15,6 +22,13 @@
       "pub_date": "2026-11-23T23:34:39Z",
       "source": "TIKR",
       "url": "https://finance.yahoo.com/markets/stocks/articles/upstart-sinks-11-block-12-233439969.html"
+    },
+    {
+      "title": "Making 6 figures? You might still be turning to \u2018buy now, pay later,\u2019 according to new research",
+      "summary": "Nearly 7 in 10 deferred-payment shoppers in households earning at least $100,000 used installment financing in the past year.",
+      "pub_date": "2026-11-23T20:51:23Z",
+      "source": "FastCompany",
+      "url": "https://finance.yahoo.com/economy/articles/making-6-figures-might-still-205123280.html"
     },
     {
       "title": "Block Stock And 2 AI Payments Shares Riding The Fraud Prevention Boom",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-23T00:45:00Z",
       "source": "American Banker",
       "url": "https://finance.yahoo.com/technology/ai/articles/block-pushing-ai-merchants-004500086.html"
-    },
-    {
-      "title": "Average American spends $13 in Bitcoin, led by coffee",
-      "summary": "Here\u2019s what nearly a year of Square data reveals about how Americans actually spend their Bitcoin.",
-      "pub_date": "2026-11-22T09:42:27Z",
-      "source": "TheStreet",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/average-american-spends-13-bitcoin-094227653.html"
-    },
-    {
-      "title": "Cathie Wood, Dan Loeb and 7 Other Big Funds Bought Block Last Quarter, While 7 Sold. Who\u2019s Right?",
-      "summary": "Key TakeawaysNine big funds bought Block in the third quarter and seven sold. The buyers include Cathie Wood\u2019s ARK Invest and Dan Loeb\u2019s Third Point, and three of the buyers also cut the card giant.",
-      "pub_date": "2026-11-21T18:52:27Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-dan-loeb-7-185227157.html"
     }
   ]
 }

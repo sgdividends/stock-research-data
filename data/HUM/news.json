@@ -1,7 +1,14 @@
 {
   "ticker": "HUM",
-  "generated_at": "2026-11-24T19:16:34.822700+00:00",
+  "generated_at": "2026-11-25T03:18:00.875949+00:00",
   "items": [
+    {
+      "title": "Sector Update: Healthcare Stocks Gain Late Afternoon",
+      "summary": "Healthcare stocks rose late Tuesday afternoon with the NYSE Healthcare Index adding 2.6% and the Sta",
+      "pub_date": "2026-11-24T20:59:50Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-gain-afternoon-205950473.html"
+    },
     {
       "title": "What Could Humana (HUM) Cancer Care Model Mean For Patients And Costs?",
       "summary": "Humana (NYSE:HUM) has launched a new cancer care model in partnership with Evolent Health and American Oncology Network. The collaboration focuses on reducing prior authorization barriers for oncology treatments to streamline access for eligible Humana members. The care model uses real time analytics to help oncologists tailor treatment plans and align provider incentives around measured outcomes and costs. The new Humana cancer care model with Evolent Health and American Oncology Network is...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-23T21:35:40Z",
       "source": "TIKR",
       "url": "https://finance.yahoo.com/healthcare/articles/not-good-medicare-proposes-107-213540392.html"
-    },
-    {
-      "title": "UnitedHealth and Humana Stocks Keep Sliding. Why They\u2019re Not Taking Part in Today\u2019s Rally.",
-      "summary": "Renewed debate over Medicare for All pressures private insurers and as Washington proposes changes to Medicare Advantage.",
-      "pub_date": "2026-11-23T18:42:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/unitedhealth-humana-stocks-medicare-trump-fde1da3e?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
