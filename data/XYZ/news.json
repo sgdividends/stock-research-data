@@ -1,7 +1,49 @@
 {
   "ticker": "XYZ",
-  "generated_at": "2026-11-25T13:49:00.622725+00:00",
+  "generated_at": "2026-11-25T23:58:35.217281+00:00",
   "items": [
+    {
+      "title": "BNPL lender Afterpay fined $2.7M for skipping ability-to-repay mandates",
+      "summary": "California fined buy now, pay later lender Afterpay for failing to follow standards that require lenders determine a borrower\u2019s ability to repay a loan.",
+      "pub_date": "2026-11-25T18:55:01Z",
+      "source": "American Banker",
+      "url": "https://finance.yahoo.com/economy/policy/articles/bnpl-lender-afterpay-fined-2-185501549.html"
+    },
+    {
+      "title": "Block (XYZ) Opens Squaremates To U.S. Sellers With Deeper AI Task Automation",
+      "summary": "Block (NYSE:XYZ) launched Squaremates, an intelligent business agent for Square sellers in the U.S., now generally available. Squaremates evolved from the earlier Managerbot tool and is designed to handle multi-step business tasks for merchants using Square. The new agent connects with third-party AI services, supplier websites, and sellers' daily workflows to automate key operational processes. Squaremates' general release marks a broader shift in how Block is opening the Square platform to...",
+      "pub_date": "2026-11-25T18:13:11Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/block-xyz-opens-squaremates-u-181311387.html"
+    },
+    {
+      "title": "SOFI Expands SMB Lending: Can It Drive Long-Term Growth?",
+      "summary": "SOFI expands small business lending through a capital-light model, unlocking opportunities for recurring revenue and diversification beyond consumer loans.",
+      "pub_date": "2026-11-25T17:27:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/small-business/articles/sofi-expands-smb-lending-drive-172700498.html"
+    },
+    {
+      "title": "Wedbush starts Robinhood, Coinbase at Outperform in fintech coverage launch",
+      "summary": "Investing.com -- Wedbush has launched coverage of the financial technology sector with Outperform ratings on Robinhood Markets, Coinbase Global, Visa and Mastercard, among others, telling investors that the industry's main growth driver has shifted.",
+      "pub_date": "2026-11-25T16:35:57Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wedbush-starts-robinhood-coinbase-outperform-163557118.html"
+    },
+    {
+      "title": "California fines Afterpay $2.7M",
+      "summary": "The state imposed the penalty on Block\u2019s buy now, pay later business after finding the company failed to assess customers\u2019 ability to\u00a0repay loans.",
+      "pub_date": "2026-11-25T16:05:00Z",
+      "source": "Payments Dive",
+      "url": "https://finance.yahoo.com/economy/policy/articles/california-fines-afterpay-2-7m-160500716.html"
+    },
+    {
+      "title": "Will Mastercard Accept Strengthen MA's Long-Term Growth Prospects?",
+      "summary": "Mastercard Accept could unlock new payment volumes by bringing cash-based small sellers onto its network through smartphone-enabled digital payment solutions.",
+      "pub_date": "2026-11-25T13:27:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-accept-strengthen-mas-long-132700345.html"
+    },
     {
       "title": "T-PASC formed to standardise banking tech vetting",
       "summary": "Kayce Seifert has been appointed as interim chief executive to direct operational development and partner coordination.",
@@ -15,48 +57,6 @@
       "pub_date": "2026-11-25T04:33:11Z",
       "source": "Stocktwits",
       "url": "https://finance.yahoo.com/markets/stocks/articles/hood-coin-wedbush-outperform-ratings-043311844.html"
-    },
-    {
-      "title": "Citizens boosts payment tech as banks chase businesses",
-      "summary": "The bank has added new treasury management tools as rivals tout advancements designed to reduce small firms' third party expense.",
-      "pub_date": "2026-11-24T20:17:06Z",
-      "source": "American Banker",
-      "url": "https://finance.yahoo.com/small-business/articles/citizens-boosts-payment-tech-banks-201706445.html"
-    },
-    {
-      "title": "Shopify's Global Expansion Gains Pace: Can It Fuel More Growth?",
-      "summary": "SHOP's international expansion is gaining momentum, fueled by robust overseas GMV growth, localized commerce solutions and expanding payment capabilities.",
-      "pub_date": "2026-11-24T16:18:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/shopifys-global-expansion-gains-pace-161800441.html"
-    },
-    {
-      "title": "Upstart Sinks 11% and Block 12% in a Week as the Tech Rout Hits Fintech. Upstart\u2019s CEO Keeps Buying",
-      "summary": "Key TakeawaysUpstart fell 11% in a week as the Nov. 19-20 tech selloff dragged fintech stocks, Block among them, lower.",
-      "pub_date": "2026-11-23T23:34:39Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/upstart-sinks-11-block-12-233439969.html"
-    },
-    {
-      "title": "Making 6 figures? You might still be turning to \u2018buy now, pay later,\u2019 according to new research",
-      "summary": "Nearly 7 in 10 deferred-payment shoppers in households earning at least $100,000 used installment financing in the past year.",
-      "pub_date": "2026-11-23T20:51:23Z",
-      "source": "FastCompany",
-      "url": "https://finance.yahoo.com/economy/articles/making-6-figures-might-still-205123280.html"
-    },
-    {
-      "title": "Block Stock And 2 AI Payments Shares Riding The Fraud Prevention Boom",
-      "summary": "AI is starting to make payment decisions on your behalf, and that shift is quietly rewriting who carries fraud risk, who pays for compliance, and who controls the digital checkout. That tug of war between banks, Big Tech, and specialist payment rails is creating fresh winners. This article walks through three stocks exposed to that AI payments story and explains why some investors are watching them closely right now. The three stocks in this article are just a starter set, and the full...",
-      "pub_date": "2026-11-23T20:07:30Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/block-stock-2-ai-payments-200730744.html"
-    },
-    {
-      "title": "What ARK Blockchain & Fintech (ARKF) Bought: Block Leads on Nov. 19",
-      "summary": "The fund bought $209.5 million of stock and sold nothing, increasing 30 positions.",
-      "pub_date": "2026-11-23T11:05:45Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ark-blockchain-fintech-arkf-bought-110545933.html"
     }
   ]
 }

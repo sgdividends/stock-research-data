@@ -1,7 +1,14 @@
 {
   "ticker": "BR",
-  "generated_at": "2026-11-25T13:47:27.992899+00:00",
+  "generated_at": "2026-11-25T23:57:05.097591+00:00",
   "items": [
+    {
+      "title": "Wedbush starts Robinhood, Coinbase at Outperform in fintech coverage launch",
+      "summary": "Investing.com -- Wedbush has launched coverage of the financial technology sector with Outperform ratings on Robinhood Markets, Coinbase Global, Visa and Mastercard, among others, telling investors that the industry's main growth driver has shifted.",
+      "pub_date": "2026-11-25T16:35:57Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wedbush-starts-robinhood-coinbase-outperform-163557118.html"
+    },
     {
       "title": "Marex (MRX) Stock Looks Fully Priced After An 82% Run",
       "summary": "Marex Group has delivered an 82.1% share price gain over the past year. The sharper question for anyone looking at the stock today is whether that move is supported by the returns the business earns on the capital it deploys. An 82.1% one year return puts real weight on the issue of whether Marex Group's current valuation can be explained by the profitability of the capital already at work in the business. The recent push into tokenized securities trading and financing through partnerships...",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-16T19:11:47Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/3-stocks-watch-proxy-voting-191147513.html"
-    },
-    {
-      "title": "Coinbase, Broadridge to Bring Shareholder Voting Rights to Tokenized Stocks",
-      "summary": "Coinbase (NASDAQ: $COIN) and financial technology company Broadridge (NYSE: $BR) have introduced an open standard d...",
-      "pub_date": "2026-11-16T15:47:00Z",
-      "source": "CryptoProwl",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/coinbase-broadridge-bring-shareholder-voting-154700598.html"
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "ticker": "MGM",
-  "generated_at": "2026-11-25T13:48:19.486432+00:00",
+  "generated_at": "2026-11-25T23:58:02.974172+00:00",
   "items": [
+    {
+      "title": "Sector Update: Consumer Stocks Higher Late Afternoon",
+      "summary": "Consumer stocks were higher late Wednesday afternoon, with the State Street Consumer Staples Select",
+      "pub_date": "2026-11-25T20:53:54Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-higher-afternoon-205354613.html"
+    },
     {
       "title": "Bally's (BALY) Stock Is Down 11.3% Today Without Company News",
       "summary": "Bally's shares fell 11.3% on Tuesday, Nov. 24, without company-specific news, while casino peers rose.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-19T12:35:00Z",
       "source": "MarketBeat",
       "url": "https://finance.yahoo.com/markets/stocks/articles/amazons-zoox-just-joined-uber-123500996.html"
-    },
-    {
-      "title": "Can DraftKings Stock Jump 50%?",
-      "summary": "Today's big story: Could Anthropic Stock Fall 25.",
-      "pub_date": "2026-11-19T11:00:32Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/draftkings-stock-jump-50-110032055.html"
     }
   ]
 }

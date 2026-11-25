@@ -1,7 +1,14 @@
 {
   "ticker": "FOXA",
-  "generated_at": "2026-11-25T13:47:55.864828+00:00",
+  "generated_at": "2026-11-25T23:57:37.545869+00:00",
   "items": [
+    {
+      "title": "Is Wall Street Bullish or Bearish on Fox Corporation Stock?",
+      "summary": "Fox Corporation has underperformed the broader market over the past year, but analysts are cautiously optimistic about the stock\u2019s prospects.",
+      "pub_date": "2026-11-25T12:12:00Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-bullish-bearish-fox-121200008.html"
+    },
     {
       "title": "Disney Stops Reporting Streaming Profit. Should You Worry?",
       "summary": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-20T13:59:13Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/tko-stock-really-expensive-135913918.html"
-    },
-    {
-      "title": "Newsmax Is Suing to Break Up Fox\u2019s $22 Billion Roku Deal",
-      "summary": "Fox promised regulators it would play fair with rivals, but it never put that promise in a binding document. Newsmax now wants a judge to ask why, and the answer could decide whether a closed megadeal survives.",
-      "pub_date": "2026-11-19T17:22:51Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/media-advertising/articles/newsmax-suing-break-fox-22-172251808.html"
     }
   ]
 }

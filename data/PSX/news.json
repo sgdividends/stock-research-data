@@ -1,7 +1,14 @@
 {
   "ticker": "PSX",
-  "generated_at": "2026-11-25T13:48:35.156078+00:00",
+  "generated_at": "2026-11-25T23:58:19.075183+00:00",
   "items": [
+    {
+      "title": "Gasoline Prices Decline for 32nd Straight Day",
+      "summary": "Prices at the pump have tumbled over the past month, with the national average retail price for regular unleaded gasoline dropping for the 32nd consecutive day, to $3.5866 a gallon.",
+      "pub_date": "2026-11-25T20:18:18Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-25-2026/card/gasoline-prices-decline-for-32nd-straight-day-oq1GbMVgQD8lHIsSJDmc?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "Do Wall Street Analysts Like Phillips 66 Stock?",
       "summary": "Phillips 66 stock has significantly outperformed the broader market over the past year, and analysts seem to be bullish about its prospects.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-20T17:06:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/energy/articles/bp-steps-deleveraging-strong-cash-170600771.html"
-    },
-    {
-      "title": "Can Phillips 66's Midstream Investments Cushion Refining Pressures?",
-      "summary": "PSX's midstream investments and diversified operations help cushion refining pressures amid elevated oil prices.",
-      "pub_date": "2026-11-20T14:38:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/energy/articles/phillips-66s-midstream-investments-cushion-143800536.html"
     }
   ]
 }

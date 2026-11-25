@@ -1,13 +1,27 @@
 {
   "ticker": "EQIX",
-  "generated_at": "2026-11-25T13:47:48.270150+00:00",
+  "generated_at": "2026-11-25T23:57:27.103187+00:00",
   "items": [
+    {
+      "title": "Equinix Stock: Analyst Estimates & Ratings",
+      "summary": "Equinix has outperformed the broader market over the past year, with analysts maintaining a bullish outlook on the stock, buoyed by strong earnings growth and an upgraded forecast.",
+      "pub_date": "2026-11-25T14:22:00Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/equinix-stock-analyst-estimates-ratings-142200599.html"
+    },
     {
       "title": "Equinix: 3 Key Takeaways for Long-Term Investors",
       "summary": "Low leverage and expanding pricing power on renewals may help position Equinix to compound returns without balance sheet risk.",
       "pub_date": "2026-11-24T23:24:55Z",
       "source": "Motley Fool",
       "url": "https://finance.yahoo.com/markets/stocks/articles/equinix-3-key-takeaways-long-232455849.html"
+    },
+    {
+      "title": "Why GPU export controls are bullish for AI stocks",
+      "summary": "Morgan Stanley believes the Trump administration\u2019s expanded AI export controls could provide a significant tailwind for US data center developers while undermining the near-term economics of Southeast Asian neoclouds and\u2026",
+      "pub_date": "2026-11-24T21:43:47Z",
+      "source": "Blockspace",
+      "url": "https://finance.yahoo.com/video/why-gpu-export-controls-bullish-214347916.html"
     },
     {
       "title": "Uniti (UNIT) Stock Is Up 9.6% Today Without Company News",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-23T21:02:26Z",
       "source": "Trefis",
       "url": "https://finance.yahoo.com/markets/stocks/articles/buy-cipher-digital-stock-now-210226305.html"
-    },
-    {
-      "title": "AI Boom at Risk as Trump Threatens \u201cTremendous Tax\u201d on Overseas Data Centers While Restrictions Mount at Home",
-      "summary": "Washington wants AI data centers built at home, but voters keep slamming the door on them. With a new tax threat looming abroad, the biggest spenders in tech may soon find nowhere cheap to turn.",
-      "pub_date": "2026-11-23T17:19:00Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-boom-risk-trump-threatens-171900615.html"
-    },
-    {
-      "title": "3 AI Infrastructure REITs Retail Investors Are Watching After The Market Selloff",
-      "summary": "A violent 8.6% slide in the S&P 500 over one week has rattled confidence, yet it has also pulled prices away from the hype around megacap AI stories. When Nvidia and other chip leaders fall hard, attention shifts to the plumbing behind the digital world, including data center and AI infrastructure REITs that rely on long leases rather than chip cycles. This article looks at 3 stocks from our screener that appear positively exposed to the recent AI driven reset, and explains why the selloff...",
-      "pub_date": "2026-11-23T14:11:17Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/real-estate/articles/3-ai-infrastructure-reits-retail-141117869.html"
     }
   ]
 }
