@@ -1,20 +1,34 @@
 {
   "ticker": "CSCO",
-  "generated_at": "2026-11-26T06:52:52.152961+00:00",
+  "generated_at": "2026-11-26T18:01:59.685133+00:00",
   "items": [
+    {
+      "title": "BR Stock Rises 27.3% in Six Months: Here's What You Should Know",
+      "summary": "Broadridge shares jump 27.3% in six months, backed by a growing sales backlog, AI-driven efficiency gains and strong cash flow generation.",
+      "pub_date": "2026-11-26T13:44:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/br-stock-rises-27-3-134400705.html"
+    },
+    {
+      "title": "Genpact Stock Rises 20% in Three Months: Here's What You Should Know",
+      "summary": "G's share price jumps 20% in three months, fueled by growing Agentic Operations demand, expanding profit margins and a healthy liquidity position.",
+      "pub_date": "2026-11-26T13:08:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/genpact-stock-rises-20-three-130800729.html"
+    },
+    {
+      "title": "ETFs Bought $63.9 Million of Cisco (CSCO) on Nov. 24",
+      "summary": "66 ETFs bought Cisco shares versus 19 that sold on Tuesday, Nov. 24.",
+      "pub_date": "2026-11-26T11:00:59Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-bought-63-9-million-110059108.html"
+    },
     {
       "title": "Jensen Huang's return, neocloud risk, and a holiday retail rally",
       "summary": "In this special edition of Sozzi Unleashed: At The Close, Brian Sozzi warns that investors can be right about a tech revolution and still lose a fortune, lays out three reasons Nvidia may deserve another look after Jensen Huang's return, and explains why the debt-fueled neoclouds like CoreWeave and Nebius still make him nervous. Former federal prosecutor Gil Soffer, head of corporate investigations at Katten, joins to discuss how Nvidia's board probe proceeds with Huang back in charge and whether he could be fired again. Brian also connects the dots on the AI build-out and inflation with a clip from Chicago Fed President Austan Goolsbee, and makes the case for a strong holiday season for retailers with comments from Walmart CFO John David Rainey and Gap CEO Richard Dickson.",
       "pub_date": "2026-11-25T21:00:00Z",
       "source": "Yahoo Finance Video",
       "url": "https://finance.yahoo.com/video/jensen-huangs-return-neocloud-risk-and-a-holiday-retail-rally-222042649.html"
-    },
-    {
-      "title": "Ten reasons the market is selling off again before Thanksgiving",
-      "summary": "Sozzi Unleashed host Brian Sozzi runs through his list of 10 reasons stocks are selling off again two days after the Jensen Huang relief rally, from a hot PCE report and a possible December Fed hike to new tariffs of up to 20% on China and the EU, and five reasons Nvidia is back under pressure. He questions why Wall Street is shrugging off blowout quarters from Dell and HPE, with HPE CEO Antonio Neri weighing in on server pricing and why the company won't finance neoclouds. Yorkville Ives partner Dan Ives joins to argue the selloff is a growth scare, not a bubble, puts fair value on Anthropic as it trades below its IPO price, and previews Huang's testimony in Washington. Brian closes with Walmart's CFO on turkey sales, a look at retail stocks as gas prices fall for 31 straight days, and a Thanksgiving message to investors.",
-      "pub_date": "2026-11-25T16:04:24Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/ten-reasons-the-market-is-selling-off-again-before-thanksgiving-160424234.html"
     },
     {
       "title": "Chevron Cut Its Debt by $8.4 Billion. These 4 Dividend Stocks Have Fortress Balance Sheets",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-25T18:19:12Z",
       "source": "TIKR",
       "url": "https://finance.yahoo.com/markets/stocks/articles/george-soros-ken-fisher-11-181912194.html"
-    },
-    {
-      "title": "Hewlett Packard Enterprise Lost 25% of Its Value Over 3 Months: One of The Biggest U.S. Banks Predicts 120% Gains Within 1 Year",
-      "summary": "HPE beat earnings and revenue estimates, yet investors dumped the stock in a single session. The culprit hides in the margin guidance, and one big bank thinks the market has misread what it means for the next year.",
-      "pub_date": "2026-11-25T15:45:41Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hewlett-packard-enterprise-lost-25-154541705.html"
-    },
-    {
-      "title": "Cisco Gains From AI Networking Boom: Can It Outpace HPE & ANET?",
-      "summary": "CSCO rides on AI networking boom with surging revenues, hyperscaler design wins and an expanding portfolio.",
-      "pub_date": "2026-11-25T15:29:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/cisco-gains-ai-networking-boom-152900428.html"
     }
   ]
 }

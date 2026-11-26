@@ -1,13 +1,48 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-11-26T06:53:16.538959+00:00",
+  "generated_at": "2026-11-26T18:02:30.492418+00:00",
   "items": [
     {
-      "title": "Tariffs are back as Anthropic sinks further below its IPO price",
-      "summary": "The 8:30 hosts Julie Hyman and Jake Conley, joined on the couch by BD8 Capital Partners CEO and CIO Barbara Doran, tackle the top stories of the day. Including the Trump administration's sweeping new Section 301 tariffs of 20% on China and dozens of other economies, in-line PCE inflation and a third-quarter GDP revision up to 4.3% that keep a December Fed hike in play, Anthropic sliding toward $78 and well below its $83 IPO price, and whether Jensen Huang is the right leader for Nvidia in a new regulatory era.",
-      "pub_date": "2026-11-25T16:05:24Z",
-      "source": "Yahoo Finance Video",
-      "url": "https://finance.yahoo.com/video/tariffs-are-back-as-anthropic-sinks-further-below-its-ipo-price-160524926.html"
+      "title": "JPMorgan Sees $450 Billion AI Debt Wave as Credit Risks Mount",
+      "summary": "Growing artificial intelligence infrastructure spending could drive corporate borrowing and investment banking activity.",
+      "pub_date": "2026-11-26T15:47:41Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-sees-450-billion-ai-154741192.html"
+    },
+    {
+      "title": "Will Bank of America's Swiss Expansion Fuel Further Fee Income Growth?",
+      "summary": "BAC's Swiss expansion is driving rapid client growth and broader European capabilities, potentially boosting cross-border opportunities and fee income.",
+      "pub_date": "2026-11-26T14:11:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-americas-swiss-expansion-fuel-141100657.html"
+    },
+    {
+      "title": "JPMorgan Rethinks UK Investments: Will Higher Taxes Hurt Growth?",
+      "summary": "JPM reconsiders major U.K. investments as rising banking taxes threaten profitability, raising concerns over future expansion and long-term earnings growth.",
+      "pub_date": "2026-11-26T14:05:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-rethinks-uk-investments-higher-140500776.html"
+    },
+    {
+      "title": "What State Street Financial Sel Sector SPDR (XLF) Bought: Berkshire Leads on Nov. 24",
+      "summary": "The fund added $266.5 million across all 76 holdings on Tuesday, led by a $36.3 million increase in Berkshire Hathaway.",
+      "pub_date": "2026-11-26T11:04:58Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/state-street-financial-sel-sector-110458586.html"
+    },
+    {
+      "title": "Why Outages at Apps Like Chase Mean Cybersecurity Is Now Everyone\u2019s Problem",
+      "summary": "Austin Campbell, founder of Zero Knowledge Group, says outages are now breaking everyday apps and that AI will hurt everyone between big tech and the data-minimized. Chris Perkins, head of Franklin Crypto, warns mixed messages break trust. From Unchained, the no-hype resource for all things crypto.",
+      "pub_date": "2026-11-26T11:00:08Z",
+      "source": "Unchained",
+      "url": "https://finance.yahoo.com/video/why-outages-apps-chase-mean-110008286.html"
+    },
+    {
+      "title": "What Is JPMorgan Chase (JPM) Saying With Its $450 Billion AI Debt Call?",
+      "summary": "JPMorgan Chase (NYSE:JPM) analysts project that AI related capital expenditure will drive US$450b in investment grade debt issuance in 2027. The bank links this expected borrowing to funding for artificial intelligence infrastructure and hardware across corporate issuers. JPMorgan Chase frames the potential 2027 AI funding wave as a key theme for debt capital markets and sector funding models. This projected US$450b AI funding spike through investment grade bonds fits into a wider capital...",
+      "pub_date": "2026-11-26T08:08:38Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-chase-jpm-saying-450-080838063.html"
     },
     {
       "title": "Washington Calls It a Goldilocks Economy. On a $2,071 Social Security Check, She Calls It the Annoyance Economy: Prices Up 3.7%, and Her Real Raise Is Just 3.3%",
@@ -22,41 +57,6 @@
       "pub_date": "2026-11-25T22:20:27Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-jpmorgan-projects-450-222027435.html"
-    },
-    {
-      "title": "JPMorgan sees $450B in AI bond issuance in 2027",
-      "summary": "Investing.com -- JPMorgan Chase & Co. expects companies to raise $450 billion through investment-grade bond markets in 2027 to fund artificial intelligence capital expenditures, up from $368 billion in global investment-grade bond issuance for AI-focused companies this year.",
-      "pub_date": "2026-11-25T21:58:24Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-sees-450b-ai-bond-215824242.html"
-    },
-    {
-      "title": "JPMorgan Sees $450 Billion AI Debt Blitz in 2027 Before Plateau",
-      "summary": "Companies will tap public high-grade debt markets for $450 billion next year to finance their artificial intelligence-related capital expenditures, even as a growth plateau looms for the burgeoning industry further down the road, according to analysts at JPMorgan Chase & Co.",
-      "pub_date": "2026-11-25T21:17:21Z",
-      "source": "Bloomberg",
-      "url": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-sees-450-billion-ai-211721263.html"
-    },
-    {
-      "title": "Jensen Huang\u2019s Return Is Off to a Rough Start. The Market Isn\u2019t the Only Thing Paying the Price.",
-      "summary": "Nvidia will never be the same. Neither will the rest of us.",
-      "pub_date": "2026-11-25T19:55:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/jensen-huang-ceo-return-36b5d5ac?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Jamie Dimon Loved Britain\u2014Until It Raised Taxes on JPMorgan",
-      "summary": "The chief executive wants to strike back against the U.K. after its cash-strapped government targeted banks for extra revenue.",
-      "pub_date": "2026-11-25T18:24:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/finance/banking/jamie-dimon-loved-britainuntil-it-raised-taxes-on-jpmorgan-3462d7b6?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "12 Big Funds Bought JPMorgan Chase Last Quarter, While 12 Sold. Who\u2019s Right?",
-      "summary": "Key TakeawaysOf the 460 big funds that have filed 13Fs for the third quarter, 12 bought JPMorgan Chase and 12 sold. Axiom Investors added about $489 million of the stock, while MKP Capital sold a stake worth about $466 million.",
-      "pub_date": "2026-11-25T18:21:00Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/12-big-funds-bought-jpmorgan-182100691.html"
     }
   ]
 }
