@@ -1,7 +1,14 @@
 {
   "ticker": "XYZ",
-  "generated_at": "2026-11-25T23:58:35.217281+00:00",
+  "generated_at": "2026-11-26T06:53:57.619206+00:00",
   "items": [
+    {
+      "title": "Did Lending Fine Just Shift Block Stock's Investment Narrative?",
+      "summary": "Block's Afterpay unit was fined US$2.68 million by California regulators for past failures to assess borrowers' ability to repay, highlighting consumer protection compliance issues in its lending workflows. The enforcement action spotlights how Block's push into consumer credit and embedded finance also brings higher regulatory scrutiny and potential compliance costs across its broader ecosystem. The focus now is on how Block's investment narrative around embedded finance and AI driven...",
+      "pub_date": "2026-11-26T04:37:20Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/did-lending-fine-just-shift-043720307.html"
+    },
     {
       "title": "BNPL lender Afterpay fined $2.7M for skipping ability-to-repay mandates",
       "summary": "California fined buy now, pay later lender Afterpay for failing to follow standards that require lenders determine a borrower\u2019s ability to repay a loan.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-25T12:05:30Z",
       "source": "Retail Banker International",
       "url": "https://finance.yahoo.com/news/t-pasc-formed-standardise-banking-120530627.html"
-    },
-    {
-      "title": "HOOD, COIN Get Wedbush Outperform Ratings: Here\u2019s What The Firm Sees In Fintech\u2019s Next Growth Phase",
-      "summary": "The financial firm also set a price target of $127 for Coinbase, representing a 25% upside from its latest close.",
-      "pub_date": "2026-11-25T04:33:11Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hood-coin-wedbush-outperform-ratings-043311844.html"
     }
   ]
 }

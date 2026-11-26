@@ -1,6 +1,6 @@
 {
   "ticker": "SNDK",
-  "generated_at": "2026-11-25T23:58:24.448340+00:00",
+  "generated_at": "2026-11-26T06:53:39.447291+00:00",
   "items": [
     {
       "title": "Nvidia, AMD, and Micron stocks trim steep losses amid jittery AI trade",
@@ -8,6 +8,20 @@
       "pub_date": "2026-11-25T13:45:18Z",
       "source": "Yahoo Finance",
       "url": "https://finance.yahoo.com/markets/article/nvidia-amd-micron-stocks-sink-as-investors-flee-ai-trade-134518921.html"
+    },
+    {
+      "title": "MU, SNDK, SKHY Jump As Nvidia Tests Kioxia Memory Fix \u2014 Analyst Presses Memory Giants For \u2018Massive\u2019 Buybacks",
+      "summary": "Nvidia and Kioxia tested 144 flash drives in one AI rack. Kioxia estimates the setup could support a database of up to 2 trillion vectors.",
+      "pub_date": "2026-11-26T06:30:51Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mu-sndk-skhy-jump-nvidia-063051265.html"
+    },
+    {
+      "title": "Is Micron Cheap Only If Its Record Margin Lasts?",
+      "summary": "Today's big story: Anthropic Below Its IPO Price: Do Giants Come Back.",
+      "pub_date": "2026-11-25T23:43:07Z",
+      "source": "Trefis",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-cheap-only-record-margin-234307884.html"
     },
     {
       "title": "Anthropic, Nvidia, Micron, HP Inc., Dell, Deere, and More Stocks That Explain Today\u2019s Market",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-25T18:00:57Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/seagate-technology-stocks-fall-7-180057704.html"
-    },
-    {
-      "title": "SK hynix Falls 5%, Sandisk Down 10% as Asian Chip Stocks Give Back the Huang Rally",
-      "summary": "Key TakeawaysSK hynix fell 5% today as Asian chip stocks gave back most of their rally on Jensen Huang\u2019s return to Nvidia. TrendForce lowered its 2027 memory forecasts after Chinese cloud providers cut orders.",
-      "pub_date": "2026-11-25T17:46:26Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sk-hynix-falls-5-sandisk-174626911.html"
-    },
-    {
-      "title": "Micron Stock and Other Memory Plays Will Bear the Brunt of This AI Pain",
-      "summary": "Investors in memory stocks have a tough pill to swallow. Unfortunately, it just makes sense.",
-      "pub_date": "2026-11-25T17:46:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/micron-stock-memory-ai-pain-2d9a14da?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
