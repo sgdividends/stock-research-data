@@ -1,7 +1,14 @@
 {
   "ticker": "AON",
-  "generated_at": "2026-11-27T02:35:33.364437+00:00",
+  "generated_at": "2026-11-27T13:24:01.615229+00:00",
   "items": [
+    {
+      "title": "ETFs Are Net Sellers of Aon (AON) on Nov. 25",
+      "summary": "ETFs sold a net $36.5 million of Aon shares on Wednesday, Nov. 25.",
+      "pub_date": "2026-11-27T11:02:15Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/etfs-net-sellers-aon-aon-110215985.html"
+    },
     {
       "title": "Top Research Reports for CrowdStrike, Lockheed Martin & S&P",
       "summary": "CrowdStrike's cybersecurity demand, Lockheed Martin's record backlog and S&P Global's balanced risk-reward profile headline today's top research reports.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-19T14:48:16Z",
       "source": "The Fly",
       "url": "https://finance.yahoo.com/news/meta-downgraded-mongodb-upgraded-wall-143614569.html"
-    },
-    {
-      "title": "Aon connects claims platform with Swiss Re Corporate Solutions",
-      "summary": "The two companies use application programming interfaces (APIs) to \u201cseamlessly exchange\u201d claims information between their systems.",
-      "pub_date": "2026-11-19T14:12:03Z",
-      "source": "Life Insurance International",
-      "url": "https://finance.yahoo.com/news/aon-connects-claims-platform-swiss-141203861.html"
     }
   ]
 }

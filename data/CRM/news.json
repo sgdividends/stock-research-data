@@ -1,7 +1,42 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-11-27T02:35:42.064950+00:00",
+  "generated_at": "2026-11-27T13:24:16.044100+00:00",
   "items": [
+    {
+      "title": "Salesforce, Snowflake, Four Security Software Leaders Headline Barrage Of Tech Earnings",
+      "summary": "Salesforce stock has come under selling pressure ahead of its upcoming report, but Docusign continues to hold up quite well pre-earnings.",
+      "pub_date": "2026-11-27T13:00:00Z",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/research/earnings-preview/salesforce-stock-snowflake-earnings-okta-earnings-rubrik-earnings/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Down 26% This Year, Is It Time to Buy Salesforce Stock Before Earnings?",
+      "summary": "Salesforce posted a blowout quarter last time and still watched investors dump the stock. Ahead of December 2, debt-funded buybacks, AI costs, and one stubborn growth number could decide whether history repeats.",
+      "pub_date": "2026-11-27T12:57:54Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/down-26-time-buy-salesforce-125754004.html"
+    },
+    {
+      "title": "Why Is Salesforce Stock Rising Today?",
+      "summary": "Salesforce shares rose 1. 6% in pre-market trading on Friday, recovering above the $200 level as US equity futures advanced and investors returned to enterprise software stocks following Wednesday\u2019s technology sector sell-off.",
+      "pub_date": "2026-11-27T11:42:01Z",
+      "source": "InvestorsHub",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-salesforce-stock-rising-today-114201524.html"
+    },
+    {
+      "title": "Salesforce Before Q3 Earnings Release: Should You Buy the Stock Now?",
+      "summary": "Salesforce heads into Q3 earnings with strong AI and cloud demand, but lingering license revenue weakness raises questions about its near-term prospects.",
+      "pub_date": "2026-11-27T11:04:00Z",
+      "source": "Zacks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-q3-earnings-release-buy-110400855.html"
+    },
+    {
+      "title": "Should AI Pricing Change Require Action From Salesforce Stock Investors?",
+      "summary": "Salesforce has changed pricing for its AI Help Agent, moving from per seat licenses to charging customers for each successful AI answer delivered. This shift puts more of Salesforce\u2019s revenue opportunity on actual AI usage, tying cash generation directly to how often enterprises lean on automation. The focus now turns to how Salesforce\u2019s usage based AI pricing could affect the broader investment narrative and its long term cash engine. Spot opportunities beyond Salesforce by scanning hand...",
+      "pub_date": "2026-11-27T05:11:23Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-pricing-change-require-action-051123357.html"
+    },
     {
       "title": "Salesforce wants to get paid per answer, not per worker",
       "summary": "Salesforce is rewriting how it bills, and one new product earns nothing unless the bot fixes your problem. Wall Street is watching closely.",
@@ -22,41 +57,6 @@
       "pub_date": "2026-11-26T13:44:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/br-stock-rises-27-3-134400705.html"
-    },
-    {
-      "title": "Wall Street's Insights Into Key Metrics Ahead of Salesforce (CRM) Q3 Earnings",
-      "summary": "Get a deeper insight into the potential performance of Salesforce (CRM) for the quarter ended October 2026 by going beyond Wall Street's top-and-bottom-line estimates and examining the estimates for some of its key metrics.",
-      "pub_date": "2026-11-26T13:15:02Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-streets-insights-key-metrics-131502693.html"
-    },
-    {
-      "title": "Genpact Stock Rises 20% in Three Months: Here's What You Should Know",
-      "summary": "G's share price jumps 20% in three months, fueled by growing Agentic Operations demand, expanding profit margins and a healthy liquidity position.",
-      "pub_date": "2026-11-26T13:08:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/genpact-stock-rises-20-three-130800729.html"
-    },
-    {
-      "title": "Salesforce Stock (CRM) Looks Mispriced After the AI Sell-Off",
-      "summary": "Salesforce (CRM) stock looks mispriced after the recent software sell-off, driven by fears that artificial intelligence (AI) will disrupt traditional enterprise software. The customer relationship management software provider enters this stretch from a position of financial strength, having generated $14.4 billion in free cash flow in Fiscal 2026. In the company\u2019s second-quarter Fiscal 2027 earnings release in August 2026, Chair and CEO Marc Benioff addressed the AI opportunity and pushed back a",
-      "pub_date": "2026-11-25T20:53:00Z",
-      "source": "TipRanks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-stock-crm-looks-mispriced-205300259.html"
-    },
-    {
-      "title": "Salesforce earnings to put Bank of America\u2019s growth outlook to the test",
-      "summary": "Salesforce Inc (NYSE:CRM, XETRA:FOO) remains rated \u201cbuy\u201d at Bank of America, which sees a favorable short-term outlook for the stock after a roughly 27% decline from its September peak. The comapny is set to report its fiscal 2027 third-quarter results on December 2, and the bank is looking for...",
-      "pub_date": "2026-11-25T18:59:00Z",
-      "source": "Proactive",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-earnings-put-bank-america-185900036.html"
-    },
-    {
-      "title": "Satya Nadella Says \u201cthe Floor of Cyber Attacks Has Fallen.\u201d Microsoft Just Declared Code Red After a 24-Hour Outage",
-      "summary": "Key TakeawaysMicrosoft declared a code red after a 24-hour outage hit Outlook, Teams and Copilot, and it wants to fix future global problems within an hour. Satya Nadella says AI has made cyberattacks easier and fixes must go live instantly, making reliability an ongoing cost.",
-      "pub_date": "2026-11-25T18:03:36Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/technology/articles/satya-nadella-says-floor-cyber-180336760.html"
     }
   ]
 }

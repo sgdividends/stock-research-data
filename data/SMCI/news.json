@@ -1,62 +1,62 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-11-27T02:36:33.466798+00:00",
+  "generated_at": "2026-11-27T13:25:10.879304+00:00",
   "items": [
+    {
+      "title": "Dell, Super Micro Under Pressure as Nvidia Halts Shipments to 4 Asian Countries",
+      "summary": "Server orders bound for four Southeast Asian countries are reportedly stuck, and a new U.S. export rule has a 90-day clock running. Which AI server maker has the room to wait out the delay, and which one does not?",
+      "pub_date": "2026-11-27T12:22:03Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/technology/articles/dell-super-micro-under-pressure-122203030.html"
+    },
+    {
+      "title": "Asian Data Centers Are Racing to Sell Spare Compute to US Buyers. That\u2019s Bad News for Nvidia\u2019s Next Orders",
+      "summary": "Key TakeawaysA new US chip rule cut many Asian data centers off from their Chinese customers, and Bloomberg reports they\u2019re trying to rent that spare computing power to American buyers. Each US lab that rents that capacity can mean one less new Nvidia order.",
+      "pub_date": "2026-11-27T11:51:31Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/technology/articles/asian-data-centers-racing-sell-115131824.html"
+    },
+    {
+      "title": "Singapore Reportedly In Talks With US To Retain Advanced AI Chip Access As Washington Tightens Export Restrictions",
+      "summary": "Singapore is reviewing its procedures to prevent illicit semiconductor trading and will keep working with US authorities to address their concerns.",
+      "pub_date": "2026-11-27T10:54:14Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/technology/ai/articles/singapore-reportedly-talks-us-retain-105414781.html"
+    },
+    {
+      "title": "Market Chatter: Nvidia Stops Southeast Asia Chip Sales Following Proposed US Restrictions",
+      "summary": "Nvidia (NVDA) has stopped some sales of its highest-end artificial intelligence microchips to Malays",
+      "pub_date": "2026-11-27T10:22:54Z",
+      "source": "MT Newswires",
+      "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-nvidia-stops-southeast-102254508.html"
+    },
+    {
+      "title": "Sandisk, Bloom, Marvell, AMD, Nvidia, HP, and More Stocks That Explain Today\u2019s Market",
+      "summary": "AI stocks are flying on Black Friday, with memory-card supplier Sandisk and data-center power provider Bloom Energy leading the way.",
+      "pub_date": "2026-11-27T10:22:00Z",
+      "source": "Barrons.com",
+      "url": "https://www.barrons.com/articles/stock-movers-ac5937bf?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+      "title": "Mohamed El-Erian Says Nvidia Is \u201cToo Big to Wobble.\u201d Its Customers\u2019 Data Center Plans Aren\u2019t",
+      "summary": "Key TakeawaysNVIDIA gave back about 40% of its post-Huang rally this week and trades at about 10x forward earnings, despite open backing from the Trump administration. Mohamed El-Erian says NVIDIA is \u201ctoo big to wobble,\u201d but agreed 2027 looks tough for the data center build-out.",
+      "pub_date": "2026-11-27T05:48:26Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mohamed-el-erian-says-nvidia-054826457.html"
+    },
+    {
+      "title": "Singapore yet to confirm if Nvidia has halted advanced chip shipments- deputy PM",
+      "summary": "Investing.com-- Singapore has not yet confirmed whether Nvidia has stopped supplying advanced chips to the country, Deputy Prime Minister Gan Kim Yong said on Friday.",
+      "pub_date": "2026-11-27T04:14:19Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/articles/singapore-yet-confirm-nvidia-halted-041419330.html"
+    },
     {
       "title": "Nvidia halts server shipments to 4 countries just weeks after Jensen Huang\u2019s affair with alleged spy was exposed",
       "summary": "It was unclear whether the halt would be temporary as Nvidia and its partners work through compliance requirements under new US export controls, the FT reported.",
       "pub_date": "2026-11-26T20:30:14Z",
       "source": "NY Post",
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-halts-server-shipments-4-203014469.html"
-    },
-    {
-      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
-      "pub_date": "2026-11-26T20:03:54Z",
-      "source": "TechCrunch",
-      "url": "https://finance.yahoo.com/technology/articles/nvidia-hits-pause-chip-shipments-200354308.html"
-    },
-    {
-      "title": "Super Micro Computer (SMCI) Faces Southeast Asia AI Server Disruption After Export Halt",
-      "summary": "Super Micro Computer (NasdaqGS:SMCI) faces supply disruption after Nvidia suspended advanced AI server shipments to Southeast Asia under new US export controls. The pause affects Nvidia's high end AI chips used in Supermicro systems that target large scale AI data center deployments in the region. Customers in key Southeast Asian markets that had been expanding AI data centers as an alternative to China are now exposed to delivery uncertainty. Nvidia's export control driven halt on advanced...",
-      "pub_date": "2026-11-26T18:15:32Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/super-micro-computer-smci-faces-181532913.html"
-    },
-    {
-      "title": "Big News For Nvidia Stock Fans",
-      "summary": "Dell and Super Micro buyers in Southeast Asia are told their Nvidia server orders cannot ship",
-      "pub_date": "2026-11-26T18:14:00Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/big-news-nvidia-stock-fans-181400521.html"
-    },
-    {
-      "title": "Nvidia Tells Partners to Pause Shipments to Southeast Asia",
-      "summary": "Washington recently closed a remote-access loophole that helped Chinese companies tap in to computing power in the region.",
-      "pub_date": "2026-11-26T17:06:00Z",
-      "source": "The Wall Street Journal",
-      "url": "https://www.wsj.com/tech/nvidia-tells-partners-to-pause-shipments-to-southeast-asia-5b791cb0?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "DELL's AI Server Sales Surge: Can the Growth Momentum Continue?",
-      "summary": "Dell's AI server revenues surge 291% to $22 billion, with a record $132.3 billion backlog and rising AI demand fueling growth prospects beyond fiscal 2027.",
-      "pub_date": "2026-11-26T16:01:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/dells-ai-server-sales-surge-160100190.html"
-    },
-    {
-      "title": "Nvidia halts chip shipments to south-east Asia",
-      "summary": "Nvidia has told its manufacturing partners to stop shipping servers to four south-east Asian countries, as the US steps up export controls to...",
-      "pub_date": "2026-11-26T05:00:19Z",
-      "source": "Financial Times",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-halts-chip-shipments-south-050019884.html"
-    },
-    {
-      "title": "NetApp Stock Ahead of Q2 Earnings: Should You Buy, Hold or Sell?",
-      "summary": "NTAP is poised for a fiscal Q2 earnings beat as AI-driven storage demand and cloud momentum offer support, while rising component costs threaten margins.",
-      "pub_date": "2026-11-26T14:04:00Z",
-      "source": "Zacks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netapp-stock-ahead-q2-earnings-140400029.html"
     }
   ]
 }

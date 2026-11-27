@@ -1,7 +1,14 @@
 {
   "ticker": "ABNB",
-  "generated_at": "2026-11-27T02:35:30.997890+00:00",
+  "generated_at": "2026-11-27T13:23:57.661906+00:00",
   "items": [
+    {
+      "title": "Airbnb CEO Brian Chesky says staff call him a \u2018control freak\u2019\u2014but that he learned it from Apple\u2019s Steve Jobs",
+      "summary": "Aribnb's billionaire CEO Brian Chesky called Apple\u2019s Steve Jobs a 'control freak,' before admitting Airbnb workers probably say the same about him.",
+      "pub_date": "2026-11-27T08:01:00Z",
+      "source": "Fortune",
+      "url": "https://finance.yahoo.com/small-business/articles/airbnb-ceo-brian-chesky-says-080100881.html"
+    },
     {
       "title": "Anthropic Broke Its $83 IPO Price. What Did Facebook Do Next?",
       "summary": "Anthropic (ANT) closed at $82.79 on Wednesday, Nov 25. That is 0.3% below its $83 IPO price. It is also 14.8% below its $97.17 first close, only five trading days in. So what happened to other big listings that broke this fast.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-23T17:38:56Z",
       "source": "TIKR",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-8-other-big-173856503.html"
-    },
-    {
-      "title": "Why Expedia and Booking Can Beat the Muse Test\u2014and the Stocks Can Rally",
-      "summary": "Both businesses recognize the existential threat that AI agents represent and are hard at work mitigating it.",
-      "pub_date": "2026-11-23T10:30:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/expedia-booking-stock-muse-ai-test-e4332be1?siteid=yhoof2&yptr=yahoo"
     }
   ]
 }
