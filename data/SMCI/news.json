@@ -1,7 +1,35 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-11-27T13:25:10.879304+00:00",
+  "generated_at": "2026-11-27T23:52:45.438229+00:00",
   "items": [
+    {
+      "title": "Dell Faces AI Server Shipment Halt as Nvidia Tightens Asia Restrictions",
+      "summary": "New U.S. semiconductor export controls increase regulatory uncertainty for artificial intelligence server manufacturers.",
+      "pub_date": "2026-11-27T17:12:29Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/technology/ai/articles/dell-faces-ai-server-shipment-171229537.html"
+    },
+    {
+      "title": "5 Best Up and Coming Data Center Stocks to Buy for 2027",
+      "summary": "Few corners of the market have been as volatile as data centers. Between October 6 and November 6, debt-heavy data center operators and GPU cloud providers declined 47% as tightening credit markets raised questions about how AI infrastructure projects would be funded. A second concern was added by politics. Gina Hinojosa, the Democratic governor-elect in [\u2026]",
+      "pub_date": "2026-11-27T15:31:36Z",
+      "source": "Insider Monkey",
+      "url": "https://finance.yahoo.com/technology/articles/5-best-coming-data-center-153136779.html"
+    },
+    {
+      "title": "Supermicro\u2019s $80 Billion Sales Ambition Could Change Its Stock Outlook",
+      "summary": "Supermicro posted a record quarter and raised its outlook, yet shares tumbled anyway. A federal probe now hangs over a stock priced far below its rivals, and one question decides whether the growth ever gets rewarded.",
+      "pub_date": "2026-11-27T15:03:32Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/supermicro-80-billion-sales-ambition-150332233.html"
+    },
+    {
+      "title": "Jensen Huang Said Blackwell Racks Wouldn't Fit In A 'Pocket Or Backpack' But One Has Reportedly Turned Up in Shanghai",
+      "summary": "Nvidia's GB300 NVL72 rack, containing 72 Blackwell Ultra chips, was installed at a Shanghai data center despite U.S. export restrictions, according to a Bloomberg report.",
+      "pub_date": "2026-11-27T14:29:41Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/technology/articles/jensen-huang-said-blackwell-racks-142941391.html"
+    },
     {
       "title": "Dell, Super Micro Under Pressure as Nvidia Halts Shipments to 4 Asian Countries",
       "summary": "Server orders bound for four Southeast Asian countries are reportedly stuck, and a new U.S. export rule has a 90-day clock running. Which AI server maker has the room to wait out the delay, and which one does not?",
@@ -29,34 +57,6 @@
       "pub_date": "2026-11-27T10:22:54Z",
       "source": "MT Newswires",
       "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-nvidia-stops-southeast-102254508.html"
-    },
-    {
-      "title": "Sandisk, Bloom, Marvell, AMD, Nvidia, HP, and More Stocks That Explain Today\u2019s Market",
-      "summary": "AI stocks are flying on Black Friday, with memory-card supplier Sandisk and data-center power provider Bloom Energy leading the way.",
-      "pub_date": "2026-11-27T10:22:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/stock-movers-ac5937bf?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Mohamed El-Erian Says Nvidia Is \u201cToo Big to Wobble.\u201d Its Customers\u2019 Data Center Plans Aren\u2019t",
-      "summary": "Key TakeawaysNVIDIA gave back about 40% of its post-Huang rally this week and trades at about 10x forward earnings, despite open backing from the Trump administration. Mohamed El-Erian says NVIDIA is \u201ctoo big to wobble,\u201d but agreed 2027 looks tough for the data center build-out.",
-      "pub_date": "2026-11-27T05:48:26Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/mohamed-el-erian-says-nvidia-054826457.html"
-    },
-    {
-      "title": "Singapore yet to confirm if Nvidia has halted advanced chip shipments- deputy PM",
-      "summary": "Investing.com-- Singapore has not yet confirmed whether Nvidia has stopped supplying advanced chips to the country, Deputy Prime Minister Gan Kim Yong said on Friday.",
-      "pub_date": "2026-11-27T04:14:19Z",
-      "source": "Investing.com",
-      "url": "https://finance.yahoo.com/technology/articles/singapore-yet-confirm-nvidia-halted-041419330.html"
-    },
-    {
-      "title": "Nvidia halts server shipments to 4 countries just weeks after Jensen Huang\u2019s affair with alleged spy was exposed",
-      "summary": "It was unclear whether the halt would be temporary as Nvidia and its partners work through compliance requirements under new US export controls, the FT reported.",
-      "pub_date": "2026-11-26T20:30:14Z",
-      "source": "NY Post",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-halts-server-shipments-4-203014469.html"
     }
   ]
 }

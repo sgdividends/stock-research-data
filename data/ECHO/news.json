@@ -1,7 +1,14 @@
 {
   "ticker": "ECHO",
-  "generated_at": "2026-11-27T13:24:23.005342+00:00",
+  "generated_at": "2026-11-27T23:52:09.330325+00:00",
   "items": [
+    {
+      "title": "Are Wall Street Analysts Bullish on EchoStar Stock?",
+      "summary": "EchoStar has outperformed the market over the past year, with strong analyst sentiment despite declining earnings and bearish shifts.",
+      "pub_date": "2026-11-27T12:38:28Z",
+      "source": "Barchart",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-bullish-echostar-123828735.html"
+    },
     {
       "title": "T-Mobile customers are in line for a significant network boost",
       "summary": "As the competition for wireless customers heats up, T-Mobile is making a major move that could reshape its network.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-24T01:20:43Z",
       "source": "Simply Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/echostar-echo-expands-ad-reach-012043284.html"
-    },
-    {
-      "title": "AT&T or Kimberly-Clark: Only One Gets My Dividend Dollars for the Next 20 Years",
-      "summary": "Key TakeawaysAT&T yields 5. 0% and plans to hold its dividend at $1.",
-      "pub_date": "2026-11-23T22:26:52Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/t-kimberly-clark-only-one-222652795.html"
     }
   ]
 }
