@@ -1,7 +1,14 @@
 {
   "ticker": "BAC",
-  "generated_at": "2026-11-26T18:01:47.090117+00:00",
+  "generated_at": "2026-11-27T02:35:34.395574+00:00",
   "items": [
+    {
+      "title": "BofA resets Dell stock price target by $100 after record earnings",
+      "summary": "BofA cuts its DELL price target despite a record $54.9 billion quarter, questioning AI growth sustainability.",
+      "pub_date": "2026-11-26T19:03:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-resets-dell-stock-price-190300430.html"
+    },
     {
       "title": "Bank of America issues blunt 2027 hard-landing warning on S&P 500",
       "summary": "Wall Street may be missing a bigger threat.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-25T19:12:31Z",
       "source": "Insider Monkey",
       "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-makes-billions-dividends-161231165.html"
-    },
-    {
-      "title": "Salesforce earnings to put Bank of America\u2019s growth outlook to the test",
-      "summary": "Salesforce Inc (NYSE:CRM, XETRA:FOO) remains rated \u201cbuy\u201d at Bank of America, which sees a favorable short-term outlook for the stock after a roughly 27% decline from its September peak. The comapny is set to report its fiscal 2027 third-quarter results on December 2, and the bank is looking for...",
-      "pub_date": "2026-11-25T18:59:00Z",
-      "source": "Proactive",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-earnings-put-bank-america-185900036.html"
     }
   ]
 }

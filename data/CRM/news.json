@@ -1,7 +1,14 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-11-26T18:01:59.492346+00:00",
+  "generated_at": "2026-11-27T02:35:42.064950+00:00",
   "items": [
+    {
+      "title": "Salesforce wants to get paid per answer, not per worker",
+      "summary": "Salesforce is rewriting how it bills, and one new product earns nothing unless the bot fixes your problem. Wall Street is watching closely.",
+      "pub_date": "2026-11-26T19:47:00Z",
+      "source": "TheStreet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/salesforce-wants-paid-per-answer-194700301.html"
+    },
     {
       "title": "Walmart, Amazon Face Surprising Shopping Shift",
       "summary": "A familiar holiday tradition is exposing deeper economic pressures.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-25T18:03:36Z",
       "source": "TIKR",
       "url": "https://finance.yahoo.com/technology/articles/satya-nadella-says-floor-cyber-180336760.html"
-    },
-    {
-      "title": "BlackLine (BL) Stock Is Up 7.1% Today Without Company News",
-      "summary": "BlackLine shares rose 7.1% on Wednesday, Nov. 25, without company-specific news, as the S&P 500 fell 1.7% in a tech selloff.",
-      "pub_date": "2026-11-25T17:30:17Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/blackline-bl-stock-7-1-173017885.html"
     }
   ]
 }

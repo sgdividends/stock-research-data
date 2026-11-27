@@ -1,7 +1,35 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-11-26T18:03:06.334957+00:00",
+  "generated_at": "2026-11-27T02:36:33.466798+00:00",
   "items": [
+    {
+      "title": "Nvidia halts server shipments to 4 countries just weeks after Jensen Huang\u2019s affair with alleged spy was exposed",
+      "summary": "It was unclear whether the halt would be temporary as Nvidia and its partners work through compliance requirements under new US export controls, the FT reported.",
+      "pub_date": "2026-11-26T20:30:14Z",
+      "source": "NY Post",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-halts-server-shipments-4-203014469.html"
+    },
+    {
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "pub_date": "2026-11-26T20:03:54Z",
+      "source": "TechCrunch",
+      "url": "https://finance.yahoo.com/technology/articles/nvidia-hits-pause-chip-shipments-200354308.html"
+    },
+    {
+      "title": "Super Micro Computer (SMCI) Faces Southeast Asia AI Server Disruption After Export Halt",
+      "summary": "Super Micro Computer (NasdaqGS:SMCI) faces supply disruption after Nvidia suspended advanced AI server shipments to Southeast Asia under new US export controls. The pause affects Nvidia's high end AI chips used in Supermicro systems that target large scale AI data center deployments in the region. Customers in key Southeast Asian markets that had been expanding AI data centers as an alternative to China are now exposed to delivery uncertainty. Nvidia's export control driven halt on advanced...",
+      "pub_date": "2026-11-26T18:15:32Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/super-micro-computer-smci-faces-181532913.html"
+    },
+    {
+      "title": "Big News For Nvidia Stock Fans",
+      "summary": "Dell and Super Micro buyers in Southeast Asia are told their Nvidia server orders cannot ship",
+      "pub_date": "2026-11-26T18:14:00Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/big-news-nvidia-stock-fans-181400521.html"
+    },
     {
       "title": "Nvidia Tells Partners to Pause Shipments to Southeast Asia",
       "summary": "Washington recently closed a remote-access loophole that helped Chinese companies tap in to computing power in the region.",
@@ -29,34 +57,6 @@
       "pub_date": "2026-11-26T14:04:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/netapp-stock-ahead-q2-earnings-140400029.html"
-    },
-    {
-      "title": "Nvidia Halts Server Shipments to Southeast Asia, Says Report. The Stock Can\u2019t Catch a Break.",
-      "summary": "The chip maker missed out on the best of the stunning AI comeback before Thanksgiving and now there\u2019s more worrying news for the stock.",
-      "pub_date": "2026-11-26T13:59:00Z",
-      "source": "Barrons.com",
-      "url": "https://www.barrons.com/articles/nvidia-stock-chip-server-southeast-asia-ad9b5d88?siteid=yhoof2&yptr=yahoo"
-    },
-    {
-      "title": "Is HPE's 18-Quarter Inventory High A Warning?",
-      "summary": "Dell Technologies and Hewlett Packard Enterprise both reported this week. Dell ended its October quarter with a record $132.3 billion backlog of AI server orders. HPE raised its revenue growth outlook for fiscal 2027, the year ending October 2027, to a midpoint of 31.",
-      "pub_date": "2026-11-26T11:13:13Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hpes-18-quarter-inventory-high-111313574.html"
-    },
-    {
-      "title": "Nvidia Reportedly Halts AI Server Shipments to Four Southeast Asian Countries Amid Tighter US Export Controls",
-      "summary": "Nvidia (NASDAQ:NVDA) has instructed its manufacturing partners to suspend shipments of servers containing its advanced artificial intelligence processors to four Southeast Asian countries following the introduction of tighter US export restrictions, the Financial Times reported on Thursday. Citing three people familiar with the matter, the newspaper said manufacturing partners, including Dell and Supermicro, had informed customers in Malaysia, Singapore, Thailand and Indonesia that Nvidia would",
-      "pub_date": "2026-11-26T10:59:10Z",
-      "source": "InvestorsHub",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-reportedly-halts-ai-server-105910523.html"
-    },
-    {
-      "title": "Nvidia halts chip exports to south-east Asia",
-      "summary": "Nvidia has blocked shipments of powerful AI servers to four Asian countries as Washington cracks down on Chinese access to cutting-edge American technology.",
-      "pub_date": "2026-11-26T09:17:19Z",
-      "source": "The Telegraph",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-halts-chip-exports-south-091719430.html"
     }
   ]
 }

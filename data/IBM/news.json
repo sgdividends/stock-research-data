@@ -1,7 +1,14 @@
 {
   "ticker": "IBM",
-  "generated_at": "2026-11-26T18:02:25.512674+00:00",
+  "generated_at": "2026-11-27T02:36:05.571759+00:00",
   "items": [
+    {
+      "title": "IBM Stocks Climb 3.33% as Wedbush Starts Coverage at Outperform With $276 Target",
+      "summary": "The new call came on a day IBM gained more than 3% while the Nasdaq fell and AI hardware names sold off.",
+      "pub_date": "2026-11-26T18:46:34Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ibm-stocks-climb-3-33-184634000.html"
+    },
     {
       "title": "Standard Chartered unit reports customer data breach",
       "summary": "Another data breach puts customer information at risk.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-25T13:27:00Z",
       "source": "Zacks",
       "url": "https://finance.yahoo.com/markets/stocks/articles/huang-back-nvda-ceo-quantum-132700890.html"
-    },
-    {
-      "title": "IBM and Microsoft expand Azure Compute Fleet integration",
-      "summary": "The plug-ins connect IBM\u2019s workload orchestration software with Azure Compute Fleet for compute-intensive workloads across hybrid environments.",
-      "pub_date": "2026-11-25T11:43:37Z",
-      "source": "Verdict",
-      "url": "https://finance.yahoo.com/news/ibm-microsoft-expand-azure-compute-114337558.html"
     }
   ]
 }

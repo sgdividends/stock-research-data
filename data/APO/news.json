@@ -1,7 +1,14 @@
 {
   "ticker": "APO",
-  "generated_at": "2026-11-26T18:01:44.586686+00:00",
+  "generated_at": "2026-11-27T02:35:33.759328+00:00",
   "items": [
+    {
+      "title": "Ken Griffin's Hedge Fund Makes Major Capital Decision",
+      "summary": "One of Wall Street's biggest winners is exercising restraint.",
+      "pub_date": "2026-11-26T18:25:16Z",
+      "source": "GuruFocus.com",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ken-griffins-hedge-fund-makes-182516936.html"
+    },
     {
       "title": "China added nearly 10 times more power capacity than the US in 2025 as the AI race heats up",
       "summary": "While the US fights to maintain an edge in computing advancement, China has pulled far ahead in power capacity generation.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-24T15:28:05Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/economy/policy/articles/bill-ackman-says-fed-another-152805015.html"
-    },
-    {
-      "title": "Smith + Nephew names new CFO",
-      "summary": "Nick Alexos will join the orthopedics company later this month after holding CFO roles at Univar Solutions and Dentsply Sirona.",
-      "pub_date": "2026-11-23T16:28:15Z",
-      "source": "MedTech Dive",
-      "url": "https://finance.yahoo.com/healthcare/articles/smith-nephew-names-cfo-162815322.html"
     }
   ]
 }
