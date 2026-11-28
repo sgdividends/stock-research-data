@@ -1,7 +1,14 @@
 {
   "ticker": "DDOG",
-  "generated_at": "2026-11-27T23:52:07.838725+00:00",
+  "generated_at": "2026-11-28T05:53:56.495365+00:00",
   "items": [
+    {
+      "title": "Are recent outages bad for software?",
+      "summary": "Investing.com -- Recent system outages could weigh on consumption-based infrastructure software companies heading into 2027, though the broader software sector appears relatively insulated, according to Bernstein.",
+      "pub_date": "2026-11-28T03:39:47Z",
+      "source": "Investing.com",
+      "url": "https://finance.yahoo.com/technology/articles/recent-outages-bad-software-033947446.html"
+    },
     {
       "title": "Palantir Stock (PLTR) Has No Room for Error at This Valuation",
       "summary": "Palantir Technologies, Inc. (PLTR) stock has little room for error at its current valuation, despite the company\u2019s strong growth. The Florida-based software platform developer has lost 8% of its market value so far this year, even after delivering standout Q3 results and raising full-year guidance across key financial metrics. Yet following that pullback, shares still trade at a steep forward P/E multiple of 96x. Although Palantir\u2019s rapid top-line expansion justifies a premium valuation, a close",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-24T06:00:18Z",
       "source": "TIKR",
       "url": "https://finance.yahoo.com/markets/stocks/articles/cloudflare-just-dropped-11-month-060018216.html"
-    },
-    {
-      "title": "Did The Market Read Datadog Stock Right?",
-      "summary": "Today's big story: Reported SEC Probe: Could Nvidia Stock Fall To $92.",
-      "pub_date": "2026-11-23T19:56:49Z",
-      "source": "Trefis",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/did-market-read-datadog-stock-195649587.html"
     }
   ]
 }

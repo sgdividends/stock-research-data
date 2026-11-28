@@ -1,7 +1,14 @@
 {
   "ticker": "JPM",
-  "generated_at": "2026-11-27T23:52:21.919702+00:00",
+  "generated_at": "2026-11-28T05:54:30.184536+00:00",
   "items": [
+    {
+      "title": "JPMorgan Plans a Private Club for Well-Heeled Clients in a 1930s Branch",
+      "summary": "The mansion-like historic structure is being renovated for lounges and a dining room, kitchen and bar, city documents show.",
+      "pub_date": "2026-11-28T00:00:00Z",
+      "source": "The Wall Street Journal",
+      "url": "https://www.wsj.com/finance/banking/jpmorgan-plans-a-private-club-for-well-heeled-clients-in-a-1930s-branch-c609a03c?siteid=yhoof2&yptr=yahoo"
+    },
     {
       "title": "JPMorgan Chase & Co. (JPM) Outpaces Stock Market Gains: What You Should Know",
       "summary": "In the closing of the recent trading day, JPMorgan Chase & Co. (JPM) stood at $322.96, denoting a +1.96% move from the preceding trading day.",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-27T14:47:52Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/dividend-portfolio-takes-pay-85-144752660.html"
-    },
-    {
-      "title": "JPMorgan Flags Major Turning Point for AI Stocks",
-      "summary": "The technology spending boom could reach a critical crossroads.",
-      "pub_date": "2026-11-27T14:33:59Z",
-      "source": "GuruFocus.com",
-      "url": "https://finance.yahoo.com/technology/ai/articles/jpmorgan-flags-major-turning-point-143359163.html"
     }
   ]
 }

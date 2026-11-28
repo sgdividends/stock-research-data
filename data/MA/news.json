@@ -1,7 +1,14 @@
 {
   "ticker": "MA",
-  "generated_at": "2026-11-27T23:52:26.832321+00:00",
+  "generated_at": "2026-11-28T05:54:38.466124+00:00",
   "items": [
+    {
+      "title": "US Fintech Weekly: Payment Networks Rally Into Black Friday As Wedbush Backs Brokerages",
+      "summary": "Holiday retail momentum lifted payment infrastructure stocks during the Thanksgiving-shortened week of November 23\u201327, 2026.",
+      "pub_date": "2026-11-28T00:01:26Z",
+      "source": "Stocktwits",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-fintech-weekly-payment-networks-000126510.html"
+    },
     {
       "title": "Billionaire Andreas Halvorsen\u2019s Viking Opened an $818 Million Mastercard Stake While Cutting Its Visa Shares 32.6%",
       "summary": "One of the savviest hedge funds just bought a giant new Mastercard position while selling down Visa, yet it never abandoned the rival. What does that split signal for retirement investors holding either card network?",
@@ -50,13 +57,6 @@
       "pub_date": "2026-11-26T18:37:21Z",
       "source": "GuruFocus.com",
       "url": "https://finance.yahoo.com/markets/stocks/articles/mastercard-stocks-rise-1-94-183721566.html"
-    },
-    {
-      "title": "Mastercard (MA) Signs Up For Live AI Commerce Pilot Testing",
-      "summary": "Mastercard (NYSE:MA) and Debia signed a Memorandum of Understanding to pilot AI driven agentic commerce solutions. The pilot links Mastercard's global payment network with Debia's merchant ecosystem for AI powered consumer and merchant interactions. The collaboration aims to test how AI agents can handle discovery, ordering, and payment flows across digital channels in live environments. This Mastercard and Debia agentic commerce trial aligns with broader themes our research has surfaced on...",
-      "pub_date": "2026-11-26T17:09:54Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/mastercard-ma-signs-live-ai-170954794.html"
     }
   ]
 }
