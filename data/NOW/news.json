@@ -1,7 +1,21 @@
 {
   "ticker": "NOW",
-  "generated_at": "2026-11-28T05:54:49.234474+00:00",
+  "generated_at": "2026-11-28T16:34:18.548983+00:00",
   "items": [
+    {
+      "title": "ServiceNow\u2019s Market Cap Just Fell Below $100 Billion",
+      "summary": "ServiceNow still grows revenue at 20% and throws off billions in free cash flow, yet its stock trades near its cheapest levels in 13 years. One backlog number spooked the market, and the real question is whether the fear is justified.",
+      "pub_date": "2026-11-28T15:08:05Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/servicenow-market-cap-just-fell-150805516.html"
+    },
+    {
+      "title": "Is Erste Group Wrong to Give Up on Salesforce? Wall Street Still Sees $282",
+      "summary": "Key TakeawaysErste Group downgraded Salesforce to Hold from Buy on Nov. 27 because its revenue and operating profit are growing more slowly than its rivals\u2019.",
+      "pub_date": "2026-11-28T07:51:25Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/erste-group-wrong-salesforce-wall-075125169.html"
+    },
     {
       "title": "Palantir Stock (PLTR) Has No Room for Error at This Valuation",
       "summary": "Palantir Technologies, Inc. (PLTR) stock has little room for error at its current valuation, despite the company\u2019s strong growth. The Florida-based software platform developer has lost 8% of its market value so far this year, even after delivering standout Q3 results and raising full-year guidance across key financial metrics. Yet following that pullback, shares still trade at a steep forward P/E multiple of 96x. Although Palantir\u2019s rapid top-line expansion justifies a premium valuation, a close",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-27T12:57:54Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/down-26-time-buy-salesforce-125754004.html"
-    },
-    {
-      "title": "ServiceNow (NOW) Stock May Be Fully Priced As AI Risks Hit Software",
-      "summary": "ServiceNow has seen its share price slide sharply over the past year, even as debate around AI, cybersecurity and workflow automation has intensified. With the stock under pressure, the key issue for you is whether today\u2019s valuation is still supported by the company\u2019s earnings power. Over the past 12 months the share price has fallen 43.3%, which puts the spotlight squarely on whether the current earnings base can justify where the stock trades now. Recent headlines highlight both AI...",
-      "pub_date": "2026-11-27T09:09:02Z",
-      "source": "Simply Wall St.",
-      "url": "https://finance.yahoo.com/technology/ai/articles/servicenow-now-stock-may-fully-090902140.html"
-    },
-    {
-      "title": "Salesforce Stock (CRM) Looks Mispriced After the AI Sell-Off",
-      "summary": "Salesforce (CRM) stock looks mispriced after the recent software sell-off, driven by fears that artificial intelligence (AI) will disrupt traditional enterprise software. The customer relationship management software provider enters this stretch from a position of financial strength, having generated $14.4 billion in free cash flow in Fiscal 2026. In the company\u2019s second-quarter Fiscal 2027 earnings release in August 2026, Chair and CEO Marc Benioff addressed the AI opportunity and pushed back a",
-      "pub_date": "2026-11-25T20:53:00Z",
-      "source": "TipRanks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-stock-crm-looks-mispriced-205300259.html"
     }
   ]
 }

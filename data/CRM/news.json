@@ -1,13 +1,27 @@
 {
   "ticker": "CRM",
-  "generated_at": "2026-11-28T05:53:52.270298+00:00",
+  "generated_at": "2026-11-28T16:33:30.444452+00:00",
   "items": [
     {
-      "title": "Dow Jones Futures: Stock Market Makes Bullish Move, Tesla Leads 7 New Buys; Nvidia's Jensen Huang Heads To Capitol Hill",
+      "title": "Black Friday's hottest new shopper? Artificial intelligence.",
+      "summary": "It's the year of AI agent shopping!",
+      "pub_date": "2026-11-28T15:36:55Z",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/markets/stocks/article/black-fridays-hottest-new-shopper-artificial-intelligence-153655882.html"
+    },
+    {
+      "title": "Dow Jones Futures: What To Do After Big Market Move; Nvidia's Jensen Huang Heads To Capitol Hill",
       "summary": "In a wild, powerful market week, Tesla stock leads new buys. Nvidia's Jensen Huang is heading to Capitol Hill.",
-      "pub_date": "2026-11-27T19:54:29Z",
+      "pub_date": "2026-11-28T14:13:00Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-bullish-move-tesla-new-buys-nvidia-ceo-jensen-huang-congress/?src=A00220&yptr=yahoo"
+    },
+    {
+      "title": "Is Erste Group Wrong to Give Up on Salesforce? Wall Street Still Sees $282",
+      "summary": "Key TakeawaysErste Group downgraded Salesforce to Hold from Buy on Nov. 27 because its revenue and operating profit are growing more slowly than its rivals\u2019.",
+      "pub_date": "2026-11-28T07:51:25Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/erste-group-wrong-salesforce-wall-075125169.html"
     },
     {
       "title": "Amazon Stock Gets Black Friday Boost As Analysts Size Up Holiday Spending",
@@ -43,20 +57,6 @@
       "pub_date": "2026-11-27T13:00:00Z",
       "source": "Investor's Business Daily",
       "url": "https://www.investors.com/research/earnings-preview/salesforce-stock-snowflake-earnings-okta-earnings-rubrik-earnings/?src=A00220&yptr=yahoo"
-    },
-    {
-      "title": "Down 26% This Year, Is It Time to Buy Salesforce Stock Before Earnings?",
-      "summary": "Salesforce posted a blowout quarter last time and still watched investors dump the stock. Ahead of December 2, debt-funded buybacks, AI costs, and one stubborn growth number could decide whether history repeats.",
-      "pub_date": "2026-11-27T12:57:54Z",
-      "source": "24/7 Wall St.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/down-26-time-buy-salesforce-125754004.html"
-    },
-    {
-      "title": "Why Is Salesforce Stock Rising Today?",
-      "summary": "Salesforce shares rose 1. 6% in pre-market trading on Friday, recovering above the $200 level as US equity futures advanced and investors returned to enterprise software stocks following Wednesday\u2019s technology sector sell-off.",
-      "pub_date": "2026-11-27T11:42:01Z",
-      "source": "InvestorsHub",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-salesforce-stock-rising-today-114201524.html"
     }
   ]
 }

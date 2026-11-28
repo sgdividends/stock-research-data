@@ -1,7 +1,28 @@
 {
   "ticker": "SMCI",
-  "generated_at": "2026-11-28T05:55:06.797411+00:00",
+  "generated_at": "2026-11-28T16:34:35.523236+00:00",
   "items": [
+    {
+      "title": "Dell Stock Shrugged Off the Nvidia Shipment Pause Reports and Jumped 6.7%",
+      "summary": "Nvidia reportedly told Dell to hold shipments to four Asian countries, yet investors piled in anyway. One price level on Monday will reveal whether the market sees a brief hiccup or a lasting break in the AI buildout.",
+      "pub_date": "2026-11-28T14:32:00Z",
+      "source": "24/7 Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-stock-shrugged-off-nvidia-143200803.html"
+    },
+    {
+      "title": "Dan Ives Calls Nvidia\u2019s China and Asia Exposure a \u201cContainable 15% to 20%\u201d of Revenue. Huang Faces Congress Next Week",
+      "summary": "Key TakeawaysDan Ives called China and the Southeast Asia loophole a \u201ccontainable\u201d 15% to 20% of Nvidia\u2019s revenue. Even after losing a fifth of its earnings, Nvidia would trade at about 13x, against a five-year average of 35x.",
+      "pub_date": "2026-11-28T11:46:08Z",
+      "source": "TIKR",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dan-ives-calls-nvidia-china-114608796.html"
+    },
+    {
+      "title": "Super Micro Computer Fell While Profit Rose",
+      "summary": "If you bought into Super Micro Computer as AI enthusiasm surged and analysts talked up its Data Center Building Block Solutions, you probably expected a smoother ride. Holding Super Micro Computer over the past year would have meant a 29.8% loss, including dividends. If you had committed fresh capital back on 27 November 2025, how far did that thesis really account for customer concentration, export-control risk, and the gap between forecast demand and actual deployment timing? Super Micro...",
+      "pub_date": "2026-11-28T09:07:55Z",
+      "source": "Simply Wall St.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-computer-fell-while-090755957.html"
+    },
     {
       "title": "Dell Faces AI Server Shipment Halt as Nvidia Tightens Asia Restrictions",
       "summary": "New U.S. semiconductor export controls increase regulatory uncertainty for artificial intelligence server manufacturers.",
@@ -36,27 +57,6 @@
       "pub_date": "2026-11-27T12:22:03Z",
       "source": "24/7 Wall St.",
       "url": "https://finance.yahoo.com/technology/articles/dell-super-micro-under-pressure-122203030.html"
-    },
-    {
-      "title": "Asian Data Centers Are Racing to Sell Spare Compute to US Buyers. That\u2019s Bad News for Nvidia\u2019s Next Orders",
-      "summary": "Key TakeawaysA new US chip rule cut many Asian data centers off from their Chinese customers, and Bloomberg reports they\u2019re trying to rent that spare computing power to American buyers. Each US lab that rents that capacity can mean one less new Nvidia order.",
-      "pub_date": "2026-11-27T11:51:31Z",
-      "source": "TIKR",
-      "url": "https://finance.yahoo.com/technology/articles/asian-data-centers-racing-sell-115131824.html"
-    },
-    {
-      "title": "Singapore Reportedly In Talks With US To Retain Advanced AI Chip Access As Washington Tightens Export Restrictions",
-      "summary": "Singapore is reviewing its procedures to prevent illicit semiconductor trading and will keep working with US authorities to address their concerns.",
-      "pub_date": "2026-11-27T10:54:14Z",
-      "source": "Stocktwits",
-      "url": "https://finance.yahoo.com/technology/ai/articles/singapore-reportedly-talks-us-retain-105414781.html"
-    },
-    {
-      "title": "Market Chatter: Nvidia Stops Southeast Asia Chip Sales Following Proposed US Restrictions",
-      "summary": "Nvidia (NVDA) has stopped some sales of its highest-end artificial intelligence microchips to Malays",
-      "pub_date": "2026-11-27T10:22:54Z",
-      "source": "MT Newswires",
-      "url": "https://finance.yahoo.com/technology/ai/articles/market-chatter-nvidia-stops-southeast-102254508.html"
     }
   ]
 }
